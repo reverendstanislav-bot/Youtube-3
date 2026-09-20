@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.zip
+*.rar
+*.7z
+renders/
+exports/
+cache/
