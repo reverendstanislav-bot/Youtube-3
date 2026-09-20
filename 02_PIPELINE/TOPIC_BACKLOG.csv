@@ -1,0 +1,7 @@
+topic_id,pillar,company_or_creator,working_title,recognizability,money_stakes,conflict,legal_mechanism,hidden_problem,consequence,primary_source_availability,timeliness,competition,visual_potential,story_potential,risk_level,video_id,status,notes
+T001,BUSINESS_LAWSUIT,PSA,"The $3 Billion Lawsuit That Could Change PSA Card Grading",TBD,TBD,TBD,LAWSUIT,TBD,TBD,TBD,CURRENT,TBD,TBD,TBD,TBD,,SHORTLISTED,"Primary launch candidate; re-verify exact amount and posture before qualification lock."
+T002,CONTRACT_CREATOR,"NautiStyles / Bering Yachts","The $5 Million Yacht Lawsuit Behind NautiStyles",TBD,TBD,TBD,CONTRACT_LAWSUIT,TBD,TBD,TBD,CURRENT,TBD,TBD,TBD,TBD,,SHORTLISTED,"Creator + luxury + contract."
+T003,COPYRIGHT_AI,Suno,"Suno's Copyright Problem Just Got Much Bigger",HIGH,TBD,TBD,COPYRIGHT,TBD,TBD,TBD,CURRENT,TBD,TBD,TBD,TBD,,SHORTLISTED,"Alt: The Copyright War That Could Break AI Music."
+T004,BUSINESS_LAWSUIT,"Valve / Steam","Steam Tried to Stop Thousands of Claims. Then This Happened.",HIGH,TBD,TBD,ARBITRATION_LITIGATION,TBD,TBD,TBD,CURRENT,TBD,TBD,TBD,TBD,,SHORTLISTED,"Procedural posture must be verified."
+T005,TRADE_SECRETS,"Waymo / Uber","The Engineer Who Took 14,000 Files From Google",HIGH,TBD,TBD,TRADE_SECRETS,TBD,TBD,HIGH,EVERGREEN,HIGH,HIGH,HIGH,MEDIUM,,SHORTLISTED,"Exact characterization must follow primary record."
+T006,COPYRIGHT_AI,"UMG / DistroKid","UMG vs DistroKid / AI Music Copyright",HIGH,TBD,TBD,COPYRIGHT,TBD,TBD,TBD,TIMELY,TBD,TBD,TBD,TBD,,RESERVE,"Requalify for freshness if activated."
