@@ -1,18 +1,25 @@
-# VIDEO {{VIDEO_ID}} — State
+# VIDEO 001 — State
 
 ## Goal
-{{TITLE}}
+**The PSA Lawsuit That Could Change Card Grading**
 
 ## Current
-- Status: CANDIDATE
-- Stage: BRIEF
-- Locked artifacts: none
+- Status: IN_PREPARATION
+- Stage: 01_EVIDENCE_RESEARCH
+- Stage 00 Topic Qualification: PASS / GO
+- Qualification score: 92.4 / 100
+- Locked artifacts: topic qualification only
+
+## Packaging guardrail
+"$3 billion" is not a judgment, settlement or established liability. It is a potential treble-damages framing tied to alleged base losses and remains a candidate angle, not a locked factual label.
 
 ## Next action
-Complete `00_BRIEF.md` and `00_TOPIC_QUALIFICATION.md`.
+Acquire and paragraph-map the filed Funk complaint, pull the current federal docket, verify PSA/Collectors response, and expand SOURCE_INDEX / CLAIMS_LEDGER / CASE_EVENT_LEDGER before any script writing.
 
 ## Blockers
-None recorded.
+- Full primary complaint not yet paragraph-mapped.
+- Current primary docket not yet fully captured.
+- Central grading/fraud allegations remain allegations and are not cleared as facts.
 
 ## Agent handoff
-Read manifest first. Keep all episode-specific work in this folder. Manifest is authoritative; update this handoff after material stage changes.
+Read manifest first. Stage 01 is active. No Script V1 work until Evidence Research and Case/Story Map gates pass.

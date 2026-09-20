@@ -1,19 +1,22 @@
 schema_version: "1.0"
-video_id: "{{VIDEO_ID}}"
-slug: "{{SLUG}}"
-title: "{{TITLE}}"
-pillar: ""
-priority: ""
-status: "CANDIDATE"
-created: "{{CREATED_AT}}"
-last_updated: "{{CREATED_AT}}"
-current_stage: "BRIEF"
-next_action: "Complete 00_BRIEF.md and 00_TOPIC_QUALIFICATION.md"
-blockers: []
+video_id: "001"
+slug: "PSA_GRADING_LAWSUIT"
+title: "The PSA Lawsuit That Could Change Card Grading"
+pillar: "BUSINESS_LAWSUIT"
+priority: "1"
+status: "IN_PREPARATION"
+created: "2026-09-20"
+last_updated: "2026-09-20"
+current_stage: "01_EVIDENCE_RESEARCH"
+next_action: "Acquire and paragraph-map the Funk complaint; pull current docket; verify PSA/Collectors response; expand evidence ledgers."
+blockers:
+  - "Filed complaint full text not yet paragraph-mapped."
+  - "Current primary docket after initial filing not yet fully captured."
+  - "Central grading/fraud allegations remain unproven and require claim-level sourcing."
 
 stages:
-  stage_00_topic_qualification: "NOT_STARTED"
-  stage_01_evidence_research: "NOT_STARTED"
+  stage_00_topic_qualification: "PASSED"
+  stage_01_evidence_research: "IN_PROGRESS"
   stage_02_case_story_map: "NOT_STARTED"
   stage_03_script_v1: "NOT_STARTED"
   stage_04_fact_legal_review: "NOT_STARTED"
@@ -34,7 +37,7 @@ stages:
   stage_19_post_publish_analytics: "NOT_STARTED"
 
 locks:
-  topic_qualified: false
+  topic_qualified: true
   evidence_research: false
   case_story_map: false
   final_script: false
@@ -51,8 +54,8 @@ evidence:
   source_index: "SOURCE_INDEX.csv"
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
-  last_case_status_refresh: ""
-  unresolved_material_claims: 0
+  last_case_status_refresh: "2026-09-20"
+  unresolved_material_claims: 5
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -68,8 +71,8 @@ assets:
   external_storage_root: ""
 
 qa:
-  topic: "NOT_RUN"
-  research: "NOT_RUN"
+  topic: "PASS"
+  research: "IN_PROGRESS"
   fact_legal: "NOT_RUN"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
