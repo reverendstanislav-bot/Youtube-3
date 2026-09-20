@@ -1,2 +1,0 @@
-event_id,date,case_name,docket_number,court_or_agency,event_type,party,description,outcome,source_id,appeal_status,current_status,notes
-EVT001,2026-07-28,"Funk v. Collectors Universe Inc. et al.","1:26-cv-02933","U.S. District Court for the District of Maryland",COMPLAINT_FILED,"Nicholas Funk","Federal complaint filed against Collectors Universe Inc. d/b/a PSA and Collectors Holdings Inc.","Case opened; allegations not adjudicated.",SRC001;SRC002,N/A,ACTIVE,"Initial event. Full complaint paragraph map pending."
