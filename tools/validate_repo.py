@@ -7,12 +7,29 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 VIDEOS = ROOT / "03_VIDEOS"
 INDEX = ROOT / "02_PIPELINE" / "VIDEO_INDEX.csv"
+BACKLOG = ROOT / "02_PIPELINE" / "TOPIC_BACKLOG.csv"
 
 ALLOWED_TOP = {".github","00_FOUNDATION","00_CORE","01_CHANNEL","02_PIPELINE","03_VIDEOS","04_SHARED","tools"}
 ROOT_REQUIRED = {"README.md","AGENTS.md",".gitignore"}
-FOUNDATION_REQUIRED = {"README.md","CHANNEL_LOCKS.md","POSITIONING.md","CONTENT_PILLARS.md","LAUNCH_BATCH.csv","SOURCE_HIERARCHY.md","LEGAL_LANGUAGE_LOCKS.md","REVIEW_METRICS.md","VOICE_LOCK.md"}
-CORE_REQUIRED = {"AGENT_PROTOCOL.md","AGENT_PLAYBOOK.md","REPOSITORY_CONTRACT.md","NAMING.md","STATUS_SCHEMA.md","VIDEO_SCHEMA.md","LEGAL_STATUS_SCHEMA.md","SOURCE_SCHEMA.md","QUALITY_GATES.md","PRODUCTION_PIPELINE.md","TASK_RECIPES.md","STORAGE_POLICY.md","YOUTUBE_LAUNCH_SYSTEM.md","PUBLISH_ANALYTICS_SCHEMA.md"}
-CHANNEL_REQUIRED = {"CHANNEL_BIBLE.md","STORYTELLING_BIBLE.md","FACT_CHECK_POLICY.md","LEGAL_EDITORIAL_POLICY.md","VISUAL_BIBLE.md","VOICE_BIBLE.md","TITLE_SYSTEM.md","THUMBNAIL_SYSTEM.md","REFERENCE_CHANNELS.csv"}
+FOUNDATION_REQUIRED = {
+    "README.md","CHANNEL_LOCKS.md","POSITIONING.md","CONTENT_PILLARS.md",
+    "TOPIC_QUALIFICATION_LOCK.md","LAUNCH_BATCH.csv","SOURCE_HIERARCHY.md",
+    "LEGAL_LANGUAGE_LOCKS.md","REVIEW_METRICS.md","BRAND_LOCK.md","VOICE_LOCK.md"
+}
+CORE_REQUIRED = {
+    "AGENT_PROTOCOL.md","AGENT_PLAYBOOK.md","REPOSITORY_CONTRACT.md","NAMING.md",
+    "STATUS_SCHEMA.md","VIDEO_SCHEMA.md","LEGAL_STATUS_SCHEMA.md","SOURCE_SCHEMA.md",
+    "TOPIC_QUALIFICATION_SCHEMA.md","CHANNEL_OPERATING_MAP.md","QUALITY_GATES.md",
+    "PRODUCTION_PIPELINE.md","TASK_RECIPES.md","STORAGE_POLICY.md",
+    "YOUTUBE_LAUNCH_SYSTEM.md","PUBLISH_ANALYTICS_SCHEMA.md"
+}
+CHANNEL_REQUIRED = {
+    "CHANNEL_BIBLE.md","STORYTELLING_BIBLE.md","FACT_CHECK_POLICY.md",
+    "LEGAL_EDITORIAL_POLICY.md","COMPETITOR_RESEARCH_POLICY.md",
+    "SOURCE_CAPTURE_GUIDE.md","CLAIMS_WORDING_GUIDE.md","CHANNEL_LAUNCH_STRATEGY.md",
+    "VISUAL_BIBLE.md","VOICE_BIBLE.md","TITLE_SYSTEM.md","THUMBNAIL_SYSTEM.md",
+    "REFERENCE_CHANNELS.csv"
+}
 PIPELINE_ALLOWED = {"README.md","TOPIC_BACKLOG.csv","VIDEO_INDEX.csv"}
 SHARED_REQUIRED = {"README.md","ASSET_REGISTRY.csv","PROMPT_COMPONENTS.md","DOCUMENT_VISUAL_POLICY.md","GRAPHICS_COMPONENTS.md"}
 TEMPLATE_REQUIRED = {
@@ -26,6 +43,13 @@ TEMPLATE_REQUIRED = {
 "STATE.md","manifest.yaml","VERSION_LOG.md","QA_LEDGER.csv","ASSET_MANIFEST.csv","QC_CHECKLIST.md"
 }
 VIDEO_LOCAL = {"SOURCE_INDEX.csv","CLAIMS_LEDGER.csv","CASE_EVENT_LEDGER.csv","QA_LEDGER.csv","ASSET_MANIFEST.csv","SCENE_TIMELINE.csv","13_GENERATION_QC.csv","13_SOURCE_VISUAL_QC.csv"}
+BACKLOG_REQUIRED_FIELDS = {
+    "topic_id","pillar","company_or_creator","working_title","recognizability",
+    "money_stakes","conflict","legal_mechanism","hidden_problem","consequence",
+    "primary_source_availability","timeliness","competition","visual_potential",
+    "story_potential","risk_level","qualification_score","hard_gate_status",
+    "qualification_decision","last_checked","video_id","status","notes"
+}
 
 def scalar(text: str, key: str) -> str:
     m = re.search(rf'^{re.escape(key)}:\s*["\']?([^"\'\n]+)["\']?\s*$', text, re.M)
@@ -58,6 +82,19 @@ def main() -> int:
     else:
         extras=sorted(p.name for p in pipe.iterdir() if p.name not in PIPELINE_ALLOWED)
         if extras: errors.append("02_PIPELINE contains workspace files: "+", ".join(extras))
+
+    if not BACKLOG.is_file():
+        errors.append("Missing TOPIC_BACKLOG.csv")
+    else:
+        with BACKLOG.open(newline="",encoding="utf-8") as f:
+            reader=csv.DictReader(f)
+            fields=set(reader.fieldnames or [])
+            missing_fields=sorted(BACKLOG_REQUIRED_FIELDS-fields)
+            if missing_fields: errors.append("TOPIC_BACKLOG missing fields: "+", ".join(missing_fields))
+            backlog_rows=list(reader)
+        topic_ids=[(r.get("topic_id") or "").strip() for r in backlog_rows]
+        if len(topic_ids)!=len(set(topic_ids)):
+            errors.append("Duplicate topic_id in TOPIC_BACKLOG")
 
     template=VIDEOS/"_VIDEO_TEMPLATE"
     if not template.is_dir(): errors.append("Missing _VIDEO_TEMPLATE")
