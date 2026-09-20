@@ -1,0 +1,84 @@
+schema_version: "1.0"
+video_id: "{{VIDEO_ID}}"
+slug: "{{SLUG}}"
+title: "{{TITLE}}"
+pillar: ""
+priority: ""
+status: "CANDIDATE"
+created: "{{CREATED_AT}}"
+last_updated: "{{CREATED_AT}}"
+current_stage: "BRIEF"
+next_action: "Complete 00_BRIEF.md and 00_TOPIC_QUALIFICATION.md"
+blockers: []
+
+stages:
+  stage_00_topic_qualification: "NOT_STARTED"
+  stage_01_evidence_research: "NOT_STARTED"
+  stage_02_case_story_map: "NOT_STARTED"
+  stage_03_script_v1: "NOT_STARTED"
+  stage_04_fact_legal_review: "NOT_STARTED"
+  stage_05_script_revision: "NOT_STARTED"
+  stage_06_performance_review: "NOT_STARTED"
+  stage_07_script_lock: "NOT_STARTED"
+  stage_08_voice_script: "NOT_STARTED"
+  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_10_audio_master: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "NOT_STARTED"
+  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_14_graphics_documents_music_sfx: "NOT_STARTED"
+  stage_15_assembly_edit: "NOT_STARTED"
+  stage_16_final_fact_legal_refresh: "NOT_STARTED"
+  stage_17_packaging: "NOT_STARTED"
+  stage_18_upload_prepublication: "NOT_STARTED"
+  stage_19_post_publish_analytics: "NOT_STARTED"
+
+locks:
+  topic_qualified: false
+  evidence_research: false
+  case_story_map: false
+  final_script: false
+  voice_input: false
+  audio_master: false
+  visual_timeline: false
+  visual_assets: false
+  edit_master: false
+  final_fact_legal_refresh: false
+  packaging: false
+  release_ready: false
+
+evidence:
+  source_index: "SOURCE_INDEX.csv"
+  claims_ledger: "CLAIMS_LEDGER.csv"
+  case_event_ledger: "CASE_EVENT_LEDGER.csv"
+  last_case_status_refresh: ""
+  unresolved_material_claims: 0
+
+voice:
+  channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
+  voice_id_or_preset: ""
+
+audio:
+  runtime_sec: ""
+  file_or_uri: ""
+  checksum: ""
+
+assets:
+  manifest: "ASSET_MANIFEST.csv"
+  external_storage_root: ""
+
+qa:
+  topic: "NOT_RUN"
+  research: "NOT_RUN"
+  fact_legal: "NOT_RUN"
+  performance: "NOT_RUN"
+  visual: "NOT_RUN"
+  edit: "NOT_RUN"
+  final_refresh: "NOT_RUN"
+  packaging: "NOT_RUN"
+  prepublication: "NOT_RUN"
+
+publish:
+  scheduled_at: ""
+  published_at: ""
+  youtube_url: ""
