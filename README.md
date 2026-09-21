@@ -1,9 +1,11 @@
-# YouTube 3 — Business Stories Where Money & Law Collide
+# WHAT IT COST — YouTube Production OS
 
 Agent-first production operating system for an English-language, US-focused, faceless long-form documentary channel.
 
+**Tagline:** Where business decisions get expensive.
+
 ## Positioning
-**The hidden lawsuits, contracts and scandals behind companies, creators and products people already know.**
+**The hidden lawsuits, deals and decisions behind companies, creators and products people already know.**
 
 Law is the mechanism of the story, not the lecture topic.
 
