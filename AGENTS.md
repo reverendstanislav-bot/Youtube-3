@@ -34,3 +34,24 @@ Use maker → independent critics → lead synthesis for research, legal/fact QA
 
 ## Material changes
 Update manifest, STATE, VERSION_LOG and all affected ledgers after material changes.
+
+
+## Spend approval — HARD LOCK
+Any action that can consume paid credits, tokens, generations, API balance, trial allowance or other billable quota requires the owner's explicit approval **before submission**.
+
+This applies to all paid or quota-consuming generation/action tools, including audio/TTS, image, video and external AI services.
+
+Allowed without approval:
+- read-only discovery/listing;
+- previews already provided by a service;
+- read-only balance checks;
+- cost estimates that explicitly do not submit a generation/job.
+
+Required before any billable submission:
+1. identify the exact provider/model/tool;
+2. state the exact or estimated cost/credit usage when available;
+3. state how many jobs/generations will be submitted;
+4. receive explicit owner approval for that spend.
+
+Do not interpret approval to browse/select voices as approval to generate paid voice tests.
+Do not batch paid tests speculatively.

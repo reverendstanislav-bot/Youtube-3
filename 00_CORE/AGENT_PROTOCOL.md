@@ -34,3 +34,19 @@ After material work update:
 - `ASSET_MANIFEST.csv` as relevant.
 
 Run the stage-aware audit before advancing.
+
+
+## Paid-generation approval gate
+
+**HARD RULE:** never submit a job that may spend credits/tokens/paid quota without explicit owner approval for that specific spend.
+
+Before submission:
+- name provider/model;
+- give cost estimate when available;
+- give number of proposed jobs;
+- wait for explicit approval.
+
+Read-only search, voice/model listing, existing previews, balance checks and non-submitting cost estimates are permitted without spend approval.
+
+Approval to research, shortlist, compare or select is **not** approval to generate.
+Approval for one paid job is **not** approval for additional jobs or a batch.

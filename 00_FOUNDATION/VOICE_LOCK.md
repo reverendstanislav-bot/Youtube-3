@@ -53,3 +53,30 @@ Stage 07 performance baseline:
 Voice testing may now begin.
 
 Until explicitly locked, no episode may mark final audio as channel-canonical.
+
+
+## Voice-test spend lock
+
+Voice research and shortlisting must be read-only by default.
+
+Permitted without owner approval:
+- list available voices;
+- inspect metadata;
+- listen to/use provider-supplied existing preview samples;
+- compare existing previews;
+- request a non-submitting cost estimate.
+
+Forbidden without explicit owner approval:
+- generate any new TTS/audio sample;
+- submit any paid voice-test job;
+- spend credits/tokens/trial allowance;
+- run a paid batch of candidate voices.
+
+Before a paid voice test, state:
+- candidate voice(s);
+- engine/model;
+- test text scope;
+- number of generations;
+- estimated total cost.
+
+Only after the owner explicitly approves that spend may generation begin.
