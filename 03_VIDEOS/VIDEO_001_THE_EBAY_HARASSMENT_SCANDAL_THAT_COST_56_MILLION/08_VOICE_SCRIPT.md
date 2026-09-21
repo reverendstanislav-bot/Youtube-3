@@ -1,6 +1,6 @@
 # VIDEO 001 — 08 Voice Script
 
-Status: **PASS / STAGE 09 TEXT-QA REVIEWED / NO AUDIO GENERATED**
+Status: **PASS / STAGE 10 AUDIO RENDERED**
 
 Canonical source:
 `07_SCRIPT_FINAL.md`
@@ -12,8 +12,8 @@ Voice:
 - Provider/catalog: Higgsfield
 - Voice type: `preset`
 - Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
-- Synthesis engine/model: **NOT YET LOCKED**
-- Paid generation authorization: **NOT GRANTED**
+- Synthesis engine/model: `text2speech_v2` + **ElevenLabs**
+- Paid generation authorization: **GRANTED AND CONSUMED FOR THE OWNER-APPROVED STAGE 10 RUN ONLY**
 
 Stage:
 **08_VOICE_SCRIPT**
@@ -42,7 +42,7 @@ Not changed:
 - settlement/DPA distinctions;
 - final WHAT IT COST payoff.
 
-No SSML or engine-specific control tags are used because the synthesis engine is not yet locked.
+No SSML or engine-specific control tags are used. Stage 10 locked the production path to `text2speech_v2` + ElevenLabs.
 
 Section headings and all text explicitly marked **NOT SPOKEN** are metadata and must not be sent to TTS.
 
@@ -455,7 +455,7 @@ Separately, eBay committed six million dollars to nonprofit organizations, and W
 
 That is how the total reached fifty-five-point-seven million.
 
-And that number should not be combined with eBay's separate three-million-dollar criminal penalty and presented as one fifty-eight-point-seven-million-dollar award.
+And that number should not be combined with eBay's separate three-million-dollar criminal penalty and presented as a fifty-eight-point-seven-million-dollar award.
 
 There was no such award.
 
@@ -526,6 +526,18 @@ It was what people inside the company decided to do about it.
 And that is what it cost.
 
 ---
+
+---
+
+## Stage 10 delivery correction — NOT SPOKEN
+
+One spoken rendering was corrected after production QC:
+
+- `one fifty-eight-point-seven-million-dollar award` → `a fifty-eight-point-seven-million-dollar award`
+
+Reason: the first rendering was audibly/ASR-ambiguous as **158.7 million**. The corrected rendering preserves the locked factual meaning: there was no combined **58.7-million-dollar award**.
+
+No factual/legal meaning changed.
 
 ---
 

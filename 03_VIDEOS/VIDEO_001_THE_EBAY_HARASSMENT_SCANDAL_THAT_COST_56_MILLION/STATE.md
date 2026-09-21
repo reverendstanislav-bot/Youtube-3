@@ -8,7 +8,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 07 Final Script Lock: **PASS**
 - Stage 08 Voice Script: **PASS**
 - Stage 09 Voice QA + Lock: **PASS**
-- Current pipeline stage: 10_AUDIO_MASTER
+- Current pipeline stage: 10_AUDIO_MASTER — **PASS / LOCKED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -63,15 +63,21 @@ Stage 09 result:
 - person-specific uncertain pronunciations carried to Stage 10 auditory QC;
 - no audio generated.
 
-Stage 10 corrected preflight:
-- production wrapper/engine candidate remains `text2speech_v2` + ElevenLabs;
-- narrator changed after comparative testing: Bram → **Harrison**;
-- the previous 4-job / 43.80-credit quote was validated for Bram and is now **SUPERSEDED FOR SPEND APPROVAL PURPOSES**;
-- no Harrison full-run cost quote is locked yet;
-- no full-production generation submitted.
+Stage 10 result:
+- Harrison production path: `text2speech_v2` + ElevenLabs;
+- 4 approved production jobs completed successfully;
+- production spend: **43.80 credits**;
+- one owner-approved corrective patch: **0.60 credit**;
+- total Stage 10 spend: **44.40 credits**;
+- Part D 58.7M spoken-number ambiguity corrected before master lock;
+- final master runtime: **15:57.414**;
+- clipping: none detected;
+- final master SHA-256: `00069b3717cb21a5134d0e0d7cb5ae15836f926a6286adfb66b7eb9103fa14d3`;
+- master URI: https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/4c1aa66b-440d-4fc7-ae95-78e60845ae5f.mp3;
+- Stage 10: **PASS / AUDIO MASTER LOCKED**.
 
 Next action:
-- **Run a read-only Harrison Stage 10 cost revalidation, then await explicit owner approval before any production TTS submission.**
+- **STOP. Await explicit owner instruction before Stage 11 — Transcript + Visual Timeline.**
 
 ## Spend lock — HARD
 
@@ -86,7 +92,7 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- Stage 10 TTS/audio generation is blocked until the owner explicitly approves the engine/model, generation count/scope and estimated cost.
+- None for Stage 10. Stage 11 is intentionally not started until explicit owner instruction.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
