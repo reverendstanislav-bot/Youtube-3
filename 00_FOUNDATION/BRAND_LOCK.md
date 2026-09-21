@@ -53,62 +53,18 @@ Open-web search found no significant exact-match media brand during the initial 
 
 Before commercial expansion or formal trademark filing, run a dedicated U.S. trademark clearance for identical and confusingly similar marks. Common-law rights may exist even without federal registration.
 
-## Visual direction lock
+## Visual identity
+Canonical visual authority:
+`00_FOUNDATION/VISUAL_LOCK.md`
 
-### Core principle
-Premium business-documentary identity, not a law-firm identity.
+The visual identity is locked at system level.
 
-### Wordmark
-Use **WHAT IT COST** as a typography-first wordmark.
+Core principle:
+**Premium business documentary — evidence, money, power, consequence.**
 
-Do not build the identity around:
-- gavels;
-- scales of justice;
-- courthouse columns;
-- law-book clichés;
-- dollar-sign logos;
-- generic finance arrows.
+The exact palette, typography, avatar system, banner rules, thumbnail grammar, evidence treatment and platform/mockup guardrails live in VISUAL_LOCK and override older provisional visual directions.
 
-### Avatar
-Preferred direction:
-- stacked `WHAT / IT / COST`;
-- high-contrast typography;
-- readable at small circular avatar size;
-- no `WIC` acronym as the primary mark.
-
-### Banner
-Sparse composition:
-- WHAT IT COST wordmark;
-- tagline: `Where business decisions get expensive.`;
-- no collage of random companies or courtroom imagery.
-
-### Color direction
-Lock the system to:
-- near-black / charcoal base;
-- warm off-white / paper neutral;
-- one high-signal accent used sparingly.
-
-Exact color values remain a design-asset decision after prototype testing.
-
-### Typography direction
-- strong editorial / condensed display face for headlines;
-- clean neutral sans-serif for supporting text;
-- high legibility on mobile;
-- no decorative legal/serif styling merely to look "serious."
-
-### Graphic language
-Recurring visual language may use:
-- document crops;
-- redactions;
-- underlines / highlights;
-- amounts;
-- ownership diagrams;
-- timelines;
-- signatures only when authentic/source-backed;
-- evidence callouts;
-- clean data graphics.
-
-The visual system must make source material feel important without making recreated material look authentic.
+Final exported public assets remain production outputs governed by that lock.
 
 ## Brand voice
 Curious, controlled, cinematic and precise.
@@ -120,4 +76,4 @@ The channel name, tagline, public promise and About copy are canonical until the
 
 Handle remains operationally unlocked until claimed on-platform.
 
-Visual direction is locked at principle level; exact production assets remain to be designed and approved.
+Visual Identity System is canonical in `VISUAL_LOCK.md`.

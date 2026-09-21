@@ -1,6 +1,6 @@
 # Channel Prelaunch Setup
 
-Status: **INCOMPLETE — BRAND LOCK PASSED**
+Status: **INCOMPLETE — BRAND + VISUAL SYSTEM LOCKED**
 
 This file is the canonical checklist that must be completed before the first public upload.
 
@@ -8,18 +8,22 @@ It is channel setup, not episode production.
 
 ## 1. Brand identity — PASS
 
-Canonical authority: `00_FOUNDATION/BRAND_LOCK.md`.
+Canonical authority:
+- `00_FOUNDATION/BRAND_LOCK.md`
+- `00_FOUNDATION/VISUAL_LOCK.md`
 
 Locked:
 - channel name: **WHAT IT COST**;
 - tagline: **Where business decisions get expensive.**;
 - one-sentence public promise;
 - public About copy;
+- wordmark system;
 - avatar direction;
-- banner direction;
-- typography direction;
-- color direction;
-- documentary graphic language.
+- banner system;
+- typography;
+- palette;
+- documentary graphic language;
+- thumbnail grammar.
 
 Operationally pending:
 - exact YouTube handle claim;
@@ -47,22 +51,29 @@ The public identity must not drift into:
 - finance advice;
 - celebrity gossip.
 
-## 3. Visual identity — DIRECTION LOCKED / ASSETS PENDING
+## 3. Visual identity — PASS / EXPORTS PENDING
 
-Locked principles:
-- premium business-documentary identity;
-- typography-first WHAT IT COST wordmark;
-- no gavel/scales/courthouse cliché;
-- near-black / paper-neutral foundation with one signal accent;
-- document/evidence/data visual language;
-- mobile readability first.
+Canonical authority:
+`00_FOUNDATION/VISUAL_LOCK.md`
 
-Still required:
-- avatar prototype;
-- banner prototype;
-- exact color values;
-- final display/support typography selection;
-- final watermark decision.
+Locked:
+- primary wordmark direction;
+- avatar system;
+- banner composition;
+- exact palette;
+- typography system;
+- documentary/evidence visual language;
+- thumbnail grammar;
+- mockup/public boundary;
+- YouTube-safe export specifications.
+
+Still required operationally:
+- final avatar export;
+- final banner export;
+- YouTube Studio crop verification;
+- watermark decision/export if used.
+
+The remaining exports do not reopen the visual identity.
 
 ## 4. Voice identity — NOT COMPLETE
 
@@ -124,28 +135,31 @@ Create a deliberate default template for:
 
 Do not include case-specific text in global defaults.
 
-## 9. Packaging launch kit — PARTIAL
+## 9. Packaging launch kit — SYSTEM PASS / WORKFLOW PENDING
 
-Already present:
+Already locked:
 - title system;
 - thumbnail system;
-- factual/legal packaging gate.
+- visual identity;
+- factual/legal packaging gate;
+- thumbnail export master/spec.
 
 Still required before launch:
 - reusable thumbnail production workflow;
-- exact export dimensions/file naming convention;
-- visual prototype confirming mobile readability.
+- first real episode proof that the system works at mobile size.
 
 Canonical files:
 - `01_CHANNEL/TITLE_SYSTEM.md`
 - `01_CHANNEL/THUMBNAIL_SYSTEM.md`
+- `00_FOUNDATION/VISUAL_LOCK.md`
 
 ## 10. Rights / provenance launch standard — PARTIAL
 
 Already present:
 - source-document visual policy;
 - authentic vs recreated/generated distinction;
-- asset provenance tracking.
+- asset provenance tracking;
+- visual lock rights/platform guardrails.
 
 Still required:
 - music/SFX source policy selection;
@@ -174,8 +188,9 @@ Each topic still passes Topic Qualification before production activation.
 
 ### PASS requires
 - brand lock complete;
+- visual identity lock complete;
 - voice lock complete enough for production;
-- final visual assets usable;
+- public visual exports usable;
 - YouTube handle claimed;
 - channel settings intentionally configured;
 - title/thumbnail systems usable;
@@ -190,11 +205,12 @@ Each topic still passes Topic Qualification before production activation.
 Passed:
 - Brand identity
 - Channel positioning
+- Visual Identity System
 - About copy
 - Analytics framework
 - Launch shortlist
 
 Next blocking area:
-**Final visual identity assets + handle claim, then Voice Lock.**
+**Public avatar/banner exports + handle claim, then Voice Lock.**
 
 This is not a production failure. It means prelaunch setup is still in progress.
