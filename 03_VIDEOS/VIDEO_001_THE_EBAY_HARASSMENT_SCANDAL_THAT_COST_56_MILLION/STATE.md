@@ -5,48 +5,42 @@ The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
 - Status: IN_PREPARATION
-- Stage: 05_SCRIPT_REVISION
+- Stage: 06_PERFORMANCE_REVIEW
 - Stage 00 Topic Qualification: PASS
 - Stage 01 Evidence Research: PASS
 - Stage 02 Case / Story Map: PASS
 - Stage 03 Script V1: PASS
 - Stage 04 Fact + Legal Review: PASS
-- Script V1: ~2,465 words
+- Stage 05 Script Revision: PASS
+- Script V2: ~2,303 words
 
-## Stage 04 result
-The factual/legal spine passed.
+## Stage 05 result
+All mandatory Stage 04 script fixes were applied.
 
-No blocker was found.
+Resolved:
+- S02 scale comparison tightened;
+- FidoMaster context made precise;
+- broad "employees were fired" wording removed;
+- "rogue employees" institutional inference removed;
+- Wenig's defense position added and attributed;
+- S09 compressed while preserving summary-judgment nuance;
+- working title remains explicitly provisional.
 
-Mandatory V2 fixes:
-1. tighten S02 scale comparison;
-2. make FidoMaster description exact;
-3. remove broad "employees were fired" wording;
-4. replace the "rogue employees" inference in S08;
-5. add Wenig's attributed defense position;
-6. compress S09 while preserving summary-judgment nuance;
-7. keep "$56M" title provisional.
-
-## YouTube result
-Script-level Community Guidelines review: PASS.
-
-Advertiser-friendliness:
-likely compatible with full ads if execution remains documentary and non-graphic.
-
-Production warnings:
-- redact addresses/phone numbers in documents;
-- no shock/gore-focused thumbnail;
-- no realistic AI reenactment presented as authentic;
-- disclose photorealistic AI reconstructions when required;
-- maintain commercial rights/provenance for visuals, clips, music and SFX.
+## What did not change
+- chronology;
+- legal status;
+- settlement math;
+- DPA characterization;
+- executive-liability limitations;
+- attempted-GPS wording.
 
 ## Next action
-Create `05_SCRIPT_V2.md` applying every mandatory Stage 04 fix.
+Run `06_PERFORMANCE_REVIEW.md` against V2 using the channel's weighted 100-point performance rubric.
 
-Do not run Stage 06 until V2 is complete.
+Do not revise into final script until independent performance review identifies accepted changes.
 
 ## Blockers
 None.
 
 ## Agent handoff
-Do not select voice. Stage 05 may tighten language and pacing but may not alter chronology, source meaning or legal status.
+Use `05_SCRIPT_V2.md` as the current narrative draft. Keep `03_SCRIPT_V1.md` as historical V1. Do not select voice. Stage 06 must evaluate hook, retention, promise alignment, information density and ending without weakening accuracy safeguards.
