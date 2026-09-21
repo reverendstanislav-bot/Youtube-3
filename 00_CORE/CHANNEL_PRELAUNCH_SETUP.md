@@ -1,10 +1,8 @@
 # Channel Prelaunch Setup
 
-Status: **INCOMPLETE — BRAND + VISUAL SYSTEM LOCKED**
+Status: **INCOMPLETE — BRAND + VISUAL SYSTEM + FIRST 10 SLATE LOCKED**
 
 This file is the canonical checklist that must be completed before the first public upload.
-
-It is channel setup, not episode production.
 
 ## Current canonical sequence
 
@@ -28,21 +26,14 @@ Canonical authority:
 Locked:
 - channel name: **WHAT IT COST**;
 - tagline: **Where business decisions get expensive.**;
-- one-sentence public promise;
-- public About copy;
-- wordmark system;
-- avatar direction;
-- banner system;
-- typography;
-- palette;
-- documentary graphic language;
-- thumbnail grammar.
+- public promise;
+- About copy;
+- visual identity system.
 
 Operationally pending:
 - exact YouTube handle claim;
-- final exported avatar asset;
-- final exported banner asset;
-- optional public business/contact identity.
+- final public avatar/banner upload validation;
+- optional business/contact identity.
 
 Preferred handle:
 `@whatitcost`
@@ -54,37 +45,48 @@ Preferred handle:
 Public promise:
 **The hidden lawsuits, deals and decisions behind companies, creators and products people already know.**
 
-## 3. Visual identity — PASS / EXPORTS PENDING
+## 3. Visual identity — PASS / PLATFORM VALIDATION PENDING
 
 Canonical authority:
 `00_FOUNDATION/VISUAL_LOCK.md`
 
-Still required operationally:
-- final avatar export;
-- final banner export;
-- YouTube Studio crop verification;
+Owner accepted the current avatar/banner direction.
+
+Operationally still verify before public launch:
+- final file dimensions/compression;
+- YouTube Studio crop/safe-area result;
 - watermark decision/export if used.
 
-The remaining exports do not reopen the visual identity.
+These do not reopen the visual identity.
 
-## 4. First 10 topics — NOT COMPLETE / NEXT AFTER VISUAL EXPORTS
+## 4. First 10 topics — PASS
 
 Canonical authority:
 `00_FOUNDATION/FIRST_10_TOPICS.md`
 
-The first ten public long-form topics must be deliberately selected and owner-approved before Video #1 production activation.
+Status:
+**LOCKED v1**
 
-This slate is a channel-strategy lock, not an episode package.
+The first ten topics are selected.
 
-## 5. Script #1 — BLOCKED BY TOPIC SLATE
+Important:
+- slate lock is not Stage 00 qualification;
+- no VIDEO_001 package exists yet;
+- each topic is separately qualified before production.
 
-After the first-ten slate is locked:
-- qualify/research Topic #1;
-- create VIDEO_001 only after the topic passes its gate;
+Next topic:
+**T001 — PSA / Collectors**
+
+## 5. Script #1 — BLOCKED BY TOPIC #1 QUALIFICATION / RESEARCH
+
+Next:
+- run Stage 00 on T001;
+- create VIDEO_001 only after PASS;
+- enter Evidence Research;
 - write Script #1;
-- run fact/legal review;
-- run performance review;
-- lock Script #1.
+- fact/legal review;
+- performance review;
+- Script #1 Lock.
 
 ## 6. Voice identity — DEFERRED UNTIL SCRIPT #1 LOCK
 
@@ -93,26 +95,19 @@ Canonical authority:
 
 Do not select the channel narrator before Script #1 is locked.
 
-After Script #1 lock:
-- test narrator/provider/voice candidates against real script passages;
-- approve delivery/pacing;
-- record provider/model/voice ID;
-- then mark Voice Lock PASS.
-
 ## 7. YouTube channel settings — NOT COMPLETE
 
 Verify before launch:
 - channel language: English;
 - intended primary audience: USA;
-- audience setting appropriate for general adult documentary content;
-- channel country/location setting intentionally chosen;
-- advanced features/verification enabled as needed;
-- permissions/security reviewed;
-- branding watermark decision made;
-- upload defaults reviewed rather than blindly inherited;
-- comment defaults chosen;
-- embedding/remix/licensing settings intentionally chosen;
-- automatic chapters/subtitles settings reviewed.
+- audience setting;
+- country/location setting;
+- advanced features/verification;
+- permissions/security;
+- upload defaults;
+- comment defaults;
+- embedding/remix/licensing;
+- chapters/subtitles.
 
 ## 8. About / description policy — PASS
 
@@ -120,24 +115,21 @@ Canonical public About copy is locked in BRAND_LOCK.
 
 ## 9. Homepage / playlists — NOT COMPLETE
 
-Define when sufficient real content exists:
-- Home tab layout;
-- featured/latest upload logic;
-- first playlist taxonomy.
+Define when sufficient real content exists.
 
 Do not create empty decorative playlists.
 
 ## 10. Upload defaults — NOT COMPLETE
 
-Create a deliberate default template for:
+Still required:
 - description skeleton;
-- source/reference note style;
-- channel/contact links;
-- disclosure language when needed;
+- source/reference note;
+- links;
+- disclosure language;
 - pinned-comment pattern;
-- default category;
-- end-screen strategy;
-- cards strategy.
+- category;
+- end screens;
+- cards.
 
 ## 11. Packaging launch kit — SYSTEM PASS / FIRST-EPISODE PROOF PENDING
 
@@ -145,20 +137,12 @@ Already locked:
 - title system;
 - thumbnail system;
 - visual identity;
-- factual/legal packaging gate;
-- thumbnail export master/spec.
+- factual/legal packaging gate.
 
 Still required:
-- reusable thumbnail production workflow;
-- first real episode proof at mobile size.
+- first real episode proof.
 
 ## 12. Rights / provenance launch standard — PARTIAL
-
-Already present:
-- source-document visual policy;
-- authentic vs recreated/generated distinction;
-- asset provenance tracking;
-- visual rights/platform guardrails.
 
 Still required:
 - music/SFX source policy;
@@ -166,7 +150,7 @@ Still required:
 
 ## 13. Analytics baseline — READY
 
-Initial snapshot windows:
+Snapshot windows:
 - T+24h
 - T+48h
 - T+72h
@@ -175,31 +159,29 @@ Initial snapshot windows:
 ## Prelaunch gate
 
 ### PASS requires
-- brand lock complete;
-- visual identity lock complete;
-- final public visual exports usable;
-- YouTube handle claimed;
-- first-ten topic slate locked;
+- brand lock;
+- visual lock;
+- public visual assets validated;
+- handle claimed;
+- first-ten slate locked;
 - Script #1 locked;
-- voice lock completed after Script #1;
-- channel settings intentionally configured;
-- title/thumbnail systems usable;
-- rights/provenance standard usable;
+- voice locked after Script #1;
+- channel settings complete;
+- packaging usable;
+- rights/provenance usable;
 - upload defaults ready;
-- analytics capture process ready.
+- analytics capture ready.
 
 ### Current result
 **FAIL / NOT READY FOR PUBLIC LAUNCH**
 
 Passed:
 - Brand identity
-- Channel positioning
+- Positioning
 - Visual Identity System
+- First 10 Topics Lock
 - About copy
 - Analytics framework
 
 Immediate next:
-**Final avatar + banner exports.**
-
-After that:
-**First 10 Topics Lock.**
+**Stage 00 Topic Qualification for T001 — PSA / Collectors.**
