@@ -2,7 +2,7 @@
 
 ## Layer 1 — Channel truth
 `00_FOUNDATION/`
-Positioning, pillars, qualification locks, source hierarchy, legal-language rules, launch shortlist and eventual brand/voice locks.
+Positioning, pillars, qualification locks, source hierarchy, legal-language rules, brand/visual locks, first-ten slate and eventual voice lock.
 
 ## Layer 2 — Operating system
 `00_CORE/`
@@ -24,7 +24,25 @@ Everything specific to one video: research, evidence, claims, chronology, script
 `04_SHARED/`
 Only components proven reusable across episodes.
 
-## Lifecycle
+## Prelaunch sequence
+
+BRAND LOCK
+→ VISUAL IDENTITY LOCK
+→ FINAL AVATAR + BANNER EXPORTS
+→ FIRST 10 TOPICS LOCK
+→ TOPIC #1 QUALIFICATION / RESEARCH
+→ SCRIPT #1
+→ FACT + LEGAL REVIEW
+→ PERFORMANCE REVIEW
+→ SCRIPT #1 LOCK
+→ VOICE TEST / VOICE LOCK
+→ FIRST FINAL AUDIO
+→ remaining production stages
+→ PREPUBLICATION
+→ PUBLISH
+
+## Episode lifecycle
+
 DISCOVER
 → QUALIFY
 → CREATE VIDEO PACKAGE
@@ -34,6 +52,7 @@ DISCOVER
 → FACT/LEGAL REVIEW
 → PERFORMANCE REVIEW
 → SCRIPT LOCK
+→ VOICE SCRIPT / VOICE QA
 → AUDIO
 → VISUAL PLAN
 → ASSET QC
