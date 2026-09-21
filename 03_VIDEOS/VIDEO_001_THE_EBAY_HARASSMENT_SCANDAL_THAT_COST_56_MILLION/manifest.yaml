@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Shortlist voice candidates from existing previews only; any new paid TTS generation requires explicit owner spend approval"
+next_action: "Prepare Stage 08 Voice Script from 07_SCRIPT_FINAL.md using locked narrator Bram; do not generate audio without explicit owner spend approval"
 blockers: []
 
 stages:
@@ -38,7 +38,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
+  voice_input: true
   audio_master: false
   visual_timeline: false
   visual_assets: false
@@ -56,7 +56,7 @@ evidence:
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
-  voice_id_or_preset: ""
+  voice_id_or_preset: "Bram | preset | 549ff70a-3ee7-4f04-a4d9-89a24fab7709"
 
 audio:
   runtime_sec: ""

@@ -32,15 +32,16 @@ All material facts remain inside the same S01–S12 section map used by CLAIMS_L
 No chronology, dollar figure, legal status or party position changed during Stage 07.
 
 ## Voice status
-**SCRIPT GATE CLEARED — VOICE MAY NOW BE TESTED.**
+**VOICE LOCKED — BRAM**
 
-Channel voice itself remains:
-**UNLOCKED**
+- Provider/catalog: Higgsfield
+- Voice type: preset
+- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Approved existing preview: https://cdn.higgsfield.ai/audio_voice/92b784d6-f194-414b-8d78-fb7108ba4d5a.wav
+- No new TTS generation authorized.
 
-Next:
-- test narrator candidates against the locked script;
-- select/lock channel voice;
-- then prepare episode voice script.
+Next pipeline action, only when explicitly requested:
+- prepare Stage 08 Voice Script from `07_SCRIPT_FINAL.md` using Bram as the locked narrator.
 
 ## Spend lock — HARD
 
@@ -71,6 +72,10 @@ Do not:
 - treat a recommendation as authorization;
 - continue after the requested deliverable is complete.
 
-Current voice workflow is paused at **voice selection**.
-Only read-only shortlist/comparison of existing voice previews is allowed unless the owner explicitly authorizes a specific new generation.
+Voice selection is complete.
+
+**Bram is FINAL LOCK.**
+
+Do not reopen selection, test substitutes, or generate audio unless the owner explicitly requests it.
+
 

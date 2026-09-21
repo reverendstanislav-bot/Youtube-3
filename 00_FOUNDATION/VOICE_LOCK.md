@@ -1,6 +1,6 @@
 # Voice Lock
 
-Status: **UNLOCKED / SCRIPT #1 LOCKED — READY FOR VOICE TESTS**
+Status: **LOCKED — BRAM**
 
 No narrator identity from another channel/project is inherited automatically.
 
@@ -52,7 +52,22 @@ Stage 07 performance baseline:
 
 Voice testing may now begin.
 
-Until explicitly locked, no episode may mark final audio as channel-canonical.
+## Final narrator lock
+
+Locked by owner on 2026-09-20.
+
+- Narrator: **Bram**
+- Provider/catalog: **Higgsfield**
+- Voice type: `preset`
+- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Approved reference preview: https://cdn.higgsfield.ai/audio_voice/92b784d6-f194-414b-8d78-fb7108ba4d5a.wav
+- Lock scope: channel narrator identity
+- Synthesis engine/model: **NOT YET LOCKED**
+- Paid generation authorization: **NOT GRANTED**
+
+Bram is the canonical narrator for WHAT IT COST unless the owner explicitly reopens the voice lock.
+
+The synthesis engine/model must be selected and recorded before Stage 10 final audio generation. Selecting or locking Bram does **not** authorize any paid TTS generation.
 
 
 ## Voice-test spend lock
@@ -80,3 +95,4 @@ Before a paid voice test, state:
 - estimated total cost.
 
 Only after the owner explicitly approves that spend may generation begin.
+
