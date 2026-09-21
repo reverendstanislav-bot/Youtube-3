@@ -50,3 +50,29 @@ Read-only search, voice/model listing, existing previews, balance checks and non
 
 Approval to research, shortlist, compare or select is **not** approval to generate.
 Approval for one paid job is **not** approval for additional jobs or a batch.
+
+
+## Scope boundary gate
+
+**HARD RULE:** current-turn owner intent defines the execution boundary.
+
+Do only what is explicitly requested.
+
+No autonomous stage advancement, no speculative follow-on work, no optional generation, no "while I am here" changes.
+
+At the end of the requested task:
+- STOP execution;
+- summarize completion;
+- identify but do not start the next stage.
+
+A downstream action always requires a new explicit owner instruction, even when:
+- it is the canonical next pipeline stage;
+- it is cheap or free;
+- it appears obviously useful;
+- it was suggested by the assistant;
+- it would save future work.
+
+"Select/compare/research" does not authorize "generate/create/submit".
+"Prepare" does not authorize "publish/upload/generate" unless explicitly included.
+"Stage N" authorizes only Stage N, not Stage N+1.
+

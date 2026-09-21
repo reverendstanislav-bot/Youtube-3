@@ -1,5 +1,14 @@
 # Task Recipes
 
+## SCOPE GATE — RUN BEFORE EVERY RECIPE
+Before any task:
+1. identify the exact owner-requested deliverable;
+2. list internally which actions are necessary to produce only that deliverable;
+3. exclude all downstream/optional work;
+4. stop immediately once the deliverable is complete.
+
+Never auto-start the next recipe/stage.
+
 ## RESUME
 Read locks → locate video → manifest/STATE → active gate → execute only next unblocked stage.
 
@@ -41,3 +50,4 @@ Prepare final upload package and prepublication QC.
 
 ## G19
 Log snapshots/experiments; distinguish packaging, retention and audience-fit hypotheses.
+

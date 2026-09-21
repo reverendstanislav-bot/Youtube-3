@@ -59,3 +59,18 @@ Paid voice generation is blocked until explicit owner spend approval.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
+
+
+## Task-scope lock — HARD
+For VIDEO_001, execute only the stage/action explicitly requested by the owner.
+
+Do not:
+- auto-advance to the next stage;
+- generate paid or free samples without explicit instruction;
+- create downstream artifacts early;
+- treat a recommendation as authorization;
+- continue after the requested deliverable is complete.
+
+Current voice workflow is paused at **voice selection**.
+Only read-only shortlist/comparison of existing voice previews is allowed unless the owner explicitly authorizes a specific new generation.
+

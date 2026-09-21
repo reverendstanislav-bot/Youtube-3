@@ -55,3 +55,30 @@ Required before any billable submission:
 
 Do not interpret approval to browse/select voices as approval to generate paid voice tests.
 Do not batch paid tests speculatively.
+
+
+## Task-scope approval — HARD LOCK
+Execute only the task the owner explicitly requested in the current turn.
+
+Never expand scope on your own.
+
+Without explicit owner approval, do NOT:
+- advance to the next pipeline stage;
+- start a "logical next step";
+- generate assets, audio, images, video, code, prompts or variants not explicitly requested;
+- run optional tests, A/B tests, experiments or candidate generations;
+- perform extra research beyond what is required to answer/execute the requested task;
+- modify unrelated repository files;
+- create new artifacts merely because they may be useful later;
+- turn analysis/selection into production/generation;
+- interpret "continue", "do this stage", or "pick/select" as permission for downstream work.
+
+Default behavior at task boundary:
+1. stop;
+2. report exactly what was completed;
+3. state the next possible step without executing it;
+4. wait for explicit owner instruction.
+
+If the requested task can be completed read-only, keep it read-only unless a write is necessary to fulfill that exact task.
+If uncertain whether an action is in scope, do not execute it.
+
