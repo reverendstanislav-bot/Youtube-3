@@ -7,8 +7,8 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
-current_stage: "09_VOICE_QA_LOCK"
-next_action: "Run Stage 09 Voice QA + Lock on 08_VOICE_SCRIPT.md; any TTS/audio generation requires explicit owner spend approval"
+current_stage: "10_AUDIO_MASTER"
+next_action: "Stage 10 preflight only when explicitly requested: select synthesis engine/model, estimate cost, then obtain owner approval before any TTS generation"
 blockers: []
 
 stages:
@@ -21,7 +21,7 @@ stages:
   stage_06_performance_review: "PASS"
   stage_07_script_lock: "PASS"
   stage_08_voice_script: "PASS"
-  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_09_voice_qa_lock: "PASS"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"

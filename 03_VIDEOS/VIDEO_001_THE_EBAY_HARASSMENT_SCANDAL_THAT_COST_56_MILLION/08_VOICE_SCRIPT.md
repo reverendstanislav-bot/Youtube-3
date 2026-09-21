@@ -1,6 +1,6 @@
 # VIDEO 001 — 08 Voice Script
 
-Status: **PASS / TTS-READY TEXT / NO AUDIO GENERATED**
+Status: **PASS / STAGE 09 TEXT-QA REVIEWED / NO AUDIO GENERATED**
 
 Canonical source:
 `07_SCRIPT_FINAL.md`
@@ -141,7 +141,7 @@ It is how criticism of a company became a security problem inside that company �
 
 **[SECTION LABEL — NOT SPOKEN]**
 
-Ina and David Steiner ran EcommerceBytes, an independent publication covering online commerce since 1999.
+Ina and David Steiner ran EcommerceBytes, an independent publication covering online commerce since nineteen ninety-nine.
 
 The scale mismatch was obvious: an independent trade publication on one side, a global marketplace on the other.
 

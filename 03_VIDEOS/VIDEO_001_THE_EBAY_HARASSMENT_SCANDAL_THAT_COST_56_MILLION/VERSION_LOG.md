@@ -20,4 +20,5 @@
 | 2026-09-20 | task scope | v01 | Added hard stop at owner-requested task boundary; no autonomous next-stage/follow-on execution | Prevent assistant-initiated scope expansion and unauthorized work | LOCK |
 | 2026-09-20 | voice lock | final | Owner selected Bram as the canonical WHAT IT COST narrator | Final narrator identity locked after read-only preview selection | PASS |
 | 2026-09-20 | voice script | v01 | Stage 08 TTS-ready text derived from 07_SCRIPT_FINAL.md for locked narrator Bram; dates/years and unambiguous abbreviations normalized; pronunciation targets handed to Stage 09 | Prepare exact delivery input without changing factual/legal meaning or generating audio | PASS |
+| 2026-09-20 | voice QA | v01 | Stage 09 text/input QA completed; semantic fidelity verified; 1999 spoken normalization fixed; pronunciation policy locked without speculative person-name respellings | Lock production voice input before any paid audio generation | PASS |
 

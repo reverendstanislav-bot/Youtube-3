@@ -7,7 +7,8 @@ The eBay Harassment Scandal That Cost $56 Million
 - Status: IN_PREPARATION
 - Stage 07 Final Script Lock: **PASS**
 - Stage 08 Voice Script: **PASS**
-- Current pipeline stage: 09_VOICE_QA_LOCK
+- Stage 09 Voice QA + Lock: **PASS**
+- Current pipeline stage: 10_AUDIO_MASTER
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -50,8 +51,17 @@ Stage 08 result:
 - pronunciation targets handed to Stage 09;
 - no audio generated and no paid generation authorized.
 
+Stage 09 result:
+- semantic fidelity audit PASS;
+- Stage 08 correction: 1999 → nineteen ninety-nine;
+- dates/numbers/abbreviations QA PASS;
+- high-confidence pronunciation locks recorded;
+- speculative phonetic respellings prohibited;
+- person-specific uncertain pronunciations carried to Stage 10 auditory QC;
+- no audio generated.
+
 Next pipeline action, only when explicitly requested:
-- Stage 09 Voice QA + Lock against `08_VOICE_SCRIPT.md`.
+- Stage 10 Audio Master preflight: select synthesis engine/model, estimate exact cost, and obtain explicit owner spend approval before any TTS job.
 
 ## Spend lock — HARD
 
@@ -66,8 +76,7 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- Stage 09 may perform read-only/text QA.
-- Any TTS/audio generation remains blocked until explicit owner spend approval.
+- Stage 10 TTS/audio generation is blocked until the owner explicitly approves the engine/model, generation count/scope and estimated cost.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
