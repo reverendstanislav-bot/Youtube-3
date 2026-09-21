@@ -60,16 +60,20 @@ Stage 09 result:
 - person-specific uncertain pronunciations carried to Stage 10 auditory QC;
 - no audio generated.
 
-Stage 10 preflight:
-- proposed engine: Seed Audio 1.0 (`seed_audio`);
+Stage 10 corrected preflight:
+- corrected engine: `text2speech_v2` + ElevenLabs;
 - locked voice: Bram;
-- output: WAV 48 kHz;
-- full narration requires 8 jobs because the provider limit is 2048 characters per prompt;
-- exact provider-reported cost: 88.8 Higgsfield credits;
+- full narration fits the proven 4-part long-form workflow;
+- Part A S01–S03: 3,499 chars / 10.50 credits;
+- Part B S04–S06: 2,999 chars / 9.00 credits;
+- Part C S07–S09: 4,124 chars / 12.45 credits;
+- Part D S10–S12: 3,929 chars / 11.85 credits;
+- exact provider-reported total: **43.80 credits**;
+- previous 8-job / 88.8-credit Seed Audio plan rejected;
 - no generation submitted.
 
 Next action:
-- **AWAIT explicit owner approval of the 8-job / 88.8-credit production run.**
+- **AWAIT explicit owner approval of the 4-job / 43.8-credit ElevenLabs production run.**
 
 ## Spend lock — HARD
 

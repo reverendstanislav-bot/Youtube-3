@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Await explicit owner approval: Seed Audio 1.0 + Bram, 8 WAV 48kHz jobs, exact estimated total 88.8 Higgsfield credits; do not submit TTS before approval"
+next_action: "Await explicit owner approval: text2speech_v2 + ElevenLabs + Bram, 4 jobs, exact estimated total 43.8 Higgsfield credits; do not submit TTS before approval"
 blockers: []
 
 stages:
