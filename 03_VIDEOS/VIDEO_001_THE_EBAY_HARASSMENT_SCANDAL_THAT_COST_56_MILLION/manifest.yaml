@@ -7,8 +7,8 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
-current_stage: "08_VOICE_SCRIPT"
-next_action: "Prepare Stage 08 Voice Script from 07_SCRIPT_FINAL.md using locked narrator Bram; do not generate audio without explicit owner spend approval"
+current_stage: "09_VOICE_QA_LOCK"
+next_action: "Run Stage 09 Voice QA + Lock on 08_VOICE_SCRIPT.md; any TTS/audio generation requires explicit owner spend approval"
 blockers: []
 
 stages:
@@ -20,7 +20,7 @@ stages:
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS"
   stage_07_script_lock: "PASS"
-  stage_08_voice_script: "NOT_STARTED"
+  stage_08_voice_script: "PASS"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"

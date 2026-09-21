@@ -6,7 +6,8 @@ The eBay Harassment Scandal That Cost $56 Million
 ## Current
 - Status: IN_PREPARATION
 - Stage 07 Final Script Lock: **PASS**
-- Current pipeline stage: 08_VOICE_SCRIPT
+- Stage 08 Voice Script: **PASS**
+- Current pipeline stage: 09_VOICE_QA_LOCK
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -40,8 +41,17 @@ No chronology, dollar figure, legal status or party position changed during Stag
 - Approved existing preview: https://cdn.higgsfield.ai/audio_voice/92b784d6-f194-414b-8d78-fb7108ba4d5a.wav
 - No new TTS generation authorized.
 
+Stage 08 result:
+- `08_VOICE_SCRIPT.md` created from the locked final script;
+- spoken dates/years and unambiguous abbreviations normalized;
+- section IDs preserved;
+- no factual/legal wording changed;
+- no SSML added before engine lock;
+- pronunciation targets handed to Stage 09;
+- no audio generated and no paid generation authorized.
+
 Next pipeline action, only when explicitly requested:
-- prepare Stage 08 Voice Script from `07_SCRIPT_FINAL.md` using Bram as the locked narrator.
+- Stage 09 Voice QA + Lock against `08_VOICE_SCRIPT.md`.
 
 ## Spend lock — HARD
 
@@ -56,7 +66,8 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-Paid voice generation is blocked until explicit owner spend approval.
+- Stage 09 may perform read-only/text QA.
+- Any TTS/audio generation remains blocked until explicit owner spend approval.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.

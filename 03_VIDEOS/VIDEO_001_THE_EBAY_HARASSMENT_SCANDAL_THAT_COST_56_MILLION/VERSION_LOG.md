@@ -19,4 +19,5 @@
 | 2026-09-20 | spend control | v01 | Added hard owner-approval gate for all paid voice/TTS generation | Prevent any credit/token spend without explicit authorization | LOCK |
 | 2026-09-20 | task scope | v01 | Added hard stop at owner-requested task boundary; no autonomous next-stage/follow-on execution | Prevent assistant-initiated scope expansion and unauthorized work | LOCK |
 | 2026-09-20 | voice lock | final | Owner selected Bram as the canonical WHAT IT COST narrator | Final narrator identity locked after read-only preview selection | PASS |
+| 2026-09-20 | voice script | v01 | Stage 08 TTS-ready text derived from 07_SCRIPT_FINAL.md for locked narrator Bram; dates/years and unambiguous abbreviations normalized; pronunciation targets handed to Stage 09 | Prepare exact delivery input without changing factual/legal meaning or generating audio | PASS |
 
