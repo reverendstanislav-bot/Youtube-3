@@ -1,0 +1,1636 @@
+1
+00:00:00,000 --> 00:00:00,980
+In August twenty nineteen,
+
+2
+00:00:01,660 --> 00:00:04,300
+a couple in Massachusetts began receiving things
+
+3
+00:00:04,300 --> 00:00:05,400
+that made no sense.
+
+4
+00:00:06,340 --> 00:00:07,000
+Live insects.
+
+5
+00:00:07,760 --> 00:00:08,660
+Threatening messages.
+
+6
+00:00:09,480 --> 00:00:10,480
+A bloody pig mask.
+
+7
+00:00:11,160 --> 00:00:13,620
+And eventually, people connected to the campaign
+
+8
+00:00:13,620 --> 00:00:15,820
+were watching them in person and trying
+
+9
+00:00:15,820 --> 00:00:17,680
+to put a G-P-S tracker on their
+
+10
+00:00:17,680 --> 00:00:17,940
+car.
+
+11
+00:00:18,560 --> 00:00:20,420
+At first glance, this sounds like an
+
+12
+00:00:20,420 --> 00:00:21,760
+internet stalking story.
+
+13
+00:00:22,300 --> 00:00:23,940
+But the people behind it were not
+
+14
+00:00:23,940 --> 00:00:24,840
+anonymous trolls.
+
+15
+00:00:25,580 --> 00:00:27,040
+They worked in, or with,
+
+16
+00:00:27,040 --> 00:00:29,240
+the security organization of eBay.
+
+17
+00:00:30,120 --> 00:00:33,180
+All seven former employees and contractors who
+
+18
+00:00:33,180 --> 00:00:35,840
+were federally prosecuted over the campaign later
+
+19
+00:00:35,840 --> 00:00:36,640
+pleaded guilty.
+
+20
+00:00:37,380 --> 00:00:40,760
+Years later, prosecutors filed criminal charges against
+
+21
+00:00:40,760 --> 00:00:41,720
+eBay itself.
+
+22
+00:00:42,480 --> 00:00:44,860
+The company entered a deferred prosecution agreement,
+
+23
+00:00:45,260 --> 00:00:47,340
+admitted a detailed factual account,
+
+24
+00:00:47,780 --> 00:00:49,840
+paid a three-million-dollar criminal penalty,
+
+25
+00:00:49,840 --> 00:00:52,660
+and accepted an independent compliance monitor.
+
+26
+00:00:53,280 --> 00:00:54,880
+And in July twenty twenty-six,
+
+27
+00:00:54,880 --> 00:00:57,360
+the civil case ended in an announced
+
+28
+00:00:57,360 --> 00:01:01,640
+settlement package worth fifty-five-point-seven million dollars.
+
+29
+00:01:01,640 --> 00:01:03,600
+But the strangest part is not what
+
+30
+00:01:03,600 --> 00:01:04,720
+arrived at the front door.
+
+31
+00:01:05,460 --> 00:01:06,920
+It is how criticism of a company
+
+32
+00:01:06,920 --> 00:01:09,720
+became a security problem inside that company
+
+33
+00:01:10,100 --> 00:01:12,480
+and how the consequences kept growing long
+
+34
+00:01:12,480 --> 00:01:13,980
+after the harassment stopped.
+
+35
+00:01:14,680 --> 00:01:17,340
+Ina and David Steiner ran EcommerceBytes,
+
+36
+00:01:17,980 --> 00:01:21,260
+an independent publication covering online commerce since
+
+37
+00:01:21,260 --> 00:01:22,100
+nineteen ninety-nine.
+
+38
+00:01:22,920 --> 00:01:24,620
+The scale mismatch was obvious:
+
+39
+00:01:25,220 --> 00:01:27,520
+an independent trade publication on one side,
+
+40
+00:01:27,920 --> 00:01:29,480
+a global marketplace on the other.
+
+41
+00:01:30,120 --> 00:01:32,480
+But the Steiners covered eBay's world closely
+
+42
+00:01:33,000 --> 00:01:33,320
+sellers,
+
+43
+00:01:33,920 --> 00:01:36,140
+marketplace rules, executive decisions,
+
+44
+00:01:36,640 --> 00:01:38,380
+and the complaints of people who depended
+
+45
+00:01:38,380 --> 00:01:39,720
+on platforms like eBay.
+
+46
+00:01:40,540 --> 00:01:41,680
+By spring twenty nineteen,
+
+47
+00:01:42,340 --> 00:01:44,380
+a later federal court record shows that
+
+48
+00:01:44,380 --> 00:01:47,360
+EcommerceBytes had become an increasing source of
+
+49
+00:01:47,360 --> 00:01:50,020
+frustration for people inside eBay's leadership.
+
+50
+00:01:50,440 --> 00:01:52,660
+The Steiners were not business rivals trying
+
+51
+00:01:52,660 --> 00:01:53,800
+to take eBay's customers.
+
+52
+00:01:54,740 --> 00:01:57,200
+They were publishers criticizing the company and
+
+53
+00:01:57,200 --> 00:01:59,020
+giving readers a place to criticize it
+
+54
+00:01:59,020 --> 00:01:59,260
+too.
+
+55
+00:01:59,920 --> 00:02:01,760
+Companies face criticism every day.
+
+56
+00:02:02,360 --> 00:02:04,200
+The real question is how criticism from
+
+57
+00:02:04,200 --> 00:02:07,720
+two publishers became something people inside eBay's
+
+58
+00:02:07,720 --> 00:02:10,260
+security organization were expected to solve.
+
+59
+00:02:11,060 --> 00:02:12,840
+The internal messages are where the story
+
+60
+00:02:12,840 --> 00:02:13,320
+changes.
+
+61
+00:02:14,160 --> 00:02:15,120
+In April twenty nineteen,
+
+62
+00:02:15,780 --> 00:02:19,840
+Steve Wymer eBay's communications chief sent then-C-E-O
+
+63
+00:02:19,840 --> 00:02:22,600
+Devin Wenig a message about an Ina
+
+64
+00:02:22,600 --> 00:02:23,460
+Steiner article.
+
+65
+00:02:24,140 --> 00:02:24,780
+His words were:
+
+66
+00:02:25,420 --> 00:02:26,920
+We are going to crush this lady.
+
+67
+00:02:27,600 --> 00:02:29,620
+Weeks later, according to the federal court
+
+68
+00:02:29,620 --> 00:02:32,400
+record, Wenig told Wymer to take her
+
+69
+00:02:32,400 --> 00:02:32,740
+down.
+
+70
+00:02:33,580 --> 00:02:34,760
+And on August first,
+
+71
+00:02:35,000 --> 00:02:37,000
+another message from Wenig said that if
+
+72
+00:02:37,000 --> 00:02:38,260
+they were ever going to act,
+
+73
+00:02:39,000 --> 00:02:39,860
+now is the time.
+
+74
+00:02:40,680 --> 00:02:41,800
+Those words are dramatic.
+
+75
+00:02:42,420 --> 00:02:43,140
+But they are not,
+
+76
+00:02:43,140 --> 00:02:45,740
+by themselves, proof that Wenig or any
+
+77
+00:02:45,740 --> 00:02:48,060
+other executive ordered the crimes that followed.
+
+78
+00:02:48,740 --> 00:02:50,560
+The later court record says Jim Baugh
+
+79
+00:02:51,020 --> 00:02:52,140
+the head of eBay security
+
+80
+00:02:52,780 --> 00:02:55,500
+testified that Wenig never communicated directly with
+
+81
+00:02:55,500 --> 00:02:56,460
+him about the Steiners.
+
+82
+00:02:57,240 --> 00:02:59,680
+Wenig's relevant communications went through Wymer.
+
+83
+00:03:00,260 --> 00:03:01,700
+Still, inside the organization,
+
+84
+00:03:02,540 --> 00:03:03,440
+the language was escalating.
+
+85
+00:03:04,400 --> 00:03:06,720
+Wymer's messages to Baugh became increasingly ag
+
+86
+00:03:06,720 --> 00:03:07,120
+gressive,
+
+87
+00:03:07,740 --> 00:03:09,800
+including the phrase Whatever it takes.
+
+88
+00:03:10,560 --> 00:03:13,120
+Another executive relationship was pulling the issue
+
+89
+00:03:13,120 --> 00:03:14,220
+toward security too.
+
+90
+00:03:14,950 --> 00:03:17,320
+Wendy Jones Baugh's direct supervisor
+
+91
+00:03:17,880 --> 00:03:19,700
+told him, according to the court record,
+
+92
+00:03:20,100 --> 00:03:22,020
+to handle the issue off the radar
+
+93
+00:03:22,530 --> 00:03:24,200
+and said she did not want details.
+
+94
+00:03:25,240 --> 00:03:26,340
+That is not the same as a
+
+95
+00:03:26,340 --> 00:03:28,200
+finding that Jones knew what the security
+
+96
+00:03:28,200 --> 00:03:29,480
+team would later do.
+
+97
+00:03:29,940 --> 00:03:30,780
+But by this point,
+
+98
+00:03:31,200 --> 00:03:33,580
+criticism from two publishers was no longer
+
+99
+00:03:33,580 --> 00:03:36,120
+being discussed only as a communications problem.
+
+100
+00:03:36,740 --> 00:03:38,300
+It had entered the security chain.
+
+101
+00:03:39,200 --> 00:03:41,420
+Before the most notorious phase of the
+
+102
+00:03:41,420 --> 00:03:44,720
+campaign, members of Baugh's security operation had
+
+103
+00:03:44,720 --> 00:03:46,140
+already traveled to Massachusetts.
+
+104
+00:03:47,160 --> 00:03:48,080
+During an early trip,
+
+105
+00:03:48,420 --> 00:03:51,840
+security employee Brian Gilbert surveilled the Steiners
+
+106
+00:03:51,840 --> 00:03:54,920
+and spray-painted FidoMaster on their fence
+
+107
+00:03:55,740 --> 00:03:57,680
+a username used by a commenter on
+
+108
+00:03:57,680 --> 00:04:00,680
+EcommerceBytes whom the security team believed was
+
+109
+00:04:00,680 --> 00:04:01,820
+connected to the Steiners.
+
+110
+00:04:02,560 --> 00:04:04,760
+Baugh later described the trip to Wymer
+
+111
+00:04:04,760 --> 00:04:06,500
+as a tap on the shoulder.
+
+112
+00:04:07,300 --> 00:04:09,900
+That moment matters because it shows how
+
+113
+00:04:09,900 --> 00:04:12,140
+the problem was being translated inside the
+
+114
+00:04:12,140 --> 00:04:12,480
+company.
+
+115
+00:04:13,440 --> 00:04:15,260
+At the top, there was anger about
+
+116
+00:04:15,260 --> 00:04:15,720
+criticism.
+
+117
+00:04:16,680 --> 00:04:19,020
+In the middle, increasingly forceful messages.
+
+118
+00:04:19,800 --> 00:04:20,920
+At the security level,
+
+119
+00:04:21,240 --> 00:04:22,820
+those messages were becoming action.
+
+120
+00:04:23,740 --> 00:04:25,580
+Then the process became more organized.
+
+121
+00:04:27,220 --> 00:04:29,600
+On August sixth, Baugh held meetings with
+
+122
+00:04:29,600 --> 00:04:32,380
+security-team members to plan an operation against
+
+123
+00:04:32,380 --> 00:04:33,040
+the Steiners.
+
+124
+00:04:33,860 --> 00:04:36,800
+The plan included unwanted deliveries and online
+
+125
+00:04:36,800 --> 00:04:37,440
+harassment.
+
+126
+00:04:38,280 --> 00:04:40,820
+The next day, Baugh met with Wymer.
+
+127
+00:04:40,820 --> 00:04:43,080
+And then the operation accelerated.
+
+128
+00:04:44,180 --> 00:04:46,940
+The Steiners began receiving threatening online messages
+
+129
+00:04:46,940 --> 00:04:48,240
+and disturbing deliveries.
+
+130
+00:04:49,480 --> 00:04:52,200
+The admitted record includes live insects and
+
+131
+00:04:52,200 --> 00:04:53,200
+a bloody pig mask.
+
+132
+00:04:54,220 --> 00:04:56,680
+There were also Craigslist posts designed to
+
+133
+00:04:56,680 --> 00:04:59,220
+send strangers toward the Steiners and other
+
+134
+00:04:59,220 --> 00:05:00,920
+messages intended to frighten them.
+
+135
+00:05:01,780 --> 00:05:03,680
+The details are bizarre enough to make
+
+136
+00:05:03,680 --> 00:05:05,340
+the story feel almost unreal.
+
+137
+00:05:05,980 --> 00:05:07,800
+But the key point is that this
+
+138
+00:05:07,800 --> 00:05:08,420
+was organized.
+
+139
+00:05:09,400 --> 00:05:10,640
+People were planning activities,
+
+140
+00:05:11,140 --> 00:05:12,300
+traveling, communicating,
+
+141
+00:05:12,960 --> 00:05:16,380
+and using corporate-security personnel and resources around
+
+142
+00:05:16,380 --> 00:05:18,820
+a campaign directed at two private citizens.
+
+143
+00:05:19,880 --> 00:05:21,420
+Then the line moved again.
+
+144
+00:05:22,540 --> 00:05:24,180
+On August fifteenth, Baugh,
+
+145
+00:05:24,880 --> 00:05:27,340
+David Harville and Veronica Zea traveled to
+
+146
+00:05:27,340 --> 00:05:28,140
+the Steiners area.
+
+147
+00:05:28,940 --> 00:05:30,660
+According to the federal court record,
+
+148
+00:05:31,120 --> 00:05:33,340
+they attempted to install a G-P-S tracker
+
+149
+00:05:33,340 --> 00:05:34,420
+on the Steiners vehicle.
+
+150
+00:05:35,300 --> 00:05:37,480
+They also surveilled and followed the couple.
+
+151
+00:05:38,340 --> 00:05:40,360
+The tracker was not established as successfully
+
+152
+00:05:40,360 --> 00:05:41,040
+installed.
+
+153
+00:05:41,840 --> 00:05:43,700
+But the attempt changed the nature of
+
+154
+00:05:43,700 --> 00:05:44,100
+the story.
+
+155
+00:05:44,940 --> 00:05:47,160
+This was no longer just anonymous online
+
+156
+00:05:47,160 --> 00:05:49,320
+harassment or disturbing deliveries.
+
+157
+00:05:50,380 --> 00:05:52,520
+It had become a physical surveillance operation.
+
+158
+00:05:53,500 --> 00:05:54,200
+And the next day,
+
+159
+00:05:54,480 --> 00:05:55,800
+the Steiners went to the police.
+
+160
+00:05:56,860 --> 00:05:59,837
+Natick police began investigating on August sixteenth,
+
+161
+00:05:59,837 --> 00:06:00,580
+twenty nineteen.
+
+162
+00:06:01,220 --> 00:06:03,000
+That should have ended the operation.
+
+163
+00:06:03,940 --> 00:06:06,060
+Instead, it created a second problem.
+
+164
+00:06:06,980 --> 00:06:08,740
+The first was what the security team
+
+165
+00:06:08,740 --> 00:06:09,120
+had done.
+
+166
+00:06:09,900 --> 00:06:11,460
+The second was what members of that
+
+167
+00:06:11,460 --> 00:06:14,300
+team did once investigators started asking questions.
+
+168
+00:06:15,480 --> 00:06:17,520
+The record admitted by eBay and described
+
+169
+00:06:17,520 --> 00:06:20,780
+by federal prosecutors includes false statements,
+
+170
+00:06:21,300 --> 00:06:22,460
+deletion of digital evidence,
+
+171
+00:06:23,120 --> 00:06:24,240
+and falsified records.
+
+172
+00:06:25,280 --> 00:06:27,640
+A security organization that existed to reduce
+
+173
+00:06:27,640 --> 00:06:30,120
+risk had now created two kinds of
+
+174
+00:06:30,120 --> 00:06:30,300
+risk:
+
+175
+00:06:31,180 --> 00:06:33,580
+the operation itself, and the effort to
+
+176
+00:06:33,580 --> 00:06:34,160
+conceal it.
+
+177
+00:06:35,020 --> 00:06:37,660
+eBay began its own internal investigation days
+
+178
+00:06:37,660 --> 00:06:38,140
+later.
+
+179
+00:06:38,960 --> 00:06:39,940
+By the end of August,
+
+180
+00:06:40,420 --> 00:06:42,560
+several security employees had been placed on
+
+181
+00:06:42,560 --> 00:06:42,780
+leave.
+
+182
+00:06:43,760 --> 00:06:45,820
+Over time, key members of the operation
+
+183
+00:06:45,820 --> 00:06:47,440
+were removed or terminated,
+
+184
+00:06:48,040 --> 00:06:50,060
+and one contractor's relationship ended.
+
+185
+00:06:50,900 --> 00:06:53,000
+But internal discipline was only the beginning.
+
+186
+00:06:54,000 --> 00:06:55,800
+Federal prosecutors were coming next.
+
+187
+00:06:56,540 --> 00:06:57,820
+Beginning in twenty twenty,
+
+188
+00:06:58,240 --> 00:07:01,300
+federal prosecutors brought criminal cases against people
+
+189
+00:07:01,300 --> 00:07:02,360
+involved in the campaign.
+
+190
+00:07:03,480 --> 00:07:06,580
+Eventually, all seven former eBay employees and
+
+191
+00:07:06,580 --> 00:07:09,180
+contractors who were prosecuted pleaded guilty.
+
+192
+00:07:10,420 --> 00:07:12,540
+A guilty plea is not an allegation.
+
+193
+00:07:13,520 --> 00:07:15,840
+It establishes criminal guilt without a trial.
+
+194
+00:07:16,940 --> 00:07:19,600
+Jim Baugh received fifty-seven months in prison.
+
+195
+00:07:20,920 --> 00:07:22,820
+David Harville received twenty-four months.
+
+196
+00:07:23,700 --> 00:07:26,380
+Other participants received combinations of prison,
+
+197
+00:07:26,820 --> 00:07:29,880
+probation, home confinement, and financial penalties.
+
+198
+00:07:31,340 --> 00:07:32,220
+By twenty twenty-four,
+
+199
+00:07:32,860 --> 00:07:35,480
+the individual criminal cases had produced a
+
+200
+00:07:35,480 --> 00:07:37,320
+clear story of personal accountability.
+
+201
+00:07:38,260 --> 00:07:39,240
+And from a distance,
+
+202
+00:07:39,620 --> 00:07:40,880
+that can look like the ending.
+
+203
+00:07:42,060 --> 00:07:44,080
+eBay had removed key members of the
+
+204
+00:07:44,080 --> 00:07:44,820
+security operation.
+
+205
+00:07:45,960 --> 00:07:48,160
+The people who were federally prosecuted had
+
+206
+00:07:48,160 --> 00:07:48,780
+pleaded guilty.
+
+207
+00:07:49,980 --> 00:07:52,820
+But federal prosecutors eventually turned from the
+
+208
+00:07:52,820 --> 00:07:55,560
+individuals inside the company to the company
+
+209
+00:07:55,560 --> 00:07:56,000
+itself.
+
+210
+00:07:57,340 --> 00:07:58,880
+In January twenty twenty-four,
+
+211
+00:07:59,240 --> 00:08:02,940
+prosecutors filed a six-count criminal Information against
+
+212
+00:08:02,940 --> 00:08:03,160
+eBay.
+
+213
+00:08:04,200 --> 00:08:06,460
+The counts included interstate stalking,
+
+214
+00:08:07,040 --> 00:08:08,840
+stalking through electronic communications,
+
+215
+00:08:09,760 --> 00:08:10,280
+witness tampering,
+
+216
+00:08:11,060 --> 00:08:14,080
+and destruction or falsification of records connected
+
+217
+00:08:14,080 --> 00:08:15,500
+to a federal investigation.
+
+218
+00:08:16,900 --> 00:08:19,020
+But eBay was not convicted on those
+
+219
+00:08:19,020 --> 00:08:19,300
+charges.
+
+220
+00:08:20,300 --> 00:08:23,180
+Instead, the company entered a deferred prosecution
+
+221
+00:08:23,180 --> 00:08:23,880
+agreement.
+
+222
+00:08:25,020 --> 00:08:27,940
+A deferred prosecution agreement works differently from
+
+223
+00:08:27,940 --> 00:08:28,380
+a conviction.
+
+224
+00:08:29,420 --> 00:08:30,760
+The government files charges,
+
+225
+00:08:31,320 --> 00:08:33,560
+but prosecution is held back while the
+
+226
+00:08:33,560 --> 00:08:35,980
+company complies with negotiated conditions.
+
+227
+00:08:37,060 --> 00:08:39,100
+If the agreement is completed successfully,
+
+228
+00:08:39,840 --> 00:08:41,840
+the criminal case is intended to end
+
+229
+00:08:41,840 --> 00:08:44,080
+without a trial on those corporate charges.
+
+230
+00:08:45,140 --> 00:08:45,600
+For eBay,
+
+231
+00:08:46,200 --> 00:08:48,120
+the agreement came with real consequences.
+
+232
+00:08:49,300 --> 00:08:52,020
+The company admitted a detailed factual account
+
+233
+00:08:52,020 --> 00:08:52,680
+of the conduct.
+
+234
+00:08:53,900 --> 00:08:56,140
+It agreed to pay a three-million-dollar criminal
+
+235
+00:08:56,140 --> 00:08:56,780
+penalty.
+
+236
+00:08:57,600 --> 00:09:00,260
+And it accepted an independent compliance monitor
+
+237
+00:09:00,260 --> 00:09:03,320
+for three years, along with cooperation and
+
+238
+00:09:03,320 --> 00:09:04,240
+compliance obligations.
+
+239
+00:09:05,640 --> 00:09:08,560
+At that point, the legal consequences no
+
+240
+00:09:08,560 --> 00:09:10,540
+longer belonged only to individuals.
+
+241
+00:09:11,620 --> 00:09:13,820
+eBay itself had entered a federal criminal
+
+242
+00:09:13,820 --> 00:09:15,980
+resolution tied to the conduct.
+
+243
+00:09:16,820 --> 00:09:19,600
+But one major question was still unresolved.
+
+244
+00:09:21,040 --> 00:09:23,300
+How far up the organization could civil
+
+245
+00:09:23,300 --> 00:09:25,860
+responsibility for the campaign extend?
+
+246
+00:09:26,960 --> 00:09:29,300
+That question was moving toward a jury.
+
+247
+00:09:30,640 --> 00:09:33,020
+The Steiners filed their federal civil case
+
+248
+00:09:33,020 --> 00:09:34,500
+in July twenty twenty-one.
+
+249
+00:09:35,640 --> 00:09:38,600
+Four years later, Judge Patti Saris issued
+
+250
+00:09:38,600 --> 00:09:40,400
+a major summary-judgment order.
+
+251
+00:09:41,040 --> 00:09:43,760
+At this stage, the key distinction is
+
+252
+00:09:43,760 --> 00:09:44,020
+simple:
+
+253
+00:09:44,790 --> 00:09:47,180
+allowing a claim to continue does not
+
+254
+00:09:47,180 --> 00:09:49,240
+mean a defendant has been found liable.
+
+255
+00:09:50,280 --> 00:09:51,980
+It means the issue can still be
+
+256
+00:09:51,980 --> 00:09:53,080
+decided by a jury.
+
+257
+00:09:53,800 --> 00:09:56,600
+And the court treated different defendants differently.
+
+258
+00:09:57,780 --> 00:10:01,480
+A security contractor named P-F-C won summary
+
+259
+00:10:01,480 --> 00:10:03,440
+judgment on the claims against it.
+
+260
+00:10:04,100 --> 00:10:07,420
+But significant claims involving eBay and former
+
+261
+00:10:07,420 --> 00:10:08,760
+executives survived.
+
+262
+00:10:09,660 --> 00:10:12,620
+For Devin Wenig, the record included an
+
+263
+00:10:12,620 --> 00:10:13,540
+important limitation:
+
+264
+00:10:14,740 --> 00:10:17,260
+Baugh testified that Wenig had not communicated
+
+265
+00:10:17,260 --> 00:10:19,440
+with him directly about the Steiners.
+
+266
+00:10:20,240 --> 00:10:21,340
+At the same time,
+
+267
+00:10:21,720 --> 00:10:22,720
+the judge held that,
+
+268
+00:10:23,040 --> 00:10:24,860
+viewing the evidence in the Steiners favor
+
+269
+00:10:25,300 --> 00:10:26,740
+as required at that stage,
+
+270
+00:10:27,420 --> 00:10:30,180
+a jury could potentially find Wenig's encouragement
+
+271
+00:10:30,180 --> 00:10:33,060
+was a substantial factor in what followed.
+
+272
+00:10:34,080 --> 00:10:35,940
+Wenig disputed that interpretation.
+
+273
+00:10:36,800 --> 00:10:39,380
+His lawyers said he had no knowledge
+
+274
+00:10:39,380 --> 00:10:42,460
+of or involvement in the harassment campaign,
+
+275
+00:10:43,020 --> 00:10:45,260
+did not approve or authorize it,
+
+276
+00:10:45,800 --> 00:10:48,120
+and argued that his messages concerned a
+
+277
+00:10:48,120 --> 00:10:50,940
+public-relations response to the Steiners reporting.
+
+278
+00:10:52,280 --> 00:10:54,380
+For Steve Wymer, the court pointed to
+
+279
+00:10:54,380 --> 00:10:57,260
+a more extensive communication record and held
+
+280
+00:10:57,260 --> 00:10:59,780
+that a reasonable jury could find he
+
+281
+00:10:59,780 --> 00:11:00,400
+had induced,
+
+282
+00:11:00,980 --> 00:11:03,820
+encouraged or authorized tortious conduct.
+
+283
+00:11:04,560 --> 00:11:07,200
+Again, that was not a final finding
+
+284
+00:11:07,200 --> 00:11:07,640
+of liability.
+
+285
+00:11:09,000 --> 00:11:12,040
+And Wenig, Wymer and Wendy Jones were
+
+286
+00:11:12,040 --> 00:11:14,260
+not criminally charged over the campaign.
+
+287
+00:11:15,700 --> 00:11:19,340
+eBay's internal-investigation position also cut the other
+
+288
+00:11:19,340 --> 00:11:19,600
+way:
+
+289
+00:11:20,420 --> 00:11:22,920
+according to reporting on a company presentation,
+
+290
+00:11:23,520 --> 00:11:25,500
+its lawyers said they had found no
+
+291
+00:11:25,500 --> 00:11:28,480
+evidence that Wenig or Wymer directed the
+
+292
+00:11:28,480 --> 00:11:31,060
+criminal acts or knew those acts would
+
+293
+00:11:31,060 --> 00:11:31,400
+follow.
+
+294
+00:11:32,440 --> 00:11:34,420
+So by late twenty twenty-five,
+
+295
+00:11:35,120 --> 00:11:38,040
+the unresolved question was how far responsibility
+
+296
+00:11:38,040 --> 00:11:40,960
+extended above the people who had carried
+
+297
+00:11:40,960 --> 00:11:42,280
+out the security operation.
+
+298
+00:11:43,640 --> 00:11:45,720
+A jury was getting close to answering
+
+299
+00:11:45,720 --> 00:11:46,080
+that.
+
+300
+00:11:47,140 --> 00:11:49,000
+Then the case appeared to end.
+
+301
+00:11:50,380 --> 00:11:52,680
+On February twenty-fifth, twenty twenty-six,
+
+302
+00:11:53,060 --> 00:11:55,540
+just before trial, the parties reported a
+
+303
+00:11:55,540 --> 00:11:56,520
+settlement in principle.
+
+304
+00:11:57,440 --> 00:11:58,560
+The terms were not disclosed.
+
+305
+00:11:58,560 --> 00:12:02,080
+The case was conditionally dismissed while they
+
+306
+00:12:02,080 --> 00:12:03,480
+worked to finalize the agreement.
+
+307
+00:12:04,220 --> 00:12:05,820
+After years of criminal cases,
+
+308
+00:12:06,260 --> 00:12:09,640
+a corporate D-P-A, civil discovery and pretrial
+
+309
+00:12:09,640 --> 00:12:11,780
+rulings, it looked like the final chapter.
+
+310
+00:12:12,680 --> 00:12:13,820
+Then the deal failed.
+
+311
+00:12:14,860 --> 00:12:16,860
+By June, the settlement had not been
+
+312
+00:12:16,860 --> 00:12:17,140
+finalized.
+
+313
+00:12:18,240 --> 00:12:19,400
+The civil case was reopened.
+
+314
+00:12:20,200 --> 00:12:21,620
+A new trial date was set for
+
+315
+00:12:21,620 --> 00:12:23,180
+January twenty twenty-seven.
+
+316
+00:12:23,960 --> 00:12:27,320
+That put the unresolved civil-responsibility question back
+
+317
+00:12:27,320 --> 00:12:27,880
+on the table.
+
+318
+00:12:28,680 --> 00:12:30,160
+But before a jury could hear the
+
+319
+00:12:30,160 --> 00:12:32,340
+case, the parties reached another deal.
+
+320
+00:12:32,940 --> 00:12:34,480
+This one became the final settlement.
+
+321
+00:12:35,100 --> 00:12:37,000
+And this time, the numbers were public.
+
+322
+00:12:37,980 --> 00:12:39,920
+The final agreement was announced in late
+
+323
+00:12:39,920 --> 00:12:41,360
+July twenty twenty-six.
+
+324
+00:12:42,080 --> 00:12:45,640
+The total announced settlement package was fifty-five-point-seven
+
+325
+00:12:45,640 --> 00:12:46,940
+million dollars.
+
+326
+00:12:46,940 --> 00:12:48,600
+But that number has to be broken
+
+327
+00:12:48,600 --> 00:12:48,940
+apart.
+
+328
+00:12:49,720 --> 00:12:52,520
+It was not a fifty-five-point-seven-million-dollar judgment.
+
+329
+00:12:53,220 --> 00:12:55,900
+And it was not a fifty-five-point-seven-million-dollar payment
+
+330
+00:12:55,900 --> 00:12:57,680
+made only by eBay.
+
+331
+00:12:58,640 --> 00:13:00,000
+According to the announced terms,
+
+332
+00:13:00,500 --> 00:13:03,560
+forty-eight-point-seven million dollars was compensation to the
+
+333
+00:13:03,560 --> 00:13:04,000
+Steiners.
+
+334
+00:13:04,680 --> 00:13:07,060
+Another seven million dollars consisted of charitable
+
+335
+00:13:07,060 --> 00:13:07,640
+commitments.
+
+336
+00:13:08,540 --> 00:13:09,400
+Of the direct compensation,
+
+337
+00:13:10,120 --> 00:13:14,660
+eBay's announced share was forty-six-point-one-five million dollars.
+
+338
+00:13:14,660 --> 00:13:16,180
+Devin Wenig's was two million.
+
+339
+00:13:17,040 --> 00:13:18,840
+Wendy Jones's was five hundred thousand.
+
+340
+00:13:19,700 --> 00:13:21,260
+Steve Wymer's was fifty thousand.
+
+341
+00:13:21,740 --> 00:13:24,860
+Separately, eBay committed six million dollars to
+
+342
+00:13:24,860 --> 00:13:25,920
+nonprofit organizations,
+
+343
+00:13:26,640 --> 00:13:28,880
+and Wenig committed one million dollars to
+
+344
+00:13:28,880 --> 00:13:31,780
+a First Amendment-focused charity in Ina Steiner's
+
+345
+00:13:31,780 --> 00:13:32,020
+name.
+
+346
+00:13:32,780 --> 00:13:35,580
+That is how the total reached fifty-five-point-seven
+
+347
+00:13:35,580 --> 00:13:35,940
+million.
+
+348
+00:13:36,540 --> 00:13:38,580
+And that number should not be combined
+
+349
+00:13:38,580 --> 00:13:42,540
+with eBay's separate three-million-dollar criminal penalty and
+
+350
+00:13:42,540 --> 00:13:45,700
+presented as a fifty-eight-point-seven-million-dollar award.
+
+351
+00:13:46,300 --> 00:13:47,520
+There was no such award.
+
+352
+00:13:48,320 --> 00:13:50,660
+These were separate legal resolutions with different
+
+353
+00:13:50,660 --> 00:13:51,220
+purposes.
+
+354
+00:13:51,220 --> 00:13:54,440
+One was a federal criminal resolution involving
+
+355
+00:13:54,440 --> 00:13:55,080
+the company.
+
+356
+00:13:55,740 --> 00:13:57,640
+The other was the final civil settlement
+
+357
+00:13:57,640 --> 00:13:58,040
+package.
+
+358
+00:13:58,820 --> 00:14:00,480
+The cost did not arrive in one
+
+359
+00:14:00,480 --> 00:14:01,840
+courtroom on one day.
+
+360
+00:14:02,420 --> 00:14:03,700
+It accumulated over years.
+
+361
+00:14:04,600 --> 00:14:06,740
+In its July twenty twenty-six statement,
+
+362
+00:14:07,140 --> 00:14:09,700
+eBay apologized to Ina and David Steiner.
+
+363
+00:14:10,300 --> 00:14:11,920
+The company called the conduct of the
+
+364
+00:14:11,920 --> 00:14:14,500
+former employees wrong and reprehensible.
+
+365
+00:14:15,180 --> 00:14:17,160
+It also acknowledged what it described as
+
+366
+00:14:17,160 --> 00:14:20,000
+unprofessional communications involving Wenig,
+
+367
+00:14:20,380 --> 00:14:21,280
+Wymer and Jones.
+
+368
+00:14:22,240 --> 00:14:23,700
+But the settlement meant there would be
+
+369
+00:14:23,700 --> 00:14:26,620
+no jury verdict deciding the surviving civil-liability
+
+370
+00:14:26,620 --> 00:14:29,060
+questions against those former executives.
+
+371
+00:14:30,120 --> 00:14:31,400
+So the ending is not that a
+
+372
+00:14:31,400 --> 00:14:32,880
+court answered every question.
+
+373
+00:14:33,560 --> 00:14:34,060
+It did not.
+
+374
+00:14:34,800 --> 00:14:36,820
+What the public record does show is
+
+375
+00:14:36,820 --> 00:14:37,080
+enough.
+
+376
+00:14:37,860 --> 00:14:40,540
+A small publication criticized a global marketplace.
+
+377
+00:14:41,420 --> 00:14:42,340
+Inside eBay,
+
+378
+00:14:42,960 --> 00:14:45,720
+that criticism generated escalating internal hostility.
+
+379
+00:14:46,500 --> 00:14:48,700
+The issue moved into corporate security.
+
+380
+00:14:49,200 --> 00:14:51,800
+Security personnel planned and carried out harassment
+
+381
+00:14:51,800 --> 00:14:52,460
+and surveillance.
+
+382
+00:14:53,340 --> 00:14:54,740
+When police began investigating,
+
+383
+00:14:55,280 --> 00:14:57,020
+the problem expanded into obstruction.
+
+384
+00:14:57,900 --> 00:15:00,400
+Seven prosecuted participants pleaded guilty.
+
+385
+00:15:01,260 --> 00:15:03,340
+eBay itself later entered a federal deferred
+
+386
+00:15:03,340 --> 00:15:06,460
+prosecution agreement, admitted detailed facts,
+
+387
+00:15:06,920 --> 00:15:08,980
+paid a three-million-dollar criminal penalty,
+
+388
+00:15:09,360 --> 00:15:11,140
+and accepted an independent monitor.
+
+389
+00:15:11,840 --> 00:15:14,460
+Years of civil litigation then pushed unresolved
+
+390
+00:15:14,460 --> 00:15:18,040
+questions about responsibility higher into the organization.
+
+391
+00:15:19,080 --> 00:15:21,080
+The first twenty twenty-six settlement failed.
+
+392
+00:15:21,900 --> 00:15:23,460
+The second ended the case with a
+
+393
+00:15:23,460 --> 00:15:26,520
+fifty-five-point-seven-million-dollar settlement package.
+
+394
+00:15:27,320 --> 00:15:28,540
+There were personal costs:
+
+395
+00:15:28,960 --> 00:15:30,740
+guilty pleas and prison sentences.
+
+396
+00:15:31,660 --> 00:15:33,220
+There were corporate legal costs:
+
+397
+00:15:33,640 --> 00:15:34,360
+federal charges,
+
+398
+00:15:34,980 --> 00:15:35,440
+a D-P-A,
+
+399
+00:15:36,060 --> 00:15:37,400
+a penalty, and monitoring.
+
+400
+00:15:38,280 --> 00:15:40,360
+And there were civil financial costs measured
+
+401
+00:15:40,360 --> 00:15:42,180
+i n tens of millions of dollars.
+
+402
+00:15:42,720 --> 00:15:44,140
+All of that grew out of a
+
+403
+00:15:44,140 --> 00:15:46,600
+problem every major company eventually faces:
+
+404
+00:15:47,460 --> 00:15:47,840
+criticism.
+
+405
+00:15:48,720 --> 00:15:50,480
+The expensive decision was not that the
+
+406
+00:15:50,480 --> 00:15:51,340
+criticism existed.
+
+407
+00:15:52,080 --> 00:15:53,860
+It was what people inside the company
+
+408
+00:15:53,860 --> 00:15:55,160
+decided to do about it.
+
+409
+00:15:55,680 --> 00:15:56,920
+And that is what it cost.
+

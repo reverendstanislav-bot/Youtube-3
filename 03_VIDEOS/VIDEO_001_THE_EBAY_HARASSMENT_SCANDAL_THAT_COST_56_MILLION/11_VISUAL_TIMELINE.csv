@@ -1,0 +1,116 @@
+beat_id,section,start,end,spoken_text,visual_code,evidence_code,legal
+B001,S01,0.000,5.400,"In August twenty nineteen, a couple in Massachusetts began receiving things that made no sense.",V01,E01,L
+B002,S01,6.340,7.000,Live insects.,V02,E02,M
+B003,S01,7.760,8.660,Threatening messages.,V02,E02,M
+B004,S01,9.480,10.480,A bloody pig mask.,V02,E02,M
+B005,S01,11.160,21.760,"And eventually, people connected to the campaign were watching them in person and trying to put a G-P-S tracker on their car. At first glance, this sounds like an internet stalking story.",V03,E01,M
+B006,S01,22.300,29.240,"But the people behind it were not anonymous trolls. They worked in, or with, the security organization of eBay.",V04,E01,L
+B007,S01,30.120,36.640,All seven former employees and contractors who were federally prosecuted over the campaign later pleaded guilty.,V05,E03,M
+B008,S01,37.380,52.660,"Years later, prosecutors filed criminal charges against eBay itself. The company entered a deferred prosecution agreement, admitted a detailed factual account, paid a three-million-dollar criminal penalty, and accepted an independent compliance monitor.",V06,E03,H
+B009,S01,53.280,61.640,"And in July twenty twenty-six, the civil case ended in an announced settlement package worth fifty-five-point-seven million dollars.",V07,E03,H
+B010,S01,61.640,73.980,But the strangest part is not what arrived at the front door. It is how criticism of a company became a security problem inside that company — and how the consequences kept growing long after the harassment stopped.,V01,E01,L
+B011,S02,74.680,82.100,"Ina and David Steiner ran EcommerceBytes, an independent publication covering online commerce since nineteen ninety-nine.",V08,E01,L
+B012,S02,82.920,89.480,"The scale mismatch was obvious: an independent trade publication on one side, a global marketplace on the other.",V08,E01,L
+B013,S02,90.120,99.720,"But the Steiners covered eBay's world closely — sellers, marketplace rules, executive decisions, and the complaints of people who depended on platforms like eBay.",V04,E01,L
+B014,S02,100.540,110.020,"By spring twenty nineteen, a later federal court record shows that EcommerceBytes had become an increasing source of frustration for people inside eBay's leadership.",V09,E03,H
+B015,S02,110.440,119.260,The Steiners were not business rivals trying to take eBay's customers. They were publishers criticizing the company and giving readers a place to criticize it too.,V08,E01,L
+B016,S02,119.920,130.260,Companies face criticism every day. The real question is how criticism from two publishers became something people inside eBay's security organization were expected to solve.,V08,E01,L
+B017,S03,131.060,143.460,"The internal messages are where the story changes. In April twenty nineteen, Steve Wymer — eBay's communications chief — sent then-C-E-O Devin Wenig a message about an Ina Steiner article.",V04,E01,L
+B018,S03,144.140,146.920,His words were: “We are going to crush this lady.”,V10,E03,H
+B019,S03,147.600,152.740,"Weeks later, according to the federal court record, Wenig told Wymer to “take her down.”",V10,E03,H
+B020,S03,153.580,159.860,"And on August first, another message from Wenig said that if they were ever going to act, “now is the time.”",V10,E03,H
+B021,S03,160.680,168.060,"Those words are dramatic. But they are not, by themselves, proof that Wenig or any other executive ordered the crimes that followed.",V03,E01,M
+B022,S03,168.740,179.680,The later court record says Jim Baugh — the head of eBay security — testified that Wenig never communicated directly with him about the Steiners. Wenig's relevant communications went through Wymer.,V09,E03,H
+B023,S03,180.260,189.800,"Still, inside the organization, the language was escalating. Wymer's messages to Baugh became increasingly ag gressive, including the phrase “Whatever it takes.”",V10,E03,H
+B024,S03,190.560,194.220,Another executive relationship was pulling the issue toward security too.,V01,E01,L
+B025,S03,194.950,204.200,"Wendy Jones — Baugh's direct supervisor — told him, according to the court record, to handle the issue “off the radar” and said she did not want details.",V10,E03,H
+B026,S03,205.240,216.120,"That is not the same as a finding that Jones knew what the security team would later do. But by this point, criticism from two publishers was no longer being discussed only as a communications problem.",V08,E01,L
+B027,S03,216.740,218.300,It had entered the security chain.,V01,E01,L
+B028,S04,219.200,226.140,"Before the most notorious phase of the campaign, members of Baugh's security operation had already traveled to Massachusetts.",V03,E01,M
+B029,S04,227.160,241.820,"During an early trip, security employee Brian Gilbert surveilled the Steiners and spray-painted “FidoMaster” on their fence — a username used by a commenter on EcommerceBytes whom the security team believed was connected to the Steiners.",V03,E01,M
+B030,S04,242.560,252.480,Baugh later described the trip to Wymer as a “tap on the shoulder.” That moment matters because it shows how the problem was being translated inside the company.,V01,E01,L
+B031,S04,253.440,262.820,"At the top, there was anger about criticism. In the middle, increasingly forceful messages. At the security level, those messages were becoming action.",V01,E01,L
+B032,S04,263.740,273.040,"Then the process became more organized. On August sixth, Baugh held meetings with security-team members to plan an operation against the Steiners.",V01,E01,L
+B033,S04,273.860,283.080,"The plan included unwanted deliveries and online harassment. The next day, Baugh met with Wymer. And then the operation accelerated.",V01,E01,L
+B034,S05,284.180,293.200,The Steiners began receiving threatening online messages and disturbing deliveries. The admitted record includes live insects and a bloody pig mask.,V02,E02,M
+B035,S05,294.220,300.920,There were also Craigslist posts designed to send strangers toward the Steiners and other messages intended to frighten them.,V02,E02,M
+B036,S05,301.780,308.420,The details are bizarre enough to make the story feel almost unreal. But the key point is that this was organized.,V01,E01,L
+B037,S05,309.400,318.820,"People were planning activities, traveling, communicating, and using corporate-security personnel and resources around a campaign directed at two private citizens.",V01,E01,L
+B038,S05,319.880,328.140,"Then the line moved again. On August fifteenth, Baugh, David Harville and Veronica Zea traveled to the Steiners' area.",V01,E01,L
+B039,S05,328.940,337.480,"According to the federal court record, they attempted to install a G-P-S tracker on the Steiners' vehicle. They also surveilled and followed the couple.",V09,E03,H
+B040,S05,338.340,349.320,The tracker was not established as successfully installed. But the attempt changed the nature of the story. This was no longer just anonymous online harassment or disturbing deliveries.,V03,E01,M
+B041,S05,350.380,355.800,"It had become a physical surveillance operation. And the next day, the Steiners went to the police.",V03,E01,M
+B042,S06,356.860,366.060,"Natick police began investigating on August sixteenth, twenty nineteen. That should have ended the operation. Instead, it created a second problem.",V11,E01,M
+B043,S06,366.980,374.300,The first was what the security team had done. The second was what members of that team did once investigators started asking questions.,V01,E01,L
+B044,S06,375.480,384.240,"The record admitted by eBay and described by federal prosecutors includes false statements, deletion of digital evidence, and falsified records.",V06,E03,H
+B045,S06,385.280,394.160,"A security organization that existed to reduce risk had now created two kinds of risk: the operation itself, and the effort to conceal it.",V01,E01,L
+B046,S06,395.020,410.060,"eBay began its own internal investigation days later. By the end of August, several security employees had been placed on leave. Over time, key members of the operation were removed or terminated, and one contractor's relationship ended.",V04,E01,L
+B047,S06,410.900,415.800,But internal discipline was only the beginning. Federal prosecutors were coming next.,V06,E03,H
+B048,S07,416.540,422.360,"Beginning in twenty twenty, federal prosecutors brought criminal cases against people involved in the campaign.",V06,E03,H
+B049,S07,423.480,429.180,"Eventually, all seven former eBay employees and contractors who were prosecuted pleaded guilty.",V05,E03,M
+B050,S07,430.420,439.600,A guilty plea is not an allegation. It establishes criminal guilt without a trial. Jim Baugh received fifty-seven months in prison.,V05,E03,M
+B051,S07,440.920,449.880,"David Harville received twenty-four months. Other participants received combinations of prison, probation, home confinement, and financial penalties.",V05,E03,M
+B052,S07,451.340,460.880,"By twenty twenty-four, the individual criminal cases had produced a clear story of personal accountability. And from a distance, that can look like the ending.",V01,E01,L
+B053,S07,462.060,468.780,eBay had removed key members of the security operation. The people who were federally prosecuted had pleaded guilty.,V05,E03,M
+B054,S07,469.980,476.000,But federal prosecutors eventually turned from the individuals inside the company to the company itself.,V06,E03,H
+B055,S08,477.340,483.160,"In January twenty twenty-four, prosecutors filed a six-count criminal Information against eBay.",V06,E03,H
+B056,S08,484.200,495.500,"The counts included interstate stalking, stalking through electronic communications, witness tampering, and destruction or falsification of records connected to a federal investigation.",V01,E01,L
+B057,S08,496.900,499.300,But eBay was not convicted on those charges.,V04,E01,L
+B058,S08,500.300,503.880,"Instead, the company entered a deferred prosecution agreement.",V06,E03,H
+B059,S08,505.020,508.380,A deferred prosecution agreement works differently from a conviction.,V06,E03,H
+B060,S08,509.420,524.080,"The government files charges, but prosecution is held back while the company complies with negotiated conditions. If the agreement is completed successfully, the criminal case is intended to end without a trial on those corporate charges.",V01,E01,L
+B061,S08,525.140,528.120,"For eBay, the agreement came with real consequences.",V04,E01,L
+B062,S08,529.300,536.780,The company admitted a detailed factual account of the conduct. It agreed to pay a three-million-dollar criminal penalty.,V07,E03,H
+B063,S08,537.600,544.240,"And it accepted an independent compliance monitor for three years, along with cooperation and compliance obligations.",V06,E03,H
+B064,S08,545.640,555.980,"At that point, the legal consequences no longer belonged only to individuals. eBay itself had entered a federal criminal resolution tied to the conduct.",V04,E01,L
+B065,S08,556.820,565.860,But one major question was still unresolved. How far up the organization could civil responsibility for the campaign extend?,V01,E01,L
+B066,S08,566.960,569.300,That question was moving toward a jury.,V09,E03,H
+B067,S09,570.640,574.500,The Steiners filed their federal civil case in July twenty twenty-one.,V01,E01,L
+B068,S09,575.640,580.400,"Four years later, Judge Patti Saris issued a major summary-judgment order.",V09,E03,H
+B069,S09,581.040,593.080,"At this stage, the key distinction is simple: allowing a claim to continue does not mean a defendant has been found liable. It means the issue can still be decided by a jury.",V09,E03,H
+B070,S09,593.800,603.440,And the court treated different defendants differently. A security contractor named P-F-C won summary judgment on the claims against it.,V09,E03,H
+B071,S09,604.100,608.760,But significant claims involving eBay and former executives survived.,V04,E01,L
+B072,S09,609.660,619.440,"For Devin Wenig, the record included an important limitation: Baugh testified that Wenig had not communicated with him directly about the Steiners.",V01,E01,L
+B073,S09,620.240,633.060,"At the same time, the judge held that, viewing the evidence in the Steiners' favor as required at that stage, a jury could potentially find Wenig's encouragement was a substantial factor in what followed.",V09,E03,H
+B074,S09,634.080,650.940,"Wenig disputed that interpretation. His lawyers said he had no knowledge of or involvement in the harassment campaign, did not approve or authorize it, and argued that his messages concerned a public-relations response to the Steiners' reporting.",V09,E03,H
+B075,S09,652.280,663.820,"For Steve Wymer, the court pointed to a more extensive communication record and held that a reasonable jury could find he had induced, encouraged or authorized tortious conduct.",V09,E03,H
+B076,S09,664.560,667.640,"Again, that was not a final finding of liability.",V09,E03,H
+B077,S09,669.000,674.260,"And Wenig, Wymer and Wendy Jones were not criminally charged over the campaign.",V01,E01,L
+B078,S09,675.700,691.400,"eBay's internal-investigation position also cut the other way: according to reporting on a company presentation, its lawyers said they had found no evidence that Wenig or Wymer directed the criminal acts or knew those acts would follow.",V09,E03,H
+B079,S09,692.440,702.280,"So by late twenty twenty-five, the unresolved question was how far responsibility extended above the people who had carried out the security operation.",V01,E01,L
+B080,S09,703.640,709.000,A jury was getting close to answering that. Then the case appeared to end.,V09,E03,H
+B081,S10,710.380,718.560,"On February twenty-fifth, twenty twenty-six, just before trial, the parties reported a settlement in principle. The terms were not disclosed.",V07,E03,H
+B082,S10,718.560,723.480,The case was conditionally dismissed while they worked to finalize the agreement.,V01,E01,L
+B083,S10,724.220,733.820,"After years of criminal cases, a corporate D-P-A, civil discovery and pretrial rulings, it looked like the final chapter. Then the deal failed.",V01,E01,L
+B084,S10,734.860,743.180,"By June, the settlement had not been finalized. The civil case was reopened. A new trial date was set for January twenty twenty-seven.",V07,E03,H
+B085,S10,743.960,752.340,"That put the unresolved civil-responsibility question back on the table. But before a jury could hear the case, the parties reached another deal.",V09,E03,H
+B086,S10,752.940,757.000,"This one became the final settlement. And this time, the numbers were public.",V07,E03,H
+B087,S11,757.980,761.360,The final agreement was announced in late July twenty twenty-six.,V01,E01,L
+B088,S11,762.080,766.940,The total announced settlement package was fifty-five-point-seven million dollars.,V07,E03,H
+B089,S11,766.940,772.520,But that number has to be broken apart. It was not a fifty-five-point-seven-million-dollar judgment.,V07,E03,H
+B090,S11,773.220,777.680,And it was not a fifty-five-point-seven-million-dollar payment made only by eBay.,V07,E03,H
+B091,S11,778.640,784.000,"According to the announced terms, forty-eight-point-seven million dollars was compensation to the Steiners.",V07,E03,H
+B092,S11,784.680,787.640,Another seven million dollars consisted of charitable commitments.,V07,E03,H
+B093,S11,788.540,794.660,"Of the direct compensation, eBay's announced share was forty-six-point-one-five million dollars.",V07,E03,H
+B094,S11,794.660,796.180,Devin Wenig's was two million.,V07,E03,H
+B095,S11,797.040,801.260,Wendy Jones's was five hundred thousand. Steve Wymer's was fifty thousand.,V07,E03,H
+B096,S11,801.740,812.020,"Separately, eBay committed six million dollars to nonprofit organizations, and Wenig committed one million dollars to a First Amendment-focused charity in Ina Steiner's name.",V07,E03,H
+B097,S11,812.780,815.940,That is how the total reached fifty-five-point-seven million.,V07,E03,H
+B098,S11,816.540,825.700,And that number should not be combined with eBay's separate three-million-dollar criminal penalty and presented as a fifty-eight-point-seven-million-dollar award.,V07,E03,H
+B099,S11,826.300,827.520,There was no such award.,V01,E01,L
+B100,S11,828.320,838.040,These were separate legal resolutions with different purposes. One was a federal criminal resolution involving the company. The other was the final civil settlement package.,V07,E03,H
+B101,S11,838.820,843.700,The cost did not arrive in one courtroom on one day. It accumulated over years.,V09,E03,H
+B102,S12,844.600,854.500,"In its July twenty twenty-six statement, eBay apologized to Ina and David Steiner. The company called the conduct of the former employees wrong and reprehensible.",V12,E04,M
+B103,S12,855.180,861.280,"It also acknowledged what it described as unprofessional communications involving Wenig, Wymer and Jones.",V12,E04,M
+B104,S12,862.240,869.060,But the settlement meant there would be no jury verdict deciding the surviving civil-liability questions against those former executives.,V09,E03,H
+B105,S12,870.120,880.540,So the ending is not that a court answered every question. It did not. What the public record does show is enough. A small publication criticized a global marketplace.,V09,E03,H
+B106,S12,881.420,888.700,"Inside eBay, that criticism generated escalating internal hostility. The issue moved into corporate security.",V12,E04,M
+B107,S12,889.200,897.020,"Security personnel planned and carried out harassment and surveillance. When police began investigating, the problem expanded into obstruction.",V03,E01,M
+B108,S12,897.900,900.400,Seven prosecuted participants pleaded guilty.,V05,E03,M
+B109,S12,901.260,911.140,"eBay itself later entered a federal deferred prosecution agreement, admitted detailed facts, paid a three-million-dollar criminal penalty, and accepted an independent monitor.",V06,E03,H
+B110,S12,911.840,921.080,Years of civil litigation then pushed unresolved questions about responsibility higher into the organization. The first twenty twenty-six settlement failed.,V07,E03,H
+B111,S12,921.900,926.520,The second ended the case with a fifty-five-point-seven-million-dollar settlement package.,V07,E03,H
+B112,S12,927.320,937.400,"There were personal costs: guilty pleas and prison sentences. There were corporate legal costs: federal charges, a D-P-A, a penalty, and monitoring.",V05,E03,M
+B113,S12,938.280,942.180,And there were civil financial costs measured i n tens of millions of dollars.,V07,E03,H
+B114,S12,942.720,951.340,All of that grew out of a problem every major company eventually faces: criticism. The expensive decision was not that the criticism existed.,V12,E04,M
+B115,S12,952.080,956.920,It was what people inside the company decided to do about it. And that is what it cost.,V12,E04,M

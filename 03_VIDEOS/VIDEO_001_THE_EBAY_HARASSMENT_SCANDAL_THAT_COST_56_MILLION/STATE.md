@@ -8,7 +8,9 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 07 Final Script Lock: **PASS**
 - Stage 08 Voice Script: **PASS**
 - Stage 09 Voice QA + Lock: **PASS**
-- Current pipeline stage: 10_AUDIO_MASTER — **PASS / LOCKED**
+- Stage 10 Audio Master: **PASS / LOCKED**
+- Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
+- Current pipeline stage: 11_TRANSCRIPT_VISUAL_TIMELINE — **PASS / LOCKED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -76,8 +78,20 @@ Stage 10 result:
 - master URI: https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/4c1aa66b-440d-4fc7-ae95-78e60845ae5f.mp3;
 - Stage 10: **PASS / AUDIO MASTER LOCKED**.
 
+Stage 11 result:
+- final Stage 10 audio SHA-256 reverified before alignment;
+- **2,152** canonical narration words aligned to the final Harrison master;
+- authored-script / ASR similarity: **0.944**;
+- `11_CAPTIONS.srt`: **409** authored-text cues;
+- `11_VISUAL_TIMELINE.csv`: **115** locked visual beats, median **7.42s**, max **16.86s**;
+- **52** beats flagged HIGH legal sensitivity;
+- timeline uses a compact codebook documented in `11_TRANSCRIPT_VISUAL_QA.md`;
+- every visual beat remains `UNSOURCED` for Stage 12;
+- no visual assets were searched, downloaded or generated;
+- Stage 11: **PASS / VISUAL TIMELINE LOCKED**.
+
 Next action:
-- **STOP. Await explicit owner instruction before Stage 11 — Transcript + Visual Timeline.**
+- **STOP. Await explicit owner instruction before Stage 12 — Visual Source / Generation Plan.**
 
 ## Spend lock — HARD
 
@@ -92,7 +106,7 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- None for Stage 10. Stage 11 is intentionally not started until explicit owner instruction.
+- None for Stage 11. Stage 12 is intentionally not started until explicit owner instruction.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
