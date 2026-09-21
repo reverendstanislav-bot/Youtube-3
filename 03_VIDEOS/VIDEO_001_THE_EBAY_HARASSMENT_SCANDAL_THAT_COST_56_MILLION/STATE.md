@@ -5,41 +5,35 @@ The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
 - Status: IN_PREPARATION
-- Stage: 03_SCRIPT_V1
+- Stage: 04_FACT_LEGAL_REVIEW
 - Locked artifacts: topic qualification, Stage 01 evidence research, Stage 02 case/story map
-- Topic decision: GO (91/100)
-- Research gate: PASS
-- Story-map gate: PASS
+- Script V1: COMPLETE / G03 PASS
+- Script length: ~2,465 words
+- Target runtime: 18–20 minutes before performance revision
 
-## Locked narrative spine
-**criticism -> executive escalation -> security mechanism -> harassment/surveillance -> police discovery + cover-up -> individual guilty pleas -> eBay DPA -> civil executive-liability questions -> failed settlement -> final $55.7M settlement package**
+## Script V1 outcome
+The complete English long-form first draft now follows the locked story map and preserves the principal legal-status boundaries.
 
-## Required opening
-Use one bizarre harassment object as a cold-open hook, then immediately reveal that the conduct came from eBay's security organization.
+Primary narrative:
+**criticism -> executive escalation -> security operation -> surveillance / obstruction -> guilty pleas -> eBay DPA -> civil executive-liability questions -> failed settlement -> final $55.7M package**
 
-Do not remain in true-crime mode.
+## Stage 04 review priorities
+1. Verify every direct quote against the cited court/primary record.
+2. Audit all executive-responsibility language against the 2025 summary-judgment standard.
+3. Re-check the DPA explanation for technical accuracy without overexplaining doctrine.
+4. Verify every settlement component and payor.
+5. Check that "all seven" and individual sentencing statements map exactly to DOJ records.
+6. Ensure no narration implies that settlement established liability.
+7. Confirm no material script sentence lacks a mapped claim/source.
 
-## Required differentiation
-The episode is about:
-**how a criticism/reputation problem became a corporate-security problem and then a measurable legal/financial consequence.**
+## Current title warning
+The working title is usable as a draft hook but must remain provisional:
+**The eBay Harassment Scandal That Cost $56 Million**
 
-It is not a generic retelling of the eBay stalking case.
-
-## Legal locks that Script V1 must preserve
-- all seven individually prosecuted participants pleaded guilty;
-- eBay entered a DPA; do not call eBay convicted;
-- Wenig/Wymer/Jones were not criminally charged;
-- summary-judgment survival means a jury could decide, not that liability was established;
-- February 2026 settlement was not the final deal;
-- $55.7M is the final settlement package, not an eBay-only payment or court judgment;
-- eBay's announced direct compensation share was $46.15M;
-- the attempted GPS tracker was not established as successfully installed.
-
-## Next action
-Draft `03_SCRIPT_V1.md` for a 15–22 minute target, preferably 17–20 minutes, using only supported claims.
+Stage 04 should test whether "cost $56 million" could imply an eBay-only payment strongly enough to require a wording change.
 
 ## Blockers
-None for Script V1.
+None to begin Stage 04.
 
 ## Agent handoff
-Use `02_STORY_MAP.md` as narrative authority, `CASE_EVENT_LEDGER.csv` as chronology authority and `CLAIMS_LEDGER.csv` as claim/legal-status authority. Do not select voice before Script #1 is locked.
+Run Fact + Legal Review before any Script V2 revision. Do not select voice. Do not treat Script V1 as canonical final narration.
