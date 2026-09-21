@@ -7,8 +7,8 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
-current_stage: "04_FACT_LEGAL_REVIEW"
-next_action: "Run Stage 04 Fact + Legal Review against 03_SCRIPT_V1.md and the claims/source ledgers"
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Apply mandatory Stage 04 fixes in 05_SCRIPT_V2.md without changing supported legal meaning"
 blockers: []
 
 stages:
@@ -16,8 +16,8 @@ stages:
   stage_01_evidence_research: "PASS"
   stage_02_case_story_map: "PASS"
   stage_03_script_v1: "PASS"
-  stage_04_fact_legal_review: "IN_PROGRESS"
-  stage_05_script_revision: "NOT_STARTED"
+  stage_04_fact_legal_review: "PASS"
+  stage_05_script_revision: "IN_PROGRESS"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
@@ -70,7 +70,7 @@ assets:
 qa:
   topic: "PASS"
   research: "PASS"
-  fact_legal: "NOT_RUN"
+  fact_legal: "PASS"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"

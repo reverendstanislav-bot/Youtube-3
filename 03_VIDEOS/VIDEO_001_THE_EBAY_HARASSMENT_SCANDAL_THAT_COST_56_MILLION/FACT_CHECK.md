@@ -1,6 +1,6 @@
 # VIDEO 001 — Fact Check
 
-Status: **RESEARCH PASS — NOT FINAL FACT/LEGAL REVIEW**
+Status: **STAGE 04 PASS — V2 FIXES REQUIRED**
 
 Last research refresh: 2026-09-20
 
@@ -169,4 +169,4 @@ Include in story:
 
 Proceed to Stage 02 Case / Story Map.
 
-Stage 04 and Stage 16 remain mandatory later; this file does not substitute for them.
+Stage 04 completed 2026-09-20 with PASS and mandatory Stage 05 fixes. Stage 16 final refresh remains mandatory.

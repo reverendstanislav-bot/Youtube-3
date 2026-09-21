@@ -5,35 +5,48 @@ The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
 - Status: IN_PREPARATION
-- Stage: 04_FACT_LEGAL_REVIEW
-- Locked artifacts: topic qualification, Stage 01 evidence research, Stage 02 case/story map
-- Script V1: COMPLETE / G03 PASS
-- Script length: ~2,465 words
-- Target runtime: 18–20 minutes before performance revision
+- Stage: 05_SCRIPT_REVISION
+- Stage 00 Topic Qualification: PASS
+- Stage 01 Evidence Research: PASS
+- Stage 02 Case / Story Map: PASS
+- Stage 03 Script V1: PASS
+- Stage 04 Fact + Legal Review: PASS
+- Script V1: ~2,465 words
 
-## Script V1 outcome
-The complete English long-form first draft now follows the locked story map and preserves the principal legal-status boundaries.
+## Stage 04 result
+The factual/legal spine passed.
 
-Primary narrative:
-**criticism -> executive escalation -> security operation -> surveillance / obstruction -> guilty pleas -> eBay DPA -> civil executive-liability questions -> failed settlement -> final $55.7M package**
+No blocker was found.
 
-## Stage 04 review priorities
-1. Verify every direct quote against the cited court/primary record.
-2. Audit all executive-responsibility language against the 2025 summary-judgment standard.
-3. Re-check the DPA explanation for technical accuracy without overexplaining doctrine.
-4. Verify every settlement component and payor.
-5. Check that "all seven" and individual sentencing statements map exactly to DOJ records.
-6. Ensure no narration implies that settlement established liability.
-7. Confirm no material script sentence lacks a mapped claim/source.
+Mandatory V2 fixes:
+1. tighten S02 scale comparison;
+2. make FidoMaster description exact;
+3. remove broad "employees were fired" wording;
+4. replace the "rogue employees" inference in S08;
+5. add Wenig's attributed defense position;
+6. compress S09 while preserving summary-judgment nuance;
+7. keep "$56M" title provisional.
 
-## Current title warning
-The working title is usable as a draft hook but must remain provisional:
-**The eBay Harassment Scandal That Cost $56 Million**
+## YouTube result
+Script-level Community Guidelines review: PASS.
 
-Stage 04 should test whether "cost $56 million" could imply an eBay-only payment strongly enough to require a wording change.
+Advertiser-friendliness:
+likely compatible with full ads if execution remains documentary and non-graphic.
+
+Production warnings:
+- redact addresses/phone numbers in documents;
+- no shock/gore-focused thumbnail;
+- no realistic AI reenactment presented as authentic;
+- disclose photorealistic AI reconstructions when required;
+- maintain commercial rights/provenance for visuals, clips, music and SFX.
+
+## Next action
+Create `05_SCRIPT_V2.md` applying every mandatory Stage 04 fix.
+
+Do not run Stage 06 until V2 is complete.
 
 ## Blockers
-None to begin Stage 04.
+None.
 
 ## Agent handoff
-Run Fact + Legal Review before any Script V2 revision. Do not select voice. Do not treat Script V1 as canonical final narration.
+Do not select voice. Stage 05 may tighten language and pacing but may not alter chronology, source meaning or legal status.

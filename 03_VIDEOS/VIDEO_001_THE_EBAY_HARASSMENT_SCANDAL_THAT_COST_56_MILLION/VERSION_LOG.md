@@ -10,4 +10,6 @@
 | 2026-09-20 | narrative/legal | v01 | Locked false-ending, summary-judgment and settlement chronology boundaries | Prevent dramatic compression from changing legal meaning | PASS |
 | 2026-09-20 | script | v01 | Complete English Script V1 drafted at ~2465 words | First full narration built strictly from locked Story Map / Claims Ledger | PASS |
 | 2026-09-20 | traceability | v01 | Added S01–S12 script references to all 31 material claims | Prepare sentence-level Stage 04 fact/legal review | PASS |
+| 2026-09-20 | fact/legal | v01 | Stage 04 full claim/legal/platform review completed | Script factual spine passes; mandatory V2 wording/fairness fixes logged | PASS |
+| 2026-09-20 | YouTube policy | v01 | Checked harassment, graphic/shocking, dangerous acts, ad suitability and AI disclosure rules | Script allowed in documentary context; visual/packaging safeguards locked | PASS |
 
