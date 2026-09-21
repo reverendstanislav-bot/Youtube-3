@@ -1,5 +1,5 @@
 priority,topic_id,pillar,working_title,role,status,notes
-1,T007,CORPORATE_SCANDAL,"The eBay Harassment Scandal That Cost $56 Million",PRIMARY_LAUNCH,LAUNCH_5_LOCKED,"Owner-approved Video #1 topic. Stage 00 still required before VIDEO_001 creation."
+1,T007,CORPORATE_SCANDAL,"The eBay Harassment Scandal That Cost $56 Million",PRIMARY_LAUNCH,READY_FOR_RESEARCH,"Stage 00 PASS (91/100); VIDEO_001 created. Evidence Research is next."
 2,T008,DEAL_CONTRACT,"Adobe's Failed Figma Deal Cost $1 Billion",BUSINESS_MECHANISM_EXPANSION,LAUNCH_5_LOCKED,"Owner-approved Video #2 topic. $1B reverse termination fee is the core mechanism."
 3,T006,COPYRIGHT_AI,"Why Universal Music Just Sued DistroKid",TIMELY_CREATOR_PLATFORM,LAUNCH_5_LOCKED,"Owner-approved Video #3 topic. Freshness check mandatory immediately before activation."
 4,T004,BUSINESS_LAWSUIT,"Steam Tried to Stop Thousands of Claims. Then This Happened.",PLATFORM_LEGAL_WAR,LAUNCH_5_LOCKED,"Owner-approved Video #4 topic. Procedural posture must be refreshed before activation."

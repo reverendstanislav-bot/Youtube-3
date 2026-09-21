@@ -59,15 +59,15 @@ PSA / Collectors moved to reserve.
 
 Important:
 - slate lock is not Stage 00 qualification;
-- no VIDEO_001 exists yet;
+- VIDEO_001 exists after T007 Stage 00 PASS;
 - each topic is separately qualified before production.
 
-## 5. Script #1 — BLOCKED BY T007 QUALIFICATION / RESEARCH
+## 5. Script #1 — BLOCKED BY EVIDENCE RESEARCH
 
 Next:
-- run Stage 00 on T007;
-- create VIDEO_001 only after PASS;
-- enter Evidence Research;
+- T007 Stage 00: PASS / GO — 91/100;
+- VIDEO_001: CREATED / READY_FOR_RESEARCH;
+- complete Evidence Research;
 - write Script #1;
 - fact/legal review;
 - performance review;
@@ -147,4 +147,4 @@ Passed:
 - Analytics framework
 
 Immediate next:
-**Stage 00 Topic Qualification for T007 — eBay.**
+**Stage 01 Evidence Research for VIDEO_001 — eBay.**

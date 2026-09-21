@@ -9,8 +9,8 @@ This file is the canonical launch-slate record for WHAT IT COST.
 Important:
 - Slots 1–5 are owner-approved and locked.
 - Slots 6–10 are not final yet.
-- Every topic still has to pass Stage 00 Topic Qualification before a VIDEO_0XX package is created.
-- No VIDEO_001 exists yet.
+- Every topic still has to pass Stage 00 before package creation. T007 has passed.
+- VIDEO_001 now exists because T007 passed Stage 00.
 - PSA is no longer part of Launch 5 and has moved to reserve.
 
 ## Locked Launch 5
@@ -102,13 +102,11 @@ Slots 6–10 remain editable.
 
 ## Next gate
 
-**T007 — eBay**
+**VIDEO_001 — eBay**
+
+Stage 00 result: **GO — 91/100**
 
 Next action:
-Run Stage 00 Topic Qualification using current primary sources.
-
-Only after PASS:
-- create VIDEO_001;
-- begin Stage 01 Evidence Research.
+Begin Stage 01 Evidence Research and populate the evidence ledgers.
 
 Voice remains intentionally deferred until Script #1 is locked.
