@@ -62,23 +62,27 @@ Important:
 - VIDEO_001 exists after T007 Stage 00 PASS;
 - each topic is separately qualified before production.
 
-## 5. Script #1 — BLOCKED BY EVIDENCE RESEARCH
+## 5. Script #1 — PASS / LOCKED
 
-Next:
+Completed:
 - T007 Stage 00: PASS / GO — 91/100;
-- VIDEO_001: CREATED / READY_FOR_RESEARCH;
-- complete Evidence Research;
-- write Script #1;
-- fact/legal review;
-- performance review;
-- Script #1 Lock.
+- Stage 01 Evidence Research: PASS;
+- Stage 02 Case / Story Map: PASS;
+- Script V1: PASS;
+- Fact + Legal Review: PASS;
+- Script V2: PASS;
+- Performance Review: PASS — 92/100;
+- Final Script Lock: PASS.
 
-## 6. Voice identity — DEFERRED UNTIL SCRIPT #1 LOCK
+Canonical narration:
+`03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/07_SCRIPT_FINAL.md`
+
+## 6. Voice identity — READY FOR TESTING / NOT LOCKED
 
 Canonical authority:
 `00_FOUNDATION/VOICE_LOCK.md`
 
-Do not select the channel narrator before Script #1 is locked.
+Script #1 is now locked. Voice testing/selection may begin against the canonical final script.
 
 ## 7. YouTube channel settings — NOT COMPLETE
 
@@ -147,4 +151,4 @@ Passed:
 - Analytics framework
 
 Immediate next:
-**Stage 01 Evidence Research for VIDEO_001 — eBay.**
+**Voice Test / Voice Lock against the locked VIDEO_001 final script.**

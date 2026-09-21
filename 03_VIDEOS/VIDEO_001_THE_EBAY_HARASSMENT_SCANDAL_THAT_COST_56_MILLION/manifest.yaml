@@ -7,8 +7,8 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
-current_stage: "07_SCRIPT_LOCK"
-next_action: "Apply accepted Stage 06 micro-edits and create canonical 07_SCRIPT_FINAL.md"
+current_stage: "08_VOICE_SCRIPT"
+next_action: "Test and select the channel narrator against 07_SCRIPT_FINAL.md, then prepare 08_VOICE_SCRIPT.md"
 blockers: []
 
 stages:
@@ -19,7 +19,7 @@ stages:
   stage_04_fact_legal_review: "PASS"
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS"
-  stage_07_script_lock: "IN_PROGRESS"
+  stage_07_script_lock: "PASS"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -37,7 +37,7 @@ locks:
   topic_qualified: true
   evidence_research: true
   case_story_map: true
-  final_script: false
+  final_script: true
   voice_input: false
   audio_master: false
   visual_timeline: false

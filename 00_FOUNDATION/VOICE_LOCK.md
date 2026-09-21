@@ -1,6 +1,6 @@
 # Voice Lock
 
-Status: **UNLOCKED / INTENTIONALLY DEFERRED UNTIL SCRIPT #1 LOCK**
+Status: **UNLOCKED / SCRIPT #1 LOCKED — READY FOR VOICE TESTS**
 
 No narrator identity from another channel/project is inherited automatically.
 
@@ -39,5 +39,17 @@ Choosing the voice earlier risks forcing the script to fit a voice rather than s
 - consistent across long-form episodes;
 - strong performance on the locked Script #1;
 - provider/model/voice ID and approved reference recorded here before final Stage 10 audio generation.
+
+## Script #1 gate
+
+PASS on 2026-09-20.
+
+Canonical test script:
+`03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/07_SCRIPT_FINAL.md`
+
+Stage 07 performance baseline:
+**92/100**
+
+Voice testing may now begin.
 
 Until explicitly locked, no episode may mark final audio as channel-canonical.

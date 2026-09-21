@@ -14,4 +14,6 @@
 | 2026-09-20 | YouTube policy | v01 | Checked harassment, graphic/shocking, dangerous acts, ad suitability and AI disclosure rules | Script allowed in documentary context; visual/packaging safeguards locked | PASS |
 | 2026-09-20 | script revision | v02 | Script V2 completed at ~2303 words with all mandatory Stage 04 fixes | Improve precision, fairness and retention without changing evidentiary meaning | PASS |
 | 2026-09-20 | performance | v02 | Stage 06 independent performance review scored Script V2 at 92/100 | Hook, escalation, payoff and visualizability pass; minor lock-time density edits accepted | PASS |
+| 2026-09-20 | script lock | final | Canonical 07_SCRIPT_FINAL.md locked at ~2321 words | Applied Stage 06 micro-edits; no factual/legal meaning changed | PASS |
+| 2026-09-20 | voice gate | v01 | Script #1 lock cleared channel voice testing gate | Voice may now be selected against real channel cadence | READY |
 
