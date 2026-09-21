@@ -1,6 +1,6 @@
 # VIDEO 001 — 10 Audio Master
 
-Status: **PREFLIGHT CORRECTED / AWAITING OWNER SPEND APPROVAL**
+Status: **VOICE CHANGED / COST REVALIDATION REQUIRED / NO PRODUCTION AUDIO GENERATED**
 
 No audio generation has been submitted.
 
@@ -9,9 +9,9 @@ No audio generation has been submitted.
 - Canonical narration authority: `07_SCRIPT_FINAL.md`
 - Canonical TTS input: `08_VOICE_SCRIPT.md`
 - Voice QA authority: `09_VOICE_QA.md`
-- Narrator: **Bram**
+- Narrator: **Harrison**
 - Voice type: `preset`
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 
 ## Corrected synthesis engine
 
@@ -23,15 +23,15 @@ Corrected production path:
 - frontend: **Higgsfield**
 - model wrapper: `text2speech_v2`
 - engine/variant: **ElevenLabs**
-- voice: **Bram**
+- voice: **Harrison**
 - voice type: `preset`
-- voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 - batch size per job: 1
 - unobserved controls: provider defaults
 
 This mirrors the proven four-chunk approach used in the reference YouTube workflow.
 
-## Corrected 4-part generation plan
+## Previous 4-part structure and Bram cost reference
 
 | Part | Sections | Characters | Words | Exact cost |
 |---|---|---:|---:|---:|
@@ -46,9 +46,13 @@ Total:
 - **2,150 spoken words**
 - **43.80 Higgsfield credits exact provider-reported cost**
 
-All four read-only cost validations succeeded with `text2speech_v2 + elevenlabs + Bram`.
+The four-part structure was previously validated with `text2speech_v2 + elevenlabs + Bram`, but Bram is now superseded as narrator.
 
-No generation was submitted.
+The **43.80-credit figure is historical Bram preflight data only and is not an approved Harrison production quote**.
+
+A fresh read-only cost validation for Harrison is required before any production spend approval.
+
+No full-production generation was submitted.
 
 ## Why the previous 8-job plan was rejected
 
@@ -66,14 +70,13 @@ Before any TTS submission, the owner must explicitly approve:
 
 - model wrapper: `text2speech_v2`
 - engine: **ElevenLabs**
-- voice: **Bram**
-- scope: full locked narration in 4 parts
-- job count: **4**
-- exact estimated total: **43.80 Higgsfield credits**
+- voice: **Harrison**
+- scope: full locked narration in the final validated chunk plan
+- job count and exact estimated total: **must be revalidated read-only for Harrison before approval**
 
 Until that approval:
 - do not submit TTS;
-- do not generate a test chunk;
+- do not generate any additional test chunk without separate explicit spend approval;
 - do not advance to Stage 11.
 
 ## Post-generation QA required before PASS
@@ -81,7 +84,7 @@ Until that approval:
 If the owner approves generation:
 - generate A → B → C → D only;
 - verify complete text coverage;
-- verify Bram identity across all four parts;
+- verify Harrison identity across all production parts;
 - verify names, numbers, dates and legal terms;
 - inspect artifacts, clipping and pacing;
 - inspect joins between parts;
@@ -92,6 +95,6 @@ Any retry is a new paid generation and requires separate approval unless explici
 
 ## Stage boundary
 
-Stage 10 remains **AWAITING OWNER SPEND APPROVAL**.
+Stage 10 remains **BLOCKED ON READ-ONLY HARRISON COST REVALIDATION, THEN OWNER SPEND APPROVAL**.
 
 Stage 11 has not started.

@@ -1,6 +1,6 @@
 # Voice Lock
 
-Status: **LOCKED — BRAM**
+Status: **LOCKED — HARRISON**
 
 No narrator identity from another channel/project is inherited automatically.
 
@@ -56,18 +56,22 @@ Voice testing may now begin.
 
 Locked by owner on 2026-09-20.
 
-- Narrator: **Bram**
+Previous Bram lock was explicitly reopened and superseded by the owner after same-text comparative TTS testing.
+
+- Narrator: **Harrison**
 - Provider/catalog: **Higgsfield**
 - Voice type: `preset`
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
-- Approved reference preview: https://cdn.higgsfield.ai/audio_voice/92b784d6-f194-414b-8d78-fb7108ba4d5a.wav
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
+- Provider preview: https://d1xarpci4ikg0w.cloudfront.net/audio_voice_preset/preview/725aa234-8c64-4a87-8f5e-220aca1375f7.mp3
+- Owner-approved same-text comparison sample: https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260921_053343_e202b139-a5ae-4276-b3f7-109cb955909f.mp3
+- Comparison job ID: `e202b139-a5ae-4276-b3f7-109cb955909f`
 - Lock scope: channel narrator identity
 - Synthesis engine/model: **NOT YET LOCKED**
 - Paid generation authorization: **NOT GRANTED**
 
-Bram is the canonical narrator for WHAT IT COST unless the owner explicitly reopens the voice lock.
+Harrison is the canonical narrator for WHAT IT COST unless the owner explicitly reopens the voice lock.
 
-The synthesis engine/model must be selected and recorded before Stage 10 final audio generation. Selecting or locking Bram does **not** authorize any paid TTS generation.
+The synthesis engine/model must be selected and recorded before Stage 10 final audio generation. Selecting or locking Harrison does **not** authorize any paid TTS generation.
 
 
 ## Voice-test spend lock

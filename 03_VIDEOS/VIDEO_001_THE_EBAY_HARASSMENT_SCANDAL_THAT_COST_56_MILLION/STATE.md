@@ -34,12 +34,15 @@ All material facts remain inside the same S01–S12 section map used by CLAIMS_L
 No chronology, dollar figure, legal status or party position changed during Stage 07.
 
 ## Voice status
-**VOICE LOCKED — BRAM**
+**VOICE LOCKED — HARRISON**
 
 - Provider/catalog: Higgsfield
 - Voice type: preset
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
-- Approved existing preview: https://cdn.higgsfield.ai/audio_voice/92b784d6-f194-414b-8d78-fb7108ba4d5a.wav
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
+- Provider preview: https://d1xarpci4ikg0w.cloudfront.net/audio_voice_preset/preview/725aa234-8c64-4a87-8f5e-220aca1375f7.mp3
+- Owner-approved same-text test: https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260921_053343_e202b139-a5ae-4276-b3f7-109cb955909f.mp3
+- Comparison job ID: `e202b139-a5ae-4276-b3f7-109cb955909f`
+- Previous Bram lock: **SUPERSEDED BY OWNER**
 - No new TTS generation authorized.
 
 Stage 08 result:
@@ -61,19 +64,14 @@ Stage 09 result:
 - no audio generated.
 
 Stage 10 corrected preflight:
-- corrected engine: `text2speech_v2` + ElevenLabs;
-- locked voice: Bram;
-- full narration fits the proven 4-part long-form workflow;
-- Part A S01–S03: 3,499 chars / 10.50 credits;
-- Part B S04–S06: 2,999 chars / 9.00 credits;
-- Part C S07–S09: 4,124 chars / 12.45 credits;
-- Part D S10–S12: 3,929 chars / 11.85 credits;
-- exact provider-reported total: **43.80 credits**;
-- previous 8-job / 88.8-credit Seed Audio plan rejected;
-- no generation submitted.
+- production wrapper/engine candidate remains `text2speech_v2` + ElevenLabs;
+- narrator changed after comparative testing: Bram → **Harrison**;
+- the previous 4-job / 43.80-credit quote was validated for Bram and is now **SUPERSEDED FOR SPEND APPROVAL PURPOSES**;
+- no Harrison full-run cost quote is locked yet;
+- no full-production generation submitted.
 
 Next action:
-- **AWAIT explicit owner approval of the 4-job / 43.8-credit ElevenLabs production run.**
+- **Run a read-only Harrison Stage 10 cost revalidation, then await explicit owner approval before any production TTS submission.**
 
 ## Spend lock — HARD
 
@@ -106,7 +104,9 @@ Do not:
 
 Voice selection is complete.
 
-**Bram is FINAL LOCK.**
+**Harrison is FINAL LOCK.**
+
+The previous Bram lock is superseded.
 
 Do not reopen selection, test substitutes, or generate audio unless the owner explicitly requests it.
 

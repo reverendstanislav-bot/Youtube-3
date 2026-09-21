@@ -6,12 +6,12 @@ Canonical voice input:
 `08_VOICE_SCRIPT.md`
 
 Narrator:
-**Bram — FINAL LOCK**
+**Harrison — FINAL LOCK**
 
 Voice:
 - Provider/catalog: Higgsfield
 - Voice type: `preset`
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 - Synthesis engine/model: **NOT YET LOCKED**
 - Paid generation authorization: **NOT GRANTED**
 
@@ -184,7 +184,7 @@ Result:
 
 ## Delivery / pacing QA
 
-Bram delivery remains locked to:
+Harrison delivery remains locked to:
 - calm, adult, credible;
 - conversational documentary tone;
 - no trailer voice;
@@ -223,11 +223,15 @@ Result:
 
 ---
 
+## Narrator-lock update — 2026-09-20
+
+The owner reopened the prior Bram narrator lock after Stage 09 text QA and selected **Harrison** through same-text comparative TTS testing. The canonical TTS text and Stage 09 semantic/pronunciation policy are unchanged. This narrator substitution does not authorize full-production TTS.
+
 ## Stage 09 lock
 
 Locked inputs for the next stage:
-- narrator: **Bram**;
-- voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`;
+- narrator: **Harrison**;
+- voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`;
 - canonical TTS text: `08_VOICE_SCRIPT.md`;
 - pronunciation policy: this file;
 - factual/legal authority: `07_SCRIPT_FINAL.md`.

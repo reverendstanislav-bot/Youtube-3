@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Await explicit owner approval: text2speech_v2 + ElevenLabs + Bram, 4 jobs, exact estimated total 43.8 Higgsfield credits; do not submit TTS before approval"
+next_action: "Run read-only Stage 10 cost revalidation for text2speech_v2 + ElevenLabs + Harrison, then await explicit owner approval; do not submit production TTS before approval"
 blockers: []
 
 stages:
@@ -56,7 +56,7 @@ evidence:
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
-  voice_id_or_preset: "Bram | preset | 549ff70a-3ee7-4f04-a4d9-89a24fab7709"
+  voice_id_or_preset: "Harrison | preset | 573e5163-59b3-4926-aab1-951ef2985f81"
 
 audio:
   runtime_sec: ""

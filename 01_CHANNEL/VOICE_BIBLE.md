@@ -27,9 +27,9 @@ Never spend generation credits merely to narrow candidates when existing preview
 
 ## Locked narrator
 
-- **Bram**
+- **Harrison**
 - Higgsfield preset voice
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 - Canonical authority: `00_FOUNDATION/VOICE_LOCK.md`
 
 Do not substitute another narrator without explicit owner approval.

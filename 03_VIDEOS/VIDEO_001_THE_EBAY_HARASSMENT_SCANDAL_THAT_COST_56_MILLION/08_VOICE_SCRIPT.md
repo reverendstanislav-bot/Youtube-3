@@ -6,12 +6,12 @@ Canonical source:
 `07_SCRIPT_FINAL.md`
 
 Narrator:
-**Bram — FINAL LOCK**
+**Harrison — FINAL LOCK**
 
 Voice:
 - Provider/catalog: Higgsfield
 - Voice type: `preset`
-- Voice ID: `549ff70a-3ee7-4f04-a4d9-89a24fab7709`
+- Voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 - Synthesis engine/model: **NOT YET LOCKED**
 - Paid generation authorization: **NOT GRANTED**
 
@@ -48,7 +48,7 @@ Section headings and all text explicitly marked **NOT SPOKEN** are metadata and 
 
 ---
 
-## Bram delivery profile — NOT SPOKEN
+## Harrison delivery profile — NOT SPOKEN
 
 - Adult, calm, credible business-documentary narrator.
 - Controlled and conversational; never trailer-like.
