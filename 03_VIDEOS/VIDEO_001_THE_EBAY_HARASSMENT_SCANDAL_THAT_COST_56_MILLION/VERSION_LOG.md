@@ -21,4 +21,5 @@
 | 2026-09-20 | voice lock | final | Owner selected Bram as the canonical WHAT IT COST narrator | Final narrator identity locked after read-only preview selection | PASS |
 | 2026-09-20 | voice script | v01 | Stage 08 TTS-ready text derived from 07_SCRIPT_FINAL.md for locked narrator Bram; dates/years and unambiguous abbreviations normalized; pronunciation targets handed to Stage 09 | Prepare exact delivery input without changing factual/legal meaning or generating audio | PASS |
 | 2026-09-20 | voice QA | v01 | Stage 09 text/input QA completed; semantic fidelity verified; 1999 spoken normalization fixed; pronunciation policy locked without speculative person-name respellings | Lock production voice input before any paid audio generation | PASS |
+| 2026-09-20 | audio master preflight | v01 | Stage 10 production preflight selected Seed Audio 1.0 + Bram, validated 2048-character request limit, packed narration into 8 paragraph-safe jobs and obtained read-only exact cost of 88.8 credits | Establish exact spend/scope before any paid TTS submission | AWAITING OWNER APPROVAL |
 

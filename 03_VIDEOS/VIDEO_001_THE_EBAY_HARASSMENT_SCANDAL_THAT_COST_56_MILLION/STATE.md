@@ -60,8 +60,16 @@ Stage 09 result:
 - person-specific uncertain pronunciations carried to Stage 10 auditory QC;
 - no audio generated.
 
-Next pipeline action, only when explicitly requested:
-- Stage 10 Audio Master preflight: select synthesis engine/model, estimate exact cost, and obtain explicit owner spend approval before any TTS job.
+Stage 10 preflight:
+- proposed engine: Seed Audio 1.0 (`seed_audio`);
+- locked voice: Bram;
+- output: WAV 48 kHz;
+- full narration requires 8 jobs because the provider limit is 2048 characters per prompt;
+- exact provider-reported cost: 88.8 Higgsfield credits;
+- no generation submitted.
+
+Next action:
+- **AWAIT explicit owner approval of the 8-job / 88.8-credit production run.**
 
 ## Spend lock — HARD
 
