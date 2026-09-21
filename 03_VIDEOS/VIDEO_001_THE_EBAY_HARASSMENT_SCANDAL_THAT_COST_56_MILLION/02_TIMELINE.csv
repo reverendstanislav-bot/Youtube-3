@@ -1,1 +1,19 @@
 sequence,date,event_id,narrative_role,verified_status,source_ids,notes
+01,2026-07 / flash-forward,E025;E026,COLD_OPEN_PAYOFF,SETTLEMENT,S014;S017;S018;S013,Tease $55.7M package only after establishing it is a settlement package; do not give allocation yet.
+02,2019-08 / flash-back,E009,COLD_OPEN_INCIDENT,ADMITTED_BY_EBAY,S001;S009;S012,Use one disturbing delivery as hook; no long shock-item montage.
+03,1999–2019 spring,E001;E002,SETUP_AND_CONTRAST,ESTABLISHED,S009,Introduce Steiners/EcommerceBytes and scale mismatch with eBay.
+04,2019-04 to 2019-08-01,E002;E003;E004;E006,EXECUTIVE_ESCALATION,ESTABLISHED,S009,Reveal messages progressively; do not imply they are final findings of criminal authorization.
+05,2019-06,E005,SECURITY_MECHANISM_REVEAL,ESTABLISHED,S009,Early Boston trip / graffiti / 'tap on the shoulder' shows issue moving into security.
+06,2019-08-06 to 2019-08-07,E007;E008,OPERATION_PLANNING,ESTABLISHED,S009,Baugh planning meetings and Wymer/Baugh contact before escalation.
+07,2019-08-05 to 2019-08-23,E009,HARASSMENT_ESCALATION,ADMITTED_BY_EBAY,S001;S009,Threats/deliveries/Craigslist; keep concise.
+08,2019-08-15,E010,PHYSICAL_STAKES_PEAK,ESTABLISHED,S009;S001,"Attempted GPS installation and surveillance; say attempted, not successfully installed."
+09,2019-08-16 to 2019-08-23,E011;E012;E013,DISCOVERY_AND_COVERUP,ESTABLISHED_ADMITTED,S009;S001,"Police contact, internal investigation, false statements/deletion/falsified records."
+10,2019-08-30 to 2019-09,E014,CORPORATE_RESPONSE,ESTABLISHED,S009,Personnel placed on leave/terminated; do not imply identical timing for all.
+11,2020-06 to 2024-07,E015;E016;E018;E019;E021,INDIVIDUAL_ACCOUNTABILITY,FINAL,S004;S005;S006;S007;S008,All seven prosecuted participants plead guilty; highlight Baugh/Harville and compress others.
+12,2024-01-11,E020,CORPORATE_ACCOUNTABILITY_REVEAL,DPA,S001;S002;S003;S012,"Explain six-count Information, admissions, $3M penalty, monitor. Never say conviction."
+13,2021-07 to 2025-08,E017;E022,CIVIL_CASE_AND_EXECUTIVE_LAYER,RULING,S010;S009,Introduce civil suit then 2025 summary-judgment order; distinguish triable claims from findings.
+14,2025-08 / legal counterweight,E022,COUNTERARGUMENT_AND_NUANCE,RULING,S009;S019,Wenig no direct Baugh communication; PFC wins summary judgment; eBay internal-investigation position attributed.
+15,2026-02-25,E023,FALSE_ENDING_1,SETTLEMENT_IN_PRINCIPLE,S015;S019,Terms undisclosed; not final July settlement.
+16,2026-06,E024,REVERSAL,REOPENED,S016,Initial settlement fails; case reopened; January 2027 trial set.
+17,2026-07-27 to 2026-07-28,E025;E026,FINAL_PAYOFF,FINAL_SETTLEMENT,S014;S017;S018;S013,Explain $48.7M compensation + $7M charitable commitments = $55.7M package; eBay direct compensation $46.15M.
+18,2026-07 / ending,E026,ENDING_STATE,FINAL_PUBLIC_STATEMENT,S013,"Close on personal, corporate/legal and civil costs; no unsourced reputational dollar figure."

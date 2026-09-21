@@ -5,33 +5,41 @@ The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
 - Status: IN_PREPARATION
-- Stage: 02_CASE_STORY_MAP
-- Locked artifacts: topic qualification, Stage 01 evidence research
+- Stage: 03_SCRIPT_V1
+- Locked artifacts: topic qualification, Stage 01 evidence research, Stage 02 case/story map
 - Topic decision: GO (91/100)
 - Research gate: PASS
-- Evidence record: 19 indexed sources, 31 material claims, 26 case/story events
+- Story-map gate: PASS
 
-## What Stage 01 established
-- campaign conduct is supported by eBay admissions, DOJ records and the federal court record;
-- all seven individually prosecuted former employees/contractors pleaded guilty;
-- eBay itself was charged under a six-count Information and entered a DPA with admissions, a $3M penalty and a three-year monitor;
-- the 2025 civil summary-judgment order provides the correct boundary for executive-liability language;
-- February 2026 settlement-in-principle failed to finalize; final July 2026 package was announced at $55.7M;
-- $55.7M is not an eBay-only payment and not a judgment.
+## Locked narrative spine
+**criticism -> executive escalation -> security mechanism -> harassment/surveillance -> police discovery + cover-up -> individual guilty pleas -> eBay DPA -> civil executive-liability questions -> failed settlement -> final $55.7M settlement package**
+
+## Required opening
+Use one bizarre harassment object as a cold-open hook, then immediately reveal that the conduct came from eBay's security organization.
+
+Do not remain in true-crime mode.
+
+## Required differentiation
+The episode is about:
+**how a criticism/reputation problem became a corporate-security problem and then a measurable legal/financial consequence.**
+
+It is not a generic retelling of the eBay stalking case.
+
+## Legal locks that Script V1 must preserve
+- all seven individually prosecuted participants pleaded guilty;
+- eBay entered a DPA; do not call eBay convicted;
+- Wenig/Wymer/Jones were not criminally charged;
+- summary-judgment survival means a jury could decide, not that liability was established;
+- February 2026 settlement was not the final deal;
+- $55.7M is the final settlement package, not an eBay-only payment or court judgment;
+- eBay's announced direct compensation share was $46.15M;
+- the attempted GPS tracker was not established as successfully installed.
 
 ## Next action
-Build `02_STORY_MAP.md` and `02_TIMELINE.csv`.
-
-Narrative spine:
-criticism -> executive escalation -> security operation -> police discovery / cover-up -> guilty pleas -> corporate DPA -> civil evidence -> failed settlement -> final financial consequence
+Draft `03_SCRIPT_V1.md` for a 15–22 minute target, preferably 17–20 minutes, using only supported claims.
 
 ## Blockers
-None for Stage 02.
-
-## Non-blocking cautions
-- signed final civil settlement agreement not captured;
-- full internal-investigation presentation not captured;
-- final script quotes should be checked against underlying exhibits where feasible.
+None for Script V1.
 
 ## Agent handoff
-Use CLAIMS_LEDGER as the claim-status authority and CASE_EVENT_LEDGER as chronology authority. Do not select channel voice. Do not draft Script V1 until Stage 02 passes.
+Use `02_STORY_MAP.md` as narrative authority, `CASE_EVENT_LEDGER.csv` as chronology authority and `CLAIMS_LEDGER.csv` as claim/legal-status authority. Do not select voice before Script #1 is locked.
