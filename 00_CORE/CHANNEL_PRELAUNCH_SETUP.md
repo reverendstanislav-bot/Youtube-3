@@ -1,14 +1,14 @@
 # Channel Prelaunch Setup
 
-Status: **INCOMPLETE — BRAND + VISUAL SYSTEM + FIRST 10 SLATE LOCKED**
+Status: **INCOMPLETE — BRAND + VISUAL SYSTEM + LAUNCH 5 LOCKED**
 
 This file is the canonical checklist that must be completed before the first public upload.
 
 ## Current canonical sequence
 
-1. Final production-ready avatar + banner exports.
+1. Final production-ready avatar + banner validation.
 2. Claim final YouTube handle.
-3. Lock the first 10 video topics.
+3. Lock Launch 5 topics.
 4. Qualify/research Topic #1.
 5. Write and lock Script #1.
 6. Select and lock voice **after Script #1**.
@@ -23,27 +23,9 @@ Canonical authority:
 - `00_FOUNDATION/BRAND_LOCK.md`
 - `00_FOUNDATION/VISUAL_LOCK.md`
 
-Locked:
-- channel name: **WHAT IT COST**;
-- tagline: **Where business decisions get expensive.**;
-- public promise;
-- About copy;
-- visual identity system.
-
-Operationally pending:
-- exact YouTube handle claim;
-- final public avatar/banner upload validation;
-- optional business/contact identity.
-
-Preferred handle:
-`@whatitcost`
-
 ## 2. Channel positioning — PASS
 
 **Business Stories Where Money & Law Collide**
-
-Public promise:
-**The hidden lawsuits, deals and decisions behind companies, creators and products people already know.**
 
 ## 3. Visual identity — PASS / PLATFORM VALIDATION PENDING
 
@@ -52,35 +34,38 @@ Canonical authority:
 
 Owner accepted the current avatar/banner direction.
 
-Operationally still verify before public launch:
+Still verify before public launch:
 - final file dimensions/compression;
 - YouTube Studio crop/safe-area result;
-- watermark decision/export if used.
+- watermark decision if used.
 
-These do not reopen the visual identity.
-
-## 4. First 10 topics — PASS
+## 4. Launch 5 topics — PASS
 
 Canonical authority:
 `00_FOUNDATION/FIRST_10_TOPICS.md`
+and
+`00_FOUNDATION/LAUNCH_BATCH.csv`
 
-Status:
-**LOCKED v1**
+Locked order:
+1. T007 — eBay
+2. T008 — Adobe / Figma
+3. T006 — UMG / DistroKid
+4. T004 — Valve / Steam
+5. T005 — Waymo / Uber
 
-The first ten topics are selected.
+Slots 6–10 remain intentionally open.
+
+PSA / Collectors moved to reserve.
 
 Important:
 - slate lock is not Stage 00 qualification;
-- no VIDEO_001 package exists yet;
+- no VIDEO_001 exists yet;
 - each topic is separately qualified before production.
 
-Next topic:
-**T001 — PSA / Collectors**
-
-## 5. Script #1 — BLOCKED BY TOPIC #1 QUALIFICATION / RESEARCH
+## 5. Script #1 — BLOCKED BY T007 QUALIFICATION / RESEARCH
 
 Next:
-- run Stage 00 on T001;
+- run Stage 00 on T007;
 - create VIDEO_001 only after PASS;
 - enter Evidence Research;
 - write Script #1;
@@ -97,15 +82,13 @@ Do not select the channel narrator before Script #1 is locked.
 
 ## 7. YouTube channel settings — NOT COMPLETE
 
-Verify before launch:
-- channel language: English;
-- intended primary audience: USA;
-- audience setting;
-- country/location setting;
+Still required before launch:
+- language;
+- audience;
+- country/location choice;
 - advanced features/verification;
 - permissions/security;
-- upload defaults;
-- comment defaults;
+- upload/comment defaults;
 - embedding/remix/licensing;
 - chapters/subtitles.
 
@@ -116,8 +99,6 @@ Canonical public About copy is locked in BRAND_LOCK.
 ## 9. Homepage / playlists — NOT COMPLETE
 
 Define when sufficient real content exists.
-
-Do not create empty decorative playlists.
 
 ## 10. Upload defaults — NOT COMPLETE
 
@@ -139,14 +120,11 @@ Already locked:
 - visual identity;
 - factual/legal packaging gate.
 
-Still required:
-- first real episode proof.
-
 ## 12. Rights / provenance launch standard — PARTIAL
 
 Still required:
 - music/SFX source policy;
-- generated-media disclosure decision workflow.
+- generated-media disclosure workflow.
 
 ## 13. Analytics baseline — READY
 
@@ -156,32 +134,17 @@ Snapshot windows:
 - T+72h
 - T+7d
 
-## Prelaunch gate
+## Current result
 
-### PASS requires
-- brand lock;
-- visual lock;
-- public visual assets validated;
-- handle claimed;
-- first-ten slate locked;
-- Script #1 locked;
-- voice locked after Script #1;
-- channel settings complete;
-- packaging usable;
-- rights/provenance usable;
-- upload defaults ready;
-- analytics capture ready.
-
-### Current result
 **FAIL / NOT READY FOR PUBLIC LAUNCH**
 
 Passed:
 - Brand identity
 - Positioning
 - Visual Identity System
-- First 10 Topics Lock
+- Launch 5 Lock
 - About copy
 - Analytics framework
 
 Immediate next:
-**Stage 00 Topic Qualification for T001 — PSA / Collectors.**
+**Stage 00 Topic Qualification for T007 — eBay.**
