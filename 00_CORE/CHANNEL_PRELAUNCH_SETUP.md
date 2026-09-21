@@ -1,34 +1,44 @@
 # Channel Prelaunch Setup
 
-Status: **INCOMPLETE — channel public brand not yet locked**
+Status: **INCOMPLETE — BRAND LOCK PASSED**
 
 This file is the canonical checklist that must be completed before the first public upload.
 
 It is channel setup, not episode production.
 
-## 1. Brand identity
+## 1. Brand identity — PASS
 
-Required lock:
-- channel name;
-- YouTube handle;
-- avatar/logo;
-- banner;
+Canonical authority: `00_FOUNDATION/BRAND_LOCK.md`.
+
+Locked:
+- channel name: **WHAT IT COST**;
+- tagline: **Where business decisions get expensive.**;
 - one-sentence public promise;
-- short tagline if used;
 - public About copy;
-- business/contact identity if exposed publicly.
+- avatar direction;
+- banner direction;
+- typography direction;
+- color direction;
+- documentary graphic language.
 
-Current authority: `00_FOUNDATION/BRAND_LOCK.md`.
+Operationally pending:
+- exact YouTube handle claim;
+- final exported avatar asset;
+- final exported banner asset;
+- optional public business/contact identity.
 
-Do not invent these fields from another channel/project.
+Preferred handle:
+`@whatitcost`
 
-## 2. Channel positioning
+Fallbacks are documented in BRAND_LOCK.
+
+## 2. Channel positioning — PASS
 
 Must match:
 **Business Stories Where Money & Law Collide**
 
-Viewer promise:
-**The hidden lawsuits, contracts and scandals behind companies, creators and products people already know.**
+Public promise:
+**The hidden lawsuits, deals and decisions behind companies, creators and products people already know.**
 
 The public identity must not drift into:
 - generic legal education;
@@ -37,20 +47,24 @@ The public identity must not drift into:
 - finance advice;
 - celebrity gossip.
 
-## 3. Visual identity
+## 3. Visual identity — DIRECTION LOCKED / ASSETS PENDING
 
-Before first public packaging lock, define enough channel-wide visual identity for consistency:
-- avatar treatment;
-- banner treatment;
-- typography rules;
-- primary/secondary color direction;
-- documentary graphic language;
-- thumbnail continuity rules;
-- logo/watermark use if any.
+Locked principles:
+- premium business-documentary identity;
+- typography-first WHAT IT COST wordmark;
+- no gavel/scales/courthouse cliché;
+- near-black / paper-neutral foundation with one signal accent;
+- document/evidence/data visual language;
+- mobile readability first.
 
-Do not lock a recurring visual system merely because one prototype looked good.
+Still required:
+- avatar prototype;
+- banner prototype;
+- exact color values;
+- final display/support typography selection;
+- final watermark decision.
 
-## 4. Voice identity
+## 4. Voice identity — NOT COMPLETE
 
 Before final narration for the first public video:
 - narrator/provider/voice ID selected;
@@ -60,7 +74,7 @@ Before final narration for the first public video:
 
 Canonical authority: `00_FOUNDATION/VOICE_LOCK.md`.
 
-## 5. YouTube channel settings
+## 5. YouTube channel settings — NOT COMPLETE
 
 Verify before launch:
 - channel language: English;
@@ -77,19 +91,15 @@ Verify before launch:
 
 Record actual settings after the owner configures the channel.
 
-## 6. About / description policy
+## 6. About / description policy — PASS
 
-Public About copy should communicate:
-- recognizable business stories;
-- lawsuits/contracts/ownership/scandals;
-- documentary storytelling;
-- no promise of legal advice or insider access.
-
-Avoid generic keyword stuffing.
+Canonical public About copy is locked in BRAND_LOCK.
 
 Episode descriptions must preserve the same allegation/finding distinctions used in scripts.
 
-## 7. Homepage / playlists
+Avoid generic keyword stuffing.
+
+## 7. Homepage / playlists — NOT COMPLETE
 
 Before or at launch define:
 - Home tab layout;
@@ -97,9 +107,9 @@ Before or at launch define:
 - first playlist taxonomy;
 - future series names only when enough episodes justify them.
 
-Suggested initial taxonomy may follow content pillars, but do not create empty decorative playlists.
+Do not create empty decorative playlists.
 
-## 8. Upload defaults
+## 8. Upload defaults — NOT COMPLETE
 
 Create a deliberate default template for:
 - description skeleton;
@@ -114,32 +124,36 @@ Create a deliberate default template for:
 
 Do not include case-specific text in global defaults.
 
-## 9. Packaging launch kit
+## 9. Packaging launch kit — PARTIAL
 
-Before first release, the channel must have:
-- thumbnail system;
+Already present:
 - title system;
-- mobile readability standard;
-- factual/legal packaging gate;
-- at least one reusable thumbnail production workflow;
-- export dimensions/file naming convention.
+- thumbnail system;
+- factual/legal packaging gate.
+
+Still required before launch:
+- reusable thumbnail production workflow;
+- exact export dimensions/file naming convention;
+- visual prototype confirming mobile readability.
 
 Canonical files:
 - `01_CHANNEL/TITLE_SYSTEM.md`
 - `01_CHANNEL/THUMBNAIL_SYSTEM.md`
 
-## 10. Rights / provenance launch standard
+## 10. Rights / provenance launch standard — PARTIAL
 
-Before public upload:
-- source-document visual policy active;
-- authentic vs recreated/generated material clearly distinguishable;
-- reusable rights/provenance tracking method active;
-- music/SFX source policy selected;
-- generated media disclosure requirements reviewed for each upload.
+Already present:
+- source-document visual policy;
+- authentic vs recreated/generated distinction;
+- asset provenance tracking.
 
-## 11. Analytics baseline
+Still required:
+- music/SFX source policy selection;
+- generated-media disclosure decision workflow for uploads.
 
-Before launch define the snapshot windows already in the production OS:
+## 11. Analytics baseline — READY
+
+Initial snapshot windows:
 - T+24h
 - T+48h
 - T+72h
@@ -147,7 +161,7 @@ Before launch define the snapshot windows already in the production OS:
 
 Do not set arbitrary CTR/retention targets as universal truth before the channel has its own baseline.
 
-## 12. Launch batch
+## 12. Launch batch — READY
 
 Canonical shortlist lives in:
 `00_FOUNDATION/LAUNCH_BATCH.csv`
@@ -161,8 +175,8 @@ Each topic still passes Topic Qualification before production activation.
 ### PASS requires
 - brand lock complete;
 - voice lock complete enough for production;
-- visual identity usable;
-- About copy approved;
+- final visual assets usable;
+- YouTube handle claimed;
 - channel settings intentionally configured;
 - title/thumbnail systems usable;
 - rights/provenance standard usable;
@@ -173,7 +187,14 @@ Each topic still passes Topic Qualification before production activation.
 ### Current result
 **FAIL / NOT READY FOR PUBLIC LAUNCH**
 
-Reason:
-Brand identity and narrator are intentionally not locked yet.
+Passed:
+- Brand identity
+- Channel positioning
+- About copy
+- Analytics framework
+- Launch shortlist
 
-This is not a production failure. It means the channel is not yet ready for its first public upload.
+Next blocking area:
+**Final visual identity assets + handle claim, then Voice Lock.**
+
+This is not a production failure. It means prelaunch setup is still in progress.
