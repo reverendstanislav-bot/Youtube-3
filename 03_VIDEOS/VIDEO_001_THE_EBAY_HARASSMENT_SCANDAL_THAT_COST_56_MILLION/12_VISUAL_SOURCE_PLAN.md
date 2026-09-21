@@ -1,18 +1,33 @@
-# VIDEO {{VIDEO_ID}} — 12 Visual Source / Generation Plan
+# VIDEO 001 — Stage 12 Visual Source Plan
 
-Status: NOT_STARTED
+Status: **IN PROGRESS / 115-BEAT BINDING COMPLETE**
 
-For every scene choose one primary class:
-- AUTHENTIC_SOURCE
-- LICENSED_OR_USABLE_CONTEXT
-- EDITOR_RECREATION
-- EDITOR_GRAPHIC
-- ILLUSTRATIVE_RECONSTRUCTION
-- GENERATED_ILLUSTRATION
+The authoritative row-level plan is:
+- `12_GRAPHICS_BEAT_MAP.csv`
+- `12_VISUAL_SOURCE_PLAN.csv`
+- `12_SOURCE_GAP_LIST.csv`
+- `12_GENERATION_CANDIDATES.csv`
 
-## Hard rule
-A generated/recreated filing, email, contract, signature, quote, headline or screenshot may not be presented as authentic evidence.
+## Allocation logic
+1. HIGH legal beats default to authentic primary records plus editor-native typography.
+2. Real people are archive/photo/name-card only; no generated likenesses.
+3. Internal quotes are extracted from S009 and typeset exactly.
+4. Money graphics are editor-native and retain separate legal categories.
+5. Surveillance/tracker reconstructions are allowed only as labelled illustration and may never show a successful tracker installation.
+6. Harassment-package reconstruction may be used when no licensable authentic visual exists, but never as fake evidence.
+7. Maps are editor-built, factual and restrained.
+8. Stage 12 does not acquire or QC final assets; acquisition/QC remains downstream.
 
-Authentic source visuals must link to source IDs/provenance.
+## Counts
+- Total beats: **115**
+- GFX beats: **87**
+- Source-document beats: **69**
+- Photo/archive beats: **28**
+- Archive-web beats: **7**
+- Map beats: **7**
+- Reconstruction-eligible beats: **12**
+- Unique source-gap packages: **11**
+- Proposed reconstruction candidates: **5**
+- Proposed generated images if later approved: **6**
 
-Exact critical legal text and numbers should be editor-built from verified source content.
+No paid/free image generation was executed.

@@ -10,7 +10,8 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 09 Voice QA + Lock: **PASS**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
-- Current pipeline stage: 11_TRANSCRIPT_VISUAL_TIMELINE — **PASS / LOCKED**
+- Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
+- Current pipeline stage: 12_VISUAL_SOURCE_GENERATION_PLAN — **IN PROGRESS**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -90,8 +91,23 @@ Stage 11 result:
 - no visual assets were searched, downloaded or generated;
 - Stage 11: **PASS / VISUAL TIMELINE LOCKED**.
 
+Stage 12 binding subtask result:
+- **115 / 115** Stage 11 beats mapped to concrete visual treatment;
+- **115 / 115** beats have source IDs and claim IDs;
+- **87** beats use at least one GFX family;
+- **69** require source-document treatment;
+- **28** use rights-safe photo/archive material;
+- **7** specifically require archive-web capture;
+- **7** use editor-built map/location treatment;
+- **12** beats allow clearly labelled reconstruction;
+- **11** reusable source-gap packages identified;
+- **5** reconstruction candidates covering **6** potential images if later approved;
+- exact money, dates, legal labels and quotations remain editor-native;
+- real-person likeness generation prohibited;
+- no image/video generation submitted and no credits spent.
+
 Next action:
-- **STOP. Await explicit owner instruction before Stage 12 — Visual Source / Generation Plan.**
+- **Stage 12 remains in progress. Await owner review/instruction before any source acquisition or generation.**
 
 ## Spend lock — HARD
 
@@ -106,7 +122,7 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- None for Stage 11. Stage 12 is intentionally not started until explicit owner instruction.
+- No planning blocker. Asset acquisition/generation remains unstarted pending owner instruction and spend approval where applicable.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.

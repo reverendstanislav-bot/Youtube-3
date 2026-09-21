@@ -1,0 +1,12 @@
+gap_id,asset_need,beats,preferred_resolution,generation_allowed,priority
+GAP-001,EcommerceBytes / Steiners publication context,B011-B016,Archive EcommerceBytes page captures + rights-safe Ina/David Steiner portrait if available; otherwise publication screenshots and name-card treatment.,NO_FOR_PEOPLE / NOT_NEEDED_FOR_SITE,HIGH
+GAP-002,2019 eBay corporate / security context,B006;B046;B061;B064,"Rights-safe eBay HQ/corporate archive, logo signage, neutral office/security context. No fabricated internal scene presented as evidence.",GENERIC_CONTEXT_ONLY,MEDIUM
+GAP-003,Internal-message and court-record excerpts,B017-B025;B030,Extract exact lines from S009 and typeset editor-native in GFX-003 with source/date metadata.,NO,CRITICAL
+GAP-004,Massachusetts / Natick establishing geography,B001;B005;B028;B038;B041;B042,Editor-built map plus rights-safe Natick/suburban establishing archive. Geography must remain factual.,GENERIC_ESTABLISHING_ONLY,MEDIUM
+GAP-005,Disturbing deliveries / threatening-message imagery,B002-B004;B034-B035,Prefer authenticated documentary/source imagery if licensing permits; otherwise restrained labelled reconstruction without fake message screenshots.,YES_LABELLED,HIGH
+GAP-006,FidoMaster fence graffiti escalation,B029,"If no authentic image exists, use labelled reconstruction of a generic fence; add exact word FidoMaster editor-native, not generated.",YES_LABELLED,MEDIUM
+GAP-007,Attempted tracker / surveillance sequence,B039-B040;B107,GFX-004/GFX-014 plus restrained labelled reconstruction. Never show tracker successfully attached.,YES_LABELLED,CRITICAL
+GAP-008,Criminal defendants / sentencing visual package,B048-B053;B108;B112,DOJ releases/documents first; rights-safe defendant photos only if sourced/licensed. GFX-005 carries the numbers.,NO_FOR_REAL_PEOPLE,HIGH
+GAP-009,Former executive visual package,B072;B074-B075;B077,Rights-safe corporate/archive portraits or neutral name cards. Never use generated likenesses.,NO_FOR_REAL_PEOPLE,HIGH
+GAP-010,2026 settlement / money evidence package,B081-B101;B110-B111;B113,S014/S017/S018/S015/S016 source crops plus editor-native GFX-008 through GFX-013. Exact amounts are never generated as image text.,NO_FOR_FACTUAL_TEXT,CRITICAL
+GAP-011,eBay July 2026 apology / company statement,B102-B103,Authentic S013 company-statement screenshot + GFX-003 evidence framing.,NO,HIGH
