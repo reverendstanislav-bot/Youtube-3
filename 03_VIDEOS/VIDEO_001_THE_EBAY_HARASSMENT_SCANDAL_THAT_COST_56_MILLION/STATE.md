@@ -42,8 +42,20 @@ Next:
 - select/lock channel voice;
 - then prepare episode voice script.
 
+## Spend lock — HARD
+
+No new TTS/audio generation may be submitted without explicit owner approval of:
+- provider/model;
+- candidate count;
+- test scope;
+- estimated cost/credits.
+
+Existing provider preview samples may be used for read-only shortlisting.
+
+Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
+
 ## Blockers
-None for voice testing.
+Paid voice generation is blocked until explicit owner spend approval.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.

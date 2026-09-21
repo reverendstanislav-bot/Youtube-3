@@ -16,4 +16,5 @@
 | 2026-09-20 | performance | v02 | Stage 06 independent performance review scored Script V2 at 92/100 | Hook, escalation, payoff and visualizability pass; minor lock-time density edits accepted | PASS |
 | 2026-09-20 | script lock | final | Canonical 07_SCRIPT_FINAL.md locked at ~2321 words | Applied Stage 06 micro-edits; no factual/legal meaning changed | PASS |
 | 2026-09-20 | voice gate | v01 | Script #1 lock cleared channel voice testing gate | Voice may now be selected against real channel cadence | READY |
+| 2026-09-20 | spend control | v01 | Added hard owner-approval gate for all paid voice/TTS generation | Prevent any credit/token spend without explicit authorization | LOCK |
 

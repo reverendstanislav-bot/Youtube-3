@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-20"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Test and select the channel narrator against 07_SCRIPT_FINAL.md, then prepare 08_VOICE_SCRIPT.md"
+next_action: "Shortlist voice candidates from existing previews only; any new paid TTS generation requires explicit owner spend approval"
 blockers: []
 
 stages:
