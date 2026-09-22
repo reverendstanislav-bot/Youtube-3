@@ -1,0 +1,39 @@
+name: stage12-build-source-archive
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/stage12-build-source-archive.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Build source archive
+        run: |
+          set -euo pipefail
+          BASE="03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/12B_SOURCE_ASSETS"
+          OUT="$BASE/VIDEO_001_STAGE12_SOURCE_ASSETS.zip"
+          rm -f "$OUT"
+          cd "$BASE"
+          zip -9 -r "VIDEO_001_STAGE12_SOURCE_ASSETS.zip" .             -x "VIDEO_001_STAGE12_SOURCE_ASSETS.zip"
+          cd -
+          ls -lh "$OUT"
+          sha256sum "$OUT"
+      - name: Commit archive and remove workflow
+        run: |
+          set -euo pipefail
+          git config user.name "youtube3-source-archive"
+          git config user.email "youtube3-source-archive@users.noreply.github.com"
+          rm -f .github/workflows/stage12-build-source-archive.yml
+          git add -f "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/12B_SOURCE_ASSETS/VIDEO_001_STAGE12_SOURCE_ASSETS.zip"
+          git add -A
+          git commit -m "Add VIDEO_001 Stage 12 source assets archive [skip ci]"
+          git push origin HEAD:main
