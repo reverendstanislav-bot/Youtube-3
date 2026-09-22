@@ -273,34 +273,34 @@ jobs:
 
           report=f"""# Stage 12C — Live Source Coverage Report
 
-## Status
-**PASS — LIVE SOURCE EXPANSION COMPLETE**
+          ## Status
+          **PASS — LIVE SOURCE EXPANSION COMPLETE**
 
-Stage 12 overall remains **IN PROGRESS**. Stage 13 remains **NOT STARTED**.
+          Stage 12 overall remains **IN PROGRESS**. Stage 13 remains **NOT STARTED**.
 
-## Coverage
-- Locked beats audited: **115 / 115**
-- Beats with a live-source-led visual path: **{live} / 115 ({live/115*100:.1f}%)**
-- Beats intentionally led by editor-built factual GFX while retaining live factual files: **{gfx} / 115 ({gfx/115*100:.1f}%)**
-- Mandatory generation gaps after live-source pass: **{gen}**
-- Historical reconstruction concepts retained only as optional proof-stage choices: **5**
-- Paid generation spend in Stage 12C: **0**
+          ## Coverage
+          - Locked beats audited: **115 / 115**
+          - Beats with a live-source-led visual path: **{live} / 115 ({live/115*100:.1f}%)**
+          - Beats intentionally led by editor-built factual GFX while retaining live factual files: **{gfx} / 115 ({gfx/115*100:.1f}%)**
+          - Mandatory generation gaps after live-source pass: **{gen}**
+          - Historical reconstruction concepts retained only as optional proof-stage choices: **5**
+          - Paid generation spend in Stage 12C: **0**
 
-## What changed
-1. Stage 12C now starts from authentic court/DOJ/eBay/EcommerceBytes/SEC materials rather than from reconstruction prompts.
-2. The eBay 2020 internal-investigation statement is added as a primary source for the no-advance-knowledge/no-authorization company position.
-3. EcommerceBytes' own About page is added as a first-party factual source for the publication's 1999 origin.
-4. eBay's 2019 Form 10-K is added for period-appropriate corporate context.
-5. DPA, civil complaint, DOJ sentencing pages and new real-world context assets are physically stored in GitHub.
-6. Exact source crops were rendered from government/court documents. Source-page/copyrighted material remains reference-only where required.
-7. Old reconstruction flags are no longer treated as mandatory production paths.
+          ## What changed
+          1. Stage 12C now starts from authentic court/DOJ/eBay/EcommerceBytes/SEC materials rather than from reconstruction prompts.
+          2. The eBay 2020 internal-investigation statement is added as a primary source for the no-advance-knowledge/no-authorization company position.
+          3. EcommerceBytes' own About page is added as a first-party factual source for the publication's 1999 origin.
+          4. eBay's 2019 Form 10-K is added for period-appropriate corporate context.
+          5. DPA, civil complaint, DOJ sentencing pages and new real-world context assets are physically stored in GitHub.
+          6. Exact source crops were rendered from government/court documents. Source-page/copyrighted material remains reference-only where required.
+          7. Old reconstruction flags are no longer treated as mandatory production paths.
 
-## Documentary-first rule
-**Authentic source/evidence → licensed real-world context → editor-built factual GFX → generation only if a later proof exposes a real visual gap.**
+          ## Documentary-first rule
+          **Authentic source/evidence → licensed real-world context → editor-built factual GFX → generation only if a later proof exposes a real visual gap.**
 
-## Gate
-Stage 12C is complete. Do **not** start Stage 12D automatically. The next stage, only on owner instruction, is the small visual proof set using these live materials.
-"""
+          ## Gate
+          Stage 12C is complete. Do **not** start Stage 12D automatically. The next stage, only on owner instruction, is the small visual proof set using these live materials.
+          """
           (BASE/"12C_LIVE_SOURCE_COVERAGE_REPORT.md").write_text(report,encoding="utf-8")
 
           # Extend source index with newly discovered primary/first-party sources.
@@ -343,16 +343,16 @@ Stage 12C is complete. Do **not** start Stage 12D automatically. The next stage,
                     st,flags=re.S)
           if "Stage 12C result:" not in st:
               st += f"""\n## Stage 12C result
-- **PASS — LIVE SOURCE EXPANSION COMPLETE**
-- 115/115 beats audited.
-- {live}/115 beats have a live-source-led visual path.
-- {gfx}/115 are intentionally factual GFX-led with live source files retained underneath.
-- 0 mandatory generation gaps remain before proof review.
-- exact court/DOJ crops physically rendered into `12B_SOURCE_ASSETS/`.
-- new primary/first-party sources S021–S026 added.
-- no paid generation; Stage 12C spend: 0.
-- Stage 13 remains NOT_STARTED.
-"""
+          - **PASS — LIVE SOURCE EXPANSION COMPLETE**
+          - 115/115 beats audited.
+          - {live}/115 beats have a live-source-led visual path.
+          - {gfx}/115 are intentionally factual GFX-led with live source files retained underneath.
+          - 0 mandatory generation gaps remain before proof review.
+          - exact court/DOJ crops physically rendered into `12B_SOURCE_ASSETS/`.
+          - new primary/first-party sources S021–S026 added.
+          - no paid generation; Stage 12C spend: 0.
+          - Stage 13 remains NOT_STARTED.
+          """
           (BASE/"STATE.md").write_text(st,encoding="utf-8")
 
           vl=BASE/"VERSION_LOG.md"
