@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R2 BATCH 1 PROMPTS: LOCKED. B001–B035 corrected with sparse document/evidence treatment. Owner authorized Batch 1 generation up to 17.5 credits. B006 and B018 are already accepted test outputs and are reused; generate the remaining 33 scenes only (16.5 credits), with no automatic retries.**
+- **Stage 12F-R2 BATCH 1 GENERATION: COMPLETE. B001–B035 now have scene outputs; 33 new jobs completed, B006/B018 reused from accepted tests. Owner visual QC is the next gate. Do not start Batch 2 or any regeneration automatically.**
 
 ## Spend lock — HARD
 
@@ -233,3 +233,12 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - New jobs required for Batch 1: 33.
 - New Batch 1 spend ceiling: 16.5 credits (below the previously approved 17.5-credit ceiling).
 - No automatic retries or extra variants are authorized.
+
+## Stage 12F-R2 Batch 1 generation
+- **COMPLETE — OWNER QC PENDING**
+- 35 scene outputs present for B001–B035.
+- 33 new Higgsfield GPT Image 2 jobs completed; 0 provider failures.
+- B006 and B018 reused from accepted test outputs.
+- new spend: 16.5 credits; effective Batch 1 scene cost including reused test jobs: 17.5 credits.
+- no retries or extra variants were submitted.
+- Stage 13 remains NOT_STARTED.
