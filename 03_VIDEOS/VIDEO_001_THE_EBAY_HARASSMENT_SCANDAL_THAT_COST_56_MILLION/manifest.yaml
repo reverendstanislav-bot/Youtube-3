@@ -82,3 +82,13 @@ publish:
   scheduled_at: ""
   published_at: ""
   youtube_url: ""
+
+shorts:
+  required: true
+  architecture_status: "BACKFILLED_LOCKED"
+  count: 10
+  extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
+  script_lock_map: "07_SHORTS_ARCHITECTURE.md"
+  final_cut_map: "11_SHORTS_CUT_MAP.csv"
+  audio_source: "FINAL_HARRISON_MASTER"
+  vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"

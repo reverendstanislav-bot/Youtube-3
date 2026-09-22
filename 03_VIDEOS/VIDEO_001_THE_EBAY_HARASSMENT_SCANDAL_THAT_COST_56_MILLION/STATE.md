@@ -106,6 +106,12 @@ Stage 12 binding subtask result:
 - real-person likeness generation prohibited;
 - no image/video generation submitted and no credits spent.
 
+Shorts architecture backfill:
+- **10** contiguous canonical Shorts locked to final Harrison audio;
+- exact cuts: `11_SHORTS_CUT_MAP.csv`;
+- no rewritten/reordered narration and no new TTS;
+- Stage 12 beat map carries `short_ids` plus 9:16-safe requirements.
+
 Next action:
 - **Stage 12 remains in progress. Await owner review/instruction before any source acquisition or generation.**
 
