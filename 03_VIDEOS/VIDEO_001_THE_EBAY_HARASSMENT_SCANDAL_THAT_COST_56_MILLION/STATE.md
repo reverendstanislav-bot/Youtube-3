@@ -123,8 +123,14 @@ Stage 12 publication-safe source rebuild:
 - CM/ECF Document 986 (July 27, 2026) is captured as S020 and confirms dismissal with prejudice of all civil claims;
 - no final visual asset has been marked acquired/approved and no generation has been submitted.
 
+Source-rights rebuild result:
+- **11 / 11 Stage 12 source gaps now have a publication-safe path**;
+- this is a source/provenance milestone only — it does not mean final assets have been acquired, rendered or QC-approved;
+- source-heavy copyrighted pages (EcommerceBytes, eBay statement, Reuters/Bloomberg) default to editor-native recreation/factual attribution rather than assumed screenshot reuse;
+- authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
+
 Next action:
-- **Stage 12 remains IN PROGRESS. Continue publication-safe source selection and proof planning; do not start Stage 13 or any generation without explicit owner instruction.**
+- **Stage 12 remains IN PROGRESS. Next within Stage 12 is real asset acquisition + exact document crops + a small visual proof set; do not start Stage 13 or any generation without explicit owner instruction.**
 
 ## Spend lock — HARD
 
@@ -139,9 +145,10 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- EcommerceBytes/eBay-owned page captures are not treated as license-cleared media; use editor recreation or explicit editorial/fair-use review.
-- eBay press-room media downloads remain HOLD until asset-specific reuse terms are confirmed.
-- Final asset acquisition/QC has not started; Stage 13 remains NOT_STARTED.
+- Source-rights layer: none blocking; all 11 gaps have safe paths.
+- Final asset acquisition/rendering has not been completed.
+- Visual proof set has not been built/owner-approved.
+- Stage 13 remains NOT_STARTED.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.

@@ -1,6 +1,6 @@
 # VIDEO 001 — Stage 12B Publication-Safe Source Rebuild
 
-Status: **IN PROGRESS — SOURCE RIGHTS PASS 2 COMPLETE**
+Status: **SOURCE-RIGHTS REBUILD COMPLETE / STAGE 12 STILL IN PROGRESS**
 
 ## Why this rebuild exists
 The rejected Stage 12B attempt incorrectly treated placeholder graphics and URL lists as production-ready assets. Corrective commit `7238548486b582401ce92934f8171b4790f9f64a` restored the repository to the pre-placeholder Stage 12 state.
@@ -21,6 +21,11 @@ This rebuild does **not** create fake replacement assets. It establishes which s
 ## Important source correction
 The exact **June 8, 2019** FidoMaster graffiti date is supported by **S003 Criminal Information, page 5**. S009 describes the event as roughly a week after May 31 without supplying that exact date. Any GFX that prints June 8 must cite/bind S003.
 
+## Source-rights exit result
+All 11 Stage 12 source gaps now have a publication-safe factual/visual path without assuming that a webpage screenshot is license-cleared.
+
+This does **not** mean the final assets exist. It means the source/provenance/rights layer is no longer the blocker.
+
 ## What is NOT complete
 - no final source image/video has been downloaded into production storage;
 - no actual document crop image has been rendered/exported;
@@ -30,8 +35,8 @@ The exact **June 8, 2019** FidoMaster graffiti date is supported by **S003 Crimi
 - no credits/tokens have been spent.
 
 ## Remaining source decisions
-1. EcommerceBytes screenshot: editor recreation preferred; screenshot only after editorial/fair-use review.
-2. eBay press-room B-roll/campus downloads: HOLD until asset-specific reuse terms are confirmed.
+1. EcommerceBytes screenshot is optional only; editor recreation is the default and fully covers the factual need.
+2. eBay press-room B-roll/campus downloads remain optional HOLD material; selected CC/CC0 alternatives remove any dependency on them.
 3. Optional literal surveillance/tracker reenactment: source-safe editorial path exists without generation, but RC-005 remains available if later proof demonstrates a real need.
 4. Party-authored Document 986 is a primary procedural source, but literal use of the PDF as artwork remains rights-review-only; default to editor recreation.
 
