@@ -1,0 +1,36 @@
+beat_id,qc_status,primary_issue,required_action
+B001,EDIT_FIX,Subtitle band visually busy,Headline correct; no text collision. Darken/soft-mask lower 20% before captions.
+B002,PASS,Clean evidence treatment,Headline correct; only small factual source/CC0 label; subtitle zone clean.
+B003,EDIT_FIX,Extra generated threatening-message copy,"Headline correct, but generated an additional quote beyond exact-text lock. Remove generated quote and use clean/authentic excerpt only."
+B004,EDIT_FIX,Source label enters subtitle-safe zone,Main evidence treatment works; move/remove lower DOJ/FBI source label. Preserve authentic evidence image.
+B005,EDIT_FIX,Subtitle band visually busy,Legal wording correct; attempted/not-installed distinction preserved. Add dark quiet lower band.
+B006,PASS,Owner-approved test pass,Correct EBAY SECURITY frame; subtitle-safe text clear.
+B007,EDIT_FIX,Accountability treatment text-heavy,"Seven-guilty-pleas concept reads, but repeated PLEADED GUILTY labels and agency treatment should be simplified."
+B008,REGEN,Dense pseudo-legal document failure,Large wall of malformed legal text; directly repeats rejected B057/B100 failure mode.
+B009,EDIT_FIX,Duplicated money headline,$55.7M / settlement package appears twice; simplify to one dominant amount and one label.
+B010,PASS,Strong thematic transition,Headline clean; restrained corporate context; no unsafe text.
+B011,REGEN,Wrong legal-document contamination + very busy subtitle area,EcommerceBytes establishing frame contains unrelated court title and excessive lower-frame detail.
+B012,PASS,Clear scale contrast,Headline clean; simple publication-vs-marketplace concept; acceptable lower band.
+B013,EDIT_FIX,eBay logo enters subtitle-safe zone,Core headline good; remove/reframe lower eBay mark and quiet caption band.
+B014,EDIT_FIX,Irrelevant courthouse/John Adams quote dominates secondary layer,"SPRING 2019 works, but remove irrelevant quotation/source contamination."
+B015,EDIT_FIX,Unnecessary court-filing labels,Main CRITICISM NOT COMPETITION message works; remove court-title/complaint copy.
+B016,REGEN,Subtitle collision + legal-document contamination,CASE NO / COMPLAINT text enters bottom-safe region and distracts from central question.
+B017,REGEN,Full dense court page,Violates sparse-document lock; entire source page is readable instead of one excerpt.
+B018,PASS,Owner-approved test pass,Accepted evidence quote treatment; no subtitle collision.
+B019,EDIT_FIX,Irrelevant large background legal/courthouse quotation,TAKE HER DOWN reads; remove unrelated quote layer and retain clean evidence treatment.
+B020,REGEN,Dense source-page treatment,NOW IS THE TIME is present but the frame reproduces a long source paragraph; violates R2 lock.
+B021,PASS,Clean legal clarifier,Exact headline only; clear one-idea frame.
+B022,EDIT_FIX,Lower frame too visually active,Headline and one short court-supported clarifier are usable; simplify/darken lower band.
+B023,PASS,Compact quote treatment,Short quote plus restrained supporting excerpt; no subtitle collision.
+B024,EDIT_FIX,Wrong secondary legal labels,"Security-chain headline reads, but LEGAL STATUS / SUMMARY JUDGMENT contamination is unrelated and must be removed."
+B025,EDIT_FIX,Extremely busy lower band,Quote treatment is usable; bottom band needs strong dark mask/reframe for captions.
+B026,REGEN,Gibberish pseudo-text,Generated nonsensical secondary text around the legal clarifier.
+B027,REGEN,Gibberish labels,Security-chain concept is contaminated by nonsensical pseudo-document labels.
+B028,REGEN,Dense document copy,Location/date headline works but seven+ small legal text boxes violate sparse-doc treatment.
+B029,REGEN,Key on-image text missing,FIDOMASTER is absent; generated WHAT IT COST / MASSACHUSETTS instead.
+B030,EDIT_FIX,Busy subtitle band,Quote is correct and clean; lower imagery needs darkening/reframe.
+B031,REGEN,Garbled source text,Causal headline works but malformed Fidomaster/source text remains visible.
+B032,REGEN,Dense pseudo-document copy,Operation-planning headline is correct but long malformed legal paragraphs dominate supporting layer.
+B033,EDIT_FIX,Garbled source/agency label,Main headline works; remove malformed U.S. Attorney/Massachusetts secondary label.
+B034,REGEN,Red overuse + invented source label,Signal red occupies ~26% of frame and SOURCE: ADMITTED RECORD is an unsupported/invented metadata treatment.
+B035,EDIT_FIX,Questionable extra DOJ/FBI source label + heavy red,CRAIGSLIST POSTS reads; remove generic agency label and reduce red emphasis.

@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Batch 1 B001-B035 generation COMPLETE; owner visual QC pending; do not start Batch 2 or regenerate without explicit approval; Stage 13 NOT_STARTED"
+next_action: "Batch 1 visual QC PARTIAL PASS: 7 PASS / 16 EDIT_FIX / 12 REGEN; no regeneration submitted; Batch 2 blocked pending owner instruction; Stage 13 NOT_STARTED"
 blockers: []
 
 stages:
