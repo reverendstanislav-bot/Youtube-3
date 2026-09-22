@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12E-R2 DOCUMENTARY RHYTHM PASS: PASS. Stage 12 remains IN PROGRESS until owner authorizes actual visual build/rendering. Use the R2 build map as canonical execution truth. Do not start Stage 13 or any paid generation automatically.**
+- **Stage 12F GPT IMAGE PROMPT PACK: PASS. 115/115 prompts are ready. No generation authorized. First-pass full-video cost would be 57.5 credits at 0.5 per image. Stage 13 remains NOT_STARTED.**
 
 ## Spend lock — HARD
 
@@ -216,3 +216,13 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - no three identical layouts or hero assets in a row.
 - script/source/claim/legal locks unchanged.
 - no paid generation; Stage 13 NOT_STARTED.
+
+## Stage 12F result
+- **PASS — GPT IMAGE PROMPT PACK COMPLETE**
+- 115 / 115 detailed beat prompts.
+- all prompts bound to approved Stage 12D style references SR-A..SR-E.
+- semantic reference selection validated against physical Stage 12C assets.
+- exact on-image text and legal guardrails locked.
+- one-pass future cost: 57.5 credits.
+- jobs submitted: 0; spend: 0.
+- Stage 13 remains NOT_STARTED.

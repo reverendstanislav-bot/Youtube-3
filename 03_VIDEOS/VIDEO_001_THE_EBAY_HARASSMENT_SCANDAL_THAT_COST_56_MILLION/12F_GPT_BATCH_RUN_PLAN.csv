@@ -1,0 +1,7 @@
+batch,beat_range,jobs,cost_credits,purpose,gate
+A,B001-B020,20,10.0,"Cold open + setup + internal-message proof; highest-value style consistency test","OWNER_APPROVAL_REQUIRED"
+B,B021-B047,27,13.5,"Executive chain + operation + investigation","OWNER_APPROVAL_REQUIRED"
+C,B048-B080,33,16.5,"Criminal accountability + DPA + civil responsibility","OWNER_APPROVAL_REQUIRED"
+D,B081-B101,21,10.5,"False ending + final settlement + money payoff","OWNER_APPROVAL_REQUIRED"
+E,B102-B115,14,7.0,"Company response + final synthesis","OWNER_APPROVAL_REQUIRED"
+TOTAL,B001-B115,115,57.5,"One first-pass GPT image for every beat","OWNER_APPROVAL_REQUIRED"

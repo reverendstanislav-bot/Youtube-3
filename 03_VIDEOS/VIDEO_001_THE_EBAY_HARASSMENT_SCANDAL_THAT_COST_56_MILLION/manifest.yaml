@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12E-R2 documentary rhythm pass PASS; R2 build map is canonical execution truth; owner must explicitly authorize visual build/rendering; Stage 13 NOT_STARTED; no generation authorized"
+next_action: "Stage 12F GPT prompt pack PASS; 115/115 prompts ready; no generation authorized; first-pass full-video cost 57.5 credits; Stage 13 NOT_STARTED"
 blockers: []
 
 stages:

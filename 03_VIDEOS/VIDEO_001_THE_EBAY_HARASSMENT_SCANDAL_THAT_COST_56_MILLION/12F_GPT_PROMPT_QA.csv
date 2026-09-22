@@ -1,0 +1,12 @@
+check,result,details
+prompt_count,PASS,115 / 115
+cost_math,PASS,115 × 0.5 = 57.5 credits for one first-pass image per beat
+generation_submitted,PASS,0 jobs / 0 credits
+unique_prompt_signatures,PASS,115 / 115
+physical_reference_integrity,PASS,All selected reference assets exist in 12B_SOURCE_ASSETS
+semantic_reference_override,PASS,Beat semantics override old anti-repeat hero selection when necessary
+subtitle_safe_rule,PASS,Every prompt reserves Y 864–1080
+style_reference_binding,PASS,Every beat bound to SR-A through SR-E
+on_image_text_policy,PASS,Exact supplied text only; no model-invented factual prose
+legal_guardrails,PASS,Inherited per-beat Stage 12E legal production note
+stage13_started,PASS,NO
