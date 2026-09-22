@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12E PRODUCTION ROLLOUT MAP: PASS. Stage 12 remains IN PROGRESS until owner chooses to begin actual visual build/rendering. Do not start Stage 13 or any paid generation automatically.**
+- **Stage 12E-R2 DOCUMENTARY RHYTHM PASS: PASS. Stage 12 remains IN PROGRESS until owner authorizes actual visual build/rendering. Use the R2 build map as canonical execution truth. Do not start Stage 13 or any paid generation automatically.**
 
 ## Spend lock — HARD
 
@@ -208,3 +208,11 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - no paid generation submitted.
 - no visual render/build executed in this stage; this is the production execution map.
 - Stage 13 remains NOT_STARTED.
+
+## Stage 12E-R2 result
+- **PASS — DOCUMENTARY RHYTHM CORRECTION**
+- 45 beats redirected across existing T01–T07 families.
+- longest continuous perceptual-mode run: 29.74 sec; runs >35 sec: 0.
+- no three identical layouts or hero assets in a row.
+- script/source/claim/legal locks unchanged.
+- no paid generation; Stage 13 NOT_STARTED.
