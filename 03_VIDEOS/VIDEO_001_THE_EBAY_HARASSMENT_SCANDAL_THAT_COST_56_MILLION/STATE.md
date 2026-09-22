@@ -10,8 +10,8 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 09 Voice QA + Lock: **PASS**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
-- Stage 12 Visual Source / Generation Plan: **PASS / ASSET-READY — STAGE 12B COMPLETE**
-- Current pipeline stage: 12_VISUAL_SOURCE_GENERATION_PLAN — **PASS; STAGE 13 NOT STARTED**
+- Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
+- Current pipeline stage: 12_VISUAL_SOURCE_GENERATION_PLAN — **IN PROGRESS**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -112,19 +112,8 @@ Shorts architecture backfill:
 - no rewritten/reordered narration and no new TTS;
 - Stage 12 beat map carries `short_ids` plus 9:16-safe requirements.
 
-Stage 12B result:
-- authentic source/reference package acquired and provenance-logged;
-- exact document crop sheet prepared;
-- 15 / 15 editor-native GFX SVG masters built;
-- 2 schematic map SVGs built;
-- 6 labelled editor-native reconstruction fallback SVGs built;
-- all 11 source gaps now have non-blocking asset paths;
-- optional AI reconstruction package remains ungenerated;
-- read-only cost preflight: 6 independent GPT Image 2 jobs × 0.5 credit = **3.0 credits**;
-- Stage 12B spend: **0 credits**.
-
 Next action:
-- **Stage 12 PASS. Await explicit owner authorization before starting Stage 13 Visual Asset QC.**
+- **Stage 12 remains in progress. Await owner review/instruction before any source acquisition or generation.**
 
 ## Spend lock — HARD
 
@@ -139,7 +128,7 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- No Stage 12 blocker. Optional AI reconstruction upgrade is unapproved but non-blocking because editor-native fallbacks exist.
+- No planning blocker. Asset acquisition/generation remains unstarted pending owner instruction and spend approval where applicable.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
@@ -164,6 +153,3 @@ The previous Bram lock is superseded.
 Do not reopen selection, test substitutes, or generate audio unless the owner explicitly requests it.
 
 
-
-## Stage 12B spend gate
-No reconstruction generation was submitted. Optional six-image GPT Image 2 upgrade remains gated at 3.0 credits total and requires explicit owner approval.
