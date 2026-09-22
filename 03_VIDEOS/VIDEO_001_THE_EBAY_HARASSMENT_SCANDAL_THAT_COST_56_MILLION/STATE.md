@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12 remains IN PROGRESS. Next within Stage 12 is real asset acquisition + exact document crops + a small visual proof set; do not start Stage 13 or any generation without explicit owner instruction.**
+- **Stage 12 remains IN PROGRESS. Real source acquisition is complete for the selected set. Next within Stage 12 is exact document crops + a small visual proof set; do not start Stage 13 or any generation without explicit owner instruction.**
 
 ## Spend lock — HARD
 
@@ -146,7 +146,8 @@ Prior paid voice-test submissions were made without owner spend approval. Do not
 
 ## Blockers
 - Source-rights layer: none blocking; all 11 gaps have safe paths.
-- Final asset acquisition/rendering has not been completed.
+- **16 real source binaries are now physically acquired in GitHub under `12B_SOURCE_ASSETS/`** with checksums and rights manifest.
+- Exact document crop images have not yet been rendered/exported.
 - Visual proof set has not been built/owner-approved.
 - Stage 13 remains NOT_STARTED.
 

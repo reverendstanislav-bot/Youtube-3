@@ -24,10 +24,10 @@ The exact **June 8, 2019** FidoMaster graffiti date is supported by **S003 Crimi
 ## Source-rights exit result
 All 11 Stage 12 source gaps now have a publication-safe factual/visual path without assuming that a webpage screenshot is license-cleared.
 
-This does **not** mean the final assets exist. It means the source/provenance/rights layer is no longer the blocker.
+The selected source/provenance/rights layer is no longer the blocker, and the real source files are now physically present in GitHub. This still does **not** mean final edit-ready crops/GFX/proofs exist.
 
 ## What is NOT complete
-- no final source image/video has been downloaded into production storage;
+- **16 selected source binaries have now been downloaded and committed to `12B_SOURCE_ASSETS/`;**
 - no actual document crop image has been rendered/exported;
 - no Stage 13 asset QC has occurred;
 - no GFX master has been built or approved;
