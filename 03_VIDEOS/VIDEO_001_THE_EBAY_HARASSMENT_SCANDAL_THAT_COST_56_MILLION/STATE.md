@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12 remains IN PROGRESS. Real source acquisition is complete for the selected set. Next within Stage 12 is exact document crops + a small visual proof set; do not start Stage 13 or any generation without explicit owner instruction.**
+- **Stage 12C LIVE SOURCE EXPANSION: PASS. Stage 12 remains IN PROGRESS. Next, only on owner instruction: Stage 12D small visual proof set using the acquired live materials. Do not start Stage 13 or any generation automatically.**
 
 ## Spend lock — HARD
 
@@ -174,3 +174,14 @@ The previous Bram lock is superseded.
 Do not reopen selection, test substitutes, or generate audio unless the owner explicitly requests it.
 
 
+
+## Stage 12C result
+- **PASS — LIVE SOURCE EXPANSION COMPLETE**
+- 115/115 beats audited.
+- 93/115 beats have a live-source-led visual path.
+- 22/115 are intentionally factual GFX-led with live source files retained underneath.
+- 0 mandatory generation gaps remain before proof review.
+- exact court/DOJ crops physically rendered into `12B_SOURCE_ASSETS/`.
+- new primary/first-party sources S021–S026 added.
+- no paid generation; Stage 12C spend: 0.
+- Stage 13 remains NOT_STARTED.
