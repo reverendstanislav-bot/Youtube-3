@@ -28,10 +28,20 @@ jobs:
           fetch() {
             url="$1"; file="$2"
             echo "FETCH $file"
-            curl -L --fail --retry 4 --retry-delay 2 --connect-timeout 30 --max-time 300 \
+            if curl -L --fail --retry 4 --retry-delay 2 --connect-timeout 30 --max-time 300 \
               -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36" \
-              "$url" -o "$AS/$file"
-            test -s "$AS/$file"
+              "$url" -o "$AS/$file"; then
+              if [ -s "$AS/$file" ]; then
+                echo "OK $file"
+              else
+                rm -f "$AS/$file"
+                echo "WARN empty: $file"
+              fi
+            else
+              rm -f "$AS/$file"
+              echo "WARN download failed: $file ($url)"
+            fi
+            return 0
           }
 
           # Primary / first-party factual files
@@ -49,7 +59,7 @@ jobs:
           fetch "https://www.ebayinc.com/stories/news/ebay-inc-issues-statement-regarding-indictments-of-previously-terminated-employees/" "S021_EBAY_2020_INTERNAL_INVESTIGATION_STATEMENT_REFERENCE.html"
           fetch "https://www.ecommercebytes.com/about/" "S022_ECOMMERCEBYTES_ABOUT_REFERENCE.html"
           fetch "https://www.ecommercebytes.com/2019/01/12/from-the-editor-january-13-2019/" "S022B_ECOMMERCEBYTES_2019_EDITOR_REFERENCE.html"
-          fetch "https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ebay201910-k.htm" "S023_EBAY_2019_10K_SEC.html"
+          fetch "https://www.annualreports.com/HostedData/AnnualReportArchive/e/NASDAQ_EBAY_2019.pdf" "S023_EBAY_2019_ANNUAL_REPORT_REFERENCE.pdf"
           fetch "https://static.ebayinc.com/static/assets/Uploads/Leaders/Downloads/eBay-WendyJones-Bio-061818.pdf" "S024_WENDY_JONES_EBAY_BIO_REFERENCE.pdf"
           fetch "https://www.ebayinc.com/stories/news/steve-wymer-joins-ebay-as-senior-vice-president-and-chief-communications-officer/" "S025_STEVE_WYMER_EBAY_PROFILE_REFERENCE.html"
           fetch "https://www.ebayinc.com/stories/news/devin-wenig-joins-ebay-president-global-marketplaces-business/" "S026_DEVIN_WENIG_EBAY_PROFILE_REFERENCE.html"
@@ -65,6 +75,17 @@ jobs:
           # Public-domain map data for editor-built geography
           fetch "https://naturalearth.s3.amazonaws.com/50m_cultural/ne_50m_admin_1_states_provinces.zip" "NATURAL_EARTH_50M_US_STATES.zip"
           fetch "https://naturalearth.s3.amazonaws.com/10m_cultural/ne_10m_populated_places.zip" "NATURAL_EARTH_10M_POPULATED_PLACES.zip"
+
+          # Hard gate only the primary files required for Stage 12C documentary coverage.
+          for required in \
+            "S002_EBAY_DEFERRED_PROSECUTION_AGREEMENT.pdf" \
+            "S010_STEINER_CIVIL_COMPLAINT.pdf" \
+            "S003_EBAY_CRIMINAL_INFORMATION.pdf" \
+            "S009_D711_SUMMARY_JUDGMENT_ORDER.pdf" \
+            "S020_D986_STIPULATION_DISMISSAL.pdf" \
+            "DOJ_FBI_PIG_MASK_AND_BOOK.jpg"; do
+            test -s "$AS/$required" || { echo "FATAL missing required source: $required"; exit 1; }
+          done
 
           # Print official DOJ source pages to immutable source-page PDFs.
           CHROME="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
@@ -309,7 +330,7 @@ jobs:
           additions=[
           'S021,COMPANY_STATEMENT,"eBay Inc. Issues Statement Regarding Indictments of Previously Terminated Employees",eBay Inc.,,https://www.ebayinc.com/stories/news/ebay-inc-issues-statement-regarding-indictments-of-previously-terminated-employees/,,,,,2020-06-15,2026-09-22,PRIMARY,TIER_1,,CAPTURED,"Primary company statement: internal investigation found Wenig communications inappropriate but said no evidence he knew in advance or authorized later actions."',
           'S022,FIRST_PARTY_ABOUT_PAGE,"About",EcommerceBytes,,https://www.ecommercebytes.com/about/,,,,,2026-09-22,2026-09-22,PRIMARY,TIER_1,,CAPTURED,"First-party publication history: Steiner Associates launched AuctionBytes in 1999; renamed EcommerceBytes in 2011; Ina and David Steiner roles."',
-          'S023,SEC_FILING,"eBay Inc. 2019 Form 10-K",SEC / eBay Inc.,,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ebay201910-k.htm,SEC,eBay Inc.,001-37713,2020-01-31,2020-01-31,2026-09-22,PRIMARY,TIER_1,,CAPTURED,"Period-appropriate corporate filing for scale/company context; issuer-authored content remains subject to normal copyright/provenance review for literal visual reuse."',
+          'S023,SEC_FILING,"eBay Inc. 2019 Form 10-K",SEC / eBay Inc.,,https://www.sec.gov/Archives/edgar/data/1065088/000106508820000006/ebay201910-k.htm,SEC,eBay Inc.,001-37713,2020-01-31,2020-01-31,2026-09-22,PRIMARY,TIER_1,,AVAILABLE_REFERENCE,"Canonical SEC filing metadata; GitHub acquisition may use a period annual-report mirror only as context/reference because SEC blocks runner downloads."',
           'S024,COMPANY_BIO,"Wendy Jones — SVP Global Operations",eBay Inc.,,https://static.ebayinc.com/static/assets/Uploads/Leaders/Downloads/eBay-WendyJones-Bio-061818.pdf,,,,,2018-06-18,2026-09-22,PRIMARY,TIER_1,,CAPTURED_REFERENCE_ONLY,"First-party role/background reference; not automatically license-cleared for raw publication."',
           'S025,COMPANY_PROFILE,"Steve Wymer to Join eBay as SVP and Chief Communications Officer",eBay Inc.,,https://www.ebayinc.com/stories/news/steve-wymer-joins-ebay-as-senior-vice-president-and-chief-communications-officer/,,,,,2019-01-17,2026-09-22,PRIMARY,TIER_1,,CAPTURED_REFERENCE_ONLY,"First-party role/background reference; page imagery not automatically license-cleared."',
           'S026,COMPANY_PROFILE,"Devin Wenig Joins eBay as President of Global Marketplaces Business",eBay Inc.,,https://www.ebayinc.com/stories/news/devin-wenig-joins-ebay-president-global-marketplaces-business/,,,,,2011-09-06,2026-09-22,PRIMARY,TIER_1,,CAPTURED_REFERENCE_ONLY,"First-party role/background reference. Commons-licensed portrait candidates acquired separately."'
