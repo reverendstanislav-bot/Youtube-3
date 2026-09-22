@@ -1,0 +1,75 @@
+name: stage12c-binary-qc-fix
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stage12c-binary-qc-fix.yml
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix physical source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION"
+          AS="$BASE/12B_SOURCE_ASSETS"
+          python -m pip install --quiet pymupdf pillow
+          rm -f "$AS/LIVE_EBAY_CAMPUS_COBB_2007_COMMONS.jpg"
+          rm -f "$AS/S014_ECOMMERCEBYTES_FINAL_SETTLEMENT_REFERENCE.html"
+          rm -f "$AS/S022_ECOMMERCEBYTES_ABOUT_REFERENCE.html"
+          rm -f "$AS/S022B_ECOMMERCEBYTES_2019_EDITOR_REFERENCE.html"
+          curl -L --fail --retry 4 --connect-timeout 30 --max-time 300 "https://upload.wikimedia.org/wikipedia/commons/0/08/EBay_HQ_CommunityBld_200606.jpg" -o "$AS/LIVE_EBAY_HQ_COMMUNITY_BUILDING_2006_CC_BY_SA.jpg"
+          curl -L --fail --retry 4 --connect-timeout 30 --max-time 300 "https://commons.wikimedia.org/wiki/Special:Redirect/file/Federal_Court_of_Appeals.jpg?width=1280" -o "$AS/LIVE_MOAKLEY_COURTHOUSE_CC0.jpg"
+          curl -L --fail --retry 4 --connect-timeout 30 --max-time 300 -A "Mozilla/5.0" "https://www.justice.gov/usao-ma/pr/six-former-ebay-employees-charged-aggressive-cyberstalking-campaign-targeting-natick" -o "$AS/S027_DOJ_ORIGINAL_CHARGING_RELEASE.html"
+          CHROME="$(command -v google-chrome || command -v chromium || command -v chromium-browser || true)"
+          if [ -n "$CHROME" ]; then
+            "$CHROME" --headless --no-sandbox --disable-gpu --print-to-pdf="$AS/S027_DOJ_ORIGINAL_CHARGING_RELEASE_PAGE.pdf" "https://www.justice.gov/usao-ma/pr/six-former-ebay-employees-charged-aggressive-cyberstalking-campaign-targeting-natick" >/dev/null 2>&1 || true
+          fi
+          python - <<'PY'
+          from pathlib import Path
+          import fitz, hashlib, csv
+          from PIL import Image, ImageDraw
+          base=Path("03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION")
+          a=base/"12B_SOURCE_ASSETS"
+          doc=fitz.open(a/"S003_EBAY_CRIMINAL_INFORMATION.pdf")
+          page=doc[10]
+          rect=None
+          for s in ["Deleting the contents of computers","Deleting the contents","destroying evidence"]:
+              z=page.search_for(s)
+              if z: rect=z[0]; break
+          if rect is None: raise RuntimeError("DC023 anchor not found")
+          clip=fitz.Rect(28,max(28,rect.y0-95),page.rect.width-28,min(page.rect.height-28,rect.y1+150))
+          k=2.3
+          p=a/"DC023_OBSTRUCTION_DELETION.png"
+          page.get_pixmap(matrix=fitz.Matrix(k,k),clip=clip,alpha=False).save(p)
+          im=Image.open(p).convert("RGB"); d=ImageDraw.Draw(im)
+          d.rectangle([(rect.x0-clip.x0)*k-8,(rect.y0-clip.y0)*k-5,(rect.x1-clip.x0)*k+8,(rect.y1-clip.y0)*k+5],outline=(211,34,34),width=5)
+          im.save(p,quality=95)
+          def h(p):
+              x=hashlib.sha256()
+              with p.open("rb") as f:
+                  for b in iter(lambda:f.read(1048576),b""): x.update(b)
+              return x.hexdigest()
+          with (a/"12C_LIVE_SOURCE_CHECKSUMS.csv").open("w",newline="",encoding="utf-8") as f:
+              w=csv.writer(f); w.writerow(["file","bytes","sha256"])
+              for p in sorted(a.iterdir()):
+                  if p.is_file() and p.name not in {"VIDEO_001_STAGE12_SOURCE_ASSETS.zip","VIDEO_001_STAGE12C_LIVE_SOURCE_PACK.zip","12C_LIVE_SOURCE_CHECKSUMS.csv"}:
+                      w.writerow([p.name,p.stat().st_size,h(p)])
+          print("DC023",p.stat().st_size)
+          PY
+      - name: Commit physical corrections
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "youtube3-stage12c-qc"
+          git config user.email "youtube3-stage12c-qc@users.noreply.github.com"
+          rm -f .github/workflows/stage12c-binary-qc-fix.yml
+          git add -A
+          git commit -m "Correct VIDEO_001 Stage 12C physical sources [skip ci]"
+          git push origin HEAD:main
