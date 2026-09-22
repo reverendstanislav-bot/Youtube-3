@@ -6,9 +6,9 @@ pillar: "CORPORATE_SCANDAL"
 priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
-last_updated: "2026-09-21"
+last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12 source-rights rebuild in progress; continue publication-safe source selection/proof planning; no generation authorized"
+next_action: "Stage 12D proof/style system PASS; next within Stage 12 is Stage 12E visual rollout/production build using T01-T07 and the 115-beat style map; no generation authorized"
 blockers: []
 
 stages:

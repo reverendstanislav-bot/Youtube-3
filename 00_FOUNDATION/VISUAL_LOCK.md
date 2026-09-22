@@ -1,8 +1,10 @@
 # Visual Identity Lock — WHAT IT COST
 
-Status: **LOCKED v1**
+Status: **LOCKED v1.1**
 
 Locked on: 2026-09-20
+
+Production-layout extension locked: **2026-09-22**
 
 This file is the canonical visual identity contract for the channel.
 
@@ -361,3 +363,41 @@ Not yet locked:
 - episode-specific thumbnail compositions.
 
 These remaining items do not reopen the visual system. They are production outputs governed by this lock.
+
+
+## 15. Production frame / subtitle-safe lock
+
+Channel-wide production rule for long-form frames:
+
+### 16:9
+Reserve the bottom **20%** of the frame for subtitles.
+For 1920×1080 this is **Y 864–1080**.
+
+Do not place in that zone:
+- essential headline text;
+- material numbers;
+- faces/eyes;
+- evidence that must be understood;
+- source labels;
+- legal caveats;
+- map endpoints;
+- diagram nodes.
+
+### 9:16
+Reserve the bottom **22%** for captions and platform UI.
+For 1080×1920 this begins at approximately **Y 1498**.
+
+For Shorts extracted from a long-form video, use an alternate vertical layout from the same factual assets when a crop would lose essential information.
+
+### Proof-to-production rule
+AI/generated proof boards establish composition/style only. They are not evidence. Final production must replace any generated person, document, evidence object or specific factual scene with authentic/source-safe material or a clearly labelled approved reconstruction.
+
+### Forbidden layout patterns
+- important content behind captions;
+- horror/crime-poster treatment;
+- generic card-grid dashboards;
+- overloaded information panels;
+- fake evidence UI/stamps;
+- decorative elements covering faces, quotes, numbers or legal notes.
+
+This rule is binding on all future episode graphics unless explicitly revised.

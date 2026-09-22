@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12C LIVE SOURCE EXPANSION: PASS. Stage 12 remains IN PROGRESS. Next, only on owner instruction: Stage 12D small visual proof set using the acquired live materials. Do not start Stage 13 or any generation automatically.**
+- **Stage 12D PROOF + STYLE SYSTEM: PASS. Stage 12 remains IN PROGRESS. Next, only on owner instruction: Stage 12E visual-system rollout / production build using T01–T07 and the 115-beat style map. Do not start Stage 13 or any paid generation automatically.**
 
 ## Spend lock — HARD
 
@@ -185,3 +185,15 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - new primary/first-party sources S021–S026 added.
 - no paid generation; Stage 12C spend: 0.
 - Stage 13 remains NOT_STARTED.
+
+
+## Stage 12D result
+- **PASS — PROOF STYLE + PRODUCTION SYSTEM LOCKED**
+- owner-approved proof direction converted into a binding style bible.
+- channel `VISUAL_LOCK.md` extended to v1.1 with subtitle-safe rules.
+- 7 reusable template families locked: T01–T07.
+- 115/115 beats assigned a template family, frame type, primary live asset, GFX status and subtitle-safe rule.
+- 16:9 bottom 20% (Y 864–1080) reserved for subtitles.
+- 9:16 bottom 22% reserved for captions/platform UI.
+- proof images are style references only; generated evidence/likenesses are prohibited in final factual production.
+- Stage 12 remains IN_PROGRESS; Stage 13 remains NOT_STARTED.
