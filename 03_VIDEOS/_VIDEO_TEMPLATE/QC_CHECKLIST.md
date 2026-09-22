@@ -27,6 +27,16 @@
 - [ ] graphics/status labels are current
 - [ ] captions match final audio
 
+## Shorts architecture
+- [ ] 6–10 contiguous short-ready units identified at Stage 02
+- [ ] `03_SHORTS_MAP.csv` exists and uses long-form wording only
+- [ ] every proposed Short passed standalone fact/legal review
+- [ ] `07_SHORTS_LOCK.csv` locked with final script unless owner waived requirement
+- [ ] `11_SHORTS_CUT_MAP.csv` uses exact final-master timestamps
+- [ ] Short-used Stage 12 beats carry `short_ids` and 9:16-safe strategy
+- [ ] canonical Shorts require no rewritten/reordered VO or distant-line stitching
+- [ ] Stage 16 refresh reviewed each Short independently
+
 ## Packaging / release
 - [ ] title/thumbnail accuracy PASS
 - [ ] money figure correctly characterized

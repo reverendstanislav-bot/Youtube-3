@@ -18,5 +18,6 @@ Required:
 - Ending/consequence
 - Next-view potential
 - Accuracy hard gate
+- Shorts extraction review: first-line hook, standalone clarity, density, payoff and visualizability for every selected contiguous Short zone
 
 Result: PASS / WARN / FAIL.

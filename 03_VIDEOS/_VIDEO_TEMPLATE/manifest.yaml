@@ -63,6 +63,18 @@ audio:
   file_or_uri: ""
   checksum: ""
 
+shorts:
+  required: true
+  architecture_status: "NOT_STARTED"
+  target_count: "6-10"
+  extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
+  stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
+  stage_03_map: "03_SHORTS_MAP.csv"
+  stage_07_lock: "07_SHORTS_LOCK.csv"
+  stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
+  audio_source: "FINAL_AUDIO_MASTER"
+  vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
+
 assets:
   manifest: "ASSET_MANIFEST.csv"
   external_storage_root: ""

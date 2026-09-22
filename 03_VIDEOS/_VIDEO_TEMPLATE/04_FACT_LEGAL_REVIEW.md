@@ -14,7 +14,8 @@ Check:
 7. adverse positions/denials are fairly represented when material;
 8. chronology and causality are accurate;
 9. active-case status is current enough for this stage;
-10. title-level accusations are not embedded in narration without support.
+10. title-level accusations are not embedded in narration without support;
+11. every proposed Short in `03_SHORTS_MAP.csv` remains accurate when viewed in isolation and does not strengthen a claim by dropping context.
 
 Result: PASS / WARN / FAIL.
 Log issues in QA_LEDGER.csv.
