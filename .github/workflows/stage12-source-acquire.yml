@@ -1,43 +1,51 @@
 name: stage12-source-acquire
 on:
   push:
-    branches: [main]
+    branches:
+      - main
     paths:
-      - '.github/workflows/stage12-source-acquire.yml'
+      - .github/workflows/stage12-source-acquire.yml
 
 permissions:
   contents: write
 
 jobs:
   acquire:
-    if: "!contains(github.event.head_commit.message, '[stage12-assets-done]')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Download publication-safe VIDEO 001 sources
-        shell: bash
+      - name: Download source assets
         run: |
-          set -euo pipefail
+          set -u
           BASE="03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/12B_SOURCE_ASSETS"
           mkdir -p "$BASE"
+          : > "$BASE/ACQUIRE_LOG.csv"
+          echo "file,status,url" >> "$BASE/ACQUIRE_LOG.csv"
 
           fetch() {
-            local url="$1"
-            local file="$2"
+            url="$1"
+            file="$2"
             echo "Downloading $file"
-            curl -L --fail --retry 4 --retry-delay 2 --connect-timeout 30 --max-time 300 \
-              -A "Mozilla/5.0" "$url" -o "$BASE/$file"
-            test -s "$BASE/$file"
+            if curl -L --fail --retry 4 --retry-delay 2 --connect-timeout 30 --max-time 300 -A "Mozilla/5.0" "$url" -o "$BASE/$file"; then
+              if [ -s "$BASE/$file" ]; then
+                echo "\"$file\",OK,\"$url\"" >> "$BASE/ACQUIRE_LOG.csv"
+              else
+                rm -f "$BASE/$file"
+                echo "\"$file\",EMPTY,\"$url\"" >> "$BASE/ACQUIRE_LOG.csv"
+              fi
+            else
+              rm -f "$BASE/$file"
+              echo "\"$file\",FAILED,\"$url\"" >> "$BASE/ACQUIRE_LOG.csv"
+            fi
           }
 
           fetch "https://www.govinfo.gov/content/pkg/USCOURTS-mad-1_21-cv-11181/pdf/USCOURTS-mad-1_21-cv-11181-3.pdf" "S009_D711_SUMMARY_JUDGMENT_ORDER.pdf"
           fetch "https://www.justice.gov/usao-ma/media/1333086/dl" "S003_EBAY_CRIMINAL_INFORMATION.pdf"
           fetch "https://www.justice.gov/sites/default/files/styles/d05/public/2024-07/gilbert_pr_image_1.jpg?itok=IQtSIX7y" "DOJ_FBI_PIG_MASK_AND_BOOK.jpg"
           fetch "https://attorneywire.com/wp-content/uploads/2026/07/Steiner_et_al_v_eBay_Inc_et_al__madce-21-11181__0986.0.pdf" "S020_D986_STIPULATION_DISMISSAL.pdf"
-
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/EBay_headquarters_2018.jpg?width=2560" "EBAY_HQ_2018_CC_BY_SA.jpg"
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/Natick_spring_2020.jpg?width=2560" "NATICK_CENTER_2020_CC_BY_SA.jpg"
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bacon_Free_Library_-_South_Natick,_MA_-_DSC09574.jpg?width=2560" "SOUTH_NATICK_BACON_LIBRARY_CC0.jpg"
@@ -49,59 +57,23 @@ jobs:
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kippy_Tracker_Device.jpg?width=1920" "GENERIC_GPS_TRACKER_CC0.jpg"
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/Office_interior_2022_queue.jpg?width=2560" "OFFICE_INTERIOR_CC0.jpg"
           fetch "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wooden_fence_-_Arlington,_MA_-_02.jpg?width=2560" "MASSACHUSETTS_FENCE_CC0.jpg"
-
           fetch "https://naturalearth.s3.amazonaws.com/110m_cultural/ne_110m_admin_0_countries.zip" "NATURAL_EARTH_110M_ADMIN0_COUNTRIES.zip"
-
-          cat > "$BASE/SOURCE_ASSET_MANIFEST.csv" <<'EOF'
-file,source_url,rights_class,publication_use,notes
-S009_D711_SUMMARY_JUDGMENT_ORDER.pdf,https://www.govinfo.gov/content/pkg/USCOURTS-mad-1_21-cv-11181/pdf/USCOURTS-mad-1_21-cv-11181-3.pdf,US_FEDERAL_COURT_OPINION,YES_WITH_GUARDRAILS,Redact PII and inspect embedded third-party material
-S003_EBAY_CRIMINAL_INFORMATION.pdf,https://www.justice.gov/usao-ma/media/1333086/dl,US_GOV_PUBLIC_DOMAIN,YES_WITH_GUARDRAILS,Do not reproduce protected seals/logos
-DOJ_FBI_PIG_MASK_AND_BOOK.jpg,https://www.justice.gov/usao-ma/pr/final-defendant-ebay-cyberstalking-case-sentenced,US_GOV_SOURCE_IMAGE,YES,Authentic case-evidence image; source credit DOJ/FBI
-S020_D986_STIPULATION_DISMISSAL.pdf,https://attorneywire.com/wp-content/uploads/2026/07/Steiner_et_al_v_eBay_Inc_et_al__madce-21-11181__0986.0.pdf,COURT_FILING_RIGHTS_REVIEW,EDITOR_RECREATE_DEFAULT,Primary procedural source; literal crop requires fair-use/provenance review
-EBAY_HQ_2018_CC_BY_SA.jpg,https://commons.wikimedia.org/wiki/File:EBay_headquarters_2018.jpg,CC_BY_SA_4_0,YES_WITH_ATTRIBUTION,Credit Coolcaesar; indicate edits/crop; license CC BY-SA 4.0
-NATICK_CENTER_2020_CC_BY_SA.jpg,https://commons.wikimedia.org/wiki/File:Natick_spring_2020.jpg,CC_BY_SA_4_0,YES_WITH_ATTRIBUTION,Credit Rames1651; generic Natick context only
-SOUTH_NATICK_BACON_LIBRARY_CC0.jpg,https://commons.wikimedia.org/wiki/File:Bacon_Free_Library_-_South_Natick,_MA_-_DSC09574.jpg,CC0,YES,Generic geographic context only
-COCKROACH_CC0.jpg,https://commons.wikimedia.org/wiki/File:A_cockroach.jpg,CC0,YES_GENERIC_ONLY,Not authentic case specimen
-SPIDER_CC0.jpg,https://commons.wikimedia.org/wiki/File:Spider_image_view.jpg,CC0,YES_GENERIC_ONLY,Not authentic case evidence
-LARVAE_CC0.jpg,https://commons.wikimedia.org/wiki/File:Sawfly_larvae_on_globemallow_(Symphyta)_(30098020405).jpg,CC0,YES_GENERIC_ONLY,Species need not match case delivery
-PARCEL_CC0.webp,https://commons.wikimedia.org/wiki/File:Parcel_box_and_mailbox.webp,CC0,YES_GENERIC_ONLY,Generic delivery context
-FUNERAL_WREATH_CC0.jpg,https://commons.wikimedia.org/wiki/File:Funeral_wreath_09_27_1421u.JPG,CC0,YES_GENERIC_ONLY,Generic object only
-GENERIC_GPS_TRACKER_CC0.jpg,https://commons.wikimedia.org/wiki/File:Kippy_Tracker_Device.jpg,CC0,YES_GENERIC_ONLY,Never imply this is the case device or show successful attachment
-OFFICE_INTERIOR_CC0.jpg,https://commons.wikimedia.org/wiki/File:Office_interior_2022_queue.jpg,CC0,YES_GENERIC_ONLY,Not eBay offices
-MASSACHUSETTS_FENCE_CC0.jpg,https://commons.wikimedia.org/wiki/File:Wooden_fence_-_Arlington,_MA_-_02.jpg,CC0,YES_GENERIC_RECONSTRUCTION,Not actual Steiner fence; FidoMaster text editor-native
-NATURAL_EARTH_110M_ADMIN0_COUNTRIES.zip,https://www.naturalearthdata.com/downloads/,PUBLIC_DOMAIN,YES,Map base only; no victim address
-EOF
 
           {
             echo "file,bytes,sha256"
-            find "$BASE" -maxdepth 1 -type f ! -name 'SOURCE_ASSET_CHECKSUMS.csv' -printf '%f\n' | sort | while read -r f; do
+            find "$BASE" -maxdepth 1 -type f ! -name SOURCE_ASSET_CHECKSUMS.csv -printf '%f\n' | sort | while read -r f; do
               bytes=$(stat -c%s "$BASE/$f")
               sha=$(sha256sum "$BASE/$f" | awk '{print $1}')
-              printf '"%s",%s,%s\n' "$f" "$bytes" "$sha"
+              echo "\"$f\",$bytes,$sha"
             done
           } > "$BASE/SOURCE_ASSET_CHECKSUMS.csv"
 
-          cat > "$BASE/README.md" <<'EOF'
-# VIDEO 001 — Stage 12 Source Assets
-
-Real source files acquired for Stage 12.
-
-- Authentic source documents and evidence are distinct from generic context.
-- CC0/CC BY-SA context is not authentic case evidence.
-- Reuters/Bloomberg article screenshots are intentionally excluded.
-- eBay/EcommerceBytes screenshots are intentionally excluded as default assets.
-- No generated images are included.
-- No generation credits were spent.
-- Stage 12 remains IN PROGRESS; Stage 13 is NOT STARTED.
-EOF
-
-      - name: Commit source assets and remove temporary workflow
-        shell: bash
+      - name: Commit downloaded assets
         run: |
-          set -euo pipefail
+          set -e
           git config user.name "youtube3-source-acquisition"
           git config user.email "youtube3-source-acquisition@users.noreply.github.com"
           rm -f .github/workflows/stage12-source-acquire.yml
           git add -A
-          git commit -m "Acquire VIDEO_001 real Stage 12 source assets [stage12-assets-done]"
+          git commit -m "Acquire VIDEO_001 real Stage 12 source assets [skip ci]"
           git push origin HEAD:main
