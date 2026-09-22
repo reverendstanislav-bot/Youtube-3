@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-21"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12 binding complete; await owner instruction before source acquisition or any generation"
+next_action: "Stage 12 source-rights rebuild in progress; continue publication-safe source selection/proof planning; no generation authorized"
 blockers: []
 
 stages:

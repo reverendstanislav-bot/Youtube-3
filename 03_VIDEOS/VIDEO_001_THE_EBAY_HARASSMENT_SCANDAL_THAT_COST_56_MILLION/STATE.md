@@ -112,8 +112,18 @@ Shorts architecture backfill:
 - no rewritten/reordered narration and no new TTS;
 - Stage 12 beat map carries `short_ids` plus 9:16-safe requirements.
 
+Stage 12 publication-safe source rebuild:
+- rejected placeholder Stage 12B commit was reverted in corrective commit `7238548486b582401ce92934f8171b4790f9f64a`;
+- S009 canonical visual source moved from the Justia mirror to the official GovInfo court PDF;
+- official GovInfo/DOJ document crop plan is now defined by exact document pages;
+- source-rights candidates are classified as U.S.-government/public-domain, CC0, CC BY-SA, editorial-fair-use-review, terms-unclear hold, or reference-only;
+- Natural Earth is the preferred public-domain base for editor-built maps;
+- publication-safe context candidates now exist for eBay HQ, Natick, insects/parcel/wreath, generic GPS device, generic office, and a Massachusetts fence;
+- no literal pig-mask asset is accepted yet because the available licensed candidates are contextually wrong or IP-specific;
+- no final visual asset has been marked acquired/approved and no generation has been submitted.
+
 Next action:
-- **Stage 12 remains in progress. Await owner review/instruction before any source acquisition or generation.**
+- **Stage 12 remains IN PROGRESS. Continue publication-safe source selection and proof planning; do not start Stage 13 or any generation without explicit owner instruction.**
 
 ## Spend lock — HARD
 
@@ -128,7 +138,10 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- No planning blocker. Asset acquisition/generation remains unstarted pending owner instruction and spend approval where applicable.
+- Literal bloody-pig-mask visual remains unresolved by a clean publication-safe source; keep reconstruction candidate open.
+- EcommerceBytes/eBay-owned page captures are not treated as license-cleared media; use editor recreation or explicit editorial/fair-use review.
+- eBay press-room media downloads remain HOLD until asset-specific reuse terms are confirmed.
+- Final asset acquisition/QC has not started; Stage 13 remains NOT_STARTED.
 
 ## Important
 The working title is still provisional and remains a Stage 17 packaging decision.
