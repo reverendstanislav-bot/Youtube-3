@@ -119,7 +119,8 @@ Stage 12 publication-safe source rebuild:
 - source-rights candidates are classified as U.S.-government/public-domain, CC0, CC BY-SA, editorial-fair-use-review, terms-unclear hold, or reference-only;
 - Natural Earth is the preferred public-domain base for editor-built maps;
 - publication-safe context candidates now exist for eBay HQ, Natick, insects/parcel/wreath, generic GPS device, generic office, and a Massachusetts fence;
-- no literal pig-mask asset is accepted yet because the available licensed candidates are contextually wrong or IP-specific;
+- authentic DOJ/FBI case-evidence photo of the bloody pig Halloween mask + book is now selected for GAP-005; contextually wrong Saw/cosplay/ceremonial stock remains rejected;
+- CM/ECF Document 986 (July 27, 2026) is captured as S020 and confirms dismissal with prejudice of all civil claims;
 - no final visual asset has been marked acquired/approved and no generation has been submitted.
 
 Next action:
@@ -138,7 +139,6 @@ Existing provider preview samples may be used for read-only shortlisting.
 Prior paid voice-test submissions were made without owner spend approval. Do not treat that as precedent or implied authorization.
 
 ## Blockers
-- Literal bloody-pig-mask visual remains unresolved by a clean publication-safe source; keep reconstruction candidate open.
 - EcommerceBytes/eBay-owned page captures are not treated as license-cleared media; use editor recreation or explicit editorial/fair-use review.
 - eBay press-room media downloads remain HOLD until asset-specific reuse terms are confirmed.
 - Final asset acquisition/QC has not started; Stage 13 remains NOT_STARTED.

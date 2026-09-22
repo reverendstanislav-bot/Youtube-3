@@ -23,6 +23,11 @@ Canonical policies:
 - GovInfo: https://www.govinfo.gov/about/policies
 - DOJ: https://www.justice.gov/legalpolicies
 
+### Government-source photographs on DOJ pages
+A photograph embedded directly on a DOJ page may be used under the DOJ site's public-domain rule **when no outside source/copyright notice is indicated**. Preserve DOJ/FBI source attribution and do not reproduce protected seals/logos or imply endorsement.
+
+For VIDEO 001, the July 18, 2024 DOJ sentencing release embeds an authentic image captioned **"A bloody pig halloween mask and a book on surviving the loss of a spouse."** No outside copyright credit is shown on the DOJ page; secondary reporting identifies the image as an FBI Boston handout. It is selected as the primary visual for the pig-mask beat.
+
 ## 2. PUBLIC_DOMAIN / CC0
 Use freely for commercial editorial context and modification.
 
@@ -81,3 +86,12 @@ Therefore:
 - ceremonial New Guinea pig mask: rejected despite public-domain/CC availability;
 - generic GPS device: allowed only as a labelled device example, never as the device used in the case;
 - generic fence: allowed only as illustrative reconstruction, never as the Steiners' actual fence.
+
+
+## 9. Party-authored federal court filings
+A document filed in federal court is a strong primary factual/procedural source, but filing it does not automatically make attorney-authored text or exhibits a U.S.-government work.
+
+For Document 986 (Stipulation of Dismissal With Prejudice):
+- use docket number, date, filing title and procedural facts in editor-native graphics;
+- default to editor recreation rather than treating the PDF mirror as license-cleared artwork;
+- any literal crop used in the published edit receives a separate fair-use/provenance review at Stage 16.
