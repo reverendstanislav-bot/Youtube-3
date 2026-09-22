@@ -40,3 +40,19 @@ Style references control material language, composition density, color and typog
 ## Spend gate
 No row in this pack is permission to generate.
 Generation starts only after an explicit owner approval specifying batch/job count and credit total.
+
+
+## R2 document/evidence rendering lock
+
+Owner-approved after the five-image Higgsfield test.
+
+For document/evidence-heavy scenes:
+- **never generate a full dense legal document, filing, screenshot, chat log, web page or evidence sheet**;
+- never use invented small-print paragraphs as texture;
+- never create fake docket numbers, signatures, seals, metadata or stamps;
+- use at most **one short excerpt / one quote / one highlighted line / one compact evidence tile**;
+- real source material may be a compact visual anchor, but the frame's strength must come from composition, atmosphere, hierarchy, paper treatment, lighting and negative space;
+- unused paper/document areas must stay clean, cropped, obscured or texture-only;
+- if the real source must be readable pixel-for-pixel, composite the authentic crop after generation rather than asking the model to redraw it.
+
+This lock applies to all future prompts, with extra scrutiny for T03, T07 and document-heavy T02/T06/T01 beats.

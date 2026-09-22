@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F GPT IMAGE PROMPT PACK: PASS. 115/115 prompts are ready. No generation authorized. First-pass full-video cost would be 57.5 credits at 0.5 per image. Stage 13 remains NOT_STARTED.**
+- **Stage 12F-R2 BATCH 1 PROMPTS: LOCKED. B001–B035 corrected with sparse document/evidence treatment. Owner authorized Batch 1 generation up to 17.5 credits. B006 and B018 are already accepted test outputs and are reused; generate the remaining 33 scenes only (16.5 credits), with no automatic retries.**
 
 ## Spend lock — HARD
 
@@ -226,3 +226,10 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - one-pass future cost: 57.5 credits.
 - jobs submitted: 0; spend: 0.
 - Stage 13 remains NOT_STARTED.
+
+## Stage 12F-R2 Batch 1
+- B001–B035 prompts corrected with the owner-approved sparse document/evidence rule.
+- B006 and B018 accepted from the five-image test and marked TEST_PASS_REUSE.
+- New jobs required for Batch 1: 33.
+- New Batch 1 spend ceiling: 16.5 credits (below the previously approved 17.5-credit ceiling).
+- No automatic retries or extra variants are authorized.

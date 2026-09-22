@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12F GPT prompt pack PASS; 115/115 prompts ready; no generation authorized; first-pass full-video cost 57.5 credits; Stage 13 NOT_STARTED"
+next_action: "Stage 12F-R2 Batch 1 prompts locked; owner authorized B001-B035 generation up to 17.5 credits; reuse accepted B006/B018 test outputs; submit 33 new jobs = 16.5 credits; no retries without approval"
 blockers: []
 
 stages:
