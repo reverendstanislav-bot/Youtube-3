@@ -1,0 +1,41 @@
+name: stage12c-final-archive
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/stage12c-final-archive.yml
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Build final Stage 12C review ZIP
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE="03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION"
+          AS="$BASE/12B_SOURCE_ASSETS"
+          OUT="$AS/VIDEO_001_STAGE12C_LIVE_SOURCE_PACK.zip"
+          rm -f "$OUT"
+          cd "$AS"
+          zip -9 -r "VIDEO_001_STAGE12C_LIVE_SOURCE_PACK.zip" .             -x "VIDEO_001_STAGE12C_LIVE_SOURCE_PACK.zip"                "VIDEO_001_STAGE12_SOURCE_ASSETS.zip"
+          cd -
+          zip -9 -j "$OUT"             "$BASE/12C_LIVE_SOURCE_BEAT_MATRIX.csv"             "$BASE/12C_LIVE_SOURCE_COVERAGE_REPORT.md"             "$BASE/12C_GENERATION_RESIDUALS.csv"             "$BASE/12C_DOCUMENT_CROP_QA.csv"             "$BASE/12C_FINAL_QA.md"             "$BASE/12B_DOCUMENT_CROP_PLAN.csv"
+          test -s "$OUT"
+          sha256sum "$OUT"
+          ls -lh "$OUT"
+      - name: Commit archive and self-delete
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "youtube3-stage12c-archive"
+          git config user.email "youtube3-stage12c-archive@users.noreply.github.com"
+          rm -f .github/workflows/stage12c-final-archive.yml
+          git add -f "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/12B_SOURCE_ASSETS/VIDEO_001_STAGE12C_LIVE_SOURCE_PACK.zip"
+          git add -A
+          git commit -m "Rebuild VIDEO_001 Stage 12C final review archive [skip ci]"
+          git push origin HEAD:main
