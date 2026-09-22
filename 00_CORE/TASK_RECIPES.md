@@ -19,22 +19,22 @@ Score story fit, recognizability, stakes, conflict, mechanism, consequence, sour
 Populate SOURCE_INDEX, CLAIMS_LEDGER and CASE_EVENT_LEDGER while writing research. Separate party assertions from findings.
 
 ## G02 STORY MAP
-Build chronological truth first, then narrative order. Record any deliberate chronology compression.
+Build chronological truth first, then narrative order. Record any deliberate chronology compression. Identify 6–10 contiguous short-ready story units under `00_CORE/SHORTS_ARCHITECTURE.md`.
 
 ## G03 SCRIPT
-Write only from supported research. Use attribution where status requires it.
+Write only from supported research. Use attribution where status requires it. Build `03_SHORTS_MAP.csv` from contiguous long-form ranges; revise long-form wording until selected Shorts have standalone hook/context/payoff without new VO.
 
 ## G04 FACT/LEGAL REVIEW
-Audit sentence-level material assertions, numbers, quotes, procedural status and current posture. FAIL if packaging-level accusation exceeds evidence.
+Audit sentence-level material assertions, numbers, quotes, procedural status and current posture. Review every proposed Short in isolation so omitted context does not strengthen a claim. FAIL if packaging-level accusation exceeds evidence.
 
 ## G05–G07
-Revise → independent performance review → lock final script and claim refs.
+Revise → independent performance review → lock final script, claim refs and `07_SHORTS_LOCK.csv`. Normal Stage 07 PASS requires the Shorts lock unless the owner explicitly waives it.
 
 ## G08–G10
 Prepare delivery text → QA names/numbers/meaning → generate and QC final narration.
 
 ## G11–G14
-Align transcript/timeline → decide authentic vs illustrative visuals → QC provenance → plan graphics/documents/audio.
+Align transcript/timeline → write exact `11_SHORTS_CUT_MAP.csv` timestamps → decide authentic vs illustrative visuals → tag Short-used beats for 9:16-safe treatment → QC provenance → plan graphics/documents/audio.
 
 ## G15
 Assemble/edit from locked inputs.

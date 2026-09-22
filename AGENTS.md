@@ -82,3 +82,6 @@ Default behavior at task boundary:
 If the requested task can be completed read-only, keep it read-only unless a write is necessary to fulfill that exact task.
 If uncertain whether an action is in scope, do not execute it.
 
+
+## Shorts architecture — HARD
+Every long-form video must be written with cut-ready Shorts from Stage 02 onward. Follow `00_CORE/SHORTS_ARCHITECTURE.md`. Canonical Shorts are contiguous extracts from long-form narration, not post-production rewrites. Stage 07 script lock requires a Shorts lock unless the owner explicitly waives it.
