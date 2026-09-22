@@ -146,8 +146,8 @@ Prior paid voice-test submissions were made without owner spend approval. Do not
 
 ## Blockers
 - Source-rights layer: none blocking; all 11 gaps have safe paths.
-- **16 real source binaries are now physically acquired in GitHub under `12B_SOURCE_ASSETS/`** with checksums and rights manifest.
-- Exact document crop images have not yet been rendered/exported.
+- **Stage 12C live-source pack is physically acquired in GitHub under `12B_SOURCE_ASSETS/`** with checksums and rights metadata.
+- **Document crops: 19/19 rendered and QA-checked.**
 - Visual proof set has not been built/owner-approved.
 - Stage 13 remains NOT_STARTED.
 
@@ -181,7 +181,7 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - 93/115 beats have a live-source-led visual path.
 - 22/115 are intentionally factual GFX-led with live source files retained underneath.
 - 0 mandatory generation gaps remain before proof review.
-- exact court/DOJ crops physically rendered into `12B_SOURCE_ASSETS/`.
+- exact court/DOJ crops physically rendered into `12B_SOURCE_ASSETS/` (**19/19 crop QA PASS**).
 - new primary/first-party sources S021–S026 added.
 - no paid generation; Stage 12C spend: 0.
 - Stage 13 remains NOT_STARTED.
