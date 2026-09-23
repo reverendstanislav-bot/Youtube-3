@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R7 Batch35 visual QC complete: 30 PASS / 5 HOLD / 0 REJECT. Accepted-ready total is 54/115. Holds: B026, B032, B042, B046, B047. No further generation authorized.**
+- **VIDEO_001 visual-frame production COMPLETE: 115/115 beats final-ready. STOP until owner explicitly authorizes assembly/montage.**
 
 ## Spend lock — HARD
 
@@ -361,3 +361,16 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Accepted-ready total across VIDEO_001: **54 / 115**.
 - Unfinished: 61 beats = 5 held generated frames + 32 ungenerated Higgsfield candidates + 24 deterministic editor/source builds.
 - QC spend: 0; retries submitted: 0.
+
+
+## Stage 12F-R7 Final61 completion + QC — 2026-09-23
+- Starting point: **54 / 115** accepted-ready frames.
+- Owner authorization: close all remaining 61 beats under a **40-credit cap**.
+- Paid generation: **61 jobs × 0.5 = 30.5 credits**, Higgsfield GPT Image 2, 1K Low, 16:9.
+- Provider result: **61/61 completed**, 0 submission failures, 0 completion failures, **0 automatic retries**.
+- Visual QC: 60 generated outputs PASS directly.
+- B101 generated output invented **$58.7M** and failed the factual lock. No paid retry was used. It was replaced at **0 additional credits** with deterministic media **27b4440d-ead7-4a52-9ec9-dbf9a089b4de**, preserving the separate $3M criminal DPA and $55.7M civil settlement package.
+- Final visual status: **115 / 115 beats final-ready**.
+- Completion-run spend: **30.5 credits**, 9.5 credits below the owner cap.
+- Video generation used: **NO**.
+- Do not begin assembly/montage without explicit owner instruction.

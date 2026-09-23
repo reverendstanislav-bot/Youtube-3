@@ -83,3 +83,11 @@
 - Holds are source-binding defects, not provider failures: B026 legal qualifier; B032 Aug.6 planning evidence; B042 Aug.16 police-investigation cue; B046 internal-investigation chronology; B047 DOJ/prosecution transition.
 - Accepted-ready total is 54/115.
 - No regeneration or retry submitted during QC.
+
+## v28 — Stage 12F-R7 Final61 completion + full visual-frame lock — 2026-09-23
+- Closed the remaining 61-beat gap from 54/115 to 115/115.
+- 61 Higgsfield GPT Image 2 jobs at 1K Low 16:9; 61/61 provider-completed; spend 30.5 credits; 0 automatic retries.
+- Full visual QC completed across all 61 new outputs.
+- 60 generated outputs passed directly.
+- B101 rejected because it invented a $58.7M combined figure; replaced at zero additional credits with deterministic final frame keeping the $3M criminal DPA separate from the $55.7M civil settlement package.
+- **VIDEO_001 visual beats are now 115/115 final-ready.**
