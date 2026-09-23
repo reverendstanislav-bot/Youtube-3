@@ -1,0 +1,36 @@
+beat_id,verdict,qc_note
+B003,PASS,Regen fixed: no fake source excerpt; only headline + redacted abstract message strips; subtitle-safe.
+B012,PASS,Regen fixed rhythm: clear small-publication vs global-marketplace scale contrast; no complaint-page repetition.
+B014,PASS,Regen fixed source mismatch: authentic S009 April-2019 court excerpt visible with eBay HQ only as secondary context.
+B015,PASS,Regen fixed rhythm: publication/editorial metaphor is visually distinct from neighboring HQ/document frames.
+B017,PASS,Regen fixed likeness issue: no face/person; internal-message transition uses abstract redacted strips only.
+B022,PASS,Headline accurately states no direct communication with Baugh; supporting court excerpt remains secondary; subtitle-safe.
+B023,PASS,Exact quote headline is clean and isolated; office context is secondary; no fabricated legal page.
+B024,PASS,Security-chain transition reads clearly; two-source composition works; subtitle-safe.
+B025,PASS,Exact OFF THE RADAR quote is correctly emphasized with restrained source-excerpt treatment.
+B026,HOLD_SOURCE_MISMATCH,Narration is a legal limitation about Jones knowledge; output is only generic office imagery + LEGAL LIMITATION and does not carry the verified qualifier/source.
+B027,PASS,Security-chain concept is clear; composition remains usable once B026 is replaced.
+B028,PASS,Massachusetts/pre-August context is clear; date/location hierarchy and source montage fit narration.
+B029,PASS,FIDOMASTER beat is visually distinct and readable; supporting Massachusetts context is restrained.
+B030,PASS,Exact TAP ON THE SHOULDER quote is readable and paired with supporting evidence/context.
+B031,PASS,ANGER → MESSAGES → ACTION summary is clear; multi-evidence layout supports escalation without changing legal meaning.
+B032,HOLD_SOURCE_MISMATCH,August 6 operation-planning fact is represented by generic office context only; required official planning evidence/crop is absent.
+B033,PASS,Operation-accelerated beat communicates escalation with parcel/message/office context and clean hierarchy.
+B035,PASS,Craigslist-posts beat is source-led and readable without overloading the frame.
+B036,PASS,"ORGANIZED, NOT RANDOM communicates coordinated pattern; evidence props remain supporting, not sensational."
+B037,PASS,Planning/travel/corporate-security triad is clear and compositionally distinct.
+B038,PASS,August 15 location/date beat is clean and correctly avoids premature GPS emphasis.
+B039,PASS,GPS TRACKER ATTEMPT is correct and source-aligned.
+B040,PASS,ATTEMPTED — NOT INSTALLED preserves the critical legal/factual distinction; second consecutive GPS beat is acceptable.
+B042,HOLD_SOURCE_MISMATCH,Output shows Natick context but no actual police/investigation cue; the Aug.16 police-investigation fact is not source-supported in-frame.
+B043,PASS,A SECOND PROBLEM works as the pivot from police involvement into concealment/obstruction.
+B044,PASS,False statements/deleted evidence/falsified records are clearly stated and tied to obstruction evidence.
+B045,PASS,OPERATION + CONCEALMENT summarizes the two-track conduct cleanly; adjacent repetition stays within tolerance.
+B046,HOLD_SOURCE_MISMATCH,INTERNAL INVESTIGATION output is only eBay HQ context; it lacks the required verified investigation/leave/removal chronology evidence.
+B047,HOLD_SOURCE_MISMATCH,FEDERAL PROSECUTORS output remains eBay-HQ-only; required DOJ/prosecution transition cue is absent.
+B049,PASS,SEVEN GUILTY PLEAS is legally accurate; courthouse is generic editorial context and does not add case-specific claims.
+B050,PASS,JIM BAUGH — 57 MONTHS exact sentence term is correct; source panel is secondary and subtitle-safe.
+B051,PASS,DAVID HARVILLE — 24 MONTHS exact sentence term is correct; source panel is secondary and subtitle-safe.
+B052,PASS,PERSONAL ACCOUNTABILITY frame cleanly summarizes individual criminal outcomes.
+B053,PASS,ALL SEVEN PROSECUTED PLEADED GUILTY matches locked narration and maintains legal-status precision.
+B054,PASS,FROM INDIVIDUALS TO THE COMPANY clearly transitions from individual cases to company-level federal action.

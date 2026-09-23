@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R7 Batch35 generated: 35/35 complete at 17.5 credits; visual QC pending; no retries authorized.**
+- **Stage 12F-R7 Batch35 visual QC complete: 30 PASS / 5 HOLD / 0 REJECT. Accepted-ready total is 54/115. Holds: B026, B032, B042, B046, B047. No further generation authorized.**
 
 ## Spend lock — HARD
 
@@ -350,3 +350,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - B014 used a newly prepared authentic S009 court-record crop to address the prior source mismatch.
 - Visual QC is **not yet locked** for this batch; provider completion is not a PASS verdict.
 - No automatic retry or additional generation authorized.
+
+
+## Stage 12F-R7 Batch35 visual QC
+- QC scope: all 35 Batch35 outputs checked against locked beat meaning, source intent, legal/factual guardrails, subtitle-safe zone and sequence rhythm.
+- Result: **30 PASS / 5 HOLD / 0 REJECT**.
+- All five prior problem-frame regens now PASS: B003, B012, B014, B015, B017.
+- HOLD_SOURCE_MISMATCH: B026, B032, B042, B046, B047.
+- No visual hard rejects in this batch.
+- Accepted-ready total across VIDEO_001: **54 / 115**.
+- Unfinished: 61 beats = 5 held generated frames + 32 ungenerated Higgsfield candidates + 24 deterministic editor/source builds.
+- QC spend: 0; retries submitted: 0.

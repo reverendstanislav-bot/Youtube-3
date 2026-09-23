@@ -75,3 +75,11 @@
 - Spend: 17.5 credits.
 - B014 received an authentic S009 court-record crop before regeneration.
 - Visual QC pending; no frame in this batch is auto-promoted to PASS from provider status alone.
+
+## v27 — Stage 12F-R7 Batch35 visual QC — 2026-09-23
+- Reviewed all 35 Batch35 frames visually and against locked narration/source intent.
+- 30 PASS / 5 HOLD / 0 REJECT.
+- Five regens B003/B012/B014/B015/B017 all passed their prior defect checks.
+- Holds are source-binding defects, not provider failures: B026 legal qualifier; B032 Aug.6 planning evidence; B042 Aug.16 police-investigation cue; B046 internal-investigation chronology; B047 DOJ/prosecution transition.
+- Accepted-ready total is 54/115.
+- No regeneration or retry submitted during QC.
