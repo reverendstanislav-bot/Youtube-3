@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R7 ONE-PASS PROMPT PACK READY: 14 accepted frames locked; 101 remaining frames rewritten; 77 Higgsfield one-pass prompts + 24 deterministic editor/source builds; B055 authentic-document hard lock added. No generation authorized by this prompt-rewrite step.**
+- **Stage 12F-R7 Batch15 QC complete: 15 Higgsfield GPT Image 2 jobs generated at 7.5 credits; 10 PASS / 4 HOLD / 1 hard REJECT; 0 retries. Total accepted-ready frames now 24/115. No further generation authorized by this batch.**
 
 ## Spend lock — HARD
 
@@ -328,3 +328,15 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - neutral refs generated: 0/3;
 - paid jobs: 0; credits: 0; retries: 0;
 - new paid Test10 is not yet authorized and remains blocked until neutral refs + selected Test10 input prep assets are owner-approved and QC-checked.
+
+
+## Stage 12F-R7 Batch15 generation + QC
+- Generated beats: B002, B003, B005, B009, B010, B011, B012, B013, B014, B015, B016, B017, B019, B020, B021.
+- Model: Higgsfield GPT Image 2; 1K Low; 16:9.
+- Jobs: 15/15 completed; provider failures: 0; retries: 0.
+- Spend: **7.5 credits** (15 × 0.5).
+- QC PASS: B002, B005, B009, B010, B011, B013, B016, B019, B020, B021.
+- HOLD: B003 source-authenticity; B012 rhythm/repetition; B014 source mismatch; B015 rhythm/repetition.
+- HARD REJECT: B017 generated an unauthorized male portrait / likeness-like subject.
+- Accepted-ready total: **24 / 115**.
+- No automatic retry or regeneration authorized.

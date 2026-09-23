@@ -60,3 +60,10 @@
 - B055 explicitly requires the authentic prepared six-count Information crop; AI legal-document recreation forbidden.
 - Automated prompt QA: 101/101 PASS.
 - Paid generation: 0; retries: 0.
+
+## v25 — Stage 12F-R7 Batch15 generation + visual QC — 2026-09-23
+- Generated 15 missing beats through Higgsfield GPT Image 2 at 1K Low 16:9.
+- Spend: 7.5 credits; 15/15 completed; 0 provider failures; 0 retries.
+- Visual/script QC: 10 PASS, 4 HOLD, 1 hard REJECT.
+- B017 rejected for unauthorized generated portrait; B014 held for missing beat-specific spring-2019 source support; B003 held because model-rendered document excerpt cannot be certified as unchanged authentic source; B012/B015 held for sequence-level repetition.
+- Accepted-ready frame count: 24/115.

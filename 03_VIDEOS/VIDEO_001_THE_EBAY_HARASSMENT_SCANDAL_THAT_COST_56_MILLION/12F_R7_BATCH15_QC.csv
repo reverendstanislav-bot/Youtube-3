@@ -1,0 +1,16 @@
+beat_id,job_id,verdict,qc_note
+B002,06779bba-5d10-41cd-87a6-5c5bc68c35b8,PASS,"Clean subject, exact headline, subtitle-safe, distinct evidence composition."
+B003,b724ff4e-5d16-4841-b2fa-79351a30e680,HOLD_SOURCE_AUTHENTICITY,"Visually strong, but the legal/message excerpt is model-rendered; cannot certify it as an unchanged authentic source crop."
+B005,a227d178-816f-4552-b2d2-6c70521e1a4d,PASS,"Correct attempted/not-established distinction, GPS subject appropriate, subtitle-safe."
+B009,11aa00d4-2501-410a-9d12-f6a0ce895476,PASS,$55.7M settlement-package framing correct; no judgment claim; clean lower band.
+B010,2fd9995c-9f2c-4102-aa1c-b326ccebe477,PASS,Clear criticism→security→consequence visual bridge; two-source layout works.
+B011,1b465b06-39de-4fcc-a467-94d3f3dfcba7,PASS,"EcommerceBytes context reads clearly; source elements are contextual, headline dominates."
+B012,4367643a-2b38-4f45-886d-9062c9b00ce1,HOLD_RHYTHM,"Individually usable, but repeats complaint-cover + eBay-HQ visual grammar inside B011-B016 run."
+B013,d1901893-3d47-44f7-bf0e-08013aebbabd,PASS,Layout inversion gives enough variation; headline and corporate context are clear.
+B014,0f4863d7-8dc7-4724-a92c-47ad4497a129,HOLD_SOURCE_MISMATCH,Frame lacks the specific spring-2019 frustration excerpt required by narration; generic complaint/HQ support is insufficient.
+B015,6c046505-c6f6-489a-910a-404a58f69e1b,HOLD_RHYTHM,"Individually usable, but creates another repeated complaint-cover + HQ composition in same run."
+B016,b371088b-40c9-4ac0-bb6e-3e6af96dfa24,PASS,Question-led frame works and closes the background sequence cleanly.
+B017,dd33c6c3-5d26-4cde-bc9a-3e955c49440c,REJECT_LIKENESS,Hard reject: generator introduced a male portrait not supplied as an allowed factual subject; violates no-likeness-synthesis rule.
+B019,7cc5753b-6365-4fd2-94ce-ecef1d439c06,PASS,Exact TAKE HER DOWN quote dominates; restrained excerpt treatment; subtitle-safe.
+B020,22fd65ec-1846-4ea2-a8c2-363c84347863,PASS,"Exact NOW IS THE TIME quote, strong clean composition, subtitle-safe."
+B021,d91b79fc-ba49-45be-91b3-109435e3e68b,PASS,Legal limitation is clear; neutral office/security context avoids overclaim.
