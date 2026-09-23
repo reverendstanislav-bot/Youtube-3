@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R5 PROMPT PACK COMPLETE: 115/115 ready Higgsfield production prompts built from R4, each with concrete source attachments, stable style-reference media ID, source-prep rule, scene-specific composition/thematic elements, and bottom 20% / target 22% subtitle-safe zone. Prompt review is the next gate; no generation authorized.**
+- **Stage 12F-R5 REPRESENTATIVE TEST10 GENERATED: B001/B004/B006/B007/B008/B018/B024/B034/B041/B062 completed 10/10; 5.0 credits spent; no retries. Visual QC/owner verdict is the gate before any further R5 generation.**
 
 ## Spend lock — HARD
 
@@ -283,3 +283,11 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - prompt QA 115/115 PASS.
 - generation spend: 0.
 - generation is NOT authorized by this stage.
+
+## Stage 12F-R5 representative test10
+- 10/10 representative frames completed.
+- all seven T01–T07 frame families are covered across the test set.
+- provider failures: 0.
+- retries: 0.
+- spend: 5.0 credits.
+- further R5 generation blocked pending visual QC.
