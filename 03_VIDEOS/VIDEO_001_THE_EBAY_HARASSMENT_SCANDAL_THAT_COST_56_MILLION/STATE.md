@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R5 REPRESENTATIVE TEST10 GENERATED: B001/B004/B006/B007/B008/B018/B024/B034/B041/B062 completed 10/10; 5.0 credits spent; no retries. Visual QC/owner verdict is the gate before any further R5 generation.**
+- **Stage 12F-R5 TEST10 SCRIPT QC: 5 PASS / 3 EDIT_FIX / 2 REGEN. R5 is not cleared for scale. Fix style-reference content leakage, dense legal source treatment, and B041 script/source binding before any further paid generation.**
 
 ## Spend lock — HARD
 
@@ -291,3 +291,12 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - retries: 0.
 - spend: 5.0 credits.
 - further R5 generation blocked pending visual QC.
+
+## Stage 12F-R5 Test10 script QC
+- 10/10 frames checked against locked narration.
+- PASS: 5
+- EDIT_FIX: 3
+- REGEN: 2
+- hard rejects: B018, B041.
+- additional QC spend: 0 credits.
+- R5 full production remains blocked.

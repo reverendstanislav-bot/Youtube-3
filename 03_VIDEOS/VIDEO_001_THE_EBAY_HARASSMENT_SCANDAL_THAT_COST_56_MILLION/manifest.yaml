@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "R5 representative Test10 generated 10/10; visual QC/owner verdict pending; no further R5 generation without explicit instruction"
+next_action: "R5 Test10 script QC: 5 PASS / 3 EDIT_FIX / 2 REGEN; fix prompt system before scale; no further paid generation authorized"
 blockers: []
 
 stages:
