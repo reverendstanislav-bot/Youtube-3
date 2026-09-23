@@ -11,8 +11,8 @@ Date: 2026-09-23
 - Provider failures: **0**
 - Automatic retries: **0**
 - Visual QC: **complete**
-- B101 generated output failed for invented $58.7M; canonical replacement media: **27b4440d-ead7-4a52-9ec9-dbf9a089b4de**.
+- B101 final regenerated frame passed QC and is canonical media: **20f94d5e-d9a5-4af0-989d-7d2ec28e1244**. It separates SEVEN GUILTY PLEAS / $3M CRIMINAL DPA / $55.7M CIVIL SETTLEMENT PACKAGE and contains no $58.7M combined figure.
 - No video generation used.
 
 ## Gate
-**STOP. Do not begin assembly/montage until explicit owner instruction.**
+**STOP. Visual-frame lock is complete. Next planned production stage is Stage 14 packaging (documents / graphics / overlays / music-SFX), then Stage 15 assembly, on explicit owner instruction.**

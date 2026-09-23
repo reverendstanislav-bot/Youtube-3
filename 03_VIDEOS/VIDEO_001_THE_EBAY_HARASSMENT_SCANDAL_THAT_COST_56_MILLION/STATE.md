@@ -374,3 +374,12 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Completion-run spend: **30.5 credits**, 9.5 credits below the owner cap.
 - Video generation used: **NO**.
 - Do not begin assembly/montage without explicit owner instruction.
+
+
+## B101 canonical replacement — 2026-09-23
+- Owner requested replacement of only B101; no other frame regenerated.
+- New B101 was generated in ChatGPT, visually QC'd, resized to 1920×1080, and uploaded into the Higgsfield media library.
+- Canonical B101 media: **20f94d5e-d9a5-4af0-989d-7d2ec28e1244**.
+- QC PASS: exact three-track structure — SEVEN GUILTY PLEAS / $3M CRIMINAL DPA / $55.7M CIVIL SETTLEMENT PACKAGE; **no $58.7M combined figure**; subtitle-safe lower zone preserved.
+- Previous deterministic B101 replacement remains historical fallback only and is no longer canonical.
+- VIDEO_001 visual status remains **115 / 115 final-ready**.

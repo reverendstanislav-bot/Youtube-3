@@ -91,3 +91,9 @@
 - 60 generated outputs passed directly.
 - B101 rejected because it invented a $58.7M combined figure; replaced at zero additional credits with deterministic final frame keeping the $3M criminal DPA separate from the $55.7M civil settlement package.
 - **VIDEO_001 visual beats are now 115/115 final-ready.**
+
+## v29 — B101 final chat-regenerated canonical replacement — 2026-09-23
+- Replaced only B101 after owner instruction; no other visual beat changed.
+- New frame passed visual/factual QC: separate SEVEN GUILTY PLEAS, $3M criminal DPA, and $55.7M civil settlement package; no invented $58.7M total.
+- Canonical B101 Higgsfield media id: 20f94d5e-d9a5-4af0-989d-7d2ec28e1244.
+- VIDEO_001 remains 115/115 final-ready.
