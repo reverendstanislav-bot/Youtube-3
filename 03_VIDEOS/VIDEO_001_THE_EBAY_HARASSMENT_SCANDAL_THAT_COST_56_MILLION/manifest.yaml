@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12F-R3 five-scene test authorized: B008 B017 B026 B029 B034; exactly 5 gpt_image_2 jobs = 2.5 credits; no retries"
+next_action: "R3 five-scene test generated 5/5; visual QC/owner verdict pending; no further regeneration or Batch 2 without explicit instruction"
 blockers: []
 
 stages:

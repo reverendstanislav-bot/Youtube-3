@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R3 FIVE-SCENE TEST AUTHORIZED: regenerate B008, B017, B026, B029, B034 only; 5 × 0.5 = 2.5 credits; no automatic retries. R3 separates GEN composition from authentic-source and editor-text layers.**
+- **Stage 12F-R3 FIVE-SCENE TEST GENERATED: B008, B017, B026, B029, B034 completed 5/5; 2.5 credits spent; no retries. Visual QC/owner verdict is now the gate before any further regeneration or Batch 2.**
 
 ## Spend lock — HARD
 
@@ -252,3 +252,11 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - no regeneration submitted.
 - Batch 2 blocked.
 - Stage 13 remains NOT_STARTED.
+
+## Stage 12F-R3 five-scene generation
+- 5 / 5 jobs completed.
+- B008, B017, B026, B029, B034.
+- spend: 2.5 credits.
+- no retries.
+- visual QC pending.
+- Batch 2 remains blocked.
