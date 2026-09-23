@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R2 BATCH 1 VISUAL QC: PARTIAL PASS. 7 PASS / 16 EDIT_FIX / 12 REGEN. No regenerations submitted. Batch 2 is blocked until owner approves the correction path.**
+- **Stage 12F-R3 FIVE-SCENE TEST AUTHORIZED: regenerate B008, B017, B026, B029, B034 only; 5 × 0.5 = 2.5 credits; no automatic retries. R3 separates GEN composition from authentic-source and editor-text layers.**
 
 ## Spend lock — HARD
 
