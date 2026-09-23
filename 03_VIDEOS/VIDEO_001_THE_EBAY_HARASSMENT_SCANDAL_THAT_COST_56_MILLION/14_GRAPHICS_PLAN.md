@@ -1,6 +1,6 @@
 # VIDEO 001 — Stage 14 Graphics Plan
 
-Status: **LOCKED / READY FOR ASSEMBLY**
+Status: **12/12 FINAL GENERATED GFX LOCKED / READY FOR ASSEMBLY**
 Date: 2026-09-23
 
 ## Graphic language
@@ -38,3 +38,9 @@ Date: 2026-09-23
 - No full-screen red flashes or “crime-show” effects.
 
 Machine-readable execution map: `14_GRAPHICS_MAP.csv`.
+
+
+## Final asset override — 2026-09-23
+The 12 editor-native placeholder graphics previously described by this plan have been replaced by the final in-chat generated GFX selection in `14_GFX_REAL_ASSET_MANIFEST.csv`.
+Canonical archive: `VIDEO_001_STAGE14_GFX_12_FINAL.zip` / media id `4eb621b3-decd-427f-8730-580d55779b91`.
+Stage 15 MUST use the canonical filenames from that manifest.

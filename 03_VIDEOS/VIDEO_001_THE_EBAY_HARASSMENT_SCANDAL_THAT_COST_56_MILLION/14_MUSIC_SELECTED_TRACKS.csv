@@ -1,5 +1,5 @@
-family,track,artist,cue_ids,license,source_page,higgsfield_media_id
-A,Resonance,Scott Buckley,M14-01;M14-03;M14-04;M14-05;M14-06,CC BY 4.0,https://www.scottbuckley.com.au/library/resonance/,fceba555-a9bd-488b-82fc-6fa81e022073
-B,Intervention,Scott Buckley,M14-02;M14-07;M14-08;M14-09,CC BY 4.0,https://www.scottbuckley.com.au/library/intervention/,c03fb370-6d8b-41c4-80af-53d8efe9be0c
-C,Chronicle,Scott Buckley,M14-10;M14-11,CC BY 4.0,https://www.scottbuckley.com.au/library/chronicle/,d01ee201-5c0b-4ad2-81c6-e6bad207b766
-D,Life Is,Scott Buckley,M14-12,CC BY 4.0,https://www.scottbuckley.com.au/library/life-is/,9c6fe426-6ed1-40bc-9402-001a772bf453
+family,track,artist,cue_ids,duration_seconds,license,source_page,higgsfield_media_id,audition_archive_media_id,audition_archive_url
+A,Resonance,Scott Buckley,M14-01;M14-03;M14-04;M14-05;M14-06,266.031,CC BY 4.0,https://www.scottbuckley.com.au/library/resonance/,fceba555-a9bd-488b-82fc-6fa81e022073,49b0482b-026a-441a-b514-ee2b35278843,https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/49b0482b-026a-441a-b514-ee2b35278843.zip
+B,Intervention,Scott Buckley,M14-02;M14-07;M14-08;M14-09,258.325,CC BY 4.0,https://www.scottbuckley.com.au/library/intervention/,c03fb370-6d8b-41c4-80af-53d8efe9be0c,49b0482b-026a-441a-b514-ee2b35278843,https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/49b0482b-026a-441a-b514-ee2b35278843.zip
+C,Chronicle,Scott Buckley,M14-10;M14-11,255.242,CC BY 4.0,https://www.scottbuckley.com.au/library/chronicle/,d01ee201-5c0b-4ad2-81c6-e6bad207b766,49b0482b-026a-441a-b514-ee2b35278843,https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/49b0482b-026a-441a-b514-ee2b35278843.zip
+D,Life Is,Scott Buckley,M14-12,321.332,CC BY 4.0,https://www.scottbuckley.com.au/library/life-is/,9c6fe426-6ed1-40bc-9402-001a772bf453,49b0482b-026a-441a-b514-ee2b35278843,https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/49b0482b-026a-441a-b514-ee2b35278843.zip

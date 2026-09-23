@@ -400,3 +400,13 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - License class: CC BY 4.0; YouTube description attribution required.
 - Paid generation spend: 0.
 - Stage 15 assembly: NOT STARTED.
+
+
+## Stage 14 final GFX replacement + music audition archive — 2026-09-23
+- Retired the earlier editor-native GFX placeholder masters.
+- Canonical GFX selection is now **12/12 generated in-chat frames**, all QC PASS.
+- Canonical GFX archive: media `4eb621b3-decd-427f-8730-580d55779b91`, `VIDEO_001_STAGE14_GFX_12_FINAL.zip`.
+- Four Scott Buckley tracks are downloaded and packed for owner audition.
+- Music audition archive: media `49b0482b-026a-441a-b514-ee2b35278843`, SHA-256 `b7a90eda0acaf602a693ddfd3836561e5dea5408a5c4f1f5c3b1cd05a189e97e`.
+- Licenses re-verified from official Scott Buckley pages: CC BY 4.0, YouTube-description attribution required.
+- Stage 15 assembly remains **NOT STARTED** pending owner music approval.

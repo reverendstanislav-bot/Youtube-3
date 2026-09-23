@@ -110,3 +110,9 @@
 - Technical and contact-sheet QC passed all 12.
 - Selected four CC BY 4.0 music tracks for the four cue families and recorded their media IDs.
 - No paid generation used.
+
+## v32 — Final generated GFX + downloadable music audition pack — 2026-09-23
+- Replaced all 12 retired Stage 14 editor-placeholder GFX with the owner-selected in-chat generated set.
+- Locked exact canonical filenames in the GFX asset manifest and graphics map.
+- Downloaded the four selected Scott Buckley tracks, recorded durations, re-verified CC BY 4.0 source pages, and created a full audition ZIP.
+- Stage 15 remains gated on owner music approval.
