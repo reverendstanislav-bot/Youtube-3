@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R3 FIVE-SCENE TEST GENERATED: B008, B017, B026, B029, B034 completed 5/5; 2.5 credits spent; no retries. Visual QC/owner verdict is now the gate before any further regeneration or Batch 2.**
+- **Stage 12F-R4 COMPLETE: all 115 beats re-audited against locked narration; final-frame/source/prompt chain rebuilt 115/115 with zero missing physical source bindings. No paid generation started. Await owner review/authorization before any test or batch generation.**
 
 ## Spend lock — HARD
 
@@ -260,3 +260,15 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - no retries.
 - visual QC pending.
 - Batch 2 remains blocked.
+
+## Stage 12F-R4 full beat-to-script audit
+- **COMPLETE / CANONICAL PLANNING LAYER**
+- 115/115 beats audited against locked narration.
+- 115/115 final-frame rows rebuilt.
+- 115/115 physical source bindings validated.
+- 115/115 prompts/build instructions rebuilt from scratch.
+- zero missing physical source bindings.
+- zero “blank plate / insert source later” workflows.
+- old Stage 12F prompt pack is superseded for future production.
+- generation spend in R4: 0 credits.
+- Stage 13 remains NOT_STARTED.
