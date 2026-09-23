@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R6 PIPELINE REPAIR REVIEW: 115/115 semantic QA rows + concise production instructions are rebuilt; old R5 style media IDs are retired; three clean neutral style refs are DESIGN-ONLY and not generated; required R6 prep crops/editor strips are specified but not yet rendered. Generation remains blocked and unauthorized.**
+- **Stage 12F-R7 ONE-PASS PROMPT PACK READY: 14 accepted frames locked; 101 remaining frames rewritten; 77 Higgsfield one-pass prompts + 24 deterministic editor/source builds; B055 authentic-document hard lock added. No generation authorized by this prompt-rewrite step.**
 
 ## Spend lock — HARD
 

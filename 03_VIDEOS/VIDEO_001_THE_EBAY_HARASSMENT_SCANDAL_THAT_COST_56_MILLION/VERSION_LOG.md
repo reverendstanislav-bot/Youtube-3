@@ -51,3 +51,12 @@
 | 2026-09-23 | stage12f-r5-test10-script-qc | v21 | Checked all 10 R5 representative frames against locked narration and source intent; identified style-reference subject leakage and two script-level hard rejects | Prevent scaling a visually improved but still semantically unsafe prompt system | PARTIAL_PASS |
 | 2026-09-23 | stage12f-r6-prompts | v22 | Rewrote all 115 prompts after R5 Test10 QC: factual sources first, style ref last and non-factual, no raw PDF/HTML, tight document crops, 22% subtitle-safe, explicit corrections for B007/B008/B018/B024/B041 | Remove the identified causes of the 5/10 intervention rate before another paid test | REVIEW_PENDING |
 | 2026-09-23 | stage12f-r6-pipeline-repair | v23 | Re-audited the existing R6 pack instead of accepting its blanket 115/115 PASS; retired old R5 style media IDs, designed 3 content-neutral refs, added 115-row semantic source-binding QA, explicit input-prep plan, and shorter production instructions | Prevent another paid test from repeating style-content leakage, stale source binding or full-page text contamination | BLOCKED_PENDING_OWNER_REVIEW |
+
+## v24 — Stage 12F-R7 one-pass remaining-frame prompt rewrite — 2026-09-23
+- Locked 14 already accepted frames; no regeneration requested for them.
+- Rewrote all 101 remaining beats to the approved WHAT IT COST final-frame visual language.
+- 77 Higgsfield one-pass prompts; 24 deterministic editor/source builds.
+- Added hard generated-text whitelist, bottom-22% subtitle zone, source-fidelity rules, legal-document no-retype rule and anti-monotony family layouts.
+- B055 explicitly requires the authentic prepared six-count Information crop; AI legal-document recreation forbidden.
+- Automated prompt QA: 101/101 PASS.
+- Paid generation: 0; retries: 0.
