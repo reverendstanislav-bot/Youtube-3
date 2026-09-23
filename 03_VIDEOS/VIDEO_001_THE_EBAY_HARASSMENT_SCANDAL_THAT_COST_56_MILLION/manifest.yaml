@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "R5 Test10 script QC: 5 PASS / 3 EDIT_FIX / 2 REGEN; fix prompt system before scale; no further paid generation authorized"
+next_action: "Review Stage 12F-R6 115-prompt pack; no generation authorized; R6 supersedes R5 prompt wording"
 blockers: []
 
 stages:
