@@ -104,3 +104,9 @@
 - Locked provenance labels for reconstruction-risk beats and legal-status labels for GPS/DPA/summary-judgment/settlement/money-sensitive sequences.
 - Music direction is locked; actual track acquisition/license logging occurs during Stage 15 assembly.
 - No generation or paid spend.
+
+## v31 — Stage 14 real asset lock — 2026-09-23
+- Built all 12 editor-native GFX packages as real 1920×1080 masters, transparent overlays, animation specs and 8-second 25fps previews.
+- Technical and contact-sheet QC passed all 12.
+- Selected four CC BY 4.0 music tracks for the four cue families and recorded their media IDs.
+- No paid generation used.

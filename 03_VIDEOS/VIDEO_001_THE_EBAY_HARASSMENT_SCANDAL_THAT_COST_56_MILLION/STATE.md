@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 14 production packaging LOCKED: document plan, graphics packages, 115-row overlay map, and music/SFX cue sheet are ready. Next stage is Stage 15 assembly/edit; no montage has been started yet.**
+- **Stage 14 real assets COMPLETE: 12/12 GFX packages built and QC-passed; 4/4 licensed music tracks selected. Next stage is Stage 15 assembly/edit.**
 
 ## Spend lock — HARD
 
@@ -391,3 +391,12 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Music/SFX: **CUE SHEET LOCKED** — 12 section cues across 00:00.000–15:57.414; actual track acquisition/license logging occurs during Stage 15 assembly.
 - No image/video/audio generation and no credits spent in Stage 14.
 - Stage 15 assembly is **NOT STARTED**.
+
+
+## Stage 14 real asset lock — 2026-09-23
+- 12/12 real GFX packages built: master PNG, transparent overlay, animation spec, and 8s/25fps preview.
+- Technical/contact-sheet QC: PASS.
+- Four licensed Scott Buckley tracks selected for the four music families and uploaded to Higgsfield media.
+- License class: CC BY 4.0; YouTube description attribution required.
+- Paid generation spend: 0.
+- Stage 15 assembly: NOT STARTED.
