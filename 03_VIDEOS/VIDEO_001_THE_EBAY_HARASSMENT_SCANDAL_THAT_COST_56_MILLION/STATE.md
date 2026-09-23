@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **VIDEO_001 visual-frame production COMPLETE: 115/115 beats final-ready. STOP until owner explicitly authorizes assembly/montage.**
+- **Stage 14 production packaging LOCKED: document plan, graphics packages, 115-row overlay map, and music/SFX cue sheet are ready. Next stage is Stage 15 assembly/edit; no montage has been started yet.**
 
 ## Spend lock — HARD
 
@@ -383,3 +383,11 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - QC PASS: exact three-track structure — SEVEN GUILTY PLEAS / $3M CRIMINAL DPA / $55.7M CIVIL SETTLEMENT PACKAGE; **no $58.7M combined figure**; subtitle-safe lower zone preserved.
 - Previous deterministic B101 replacement remains historical fallback only and is no longer canonical.
 - VIDEO_001 visual status remains **115 / 115 final-ready**.
+
+## Stage 14 production packaging — 2026-09-23
+- Document Plan: **LOCKED** — 23 document/source packages with source labels, rights class and legal guardrails.
+- Graphics Plan: **LOCKED** — 12 editor-native packages covering message chronology, GPS distinction, DPA, civil-liability ladder, settlement timeline, exact money breakdown and ending recap.
+- Overlays: **LOCKED** — 115/115 beats mapped for source/date/legal-status/reconstruction metadata; bottom 22% caption-safe rule preserved.
+- Music/SFX: **CUE SHEET LOCKED** — 12 section cues across 00:00.000–15:57.414; actual track acquisition/license logging occurs during Stage 15 assembly.
+- No image/video/audio generation and no credits spent in Stage 14.
+- Stage 15 assembly is **NOT STARTED**.

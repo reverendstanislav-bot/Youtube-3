@@ -97,3 +97,10 @@
 - New frame passed visual/factual QC: separate SEVEN GUILTY PLEAS, $3M criminal DPA, and $55.7M civil settlement package; no invented $58.7M total.
 - Canonical B101 Higgsfield media id: 20f94d5e-d9a5-4af0-989d-7d2ec28e1244.
 - VIDEO_001 remains 115/115 final-ready.
+
+## v30 — Stage 14 production packaging lock — 2026-09-23
+- Replaced Stage 14 placeholders with executable production plans.
+- Added 23-package document map, 12-package editor-GFX map, full 115-row overlay map and 12-cue music/SFX sheet.
+- Locked provenance labels for reconstruction-risk beats and legal-status labels for GPS/DPA/summary-judgment/settlement/money-sensitive sequences.
+- Music direction is locked; actual track acquisition/license logging occurs during Stage 15 assembly.
+- No generation or paid spend.
