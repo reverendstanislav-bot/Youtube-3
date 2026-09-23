@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R7 Batch15 QC complete: 15 Higgsfield GPT Image 2 jobs generated at 7.5 credits; 10 PASS / 4 HOLD / 1 hard REJECT; 0 retries. Total accepted-ready frames now 24/115. No further generation authorized by this batch.**
+- **Stage 12F-R7 Batch35 generated: 35/35 complete at 17.5 credits; visual QC pending; no retries authorized.**
 
 ## Spend lock — HARD
 
@@ -340,3 +340,13 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - HARD REJECT: B017 generated an unauthorized male portrait / likeness-like subject.
 - Accepted-ready total: **24 / 115**.
 - No automatic retry or regeneration authorized.
+
+
+## Stage 12F-R7 Batch35 generation
+- Scope: 5 owner-authorized regens (B003, B012, B014, B015, B017) + 30 previously ungenerated beats (B022-B054 selection recorded in batch CSV).
+- Model: Higgsfield GPT Image 2; 1K Low; 16:9.
+- Jobs: **35/35 completed**; provider submission failures: 0; provider completion failures: 0; retries: 0.
+- Spend: **17.5 credits** (35 × 0.5).
+- B014 used a newly prepared authentic S009 court-record crop to address the prior source mismatch.
+- Visual QC is **not yet locked** for this batch; provider completion is not a PASS verdict.
+- No automatic retry or additional generation authorized.

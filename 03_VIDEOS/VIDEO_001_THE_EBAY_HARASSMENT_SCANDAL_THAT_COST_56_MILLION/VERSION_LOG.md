@@ -67,3 +67,11 @@
 - Visual/script QC: 10 PASS, 4 HOLD, 1 hard REJECT.
 - B017 rejected for unauthorized generated portrait; B014 held for missing beat-specific spring-2019 source support; B003 held because model-rendered document excerpt cannot be certified as unchanged authentic source; B012/B015 held for sequence-level repetition.
 - Accepted-ready frame count: 24/115.
+
+## v26 — Stage 12F-R7 Batch35 generation — 2026-09-23
+- Generated exactly 35 owner-authorized frames: 5 regens + 30 previously ungenerated beats.
+- Higgsfield GPT Image 2, 1K Low, 16:9.
+- 35/35 provider-completed; 0 submission failures; 0 completion failures; 0 retries.
+- Spend: 17.5 credits.
+- B014 received an authentic S009 court-record crop before regeneration.
+- Visual QC pending; no frame in this batch is auto-promoted to PASS from provider status alone.
