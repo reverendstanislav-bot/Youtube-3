@@ -6,9 +6,9 @@ pillar: "CORPORATE_SCANDAL"
 priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
-last_updated: "2026-09-22"
+last_updated: "2026-09-23"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Review Stage 12F-R6 115-prompt pack; no generation authorized; R6 supersedes R5 prompt wording"
+next_action: "Review repaired Stage 12F-R6 semantic/source/input plan; neutral style refs are design-only and generation remains unauthorized"
 blockers: []
 
 stages:

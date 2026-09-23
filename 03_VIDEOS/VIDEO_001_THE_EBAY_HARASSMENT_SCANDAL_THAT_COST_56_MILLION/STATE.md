@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R6 PROMPT PACK COMPLETE: 115/115 rewritten with factual-source-first / style-reference-last ordering, hard style-content isolation, raw PDF/HTML exclusion, pre-cropped document excerpts, bottom 22% subtitle zone, and explicit B007/B008/B018/B024/B041 corrections. Owner review is the next gate; no generation authorized.**
+- **Stage 12F-R6 PIPELINE REPAIR REVIEW: 115/115 semantic QA rows + concise production instructions are rebuilt; old R5 style media IDs are retired; three clean neutral style refs are DESIGN-ONLY and not generated; required R6 prep crops/editor strips are specified but not yet rendered. Generation remains blocked and unauthorized.**
 
 ## Spend lock — HARD
 
@@ -311,3 +311,20 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Test10 defects B007/B008/B018/B024/B041 explicitly corrected.
 - generation spend: 0.
 - no generation authorized.
+
+
+## Stage 12F-R6 pipeline repair audit
+- corrected an overclaim in the prior R6 status: structural prompt QA was not equivalent to semantic/source/input QA;
+- 115/115 beats now have explicit narration → source-plan QA in `12F_R6_SOURCE_BINDING_QA.csv`;
+- three clean content-neutral style references are designed in `12F_R6_STYLE_ONLY_REF_DESIGN.md` but **not generated**;
+- all old R5 style media IDs are retired from future R6 production jobs because of demonstrated subject leakage;
+- 115/115 production instructions are rewritten in `12F_R6_HIGGSFIELD_PROMPTS.csv`;
+- B038, B042, B047 and B048 receive explicit semantic source repairs; B041 fix retained;
+- document/legal preprocessing is enumerated in `12F_R6_INPUT_PREP_PLAN.csv`; raw PDF/HTML is never model input;
+- B088–B101 stay deterministic editor GFX; B077/B078/B102/B103 are editor-only legal/reference treatments;
+- production-prompt average reduced from ~3357 chars to ~993 chars;
+- execution inventory: 90 blocked Higgsfield candidates / 25 editor-only;
+- prep inventory: 69 beats, 146 prep/source-lock rows;
+- neutral refs generated: 0/3;
+- paid jobs: 0; credits: 0; retries: 0;
+- new paid Test10 is not yet authorized and remains blocked until neutral refs + selected Test10 input prep assets are owner-approved and QC-checked.
