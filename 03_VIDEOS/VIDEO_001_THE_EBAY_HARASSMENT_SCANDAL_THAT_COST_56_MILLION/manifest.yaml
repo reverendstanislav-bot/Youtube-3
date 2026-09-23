@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-22"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage 12F-R4 complete: 115/115 beat-to-script audit + final-frame map + source binding + rebuilt prompts; old 12F prompt pack superseded; no generation authorized by R4; Stage 13 NOT_STARTED"
+next_action: "Review Stage 12F-R5 115 ready Higgsfield prompts; all have source attachments + style media IDs + subtitle-safe target 22%; no generation authorized yet"
 blockers: []
 
 stages:

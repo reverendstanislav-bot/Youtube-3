@@ -130,7 +130,7 @@ Source-rights rebuild result:
 - authentic DOJ/FBI pig-mask evidence replaces the need for a generated pig-mask source visual.
 
 Next action:
-- **Stage 12F-R4 COMPLETE: all 115 beats re-audited against locked narration; final-frame/source/prompt chain rebuilt 115/115 with zero missing physical source bindings. No paid generation started. Await owner review/authorization before any test or batch generation.**
+- **Stage 12F-R5 PROMPT PACK COMPLETE: 115/115 ready Higgsfield production prompts built from R4, each with concrete source attachments, stable style-reference media ID, source-prep rule, scene-specific composition/thematic elements, and bottom 20% / target 22% subtitle-safe zone. Prompt review is the next gate; no generation authorized.**
 
 ## Spend lock — HARD
 
@@ -272,3 +272,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - old Stage 12F prompt pack is superseded for future production.
 - generation spend in R4: 0 credits.
 - Stage 13 remains NOT_STARTED.
+
+## Stage 12F-R5 115-prompt pack
+- 115/115 ready production prompts created.
+- owner-supplied style refs uploaded to Higgsfield and locked by media ID.
+- 115/115 prompts contain ATTACH source list.
+- text-heavy document sources require tight crop before job.
+- 115/115 prompts reserve bottom >=20%, target 22%, for subtitles.
+- source material must be inside final frame; no later insertion workflow.
+- prompt QA 115/115 PASS.
+- generation spend: 0.
+- generation is NOT authorized by this stage.
