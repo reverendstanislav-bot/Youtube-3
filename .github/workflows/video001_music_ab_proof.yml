@@ -59,7 +59,7 @@ jobs:
                   out=root/"out"/f"{direction}_{i:02d}_{name}.mp4"
                   label=f"MUSIC PROOF {direction} • {i}/4"
                   vf=f"drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='{label}':x=55:y=45:fontsize=34:fontcolor=white:box=1:boxcolor=black@0.55:boxborderw=14"
-                  fc="[1:a]volume=-18dB,afade=t=in:st=0:d=.5,afade=t=out:st=25:d=1[m];[0:a]asplit=2[v][key];[m][key]sidechaincompress=threshold=0.035:ratio=3:attack=18:release=260[md];[v][md]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:LRA=8:TP=-1.5[a]"
+                  fc="[1:a]volume=-18dB,afade=t=in:st=0:d=0.5,afade=t=out:st=25:d=1[m];[0:a]asplit=2[v][key];[m][key]sidechaincompress=threshold=0.035:ratio=3:attack=18:release=260[md];[v][md]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:LRA=8:TP=-1.5[a]"
                   subprocess.run(["ffmpeg","-y","-loglevel","error","-ss",str(start),"-t",str(dur),"-i",str(src),
                                   "-stream_loop","-1","-ss",str(offset),"-i",str(root/"music"/track),
                                   "-filter_complex",fc,"-map","0:v:0","-map","[a]","-vf",vf,
