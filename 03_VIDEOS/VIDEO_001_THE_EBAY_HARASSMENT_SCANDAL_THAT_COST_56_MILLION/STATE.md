@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / SFX-ONLY PROOF OWNER REVIEW PENDING**
+- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / SFX DESIGN NOT APPROVED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -500,3 +500,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Proof runtime **190.023 sec**, music **NONE**.
 - Audio QC: **−16.4 LUFS integrated / −3.8 dBFS true peak**.
 - Final Stage 15C remains NOT APPROVED until owner review.
+
+
+## Stage 15C SFX-only proof V2 owner verdict — 2026-09-24
+- Owner listened to V2 and reports the SFX are still effectively inaudible.
+- V2 is therefore **REJECTED FOR AUDIBILITY** despite technical render/QC passing.
+- Historical reference only: run `36046422755`, proof artifact `10828686824`, SFX-pack artifact `10828442441`.
+- Whole-program loudness values did not prove local SFX audibility under Harrison.
+- Room tone remains removed.
+- Music remains rejected.
+- Current direction remains **voice + silence + sparse SFX**, but SFX audibility must be solved and verified in-context before any further full-film Stage 15C work.
+- Final Stage 15C: **NOT APPROVED / NOT FINAL**.
