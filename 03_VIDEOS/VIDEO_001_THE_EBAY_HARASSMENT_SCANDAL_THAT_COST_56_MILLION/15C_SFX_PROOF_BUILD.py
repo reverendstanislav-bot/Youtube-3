@@ -38,24 +38,13 @@ def noise_lp(n, amp=1200, smooth=.88):
         out.append(y)
     return out
 
-# 60s subtle mono room tone
-n=60*SR
-tone=[]
-y=0.0
-for i in range(n):
-    x=(random.random()*2-1)*180
-    y=.995*y+.005*x
-    hum=18*math.sin(2*math.pi*60*i/SR)+8*math.sin(2*math.pi*120*i/SR)
-    tone.append(y+hum)
-wav_write(SFX/"01_room_tone_60s.wav",tone)
-
 # paper tick
-n=int(.18*SR); base=noise_lp(n,2200,.72)
+n=int(.18*SR); base=noise_lp(n,7800,.72)
 paper=[base[i]*((1-i/n)**2.2) for i in range(n)]
 wav_write(SFX/"02_paper_tick.wav",paper)
 
 # page rustle
-n=int(.52*SR); base=noise_lp(n,1900,.80)
+n=int(.52*SR); base=noise_lp(n,7200,.80)
 page=[]
 for i,x in enumerate(base):
     env=envelope(i,n,.06,.14)
@@ -70,7 +59,7 @@ for t in [0.00,.075,.16,.27,.38]:
     for j in range(int(.018*SR)):
         if s+j>=n: break
         env=math.exp(-j/(SR*.004))
-        key[s+j]+=900*env*math.sin(2*math.pi*1350*j/SR)+(random.random()*2-1)*260*env
+        key[s+j]+=6200*env*math.sin(2*math.pi*1350*j/SR)+(random.random()*2-1)*1600*env
 wav_write(SFX/"04_keyboard_cluster.wav",key)
 
 # dry click
@@ -78,7 +67,7 @@ n=int(.07*SR)
 click=[]
 for i in range(n):
     env=math.exp(-i/(SR*.010))
-    click.append(1100*env*math.sin(2*math.pi*980*i/SR))
+    click.append(10500*env*math.sin(2*math.pi*980*i/SR))
 wav_write(SFX/"05_dry_click.wav",click)
 
 # low transition
@@ -86,7 +75,7 @@ n=int(.45*SR)
 low=[]
 for i in range(n):
     env=math.exp(-i/(SR*.13))
-    low.append(1450*env*(math.sin(2*math.pi*72*i/SR)+.35*math.sin(2*math.pi*144*i/SR)))
+    low.append(10800*env*(math.sin(2*math.pi*72*i/SR)+.35*math.sin(2*math.pi*144*i/SR)))
 wav_write(SFX/"06_low_transition.wav",low)
 
 # abstract digital-delete texture
@@ -96,11 +85,11 @@ for i in range(n):
     env=math.exp(-t/.10)
     freq=1500-800*(i/n)
     gate=1.0 if (i//80)%3 else .25
-    digital.append(850*env*gate*math.sin(2*math.pi*freq*t))
+    digital.append(7600*env*gate*math.sin(2*math.pi*freq*t))
 wav_write(SFX/"07_digital_delete.wav",digital)
 
 # soft whoosh
-n=int(.55*SR); raw=noise_lp(n,1250,.70)
+n=int(.55*SR); raw=noise_lp(n,7200,.70)
 who=[]
 for i,x in enumerate(raw):
     env=max(0.0,math.sin(math.pi*i/max(n-1,1)))**1.7
@@ -114,7 +103,6 @@ All files in this folder were procedurally synthesized for WHAT IT COST / VIDEO_
 No third-party recording, stock library, copyrighted sample, model generation, or paid asset is used.
 Project use: unrestricted.
 
-01_room_tone_60s.wav — nearly inaudible neutral room/air bed
 02_paper_tick.wav — tiny paper/object touch
 03_page_rustle.wav — restrained document movement
 04_keyboard_cluster.wav — abstract quiet keyboard cluster
@@ -146,26 +134,26 @@ windows=[
 
 # beat -> sfx file + gain dB
 events={
-"B002":("02_paper_tick.wav",-28),
-"B003":("03_page_rustle.wav",-32),
-"B008":("05_dry_click.wav",-33),
-"B018":("04_keyboard_cluster.wav",-31),
-"B019":("05_dry_click.wav",-34),
-"B020":("05_dry_click.wav",-34),
-"B023":("07_digital_delete.wav",-34),
-"B025":("03_page_rustle.wav",-33),
-"B034":("03_page_rustle.wav",-32),
-"B037":("08_soft_whoosh.wav",-36),
-"B042":("06_low_transition.wav",-33),
-"B044":("07_digital_delete.wav",-32),
-"B083":("06_low_transition.wav",-35),
-"B088":("05_dry_click.wav",-34),
-"B091":("05_dry_click.wav",-35),
-"B093":("05_dry_click.wav",-35),
-"B097":("05_dry_click.wav",-34),
-"B104":("03_page_rustle.wav",-35),
-"B108":("05_dry_click.wav",-36),
-"B111":("03_page_rustle.wav",-36),
+"B002":("02_paper_tick.wav",-18),
+"B003":("03_page_rustle.wav",-22),
+"B008":("05_dry_click.wav",-23),
+"B018":("04_keyboard_cluster.wav",-21),
+"B019":("05_dry_click.wav",-24),
+"B020":("05_dry_click.wav",-24),
+"B023":("07_digital_delete.wav",-24),
+"B025":("03_page_rustle.wav",-23),
+"B034":("03_page_rustle.wav",-22),
+"B037":("08_soft_whoosh.wav",-26),
+"B042":("06_low_transition.wav",-23),
+"B044":("07_digital_delete.wav",-22),
+"B083":("06_low_transition.wav",-25),
+"B088":("05_dry_click.wav",-24),
+"B091":("05_dry_click.wav",-25),
+"B093":("05_dry_click.wav",-25),
+"B097":("05_dry_click.wav",-24),
+"B104":("03_page_rustle.wav",-25),
+"B108":("05_dry_click.wav",-26),
+"B111":("03_page_rustle.wav",-26),
 }
 
 def sh(cmd):
@@ -176,13 +164,11 @@ clips=[]
 for idx,(name,start,dur) in enumerate(windows,1):
     clip=OUT/f"{idx:02d}_{name}.mp4"
     # Build SFX filter inputs relative to this excerpt.
-    inputs=["-i",str(SRC),"-stream_loop","-1","-i",str(SFX/"01_room_tone_60s.wav")]
+    inputs=["-i",str(SRC)]
     af=[]
     labels=[]
-    # room tone intentionally very low
-    af.append("[1:a]volume=-29dB,atrim=0:%0.3f[room]"%dur)
-    labels.append("[room]")
-    in_idx=2
+    # V2: no room tone. Only clearly audible, sparse editorial events.
+    in_idx=1
     for bid,(fn,gain) in events.items():
         t=beats.get(bid)
         if t is None or not (start <= t < start+dur):
@@ -194,7 +180,10 @@ for idx,(name,start,dur) in enumerate(windows,1):
         af.append(f"[{in_idx}:a]volume={gain}dB,adelay={ms}|{ms}[{lab}]")
         labels.append(f"[{lab}]")
         in_idx+=1
-    af.append("".join(labels)+f"amix=inputs={len(labels)}:duration=longest:normalize=0[sfx]")
+    if labels:
+        af.append("".join(labels)+f"amix=inputs={len(labels)}:duration=longest:normalize=0[sfx]")
+    else:
+        af.append(f"anullsrc=r={SR}:cl=mono,atrim=0:{dur:.3f}[sfx]")
     af.append("[0:a]volume=1.0[vo]")
     af.append("[vo][sfx]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
     label=f"SFX PROOF • {idx}/5"
@@ -208,7 +197,7 @@ for idx,(name,start,dur) in enumerate(windows,1):
 
 lst=OUT/"concat.txt"
 lst.write_text("\n".join("file '"+str(x.resolve()).replace("'","'\\''")+"'" for x in clips)+"\n")
-final=OUT/"VIDEO_001_SFX_ONLY_PROOF_V1.mp4"
+final=OUT/"VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE.mp4"
 sh(["ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",str(lst),
     "-c","copy","-movflags","+faststart",str(final)])
 
@@ -227,7 +216,7 @@ def sha(p):
     return h.hexdigest()
 
 report=OUT/"VIDEO_001_SFX_PROOF_REPORT.txt"
-report.write_text(f"""VIDEO_001 — SFX-ONLY PROOF V1
+report.write_text(f"""VIDEO_001 — SFX-ONLY PROOF V2 / AUDIBLE
 
 Purpose:
 Test the film without music. Harrison + original picture/captions + restrained editor-native SFX only.
@@ -248,10 +237,27 @@ Paid credits: 0
 Proof SHA-256: {sha(final)}
 SFX pack SHA-256: {sha(z)}
 
+Proof-local audible SFX checkpoints:
+- 00:06.340 paper tick
+- 00:07.760 page rustle
+- 00:16.260 keyboard cluster
+- 00:16.950 dry click
+- 00:25.800 digital-delete texture
+- 00:30.950 page rustle
+- 01:10.180 page rustle
+- 01:35.400 soft whoosh
+- 01:52.080 dry click
+- 02:08.640 dry click
+- 02:18.540 dry click
+- 02:34.240 page rustle
+- 03:09.900 dry click
+
 Editorial intent:
 - narration and silence carry tension;
-- room tone is nearly inaudible;
-- SFX only reinforce visible editorial beats;
+- room tone removed completely;
+- working SFX raised roughly +10 dB from V1 event-gain settings;
+- source SFX amplitudes rebuilt so accents are actually audible under narration;
+- SFX still remain sparse and non-TikTok/non-trailer;
 - no cliché / horror / event-implying design;
 - no music decision is made by this proof.
 """,encoding="utf-8")
