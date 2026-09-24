@@ -167,3 +167,11 @@
 - Built full audition pack and normalized audition reel.
 - Actions run 36036170552 succeeded; artifacts 10825021726 and 10824876844.
 - No replacement mix assembled yet; owner audition gate remains active.
+
+## v39 — Stage 15C SFX-only proof — 2026-09-24
+- Removed music entirely from the proof.
+- Built 8 editor-native procedural SFX and a 190.023-second real-film proof covering opening/messages/operation/money/ending.
+- Workflow run 36044425718 succeeded.
+- Proof artifact 10827149357; SFX-pack artifact 10827199168.
+- No third-party SFX and no paid/model generation.
+- Owner review pending.

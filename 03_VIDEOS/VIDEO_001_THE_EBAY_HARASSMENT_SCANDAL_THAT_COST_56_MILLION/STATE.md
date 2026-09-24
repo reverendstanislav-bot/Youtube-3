@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / MUSIC REPLACEMENT AUDITION PENDING**
+- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / SFX-ONLY PROOF OWNER REVIEW PENDING**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -479,3 +479,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Reel artifact: `10824876844` — 8 × 28-second normalized excerpts.
 - New score mix is **NOT STARTED** until owner selects/approves tracks.
 - No credits/model generation used.
+
+
+## Stage 15C no-music SFX proof — 2026-09-24
+- Built a **190.023 sec** proof using real Stage15B picture/captions + Harrison + editor-native SFX only.
+- **No music** is present.
+- Proof run `36044425718` succeeded.
+- Proof artifact `10827149357`; SFX-pack artifact `10827199168`.
+- SFX pack: room tone / paper tick / page rustle / keyboard cluster / dry click / low transition / abstract digital-delete / soft whoosh.
+- No stock SFX, no third-party sample library, no model generation, no paid credits.
+- Measured proof loudness: **−16.46 LUFS integrated / −3.64 dBFS true peak**.
+- Owner review required before extending this sound-design philosophy to the full film.
