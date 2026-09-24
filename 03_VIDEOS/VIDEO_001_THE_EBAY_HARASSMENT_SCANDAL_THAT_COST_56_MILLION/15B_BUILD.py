@@ -21,7 +21,7 @@ CONTACT = OUT / "VIDEO_001_STAGE15B_CONTACT_SHEET.jpg"
 QC = OUT / "VIDEO_001_STAGE15B_QC.txt"
 
 WHITE = "&H00EDEDED"
-ORANGE = "&H002E99F2"  # RGB F2992E
+ACCENT = "&H002222D3"  # RGB D32222 — channel red
 RED = "&H002222D3"     # RGB D32222
 
 def download(url: str, path: Path) -> None:
@@ -162,7 +162,7 @@ for cue in cues:
             for item in line:
                 text = safe(item["w"])
                 if flat_idx == k:
-                    parts.append(r"{\c" + ORANGE + "}" + text + r"{\c" + WHITE + "}")
+                    parts.append(r"{\c" + ACCENT + "}" + text + r"{\c" + WHITE + "}")
                 else:
                     parts.append(text)
                 flat_idx += 1
@@ -300,7 +300,7 @@ CAPTIONS
 - uniquely mapped word tokens: {len(used)}
 - word-highlight events: {len(caption_events)}
 - fallback cues without token mapping: {fallback_cues}
-- white base captions + orange current word
+- white base captions + channel-red current word
 - bottom caption zone only
 - forbidden 100,100)}} artifact: ABSENT
 - known 'i n' split: FIXED
