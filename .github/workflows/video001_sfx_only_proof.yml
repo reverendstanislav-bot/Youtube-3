@@ -29,9 +29,9 @@ jobs:
       - name: Upload proof video
         uses: actions/upload-artifact@v4
         with:
-          name: VIDEO_001_SFX_ONLY_PROOF_V1
+          name: VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE
           path: |
-            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_ONLY_PROOF_V1.mp4
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE.mp4
             03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_PROOF_REPORT.txt
           retention-days: 30
           compression-level: 0
