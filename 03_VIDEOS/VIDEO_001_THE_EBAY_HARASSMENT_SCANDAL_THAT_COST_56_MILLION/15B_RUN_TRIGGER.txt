@@ -1,6 +1,6 @@
 VIDEO_001 Stage 15B rerun trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: dcacb5973a1279b51b15e26ad3bbfd306d5a13af
-reason: corrected B104 full cover patch event
+base_commit: 1d32a65a97a1e3ae995d30936319654486fccb5a
+reason: replace legacy orange caption highlight with WHAT IT COST channel red #D32222
 stage15c: not authorized
