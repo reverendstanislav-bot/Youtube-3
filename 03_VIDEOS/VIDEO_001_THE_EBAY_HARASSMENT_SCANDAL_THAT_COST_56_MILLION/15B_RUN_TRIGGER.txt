@@ -1,6 +1,6 @@
 VIDEO_001 Stage 15B rerun trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: 3c403cb44da371737b0fb87ce6192cb2d38d9e43
-reason: cover full B104 fallback glyph and replace inequality line cleanly
+base_commit: dcacb5973a1279b51b15e26ad3bbfd306d5a13af
+reason: corrected B104 full cover patch event
 stage15c: not authorized
