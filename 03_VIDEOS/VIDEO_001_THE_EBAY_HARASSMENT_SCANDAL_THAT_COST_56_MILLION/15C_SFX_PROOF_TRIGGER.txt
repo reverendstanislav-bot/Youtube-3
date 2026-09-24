@@ -1,7 +1,8 @@
 VIDEO_001 SFX-only proof trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: 2125e2c75de55a6b2098905996c2959b58d52e67
+base_commit: e457d3284eb36d627f57b7dd22ddf12f351a0693
+reason: rerun after whoosh envelope fix
 scope: real film excerpts + Harrison + captions + editor-native SFX only
 music: none
 paid_generation: 0
