@@ -193,3 +193,15 @@
 - Current direction: voice + silence + sparse SFX.
 - Next iteration must verify local SFX audibility against narration before rendering another long proof.
 - Final Stage 15C remains open.
+
+## v42 — Stage 15C controlled SFX audibility microtest — 2026-09-24
+- Replaced blind whole-program loudness validation with a controlled **34.000 sec** approved Stage15B opening test.
+- Built four editor-native SFX and measured each effect against Harrison in its local insertion window before encoding.
+- Audibility preflight passed 4/4 using relative peak/RMS criteria; no VO ducking was used.
+- Built separate `SFX_SOLO_REFERENCE` and `SFX_IN_CONTEXT_PROOF` outputs plus measurement CSV/report.
+- Workflow run `36049666541` succeeded.
+- Artifacts: solo `10830026745`; in-context `10829862172`; QC `10829897002`.
+- Music/room tone: none. Paid/model generation: 0.
+- This is a technical audibility gate only; owner perceptual/style approval is still required.
+- No full-film SFX rollout is authorized. Stage 15C remains open.
+
