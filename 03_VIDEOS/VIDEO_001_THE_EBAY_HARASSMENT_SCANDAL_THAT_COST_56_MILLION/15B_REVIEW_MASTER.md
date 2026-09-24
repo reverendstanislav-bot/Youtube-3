@@ -4,8 +4,8 @@ Status: **READY FOR OWNER REVIEW**
 Date: 2026-09-24
 
 ## Final successful build
-- GitHub Actions run: `36018740428`
-- Artifact id: `10816255894`
+- GitHub Actions run: `36021465130`
+- Artifact id: `10817420859`
 - Artifact name: `VIDEO_001_STAGE15B_REVIEW_V1`
 - Video: `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`
 - 1920×1080 / H.264 / CFR 25 fps
@@ -13,14 +13,14 @@ Date: 2026-09-24
 - Runtime: 957.370 sec
 - Locked target: 957.414 sec
 - Delta: −0.044 sec
-- SHA-256: `f26e00363b8fa47357e7d667517336d0c46d41535a5044ec77a63f439ef8da65`
+- SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`
 
 ## Caption QC
 - 409 authored SRT cues
 - 2151 displayed word tokens after canonical i+n merge
 - 2151 word-highlight events
 - 0 fallback cues
-- white base captions + orange active word
+- white base captions + channel-red active word
 - forbidden `100,100)}` artifact absent
 
 ## Overlay QC
@@ -39,3 +39,9 @@ Date: 2026-09-24
 - Stage 15C mix
 
 **Do not start Stage 15C automatically.**
+
+
+## Canonical caption colors
+- Base: `#EDEDED`
+- Active word: `#D32222`
+- Legacy orange: **RETIRED / DO NOT USE**

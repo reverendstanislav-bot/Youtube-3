@@ -437,13 +437,21 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 ## Stage 15B result — 2026-09-24
 - **COMPLETE — TECHNICAL PASS / OWNER REVIEW PENDING**
 - Final successful GitHub Actions run: `36018740428`.
-- Artifact: `10816255894` / `VIDEO_001_STAGE15B_REVIEW_V1`.
+- Artifact: `10817420859` / `VIDEO_001_STAGE15B_REVIEW_V1`.
 - Review master: `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`.
 - CFR **25 fps**, 1920×1080 H.264.
 - Runtime: **957.370 sec** vs 957.414 locked target (−0.044 sec).
 - Harrison remains the only audio content; no music/SFX yet.
-- Captions: white base + orange active word; 409 cues / 2151 word events; 0 fallback cues.
+- Captions: white base + channel-red active word; 409 cues / 2151 word events; 0 fallback cues.
 - 83 metadata/source/legal/reconstruction overlay events.
 - B104 inequality fallback glyph corrected deterministically in the Stage 15B layer.
 - Stage 15B spend: **0 credits**; no generation used.
 - **Stage 15C NOT STARTED.**
+
+
+## Stage 15B caption palette correction — 2026-09-24
+- Legacy orange highlight removed.
+- Captions now match WHAT IT COST palette: **#EDEDED base + #D32222 active word**.
+- Corrected Actions run: `36021465130`.
+- Corrected artifact: `10817420859`.
+- Corrected review SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`.

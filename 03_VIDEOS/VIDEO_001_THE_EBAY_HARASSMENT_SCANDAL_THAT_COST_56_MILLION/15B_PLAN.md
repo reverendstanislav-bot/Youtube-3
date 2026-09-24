@@ -39,12 +39,12 @@ Workflow: `.github/workflows/video001_stage15b.yml`.
 
 ## Stage 15B result — 2026-09-24
 - Final workflow run: **36018740428** — SUCCESS.
-- GitHub Actions artifact: **10816255894** — `VIDEO_001_STAGE15B_REVIEW_V1`.
+- GitHub Actions artifact: **10817420859** — `VIDEO_001_STAGE15B_REVIEW_V1`.
 - Review video: `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`.
 - Video: **1920×1080 / H.264 / CFR 25 fps**.
 - Audio: **AAC / 44.1 kHz / mono**.
 - Measured runtime: **957.370 sec** vs locked **957.414 sec** (delta **−0.044 sec**).
-- Video SHA-256: `f26e00363b8fa47357e7d667517336d0c46d41535a5044ec77a63f439ef8da65`.
+- Video SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`.
 - Captions: **409 SRT cues / 2151 word-highlight events / 0 fallback cues**.
 - Metadata overlays: **83 timed stacks** from the 115-row overlay map.
 - Forbidden `100,100)}` caption artifact: **ABSENT**.
@@ -57,3 +57,14 @@ Workflow: `.github/workflows/video001_stage15b.yml`.
 ## Gate
 Stage 15B is complete as the caption + source/legal overlay review cut.
 Stage 15C remains **NOT STARTED** until explicit owner approval after viewing this build.
+
+
+## Caption palette correction — 2026-09-24
+- Removed the legacy orange highlight inherited from older YouTube projects.
+- WHAT IT COST caption palette is now locked to:
+  - base text: **#EDEDED**
+  - current spoken word: **#D32222**
+  - outline / shadow: channel charcoal / black
+- Final corrected workflow run: **36021465130 — SUCCESS**
+- Final corrected artifact: **10817420859**
+- Corrected review SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`

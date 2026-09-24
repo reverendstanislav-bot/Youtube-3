@@ -133,11 +133,17 @@
 - Stage 15B remains NOT_STARTED pending owner review.
 
 ## v35 — Stage 15B captions + documentary metadata review master — 2026-09-24
-- Burned word-level captions over the Stage 15A picture assembly: white base text with orange current-word highlight.
+- Burned word-level captions over the Stage 15A picture assembly: white base text with channel-red current-word highlight.
 - Applied source/date/legal-status/reconstruction metadata from the 115-row Stage 14 overlay map.
 - Preserved all critical legal locks: attempted GPS ≠ installed; DPA ≠ conviction; surviving claim ≠ liability; failed first 2026 deal; no $58.7M award.
 - Corrected the B104 inequality fallback glyph using a deterministic cover + clean text overlay.
-- Final successful Actions run: 36018740428; artifact 10816255894.
+- Final successful Actions run: 36018740428; artifact 10817420859.
 - Review video is 1920×1080 H.264, CFR 25 fps, 957.370 sec.
-- SHA-256: f26e00363b8fa47357e7d667517336d0c46d41535a5044ec77a63f439ef8da65.
+- SHA-256: a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33.
 - Stage 15C remains NOT_STARTED pending owner review.
+
+## v36 — Stage 15B channel-palette caption correction — 2026-09-24
+- Replaced inherited orange word highlight with WHAT IT COST channel red #D32222.
+- Base captions remain #EDEDED.
+- Corrected Stage 15B run 36021465130 succeeded.
+- Final artifact 10817420859; SHA-256 a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33.
