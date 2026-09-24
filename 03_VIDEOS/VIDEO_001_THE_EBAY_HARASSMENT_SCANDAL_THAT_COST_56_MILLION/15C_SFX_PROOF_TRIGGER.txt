@@ -1,9 +1,9 @@
-VIDEO_001 SFX-only proof trigger
+VIDEO_001 SFX-only proof V2 trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: e457d3284eb36d627f57b7dd22ddf12f351a0693
-reason: rerun after whoosh envelope fix
-scope: real film excerpts + Harrison + captions + editor-native SFX only
-music: none
+base_commit: 8af4e8bef5378e79f8d0fe37e4ebf7a5d1410e76
+scope: same real-film proof windows, no music, no room tone, louder sparse SFX
+event_gain_change: approximately +10 dB from V1
+source_sfx_energy: rebuilt for clear audibility under narration
 paid_generation: 0
 final_stage15c: not authorized
