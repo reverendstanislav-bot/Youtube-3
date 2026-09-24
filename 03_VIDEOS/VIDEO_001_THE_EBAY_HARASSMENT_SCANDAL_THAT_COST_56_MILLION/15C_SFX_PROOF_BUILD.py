@@ -240,10 +240,8 @@ SFX pack SHA-256: {sha(z)}
 Proof-local audible SFX checkpoints:
 - 00:06.340 paper tick
 - 00:07.760 page rustle
-- 00:16.260 keyboard cluster
-- 00:16.950 dry click
-- 00:25.800 digital-delete texture
-- 00:30.950 page rustle
+- 00:50.260 digital-delete texture
+- 01:04.950 page rustle
 - 01:10.180 page rustle
 - 01:35.400 soft whoosh
 - 01:52.080 dry click
