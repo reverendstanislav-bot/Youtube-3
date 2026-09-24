@@ -1,6 +1,6 @@
 VIDEO_001 Stage 15B rerun trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: 1b88def67eb3eb70ce5b46e906f0667885813be7
-reason: deterministic B104 inequality glyph cleanup
+base_commit: 3c403cb44da371737b0fb87ce6192cb2d38d9e43
+reason: cover full B104 fallback glyph and replace inequality line cleanly
 stage15c: not authorized
