@@ -194,6 +194,7 @@ ScaledBorderAndShadow: yes
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Caption,Montserrat ExtraBold,46,&H00EDEDED,&H00EDEDED,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,120,120,46,1
 Style: Meta,Montserrat ExtraBold,27,&H00EDEDED,&H00EDEDED,&H00000000,&H880B0B0B,-1,0,0,0,100,100,0,0,3,1.5,0,9,760,58,54,1
+Style: Patch,Montserrat ExtraBold,24,&H00EDEDED,&H00EDEDED,&H00000000,&H000B0B0B,-1,0,0,0,100,100,0,0,3,10,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -207,6 +208,8 @@ overlay_lines = [
     f"Dialogue: 1,{ass_time(a)},{ass_time(b)},Meta,{beat},0,0,0,,{{\\an9}}{text}"
     for a, b, text, beat in overlay_events
 ]
+# B104 deterministic cleanup: cover the Stage15A fallback-glyph in the baked inequality line.
+overlay_lines.append(r"Dialogue: 3,0:14:22.24,0:14:29.06,Patch,B104_PATCH,0,0,0,,{\pos(930,438)\an7}SURVIVING CLAIM ≠ LIABILITY")
 
 CAP_ASS.write_text(ASS_HEADER + "\n".join(caption_lines) + "\n", encoding="utf-8")
 OV_ASS.write_text(ASS_HEADER + "\n".join(overlay_lines) + "\n", encoding="utf-8")
@@ -228,6 +231,7 @@ structural = {
     "gps_lock": "ATTEMPTED GPS • INSTALLATION NOT ESTABLISHED" in combined,
     "liability_lock": "SURVIVING CLAIM ≠ LIABILITY" in combined,
     "reconstruction_lock": "ILLUSTRATIVE RECONSTRUCTION" in combined,
+    "b104_inequality_patch": "B104_PATCH" in combined and "SURVIVING CLAIM ≠ LIABILITY" in combined,
 }
 positive_58 = combined.replace("NO $58.7M AWARD", "")
 structural["positive_58_7_award"] = "$58.7M AWARD" in positive_58
@@ -241,6 +245,7 @@ assert structural["no_58_7_lock"]
 assert structural["gps_lock"]
 assert structural["liability_lock"]
 assert structural["reconstruction_lock"]
+assert structural["b104_inequality_patch"]
 
 print("STRUCTURAL_QC", json.dumps(structural, indent=2))
 
@@ -307,6 +312,7 @@ OVERLAYS
 - DPA / conviction distinction preserved: YES
 - surviving claim / liability distinction preserved: YES
 - reconstruction provenance present: YES
+- B104 surviving-claim inequality fallback glyph patched deterministically: YES
 - NO $58.7M AWARD lock present: YES
 - positive $58.7M award claim present: NO
 
