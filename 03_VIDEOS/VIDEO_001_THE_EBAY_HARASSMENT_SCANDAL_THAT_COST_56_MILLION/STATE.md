@@ -511,3 +511,22 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Music remains rejected.
 - Current direction remains **voice + silence + sparse SFX**, but SFX audibility must be solved and verified in-context before any further full-film Stage 15C work.
 - Final Stage 15C: **NOT APPROVED / NOT FINAL**.
+
+## Stage 15C controlled SFX audibility microtest V1 — 2026-09-24
+- **TECHNICAL PASS / OWNER LISTEN + STYLE REVIEW PENDING.**
+- Workflow run `36049666541` succeeded from trigger commit `812d7df6b3271e9dfa195972432203f798dd3e51`.
+- Scope: **34.000 sec** of the approved Stage15B opening, film `00:00.000–00:34.000`.
+- Music: **NONE**. Room tone: **NONE**. Paid/model generation: **0 credits**.
+- Four sparse editor-native effects were tested both solo and in the real Harrison mix.
+- SOLO artifact: `10830026745` / `VIDEO_001_SFX_SOLO_REFERENCE_V1`.
+- IN-CONTEXT artifact: `10829862172` / `VIDEO_001_SFX_IN_CONTEXT_PROOF_V1`.
+- QC artifact: `10829897002` / `VIDEO_001_SFX_MICROTEST_QC_V1`.
+- In-context checkpoints:
+  - `00:06.340` paper tick — SFX peak −4.50 dBFS vs Harrison −3.46 dBFS; Δpeak −1.04 dB; preflight PASS.
+  - `00:07.760` page rustle — SFX peak −5.00 dBFS vs Harrison −1.96 dBFS; Δpeak −3.04 dB; SFX RMS is +5.32 dB above local Harrison RMS; preflight PASS.
+  - `00:21.900` soft whoosh — SFX peak −7.00 dBFS vs Harrison −5.53 dBFS; Δpeak −1.47 dB; SFX RMS is +3.33 dB above local Harrison RMS; preflight PASS.
+  - `00:30.120` dry click — SFX peak −4.00 dBFS vs Harrison −4.31 dBFS; Δpeak +0.31 dB; preflight PASS.
+- No Harrison ducking was used; the test checks whether the SFX themselves can remain clearly present against the approved narration.
+- This is an **audibility/style gate only**. It does **NOT** approve Stage 15C and does **NOT** authorize scaling the SFX design to the full film.
+- Current Stage 15C status remains **OPEN / NOT APPROVED / NOT FINAL**.
+
