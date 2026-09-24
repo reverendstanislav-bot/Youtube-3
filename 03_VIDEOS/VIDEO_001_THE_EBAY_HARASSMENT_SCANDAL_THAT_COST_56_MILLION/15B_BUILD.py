@@ -210,7 +210,8 @@ overlay_lines = [
     for a, b, text, beat in overlay_events
 ]
 # B104 deterministic cleanup: cover the Stage15A fallback-glyph in the baked inequality line.
-overlay_lines.append(r"Dialogue: 3,0:14:22.24,0:14:29.06,Patch,B104_PATCH,0,0,0,,{\pos(930,438)\an7}SURVIVING CLAIM ≠ LIABILITY")
+overlay_lines.append(r"Dialogue: 3,0:14:22.24,0:14:29.06,PatchBox,B104_BOX,0,0,0,,{\an7\pos(900,420)\p1\c&H0B0B0B&\bord0\shad0}m 0 0 l 520 0 520 70 0 70")
+overlay_lines.append(r"Dialogue: 4,0:14:22.24,0:14:29.06,Patch,B104_PATCH,0,0,0,,{\pos(930,438)\an7}SURVIVING CLAIM ≠ LIABILITY")
 
 CAP_ASS.write_text(ASS_HEADER + "\n".join(caption_lines) + "\n", encoding="utf-8")
 OV_ASS.write_text(ASS_HEADER + "\n".join(overlay_lines) + "\n", encoding="utf-8")
