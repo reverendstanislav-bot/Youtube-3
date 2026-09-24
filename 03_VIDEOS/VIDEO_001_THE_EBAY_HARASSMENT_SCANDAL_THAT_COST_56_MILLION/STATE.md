@@ -528,5 +528,7 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
   - `00:30.120` dry click — SFX peak −4.00 dBFS vs Harrison −4.31 dBFS; Δpeak +0.31 dB; preflight PASS.
 - No Harrison ducking was used; the test checks whether the SFX themselves can remain clearly present against the approved narration.
 - This is an **audibility/style gate only**. It does **NOT** approve Stage 15C and does **NOT** authorize scaling the SFX design to the full film.
+- Post-encode QC was also performed on the actual downloaded MP4 artifacts: all four SFX survived AAC/stereo/limiter encoding and remain non-silent at their expected checkpoints (context event-window peaks approximately −7.03 / −3.20 / −6.80 / −6.48 dBFS).
+- Owner perceptual/style approval is still required despite the technical and post-encode passes.
 - Current Stage 15C status remains **OPEN / NOT APPROVED / NOT FINAL**.
 
