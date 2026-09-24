@@ -191,7 +191,7 @@ for idx, (event, t) in enumerate(zip(EVENTS, solo_times), start=1):
     solo_filters.append(f"[{idx}:a]adelay={ms}|{ms}[{lab}]")
     solo_labels.append(f"[{lab}]")
 solo_filters.append("".join(solo_labels) + f"amix=inputs={len(solo_labels)}:duration=longest:normalize=0,alimiter=limit=0.95[a]")
-solo_text = "SFX SOLO REFERENCE  |  00:02 PAPER TICK  |  00:06 PAGE RUSTLE  |  00:10 SOFT WHOOSH  |  00:14 DRY CLICK"
+solo_text = "SFX SOLO REFERENCE  |  00-02 PAPER TICK  |  00-06 PAGE RUSTLE  |  00-10 SOFT WHOOSH  |  00-14 DRY CLICK"
 solo_vf = (
     "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:"
     f"text='{solo_text}':x=(w-text_w)/2:y=470:fontsize=34:fontcolor=white@0.92"
