@@ -1,0 +1,8 @@
+VIDEO_001 SFX-only proof trigger
+requested_by_owner: true
+date: 2026-09-24
+base_commit: 2125e2c75de55a6b2098905996c2959b58d52e67
+scope: real film excerpts + Harrison + captions + editor-native SFX only
+music: none
+paid_generation: 0
+final_stage15c: not authorized
