@@ -1,4 +1,4 @@
-name: VIDEO001 SFX Only Proof
+name: VIDEO001 SFX Audibility Microtest
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  build-sfx-proof:
+  build-sfx-microtest:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -23,22 +23,28 @@ jobs:
       - name: Rebuild canonical Stage15B
         run: |
           python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_BUILD.py"
-      - name: Build editor-native SFX pack and no-music proof
+      - name: Build controlled SFX audibility microtest
         run: |
-          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF_BUILD.py"
-      - name: Upload proof video
+          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_MICROTEST_BUILD.py"
+      - name: Upload SFX solo reference
         uses: actions/upload-artifact@v4
         with:
-          name: VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE
+          name: VIDEO_001_SFX_SOLO_REFERENCE_V1
+          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_MICROTEST/out/VIDEO_001_STAGE15C_SFX_SOLO_REFERENCE_V1.mp4
+          retention-days: 30
+          compression-level: 0
+      - name: Upload SFX in-context proof
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_SFX_IN_CONTEXT_PROOF_V1
+          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_MICROTEST/out/VIDEO_001_STAGE15C_SFX_IN_CONTEXT_PROOF_V1.mp4
+          retention-days: 30
+          compression-level: 0
+      - name: Upload SFX microtest QC
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_SFX_MICROTEST_QC_V1
           path: |
-            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE.mp4
-            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_PROOF_REPORT.txt
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_MICROTEST/out/VIDEO_001_STAGE15C_SFX_MICROTEST_REPORT_V1.txt
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_MICROTEST/out/VIDEO_001_STAGE15C_SFX_MICROTEST_MEASUREMENTS_V1.csv
           retention-days: 30
-          compression-level: 0
-      - name: Upload SFX pack
-        uses: actions/upload-artifact@v4
-        with:
-          name: VIDEO_001_EDITOR_NATIVE_SFX_PACK
-          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/sfx/VIDEO_001_EDITOR_NATIVE_SFX_PACK.zip
-          retention-days: 30
-          compression-level: 0
