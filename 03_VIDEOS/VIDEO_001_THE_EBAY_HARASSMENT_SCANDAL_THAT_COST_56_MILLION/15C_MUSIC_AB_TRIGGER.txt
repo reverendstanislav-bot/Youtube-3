@@ -1,0 +1,6 @@
+VIDEO_001 Music A/B proof trigger
+requested_by_owner: true
+date: 2026-09-24
+base_commit: 751b3e7e15810cc723e5ac27f1ad17ce903d192a
+scope: real film excerpts + Harrison + captions + alternate licensed score directions A/B
+final_score: not authorized
