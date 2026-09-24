@@ -1,0 +1,58 @@
+name: VIDEO001 Stage15C Audio Mix
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_RUN_TRIGGER.txt'
+
+permissions:
+  contents: read
+
+jobs:
+  build-stage15c:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg unzip fontconfig
+          sudo apt-get install -y fonts-montserrat || true
+          fc-cache -f
+
+      - name: Rebuild canonical Stage15B locally
+        shell: bash
+        run: |
+          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_BUILD.py"
+
+      - name: Build Stage15C music SFX and final audio mix
+        shell: bash
+        run: |
+          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_BUILD.py"
+
+      - name: Upload lightweight review
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_STAGE15C_REVIEW_LITE
+          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_REVIEW_LITE_1080P.mp4
+          retention-days: 30
+          compression-level: 0
+
+      - name: Upload Stage15C review package
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_STAGE15C_REVIEW_V1
+          path: |
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_REVIEW_V1_1080P.mp4
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_AUDIO_MIX.wav
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_MUSIC_BED.flac
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_SFX_STEM.flac
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_MIX_REPORT.txt
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_OUTPUT/VIDEO_001_STAGE15C_MUSIC_CREDITS.txt
+          retention-days: 30
+          compression-level: 0
