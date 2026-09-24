@@ -1,0 +1,44 @@
+name: VIDEO001 SFX Only Proof
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF_TRIGGER.txt'
+
+permissions:
+  contents: read
+
+jobs:
+  build-sfx-proof:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Rebuild canonical Stage15B
+        run: |
+          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_BUILD.py"
+      - name: Build editor-native SFX pack and no-music proof
+        run: |
+          python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF_BUILD.py"
+      - name: Upload proof video
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_SFX_ONLY_PROOF_V1
+          path: |
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_ONLY_PROOF_V1.mp4
+            03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/out/VIDEO_001_SFX_PROOF_REPORT.txt
+          retention-days: 30
+          compression-level: 0
+      - name: Upload SFX pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_EDITOR_NATIVE_SFX_PACK
+          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15C_SFX_PROOF/sfx/VIDEO_001_EDITOR_NATIVE_SFX_PACK.zip
+          retention-days: 30
+          compression-level: 0
