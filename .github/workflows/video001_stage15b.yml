@@ -31,6 +31,20 @@ jobs:
         run: |
           python3 "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_BUILD.py"
 
+      - name: Build lightweight review MP4
+        shell: bash
+        run: |
+          ffmpeg -y -hide_banner -loglevel error             -i "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_OUTPUT/VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4"             -c:v libx264 -preset veryfast -crf 29 -pix_fmt yuv420p             -c:a aac -b:a 96k -ar 44100 -ac 1             -movflags +faststart             "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_OUTPUT/VIDEO_001_STAGE15B_REVIEW_LITE_1080P.mp4"
+          ls -lh "03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_OUTPUT/VIDEO_001_STAGE15B_REVIEW_LITE_1080P.mp4"
+
+      - name: Upload lightweight review MP4
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO_001_STAGE15B_REVIEW_LITE
+          path: 03_VIDEOS/VIDEO_001_THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION/15B_OUTPUT/VIDEO_001_STAGE15B_REVIEW_LITE_1080P.mp4
+          retention-days: 30
+          compression-level: 0
+
       - name: Upload Stage 15B review artifact
         uses: actions/upload-artifact@v4
         with:
