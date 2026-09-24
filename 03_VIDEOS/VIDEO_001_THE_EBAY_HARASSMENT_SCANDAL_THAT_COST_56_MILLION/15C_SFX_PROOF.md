@@ -116,3 +116,14 @@ The V1/V2 long SFX proofs were not used as the basis for another gain-only itera
 ### Gate
 This result verifies the technical signal relationship only. Owner must still judge whether the effects are perceptually audible and stylistically right. **Do not scale to the full film and do not close Stage 15C without explicit owner approval.**
 
+### Post-encode artifact verification
+The actual uploaded MP4 artifacts were downloaded and decoded after the Actions run to confirm that AAC encoding / stereo mix / limiter did not erase the accents.
+
+Measured from the decoded `SFX_IN_CONTEXT_PROOF` artifact:
+- paper event window: peak **−7.03 dBFS**, RMS **−18.12 dBFS**;
+- page-rustle event window: peak **−3.20 dBFS**, RMS **−15.62 dBFS**;
+- soft-whoosh event window: peak **−6.80 dBFS**, RMS **−21.09 dBFS**;
+- dry-click event window: peak **−6.48 dBFS**, RMS **−16.16 dBFS**.
+
+Decoded `SFX_SOLO_REFERENCE` also contains all four accents at the expected checkpoints. Both artifacts are technically non-silent and the SFX survived final encode. This remains **technical verification only**; the owner listen/style gate is still open.
+
