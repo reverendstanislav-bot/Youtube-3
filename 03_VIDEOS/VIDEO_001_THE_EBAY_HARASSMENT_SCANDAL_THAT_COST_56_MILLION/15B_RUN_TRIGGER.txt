@@ -1,0 +1,6 @@
+VIDEO_001 Stage 15B run trigger
+requested_by_owner: true
+date: 2026-09-24
+base_commit: 8e021d701b24d064888c9446bb6a2d264853dd86
+purpose: render captions + source/date/legal/reconstruction overlays only
+stage15c: not authorized
