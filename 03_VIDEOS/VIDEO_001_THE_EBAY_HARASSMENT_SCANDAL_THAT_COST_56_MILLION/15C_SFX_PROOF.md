@@ -76,3 +76,43 @@ This is a **sound-design proof only**, not a final Stage 15C master.
   - 02:34.240 page rustle
   - 03:09.900 dry click
 - Owner review pending. This is still a proof, not a final Stage 15C master.
+
+## Controlled audibility microtest V1 — 2026-09-24
+Status: **TECHNICAL PASS / OWNER REVIEW PENDING**
+
+The V1/V2 long SFX proofs were not used as the basis for another gain-only iteration. This test measures the effects against Harrison locally before rendering.
+
+### Scope
+- Approved Stage15B film window: `00:00.000–00:34.000` (**34.000 sec**).
+- Music: **NONE**.
+- Room tone: **NONE**.
+- Harrison ducking: **NONE**.
+- SFX: four editor-native procedural accents.
+- Paid/model generation: **0 credits**.
+
+### Outputs
+- Workflow run: `36049666541` — SUCCESS.
+- `SFX_SOLO_REFERENCE`: artifact `10830026745`, `VIDEO_001_SFX_SOLO_REFERENCE_V1`.
+- `SFX_IN_CONTEXT_PROOF`: artifact `10829862172`, `VIDEO_001_SFX_IN_CONTEXT_PROOF_V1`.
+- Measurements/report: artifact `10829897002`, `VIDEO_001_SFX_MICROTEST_QC_V1`.
+
+### Exact in-context checkpoints and measurements
+- `00:06.340` paper tick — SFX peak **−4.50 dBFS**, RMS **−21.31 dBFS**; Harrison peak **−3.46**, RMS **−17.70**; Δpeak **−1.04 dB**, ΔRMS **−3.61 dB**; PASS.
+- `00:07.760` page rustle — SFX peak **−5.00 dBFS**, RMS **−15.10 dBFS**; Harrison peak **−1.96**, RMS **−20.42**; Δpeak **−3.04 dB**, ΔRMS **+5.32 dB**; PASS.
+- `00:21.900` soft whoosh — SFX peak **−7.00 dBFS**, RMS **−19.24 dBFS**; Harrison peak **−5.53**, RMS **−22.57**; Δpeak **−1.47 dB**, ΔRMS **+3.33 dB**; PASS.
+- `00:30.120` dry click — SFX peak **−4.00 dBFS**, RMS **−19.25 dBFS**; Harrison peak **−4.31**, RMS **−18.45**; Δpeak **+0.31 dB**, ΔRMS **−0.80 dB**; PASS.
+
+### Solo-reference checkpoints
+- `00:02.000` paper tick
+- `00:06.000` page rustle
+- `00:10.000` soft whoosh
+- `00:14.000` dry click
+
+### Verification rule
+- Transients: SFX peak no more than **5 dB below** local Harrison peak.
+- Textures: SFX peak no more than **7 dB below** local Harrison peak and SFX RMS no more than **10 dB below** local Harrison RMS.
+- All four events passed before encoding.
+
+### Gate
+This result verifies the technical signal relationship only. Owner must still judge whether the effects are perceptually audible and stylistically right. **Do not scale to the full film and do not close Stage 15C without explicit owner approval.**
+
