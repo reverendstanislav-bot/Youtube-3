@@ -1,6 +1,6 @@
 # VIDEO 001 — Stage 14 Selected Music Lock
 
-Status: **4 / 4 TRACKS DOWNLOADED + LICENSE VERIFIED + AUDITION ARCHIVE READY**
+Status: **4 / 4 TRACKS DOWNLOADED + LICENSE VERIFIED + OWNER PROVISIONALLY APPROVED**
 Date: 2026-09-23
 
 All four tracks are from Scott Buckley's official Creative Commons Music Library. The official library states the MP3 downloads are CC BY 4.0 unless otherwise stated, including commercial use with attribution; for YouTube the credit must appear in the video description.
@@ -33,3 +33,9 @@ All four tracks are from Scott Buckley's official Creative Commons Music Library
 - 'Life Is' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
 
 No audio generation was used.
+
+
+## Owner approval — 2026-09-24
+- Owner response: **provisionally approved** ("пока одобряю").
+- These four tracks are the current Stage 15 music set.
+- Replacement remains allowed only by explicit owner instruction.

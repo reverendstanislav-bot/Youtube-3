@@ -409,4 +409,10 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Four Scott Buckley tracks are downloaded and packed for owner audition.
 - Music audition archive: media `49b0482b-026a-441a-b514-ee2b35278843`, SHA-256 `b7a90eda0acaf602a693ddfd3836561e5dea5408a5c4f1f5c3b1cd05a189e97e`.
 - Licenses re-verified from official Scott Buckley pages: CC BY 4.0, YouTube-description attribution required.
-- Stage 15 assembly remains **NOT STARTED** pending owner music approval.
+- Stage 15 assembly remains **NOT STARTED**, but the music gate is cleared: owner provisionally approved the current 4-track set on 2026-09-24.
+
+
+## Music owner approval — 2026-09-24
+- Current 4-track music set: **PROVISIONALLY APPROVED BY OWNER**.
+- Stage 14 final GFX: **12/12 LOCKED**.
+- Stage 15 assembly gate: **CLEARED / READY TO START**.

@@ -116,3 +116,8 @@
 - Locked exact canonical filenames in the GFX asset manifest and graphics map.
 - Downloaded the four selected Scott Buckley tracks, recorded durations, re-verified CC BY 4.0 source pages, and created a full audition ZIP.
 - Stage 15 remains gated on owner music approval.
+
+## v33 — Owner provisional music approval — 2026-09-24
+- Owner provisionally approved the four-track Scott Buckley music set.
+- Stage 15 music gate cleared; current tracks remain replaceable only on explicit owner instruction.
+- Stage 15 assembly is ready to start.
