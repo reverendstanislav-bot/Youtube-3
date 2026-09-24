@@ -67,7 +67,7 @@ for fam,(title,artist,url) in TRACKS.items():
 beats={}
 with (BASE/"11_VISUAL_TIMELINE.csv").open(encoding="utf-8-sig",newline="") as f:
     for r in csv.DictReader(f):
-        beats[r["beat_id"]]=(float(r["start"]),float(r["spoken_end"]))
+        beats[r["beat_id"]]=(float(r["start"]),float(r["end"]))
 
 # Build 12 normalized cue segments.
 cue_files=[]
