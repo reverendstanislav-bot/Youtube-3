@@ -159,3 +159,11 @@
 - Technical loudness spot/QC on lite: -14.3 LUFS integrated, -2.5 dBFS true peak, 2.3 LU LRA.
 - No paid/model generation.
 - Owner listen approval pending before final master/QC.
+
+## v38 — Stage 15C score rejected; Mixkit replacement audition built — 2026-09-24
+- Owner rejected the Scott Buckley Stage 15C score.
+- Marked prior 15C mix as historical/non-final and reopened the music stage.
+- Researched 8 Mixkit Stock Music Free License candidates for investigative/business/legal scoring.
+- Built full audition pack and normalized audition reel.
+- Actions run 36036170552 succeeded; artifacts 10825021726 and 10824876844.
+- No replacement mix assembled yet; owner audition gate remains active.

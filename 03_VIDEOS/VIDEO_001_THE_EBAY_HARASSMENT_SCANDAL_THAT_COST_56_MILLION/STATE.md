@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15C_AUDIO_MIX — **COMPLETE / OWNER LISTEN REVIEW PENDING**
+- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / MUSIC REPLACEMENT AUDITION PENDING**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -468,3 +468,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Runtime **957.370 sec** vs locked **957.414 sec** (−0.044 sec).
 - Stage 15C spend: **0 credits**; no model generation.
 - **Final-master/QC stage NOT STARTED.**
+
+
+## Stage 15C music rejection + replacement audition — 2026-09-24
+- Owner rejected the current Scott Buckley score as unsuitable for the film.
+- Previous Stage 15C mix remains a historical review only and is **NOT APPROVED / NOT FINAL**.
+- Replacement source moved to **Mixkit Stock Music Free License** candidates.
+- Audition workflow run: `36036170552` — SUCCESS.
+- Full audition artifact: `10825021726` — 8 full tracks + 8 normalized previews + license/map notes.
+- Reel artifact: `10824876844` — 8 × 28-second normalized excerpts.
+- New score mix is **NOT STARTED** until owner selects/approves tracks.
+- No credits/model generation used.
