@@ -121,3 +121,13 @@
 - Owner provisionally approved the four-track Scott Buckley music set.
 - Stage 15 music gate cleared; current tracks remain replaceable only on explicit owner instruction.
 - Stage 15 assembly is ready to start.
+
+## v34 — Stage 15A picture assembly review master — 2026-09-24
+- Resolved and assembled 115/115 locked beats against the Harrison 15:57.414 master.
+- Inserted 12/12 final generated GFX and 6 deterministic source/editor frames.
+- Created 115-frame assembly pack and full H.264 1920×1080 review master.
+- Review master media id: 174a262e-958f-4b63-b215-1a6ab385b755.
+- Measured runtime 957.371 sec; delta from locked target −0.043 sec.
+- Review encode uses VFR hold frames; final delivery remains CFR 25 fps after 15B/15C.
+- No captions/metadata/music/SFX added and no credits spent.
+- Stage 15B remains NOT_STARTED pending owner review.

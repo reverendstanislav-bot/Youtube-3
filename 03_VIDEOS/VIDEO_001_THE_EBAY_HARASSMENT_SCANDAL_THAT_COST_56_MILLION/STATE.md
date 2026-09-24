@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 12_VISUAL_SOURCE_GENERATION_PLAN — **IN PROGRESS**
+- Current pipeline stage: 15A_PICTURE_ASSEMBLY — **REVIEW MASTER COMPLETE / OWNER REVIEW PENDING**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -416,3 +416,19 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Current 4-track music set: **PROVISIONALLY APPROVED BY OWNER**.
 - Stage 14 final GFX: **12/12 LOCKED**.
 - Stage 15 assembly gate: **CLEARED / READY TO START**.
+
+
+## Stage 15A result — 2026-09-24
+- **COMPLETE — PICTURE ASSEMBLY REVIEW MASTER READY**
+- 115/115 beats resolved and assembled.
+- 12/12 final generated GFX inserted at locked anchor beats.
+- 6 deterministic authentic-source/editor frames used where required.
+- Harrison audio is the only audio layer in 15A.
+- Review master: `VIDEO_001_STAGE15A_PICTURE_ASSEMBLY_V1_1080P.mp4`
+- media id: `174a262e-958f-4b63-b215-1a6ab385b755`
+- measured runtime: **957.371 sec** vs locked **957.414 sec** (−0.043 sec).
+- review encoding uses VFR hold frames; final delivery after 15B/15C must be **CFR 25 fps**.
+- contact-sheet spot QC: no obvious black-frame holes / missing sampled sections.
+- captions, Stage14 metadata overlays, music and SFX are intentionally absent.
+- Stage 15A spend: **0 credits**; no generation performed.
+- **Stage 15B NOT STARTED — owner review first.**

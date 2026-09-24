@@ -1,6 +1,6 @@
 # VIDEO 001 — Stage 15A Picture Assembly
 
-Status: **IN PROGRESS / ASSET RESOLUTION LOCKED**
+Status: **STAGE 15A REVIEW MASTER COMPLETE / QC PASS WITH VFR NOTE**
 Date: 2026-09-24
 
 - Harrison audio master: **957.414 sec / 15:57.414**
@@ -39,3 +39,29 @@ Date: 2026-09-24
 Machine-readable authority: `15A_ASSET_RESOLUTION.csv`.
 
 **Do not start Stage 15B automatically.**
+
+
+## Stage 15A review master — 2026-09-24
+- File: `VIDEO_001_STAGE15A_PICTURE_ASSEMBLY_V1_1080P.mp4`
+- Higgsfield video media id: `174a262e-958f-4b63-b215-1a6ab385b755`
+- URL: https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/174a262e-958f-4b63-b215-1a6ab385b755.mp4
+- Video: H.264 / 1920×1080
+- Review-master timing mode: VFR hold-frame assembly
+- Locked visual beats represented: **115 / 115**
+- Harrison audio: AAC / 44.1 kHz / mono
+- Measured container runtime: **957.371 sec**
+- Locked audio target: **957.414 sec**
+- Delta: **-0.043 sec**
+- SHA-256: `21b119007e649fc458685b8d01c0bda0d6ed26d919169dede3456cbd30e32999`
+
+### Asset package
+- 115-frame prepared framepack: `VIDEO_001_STAGE15A_FRAMEPACK_115.zip`
+- media id: `358af9b5-1cd7-4c69-afdc-0ab296e5e0cf`
+- framepack SHA-256: `4b6148ed32efb4b44d5002dde80cef86bf059416f2964d42a2ed477197fe6152`
+- contact sheet media id: `43b4f7ac-035f-448b-8a15-e4f61b2ba11e`
+- QC text media id: `c16eb2a7-6ee6-44cd-86e4-b997d7512c51`
+
+### Stage boundary
+Stage 15A is complete as a **picture-assembly review master**.
+The VFR hold-frame method is intentional for review efficiency. The final delivery after 15B/15C must be rendered **CFR 25 fps**.
+Do **not** start Stage 15B automatically.
