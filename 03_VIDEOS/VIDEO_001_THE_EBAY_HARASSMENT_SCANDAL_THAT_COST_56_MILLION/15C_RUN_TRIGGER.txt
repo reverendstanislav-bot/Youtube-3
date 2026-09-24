@@ -1,7 +1,8 @@
-VIDEO_001 Stage 15C run trigger
+VIDEO_001 Stage 15C rerun trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: 4b8611cbe0e627aff3b57e0b60695568a54e62b3
+base_commit: 391942ff539de901bb04ea4280891cb6b5d47a79
+reason: timeline column fix
 scope: approved music + restrained editor-native SFX + VO ducking + final audio mix
 paid_generation: 0
 auto_advance: false
