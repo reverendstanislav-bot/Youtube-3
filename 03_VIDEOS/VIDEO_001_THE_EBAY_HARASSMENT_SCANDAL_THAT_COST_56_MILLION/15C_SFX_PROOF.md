@@ -48,3 +48,31 @@ This is a **sound-design proof only**, not a final Stage 15C master.
 - Third-party sound libraries: **NONE**
 - Paid/model generation: **0**
 - Final Stage 15C remains **NOT APPROVED** until owner review.
+
+
+## V2 audible pass — 2026-09-24
+- Owner requested the same proof with effects raised and room tone removed.
+- Workflow run: `36046422755` — SUCCESS.
+- Proof artifact: `10828686824`.
+- SFX-pack artifact: `10828442441`.
+- File: `VIDEO_001_SFX_ONLY_PROOF_V2_AUDIBLE.mp4`.
+- Runtime: **190.023 sec**.
+- Music: **NONE**.
+- Room tone: **REMOVED**.
+- Event-gain settings raised approximately **+10 dB** from V1.
+- Procedural SFX source energy was also rebuilt upward so accents remain audible beneath Harrison.
+- Integrated loudness: **−16.4 LUFS**.
+- True peak: **−3.8 dBFS**.
+- Correct proof-local checkpoints:
+  - 00:06.340 paper tick
+  - 00:07.760 page rustle
+  - 00:50.260 digital-delete texture
+  - 01:04.950 page rustle
+  - 01:10.180 page rustle
+  - 01:35.400 soft whoosh
+  - 01:52.080 dry click
+  - 02:08.640 dry click
+  - 02:18.540 dry click
+  - 02:34.240 page rustle
+  - 03:09.900 dry click
+- Owner review pending. This is still a proof, not a final Stage 15C master.

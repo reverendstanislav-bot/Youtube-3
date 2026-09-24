@@ -490,3 +490,13 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - No stock SFX, no third-party sample library, no model generation, no paid credits.
 - Measured proof loudness: **−16.46 LUFS integrated / −3.64 dBFS true peak**.
 - Owner review required before extending this sound-design philosophy to the full film.
+
+
+## Stage 15C SFX-only proof V2 — 2026-09-24
+- V1 was judged too quiet by owner.
+- V2 removes room tone completely and raises working SFX approximately +10 dB, with stronger source synthesis for audible but restrained accents.
+- Run `36046422755` succeeded.
+- Proof artifact `10828686824`; SFX-pack artifact `10828442441`.
+- Proof runtime **190.023 sec**, music **NONE**.
+- Audio QC: **−16.4 LUFS integrated / −3.8 dBFS true peak**.
+- Final Stage 15C remains NOT APPROVED until owner review.

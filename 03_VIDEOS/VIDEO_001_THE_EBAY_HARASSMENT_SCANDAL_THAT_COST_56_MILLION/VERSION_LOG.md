@@ -175,3 +175,11 @@
 - Proof artifact 10827149357; SFX-pack artifact 10827199168.
 - No third-party SFX and no paid/model generation.
 - Owner review pending.
+
+## v40 — Stage 15C SFX-only proof V2 audible — 2026-09-24
+- Removed room tone.
+- Raised event gains ~+10 dB and rebuilt procedural SFX source amplitudes for audibility.
+- Kept the same real-film five-window proof and no-music philosophy.
+- Run 36046422755 succeeded; proof artifact 10828686824.
+- Technical audio QC: -16.4 LUFS integrated / -3.8 dBFS true peak.
+- Owner review pending.
