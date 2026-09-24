@@ -194,7 +194,8 @@ ScaledBorderAndShadow: yes
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Caption,Montserrat ExtraBold,46,&H00EDEDED,&H00EDEDED,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3.2,0,2,120,120,46,1
 Style: Meta,Montserrat ExtraBold,27,&H00EDEDED,&H00EDEDED,&H00000000,&H880B0B0B,-1,0,0,0,100,100,0,0,3,1.5,0,9,760,58,54,1
-Style: Patch,Montserrat ExtraBold,24,&H00EDEDED,&H00EDEDED,&H00000000,&H000B0B0B,-1,0,0,0,100,100,0,0,3,10,0,7,0,0,0,1
+Style: Patch,Montserrat ExtraBold,24,&H00EDEDED,&H00EDEDED,&H00000000,&H000B0B0B,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: PatchBox,Montserrat ExtraBold,24,&H000B0B0B,&H000B0B0B,&H000B0B0B,&H000B0B0B,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -231,7 +232,7 @@ structural = {
     "gps_lock": "ATTEMPTED GPS • INSTALLATION NOT ESTABLISHED" in combined,
     "liability_lock": "SURVIVING CLAIM ≠ LIABILITY" in combined,
     "reconstruction_lock": "ILLUSTRATIVE RECONSTRUCTION" in combined,
-    "b104_inequality_patch": "B104_PATCH" in combined and "SURVIVING CLAIM ≠ LIABILITY" in combined,
+    "b104_inequality_patch": "B104_PATCH" in combined and "B104_BOX" in combined and "SURVIVING CLAIM ≠ LIABILITY" in combined,
 }
 positive_58 = combined.replace("NO $58.7M AWARD", "")
 structural["positive_58_7_award"] = "$58.7M AWARD" in positive_58
