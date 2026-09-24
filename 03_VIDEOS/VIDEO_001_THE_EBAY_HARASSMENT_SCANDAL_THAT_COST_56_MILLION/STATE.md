@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15B_OVERLAYS_CAPTIONS — **COMPLETE / OWNER REVIEW PENDING**
+- Current pipeline stage: 15C_AUDIO_MIX — **COMPLETE / OWNER LISTEN REVIEW PENDING**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -455,3 +455,16 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Corrected Actions run: `36021465130`.
 - Corrected artifact: `10817420859`.
 - Corrected review SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`.
+
+
+## Stage 15C result — 2026-09-24
+- **COMPLETE — TECHNICAL PASS / OWNER LISTEN REVIEW PENDING**
+- Run `36033748640` succeeded.
+- Full artifact `10823619066`; lite artifact `10823599106`.
+- 12/12 locked music cues assembled from the owner-approved four Scott Buckley tracks.
+- 20 restrained editor-native SFX accents; no prohibited/horror/gavel/cash-register/siren sounds.
+- VO-keyed sidechain ducking + manual legal/quote/money reductions applied.
+- Lite QC measured **−14.3 LUFS integrated / −2.5 dBFS true peak / 2.3 LU LRA**.
+- Runtime **957.370 sec** vs locked **957.414 sec** (−0.044 sec).
+- Stage 15C spend: **0 credits**; no model generation.
+- **Final-master/QC stage NOT STARTED.**

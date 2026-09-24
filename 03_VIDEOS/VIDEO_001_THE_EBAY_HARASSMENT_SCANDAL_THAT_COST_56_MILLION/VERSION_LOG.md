@@ -147,3 +147,15 @@
 - Base captions remain #EDEDED.
 - Corrected Stage 15B run 36021465130 succeeded.
 - Final artifact 10817420859; SHA-256 a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33.
+
+## v37 — Stage 15C music / SFX / audio mix review master — 2026-09-24
+- Applied all 12 locked music cues using Resonance / Intervention / Chronicle / Life Is.
+- Added 20 restrained editor-native micro-SFX from the Stage 14 sound-design brief.
+- Applied VO-keyed sidechain ducking plus additional manual legal/number/quote reductions.
+- Final 3 sec music resolves to tail/room; no SFX after B111.
+- Successful run 36033748640.
+- Full artifact 10823619066; lite artifact 10823599106.
+- Full review SHA256 aea83bd00644d0184c8cc65fb0b555c6510bce28fd08a1f74d88ffd3759d8268.
+- Technical loudness spot/QC on lite: -14.3 LUFS integrated, -2.5 dBFS true peak, 2.3 LU LRA.
+- No paid/model generation.
+- Owner listen approval pending before final master/QC.
