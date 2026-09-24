@@ -1,6 +1,6 @@
 VIDEO_001 Stage 15B rerun trigger
 requested_by_owner: true
 date: 2026-09-24
-base_commit: 1d32a65a97a1e3ae995d30936319654486fccb5a
-reason: replace legacy orange caption highlight with WHAT IT COST channel red #D32222
+base_commit: 4f2ff600422ae85e82275b70c062a050a5a122aa
+reason: produce lightweight direct-download review MP4 because inline player failed on large file
 stage15c: not authorized
