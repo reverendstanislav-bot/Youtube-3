@@ -103,7 +103,7 @@ wav_write(SFX/"07_digital_delete.wav",digital)
 n=int(.55*SR); raw=noise_lp(n,1250,.70)
 who=[]
 for i,x in enumerate(raw):
-    env=math.sin(math.pi*i/max(n-1,1))**1.7
+    env=max(0.0,math.sin(math.pi*i/max(n-1,1)))**1.7
     who.append(x*env)
 wav_write(SFX/"08_soft_whoosh.wav",who)
 
