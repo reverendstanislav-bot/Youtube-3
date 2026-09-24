@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15A_PICTURE_ASSEMBLY — **REVIEW MASTER COMPLETE / OWNER REVIEW PENDING**
+- Current pipeline stage: 15B_OVERLAYS_CAPTIONS — **COMPLETE / OWNER REVIEW PENDING**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -431,4 +431,19 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - contact-sheet spot QC: no obvious black-frame holes / missing sampled sections.
 - captions, Stage14 metadata overlays, music and SFX are intentionally absent.
 - Stage 15A spend: **0 credits**; no generation performed.
-- **Stage 15B NOT STARTED — owner review first.**
+- **Stage 15B COMPLETE — owner review of caption/overlay cut pending.**
+
+
+## Stage 15B result — 2026-09-24
+- **COMPLETE — TECHNICAL PASS / OWNER REVIEW PENDING**
+- Final successful GitHub Actions run: `36018740428`.
+- Artifact: `10816255894` / `VIDEO_001_STAGE15B_REVIEW_V1`.
+- Review master: `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`.
+- CFR **25 fps**, 1920×1080 H.264.
+- Runtime: **957.370 sec** vs 957.414 locked target (−0.044 sec).
+- Harrison remains the only audio content; no music/SFX yet.
+- Captions: white base + orange active word; 409 cues / 2151 word events; 0 fallback cues.
+- 83 metadata/source/legal/reconstruction overlay events.
+- B104 inequality fallback glyph corrected deterministically in the Stage 15B layer.
+- Stage 15B spend: **0 credits**; no generation used.
+- **Stage 15C NOT STARTED.**

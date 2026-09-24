@@ -131,3 +131,13 @@
 - Review encode uses VFR hold frames; final delivery remains CFR 25 fps after 15B/15C.
 - No captions/metadata/music/SFX added and no credits spent.
 - Stage 15B remains NOT_STARTED pending owner review.
+
+## v35 — Stage 15B captions + documentary metadata review master — 2026-09-24
+- Burned word-level captions over the Stage 15A picture assembly: white base text with orange current-word highlight.
+- Applied source/date/legal-status/reconstruction metadata from the 115-row Stage 14 overlay map.
+- Preserved all critical legal locks: attempted GPS ≠ installed; DPA ≠ conviction; surviving claim ≠ liability; failed first 2026 deal; no $58.7M award.
+- Corrected the B104 inequality fallback glyph using a deterministic cover + clean text overlay.
+- Final successful Actions run: 36018740428; artifact 10816255894.
+- Review video is 1920×1080 H.264, CFR 25 fps, 957.370 sec.
+- SHA-256: f26e00363b8fa47357e7d667517336d0c46d41535a5044ec77a63f439ef8da65.
+- Stage 15C remains NOT_STARTED pending owner review.
