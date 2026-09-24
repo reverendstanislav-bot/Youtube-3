@@ -1,3 +1,30 @@
+# SUPERSEDING AUDIO LOCK — 2026-09-24
+
+**This section overrides every older Stage 15C music/SFX instruction below.**
+
+Owner decision: **remove all music and all sound effects from VIDEO 001.**
+
+Canonical audio is now:
+- Harrison narration only;
+- 0 music;
+- 0 SFX;
+- 0 room tone / ambience;
+- no ducking or sound-design stems.
+
+The approved Stage15B master already has exactly this audio configuration and is therefore the canonical Stage15C basis:
+- run `36021465130`
+- artifact `10817420859`
+- file `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`
+- SHA256 `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`
+- runtime `957.370 sec`
+
+All older Scott Buckley / Mixkit / TeknoAXE / SFX-only / SFX microtest paths are rejected historical audit material only. Do not rebuild, audition, search for, or reintroduce music or SFX unless the owner explicitly reverses this lock.
+
+Stage 15C: **PASS / VOICE-ONLY LOCKED**.
+Do not start the next stage without explicit owner instruction.
+
+---
+
 # NEW CHAT HANDOFF — VIDEO 001 / WHAT IT COST
 Date: 2026-09-24
 Repo: `reverendstanislav-bot/Youtube-3`

@@ -1,7 +1,0 @@
-VIDEO_001 Music A/B proof trigger
-requested_by_owner: true
-date: 2026-09-24
-base_commit: 93a65147ffc2c0be304bfea55cdcc4611f7abf77
-reason: rerun after ffmpeg fade syntax fix
-scope: real film excerpts + Harrison + captions + alternate licensed score directions A/B
-final_score: not authorized

@@ -6,9 +6,9 @@ pillar: "CORPORATE_SCANDAL"
 priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
-last_updated: "2026-09-23"
-current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Review repaired Stage 12F-R6 semantic/source/input plan; neutral style refs are design-only and generation remains unauthorized"
+last_updated: "2026-09-24"
+current_stage: "15C_AUDIO_MIX"
+next_action: "Stage 15C voice-only lock complete; await explicit owner instruction before final master/QC or Stage 16"
 blockers: []
 
 stages:
@@ -24,10 +24,10 @@ stages:
   stage_09_voice_qa_lock: "PASS"
   stage_10_audio_master: "PASS"
   stage_11_transcript_visual_timeline: "PASS"
-  stage_12_visual_source_generation_plan: "IN_PROGRESS"
-  stage_13_visual_asset_qc: "NOT_STARTED"
-  stage_14_graphics_documents_music_sfx: "NOT_STARTED"
-  stage_15_assembly_edit: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "PASS"
+  stage_13_visual_asset_qc: "PASS"
+  stage_14_graphics_documents_music_sfx: "PASS_AUDIO_RETIRED"
+  stage_15_assembly_edit: "PASS_VOICE_ONLY"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
@@ -41,7 +41,7 @@ locks:
   voice_input: true
   audio_master: true
   visual_timeline: true
-  visual_assets: false
+  visual_assets: true
   edit_master: false
   final_fact_legal_refresh: false
   packaging: false

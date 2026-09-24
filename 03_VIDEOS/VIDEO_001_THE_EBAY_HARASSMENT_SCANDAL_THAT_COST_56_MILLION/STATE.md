@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15C_AUDIO_MIX — **REOPENED / SFX DESIGN NOT APPROVED**
+- Current pipeline stage: 15C_AUDIO_MIX — **PASS / VOICE-ONLY LOCKED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -532,3 +532,25 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Owner perceptual/style approval is still required despite the technical and post-encode passes.
 - Current Stage 15C status remains **OPEN / NOT APPROVED / NOT FINAL**.
 
+
+
+## Stage 15C final audio direction — VOICE ONLY LOCK — 2026-09-24
+- Owner explicitly removed **all music and all sound effects** from VIDEO 001.
+- Canonical audio policy: **Harrison narration only**.
+- Music tracks: **0**.
+- SFX events: **0**.
+- Room tone / ambience bed: **0**.
+- No ducking, music fades, SFX stems, transition hits, whooshes, clicks, paper sounds, or tonal accents are permitted in the canonical film.
+- The approved Stage15B master already contains exactly this audio configuration: Harrison only.
+- Therefore Stage15C requires **no new render and no new audio processing**. Re-encoding would only create avoidable quality loss.
+- Canonical picture/audio basis remains:
+  - run `36021465130`;
+  - artifact `10817420859`;
+  - file `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`;
+  - SHA256 `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`;
+  - 1920×1080 / CFR25 / AAC 44.1 kHz mono / 957.370 sec.
+- All previous music/SFX attempts are **REJECTED / RETIRED / NON-CANONICAL**.
+- Active music/SFX plans, builders, triggers and workflows were removed from current `main`.
+- Historical commits and expired/expiring Actions artifacts remain audit history only and must never be used as production inputs.
+- Stage 15C: **PASS / VOICE-ONLY LOCKED**.
+- Do **not** start final-master/QC or the next stage without explicit owner instruction.

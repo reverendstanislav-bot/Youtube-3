@@ -205,3 +205,12 @@
 - This is a technical audibility gate only; owner perceptual/style approval is still required.
 - No full-film SFX rollout is authorized. Stage 15C remains open.
 
+## v43 — Stage 15C voice-only final audio lock — 2026-09-24
+- Owner removed all music and all sound effects from VIDEO 001.
+- Canonical final audio direction is now **Harrison narration only**: 0 music / 0 SFX / 0 room tone.
+- The approved Stage15B master already satisfies this exact requirement, so no redundant re-render was performed.
+- Canonical basis remains run `36021465130`, artifact `10817420859`, SHA256 `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`.
+- Retired all active Stage14/15C music and SFX plans, builders, triggers and workflows from current `main`.
+- Earlier Scott Buckley / Mixkit / TeknoAXE / SFX V1 / V2 / microtest outputs remain historical rejects only.
+- Stage 15C is **PASS / VOICE-ONLY LOCKED**.
+- No next-stage work started.
