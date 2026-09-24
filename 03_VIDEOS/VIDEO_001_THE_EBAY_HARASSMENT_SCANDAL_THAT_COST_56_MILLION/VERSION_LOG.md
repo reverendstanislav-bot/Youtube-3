@@ -183,3 +183,13 @@
 - Run 36046422755 succeeded; proof artifact 10828686824.
 - Technical audio QC: -16.4 LUFS integrated / -3.8 dBFS true peak.
 - Owner review pending.
+
+## v41 — Stage 15C SFX-only V2 owner rejection — 2026-09-24
+- Owner reports V2 SFX are still not meaningfully audible in context.
+- V2 remains historical only: run 36046422755; proof artifact 10828686824; SFX-pack artifact 10828442441.
+- Aggregate program loudness was not sufficient evidence of audible accents.
+- Room tone remains retired.
+- Music remains rejected.
+- Current direction: voice + silence + sparse SFX.
+- Next iteration must verify local SFX audibility against narration before rendering another long proof.
+- Final Stage 15C remains open.
