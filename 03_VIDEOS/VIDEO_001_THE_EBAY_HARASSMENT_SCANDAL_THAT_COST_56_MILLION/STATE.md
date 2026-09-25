@@ -4,14 +4,14 @@
 The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
-- Status: IN_PREPARATION
+- Status: RELEASE_READY
 - Stage 07 Final Script Lock: **PASS**
 - Stage 08 Voice Script: **PASS**
 - Stage 09 Voice QA + Lock: **PASS**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
-- Current pipeline stage: 17_PACKAGING — **PASS / OWNER-APPROVED THUMBNAIL LOCKED**
+- Current pipeline stage: 18_UPLOAD_PREPUBLICATION — **PASS / RELEASE_READY**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -605,3 +605,23 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Title/description/metadata remain as previously prepared.
 - Stage17 is **PASS / OWNER-APPROVED LAUNCH PACKAGE LOCKED**.
 - Stage18 remains **NOT STARTED** pending explicit owner instruction.
+
+
+## Stage 18 Upload / Prepublication — 2026-09-25
+- **PASS / RELEASE_READY**.
+- Canonical Stage15B MP4 reverified byte-for-byte; no Stage18 re-encode.
+- Master SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`.
+- 1920×1080 / H.264 / CFR25 / AAC 44.1k mono / 957.370 sec.
+- Black-frame detector: 0 events >0.15 sec.
+- Harrison-only audio confirmed as canonical; music/SFX/ambience remain 0.
+- Loudness: −16.9 LUFS integrated / −1.1 dBFS true peak / 2.3 LU LRA.
+- Captions/overlays retained: 409 cues / 2151 word-highlight events / 0 fallback.
+- Clean optional upload SRT reconstructed from approved ASS: 409 cues.
+- Owner-approved thumbnail master SHA-256 reverified: `0686bb5c0476b355a179ef2a93f548c3da48bdaade0d518f7a674bab83c519f2`.
+- 1280×720 YouTube-ready thumbnail derivative created without redesign.
+- Title/description/12 chapters/credits/settings/AI disclosure checked.
+- DOJ/GovInfo/eBay/Reuters publication links refreshed.
+- Final archive: `VIDEO_001_STAGE18_FINAL_UPLOAD_PACKAGE.zip`.
+- Archive SHA-256: `457ddb685c0b0b487a0639b82600d4a7af81bf8ed29cffbd08c41e881d62551e`.
+- YouTube upload/publication: **NOT PERFORMED**.
+- Stage19: **NOT STARTED** until actual publication.

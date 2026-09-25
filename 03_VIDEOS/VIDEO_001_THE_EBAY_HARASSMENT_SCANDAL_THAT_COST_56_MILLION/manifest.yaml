@@ -4,12 +4,12 @@ slug: "THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION"
 title: "The eBay Harassment Scandal That Cost $56 Million"
 pillar: "CORPORATE_SCANDAL"
 priority: "1"
-status: "IN_PREPARATION"
+status: "RELEASE_READY"
 created: "2026-09-20"
 last_updated: "2026-09-24"
 last_case_status_refresh: "2026-09-24"
-current_stage: "17_PACKAGING"
-next_action: "Stage 17 complete with owner-approved thumbnail; await explicit owner instruction before Stage 18 Upload / Prepublication Package"
+current_stage: "18_UPLOAD_PREPUBLICATION"
+next_action: "Release package ready; await explicit owner instruction to upload/publish on YouTube"
 blockers: []
 
 stages:
@@ -31,7 +31,7 @@ stages:
   stage_15_assembly_edit: "PASS_VOICE_ONLY"
   stage_16_final_fact_legal_refresh: "PASS"
   stage_17_packaging: "PASS"
-  stage_18_upload_prepublication: "NOT_STARTED"
+  stage_18_upload_prepublication: "PASS"
   stage_19_post_publish_analytics: "NOT_STARTED"
 
 locks:
@@ -46,7 +46,7 @@ locks:
   edit_master: true
   final_fact_legal_refresh: true
   packaging: true
-  release_ready: false
+  release_ready: true
 
 evidence:
   source_index: "SOURCE_INDEX.csv"
@@ -77,7 +77,7 @@ qa:
   edit: "PASS"
   final_refresh: "PASS"
   packaging: "PASS"
-  prepublication: "NOT_RUN"
+  prepublication: "PASS"
 
 publish:
   scheduled_at: ""

@@ -248,3 +248,14 @@
 - Prior Stage17 thumbnail rejects remain historical only.
 - Stage17 restored to PASS / owner-approved launch package locked.
 - Stage18 remains NOT_STARTED.
+
+## v47 — Stage 18 prepublication PASS / release package ready — 2026-09-25
+- Exact Stage15B voice-only master reverified; no re-encode.
+- Master SHA256 a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33.
+- Technical QC: 1920x1080 H264 CFR25; 957.370 sec; 0 black events; AAC 44.1k mono; -16.9 LUFS / -1.1 dBFS true peak.
+- Optional clean 409-cue upload SRT rebuilt from approved Stage15B word-highlight ASS.
+- Owner-approved thumbnail hash reverified; 1280x720 YouTube upload derivative created.
+- Metadata/chapters/credits/AI disclosure/source links/legal packaging all PASS.
+- Final upload archive SHA256 457ddb685c0b0b487a0639b82600d4a7af81bf8ed29cffbd08c41e881d62551e.
+- VIDEO 001 status set to RELEASE_READY.
+- YouTube publication not performed; Stage19 NOT_STARTED.
