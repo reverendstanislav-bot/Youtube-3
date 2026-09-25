@@ -9,7 +9,7 @@ created: "2026-09-20"
 last_updated: "2026-09-24"
 last_case_status_refresh: "2026-09-24"
 current_stage: "17_PACKAGING"
-next_action: "Stage 17 reopened; new thumbnail requires explicit owner approval before Stage 18"
+next_action: "Stage 17 complete with owner-approved thumbnail; await explicit owner instruction before Stage 18 Upload / Prepublication Package"
 blockers: []
 
 stages:
@@ -30,7 +30,7 @@ stages:
   stage_14_graphics_documents_music_sfx: "PASS_AUDIO_RETIRED"
   stage_15_assembly_edit: "PASS_VOICE_ONLY"
   stage_16_final_fact_legal_refresh: "PASS"
-  stage_17_packaging: "OPEN_THUMBNAIL_REJECTED"
+  stage_17_packaging: "PASS"
   stage_18_upload_prepublication: "NOT_STARTED"
   stage_19_post_publish_analytics: "NOT_STARTED"
 
@@ -45,7 +45,7 @@ locks:
   visual_assets: true
   edit_master: true
   final_fact_legal_refresh: true
-  packaging: false
+  packaging: true
   release_ready: false
 
 evidence:
@@ -76,7 +76,7 @@ qa:
   visual: "PASS"
   edit: "PASS"
   final_refresh: "PASS"
-  packaging: "FAIL_REOPENED"
+  packaging: "PASS"
   prepublication: "NOT_RUN"
 
 publish:

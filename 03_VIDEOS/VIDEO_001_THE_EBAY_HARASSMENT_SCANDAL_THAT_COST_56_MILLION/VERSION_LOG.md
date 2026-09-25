@@ -240,3 +240,11 @@
 - Thumbnail canonical selection: NONE.
 - Title/description/metadata drafts were not changed.
 - Stage17 reopened; Stage18 remains NOT_STARTED.
+
+## v46 — Stage 17 final thumbnail owner lock — 2026-09-24
+- Owner explicitly approved the SCANDAL / $56M investigative-board thumbnail as final.
+- Canonical master identity: 1672×941 PNG / SHA-256 0686bb5c0476b355a179ef2a93f548c3da48bdaade0d518f7a674bab83c519f2.
+- Compact visual reference committed as 17_THUMBNAIL_FINAL_APPROVED_PREVIEW.jpg.
+- Prior Stage17 thumbnail rejects remain historical only.
+- Stage17 restored to PASS / owner-approved launch package locked.
+- Stage18 remains NOT_STARTED.

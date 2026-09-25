@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
-- Current pipeline stage: 17_PACKAGING — **OPEN / THUMBNAIL REJECTED**
+- Current pipeline stage: 17_PACKAGING — **PASS / OWNER-APPROVED THUMBNAIL LOCKED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -594,3 +594,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Existing title/description/metadata drafts remain untouched.
 - Stage17 is **REOPENED / BLOCKED ON THUMBNAIL OWNER APPROVAL**.
 - Stage18 remains **NOT STARTED**.
+
+
+## Stage 17 final thumbnail owner approval — 2026-09-24
+- Owner explicitly selected the **SCANDAL / $56M investigative-board composite** as final.
+- Canonical master: 1672×941 PNG.
+- Master SHA-256: `0686bb5c0476b355a179ef2a93f548c3da48bdaade0d518f7a674bab83c519f2`.
+- GitHub visual reference: `17_THUMBNAIL_FINAL_APPROVED_PREVIEW.jpg`.
+- Previous Stage17 thumbnail rejects remain historical only.
+- Title/description/metadata remain as previously prepared.
+- Stage17 is **PASS / OWNER-APPROVED LAUNCH PACKAGE LOCKED**.
+- Stage18 remains **NOT STARTED** pending explicit owner instruction.
