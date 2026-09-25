@@ -9,44 +9,61 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Pillar: DEAL_CONTRACT
 - Stage 00 Topic Qualification: **PASS / GO — 93/100**
 - Stage 01 Evidence Research: **PASS**
-- Current pipeline stage: **02_CASE_STORY_MAP — NOT STARTED**
+- Stage 02 Case / Story Map: **PASS**
+- Current pipeline stage: **03_SCRIPT_V1 — NOT STARTED**
 - Primary sources indexed: **21**
 - Material claims: **30 / 30 primary-source-backed**
 - Canonical chronology events: **27**
-- Blocking research gaps: **0**
+- Stage 02 narrative timeline rows: **18**
+- Short-ready contiguous units: **8**
+- Blocking research/story gaps: **0**
 
-## Core evidence lock
-The film's factual spine is:
+## Locked story thesis
+This is a story about **pre-negotiated regulatory-risk allocation**.
 
-**~$20B proposed acquisition → negotiated $1B reverse termination fee → UK/EU/US regulatory scrutiny → mutual termination after parties say no clear approval path → Adobe pays Figma $1B → Figma remains independent and later goes public.**
+Canonical mechanism:
 
-## Hard legal / money locks
-1. $1B is a contractual termination fee / liquidated damages.
-2. The merger agreement expressly says the fee is **not a penalty**.
-3. $1B was not imposed by a regulator or court.
-4. ~$20B was proposed acquisition consideration and was not paid because the acquisition did not close.
-5. CMA findings were provisional.
-6. EC Statement of Objections was preliminary; no formal final EC decision issued before abandonment.
-7. CMA cancelled Phase 2 after abandonment; no final UK prohibition decision.
-8. DOJ investigated; do not state DOJ sued Adobe/Figma absent a later primary filing.
-9. Formal transaction-ending mechanism was mutual termination.
-10. Figma's later IPO is chronology/epilogue, not evidence the $1B fee caused its IPO price or valuation.
+**~$20B proposed acquisition  
+→ Figma asks for regulatory-failure protection  
+→ Adobe agrees to $1B reverse termination fee  
+→ UK/EU/U.S. regulatory scrutiny escalates  
+→ parties say there is no clear approval path  
+→ mutual termination  
+→ Adobe pays Figma $1B  
+→ Figma remains independent and later goes public**
 
-## Canonical Stage 01 artifacts
-- `01_PRIMARY_SOURCE_PACK.md`
-- `01_DEEP_RESEARCH.md`
-- `SOURCE_INDEX.csv`
-- `CLAIMS_LEDGER.csv`
-- `CASE_EVENT_LEDGER.csv`
-- `FACT_CHECK.md`
+## Main reveal
+The $1B consequence was negotiated before the merger agreement was signed:
+- June 19, 2022: $20B proposal, no fee;
+- July 5: Figma proposes reverse termination protection;
+- July 20: Adobe agrees to $1B reverse termination fee.
+
+## Hard locks carried into Script V1
+1. $1B = contractual termination fee / liquidated damages.
+2. Merger agreement expressly says fee is **not a penalty**.
+3. ~$20B = proposed acquisition consideration, not money Adobe actually paid.
+4. CMA findings = provisional.
+5. EC Statement of Objections = preliminary.
+6. No final CMA/EC prohibition decision before abandonment.
+7. DOJ investigated; no Stage 01 public DOJ blocking lawsuit found.
+8. Formal ending = mutual termination after parties say no clear approval path.
+9. $20B + $1B must never become fake "$21B cost."
+10. Figma IPO = epilogue, not proven result of the termination fee.
+
+## Stage 02 canonical artifacts
+- `02_STORY_MAP.md`
+- `02_TIMELINE.csv`
+- `02_SHORTS_ARCHITECTURE.md`
+
+## Shorts lock
+Stage 02 locks **8** contiguous future Shorts units.
+
+Stage 03 must preserve them as uninterrupted long-form blocks and map their exact paragraph ranges in `03_SHORTS_MAP.csv`.
 
 ## Next action
-Stage 02 Case / Story Map:
-- build chronological truth map first;
-- choose documentary reveal order second;
-- identify 6–10 contiguous Shorts units inside the long-form story.
+**Stage 03 Script V1 — NOT STARTED**
 
-**Stage 02 is NOT STARTED.**
+Write the complete 15–22 minute English narration from the locked story map while preserving all legal/money distinctions and the 8 Shorts architecture units.
 
 ## Blockers
 None.
@@ -55,4 +72,4 @@ None.
 No paid generation, TTS, image generation or video generation is authorized.
 
 ## Task-scope lock
-Stop here until explicit owner instruction for Stage 02.
+Stop here until explicit owner instruction for Stage 03.

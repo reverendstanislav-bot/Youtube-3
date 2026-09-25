@@ -7,14 +7,14 @@ priority: "2"
 status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
-current_stage: "02_CASE_STORY_MAP"
-next_action: "Stage 02 Case / Story Map — build canonical truth timeline and documentary narrative map; do not start without owner instruction"
+current_stage: "03_SCRIPT_V1"
+next_action: "Stage 03 Script V1 — write complete long-form narration from locked Stage 02 story map; do not start without owner instruction"
 blockers: []
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "PASS"
-  stage_02_case_story_map: "NOT_STARTED"
+  stage_02_case_story_map: "PASS"
   stage_03_script_v1: "NOT_STARTED"
   stage_04_fact_legal_review: "NOT_STARTED"
   stage_05_script_revision: "NOT_STARTED"
@@ -36,7 +36,7 @@ stages:
 locks:
   topic_qualified: true
   evidence_research: true
-  case_story_map: false
+  case_story_map: true
   final_script: false
   voice_input: false
   audio_master: false
@@ -65,7 +65,7 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "NOT_STARTED"
+  architecture_status: "STAGE_02_LOCKED"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
