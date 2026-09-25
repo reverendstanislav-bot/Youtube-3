@@ -60,12 +60,17 @@ VIDEO 001 precedent remains:
 VIDEO 002 planning placeholder:
 **85–100 generated image jobs, ceiling 115; exact count waits for Harrison timing + Stage 11/12 beat map.**
 
+## Harrison preflight
+- Stage 08 Voice Script: **PASS**
+- Stage 09 pre-generation QA: **PASS / WAITING OWNER APPROVAL**
+- Jobs: **4**
+- Exact spoken characters: **12,227**
+- Exact spoken words: **1,805**
+- Planned Harrison cost: **36.80 credits**
+- TTS generation: **NOT AUTHORIZED / NOT RUN**
+
 ## Next action
-**Stage 08 Voice Script / Harrison cost preflight**
-
-Prepare the exact spoken-only Harrison input, character count, job split and credit cost.
-
-**No paid TTS generation is authorized yet.**
+Owner approval required for exactly **4 Harrison / text2speech_v2 + ElevenLabs jobs at 36.80 credits total**.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

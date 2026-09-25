@@ -7,8 +7,8 @@ priority: "2"
 status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
-current_stage: "08_VOICE_SCRIPT"
-next_action: "Stage 08 Voice Script / Harrison cost preflight — prepare exact spoken-only TTS input and cost; no paid generation without owner approval"
+current_stage: "09_VOICE_QA_LOCK"
+next_action: "Owner approval required for 4 Harrison TTS jobs; no generation before explicit approval"
 blockers: []
 
 stages:
@@ -20,8 +20,8 @@ stages:
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS"
   stage_07_script_lock: "PASS"
-  stage_08_voice_script: "NOT_STARTED"
-  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_08_voice_script: "PASS"
+  stage_09_voice_qa_lock: "WAITING_OWNER_APPROVAL"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -38,7 +38,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
+  voice_input: true
   audio_master: false
   visual_timeline: false
   visual_assets: false

@@ -17,3 +17,5 @@
 | 2026-09-25 | script | v08 | Stage 05 V2 applied legal/precision edits and tightened regulatory sections | Accuracy + pacing | PASS |
 | 2026-09-25 | performance | v09 | Stage 06 performance review scored 94/100 with accuracy hard gate 5/5 | YouTube retention / clarity gate | PASS |
 | 2026-09-25 | script lock | v10 | Stage 07 canonical final script locked; 8 contiguous Shorts locked; claims ledger refs populated | Freeze narration before voice preparation | PASS |
+| 2026-09-25 | voice prep | v11 | Stage 08 exact Harrison spoken input created and split into 4 sentence-safe jobs | Calculate paid TTS spend before authorization | PASS |
+| 2026-09-25 | voice QA | v11 | Pre-generation semantic/number/legal/chunking QA passed; generation blocked pending owner approval | Prevent paid generation before explicit approval | WAITING_OWNER_APPROVAL |
