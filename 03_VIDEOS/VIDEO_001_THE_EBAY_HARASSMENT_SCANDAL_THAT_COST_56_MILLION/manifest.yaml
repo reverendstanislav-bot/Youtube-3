@@ -7,6 +7,7 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-24"
+last_case_status_refresh: "2026-09-24"
 current_stage: "17_PACKAGING"
 next_action: "Stage 17 complete; await explicit owner instruction before Stage 18 Upload / Prepublication Package"
 blockers: []

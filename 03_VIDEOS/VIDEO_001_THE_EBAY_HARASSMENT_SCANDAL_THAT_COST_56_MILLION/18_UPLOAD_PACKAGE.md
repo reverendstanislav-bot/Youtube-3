@@ -1,35 +1,14 @@
-# VIDEO {{VIDEO_ID}} — 18 Upload Package
+# VIDEO 001 — 18 Upload Package
 
 Status: NOT_STARTED
 
-## Canonical master
-- filename/URI:
-- checksum:
-- runtime/resolution:
+Stage18 has not been authorized.
 
-## Packaging
-- title:
-- thumbnail:
-- description:
-- pinned comment:
-- playlist:
+Locked Stage17 inputs are ready:
+- final title in `17_PACKAGING.md`;
+- final thumbnail source `17_THUMBNAIL_FINAL.svg`;
+- final YouTube metadata in `17_YOUTUBE_METADATA.md`;
+- final description includes mandatory CC BY-SA credits;
+- AI-use disclosure is locked to YES.
 
-## Captions
-- file:
-- language:
-
-## Settings
-- audience:
-- category:
-- disclosure:
-- comments:
-- embedding:
-- scheduling/publication:
-
-## Connections
-- end screen:
-- cards:
-- next video:
-
-## Checks
-Record processing/copyright/platform checks before Public.
+Do not upload, schedule, publish, or alter visibility until Stage18 is explicitly requested.

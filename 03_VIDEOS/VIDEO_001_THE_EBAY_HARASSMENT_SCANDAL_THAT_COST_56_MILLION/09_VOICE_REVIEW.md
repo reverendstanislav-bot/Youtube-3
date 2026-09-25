@@ -1,4 +1,4 @@
-# VIDEO {{VIDEO_ID}} — 09 Voice QA + Lock
+# VIDEO 001 — 09 Voice QA + Lock
 
 Status: NOT_STARTED
 

@@ -1,25 +1,7 @@
-# VIDEO {{VIDEO_ID}} — 19 Post-Publish Analytics
+# VIDEO 001 — 19 Analytics
 
 Status: NOT_STARTED
 
-## Launch package
+Stage19 begins only after publication.
 
-## T+24h
-
-## T+48h
-
-## T+72h
-
-## T+7d
-
-## Retention findings
-
-## Packaging findings
-
-## Audience-fit findings
-
-## Comment / confusion findings
-
-## Next-video implications
-
-Distinguish observations from hypotheses. Do not rewrite prior snapshots after the fact; append new interpretation and use EXPERIMENT_LOG for changes.
+Future analytics will record immutable post-publish snapshots and experiments without rewriting historical results.

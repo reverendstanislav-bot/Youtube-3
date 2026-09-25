@@ -1,19 +1,7 @@
-# VIDEO {{VIDEO_ID}} — 18 Prepublication QC
+# VIDEO 001 — 18 Prepublication QC
 
 Status: NOT_STARTED
 
-Final checks:
-- Stage 16 fact/legal refresh PASS;
-- Stage 17 packaging PASS;
-- canonical master checksum correct;
-- captions correct;
-- description/pinned comment do not introduce unsupported claims;
-- rights/provenance PASS;
-- title/thumbnail match opening;
-- current-case language still accurate;
-- platform processing/checks complete when applicable;
-- no unresolved BLOCKER/HIGH release issue.
+Stage18 has not been authorized.
 
-Result: PASS / WARN / FAIL.
-
-Only PASS may move to RELEASE_READY/SCHEDULED/PUBLISHED.
+When explicitly started, verify the final upload master, captions, title, thumbnail, description, rights credits, AI-use setting, audience setting, chapters, source links, and release-readiness against the locked Stage16 and Stage17 artifacts.
