@@ -1,5 +1,8 @@
 # VIDEO 002 — Stage 12 Final Prompt Rules
 
+> **SUPERSEDED 2026-09-25 by Stage 12A-R2** (`12A_R2_PROMPT_RULES.md`, `12A_R2_HIGGSFIELD_PROMPTS.csv`). Kept as history; do not use for generation.
+
+
 Status: **LOCKED / NO SPEND**
 
 WHAT IT COST production language: premium investigative business documentary; #0B0B0B / #1F1F1F / #3A3A3A / #EDEDED with restrained #D32222; antique gold rare only.

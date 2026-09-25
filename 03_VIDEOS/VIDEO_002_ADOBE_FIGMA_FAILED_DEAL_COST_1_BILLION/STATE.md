@@ -103,16 +103,20 @@ VIDEO 002 exact locked map:
 - Authentic documents: **11 / 11 specs locked**
 - Authentic UI: **6 / 6 specs locked**
 - Editor GFX: **8 / 8 specs locked**
-- Stage01B reference assets prepared/queued: **32 unique**
+- Prompt revision: **R2 — VIDEO 001 R7 style parity** (`12A_R2_HIGGSFIELD_PROMPTS.csv`; v17 batch files superseded)
+- Model: **Higgsfield GPT Image 2 · 1k · low · 16:9 · 0.5 credit**
+- In-frame generated text: **locked headline only (85 / 85)**, as in VIDEO 001 R7
+- Frames with prepared real inputs: **81 / 85**; source prep queue: **41 items / 40 assets — NOT STARTED**
 - HOLD_RIGHTS references used: **0**
-- AI-readable-text requests: **0 / 85**
+- Pre-generation QA R2: **85 / 85 PASS**
 - Bottom 22% subtitle-safe lock: **85 / 85**
 - Base image spend if approved: **42.5 credits**
 - Images generated so far: **0**
 - Retries authorized: **0**
 
 ## Next action
-Owner approval is required before any paid Higgsfield image job. The owner may approve the full **85 jobs / 42.5 credits** or a smaller test batch.
+1. Prepare the 41 source inputs in `12A_R2_SOURCE_PREP_QUEUE.csv` into `12_SOURCE_PREP/` (no spend).
+2. Owner approval is required before any paid Higgsfield image job. The owner may approve the full **85 jobs / 42.5 credits** or a smaller test batch.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

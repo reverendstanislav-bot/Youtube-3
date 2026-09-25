@@ -1,5 +1,8 @@
 # VIDEO 002 — Stage 12 Pre-Generation QA
 
+> **SUPERSEDED 2026-09-25 by Stage 12A-R2** (`12A_R2_PROMPT_RULES.md`, `12A_R2_HIGGSFIELD_PROMPTS.csv`). Kept as history; do not use for generation.
+
+
 Status: **PASS / GENERATION BLOCKED**
 
 - generated prompts: **85 / 85**
