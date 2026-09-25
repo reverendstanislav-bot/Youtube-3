@@ -4,41 +4,55 @@
 Adobe’s Failed Figma Deal Cost $1 Billion
 
 ## Current
-- Status: READY_FOR_RESEARCH
+- Status: IN_PREPARATION
 - Topic ID: T008
 - Pillar: DEAL_CONTRACT
 - Stage 00 Topic Qualification: **PASS / GO — 93/100**
-- Current pipeline stage: **01_EVIDENCE_RESEARCH — NOT STARTED**
-- Locked artifacts:
-  - `00_BRIEF.md`
-  - `00_TOPIC_QUALIFICATION.md`
+- Stage 01 Evidence Research: **PASS**
+- Current pipeline stage: **02_CASE_STORY_MAP — NOT STARTED**
+- Primary sources indexed: **21**
+- Material claims: **30 / 30 primary-source-backed**
+- Canonical chronology events: **27**
+- Blocking research gaps: **0**
 
-## Core lock
-The story is about how a roughly $20B acquisition agreement that never closed still triggered a **$1B contractual termination fee**.
+## Core evidence lock
+The film's factual spine is:
 
-Do not frame the $1B as:
-- a government fine;
-- antitrust damages;
-- a court award;
-- a regulator-imposed penalty.
+**~$20B proposed acquisition → negotiated $1B reverse termination fee → UK/EU/US regulatory scrutiny → mutual termination after parties say no clear approval path → Adobe pays Figma $1B → Figma remains independent and later goes public.**
 
-Do not state that regulators issued a final prohibition unless Stage 01 establishes that exact procedural fact. Current safe wording: Adobe and Figma mutually terminated after concluding there was no clear path to obtain required regulatory approvals.
+## Hard legal / money locks
+1. $1B is a contractual termination fee / liquidated damages.
+2. The merger agreement expressly says the fee is **not a penalty**.
+3. $1B was not imposed by a regulator or court.
+4. ~$20B was proposed acquisition consideration and was not paid because the acquisition did not close.
+5. CMA findings were provisional.
+6. EC Statement of Objections was preliminary; no formal final EC decision issued before abandonment.
+7. CMA cancelled Phase 2 after abandonment; no final UK prohibition decision.
+8. DOJ investigated; do not state DOJ sued Adobe/Figma absent a later primary filing.
+9. Formal transaction-ending mechanism was mutual termination.
+10. Figma's later IPO is chronology/epilogue, not evidence the $1B fee caused its IPO price or valuation.
+
+## Canonical Stage 01 artifacts
+- `01_PRIMARY_SOURCE_PACK.md`
+- `01_DEEP_RESEARCH.md`
+- `SOURCE_INDEX.csv`
+- `CLAIMS_LEDGER.csv`
+- `CASE_EVENT_LEDGER.csv`
+- `FACT_CHECK.md`
 
 ## Next action
-Stage 01 Evidence Research:
-- acquire primary documents;
-- populate SOURCE_INDEX;
-- build CLAIMS_LEDGER;
-- build CASE_EVENT_LEDGER;
-- refresh EU / UK / U.S. regulatory chronology;
-- trace the $1B reverse termination fee from contract to actual payment;
-- capture Figma post-deal / IPO primary record.
+Stage 02 Case / Story Map:
+- build chronological truth map first;
+- choose documentary reveal order second;
+- identify 6–10 contiguous Shorts units inside the long-form story.
+
+**Stage 02 is NOT STARTED.**
 
 ## Blockers
-None at Stage 00.
+None.
 
 ## Spend lock
 No paid generation, TTS, image generation or video generation is authorized.
 
 ## Task-scope lock
-Do not auto-start Stage 01 or any downstream stage without explicit owner instruction.
+Stop here until explicit owner instruction for Stage 02.

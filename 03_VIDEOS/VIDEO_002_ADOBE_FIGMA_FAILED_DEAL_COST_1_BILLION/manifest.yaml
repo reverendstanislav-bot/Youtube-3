@@ -4,16 +4,16 @@ slug: "ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION"
 title: "Adobe’s Failed Figma Deal Cost $1 Billion"
 pillar: "DEAL_CONTRACT"
 priority: "2"
-status: "READY_FOR_RESEARCH"
+status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
-current_stage: "01_EVIDENCE_RESEARCH"
-next_action: "Stage 01 Evidence Research: build primary-source evidence pack, claims ledger and event ledger"
+current_stage: "02_CASE_STORY_MAP"
+next_action: "Stage 02 Case / Story Map — build canonical truth timeline and documentary narrative map; do not start without owner instruction"
 blockers: []
 
 stages:
   stage_00_topic_qualification: "PASS"
-  stage_01_evidence_research: "NOT_STARTED"
+  stage_01_evidence_research: "PASS"
   stage_02_case_story_map: "NOT_STARTED"
   stage_03_script_v1: "NOT_STARTED"
   stage_04_fact_legal_review: "NOT_STARTED"
@@ -35,7 +35,7 @@ stages:
 
 locks:
   topic_qualified: true
-  evidence_research: false
+  evidence_research: true
   case_story_map: false
   final_script: false
   voice_input: false
@@ -81,7 +81,7 @@ assets:
 
 qa:
   topic: "PASS"
-  research: "NOT_RUN"
+  research: "PASS"
   fact_legal: "NOT_RUN"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
