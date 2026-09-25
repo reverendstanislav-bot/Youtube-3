@@ -3,66 +3,49 @@
 Status: **PRE-GENERATION PASS / WAITING FOR OWNER SPEND APPROVAL**
 Date: 2026-09-25
 
-Reviewed:
-- `07_SCRIPT_FINAL.md`
-- `08_VOICE_SCRIPT.md`
+Canonical script:
+`07_SCRIPT_FINAL.md` R2
+
+Exact TTS input:
+`08_VOICE_SCRIPT.md`
+
+## Runtime gate
+PASS.
+- spoken words: **2,185**
+- estimated Harrison runtime at VIDEO 001 measured pace: **16.22 min**
+- target: **16–18 min**
 
 ## Semantic fidelity
 PASS.
+Stage 08 changes acronym pronunciation only.
 
-Stage 08 changes delivery form only:
-- acronym spelling;
-- no factual rewrite;
-- no chronology change;
-- no money-category change;
-- no legal-status change.
-
-## Critical spoken-number checks
-PASS in text:
-- twenty billion dollars = proposed acquisition consideration;
-- one billion dollars = contractual termination payment;
-- no twenty-one-billion-dollar combined total;
-- twelve-point-five million shares;
-- thirty-three dollars per share;
-- three-hundred-ninety-three-point-one million dollars net proceeds before offering costs.
-
-## Legal-status checks
+## Critical numbers
 PASS:
-- $1B not a fine;
+- ~$20B = proposed acquisition consideration;
+- $1B = actual contractual termination payment;
+- no $21B combined-cost claim;
+- 12.5M IPO shares;
+- $33/share;
+- ~$393.1M net proceeds before offering costs.
+
+## Legal posture
+PASS:
+- $1B not a fine/judgment/regulator penalty;
 - CMA provisional;
 - EC preliminary;
-- no final CMA/EC prohibition claimed;
+- no final CMA/EC prohibition;
 - DOJ investigation only;
 - mutual termination preserved;
-- IPO causation disclaimer preserved.
+- IPO no-causation guardrail preserved.
 
-## Chunking
-PASS:
-- Part A: S01–S03
-- Part B: S04–S06
-- Part C: S07–S09
-- Part D: S10–S13
+## Jobs
+- Part A: S01–S02–S03 — 3473 chars — 10.45 credits
+- Part B: S04–S05–S06 — 3150 chars — 9.50 credits
+- Part C: S07–S08–S09 — 3738 chars — 11.25 credits
+- Part D: S10–S11–S12–S13 — 4398 chars — 13.20 credits
 
-No sentence is split between jobs.
+Total:
+**44.40 credits**
 
-## Pronunciation items requiring listen-QC after render
-- Adobe
-- Figma
-- Adobe X-D
-- C-M-A
-- D-O-J
-- S-E-C
-- liquidated damages
-- reverse termination fee
-
-## Spend gate
-**DO NOT GENERATE YET.**
-
-Owner must explicitly approve the 4-job Harrison spend listed in `08_VOICE_SCRIPT.md`.
-
-After approval:
-1. submit exactly 4 jobs;
-2. no automatic retries;
-3. listen-QC all four;
-4. patch only with separate approval if needed;
-5. then build exact master runtime + word-level transcript.
+## Gate
+**DO NOT GENERATE UNTIL OWNER APPROVES THE 4 JOBS AND TOTAL COST.**

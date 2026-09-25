@@ -64,13 +64,20 @@ VIDEO 002 planning placeholder:
 - Stage 08 Voice Script: **PASS**
 - Stage 09 pre-generation QA: **PASS / WAITING OWNER APPROVAL**
 - Jobs: **4**
-- Exact spoken characters: **12,227**
-- Exact spoken words: **1,805**
-- Planned Harrison cost: **36.80 credits**
+- Exact spoken characters: **14,759**
+- Exact spoken words: **2,185**
+- Planned Harrison cost: **44.40 credits**
 - TTS generation: **NOT AUTHORIZED / NOT RUN**
 
 ## Next action
-Owner approval required for exactly **4 Harrison / text2speech_v2 + ElevenLabs jobs at 36.80 credits total**.
+Owner approval required for exactly **4 Harrison / text2speech_v2 + ElevenLabs jobs at 44.40 credits total**.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
+
+
+## Stage 07 R2 runtime correction
+- Prior lock caught before spend: 1,805 spoken words / ~13.4 min estimate.
+- R2 canonical lock: **2,185 spoken words / ~16.22 min estimate**.
+- Expansion used already verified Stage 01 claims only.
+- No TTS was generated before this correction.

@@ -1,6 +1,6 @@
-# VIDEO 002 — 07 Final Script — LOCKED
+# VIDEO 002 — 07 Final Script — LOCKED R2
 
-Status: **LOCKED / CANONICAL**
+Status: **LOCKED / CANONICAL — RUNTIME-CORRECTED**
 
 Working title:
 **Adobe’s Failed Figma Deal Cost $1 Billion**
@@ -43,7 +43,11 @@ It is how two companies priced the risk that the deal might never close — and 
 
 Figma had become a major collaborative design platform used by product teams.
 
+Its value was not just in drawing interfaces. Teams could work in the same files, comment, prototype, maintain shared design systems and move work between design and development.
+
 Adobe was one of the world's largest creative-software companies, with products including Photoshop, Illustrator and Adobe XD.
+
+That meant the proposed acquisition was not just a large financial transaction. It connected two companies whose products touched important parts of the digital-design workflow, even though Adobe and Figma later disputed how directly their products competed.
 
 On September fifteenth, twenty twenty-two, Adobe and Figma announced a definitive merger agreement.
 
@@ -64,6 +68,12 @@ One billion dollars.
 ## S03 — THE CLAUSE EXISTED BEFORE THE DEAL
 
 The negotiation record filed with the Securities and Exchange Commission shows how that number entered the deal.
+
+Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction.
+
+Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement and Figma began providing confidential information to Adobe.
+
+Then came the price.
 
 On June nineteenth, twenty twenty-two, Adobe delivered a non-binding proposal to acquire Figma for twenty billion dollars, roughly half cash and half stock.
 
@@ -141,7 +151,9 @@ Regulatory approvals to obtain.
 
 But there was already a one-billion-dollar failure mechanism sitting inside the contract.
 
-The question was whether it would ever matter.
+That is easy to miss in a merger announcement. The public headline is the purchase price. The failure terms live deeper in the agreement, because they matter only if something goes wrong.
+
+The question was whether this one ever would.
 
 In twenty twenty-three, that question stopped being theoretical.
 
@@ -169,7 +181,11 @@ The UK and EU reviews developed formal competition objections.
 
 The public DOJ record for this story establishes an investigation, not a filed merger lawsuit.
 
-The fee mattered because it had already been written into the companies' own contract, and the possibility of a failed closing was becoming harder to ignore.
+The important business point was that signing and closing were two different events. Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+
+As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
+
+The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
 
 ---
 
@@ -188,6 +204,8 @@ The CMA provisionally identified competition concerns involving all-in-one produ
 The same day, it published a notice of possible remedies.
 
 Those possible remedies included prohibition of the merger and structural divestitures.
+
+That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like if the concerns are not resolved.
 
 The CMA document also discussed a possible divestiture of Figma Design and said that remedy would be substantially similar to prohibition while introducing additional risks.
 
@@ -208,6 +226,8 @@ In their submissions to the CMA, the companies argued that their products and ca
 They argued that the transaction would be pro-competitive.
 
 And they strongly disagreed with the provisional findings.
+
+That counter-position belongs in the film for a simple reason: neither the UK nor the EU process reached a final merits decision. The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns.
 
 By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns.
 
@@ -279,6 +299,8 @@ Adobe later disclosed that it used cash on hand.
 
 Figma later disclosed that it received the same one-billion-dollar payment.
 
+Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract. It became an actual transfer of cash.
+
 On December seventeenth, the companies ended the merger.
 
 Three days later, the one-billion-dollar clause became cash.
@@ -315,6 +337,8 @@ Figma recorded the payment in other income.
 
 Those are separate categories.
 
+The accounting records make the distinction concrete. Adobe treated the fee as an expense. Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.
+
 Adobe did not spend twenty-one billion dollars on Figma.
 
 One number described a purchase that never happened.
@@ -330,6 +354,8 @@ That is the billion-dollar cost at the center of this story.
 The failed acquisition did not end Figma's story.
 
 Figma remained independent.
+
+And because Figma later became a public company, the post-deal record became unusually transparent. Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
 
 In July twenty twenty-five, the company filed to go public.
 
@@ -397,7 +423,7 @@ That is what it cost.
 
 ## Canonical lock notes
 
-This file is the only canonical narration authority after Stage 07.
+This file is the only canonical narration authority after Stage 07 R2.
 
 Locked boundaries:
 - approximately $20B = proposed acquisition consideration, not money Adobe actually paid;

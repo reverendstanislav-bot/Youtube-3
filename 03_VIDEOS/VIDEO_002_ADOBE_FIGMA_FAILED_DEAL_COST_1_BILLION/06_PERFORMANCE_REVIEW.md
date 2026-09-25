@@ -102,3 +102,38 @@ SH04/SH05 are more procedural but valuable for credibility and can perform with 
 **PASS — 94 / 100**
 
 Proceed to Stage 07 Final Script Lock.
+
+
+## Runtime-correction re-review — 2026-09-25
+
+A paid-generation preflight caught a runtime defect before TTS submission:
+- prior locked spoken count: **1,805 words**
+- implied Harrison runtime using VIDEO 001 measured pace: approximately **13:24**
+- target: **16–18 minutes**
+
+Stage 07 was reopened only for source-backed substantive expansion — no filler and no new unsupported claim.
+
+R2 adds:
+- product/workflow context in S02;
+- pre-offer negotiation context in S03;
+- signing-vs-closing explanation in S06;
+- practical remedies context in S07;
+- stronger party-position balance in S08;
+- payment confirmation/accounting context in S10–S11;
+- public-company-record context in S12.
+
+R2 spoken count:
+**2,185 words**
+
+Estimated runtime using VIDEO 001 Harrison measured pace (~134.74 wpm):
+**16.22 minutes**
+
+R2 performance hard gates:
+- Hook: PASS
+- Promise: PASS
+- Conflict: PASS
+- Accuracy: PASS
+- Information density: PASS
+- No new BLOCKER/HIGH issue: PASS
+
+**Stage 06 R2 decision: PASS**

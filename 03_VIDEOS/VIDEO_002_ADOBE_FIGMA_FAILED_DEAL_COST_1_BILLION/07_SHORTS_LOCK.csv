@@ -1,9 +1,9 @@
 short_id,status,section_start,paragraph_start,section_end,paragraph_end,hook,payoff,claim_ids,extraction_rule
-SH01,LOCKED,S01,1,S01,12,"Adobe agreed to buy Figma for about twenty billion dollars. The acquisition never closed. Adobe still paid Figma one billion dollars.","The $1B was contractual and pre-negotiated.","C001;C020;C025;C026",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH02,LOCKED,S03,1,S03,14,"The negotiation record shows how that number entered the deal.","June19 no fee -> July5 ask -> July20 $1B agreed.","C003;C004",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH03,LOCKED,S04,1,S04,12,"A reverse termination fee is not a punishment imposed by the government.","Not a penalty; liquidated damages.","C005;C019",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH04,LOCKED,S07,1,S07,12,"By November 2023, the UK and EU concerns had become much more explicit.","Provisional/preliminary pressure, no final prohibition.","C009;C010;C011;C027",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH05,LOCKED,S09,1,S09,15,"The final move came from Adobe and Figma themselves.","Mutual termination before final UK/EU merits decisions.","C014;C015;C016;C017;C018;C028;C030",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH06,LOCKED,S10,1,S10,14,"The mutual termination agreement did not just end the acquisition.","Three days later the $1B clause became cash.","C019;C020;C021",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH07,LOCKED,S11,1,S11,15,"This story has two giant numbers, and they mean completely different things.","~$20B proposed vs $1B actual.","C020;C021;C022;C025;C026",CONTIGUOUS_NO_REWRITE_NO_REORDER
-SH08,LOCKED,S12,1,S12,13,"The failed acquisition did not end Figma's story.","Figma remained independent and later public; no causal claim.","C023;C024",CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH01,LOCKED,S01,1,S01,11,Adobe agreed to buy Figma for about twenty billion dollars. The acquisition never closed. Adobe still paid Figma one billion dollars.,The $1B was a contractual termination payment negotiated before the deal was signed.,C001;C020;C025;C026,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH02,LOCKED,S03,1,S03,17,The negotiation record filed with the SEC shows how that number entered the deal.,June 19 no fee -> July 5 Figma asks -> July 20 Adobe agrees to $1B.,C003;C004,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH03,LOCKED,S04,1,S04,12,A reverse termination fee is not a punishment imposed by the government.,The contract says the fee is not a penalty; it is liquidated damages.,C005;C019,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH04,LOCKED,S07,1,S07,12,"By November 2023, the UK and EU concerns had become much more explicit.","Pressure was real, but no final CMA/EC prohibition decision had arrived.",C009;C010;C011;C027,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH05,LOCKED,S09,1,S09,14,The final move came from Adobe and Figma themselves.,The deal ended by mutual termination before final UK/EU merits decisions.,C014;C015;C016;C017;C018;C028;C030,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH06,LOCKED,S10,1,S10,15,The mutual termination agreement did not just end the acquisition.,Three days later the $1B clause became cash; not a regulator invoice.,C019;C020;C021,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH07,LOCKED,S11,1,S11,15,"This story has two giant numbers, and they mean completely different things.",~$20B was proposed consideration; $1B was the actual termination payment.,C020;C021;C022;C025;C026,CONTIGUOUS_NO_REWRITE_NO_REORDER
+SH08,LOCKED,S12,1,S12,13,The failed acquisition did not end Figma's story.,Figma remained independent and later became public; no causal claim from the $1B fee.,C023;C024,CONTIGUOUS_NO_REWRITE_NO_REORDER

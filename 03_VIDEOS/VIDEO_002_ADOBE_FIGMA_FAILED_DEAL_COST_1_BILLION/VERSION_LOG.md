@@ -19,3 +19,6 @@
 | 2026-09-25 | script lock | v10 | Stage 07 canonical final script locked; 8 contiguous Shorts locked; claims ledger refs populated | Freeze narration before voice preparation | PASS |
 | 2026-09-25 | voice prep | v11 | Stage 08 exact Harrison spoken input created and split into 4 sentence-safe jobs | Calculate paid TTS spend before authorization | PASS |
 | 2026-09-25 | voice QA | v11 | Pre-generation semantic/number/legal/chunking QA passed; generation blocked pending owner approval | Prevent paid generation before explicit approval | WAITING_OWNER_APPROVAL |
+| 2026-09-25 | runtime QA | v12 | Pre-TTS audit caught 1,805-word underlength lock (~13.4 min); reopened Stage07 and expanded only source-backed context | Meet 16–18 min film target before paid TTS | FIXED |
+| 2026-09-25 | script lock | v13 | Stage07 R2 locked at 2185 spoken words (~16.22 min at VIDEO001 Harrison pace); Shorts ranges refreshed | Canonical runtime-corrected narration | PASS |
+| 2026-09-25 | voice prep | v13 | Harrison preflight recalculated on R2: 14759 chars / 4 jobs / 44.40 credits | Exact spend gate before TTS | WAITING_OWNER_APPROVAL |

@@ -3,7 +3,7 @@
 Status: **READY FOR OWNER APPROVAL — TTS NOT GENERATED**
 
 Canonical source:
-`07_SCRIPT_FINAL.md`
+`07_SCRIPT_FINAL.md` — R2 runtime-corrected lock
 
 Narrator:
 **Harrison — CHANNEL LOCK**
@@ -18,50 +18,35 @@ Voice:
 Paid generation authorization:
 **NOT GRANTED**
 
-## Rules — NOT SPOKEN
-- This file is the exact spoken-text derivative of Stage 07.
-- Facts, chronology, money, attribution and legal status are unchanged.
-- Abbreviations are normalized as spoken letters: C-M-A, D-O-J, S-E-C, U-K, E-U, I-P-O, X-D.
-- Section labels are not sent to TTS.
-- No SSML.
-- No automatic retries.
-- Any post-generation correction requires separate owner approval.
+## Delivery normalization — NOT SPOKEN
+Only pronunciation-form changes:
+- CMA -> C-M-A
+- DOJ -> D-O-J
+- SEC -> S-E-C
+- UK -> U-K
+- EU -> E-U
+- IPO -> I-P-O
+- Adobe XD -> Adobe X-D
 
-## Harrison delivery profile — NOT SPOKEN
-- calm, premium business-documentary delivery;
-- analytical, not prosecutorial;
-- keep the opening contradiction crisp;
-- slow slightly on June 19 / July 5 / July 20;
-- pronounce regulatory caveats as factual clarification, not defensive fine print;
-- slow slightly on the $20B vs $1B distinction;
-- no CTA before final WHAT IT COST line.
-
-## Pronunciation QA targets — NOT SPOKEN
-- Adobe
-- Figma
-- Photoshop
-- Illustrator
-- Adobe X-D
-- Competition and Markets Authority
-- European Commission
-- Antitrust Division
-- liquidated damages
-- reverse termination fee
-- Phase Two
-- Figma Design
+No factual, legal, numerical or causal meaning changed.
+No SSML.
+No automatic retries.
 
 ## Exact production split — NOT SPOKEN
 
 | Part | Sections | Characters | Words | Planned cost |
 |---|---|---:|---:|---:|
-| A | S01–S02–S03 | 2,685 | 396 | 8.10 credits |
-| B | S04–S05–S06 | 2,586 | 382 | 7.80 credits |
-| C | S07–S08–S09 | 3,260 | 483 | 9.80 credits |
-| D | S10–S11–S12–S13 | 3,696 | 544 | 11.10 credits |
-| **TOTAL** | S01–S13 | **12,227** | **1,805** | **36.80 credits** |
+| A | S01–S02–S03 | 3,473 | 508 | 10.45 credits |
+| B | S04–S05–S06 | 3,150 | 471 | 9.50 credits |
+| C | S07–S08–S09 | 3,738 | 559 | 11.25 credits |
+| D | S10–S11–S12–S13 | 4,398 | 647 | 13.20 credits |
+| **TOTAL** | S01–S13 | **14,759** | **2,185** | **44.40 credits** |
 
-Cost formula:
-**0.003 credits per character**, conservatively rounded up per job to nearest 0.05 credit, matching VIDEO 001 production pricing.
+Pricing:
+**0.003 credits per character**, rounded up per job to nearest 0.05 credit, matching VIDEO 001 production pricing.
+
+Estimated runtime from VIDEO 001 Harrison measured delivery pace:
+**~16.22 minutes before render-specific pauses**
 
 ---
 
@@ -91,7 +76,11 @@ It is how two companies priced the risk that the deal might never close — and 
 
 Figma had become a major collaborative design platform used by product teams.
 
+Its value was not just in drawing interfaces. Teams could work in the same files, comment, prototype, maintain shared design systems and move work between design and development.
+
 Adobe was one of the world's largest creative-software companies, with products including Photoshop, Illustrator and Adobe X-D.
+
+That meant the proposed acquisition was not just a large financial transaction. It connected two companies whose products touched important parts of the digital-design workflow, even though Adobe and Figma later disputed how directly their products competed.
 
 On September fifteenth, twenty twenty-two, Adobe and Figma announced a definitive merger agreement.
 
@@ -108,6 +97,12 @@ And by the time the public heard the twenty-billion-dollar headline, the contrac
 One billion dollars.
 
 The negotiation record filed with the Securities and Exchange Commission shows how that number entered the deal.
+
+Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction.
+
+Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement and Figma began providing confidential information to Adobe.
+
+Then came the price.
 
 On June nineteenth, twenty twenty-two, Adobe delivered a non-binding proposal to acquire Figma for twenty billion dollars, roughly half cash and half stock.
 
@@ -181,7 +176,9 @@ Regulatory approvals to obtain.
 
 But there was already a one-billion-dollar failure mechanism sitting inside the contract.
 
-The question was whether it would ever matter.
+That is easy to miss in a merger announcement. The public headline is the purchase price. The failure terms live deeper in the agreement, because they matter only if something goes wrong.
+
+The question was whether this one ever would.
 
 In twenty twenty-three, that question stopped being theoretical.
 
@@ -205,7 +202,11 @@ The U-K and E-U reviews developed formal competition objections.
 
 The public D-O-J record for this story establishes an investigation, not a filed merger lawsuit.
 
-The fee mattered because it had already been written into the companies' own contract, and the possibility of a failed closing was becoming harder to ignore.
+The important business point was that signing and closing were two different events. Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+
+As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
+
+The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
 
 ---
 
@@ -225,6 +226,8 @@ The same day, it published a notice of possible remedies.
 
 Those possible remedies included prohibition of the merger and structural divestitures.
 
+That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like if the concerns are not resolved.
+
 The C-M-A document also discussed a possible divestiture of Figma Design and said that remedy would be substantially similar to prohibition while introducing additional risks.
 
 The pressure was real.
@@ -240,6 +243,8 @@ In their submissions to the C-M-A, the companies argued that their products and 
 They argued that the transaction would be pro-competitive.
 
 And they strongly disagreed with the provisional findings.
+
+That counter-position belongs in the film for a simple reason: neither the U-K nor the E-U process reached a final merits decision. The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns.
 
 By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns.
 
@@ -307,6 +312,8 @@ Adobe later disclosed that it used cash on hand.
 
 Figma later disclosed that it received the same one-billion-dollar payment.
 
+Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract. It became an actual transfer of cash.
+
 On December seventeenth, the companies ended the merger.
 
 Three days later, the one-billion-dollar clause became cash.
@@ -339,6 +346,8 @@ Figma recorded the payment in other income.
 
 Those are separate categories.
 
+The accounting records make the distinction concrete. Adobe treated the fee as an expense. Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.
+
 Adobe did not spend twenty-one billion dollars on Figma.
 
 One number described a purchase that never happened.
@@ -350,6 +359,8 @@ That is the billion-dollar cost at the center of this story.
 The failed acquisition did not end Figma's story.
 
 Figma remained independent.
+
+And because Figma later became a public company, the post-deal record became unusually transparent. Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
 
 In July twenty twenty-five, the company filed to go public.
 
@@ -410,7 +421,7 @@ The clearest billion-dollar consequence of the failed acquisition was a clause t
 That is what it cost.
 
 ## Spend gate — NOT SPOKEN
-No job may be submitted until the owner explicitly approves:
+Do not submit until owner explicitly approves:
 - **4 Harrison jobs**
 - **text2speech_v2 + ElevenLabs**
-- **36.80 credits total planned spend**
+- **44.40 credits planned total**
