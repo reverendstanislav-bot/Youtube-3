@@ -3,7 +3,7 @@
 Status: **PASS / GO**
 Date: **2026-09-25**
 Topic ID: **T008**
-Working title: **Adobe's Failed Figma Deal Cost $1 Billion**
+Working title: **Adobe’s Failed Figma Deal Cost $1 Billion**
 
 ## Qualification result
 
@@ -88,7 +88,7 @@ Competition score is therefore good, not perfect.
 
 ## Recommended working title family
 Canonical working title:
-**Adobe's Failed Figma Deal Cost $1 Billion**
+**Adobe’s Failed Figma Deal Cost $1 Billion**
 
 Strong alternate:
 **Adobe Paid $1 Billion for a Deal That Never Happened**

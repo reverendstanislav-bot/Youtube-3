@@ -19,7 +19,7 @@ Important:
 | # | Topic ID | Company / Creator | Working angle | Pillar | Status |
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
-| 02 | T008 | Adobe / Figma | **Adobe's Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
+| 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
 | 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |

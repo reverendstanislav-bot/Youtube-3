@@ -1,7 +1,7 @@
 # VIDEO 002 — Brief
 
 ## Working title
-Adobe's Failed Figma Deal Cost $1 Billion
+Adobe’s Failed Figma Deal Cost $1 Billion
 
 ## Subject / entities
 - Adobe Inc.
@@ -37,7 +37,7 @@ Adobe paid $1 billion without acquiring Figma. Figma remained independent, later
 The core event is evergreen, but the story became stronger after Figma's 2025 IPO and subsequent public-company filings made the post-deal outcome and accounting record easier to verify from primary sources.
 
 ## Packaging hypotheses
-1. **Adobe's Failed Figma Deal Cost $1 Billion**
+1. **Adobe’s Failed Figma Deal Cost $1 Billion**
 2. **Adobe Paid $1 Billion for a Deal That Never Happened**
 3. **The $20 Billion Deal That Cost Adobe $1 Billion to Walk Away**
 

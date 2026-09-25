@@ -1,7 +1,7 @@
 # VIDEO 002 — State
 
 ## Goal
-Adobe's Failed Figma Deal Cost $1 Billion
+Adobe’s Failed Figma Deal Cost $1 Billion
 
 ## Current
 - Status: READY_FOR_RESEARCH
