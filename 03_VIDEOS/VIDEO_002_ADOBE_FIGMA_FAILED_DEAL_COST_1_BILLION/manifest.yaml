@@ -1,0 +1,96 @@
+schema_version: "1.0"
+video_id: "002"
+slug: "ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION"
+title: "Adobe's Failed Figma Deal Cost $1 Billion"
+pillar: "DEAL_CONTRACT"
+priority: "2"
+status: "READY_FOR_RESEARCH"
+created: "2026-09-25"
+last_updated: "2026-09-25"
+current_stage: "01_EVIDENCE_RESEARCH"
+next_action: "Stage 01 Evidence Research: build primary-source evidence pack, claims ledger and event ledger"
+blockers: []
+
+stages:
+  stage_00_topic_qualification: "PASS"
+  stage_01_evidence_research: "NOT_STARTED"
+  stage_02_case_story_map: "NOT_STARTED"
+  stage_03_script_v1: "NOT_STARTED"
+  stage_04_fact_legal_review: "NOT_STARTED"
+  stage_05_script_revision: "NOT_STARTED"
+  stage_06_performance_review: "NOT_STARTED"
+  stage_07_script_lock: "NOT_STARTED"
+  stage_08_voice_script: "NOT_STARTED"
+  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_10_audio_master: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "NOT_STARTED"
+  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_14_graphics_documents_music_sfx: "NOT_STARTED"
+  stage_15_assembly_edit: "NOT_STARTED"
+  stage_16_final_fact_legal_refresh: "NOT_STARTED"
+  stage_17_packaging: "NOT_STARTED"
+  stage_18_upload_prepublication: "NOT_STARTED"
+  stage_19_post_publish_analytics: "NOT_STARTED"
+
+locks:
+  topic_qualified: true
+  evidence_research: false
+  case_story_map: false
+  final_script: false
+  voice_input: false
+  audio_master: false
+  visual_timeline: false
+  visual_assets: false
+  edit_master: false
+  final_fact_legal_refresh: false
+  packaging: false
+  release_ready: false
+
+evidence:
+  source_index: "SOURCE_INDEX.csv"
+  claims_ledger: "CLAIMS_LEDGER.csv"
+  case_event_ledger: "CASE_EVENT_LEDGER.csv"
+  last_case_status_refresh: "2026-09-25"
+  unresolved_material_claims: 0
+
+voice:
+  channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
+  voice_id_or_preset: "Harrison | preset | 573e5163-59b3-4926-aab1-951ef2985f81"
+
+audio:
+  runtime_sec: ""
+  file_or_uri: ""
+  checksum: ""
+
+shorts:
+  required: true
+  architecture_status: "NOT_STARTED"
+  target_count: "6-10"
+  extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
+  stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
+  stage_03_map: "03_SHORTS_MAP.csv"
+  stage_07_lock: "07_SHORTS_LOCK.csv"
+  stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
+  audio_source: "FINAL_AUDIO_MASTER"
+  vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
+
+assets:
+  manifest: "ASSET_MANIFEST.csv"
+  external_storage_root: ""
+
+qa:
+  topic: "PASS"
+  research: "NOT_RUN"
+  fact_legal: "NOT_RUN"
+  performance: "NOT_RUN"
+  visual: "NOT_RUN"
+  edit: "NOT_RUN"
+  final_refresh: "NOT_RUN"
+  packaging: "NOT_RUN"
+  prepublication: "NOT_RUN"
+
+publish:
+  scheduled_at: ""
+  published_at: ""
+  youtube_url: ""

@@ -1,0 +1,2 @@
+short_id,status,working_title,start_timecode,end_timecode,duration_sec,section_range,beat_ids,gfx_ids,claim_ids,hook,payoff,first_line,last_line,extraction_rule,audio_source,vertical_rule,legal_review
+SH01,NOT_TIMED,,,,,,,,,,,,,CONTIGUOUS_NO_REWRITE_NO_REORDER,FINAL_AUDIO_MASTER,SAME_AUDIO_AND_STORY_9X16_REFRAME_ONLY,REQUIRED_IN_ISOLATION

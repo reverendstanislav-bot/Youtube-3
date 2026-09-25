@@ -9,8 +9,9 @@ This file is the canonical launch-slate record for WHAT IT COST.
 Important:
 - Slots 1–5 are owner-approved and locked.
 - Slots 6–10 are not final yet.
-- Every topic still has to pass Stage 00 before package creation. T007 has passed.
-- VIDEO_001 now exists because T007 passed Stage 00.
+- Every topic still has to pass Stage 00 before package creation. T007 and T008 have passed.
+- VIDEO_001 exists because T007 passed Stage 00.
+- VIDEO_002 exists because T008 passed Stage 00 on 2026-09-25 (GO — 93/100).
 - PSA is no longer part of Launch 5 and has moved to reserve.
 
 ## Locked Launch 5
@@ -18,7 +19,7 @@ Important:
 | # | Topic ID | Company / Creator | Working angle | Pillar | Status |
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
-| 02 | T008 | Adobe / Figma | **Adobe's Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED |
+| 02 | T008 | Adobe / Figma | **Adobe's Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
 | 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
@@ -102,11 +103,11 @@ Slots 6–10 remain editable.
 
 ## Next gate
 
-**VIDEO_001 — eBay**
+**VIDEO_002 — Adobe / Figma**
 
-Stage 00 result: **GO — 91/100**
+Stage 00 result: **GO — 93/100**
 
 Next action:
 Begin Stage 01 Evidence Research and populate the evidence ledgers.
 
-Voice remains intentionally deferred until Script #1 is locked.
+Voice remains channel-locked to Harrison; no TTS/audio generation is authorized at this stage.
