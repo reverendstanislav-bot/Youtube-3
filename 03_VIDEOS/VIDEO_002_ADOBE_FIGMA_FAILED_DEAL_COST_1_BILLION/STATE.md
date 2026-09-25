@@ -62,15 +62,26 @@ VIDEO 002 planning placeholder:
 
 ## Harrison preflight
 - Stage 08 Voice Script: **PASS**
-- Stage 09 pre-generation QA: **PASS / WAITING OWNER APPROVAL**
+- Stage 09 Voice QA + Production: **PASS — 4/4 source jobs complete**
 - Jobs: **4**
 - Exact spoken characters: **14,759**
 - Exact spoken words: **2,185**
 - Planned Harrison cost: **44.40 credits**
-- TTS generation: **NOT AUTHORIZED / NOT RUN**
+- TTS generation: **COMPLETE — 44.40 credits consumed / 0 retries**
+
+## Harrison production result
+- Part A: `0b948be1-ad0f-4c4f-999f-45523b4fa791` — 230.034 sec
+- Part B: `af0f4549-72c1-4730-8891-8df06d2920af` — 189.153 sec
+- Part C: `2842d972-f1db-4231-8dc1-c418d69ef3d4` — 242.364 sec
+- Part D: `cbf8e230-da8b-4d1a-8bcc-004b70b6bad2` — 276.924 sec
+- Raw source sum: **938.475 sec / 15:38.475**
+- Technical + ASR QC: **PASS**
+- Paid retries: **0**
 
 ## Next action
-Owner approval required for exactly **4 Harrison / text2speech_v2 + ElevenLabs jobs at 44.40 credits total**.
+**Stage 10 Audio Master — NOT STARTED**
+
+Deterministically assemble the four locked source jobs; no paid generation is required for normal assembly.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

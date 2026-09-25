@@ -7,8 +7,8 @@ priority: "2"
 status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
-current_stage: "09_VOICE_QA_LOCK"
-next_action: "Owner approval required for 4 Harrison TTS jobs; no generation before explicit approval"
+current_stage: "10_AUDIO_MASTER"
+next_action: "Stage 10 Audio Master — assemble the 4 locked Harrison source jobs deterministically; do not start without owner instruction"
 blockers: []
 
 stages:
@@ -21,7 +21,7 @@ stages:
   stage_06_performance_review: "PASS"
   stage_07_script_lock: "PASS"
   stage_08_voice_script: "PASS"
-  stage_09_voice_qa_lock: "WAITING_OWNER_APPROVAL"
+  stage_09_voice_qa_lock: "PASS"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"

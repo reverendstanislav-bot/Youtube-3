@@ -22,3 +22,5 @@
 | 2026-09-25 | runtime QA | v12 | Pre-TTS audit caught 1,805-word underlength lock (~13.4 min); reopened Stage07 and expanded only source-backed context | Meet 16–18 min film target before paid TTS | FIXED |
 | 2026-09-25 | script lock | v13 | Stage07 R2 locked at 2185 spoken words (~16.22 min at VIDEO001 Harrison pace); Shorts ranges refreshed | Canonical runtime-corrected narration | PASS |
 | 2026-09-25 | voice prep | v13 | Harrison preflight recalculated on R2: 14759 chars / 4 jobs / 44.40 credits | Exact spend gate before TTS | WAITING_OWNER_APPROVAL |
+| 2026-09-25 | voice production | v14 | Owner-approved 4 Harrison text2speech_v2/ElevenLabs jobs submitted and completed for exactly 44.40 credits | Produce canonical source narration | PASS |
+| 2026-09-25 | voice QA | v14 | 4/4 MP3s decoded; levels matched; dual-ASR checked critical money/legal/IPO language; no retry submitted | Lock source audio before master assembly | PASS |
