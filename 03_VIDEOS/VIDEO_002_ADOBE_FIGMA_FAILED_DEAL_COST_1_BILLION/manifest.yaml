@@ -78,6 +78,9 @@ shorts:
 assets:
   manifest: "ASSET_MANIFEST.csv"
   external_storage_root: ""
+  stage_01b_real_visual_source_manifest: "01B_REAL_VISUAL_SOURCE_MANIFEST.csv"
+  stage_01b_real_visual_source_count: "74"
+  stage_01b_status: "PASS"
 
 qa:
   topic: "PASS"

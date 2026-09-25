@@ -9,3 +9,5 @@
 | 2026-09-25 | legal/contract | v02 | Locked provisional-vs-final regulator status and contractual $1B liquidated-damages characterization | Prevent fine/block/order overstatement | PASS |
 | 2026-09-25 | story map | v03 | Stage 02 locked 13-beat narrative order, 18-row narrative timeline and 8 contiguous Shorts units | Convert verified research into retention-oriented documentary structure without false causality | PASS |
 | 2026-09-25 | story/legal | v03 | Locked main reveal around June 19 → July 5 → July 20 negotiation chronology and preserved provisional/final regulator distinctions | Make $1B contractual mechanism the story engine rather than an antitrust lecture | PASS |
+| 2026-09-25 | visual research | v04 | Stage 01B built a 74-asset real visual source pool: 24 real photos, 22 product/UI assets, 18 documents and 10 context assets | Prevent document-heavy edit and minimize later generation | PASS |
+| 2026-09-25 | rights | v04 | Classified every Stage 01B asset as YES_CLEAR / YES_AUTHENTIC / YES_EDITORIAL / HOLD_RIGHTS | Prevent copyrighted company imagery from being mistaken for freely licensed stock | PASS |

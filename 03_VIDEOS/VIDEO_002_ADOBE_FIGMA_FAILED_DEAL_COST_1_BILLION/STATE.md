@@ -60,6 +60,19 @@ Stage 02 locks **8** contiguous future Shorts units.
 
 Stage 03 must preserve them as uninterrupted long-form blocks and map their exact paragraph ranges in `03_SHORTS_MAP.csv`.
 
+## Stage 01B — Real Visual Source Collection
+- Status: **PASS / SOURCE POOL LOCKED**
+- Candidate assets: **74**
+- REAL-PHOTO: **24**
+- PRODUCT-UI: **22**
+- DOCUMENT: **18**
+- CONTEXT: **10**
+- Paid/image/video generation used: **NONE**
+- Canonical files:
+  - `01B_REAL_VISUAL_SOURCE_COLLECTION.md`
+  - `01B_REAL_VISUAL_SOURCE_MANIFEST.csv`
+  - `01B_VISUAL_RIGHTS_NOTES.md`
+
 ## Next action
 **Stage 03 Script V1 — NOT STARTED**
 
