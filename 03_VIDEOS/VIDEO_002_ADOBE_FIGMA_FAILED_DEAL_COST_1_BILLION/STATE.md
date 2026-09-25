@@ -67,7 +67,9 @@ Stage 03 must preserve them as uninterrupted long-form blocks and map their exac
 - PRODUCT-UI: **22**
 - DOCUMENT: **18**
 - CONTEXT: **10**
-- Paid/image/video generation used: **NONE**
+- Paid/image/video generation used in Stage 01B: **NONE**
+- Production-model reference from VIDEO 001: **97 generated / 6 editor-build / 12 GFX across 115 beats**
+- VIDEO 002 planning expectation: **generation count will be near the final beat count; exact number waits for Stage 11/12**
 - Canonical files:
   - `01B_REAL_VISUAL_SOURCE_COLLECTION.md`
   - `01B_REAL_VISUAL_SOURCE_MANIFEST.csv`
