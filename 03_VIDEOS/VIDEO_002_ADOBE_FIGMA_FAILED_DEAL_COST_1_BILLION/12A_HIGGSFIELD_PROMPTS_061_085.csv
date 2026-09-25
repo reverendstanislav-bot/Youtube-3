@@ -1,0 +1,401 @@
+generation_slot,beat_id,section,start,end,frame_family,editor_overlay,generated_text_policy,factual_reference_ids,safe_attach_ids,reference_only_ids,composition_variant,legal_guardrail,subtitle_safe,final_prompt,status
+G061,B084,S10,719.220,725.420,T04_PAYMENT_CONSEQUENCE,THE DEAL DISAPPEARED. THE FEE DIDN'T.,NONE_EDITOR_OVERLAY_ONLY,RV062;RV063,,RV062;RV063,V1,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G061 / B084 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE DEAL DISAPPEARED. THE FEE DIDN'T.""
+VOICE CONTEXT: ""The acquisition disappeared. The termination fee did not. And the payment did not come from a regulator's invoice.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Acquisition folder recedes/desaturates while termination-fee tab remains sharp in foreground.
+SOURCE REFERENCES: RV062; RV063.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV062; RV063.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Left-heavy editor-title zone; dominant source-backed object right; one secondary paper layer; restrained red rule. Acquisition folder recedes/desaturates while termination-fee tab remains sharp in foreground.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G062,B085,S10,726.300,729.080,T04_PAYMENT_CONSEQUENCE,"THE CONTRACT, NOT A REGULATOR",NONE_EDITOR_OVERLAY_ONLY,RV062,,RV062,V2,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G062 / B085 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE CONTRACT, NOT A REGULATOR""
+VOICE CONTEXT: ""It came from a contract the companies had negotiated themselves.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Central contract folder is origin of payment path; regulator papers remain background context only.
+SOURCE REFERENCES: RV062.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV062.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Upper-right hero source object; smaller upper-left support layer; wide center negative space. Central contract folder is origin of payment path; regulator papers remain background context only.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G063,B087,S11,739.440,749.260,T04_MONEY_ACCOUNTING,THE PURCHASE NEVER HAPPENED,NONE_EDITOR_OVERLAY_ONLY,RV047;RV063,,RV047;RV063,V3,"~$20B is proposed consideration, not money Adobe paid. $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G063 / B087 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE PURCHASE NEVER HAPPENED""
+VOICE CONTEXT: ""That was the amount associated with the deal Adobe wanted to close. Because the acquisition never closed, Adobe did not pay Figma twenty billion dollars to buy the company.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Proposed acquisition folder greyed and receding while separate actual-payment ledger remains present; no fake cancellation stamp.
+SOURCE REFERENCES: RV047; RV063.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV047; RV063.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Centered tactile folder/paper architecture with asymmetric source card and one narrow red tab. Proposed acquisition folder greyed and receding while separate actual-payment ledger remains present; no fake cancellation stamp.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: ~$20B is proposed consideration, not money Adobe paid. $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G064,B088,S11,750.260,760.640,T04_MONEY_ACCOUNTING,THE PAYMENT WAS REAL,NONE_EDITOR_OVERLAY_ONLY,RV063;RV064,,RV063;RV064,V4,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G064 / B088 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE PAYMENT WAS REAL""
+VOICE CONTEXT: ""One billion dollars was the actual termination payment. Adobe paid it. Figma received it. Adobe later recorded the one-billion-dollar fee in operating expenses.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Adobe 10-K and Figma filing source cards mirror each other around editor amount zone.
+SOURCE REFERENCES: RV063; RV064.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV063; RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Diagonal editorial paper stack upper-left to center-right; source inset remains clearly photographic. Adobe 10-K and Figma filing source cards mirror each other around editor amount zone.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G065,B089,S11,761.480,771.080,T04_MONEY_ACCOUNTING,EXPENSE VS INCOME,NONE_EDITOR_OVERLAY_ONLY,RV063;RV064,,RV063;RV064,V5,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G065 / B089 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""EXPENSE VS INCOME""
+VOICE CONTEXT: ""Figma recorded the payment in other income. Those are separate categories. The accounting records make the distinction concrete. Adobe treated the fee as an expense.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Split accounting composition with Adobe expense ledger and Figma other-income ledger; source filings remain separate.
+SOURCE REFERENCES: RV063; RV064.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV063; RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Two-sided dossier composition with controlled central gap; one red connector/tab; never a grid. Split accounting composition with Adobe expense ledger and Figma other-income ledger; source filings remain separate.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G066,B090,S11,771.980,780.040,T04_MONEY_ACCOUNTING,PROPOSED ≠ PAID,NONE_EDITOR_OVERLAY_ONLY,RV063;RV064,,RV063;RV064,V1,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G066 / B090 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""PROPOSED ≠ PAID""
+VOICE CONTEXT: ""Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Two independent paper ledgers for proposed acquisition consideration and actual termination payment; large gap prevents summation.
+SOURCE REFERENCES: RV063; RV064.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV063; RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Left-heavy editor-title zone; dominant source-backed object right; one secondary paper layer; restrained red rule. Two independent paper ledgers for proposed acquisition consideration and actual termination payment; large gap prevents summation.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G067,B092,S11,791.260,794.660,T04_MONEY_ACCOUNTING,THE BILLION-DOLLAR COST,NONE_EDITOR_OVERLAY_ONLY,RV063;RV064,,RV063;RV064,V2,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G067 / B092 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE BILLION-DOLLAR COST""
+VOICE CONTEXT: ""That is the billion-dollar cost at the center of this story.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: One termination-fee dossier card centered between subtle Adobe and Figma identifiers with strong negative space.
+SOURCE REFERENCES: RV063; RV064.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV063; RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Upper-right hero source object; smaller upper-left support layer; wide center negative space. One termination-fee dossier card centered between subtle Adobe and Figma identifiers with strong negative space.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G068,B093,S12,795.320,806.320,T07_IPO_AFTERMATH,FIGMA STAYS INDEPENDENT,NONE_EDITOR_OVERLAY_ONLY,RV018;RV019,RV018;RV019,,V3,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G068 / B093 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""FIGMA STAYS INDEPENDENT""
+VOICE CONTEXT: ""The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Unchanged Figma IPO-era source imagery as hero while abandoned Adobe deal folder sits faded and separate behind it.
+SOURCE REFERENCES: RV018; RV019.
+SAFE ATTACHMENTS AFTER PREP: RV018; RV019.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Centered tactile folder/paper architecture with asymmetric source card and one narrow red tab. Unchanged Figma IPO-era source imagery as hero while abandoned Adobe deal folder sits faded and separate behind it.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G069,B094,S12,807.320,816.060,T07_IPO_AFTERMATH,THE PAYMENT ENTERS FIGMA'S HISTORY,NONE_EDITOR_OVERLAY_ONLY,RV064;RV072,RV072,RV064,V4,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. IPO chronology only; no causation from $1B payment.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G069 / B094 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE PAYMENT ENTERS FIGMA'S HISTORY""
+VOICE CONTEXT: ""Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Figma filing context and IPO event photo layered together with small prior-Adobe-deal tab; no causal arrow.
+SOURCE REFERENCES: RV064; RV072.
+SAFE ATTACHMENTS AFTER PREP: RV072.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Diagonal editorial paper stack upper-left to center-right; source inset remains clearly photographic. Figma filing context and IPO event photo layered together with small prior-Adobe-deal tab; no causal arrow.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G070,B095,S12,816.720,825.800,T07_IPO_AFTERMATH,FIGMA GOES PUBLIC,NONE_EDITOR_OVERLAY_ONLY,RV019;RV023;RV072,RV019;RV023;RV072,,V5,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G070 / B095 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""FIGMA GOES PUBLIC""
+VOICE CONTEXT: ""In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Authentic Figma/NYSE event imagery as hero source panel with secondary IPO-filing card.
+SOURCE REFERENCES: RV019; RV023; RV072.
+SAFE ATTACHMENTS AFTER PREP: RV019; RV023; RV072.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Two-sided dossier composition with controlled central gap; one red connector/tab; never a grid. Authentic Figma/NYSE event imagery as hero source panel with secondary IPO-filing card.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G071,B096,S12,825.800,831.820,T07_IPO_AFTERMATH,IPO SHARE SALE,NONE_EDITOR_OVERLAY_ONLY,RV071;RV072;RV018,RV071;RV072;RV018,,V1,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G071 / B096 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""IPO SHARE SALE""
+VOICE CONTEXT: ""The company sold twelve-point-five million of its own shares at thirty-three dollars per share.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Authentic IPO/Figma imagery with clean upper editor-number zone for share count and price; no model-generated numerals.
+SOURCE REFERENCES: RV071; RV072; RV018.
+SAFE ATTACHMENTS AFTER PREP: RV071; RV072; RV018.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Left-heavy editor-title zone; dominant source-backed object right; one secondary paper layer; restrained red rule. Authentic IPO/Figma imagery with clean upper editor-number zone for share count and price; no model-generated numerals.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G072,B097,S12,832.560,839.860,T07_IPO_AFTERMATH,NET PROCEEDS,NONE_EDITOR_OVERLAY_ONLY,RV064;RV019,RV019,RV064,V2,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G072 / B097 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""NET PROCEEDS""
+VOICE CONTEXT: ""Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: IPO filing/source card and restrained ledger-receipt block with exact proceeds reserved for editor typography.
+SOURCE REFERENCES: RV064; RV019.
+SAFE ATTACHMENTS AFTER PREP: RV019.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Upper-right hero source object; smaller upper-left support layer; wide center negative space. IPO filing/source card and restrained ledger-receipt block with exact proceeds reserved for editor typography.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G073,B098,S12,840.620,845.000,T07_IPO_AFTERMATH,LATER SUCCESS ≠ PROVEN CAUSE,NONE_EDITOR_OVERLAY_ONLY,RV018;RV021,RV018;RV021,,V3,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G073 / B098 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""LATER SUCCESS ≠ PROVEN CAUSE""
+VOICE CONTEXT: ""That later success should not be turned into a causal claim the record does not support.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: IPO imagery separated from earlier termination-fee folder by visibly broken non-causal connector; no causal arrow.
+SOURCE REFERENCES: RV018; RV021.
+SAFE ATTACHMENTS AFTER PREP: RV018; RV021.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Centered tactile folder/paper architecture with asymmetric source card and one narrow red tab. IPO imagery separated from earlier termination-fee folder by visibly broken non-causal connector; no causal arrow.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G074,B099,S12,845.680,855.320,T07_IPO_AFTERMATH,NO PROVEN IPO CAUSATION,NONE_EDITOR_OVERLAY_ONLY,RV071;RV072;RV064,RV071;RV072,RV064,V4,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. IPO chronology only; no causation from $1B payment.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G074 / B099 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""NO PROVEN IPO CAUSATION""
+VOICE CONTEXT: ""The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Termination-payment paper and IPO pricing/filing card sit opposite with no directional arrow; reserve editor caveat zone.
+SOURCE REFERENCES: RV071; RV072; RV064.
+SAFE ATTACHMENTS AFTER PREP: RV071; RV072.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV064.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Diagonal editorial paper stack upper-left to center-right; source inset remains clearly photographic. Termination-payment paper and IPO pricing/filing card sit opposite with no directional arrow; reserve editor caveat zone.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G075,B100,S12,856.100,862.760,T07_IPO_AFTERMATH,ADOBE DID NOT ACQUIRE FIGMA,NONE_EDITOR_OVERLAY_ONLY,RV018;RV019,RV018;RV019,,V5,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G075 / B100 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""ADOBE DID NOT ACQUIRE FIGMA""
+VOICE CONTEXT: ""What the record does establish is simpler. Adobe did not acquire Figma. Figma remained independent.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Figma independent-company/IPO source imagery stands alone as hero; Adobe deal material outside main hierarchy.
+SOURCE REFERENCES: RV018; RV019.
+SAFE ATTACHMENTS AFTER PREP: RV018; RV019.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Two-sided dossier composition with controlled central gap; one red connector/tab; never a grid. Figma independent-company/IPO source imagery stands alone as hero; Adobe deal material outside main hierarchy.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G076,B101,S12,863.300,867.660,T07_IPO_AFTERMATH,PUBLIC COMPANY,NONE_EDITOR_OVERLAY_ONLY,RV019;RV023,RV019;RV023,,V1,IPO chronology only; no causation from $1B payment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G076 / B101 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""PUBLIC COMPANY""
+VOICE CONTEXT: ""And less than two years after receiving the termination fee, it became a public company.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Authentic Figma/NYSE event frame dominates with restrained paper mat and one market-entry tab; no valuation claim.
+SOURCE REFERENCES: RV019; RV023.
+SAFE ATTACHMENTS AFTER PREP: RV019; RV023.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: NONE.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Left-heavy editor-title zone; dominant source-backed object right; one secondary paper layer; restrained red rule. Authentic Figma/NYSE event frame dominates with restrained paper mat and one market-entry tab; no valuation claim.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: IPO chronology only; no causation from $1B payment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G077,B102,S13,868.540,877.080,T07_FINAL_CONSEQUENCE,UPSIDE / DOWNSIDE,NONE_EDITOR_OVERLAY_ONLY,RV047;RV049;RV018,RV018,RV047;RV049,V2,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G077 / B102 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""UPSIDE / DOWNSIDE""
+VOICE CONTEXT: ""At the beginning, Adobe and Figma negotiated the upside. A roughly twenty-billion-dollar acquisition. But they also negotiated the downside.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Return to original deal architecture: acquisition folder for upside and reverse-fee clause tab for downside.
+SOURCE REFERENCES: RV047; RV049; RV018.
+SAFE ATTACHMENTS AFTER PREP: RV018.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV047; RV049.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Upper-right hero source object; smaller upper-left support layer; wide center negative space. Return to original deal architecture: acquisition folder for upside and reverse-fee clause tab for downside.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G078,B103,S13,878.080,887.580,T07_FINAL_CONSEQUENCE,THE RISK WAS PRICED,NONE_EDITOR_OVERLAY_ONLY,RV049,,RV049,V3,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G078 / B103 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THE RISK WAS PRICED""
+VOICE CONTEXT: ""What would happen if the required regulatory clearance could not be obtained under the terms of the deal? That risk became a one-billion-dollar reverse termination fee.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Contract architecture with one red risk line terminating at reverse-fee clause tab; no regulator as cost source.
+SOURCE REFERENCES: RV049.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV049.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Centered tactile folder/paper architecture with asymmetric source card and one narrow red tab. Contract architecture with one red risk line terminating at reverse-fee clause tab; no regulator as cost source.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G079,B104,S13,888.180,895.900,T07_FINAL_CONSEQUENCE,REGULATORY PRESSURE BECOMES REAL,NONE_EDITOR_OVERLAY_ONLY,RV056;RV057,,RV056;RV057,V4,CMA provisional/possible and EC preliminary; no final UK/EU prohibition.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G079 / B104 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""REGULATORY PRESSURE BECOMES REAL""
+VOICE CONTEXT: ""Then the regulatory pressure became real. The UK CMA published provisional competition concerns and possible remedies.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: CMA provisional/remedies papers stack forward while final-order position remains absent.
+SOURCE REFERENCES: RV056; RV057.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV056; RV057.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Diagonal editorial paper stack upper-left to center-right; source inset remains clearly photographic. CMA provisional/remedies papers stack forward while final-order position remains absent.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G080,B105,S13,896.860,904.940,T07_FINAL_CONSEQUENCE,THREE FRONTS,NONE_EDITOR_OVERLAY_ONLY,RV059;RV060;RV058,,RV059;RV060;RV058,V5,CMA provisional/possible and EC preliminary; no final UK/EU prohibition. DOJ investigation/post-abandonment posture; no blocking lawsuit or judgment.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G080 / B105 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""THREE FRONTS""
+VOICE CONTEXT: ""The European Commission sent preliminary objections. The Justice Department investigated. Adobe and Figma disputed the regulators' analysis.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: UK, EU and U.S. source-context cards surround central Adobe/Figma deal dossier; company-response paper balances regulator stack.
+SOURCE REFERENCES: RV059; RV060; RV058.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV059; RV060; RV058.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Two-sided dossier composition with controlled central gap; one red connector/tab; never a grid. UK, EU and U.S. source-context cards surround central Adobe/Figma deal dossier; company-response paper balances regulator stack.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: CMA provisional/possible and EC preliminary; no final UK/EU prohibition. DOJ investigation/post-abandonment posture; no blocking lawsuit or judgment.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G081,B106,S13,904.940,912.140,T07_FINAL_CONSEQUENCE,NO CLEAR PATH,NONE_EDITOR_OVERLAY_ONLY,RV061;RV062,,RV061;RV062,V1,CMA provisional/possible and EC preliminary; no final UK/EU prohibition.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G081 / B106 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""NO CLEAR PATH""
+VOICE CONTEXT: ""But by December twenty twenty-three, the companies said they no longer saw a clear path to the approvals they needed.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Regulatory approval path narrows and ends before closing folder; termination-era sources ground stated rationale.
+SOURCE REFERENCES: RV061; RV062.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV061; RV062.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Left-heavy editor-title zone; dominant source-backed object right; one secondary paper layer; restrained red rule. Regulatory approval path narrows and ends before closing folder; termination-era sources ground stated rationale.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G082,B107,S13,912.980,922.480,T07_FINAL_CONSEQUENCE,TERMINATION → PAYMENT,NONE_EDITOR_OVERLAY_ONLY,RV061;RV063,,RV061;RV063,V2,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G082 / B107 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""TERMINATION → PAYMENT""
+VOICE CONTEXT: ""So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Mutual-termination document leads directly to Adobe payment-confirmation filing with one restrained red arrow.
+SOURCE REFERENCES: RV061; RV063.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV061; RV063.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Upper-right hero source object; smaller upper-left support layer; wide center negative space. Mutual-termination document leads directly to Adobe payment-confirmation filing with one restrained red arrow.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G083,B108,S13,923.380,929.500,T07_FINAL_CONSEQUENCE,NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE,NONE_EDITOR_OVERLAY_ONLY,RV049;RV061,,RV049;RV061,V3,CMA provisional/possible and EC preliminary; no final UK/EU prohibition.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G083 / B108 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE""
+VOICE CONTEXT: ""dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Central reverse-fee contract card with three disqualified-category spaces; no court/regulator/completed-acquisition as payment source.
+SOURCE REFERENCES: RV049; RV061.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV049; RV061.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Centered tactile folder/paper architecture with asymmetric source card and one narrow red tab. Central reverse-fee contract card with three disqualified-category spaces; no court/regulator/completed-acquisition as payment source.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G084,B109,S13,929.500,938.180,T07_FINAL_CONSEQUENCE,NEGOTIATED BEFORE THE FIGHT,NONE_EDITOR_OVERLAY_ONLY,RV049;RV050,,RV049;RV050,V4,"$1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.",BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G084 / B109 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""NEGOTIATED BEFORE THE FIGHT""
+VOICE CONTEXT: ""The clearest billion-dollar consequence of the failed acquisition was a clause the two companies had negotiated before the regulatory fight really began.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: June/July negotiation record sharp in foreground while later UK/EU review material sits softer behind.
+SOURCE REFERENCES: RV049; RV050.
+SAFE ATTACHMENTS AFTER PREP: NONE.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV049; RV050.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Diagonal editorial paper stack upper-left to center-right; source inset remains clearly photographic. June/July negotiation record sharp in foreground while later UK/EU review material sits softer behind.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: $1B is contractual termination fee/liquidated damages, not government fine, court award or regulator invoice. CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND
+G085,B110,S13,939.140,940.140,T07_FINAL_CONSEQUENCE,WHAT IT COST,NONE_EDITOR_OVERLAY_ONLY,RV049;RV065;RV066,RV065;RV066,RV049,V5,CMA provisional/possible and EC preliminary; no final UK/EU prohibition.,BOTTOM_22_PERCENT_CLEAR,"FINAL VIDEO FRAME — G085 / B110 — 16:9 WHAT IT COST
+SCENE PURPOSE / EDITOR OVERLAY: ""WHAT IT COST""
+VOICE CONTEXT: ""That is what it cost.""
+MODEL TEXT POLICY — HARD: generate NO new readable text, numerals, logos, seals, signatures, labels, dates, amounts or pseudo-document writing. Exact overlay is added later in locked Bebas Neue / Inter typography. Authentic source text may appear only inside an unchanged source crop.
+VISUAL IDEA: Minimal final frame: warm merger-agreement paper edge, small unchanged Adobe/Figma identifiers, deep charcoal field and restrained red underline zone.
+SOURCE REFERENCES: RV049; RV065; RV066.
+SAFE ATTACHMENTS AFTER PREP: RV065; RV066.
+FACTUAL REFERENCE ONLY / NEVER ATTACH RAW: RV049.
+SOURCE FIDELITY: attached photo/UI must remain an unchanged photographic/screenshot element. Do not redraw a real face, fabricate an event, invent UI, or synthesize a document. Raw PDF/HTML forbidden.
+COMPOSITION: Two-sided dossier composition with controlled central gap; one red connector/tab; never a grid. Minimal final frame: warm merger-agreement paper edge, small unchanged Adobe/Figma identifiers, deep charcoal field and restrained red underline zone.
+STYLE: premium investigative business documentary; deep black/charcoal tactile field, warm paper layers, paper-white editorial zones, restrained signal-red #D32222, rare muted antique-gold hardware, realistic paper depth, subtle film grain, strong negative space. Evidence, money, power, consequence; not law-firm template or tech ad.
+NON-MONOTONY: vary at least two of focal side, crop scale, paper layering, photo/document balance, connector geometry, red-accent placement from adjacent beats.
+LEGAL / FACT LOCK: CMA provisional/possible and EC preliminary; no final UK/EU prohibition.
+SUBTITLE SAFE — HARD: bottom 22% dark and visually quiet; no face/eyes, evidence, UI, title, amount, source label, caveat, map endpoint or important connector there.
+REJECT: no horror, neon, fake courtroom, gavel/scales, money rain, fake stamps, fake document text, random redactions, dashboard/card grid, mirrored/duplicated person, cropped face, watermark, border or style-reference content leakage.
+OUTPUT: final source-styled plate; 1920×1080 composition-ready; exact editor overlay applied deterministically.",FINAL_PROMPT_LOCKED_NO_SPEND

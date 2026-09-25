@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **08_VOICE_SCRIPT — NOT STARTED**
+- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN — PASS / GENERATION BLOCKED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -57,8 +57,8 @@ VIDEO 001 precedent remains:
 - 12 final GFX
 - 115 total beats
 
-VIDEO 002 planning placeholder:
-**85–100 generated image jobs, ceiling 115; exact count waits for Harrison timing + Stage 11/12 beat map.**
+VIDEO 002 exact locked map:
+**110 beats = 85 generated + 11 authentic documents + 6 authentic UI + 8 editor GFX.**
 
 ## Harrison preflight
 - Stage 08 Voice Script: **PASS**
@@ -97,10 +97,22 @@ VIDEO 002 planning placeholder:
 - Base image generation: **85 × 0.5 = 42.5 credits**
 - Image generation performed: **0**
 
-## Next action
-**Stage 12 Visual Source / Generation Plan — NOT STARTED**
+## Stage 12 Visual Source / Generation Plan
+- Status: **PASS / PRODUCTION PACK LOCKED**
+- Final prompts: **85 / 85**
+- Authentic documents: **11 / 11 specs locked**
+- Authentic UI: **6 / 6 specs locked**
+- Editor GFX: **8 / 8 specs locked**
+- Stage01B reference assets prepared/queued: **32 unique**
+- HOLD_RIGHTS references used: **0**
+- AI-readable-text requests: **0 / 85**
+- Bottom 22% subtitle-safe lock: **85 / 85**
+- Base image spend if approved: **42.5 credits**
+- Images generated so far: **0**
+- Retries authorized: **0**
 
-Build exact prompts/reference attachments for G001–G085. No paid image generation is authorized yet.
+## Next action
+Owner approval is required before any paid Higgsfield image job. The owner may approve the full **85 jobs / 42.5 credits** or a smaller test batch.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

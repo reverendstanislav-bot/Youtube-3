@@ -28,3 +28,7 @@
 | 2026-09-25 | transcript | v16 | Forced-aligned Stage07 canonical wording to master: 2185/2185 words covered; 94.14% direct ASR matches | Prevent ASR wording errors entering captions/beat map | PASS |
 | 2026-09-25 | visual timeline | v16 | Locked 110 audio-derived beats: 85 generated / 11 documents / 6 UI / 8 editor GFX | Exact production routing before Stage12 | PASS |
 | 2026-09-25 | generation count | v16 | Replaced estimate with exact current requirement: 85 image jobs / 42.5 credits base | Establish spend gate without generating | LOCK |
+| 2026-09-25 | visual plan | v17 | Stage12 locked 85 beat-specific Higgsfield prompts across 3 batches with concrete Stage01B source bindings and zero HOLD_RIGHTS references | Make every generated beat source-grounded before spend | PASS |
+| 2026-09-25 | visual source | v17 | Locked separate packages for 11 authentic documents, 6 authentic UI beats and 8 deterministic editor GFX | Preserve exact evidence/UI/numbers outside AI recreation | PASS |
+| 2026-09-25 | prompt safety | v17 | All 85 prompts request zero generated readable text; exact overlays are deterministic editor typography; bottom 22% subtitle-safe | Reduce pseudo-text/reject/legal risk | PASS |
+| 2026-09-25 | spend gate | v17 | 85-image base scope remains 42.5 credits; Stage12 authorizes 0 jobs and 0 retries | Owner approval required before generation | LOCK |

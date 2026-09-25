@@ -1,25 +1,37 @@
-# VIDEO {{VIDEO_ID}} — 12 Visual Source / Generation Plan
+# VIDEO 002 — 12 Visual Source / Generation Plan
 
-Status: NOT_STARTED
+Status: **PASS — PRODUCTION PACK LOCKED / GENERATION BLOCKED**
+Date: 2026-09-25
 
-For every scene choose one primary class:
-- AUTHENTIC_SOURCE
-- LICENSED_OR_USABLE_CONTEXT
-- EDITOR_RECREATION
-- EDITOR_GRAPHIC
-- ILLUSTRATIVE_RECONSTRUCTION
-- GENERATED_ILLUSTRATION
+## Final coverage
+- 85 generated source-styled plates: G001–G085
+- 11 authentic document beats
+- 6 authentic product/UI beats
+- 8 deterministic editor GFX
+- 110 total timed beats
 
-## Hard rule
-A generated/recreated filing, email, contract, signature, quote, headline or screenshot may not be presented as authentic evidence.
+## Files
+Generated prompts:
+- 12A_HIGGSFIELD_PROMPTS_001_030.csv
+- 12A_HIGGSFIELD_PROMPTS_031_060.csv
+- 12A_HIGGSFIELD_PROMPTS_061_085.csv
+- 12A_REFERENCE_BINDINGS.csv
 
-Authentic source visuals must link to source IDs/provenance.
+Source prep:
+- 12A_SOURCE_PREP_QUEUE.csv
+- 12A_PROMPT_RULES.md
 
-Exact critical legal text and numbers should be editor-built from verified source content.
+Exact non-generated packages:
+- 12B_AUTHENTIC_DOCUMENT_PACKAGE.csv
+- 12C_AUTHENTIC_UI_PACKAGE.csv
+- 12D_EDITOR_GFX_PACKAGE.csv
 
-## Shorts reuse — mandatory
-For every beat that overlaps a locked Short, record:
-- `short_ids`;
-- `short_vertical_safe` strategy.
+QA:
+- 12F_PREGEN_QA.md
 
-The same underlying source/evidence/GFX must support either a direct 9:16 crop or an alternate vertical layout. Avoid making canonical Shorts depend on a separate storytelling asset set when the long-form asset can be safely recomposed.
+## Hard production model
+Generated frames carry the unified WHAT IT COST plate style but never invent material text. Exact contracts, regulator pages, UI, dates, amounts and status language stay authentic/editor-built.
+
+## Spend gate
+85 images × 0.5 = **42.5 credits** base.
+**NO GENERATION AUTHORIZED. NO RETRIES AUTHORIZED.**
