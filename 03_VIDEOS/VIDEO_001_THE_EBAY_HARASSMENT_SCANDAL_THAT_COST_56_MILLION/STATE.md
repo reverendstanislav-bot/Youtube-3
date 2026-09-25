@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
-- Current pipeline stage: 17_PACKAGING — **PASS / LAUNCH PACKAGE LOCKED**
+- Current pipeline stage: 17_PACKAGING — **OPEN / THUMBNAIL REJECTED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -585,3 +585,12 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - 10/10 Shorts receive separate Stage17 packaging titles/hooks in `17_SHORTS_PACKAGING.csv`.
 - Stage18: **NOT STARTED**.
 - Next action: await explicit owner instruction before Stage18 Upload / Prepublication Package.
+
+
+## Stage 17 thumbnail owner rejection — 2026-09-24
+- Owner rejected **all** Stage17 thumbnail concepts and the previously selected launch thumbnail.
+- TN-A / TN-B / TN-C / THUMB_FINAL_CRITICISM_TO_SECURITY are historical rejects only.
+- No thumbnail is currently canonical.
+- Existing title/description/metadata drafts remain untouched.
+- Stage17 is **REOPENED / BLOCKED ON THUMBNAIL OWNER APPROVAL**.
+- Stage18 remains **NOT STARTED**.

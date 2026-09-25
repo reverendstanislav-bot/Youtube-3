@@ -233,3 +233,10 @@
 - YouTube metadata settings and AI-use disclosure locked for Stage18.
 - 10/10 Shorts packaged separately without strengthening factual/legal claims.
 - Stage17 PASS; Stage18 NOT STARTED.
+
+## v45 — Stage 17 thumbnail rejection / packaging reopened — 2026-09-24
+- Owner rejected all Stage17 thumbnail concepts and the previously selected launch thumbnail.
+- Previous Stage17 packaging PASS is superseded.
+- Thumbnail canonical selection: NONE.
+- Title/description/metadata drafts were not changed.
+- Stage17 reopened; Stage18 remains NOT_STARTED.
