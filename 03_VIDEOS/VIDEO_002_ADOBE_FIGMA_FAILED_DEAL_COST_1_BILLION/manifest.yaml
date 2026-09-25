@@ -7,8 +7,8 @@ priority: "2"
 status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
-current_stage: "10_AUDIO_MASTER"
-next_action: "Stage 10 Audio Master — assemble the 4 locked Harrison source jobs deterministically; do not start without owner instruction"
+current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
+next_action: "Stage 12 Visual Source / Generation Plan — build exact prompts/reference attachments for G001-G085; no paid image generation without owner approval"
 blockers: []
 
 stages:
@@ -22,8 +22,8 @@ stages:
   stage_07_script_lock: "PASS"
   stage_08_voice_script: "PASS"
   stage_09_voice_qa_lock: "PASS"
-  stage_10_audio_master: "NOT_STARTED"
-  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_10_audio_master: "PASS"
+  stage_11_transcript_visual_timeline: "PASS"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
@@ -39,8 +39,8 @@ locks:
   case_story_map: true
   final_script: true
   voice_input: true
-  audio_master: false
-  visual_timeline: false
+  audio_master: true
+  visual_timeline: true
   visual_assets: false
   edit_master: false
   final_fact_legal_refresh: false
@@ -59,9 +59,9 @@ voice:
   voice_id_or_preset: "Harrison | preset | 573e5163-59b3-4926-aab1-951ef2985f81"
 
 audio:
-  runtime_sec: ""
-  file_or_uri: ""
-  checksum: ""
+  runtime_sec: "940.617"
+  file_or_uri: "https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/18843c9b-c63d-49a6-b967-6f6e134564d7.mp3"
+  checksum: "sha256:6b0da92fd9bebdab69d93fb5b30c285a2aa4d2b56d64c45638f4f2647e37d259"
 
 shorts:
   required: true

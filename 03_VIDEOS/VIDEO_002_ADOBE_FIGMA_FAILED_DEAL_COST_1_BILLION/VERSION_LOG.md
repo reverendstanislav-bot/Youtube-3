@@ -24,3 +24,7 @@
 | 2026-09-25 | voice prep | v13 | Harrison preflight recalculated on R2: 14759 chars / 4 jobs / 44.40 credits | Exact spend gate before TTS | WAITING_OWNER_APPROVAL |
 | 2026-09-25 | voice production | v14 | Owner-approved 4 Harrison text2speech_v2/ElevenLabs jobs submitted and completed for exactly 44.40 credits | Produce canonical source narration | PASS |
 | 2026-09-25 | voice QA | v14 | 4/4 MP3s decoded; levels matched; dual-ASR checked critical money/legal/IPO language; no retry submitted | Lock source audio before master assembly | PASS |
+| 2026-09-25 | audio master | v15 | Deterministically assembled A-D with three 0.75s chapter gaps; no time-stretch/padding; locked 940.617s Harrison master | Create canonical timing authority | PASS |
+| 2026-09-25 | transcript | v16 | Forced-aligned Stage07 canonical wording to master: 2185/2185 words covered; 94.14% direct ASR matches | Prevent ASR wording errors entering captions/beat map | PASS |
+| 2026-09-25 | visual timeline | v16 | Locked 110 audio-derived beats: 85 generated / 11 documents / 6 UI / 8 editor GFX | Exact production routing before Stage12 | PASS |
+| 2026-09-25 | generation count | v16 | Replaced estimate with exact current requirement: 85 image jobs / 42.5 credits base | Establish spend gate without generating | LOCK |

@@ -78,10 +78,29 @@ VIDEO 002 planning placeholder:
 - Technical + ASR QC: **PASS**
 - Paid retries: **0**
 
-## Next action
-**Stage 10 Audio Master — NOT STARTED**
+## Stage 10 Audio Master
+- Status: **PASS / LOCKED**
+- Runtime: **940.617 sec / 15:40.617**
+- Media ID: `18843c9b-c63d-49a6-b967-6f6e134564d7`
+- SHA-256: `6b0da92fd9bebdab69d93fb5b30c285a2aa4d2b56d64c45638f4f2647e37d259`
 
-Deterministically assemble the four locked source jobs; no paid generation is required for normal assembly.
+## Stage 11 Transcript + Visual Timeline
+- Status: **PASS / LOCKED**
+- Canonical timed words: **2,185 / 2,185**
+- Direct ASR alignment: **94.14%**
+- Timing-aligned tokens: **5.86%**
+- Visual beats: **110**
+- GENERATED_SOURCE_STYLED: **85**
+- AUTHENTIC_DOCUMENT: **11**
+- AUTHENTIC_PRODUCT_UI: **6**
+- EDITOR_GFX: **8**
+- Base image generation: **85 × 0.5 = 42.5 credits**
+- Image generation performed: **0**
+
+## Next action
+**Stage 12 Visual Source / Generation Plan — NOT STARTED**
+
+Build exact prompts/reference attachments for G001–G085. No paid image generation is authorized yet.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
