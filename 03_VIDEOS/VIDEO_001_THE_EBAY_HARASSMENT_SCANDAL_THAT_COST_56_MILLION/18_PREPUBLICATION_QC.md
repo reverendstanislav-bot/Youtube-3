@@ -1,113 +1,117 @@
 # VIDEO 001 — 18 Prepublication QC
 
-Status: **PASS / RELEASE_READY**
+Status: **PASS / POLICY-SAFE RELEASE_READY**
 Date: **2026-09-25**
 
 ## Final upload master
-Canonical release file is byte-identical to the owner-approved Stage15B voice-only master.
+Canonical release file:
+`VIDEO_001_UPLOAD_MASTER_1080P.mp4`
 
-- release filename: `VIDEO_001_UPLOAD_MASTER_1080P.mp4`
-- canonical source: Stage15B artifact `10817420859`
-- original file: `VIDEO_001_STAGE15B_REVIEW_V1_1080P.mp4`
-- re-encoded in Stage18: **NO**
-- SHA-256: `a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`
+Policy-safety master SHA-256:
+`512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25`
+
+Prior Stage15B master SHA-256:
+`a4626fed53d09e69cbc59e089f5490695ea7f5243dcec0f41bf7fed72156cf33`
+
+Technical:
 - H.264 / 1920×1080 / yuv420p
-- CFR: 25 fps
-- runtime: **957.370 sec**
-- locked runtime delta: **−0.044 sec**
+- nominal 25 fps
+- container runtime: **957.370 sec**
+- full decode error check: PASS
 
-## Video QC
-- black-frame detector: **0 black events >0.15 sec**
-- dense 40-frame contact-sheet review: PASS
-- long still/freeze detections correspond to the intentional held-still editorial construction and are not playback freezes
-- no missing sampled section found
-- no re-render introduced
+## Conservative YouTube policy-safety patch
+The authentic pig-mask evidence remains in the documentary because it is directly relevant to the documented harassment campaign.
 
-## Audio QC
+To reduce avoidable graphic/shocking-content and advertiser-suitability risk, only the evidence-photo color intensity was reduced on its two final-master appearances:
+- **00:09.48–00:11.16**
+- **04:44.18–04:54.22**
+
+Patch:
+- evidence-photo saturation: **65%**
+- brightness: **−1%**
+- no blur
+- no censor bar
+- no replacement image
+- no narration change
+- burned-in captions unchanged
+
+For loss-minimized patching, only video windows 00:00–00:20 and 04:40–05:00 were re-encoded; all other video ranges were stream-copied from the approved master.
+
+## Audio identity
+Final audio is copied directly from the approved Stage15B master.
+
+Decoded PCM MD5:
+- Stage15B: `9c97dfc3783e24cb0202f27233b52fd9`
+- policy-safe master: `9c97dfc3783e24cb0202f27233b52fd9`
+
+Result: **IDENTICAL AUDIO CONTENT / PASS**
+
+Audio remains:
+- Harrison narration only
+- music: NONE
+- SFX: NONE
+- ambience: NONE
 - AAC / 44.1 kHz / mono
-- canonical content: **Harrison narration only**
-- music: **NONE**
-- SFX: **NONE**
-- ambience: **NONE**
-- integrated loudness: **−16.9 LUFS**
-- true peak: **−1.1 dBFS**
-- LRA: **2.3 LU**
-- 11 natural narration pauses >1 sec; no long accidental mute detected
 
-## Captions / overlays
-Approved burned-in Stage15B caption/overlay layer retained.
+## Captions
+- burned-in WHAT IT COST captions unchanged: PASS
+- 409-cue upload SRT retained
+- positioned English WebVTT retained
+- YouTube CC positioning target remains above burned-in captions
 
-- 409 authored caption cues
-- 2151 word-highlight events
-- 0 fallback cues
-- base: `#EDEDED`
-- active word: `#D32222`
-- forbidden `100,100)}` artifact: ABSENT
-- known `i n` split: FIXED
-- source/legal/reconstruction overlays retained
-- GPS attempt / installation-not-established distinction retained
-- DPA / conviction distinction retained
-- surviving claim / liability distinction retained
-- no positive `$58.7M award` claim
+## Copyright / attribution
+Description now includes direct Wikimedia Commons source pages in addition to the required CC BY-SA 4.0 attribution/license data:
 
-A clean optional upload SRT was deterministically reconstructed from the approved ASS:
-- `VIDEO_001_CAPTIONS_UPLOAD.srt`
-- 409 cues
-- SHA-256 `036bf7b63daaf1e0c9e2683caed577f7f9f2e109a000ba65dd3851c5b49cce6e`
+Devin Wenig:
+https://commons.wikimedia.org/wiki/File:Devin_Wenig.jpg
+
+eBay headquarters 2018:
+https://commons.wikimedia.org/wiki/File:EBay_headquarters_2018.jpg
 
 ## Thumbnail
-Owner-approved Stage17 master verified byte-for-byte.
+Owner-approved SCANDAL / $56M thumbnail unchanged.
 
-- canonical master: 1672×941 PNG
-- SHA-256: `0686bb5c0476b355a179ef2a93f548c3da48bdaade0d518f7a674bab83c519f2`
-- upload derivative: 1280×720 JPG, same composition/content
-- upload JPG SHA-256: `12fb6a088e2fe997615f9f65263a36917c97bd539d3ca13deb10af35f9cd918c`
+Canonical thumbnail SHA-256:
+`0686bb5c0476b355a179ef2a93f548c3da48bdaade0d518f7a674bab83c519f2`
 
-## Metadata
-- title: **The eBay Harassment Scandal That Cost $56 Million**
-- title length: 49 / 100
-- description length: 2711 / 5000
-- manual chapters: 12
-- mandatory CC BY-SA credits: 2 / 2 present
-- altered/synthetic-content disclosure: **YES**
-- audience: **Not made for kids**
-- paid promotion: **No**
-- license: **Standard YouTube License**
-- language: **English (United States)**
-- category: **Education**
-
-## Source-link refresh
-Checked 2026-09-25:
-- DOJ eBay case page: reachable
-- GovInfo summary-judgment PDF: reachable
-- eBay final settlement statement: reachable
-- Reuters final settlement article: current/discoverable
-
-Known DOJ overview date typo (`January 2023`) remains documented; the official Jan. 11, 2024 release/DPA/docket remain controlling. No film change required.
-
-## Legal packaging gate
+## Legal / factual locks
 PASS:
-- `$56M` is ordinary rounding of the **$55.7M civil settlement package**
-- separate **$3M DPA penalty** is not added to the civil package
-- no judgment/award implication
-- no jury-verdict implication
-- no eBay-only `$56M` payment implication
+- $56M = ordinary rounding of the $55.7M civil settlement package only
+- separate $3M DPA penalty not combined
+- no $58.7M award
+- attempted GPS installation not stated as successful
+- surviving claim not presented as liability
+- no jury verdict implied
+- AI / altered or synthetic content disclosure = YES
 
-## Stage18 archive
+## Final preservation archive
 Archive:
-`VIDEO_001_STAGE18_FINAL_UPLOAD_PACKAGE.zip`
+`VIDEO_001_STAGE18_POLICY_SAFE_FINAL_ARCHIVE.zip`
 
 Size:
-**215,775,061 bytes**
+**228,358,637 bytes**
 
 SHA-256:
-`457ddb685c0b0b487a0639b82600d4a7af81bf8ed29cffbd08c41e881d62551e`
+`6174ebb8fa17f20e547da3a2138aed9f30cd44dd1e68d6cb7d0f2905a7424b02`
 
-The archive contains the exact MP4 master, canonical thumbnail master, YouTube-ready thumbnail JPG, upload SRT, title, description, chapters, tags, settings, rights/credits, legal guardrails, QC report, contact sheet and per-file checksums.
+Archive contains:
+- policy-safe upload master
+- canonical thumbnail master
+- YouTube-ready thumbnail JPG
+- English SRT
+- positioned English WebVTT
+- title / description / chapters / tags / settings
+- credits / rights
+- legal guardrails
+- policy-safety patch notes
+- prepublication QC
+- original Stage18 contact sheet
+- policy-safety QC contact sheet
+- per-file checksums
 
 ## Gate
 **G18 PREPUBLICATION: PASS**
-**VIDEO 001: RELEASE_READY**
+**VIDEO 001: POLICY-SAFE RELEASE_READY**
 
 YouTube upload/publication has **NOT** been performed.
 Do not start Stage19 until the video is actually published.

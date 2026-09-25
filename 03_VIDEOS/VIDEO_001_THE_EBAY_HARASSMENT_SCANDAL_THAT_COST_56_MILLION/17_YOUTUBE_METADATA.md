@@ -46,10 +46,12 @@ This documentary uses AI-generated illustrative stills and editor-built reconstr
 
 IMAGE CREDITS
 Devin Wenig photo: JenniferKL / Wikimedia Commons — CC BY-SA 4.0; cropped/graded for documentary use.
-https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://commons.wikimedia.org/wiki/File:Devin_Wenig.jpg
+License: https://creativecommons.org/licenses/by-sa/4.0/
 
 eBay headquarters photo (2018): Coolcaesar / Wikimedia Commons — CC BY-SA 4.0; cropped/graded for documentary use.
-https://creativecommons.org/licenses/by-sa/4.0/
+Source: https://commons.wikimedia.org/wiki/File:EBay_headquarters_2018.jpg
+License: https://creativecommons.org/licenses/by-sa/4.0/
 
 WHAT IT COST — Where business decisions get expensive.
 
@@ -105,4 +107,4 @@ What It Cost
 - AI use / altered or synthetic content: **YES**
 
 ## Rights carry-forward
-The exact two CC BY-SA credit lines are already embedded in the description and must remain there for upload.
+The two CC BY-SA credit blocks, including direct Wikimedia Commons file-page links and CC BY-SA 4.0 license links, are embedded in the description and must remain there for upload.

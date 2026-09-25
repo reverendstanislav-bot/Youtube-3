@@ -259,3 +259,14 @@
 - Final upload archive SHA256 457ddb685c0b0b487a0639b82600d4a7af81bf8ed29cffbd08c41e881d62551e.
 - VIDEO 001 status set to RELEASE_READY.
 - YouTube publication not performed; Stage19 NOT_STARTED.
+
+## v48 — Stage 18 policy-safe final master — 2026-09-25
+- Applied only the two owner-authorized pre-upload safety changes.
+- Added direct Commons source-page links for both CC BY-SA image credits.
+- Retained the authentic pig-mask evidence but reduced its photo-layer saturation to 65% and brightness by 1% during the two final-master appearances.
+- No blur/censor/replacement and no narration/caption/thumbnail/audio-content change.
+- Loss-minimized edit: only 00:00–00:20 and 04:40–05:00 video windows re-encoded; the remainder stream-copied.
+- Harrison audio remuxed directly from Stage15B; decoded PCM MD5 remains 9c97dfc3783e24cb0202f27233b52fd9.
+- New release master SHA256 512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25.
+- Final preservation archive SHA256 6174ebb8fa17f20e547da3a2138aed9f30cd44dd1e68d6cb7d0f2905a7424b02.
+- G18 remains PASS / POLICY-SAFE RELEASE_READY.

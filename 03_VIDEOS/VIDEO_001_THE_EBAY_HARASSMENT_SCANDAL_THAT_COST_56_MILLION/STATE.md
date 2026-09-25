@@ -625,3 +625,14 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Archive SHA-256: `457ddb685c0b0b487a0639b82600d4a7af81bf8ed29cffbd08c41e881d62551e`.
 - YouTube upload/publication: **NOT PERFORMED**.
 - Stage19: **NOT STARTED** until actual publication.
+
+
+## Stage 18 policy-safety final patch — 2026-09-25
+- Owner requested the most conservative pre-upload version with only two changes.
+- Added direct Wikimedia Commons file-page links for the JenniferKL Devin Wenig photo and Coolcaesar eBay HQ 2018 photo.
+- Reduced color intensity of the authentic pig-mask evidence photo only at 00:09.48–00:11.16 and 04:44.18–04:54.22.
+- No narration/caption/thumbnail/music/SFX/legal-claim change.
+- New upload-master SHA-256: `512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25`.
+- Harrison audio decoded PCM MD5 remains identical to Stage15B: `9c97dfc3783e24cb0202f27233b52fd9`.
+- Final preservation archive SHA-256: `6174ebb8fa17f20e547da3a2138aed9f30cd44dd1e68d6cb7d0f2905a7424b02`.
+- VIDEO 001 remains **RELEASE_READY**; Stage19 remains NOT_STARTED.
