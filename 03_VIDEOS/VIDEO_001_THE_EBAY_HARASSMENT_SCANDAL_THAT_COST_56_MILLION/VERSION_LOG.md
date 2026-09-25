@@ -214,3 +214,13 @@
 - Earlier Scott Buckley / Mixkit / TeknoAXE / SFX V1 / V2 / microtest outputs remain historical rejects only.
 - Stage 15C is **PASS / VOICE-ONLY LOCKED**.
 - No next-stage work started.
+
+## v44 — Stage 16 final fact/legal + copyright/provenance refresh — 2026-09-24
+- Rechecked final locked film against current public record and project primary-source pack.
+- 31/31 claims reviewed; 0 material factual/legal corrections required.
+- Confirmed $55.7M civil package, separate $3M DPA, no jury verdict on surviving claims, and executive criminal-charge distinction.
+- Documented DOJ current-page date anomaly; official Jan. 11, 2024 corporate resolution remains controlling.
+- Populated `ASSET_MANIFEST.csv` for all 115 final beats.
+- Locked two mandatory CC BY-SA 4.0 attribution carry-forwards: JenniferKL (Devin Wenig) and Coolcaesar (eBay HQ 2018).
+- No picture/audio/caption/GFX render change.
+- Stage16 PASS; Stage17 NOT STARTED.

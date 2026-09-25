@@ -10,8 +10,8 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 09 Voice QA + Lock: **PASS**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
-- Stage 12 Visual Source / Generation Plan: **IN PROGRESS — 115-BEAT BINDING COMPLETE**
-- Current pipeline stage: 15C_AUDIO_MIX — **PASS / VOICE-ONLY LOCKED**
+- Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
+- Current pipeline stage: 16_FINAL_FACT_LEGAL_REFRESH — **PASS**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -554,3 +554,19 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Historical commits and expired/expiring Actions artifacts remain audit history only and must never be used as production inputs.
 - Stage 15C: **PASS / VOICE-ONLY LOCKED**.
 - Do **not** start final-master/QC or the next stage without explicit owner instruction.
+
+
+## Stage 16 final fact / legal / provenance refresh — 2026-09-24
+- **FACT / LEGAL: PASS — NO EDIT REOPEN REQUIRED.**
+- **COPYRIGHT / PROVENANCE: PASS WITH MANDATORY ATTRIBUTION CARRY-FORWARD.**
+- 31/31 claims reviewed; material fact/legal changes: 0.
+- 115/115 final beats registered in populated `ASSET_MANIFEST.csv`.
+- Final inventory: 96 Higgsfield-generated stills + 1 OpenAI B101 override + 12 editor-native GFX + 6 deterministic editor builds.
+- DOJ date anomaly documented: current overview says January 2023; official Jan. 11, 2024 release/DPA/docket establish January 2024. Film remains correct.
+- Mandatory Stage17/18 publication credits:
+  - JenniferKL / Wikimedia Commons — Devin Wenig photo — CC BY-SA 4.0 — cropped/graded.
+  - Coolcaesar / Wikimedia Commons — eBay headquarters 2018 — CC BY-SA 4.0 — cropped/graded.
+- Final audio remains Harrison only; music/SFX/ambience remain 0.
+- Stage16 made no media/render changes.
+- **Next action: await explicit owner instruction before Stage17 Packaging.**
+- Stage17: **NOT STARTED**.
