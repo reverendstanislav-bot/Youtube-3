@@ -12,3 +12,8 @@
 | 2026-09-25 | visual research | v04 | Stage 01B built a 74-asset real visual source pool: 24 real photos, 22 product/UI assets, 18 documents and 10 context assets | Prevent document-heavy edit and minimize later generation | PASS |
 | 2026-09-25 | rights | v04 | Classified every Stage 01B asset as YES_CLEAR / YES_AUTHENTIC / YES_EDITORIAL / HOLD_RIGHTS | Prevent copyrighted company imagery from being mistaken for freely licensed stock | PASS |
 | 2026-09-25 | production model | v05 | Corrected Stage 01B interpretation: real-source pool is reference/provenance grounding, not a raw-footage-only plan; VIDEO 001 final resolution was 97 generated + 6 editor builds + 12 GFX across 115 beats | Preserve established channel-wide styled-frame production model | LOCK |
+| 2026-09-25 | script | v06 | Stage 03 complete long-form Script V1 written from locked Stage 02 map and all 8 Shorts preserved | First full narration pass | PASS |
+| 2026-09-25 | fact/legal | v07 | Stage 04 independent review passed all 8 hard metrics at 5/5; 9 precision edits accepted | Preserve exact contract/regulatory posture | PASS |
+| 2026-09-25 | script | v08 | Stage 05 V2 applied legal/precision edits and tightened regulatory sections | Accuracy + pacing | PASS |
+| 2026-09-25 | performance | v09 | Stage 06 performance review scored 94/100 with accuracy hard gate 5/5 | YouTube retention / clarity gate | PASS |
+| 2026-09-25 | script lock | v10 | Stage 07 canonical final script locked; 8 contiguous Shorts locked; claims ledger refs populated | Freeze narration before voice preparation | PASS |
