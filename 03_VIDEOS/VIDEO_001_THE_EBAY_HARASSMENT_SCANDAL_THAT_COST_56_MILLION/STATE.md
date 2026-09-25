@@ -11,7 +11,7 @@ The eBay Harassment Scandal That Cost $56 Million
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
-- Current pipeline stage: 16_FINAL_FACT_LEGAL_REFRESH — **PASS**
+- Current pipeline stage: 17_PACKAGING — **PASS / LAUNCH PACKAGE LOCKED**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -570,3 +570,18 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Stage16 made no media/render changes.
 - **Next action: await explicit owner instruction before Stage17 Packaging.**
 - Stage17: **NOT STARTED**.
+
+
+## Stage 17 Packaging — 2026-09-24
+- **PASS / LAUNCH PACKAGE LOCKED**.
+- Final title: **The eBay Harassment Scandal That Cost $56 Million**.
+- Final thumbnail thesis: **CRITICISM → SECURITY**.
+- Three materially different packaging families developed and QC-reviewed.
+- Deterministic 3840×2160 final thumbnail master built with 0 generation credits; editable SVG stored as `17_THUMBNAIL_FINAL.svg`.
+- Mobile 320×180 readability: PASS.
+- Final YouTube description locked at 2711 characters with 12 manual chapters, current legal caveats, key sources, AI/reconstruction note and both mandatory CC BY-SA credits.
+- YouTube metadata lock: English (US), Education, not made for kids, no age restriction, no paid promotion, Standard YouTube License, AI use disclosure = YES.
+- Tags intentionally limited; official YouTube guidance treats title/thumbnail/description as more important than tags.
+- 10/10 Shorts receive separate Stage17 packaging titles/hooks in `17_SHORTS_PACKAGING.csv`.
+- Stage18: **NOT STARTED**.
+- Next action: await explicit owner instruction before Stage18 Upload / Prepublication Package.

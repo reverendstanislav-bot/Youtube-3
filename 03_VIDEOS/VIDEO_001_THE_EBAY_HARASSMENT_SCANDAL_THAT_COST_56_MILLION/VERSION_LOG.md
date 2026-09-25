@@ -224,3 +224,12 @@
 - Locked two mandatory CC BY-SA 4.0 attribution carry-forwards: JenniferKL (Devin Wenig) and Coolcaesar (eBay HQ 2018).
 - No picture/audio/caption/GFX render change.
 - Stage16 PASS; Stage17 NOT STARTED.
+
+## v45 — Stage 17 packaging lock — 2026-09-24
+- Final launch title locked: The eBay Harassment Scandal That Cost $56 Million.
+- Selected thumbnail: CRITICISM → SECURITY.
+- Built 3 materially different thumbnail concepts and one final deterministic 3840×2160 master; mobile QC PASS; 0 generation credits.
+- Final description + 12 chapters + key sources + CC BY-SA credits locked.
+- YouTube metadata settings and AI-use disclosure locked for Stage18.
+- 10/10 Shorts packaged separately without strengthening factual/legal claims.
+- Stage17 PASS; Stage18 NOT STARTED.

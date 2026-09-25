@@ -1,0 +1,11 @@
+short_id,title,thumbnail_hook,claim_ids,legal_accuracy,status
+SH01,"The eBay Harassment Scandal in 62 Seconds","HOW IT STARTED","C002;C010;C012;C016;C019;C028",PASS,LOCKED
+SH02,"The eBay Messages Behind the Scandal","THE INTERNAL MESSAGES","C004;C005;C022",PASS,LOCKED
+SH03,"How Criticism Became a Security Operation at eBay","CRITICISM → SECURITY","C003;C007;C008;C009",PASS,LOCKED
+SH04,"The GPS Tracker Attempt in the eBay Case","GPS ATTEMPT","C012;C013",PASS,LOCKED
+SH05,"Seven eBay Employees and Contractors Pleaded Guilty","SEVEN GUILTY PLEAS","C016;C017;C018",PASS,LOCKED
+SH06,"Why eBay Was Charged but Not Convicted","DPA ≠ CONVICTION","C018;C019",PASS,LOCKED
+SH07,"Why Summary Judgment Wasn’t a Verdict","NOT A VERDICT","C020;C021;C025",PASS,LOCKED
+SH08,"What the $55.7M eBay Settlement Actually Was","$55.7M EXPLAINED","C028;C029",PASS,LOCKED
+SH09,"There Was No $58.7M eBay Award","NO $58.7M AWARD","C019;C028",PASS,LOCKED
+SH10,"What the eBay Harassment Scandal Actually Cost","WHAT IT COST","C003;C016;C017;C019;C028;C030",PASS,LOCKED

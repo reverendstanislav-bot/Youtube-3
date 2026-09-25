@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+<rect width="3840" height="2160" fill="#0B0B0B"/>
+<g opacity=".45" stroke="#121212" stroke-width="2"><path d="M 0 0 V 2160"/><path d="M 160 0 V 2160"/><path d="M 320 0 V 2160"/><path d="M 480 0 V 2160"/><path d="M 640 0 V 2160"/><path d="M 800 0 V 2160"/><path d="M 960 0 V 2160"/><path d="M 1120 0 V 2160"/><path d="M 1280 0 V 2160"/><path d="M 1440 0 V 2160"/><path d="M 1600 0 V 2160"/><path d="M 1760 0 V 2160"/><path d="M 1920 0 V 2160"/><path d="M 2080 0 V 2160"/><path d="M 2240 0 V 2160"/><path d="M 2400 0 V 2160"/><path d="M 2560 0 V 2160"/><path d="M 2720 0 V 2160"/><path d="M 2880 0 V 2160"/><path d="M 3040 0 V 2160"/><path d="M 3200 0 V 2160"/><path d="M 3360 0 V 2160"/><path d="M 3520 0 V 2160"/><path d="M 3680 0 V 2160"/><path d="M 0 0 H 3840"/><path d="M 0 160 H 3840"/><path d="M 0 320 H 3840"/><path d="M 0 480 H 3840"/><path d="M 0 640 H 3840"/><path d="M 0 800 H 3840"/><path d="M 0 960 H 3840"/><path d="M 0 1120 H 3840"/><path d="M 0 1280 H 3840"/><path d="M 0 1440 H 3840"/><path d="M 0 1600 H 3840"/><path d="M 0 1760 H 3840"/><path d="M 0 1920 H 3840"/><path d="M 0 2080 H 3840"/></g>
+<text x="180" y="220" fill="#A4A4A4" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="72">WHAT IT COST</text>
+<rect x="180" y="240" width="485" height="22" fill="#D32222"/>
+<g font-family="Arial,sans-serif" font-weight="700" font-size="330">
+<text x="180" y="640" fill="#E53238">e</text><text x="355" y="640" fill="#0064D2">B</text><text x="585" y="640" fill="#F5AF23">a</text><text x="775" y="640" fill="#86B817">y</text>
+</g>
+<rect x="2230" y="330" width="1310" height="600" rx="45" fill="#1F1F1F" stroke="#565656" stroke-width="5"/>
+<rect x="2230" y="330" width="55" height="600" fill="#D32222"/>
+<text x="2390" y="535" fill="#EDEDED" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="90">INTERNAL SECURITY</text>
+<text x="2390" y="690" fill="#A4A4A4" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="55">SAN JOSE</text>
+<text x="3170" y="690" fill="#A4A4A4" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="55">MASS.</text>
+<circle cx="2520" cy="780" r="25" fill="#D32222"/><circle cx="3295" cy="780" r="25" fill="#D32222"/><path d="M2545 780H3270" stroke="#D32222" stroke-width="16"/>
+<text x="180" y="1280" fill="#EDEDED" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="260">CRITICISM</text>
+<path d="M1790 1190H2210" stroke="#D32222" stroke-width="28"/><path d="M2210 1190L2075 1110V1270Z" fill="#D32222"/>
+<text x="2350" y="1280" fill="#D32222" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="260">SECURITY</text>
+<text x="188" y="1600" fill="#A4A4A4" font-family="Arial,sans-serif" font-weight="700" font-size="70">A BUSINESS DECISION THAT BECAME A SECURITY PROBLEM</text>
+<rect x="180" y="1690" width="3370" height="45" fill="#282828"/><rect x="180" y="1690" width="1440" height="45" fill="#D32222"/>
+<text x="180" y="1910" fill="#EDEDED" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="90">$55.7M FINAL CIVIL SETTLEMENT PACKAGE</text>
+<text x="180" y="2040" fill="#A4A4A4" font-family="Arial Narrow,Arial,sans-serif" font-weight="700" font-size="55">NOT A JUDGMENT • $3M DPA PENALTY WAS SEPARATE</text>
+</svg>

@@ -7,8 +7,8 @@ priority: "1"
 status: "IN_PREPARATION"
 created: "2026-09-20"
 last_updated: "2026-09-24"
-current_stage: "16_FINAL_FACT_LEGAL_REFRESH"
-next_action: "Stage 16 complete; await explicit owner instruction before Stage 17 Packaging"
+current_stage: "17_PACKAGING"
+next_action: "Stage 17 complete; await explicit owner instruction before Stage 18 Upload / Prepublication Package"
 blockers: []
 
 stages:
@@ -29,7 +29,7 @@ stages:
   stage_14_graphics_documents_music_sfx: "PASS_AUDIO_RETIRED"
   stage_15_assembly_edit: "PASS_VOICE_ONLY"
   stage_16_final_fact_legal_refresh: "PASS"
-  stage_17_packaging: "NOT_STARTED"
+  stage_17_packaging: "PASS"
   stage_18_upload_prepublication: "NOT_STARTED"
   stage_19_post_publish_analytics: "NOT_STARTED"
 
@@ -42,16 +42,16 @@ locks:
   audio_master: true
   visual_timeline: true
   visual_assets: true
-  edit_master: false
+  edit_master: true
   final_fact_legal_refresh: true
-  packaging: false
+  packaging: true
   release_ready: false
 
 evidence:
   source_index: "SOURCE_INDEX.csv"
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
-  last_case_status_refresh: "2026-09-20"
+  last_case_status_refresh: "2026-09-24"
   unresolved_material_claims: 0
 
 voice:
@@ -72,10 +72,10 @@ qa:
   research: "PASS"
   fact_legal: "PASS"
   performance: "PASS"
-  visual: "NOT_RUN"
-  edit: "NOT_RUN"
+  visual: "PASS"
+  edit: "PASS"
   final_refresh: "PASS"
-  packaging: "NOT_RUN"
+  packaging: "PASS"
   prepublication: "NOT_RUN"
 
 publish:

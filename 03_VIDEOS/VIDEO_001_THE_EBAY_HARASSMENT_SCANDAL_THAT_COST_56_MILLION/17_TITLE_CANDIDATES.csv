@@ -1,1 +1,10 @@
 candidate_id,title,family,promise,claim_ids,legal_accuracy,status,notes
+T01,"The eBay Harassment Scandal That Cost $56 Million",CONSEQUENCE_FIRST,"Recognizable company + scandal + rounded final civil package","C010;C016;C019;C028",PASS,SELECTED,"$56M is permitted Stage16 rounding of $55.7M civil settlement package; title does not say eBay alone paid it"
+T02,"The eBay Harassment Scandal That Ended in a $55.7M Settlement",EXACT_OUTCOME,"Exact final civil outcome","C028;C029",PASS,APPROVED_ALT,"Very precise but slightly less compact"
+T03,"Inside eBay’s Harassment Scandal — And the $55.7M Settlement",INVESTIGATIVE,"Internal escalation + final settlement","C003;C009;C028",PASS,APPROVED_ALT,"Strong documentary framing"
+T04,"How Criticism Became a Security Operation Inside eBay",HIDDEN_MECHANISM,"How criticism entered the security chain","C003;C007;C009;C012",PASS,APPROVED_ALT,"No money hook; strong brand-fit mechanism"
+T05,"How Two Critics Became a Security Problem Inside eBay",HIDDEN_MECHANISM,"Two publishers versus a corporate security chain","C001;C003;C009",PASS_WITH_CONTEXT,HOLD,"Can be misread as validating that they were actually a security threat"
+T06,"Inside the eBay Security Operation Against Two Critics",SECURITY_OPERATION,"Security-team conduct against the Steiners","C009;C012",PASS_WITH_CONTEXT,HOLD,"Accurate at security-team level but can imply companywide authorization"
+T07,"The eBay Cyberstalking Case That Ended in a $55.7M Settlement",LEGAL_CASE,"Recognizable legal case + exact resolution","C010;C016;C028",PASS,APPROVED_ALT,"Clear but more legal-news than premium business documentary"
+T08,"How an eBay Harassment Campaign Escalated Into a $55.7M Settlement",ESCALATION,"Escalation from conduct to civil resolution","C009;C010;C012;C028",PASS,APPROVED_ALT,"Good story arc; slightly more causal in tone"
+T09,"eBay: Seven Guilty Pleas, a Corporate DPA, and a $55.7M Settlement",LEGAL_STACK,"Three separate legal consequence tracks","C016;C019;C028",PASS,APPROVED_ALT,"Highly accurate but dense for browse"

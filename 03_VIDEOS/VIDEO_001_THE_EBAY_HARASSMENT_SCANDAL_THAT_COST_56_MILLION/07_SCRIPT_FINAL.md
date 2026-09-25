@@ -6,7 +6,7 @@ Working title:
 **The eBay Harassment Scandal That Cost $56 Million**
 
 Title status:
-**PROVISIONAL — FINAL PACKAGING AT STAGE 17**
+**FINAL — LOCKED AT STAGE 17 ON 2026-09-24**
 
 Target runtime:
 **16–18 minutes**
