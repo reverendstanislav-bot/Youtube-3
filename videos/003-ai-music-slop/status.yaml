@@ -7,8 +7,8 @@ created: "2026-09-25"
 media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
-stage: research
-next_action: "Phase 2: researcher Mode 2 → critic Mode R (RUNBOOK)"
+stage: script
+next_action: "Wait: pull government sentencing submission (due 2026-09-28) on 09-29/30, then writer v1; G2 after Oct 6 sentence"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED

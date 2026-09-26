@@ -376,10 +376,16 @@ def cmd_check(a) -> None:
 # ---------- zero-token helpers that replace agent shell work ----------
 
 def write_rows(path: Path, data: list[dict], fields: list[str]) -> None:
-    with path.open("w", newline="", encoding="utf-8") as f:
+    # Malformed rows (extra unquoted commas) land under the None key; refuse before touching the file.
+    bad = [next(iter(r.values()), "?") for r in data if None in r]
+    if bad:
+        sys.exit(f"{path.name}: rows with more columns than the header: {', '.join(bad)} — fix quoting, file left unchanged")
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with tmp.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()
         w.writerows(data)
+    tmp.replace(path)
 
 
 def csv_fields(path: Path) -> list[str]:
