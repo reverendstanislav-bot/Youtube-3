@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: research
-next_action: "Phase 2: researcher Mode 2 deep story research"
+next_action: "Phase 2: researcher Mode 2 → critic Mode R (RUNBOOK)"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -22,7 +22,7 @@ gates:
   g7_shorts_cut: NOT_STARTED
   g8_packaging_choice: NOT_STARTED
 
-packaging_concept: "He Did the Math on Fake Streams. It Cost Him $8 Million. — indictment self-email math crop + red-circled forfeiture figure; thumbnail text to be replaced (must not repeat $8M)"   # chosen at g1: title + thumbnail idea
+packaging_concept: "He Did the Math on Fake Streams. It Cost Him $8 Million. — thumbnail: authentic indictment crop of Smith's self-emailed bot math + red '$8M Forfeited'"   # chosen at g1: title + thumbnail idea
 
 voice:
   file: ""              # relative to media_root
@@ -39,3 +39,4 @@ credits: []
 # Short log of owner decisions: - {date, gate, decision, note}
 decisions:
   - {date: "2026-09-26", gate: "g1_topic_go_and_concept", decision: "APPROVED", note: "GO, concept 1 The Plea"}
+  - {date: "2026-09-26", gate: "g1_topic_go_and_concept", decision: "APPROVED", note: "Owner: GO, concept 1"}
