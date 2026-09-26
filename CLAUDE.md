@@ -20,8 +20,8 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | # | Phase | Agents | Ends with owner gate |
 |---|---|---|---|
 | 1 | Qualification | `yt.py court` → researcher 1a (source path) → `yt.py fetch-sources` + `yt.py yt-search` → scout B (competitors) → researcher 1b (reads docs, scores) → packaging 1 (concepts) | **G1** GO + pick title/thumbnail concept |
-| 2 | Research | researcher → `yt.py fetch-sources` | — (report only) |
-| 3 | Script | writer → critic + hook-doctor + defamation-risk → writer (≤3 rounds) → writer voice script | **G2** script + Shorts lock |
+| 2 | Research | researcher Mode 2 (deep story research) → `yt.py fetch-sources` + `texts` + `pages` → critic Mode R (research review) → researcher Mode 2b (fill gaps) → critic Mode R again (max 2 rounds; stop early on READY; WEAK TOPIC → tell owner) | — (report only) |
+| 3 | Script | writer → critic Mode S + hook-doctor + defamation-risk → writer (≤3 rounds) → writer voice script | **G2** script + Shorts lock |
 | 4 | Voice | Higgsfield TTS (spend gate) → WeftCut `transcribe_clip` → `yt.py words` → `yt.py audio-metrics` → audio-qc | **G3** spend approval before TTS |
 | 5 | Visual | visual-director (beats), prompt-engineer (image prompts) → owner generates → visual-director QC → prompt-engineer (video prompts) → owner generates → `yt.py frames` → QC → `yt.py hash-beats`; document-designer → `yt.py doc-shots` | **G4** images, **G5** videos |
 | 6 | Edit | Claude assembles in WeftCut (brand motifs) → `yt.py frames` → retention-editor → fixes → `yt.py render-qc` → Shorts 9:16 | **G6** rough cut, **G7** Shorts |
@@ -31,7 +31,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 Run independent agents in parallel (e.g. critic + hook-doctor + defamation-risk).
 
 ## Agents — token discipline
-- Models: **opus** writer, critic · **sonnet** researcher, hook-doctor, defamation-risk, visual-director, prompt-engineer, retention-editor, final-check, packaging · **haiku** scout, audio-qc, document-designer.
+- Models: **opus** researcher, writer, critic · **sonnet** scout, hook-doctor, defamation-risk, visual-director, prompt-engineer, retention-editor, final-check, packaging · **haiku** audio-qc, document-designer.
 - No agent has Bash. Everything mechanical (downloads, hashing, measuring, frames, rendering) is a `yt.py` command the dispatcher runs — 0 tokens.
 - Each agent has `maxTurns` and a PreToolUse lock (`tools/agent_guard.py`) that blocks writes outside its own files.
 - Give every agent a short prompt: video id, mode, and the exact files/beats it should handle. Nothing else.
@@ -58,7 +58,8 @@ python tools/yt.py credit <id> <provider> <jobs> <credits> "<note>"
 python tools/yt.py render-qc <id> <relative media path> # ffprobe + loudness + black frames → 5_edit/render_qc.md
 python tools/yt.py yt-search <id> "query" ["query2"] [-n 10]  # real YouTube titles/views/dates → 1_research/yt_search.md
 python tools/yt.py court <id> "<query>"                # CourtListener dockets + direct PDF links → 1_research/court_search.md
-python tools/yt.py fetch-sources <id>                   # download tier-1/2 sources → media/sources, hash into sources.csv
+python tools/yt.py fetch-sources <id>                   # download tier-1/2 sources → media/sources, hash into sources.csv (+ .txt for HTML)
+python tools/yt.py texts <id>                           # re-extract .txt from archived HTML sources
 python tools/yt.py words <id> <envelope.json>           # WeftCut transcript → 3_voice/words.json + captions.srt
 python tools/yt.py audio-metrics <id> [path]            # loudness, silences, transcript-vs-script diff → 3_voice/audio_metrics.txt
 python tools/yt.py frames <id> <render path>            # frames + contact sheets + freeze/black report → 5_edit/frames_report.txt

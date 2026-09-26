@@ -391,6 +391,47 @@ def slugify(text: str, n: int = 40) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "_", text).strip("_").upper()[:n] or "SOURCE"
 
 
+def html_to_text(path: Path) -> Path:
+    """Write readable text of an HTML file next to it (<name>.txt) so agents can read big pages."""
+    from html.parser import HTMLParser
+
+    class P(HTMLParser):
+        skip = {"script", "style", "noscript", "svg", "nav", "footer", "header", "form"}
+
+        def __init__(self):
+            super().__init__()
+            self.depth, self.out = 0, []
+
+        def handle_starttag(self, tag, attrs):
+            if tag in self.skip:
+                self.depth += 1
+            elif tag in ("p", "br", "h1", "h2", "h3", "li", "div", "tr", "blockquote"):
+                self.out.append("\n")
+
+        def handle_endtag(self, tag):
+            if tag in self.skip and self.depth:
+                self.depth -= 1
+
+        def handle_data(self, data):
+            if not self.depth and data.strip():
+                self.out.append(data.strip() + " ")
+
+    p = P()
+    p.feed(path.read_text(encoding="utf-8", errors="replace"))
+    text = re.sub(r"\n\s*\n+", "\n\n", "".join(p.out)).strip()
+    out = path.with_suffix(".txt")
+    out.write_text(text + "\n", encoding="utf-8")
+    return out
+
+
+def cmd_texts(a) -> None:
+    """Extract .txt from every archived HTML source of a video."""
+    folder = video_dir(a.id)
+    for f in sorted((media_root(folder) / "sources").glob("*.html")):
+        t = html_to_text(f)
+        print(f"{f.name} -> {t.name} ({t.stat().st_size // 1024} KB)")
+
+
 def cmd_fetch_sources(a) -> None:
     """Download tier-1/2 sources listed in sources.csv into media/sources and hash them."""
     import urllib.request
@@ -414,6 +455,8 @@ def cmd_fetch_sources(a) -> None:
             ext = ext_by_type.get(ctype) or (r["url"].rsplit(".", 1)[-1].lower() if "." in r["url"][-6:] else "bin")
             name = f"{r['source_id']}_{slugify(r.get('title', ''))}.{ext}"
             (out / name).write_bytes(body)
+            if ext == "html":
+                html_to_text(out / name)
             r["media_file"] = f"sources/{name}"
             r["sha256"] = sha256(out / name)
             ok += 1
@@ -701,6 +744,7 @@ def main() -> None:
     s = sub.add_parser("render-qc"); s.add_argument("id"); s.add_argument("path"); s.set_defaults(fn=cmd_render_qc)
     s = sub.add_parser("fetch-sources"); s.add_argument("id")
     s.add_argument("--all", action="store_true", help="also tier 3-4"); s.set_defaults(fn=cmd_fetch_sources)
+    s = sub.add_parser("texts"); s.add_argument("id"); s.set_defaults(fn=cmd_texts)
     s = sub.add_parser("hash-beats"); s.add_argument("id")
     s.add_argument("--all", action="store_true", help="re-hash rows that already have sha"); s.set_defaults(fn=cmd_hash_beats)
     s = sub.add_parser("words"); s.add_argument("id"); s.add_argument("envelope", help="transcribe_clip JSON file")
