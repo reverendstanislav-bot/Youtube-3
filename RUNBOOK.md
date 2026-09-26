@@ -41,7 +41,7 @@ Conventions:
 2. Parallel: **critic** `Video <id>. Mode S, round N.` · **hook-doctor** `Video <id>.` · **defamation-risk** `Video <id>. Script mode.`
 3. **writer** — `Video <id>. Mode 2, round N.`
 4. Repeat 2–3 until critic PASS and defamation-risk CLEAR, max 3 rounds.
-5. Make the owner's Russian reading copy `2_script/script_ru.md` (full translation, no claim tags, sections with one-line purpose, Shorts marked 🎬, open NEED switches explained; song/artist names untranslated). The owner cannot lock a script he has not read. Report: score, runtime, Shorts list, open risks, and the path to `script_ru.md`. `yt.py gate <id> g2 WAITING_OWNER`. Owner locks → `g2 APPROVED`.
+5. Make the owner's Russian reading copy `2_script/script_ru.txt` — plain text, UTF-8, no markdown (full translation, no claim tags, sections with one-line purpose, Shorts marked 🎬, open NEED switches explained; song/artist names untranslated). The owner cannot lock a script he has not read. Report: score, runtime, Shorts list, open risks, and the path to `script_ru.txt`. `yt.py gate <id> g2 WAITING_OWNER`. Owner locks → `g2 APPROVED`.
 6. After lock: **writer** — `Video <id>. Mode 3.` → `yt.py stage <id> voice "..."`.
 
 ## Phase 4 — Voice → gate G3 (spend)
