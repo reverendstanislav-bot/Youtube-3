@@ -1,4 +1,4 @@
-# Script — He Did the Math on Fake Streams. It Cost Him $8 Million.
+# Script — He Did the Math on Fake Streams. He Owes $8 Million.
 
 <!-- Sections: ## S01 … ## Snn. Shorts ranges marked inline: [SH01>] … [<SH01] -->
 <!-- Material claims tagged inline: {C012} -->
