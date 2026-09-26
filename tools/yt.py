@@ -299,7 +299,7 @@ def cmd_check(a) -> None:
         need("2_script/script.md")
         need("2_script/shorts.csv")
     if script.exists():
-        s = script.read_text(encoding="utf-8")
+        s = re.sub(r"<!--.*?-->", "", script.read_text(encoding="utf-8"), flags=re.S)
         for tag in sorted(set(re.findall(r"\{(C[0-9]+)\}", s))):
             if tag not in claim_ids:
                 errs.append(f"script tag {{{tag}}} not in claims.csv")
@@ -424,11 +424,35 @@ def html_to_text(path: Path) -> Path:
     return out
 
 
+def pdf_to_text(path: Path, dpi: int = 150) -> Path:
+    """Write <name>.txt with '=== page N ===' markers; scanned pages (no text layer) are rendered to
+    sources/pages/<stem>_p<N>.png and noted in the txt so agents can Read the image instead."""
+    import pymupdf
+    doc = pymupdf.open(path)
+    pages_dir = path.parent / "pages"
+    parts, scanned = [], 0
+    for i, page in enumerate(doc, 1):
+        text = page.get_text().strip()
+        if len(text) < 40:
+            pages_dir.mkdir(exist_ok=True)
+            png = pages_dir / f"{path.stem.split('_')[0]}_p{i}.png"
+            page.get_pixmap(dpi=dpi).save(png)
+            text = f"[scanned page — no text layer; read image sources/pages/{png.name}]"
+            scanned += 1
+        parts.append(f"=== page {i} ===\n{text}")
+    out = path.with_suffix(".txt")
+    out.write_text("\n\n".join(parts) + "\n", encoding="utf-8")
+    if scanned:
+        print(f"  {path.name}: {scanned}/{doc.page_count} scanned pages rendered to pages/")
+    return out
+
+
 def cmd_texts(a) -> None:
-    """Extract .txt from every archived HTML source of a video."""
+    """Extract readable .txt from every archived HTML and PDF source of a video."""
     folder = video_dir(a.id)
-    for f in sorted((media_root(folder) / "sources").glob("*.html")):
-        t = html_to_text(f)
+    src = media_root(folder) / "sources"
+    for f in sorted(list(src.glob("*.html")) + list(src.glob("*.pdf"))):
+        t = html_to_text(f) if f.suffix == ".html" else pdf_to_text(f)
         print(f"{f.name} -> {t.name} ({t.stat().st_size // 1024} KB)")
 
 
@@ -457,6 +481,8 @@ def cmd_fetch_sources(a) -> None:
             (out / name).write_bytes(body)
             if ext == "html":
                 html_to_text(out / name)
+            elif ext == "pdf":
+                pdf_to_text(out / name)
             r["media_file"] = f"sources/{name}"
             r["sha256"] = sha256(out / name)
             ok += 1

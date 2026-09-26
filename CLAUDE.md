@@ -11,7 +11,8 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | `topics/backlog.csv` | topic backlog (scout) |
 | `videos/<id>-<slug>/` | text files of one video; `status.yaml` is the only status |
 | `videos/_template/` | copied by `python tools/yt.py new` |
-| `tools/yt.py` | state keeper, media librarian, render QC, credit tracker |
+| `RUNBOOK.md` | exact dispatch steps per phase |
+| `tools/yt.py` | state keeper, media librarian, render QC, credit tracker, sources, YouTube/court search, handoff/ingest |
 | `weftcut/` | brand motifs for WeftCut (captions with red active word, headline, money, lower third, card, quote, labels) — see `weftcut/README.md` |
 | `C:/Users/KK/Documents/WhatItCost_media/<id>-<slug>/` | all media (never in git) |
 | `C:/Users/KK/Documents/WhatItCost_media/_style_refs/` | channel style reference images for ChatGPT (style only, never content) |
@@ -30,7 +31,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | 7 | Release | final-check, packaging (titles, desc, chapters, Shorts, release plan); Claude builds thumbnail | **G8** pick title + thumbnail |
 | 8 | Publish | owner uploads | — |
 
-Run independent agents in parallel (e.g. critic + hook-doctor + defamation-risk).
+**Before running any phase, read its section in `RUNBOOK.md`** — exact agent prompts, scripts and order. Run independent agents in parallel.
 
 ## Agents — token discipline
 - Models: **opus** researcher, writer, critic · **sonnet** scout, hook-doctor, defamation-risk, visual-director, prompt-engineer, retention-editor, final-check, packaging · **haiku** audio-qc, document-designer.
@@ -61,7 +62,7 @@ python tools/yt.py render-qc <id> <relative media path> # ffprobe + loudness + b
 python tools/yt.py yt-search <id> "query" ["query2"] [-n 10]  # real YouTube titles/views/dates → 1_research/yt_search.md
 python tools/yt.py court <id> "<query>"                # CourtListener dockets + direct PDF links → 1_research/court_search.md
 python tools/yt.py fetch-sources <id>                   # download tier-1/2 sources → media/sources, hash into sources.csv (+ .txt for HTML)
-python tools/yt.py texts <id>                           # re-extract .txt from archived HTML sources
+python tools/yt.py texts <id>                           # .txt from archived HTML/PDF sources (page markers; scanned pages → PNG). Agents read the .txt, never the raw PDF
 python tools/yt.py words <id> <envelope.json>           # WeftCut transcript → 3_voice/words.json + captions.srt
 python tools/yt.py audio-metrics <id> [path]            # loudness, silences, transcript-vs-script diff → 3_voice/audio_metrics.txt
 python tools/yt.py frames <id> <render path>            # frames + contact sheets + freeze/black report → 5_edit/frames_report.txt
@@ -73,4 +74,4 @@ python tools/yt.py hash-beats <id>                      # sha256 for every asset
 ```
 
 ## Git
-Commit after each completed phase with a clear message. Push only with owner approval.
+Work on branch `claude-code-setup`. Commit after each completed phase with a clear message and push that branch. Never merge into `main` without the owner's explicit OK.

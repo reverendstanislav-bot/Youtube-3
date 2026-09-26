@@ -1,0 +1,40 @@
+# VIDEO 003 — single source of truth. Update via `python tools/yt.py`.
+video_id: "003"
+slug: "ai-music-slop"
+title_working: "What AI Slop Is Costing the Music Industry"
+topic_id: "T011"
+created: "2026-09-25"
+media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
+
+# qualification -> research -> script -> voice -> visual -> edit -> release -> published
+stage: qualification
+next_action: "Fresh qualification run per RUNBOOK Phase 1 (sources already archived with .txt)"
+blockers: []
+
+# Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
+gates:
+  g1_topic_go_and_concept: NOT_STARTED
+  g2_script_and_shorts_lock: NOT_STARTED
+  g3_voice_spend: NOT_STARTED
+  g4_images_accepted: NOT_STARTED
+  g5_video_gen_accepted: NOT_STARTED
+  g6_rough_cut: NOT_STARTED
+  g7_shorts_cut: NOT_STARTED
+  g8_packaging_choice: NOT_STARTED
+
+packaging_concept: ""   # chosen at g1: title + thumbnail idea
+
+voice:
+  file: ""              # relative to media_root
+  sha256: ""
+  duration_sec: ""
+
+final_render:
+  file: ""
+  sha256: ""
+
+# Every paid job. Filled by `yt.py credit`.
+credits: []
+
+# Short log of owner decisions: - {date, gate, decision, note}
+decisions: []

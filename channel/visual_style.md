@@ -14,6 +14,16 @@ Palette, type and safe zones: see `brand.md`.
 ## Canonical frame style (paste into every image prompt)
 > WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter.
 
+## Style reference images (`WhatItCost_media/_style_refs/`)
+Approved VIDEO_001 frames. Attach one per image prompt as **style only** (never copy their content — eBay, insects, names, numbers, logos):
+| File | Use for |
+|---|---|
+| `style_evidence.png` | T01 evidence, T05 place — headline left, photo stack on paper right |
+| `style_cards.png` | T07 accountability / comparisons — several items on aged paper cards |
+| `style_money.png` | T04 money — one dominant amount + real-world photo |
+| `style_quote_document.png` | T03 document / quote — quote headline + document excerpt with red highlight |
+| `style_timeline_place.png` | T05 / T06 — date headline over darkened place/aerial photo |
+
 ## Frame families
 | ID | Family | Use |
 |---|---|---|
