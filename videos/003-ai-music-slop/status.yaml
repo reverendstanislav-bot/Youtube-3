@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: script
-next_action: "Wait: pull government sentencing submission (due 2026-09-28) on 09-29/30, then writer v1; G2 after Oct 6 sentence"
+next_action: "2026-09-29/30: pull government sentencing submission (RECAP), then writer v1. No PACER spend; only S049 courthouse photo."
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -40,3 +40,6 @@ credits: []
 decisions:
   - {date: "2026-09-26", gate: "g1_topic_go_and_concept", decision: "APPROVED", note: "GO, concept 1 The Plea"}
   - {date: "2026-09-26", gate: "g1_topic_go_and_concept", decision: "APPROVED", note: "Owner: GO, concept 1"}
+  - {date: "2026-09-26", gate: "research", decision: "NO_SPEND", note: "No PACER purchase (Dkt 55/57); work from public record only"}
+  - {date: "2026-09-26", gate: "research", decision: "PHOTOS", note: "Only the CC BY-SA 3.0 courthouse photo (S049, credit line). No Getty photo of Smith, no unverified Commons photo (S050)"}
+  - {date: "2026-09-26", gate: "research", decision: "TIMING", note: "Script v1 starts 2026-09-29/30 after pulling the government sentencing submission"}
