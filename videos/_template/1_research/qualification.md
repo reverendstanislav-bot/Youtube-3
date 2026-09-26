@@ -22,6 +22,9 @@
 - Story ≥3: 
 - Packaging possible without overstating status: 
 - Not doctrine-first: 
+- Cost already materialized (consequence ≥3): 
+
+## Primary documents actually read (file + pages)
 
 ## Strongest hook
 ## Primary-source path

@@ -19,7 +19,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 ## Pipeline
 | # | Phase | Agents | Ends with owner gate |
 |---|---|---|---|
-| 1 | Qualification | researcher (quick), packaging (concepts), scout (competitors) | **G1** GO + pick title/thumbnail concept |
+| 1 | Qualification | `yt.py court` → researcher 1a (source path) → `yt.py fetch-sources` + `yt.py yt-search` → scout B (competitors) → researcher 1b (reads docs, scores) → packaging 1 (concepts) | **G1** GO + pick title/thumbnail concept |
 | 2 | Research | researcher → `yt.py fetch-sources` | — (report only) |
 | 3 | Script | writer → critic + hook-doctor + defamation-risk → writer (≤3 rounds) → writer voice script | **G2** script + Shorts lock |
 | 4 | Voice | Higgsfield TTS (spend gate) → WeftCut `transcribe_clip` → `yt.py words` → `yt.py audio-metrics` → audio-qc | **G3** spend approval before TTS |
@@ -56,6 +56,8 @@ python tools/yt.py stage <id> <stage> "<next action>"
 python tools/yt.py hash <id> <relative media path>      # print sha256 + size
 python tools/yt.py credit <id> <provider> <jobs> <credits> "<note>"
 python tools/yt.py render-qc <id> <relative media path> # ffprobe + loudness + black frames → 5_edit/render_qc.md
+python tools/yt.py yt-search <id> "query" ["query2"] [-n 10]  # real YouTube titles/views/dates → 1_research/yt_search.md
+python tools/yt.py court <id> "<query>"                # CourtListener dockets + direct PDF links → 1_research/court_search.md
 python tools/yt.py fetch-sources <id>                   # download tier-1/2 sources → media/sources, hash into sources.csv
 python tools/yt.py words <id> <envelope.json>           # WeftCut transcript → 3_voice/words.json + captions.srt
 python tools/yt.py audio-metrics <id> [path]            # loudness, silences, transcript-vs-script diff → 3_voice/audio_metrics.txt

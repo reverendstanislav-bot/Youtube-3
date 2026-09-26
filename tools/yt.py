@@ -558,6 +558,59 @@ def cmd_frames(a) -> None:
     print("\n".join(rep))
 
 
+def cmd_yt_search(a) -> None:
+    """Real YouTube results (title, channel, subs, views, date, length) via yt-dlp — metadata only, no download."""
+    import yt_dlp
+    folder = video_dir(a.id)
+    opts = {"quiet": True, "skip_download": True, "no_warnings": True, "extract_flat": False, "ignoreerrors": True}
+    seen, found = set(), []
+    with yt_dlp.YoutubeDL(opts) as ydl:
+        for q in a.queries:
+            res = ydl.extract_info(f"ytsearch{a.n}:{q}", download=False) or {}
+            for e in res.get("entries") or []:
+                if not e or e["id"] in seen:
+                    continue
+                seen.add(e["id"])
+                d = e.get("upload_date") or ""
+                found.append({"query": q, "title": e.get("title", ""), "channel": e.get("channel", ""),
+                              "subs": e.get("channel_follower_count") or "", "views": e.get("view_count") or 0,
+                              "date": f"{d[:4]}-{d[4:6]}-{d[6:]}" if d else "", "min": round((e.get("duration") or 0) / 60, 1),
+                              "url": f"https://www.youtube.com/watch?v={e['id']}"})
+    found.sort(key=lambda r: -int(r["views"] or 0))
+    lines = [f"# YouTube search — captured {TODAY} (yt-dlp, metadata only)", "",
+             "| Views | Published | Min | Channel (subs) | Title | URL | Query |", "|---|---|---|---|---|---|---|"]
+    lines += [f"| {r['views']:,} | {r['date']} | {r['min']} | {r['channel']} ({r['subs']:,}) | {r['title'].replace('|', '/')} | {r['url']} | {r['query']} |"
+              if isinstance(r['subs'], int) else
+              f"| {r['views']:,} | {r['date']} | {r['min']} | {r['channel']} | {r['title'].replace('|', '/')} | {r['url']} | {r['query']} |"
+              for r in found]
+    out = folder / "1_research/yt_search.md"
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("\n".join(lines[:25]))
+    print(f"{len(found)} videos -> {out.relative_to(ROOT)}")
+
+
+def cmd_court(a) -> None:
+    """CourtListener RECAP search (public API) -> dockets + downloadable PDF links -> 1_research/court_search.md."""
+    import urllib.parse
+    import urllib.request
+    folder = video_dir(a.id)
+    url = "https://www.courtlistener.com/api/rest/v4/search/?type=r&q=" + urllib.parse.quote(a.query)
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (WhatItCost research)"})
+    data = json.load(urllib.request.urlopen(req, timeout=60))
+    lines = [f"# CourtListener search: {a.query} — {TODAY}", ""]
+    for r in (data.get("results") or [])[:a.n]:
+        lines.append(f"## {r.get('caseName')} — {r.get('docketNumber')} ({r.get('court_id')}), filed {r.get('dateFiled')}")
+        lines.append(f"docket: https://www.courtlistener.com{r.get('docket_absolute_url', '')}")
+        for d in r.get("recap_documents") or []:
+            link = f"https://storage.courtlistener.com/{d['filepath_local']}" if d.get("is_available") and d.get("filepath_local") else "not in RECAP (PACER only)"
+            lines.append(f"- #{d.get('document_number')} {d.get('entry_date_filed') or ''} {(d.get('description') or '').strip()[:110]} — {link}")
+        lines.append("")
+    out = folder / "1_research/court_search.md"
+    out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print("\n".join(lines[:30]))
+    print(f"-> {out.relative_to(ROOT)}")
+
+
 def cmd_pages(a) -> None:
     """Render PDF pages of archived sources to PNG (media/sources/pages/<source_id>_p<N>.png)."""
     import pymupdf
@@ -656,6 +709,10 @@ def main() -> None:
     s.set_defaults(fn=cmd_audio_metrics)
     s = sub.add_parser("frames"); s.add_argument("id"); s.add_argument("path")
     s.add_argument("--every", type=int, default=2); s.set_defaults(fn=cmd_frames)
+    s = sub.add_parser("yt-search"); s.add_argument("id"); s.add_argument("queries", nargs="+")
+    s.add_argument("-n", type=int, default=10, help="results per query"); s.set_defaults(fn=cmd_yt_search)
+    s = sub.add_parser("court"); s.add_argument("id"); s.add_argument("query")
+    s.add_argument("-n", type=int, default=8); s.set_defaults(fn=cmd_court)
     s = sub.add_parser("pages"); s.add_argument("id"); s.add_argument("--sources", default="", help="S001,S004")
     s.add_argument("--pages", default="", help="1,3,7 (default: first --max pages)")
     s.add_argument("--max", type=int, default=30); s.add_argument("--dpi", type=int, default=200)
