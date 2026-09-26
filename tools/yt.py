@@ -654,6 +654,116 @@ def cmd_court(a) -> None:
     print(f"-> {out.relative_to(ROOT)}")
 
 
+PROMPT_BLOCK = re.compile(r"^## ((?:IMG|VID)-\d{3})\b.*?$(.*?)(?=^## (?:IMG|VID)-\d{3}\b|\Z)", re.M | re.S)
+
+
+def parse_prompts(md: str) -> list[dict]:
+    """prompts.md blocks: '## IMG-001 — ...' then 'beat:', 'type:', 'refs:', 'status:' lines and 'prompt:' + text."""
+    out = []
+    for pid, body in PROMPT_BLOCK.findall(md):
+        f = {"id": pid}
+        for key in ("beat", "type", "refs", "status", "duration"):
+            m = re.search(rf"^{key}:[ \t]*(.*)$", body, re.M)
+            f[key] = m.group(1).strip() if m else ""
+        m = re.search(r"^prompt:\s*\n(.*)", body, re.M | re.S)
+        f["prompt"] = (m.group(1) if m else "").strip().strip("`").strip()
+        out.append(f)
+    return out
+
+
+def cmd_handoff(a) -> None:
+    """Pack prompts + reference files for the owner: media/handoff/<batch>/PROMPTS.txt + refs/ + return/."""
+    folder = video_dir(a.id)
+    mr = media_root(folder)
+    prompts = [p for p in parse_prompts((folder / "4_visual/prompts.md").read_text(encoding="utf-8"))
+               if p["status"].upper() in ("", "READY", "FIX") and (not a.kind or p["id"].startswith(a.kind.upper()))]
+    if not prompts:
+        die("no READY/FIX prompts in 4_visual/prompts.md")
+    beats = {b["beat_id"]: b for b in rows(folder / "4_visual/beats.csv")}
+    batch = mr / "handoff" / (a.batch or f"{TODAY}_{(a.kind or 'all').lower()}")
+    (batch / "refs").mkdir(parents=True, exist_ok=True)
+    (batch / "return").mkdir(exist_ok=True)
+    style_dir = MEDIA_BASE / "_style_refs"
+    txt = [f"WHAT IT COST — VIDEO {folder.name} — пакет {batch.name}",
+           f"Кадров: {len(prompts)}. Готовые файлы клади в папку return/ под указанными именами.", "=" * 70, ""]
+    missing = []
+    for p in prompts:
+        b = beats.get(p["beat"], {})
+        when = f"{b.get('start', '?')}–{b.get('end', '?')} c" if b else ""
+        kind = "ВИДЕО (оживить картинку)" if p["id"].startswith("VID") or p["type"] == "video" else "ФОТО / КАДР"
+        ext = "mp4" if kind.startswith("ВИДЕО") else "png"
+        attach = []
+        for i, r in enumerate(filter(None, (x.strip() for x in p["refs"].split(";"))), 1):
+            src = mr / r if (mr / r).exists() else (style_dir / r if (style_dir / r).exists() else mr / "images" / r)
+            if not src.exists():
+                missing.append(f"{p['id']}: {r}")
+                attach.append(f"{r}  (НЕ НАЙДЕН)")
+                continue
+            dst = f"{p['id']}__ref{i}__{src.name}"
+            shutil.copy2(src, batch / "refs" / dst)
+            attach.append(dst)
+        txt += [f"### {p['id']} — {kind} — сцена {p['beat']} {when}".rstrip(),
+                f"Прикрепить: {', '.join(attach) if attach else 'ничего'}",
+                *([f"Длительность: {p['duration']}"] if p["duration"] else []),
+                f"Сохранить как: {p['id']}.{ext}", "Промпт:", p["prompt"], "", "-" * 70, ""]
+    (batch / "PROMPTS.txt").write_text("\n".join(txt), encoding="utf-8")
+    pm = folder / "4_visual/prompts.md"
+    md = pm.read_text(encoding="utf-8")
+    for p in prompts:  # mark as sent so the next handoff does not repeat them
+        md = re.sub(rf"(^## {p['id']}\b.*?^status:)[ \t]*[A-Z]*", r"\1 SENT", md, count=1, flags=re.M | re.S)
+    pm.write_text(md, encoding="utf-8")
+    print(f"{len(prompts)} prompts -> {batch}")
+    for m in missing:
+        print("MISSING REF " + m)
+
+
+def cmd_ingest(a) -> None:
+    """Take owner's files from handoff/*/return/, file them under images/ or video_gen/, update beats.csv."""
+    folder = video_dir(a.id)
+    mr = media_root(folder)
+    prompts = {p["id"]: p for p in parse_prompts((folder / "4_visual/prompts.md").read_text(encoding="utf-8"))}
+    path = folder / "4_visual/beats.csv"
+    data, fields = rows(path), csv_fields(path)
+    by_beat = {b["beat_id"]: b for b in data}
+    got, unknown = [], []
+    for f in sorted((mr / "handoff").glob("*/return/*")):
+        m = re.match(r"((?:IMG|VID)-\d{3})", f.name, re.I)
+        if not f.is_file() or not m or m.group(1).upper() not in prompts:
+            unknown.append(f.name)
+            continue
+        pid = m.group(1).upper()
+        sub = "video_gen" if pid.startswith("VID") else "images"
+        dst = mr / sub / f"{pid}{f.suffix.lower()}"
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        if dst.exists():
+            dst.unlink()
+        shutil.move(str(f), dst)
+        asset = dst
+        if sub == "images":  # GPT images are 3:2 etc. -> 1920x1080 center crop, original kept
+            asset = dst.with_name(f"{pid}_16x9.png")
+            run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(dst), "-vf",
+                 "scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080", "-frames:v", "1", str(asset)])
+            if not asset.exists():
+                asset = dst
+        b = by_beat.get(prompts[pid]["beat"])
+        if b is not None:
+            b["asset_file"] = f"{sub}/{asset.name}"
+            b["asset_sha256"] = sha256(asset)
+            b["status"] = "RECEIVED"
+        got.append(f"{pid} -> {sub}/{dst.name} (beat {prompts[pid]['beat']})")
+    write_rows(path, data, fields)
+    waiting = [pid for pid, p in prompts.items() if p["status"].upper() == "SENT"
+               and not any(g.startswith(pid) for g in got)
+               and not any(x.name.startswith(pid) for d in ("images", "video_gen") for x in (mr / d).glob(f"{pid}.*"))]
+    print(f"received {len(got)}")
+    for g in got:
+        print("  " + g)
+    if unknown:
+        print("NOT MATCHED (rename to IMG-###/VID-###): " + ", ".join(unknown))
+    if waiting:
+        print(f"still missing {len(waiting)}: " + ", ".join(waiting))
+
+
 def cmd_pages(a) -> None:
     """Render PDF pages of archived sources to PNG (media/sources/pages/<source_id>_p<N>.png)."""
     import pymupdf
@@ -757,6 +867,9 @@ def main() -> None:
     s.add_argument("-n", type=int, default=10, help="results per query"); s.set_defaults(fn=cmd_yt_search)
     s = sub.add_parser("court"); s.add_argument("id"); s.add_argument("query")
     s.add_argument("-n", type=int, default=8); s.set_defaults(fn=cmd_court)
+    s = sub.add_parser("handoff"); s.add_argument("id"); s.add_argument("--kind", default="", help="img|vid")
+    s.add_argument("--batch", default=""); s.set_defaults(fn=cmd_handoff)
+    s = sub.add_parser("ingest"); s.add_argument("id"); s.set_defaults(fn=cmd_ingest)
     s = sub.add_parser("pages"); s.add_argument("id"); s.add_argument("--sources", default="", help="S001,S004")
     s.add_argument("--pages", default="", help="1,3,7 (default: first --max pages)")
     s.add_argument("--max", type=int, default=30); s.add_argument("--dpi", type=int, default=200)

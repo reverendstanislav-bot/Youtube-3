@@ -13,6 +13,8 @@ hooks:
 ---
 Cases move while videos are made. Publication must use the current record.
 
+**Craft knowledge — read first, apply throughout:** `knowledge/legal_media_us.md`.
+
 Read only: `1_research/research.md` (as-of date), `1_research/events.csv`, `1_research/claims.csv`, `1_research/sources.csv`, `2_script/script.md`, `2_script/shorts.csv`, `4_visual/beats.csv`, `6_release/rights.csv`, `channel/legal.md`.
 Write only: `6_release/final_check.md`; append rows to `events.csv`; in `claims.csv` only mark changed claims `SUPERSEDED` and add their replacement rows.
 

@@ -5,6 +5,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 ## Where things live
 | Path | What |
 |---|---|
+| `knowledge/` | craft knowledge for agents: YouTube retention, documentary storytelling, US media law & YouTube policy, packaging |
 | `channel/` | channel rules: `brand.md`, `storytelling.md`, `legal.md`, `voice.md`, `visual_style.md` |
 | `.claude/agents/` | one file per agent |
 | `topics/backlog.csv` | topic backlog (scout) |
@@ -13,6 +14,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | `tools/yt.py` | state keeper, media librarian, render QC, credit tracker |
 | `weftcut/` | brand motifs for WeftCut (captions with red active word, headline, money, lower third, card, quote, labels) — see `weftcut/README.md` |
 | `C:/Users/KK/Documents/WhatItCost_media/<id>-<slug>/` | all media (never in git) |
+| `C:/Users/KK/Documents/WhatItCost_media/_style_refs/` | channel style reference images for ChatGPT (style only, never content) |
 
 **Legacy — do not modify:** `00_FOUNDATION/`, `00_CORE/`, `01_CHANNEL/`, `02_PIPELINE/`, `03_VIDEOS/`, `04_SHARED/`, `AGENTS.md`, old `tools/*.py` (only exception: new top-level dirs are whitelisted in `validate_repo.py` so legacy CI passes), `.github/workflows/video001_*`. VIDEO_001 and VIDEO_002 live there and stay untouched. New work starts at VIDEO_003 in `videos/`.
 
@@ -23,7 +25,7 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | 2 | Research | researcher Mode 2 (deep story research) → `yt.py fetch-sources` + `texts` + `pages` → critic Mode R (research review) → researcher Mode 2b (fill gaps) → critic Mode R again (max 2 rounds; stop early on READY; WEAK TOPIC → tell owner) | — (report only) |
 | 3 | Script | writer → critic Mode S + hook-doctor + defamation-risk → writer (≤3 rounds) → writer voice script | **G2** script + Shorts lock |
 | 4 | Voice | Higgsfield TTS (spend gate) → WeftCut `transcribe_clip` → `yt.py words` → `yt.py audio-metrics` → audio-qc | **G3** spend approval before TTS |
-| 5 | Visual | visual-director (beats), prompt-engineer (image prompts) → owner generates → visual-director QC → prompt-engineer (video prompts) → owner generates → `yt.py frames` → QC → `yt.py hash-beats`; document-designer → `yt.py doc-shots` | **G4** images, **G5** videos |
+| 5 | Visual | visual-director (beats) → prompt-engineer (IMG prompts) → `yt.py handoff --kind img` → owner generates in ChatGPT, drops files in `handoff/<batch>/return/` → `yt.py ingest` → visual-director QC → prompt-engineer fixes / VID prompts → `handoff --kind vid` → owner → `ingest` + `frames` → QC; document-designer → `yt.py pages` + `doc-shots` | **G4** images, **G5** videos |
 | 6 | Edit | Claude assembles in WeftCut (brand motifs) → `yt.py frames` → retention-editor → fixes → `yt.py render-qc` → Shorts 9:16 | **G6** rough cut, **G7** Shorts |
 | 7 | Release | final-check, packaging (titles, desc, chapters, Shorts, release plan); Claude builds thumbnail | **G8** pick title + thumbnail |
 | 8 | Publish | owner uploads | — |
@@ -65,6 +67,8 @@ python tools/yt.py audio-metrics <id> [path]            # loudness, silences, tr
 python tools/yt.py frames <id> <render path>            # frames + contact sheets + freeze/black report → 5_edit/frames_report.txt
 python tools/yt.py pages <id> [--sources S004] [--pages 1,3]  # PDF pages → media/sources/pages/*.png (PyMuPDF)
 python tools/yt.py doc-shots <id> [--only B010,B011]    # render document shots from 4_visual/doc_shots.csv
+python tools/yt.py handoff <id> [--kind img|vid]        # pack READY/FIX prompts + refs for the owner → media/handoff/<batch>/PROMPTS.txt, refs/, return/
+python tools/yt.py ingest <id>                          # file owner results from handoff/*/return/ (IMG-###/VID-###), crop images to 16:9, beats → RECEIVED
 python tools/yt.py hash-beats <id>                      # sha256 for every asset_file in beats.csv
 ```
 
