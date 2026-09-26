@@ -1,0 +1,104 @@
+<!doctype html><html><head>
+<script type="application/json" id="motif-manifest">
+{
+  "id": "wic-captions-16-9",
+  "name": "WIC Captions 16:9",
+  "version": 1,
+  "size": [
+    1920,
+    1080
+  ],
+  "default_duration_s": 10,
+  "max_duration_s": null,
+  "max_duration_prop": null,
+  "content_duration_s": null,
+  "fonts": [],
+  "props_schema": {
+    "words_json": {
+      "type": "string",
+      "multiline": true,
+      "max_length": 500000,
+      "default": "[{\"w\":\"In\",\"s\":0.0,\"e\":0.2},{\"w\":\"August\",\"s\":0.2,\"e\":0.6},{\"w\":\"twenty\",\"s\":0.6,\"e\":0.9},{\"w\":\"nineteen,\",\"s\":0.9,\"e\":1.4},{\"w\":\"a\",\"s\":1.5,\"e\":1.6},{\"w\":\"couple\",\"s\":1.6,\"e\":1.9},{\"w\":\"in\",\"s\":1.9,\"e\":2.0},{\"w\":\"Massachusetts\",\"s\":2.0,\"e\":2.7},{\"w\":\"began\",\"s\":2.7,\"e\":3.0},{\"w\":\"receiving\",\"s\":3.0,\"e\":3.4},{\"w\":\"things\",\"s\":3.4,\"e\":3.7},{\"w\":\"that\",\"s\":3.7,\"e\":3.9},{\"w\":\"made\",\"s\":3.9,\"e\":4.1},{\"w\":\"no\",\"s\":4.1,\"e\":4.3},{\"w\":\"sense.\",\"s\":4.3,\"e\":4.9},{\"w\":\"Live\",\"s\":5.6,\"e\":5.9},{\"w\":\"insects.\",\"s\":5.9,\"e\":6.6}]"
+    },
+    "offset_s": {
+      "type": "number",
+      "default": 0,
+      "min": -3600,
+      "max": 3600
+    },
+    "font_size": {
+      "type": "number",
+      "default": 46,
+      "min": 20,
+      "max": 120
+    },
+    "max_chars": {
+      "type": "number",
+      "default": 53,
+      "min": 20,
+      "max": 90
+    },
+    "bottom_px": {
+      "type": "number",
+      "default": 46,
+      "min": 0,
+      "max": 400
+    },
+    "base_color": {
+      "type": "color",
+      "default": "#EDEDED"
+    },
+    "active_color": {
+      "type": "color",
+      "default": "#D32222"
+    }
+  }
+}
+</script>
+
+
+<meta charset="utf-8"><style>
+@font-face{font-family:"WIC Mont";src:url(data:font/woff2;base64,__WIC_MONT800__) format("woff2");font-weight:800}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:transparent}
+#cap{position:absolute;left:120px;right:120px;text-align:center;font-family:"WIC Mont",sans-serif;font-weight:800;line-height:1.18;
+-webkit-text-stroke:6.4px #000;paint-order:stroke fill;text-shadow:0 2px 6px rgba(0,0,0,.45)}
+.l{display:block;white-space:nowrap}
+</style></head><body><div id="cap"></div><script>
+var cap=document.getElementById('cap'), CUES=[], P={};
+function buildCues(words,maxc){
+  var cues=[],cur=[],len=0;
+  function push(){ if(cur.length){cues.push(cur);} cur=[];len=0; }
+  for(var i=0;i<words.length;i++){
+    var w=words[i], add=(len?1:0)+w.w.length, prev=cur[cur.length-1];
+    var gap=prev? w.s-prev.e : 0, endS=prev && /[.?!]["”']?$/.test(prev.w);
+    if(cur.length && (len+add>maxc*2 || gap>0.7 || (endS && len>maxc*0.6))) push();
+    cur.push(w); len+=(len?1:0)+w.w.length;
+  }
+  push();
+  return cues.map(function(c,k){
+    var total=c.reduce(function(a,w){return a+w.w.length+1;},-1), lines=[c];
+    if(total>maxc){ var acc=0,best=1,bd=1e9; for(var j=0;j<c.length-1;j++){acc+=c[j].w.length+1; var d=Math.abs(acc-total/2); if(d<bd){bd=d;best=j+1;}} lines=[c.slice(0,best),c.slice(best)]; }
+    var next=cues[k+1];
+    return {s:c[0].s, e: next? Math.min(next[0].s, c[c.length-1].e+0.6) : c[c.length-1].e+0.6, lines:lines, words:c};
+  });
+}
+motif.define({
+  setup: async function(props){
+    P=props; var words=[]; try{words=JSON.parse(props.words_json||"[]");}catch(e){words=[];}
+    CUES=buildCues(words, props.max_chars||53);
+    cap.style.fontSize=(props.font_size||46)+'px'; cap.style.bottom=(props.bottom_px||46)+'px'; cap.style.color=props.base_color;
+    await document.fonts.load('800 '+(props.font_size||46)+'px "WIC Mont"');
+  },
+  frame: function(t){
+    var tt=t+(P.offset_s||0), lo=0, hi=CUES.length-1, c=null;
+    while(lo<=hi){var m=(lo+hi)>>1; if(CUES[m].e<=tt) lo=m+1; else if(CUES[m].s>tt) hi=m-1; else {c=CUES[m];break;}}
+    if(!c){cap.innerHTML='';return;}
+    var html='';
+    c.lines.forEach(function(line){ html+='<span class="l">'+line.map(function(w){
+      var on = tt>=w.s && (tt<w.e || w===c.words[c.words.length-1] || tt < (c.words[c.words.indexOf(w)+1]||{s:1e9}).s);
+      var txt=w.w.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+      return on? '<span style="color:'+P.active_color+'">'+txt+'</span>' : txt; }).join(' ')+'</span>'; });
+    cap.innerHTML=html;
+  }
+});
+</script></body></html>

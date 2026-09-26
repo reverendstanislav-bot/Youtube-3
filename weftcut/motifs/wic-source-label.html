@@ -1,0 +1,52 @@
+<!doctype html><html><head>
+<script type="application/json" id="motif-manifest">
+{
+  "id": "wic-source-label",
+  "name": "WIC Source Label",
+  "version": 1,
+  "size": [
+    1920,
+    1080
+  ],
+  "default_duration_s": 5,
+  "max_duration_s": null,
+  "max_duration_prop": null,
+  "content_duration_s": 0.5,
+  "fonts": [],
+  "props_schema": {
+    "text": {
+      "type": "string",
+      "default": "COURT RECORD · D. MASS. · 2020",
+      "max_length": 90
+    },
+    "corner": {
+      "type": "enum",
+      "options": [
+        "top-left",
+        "top-right",
+        "low-left",
+        "low-right"
+      ],
+      "default": "top-left"
+    }
+  }
+}
+</script>
+
+
+<meta charset="utf-8"><style>
+@font-face{font-family:"WIC Inter";src:url(data:font/woff2;base64,__WIC_INTER700__) format("woff2");font-weight:700}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:transparent}
+#l{position:absolute;display:flex;align-items:center;gap:14px;padding:12px 20px 12px 14px;background:rgba(11,11,11,.78);
+font-family:"WIC Inter",sans-serif;font-weight:700;font-size:24px;letter-spacing:2.4px;color:#EDEDED;text-transform:uppercase;white-space:nowrap}
+#t{width:6px;height:28px;background:#D32222}
+</style></head><body><div id="l"><div id="t"></div><span id="x"></span></div><script>
+var l=document.getElementById('l');
+motif.define({setup: async function(p){
+  document.getElementById('x').textContent=p.text||'';
+  var c=p.corner||'top-left', low=c.indexOf('low')===0, right=c.indexOf('right')>0;
+  l.style.top=low?'':'72px'; l.style.bottom=low?'244px':''; l.style.left=right?'':'96px'; l.style.right=right?'96px':'';
+  l.animate([{opacity:0,transform:'translateY(-8px)'},{opacity:1,transform:'none'}],{duration:400,easing:'ease-out',fill:'both'});
+  await document.fonts.load('700 24px "WIC Inter"');
+}});
+</script></body></html>

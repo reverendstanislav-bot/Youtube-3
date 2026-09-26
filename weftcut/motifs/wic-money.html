@@ -1,0 +1,104 @@
+<!doctype html><html><head>
+<script type="application/json" id="motif-manifest">
+{
+  "id": "wic-money",
+  "name": "WIC Money",
+  "version": 1,
+  "size": [
+    1920,
+    1080
+  ],
+  "default_duration_s": 5,
+  "max_duration_s": null,
+  "max_duration_prop": null,
+  "content_duration_s": 1.6,
+  "fonts": [],
+  "props_schema": {
+    "amount": {
+      "type": "number",
+      "default": 55.7,
+      "min": 0,
+      "max": 1000000000
+    },
+    "decimals": {
+      "type": "number",
+      "default": 1,
+      "min": 0,
+      "max": 3
+    },
+    "prefix": {
+      "type": "string",
+      "default": "$",
+      "max_length": 4
+    },
+    "suffix": {
+      "type": "string",
+      "default": "M",
+      "max_length": 12
+    },
+    "label": {
+      "type": "string",
+      "default": "CIVIL SETTLEMENT PACKAGE",
+      "max_length": 60
+    },
+    "caveat": {
+      "type": "string",
+      "default": "Not a judgment. Not paid by eBay alone.",
+      "max_length": 120
+    },
+    "count_up": {
+      "type": "enum",
+      "options": [
+        "yes",
+        "no"
+      ],
+      "default": "yes"
+    },
+    "align": {
+      "type": "enum",
+      "options": [
+        "left",
+        "center",
+        "right"
+      ],
+      "default": "center"
+    },
+    "amount_color": {
+      "type": "color",
+      "default": "#D32222"
+    }
+  }
+}
+</script>
+
+
+<meta charset="utf-8"><style>
+@font-face{font-family:"WIC Bebas";src:url(data:font/woff2;base64,__WIC_BEBAS__) format("woff2")}
+@font-face{font-family:"WIC Inter";src:url(data:font/woff2;base64,__WIC_INTER500__) format("woff2");font-weight:500}
+@font-face{font-family:"WIC InterB";src:url(data:font/woff2;base64,__WIC_INTER700__) format("woff2");font-weight:700}
+html,body{margin:0;width:1920px;height:1080px;overflow:hidden;background:transparent}
+#box{position:absolute;left:140px;right:140px;top:0;bottom:216px;display:flex;flex-direction:column;justify-content:center}
+#k{font-family:"WIC InterB",sans-serif;font-weight:700;font-size:30px;letter-spacing:4px;color:#EDEDED;opacity:.85}
+#a{font-family:"WIC Bebas",sans-serif;font-size:300px;line-height:.9;margin-top:10px;text-shadow:0 8px 30px rgba(0,0,0,.5);font-variant-numeric:tabular-nums}
+#c{font-family:"WIC Inter",sans-serif;font-weight:500;font-size:34px;color:#EDEDED;margin-top:26px;padding-left:18px;border-left:6px solid #D32222;line-height:1.25}
+.center{align-items:center;text-align:center}.center #c{border-left:none;padding-left:0}
+.right{align-items:flex-end;text-align:right}.right #c{border-left:none;border-right:6px solid #D32222;padding:0 18px 0 0}
+</style></head><body><div id="box"><div id="k"></div><div id="a"></div><div id="c"></div></div><script>
+var P={},a=document.getElementById('a');
+function fmt(v){var d=P.decimals||0;return (P.prefix||'')+Number(v).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d})+(P.suffix||'');}
+motif.define({
+ setup: async function(p){P=p;
+  document.getElementById('box').className=p.align||'center';
+  document.getElementById('k').textContent=p.label||'';
+  var c=document.getElementById('c'); c.textContent=p.caveat||''; c.style.display=p.caveat?'block':'none';
+  a.style.color=p.amount_color||'#D32222';
+  document.getElementById('k').animate([{opacity:0},{opacity:.85}],{duration:400,fill:'both'});
+  c.animate([{opacity:0,transform:'translateY(10px)'},{opacity:1,transform:'none'}],{duration:450,delay:1100,easing:'ease-out',fill:'both'});
+  await Promise.all([document.fonts.load('300px "WIC Bebas"'),document.fonts.load('500 34px "WIC Inter"'),document.fonts.load('700 30px "WIC InterB"')]);
+ },
+ frame: function(t){
+  var k=P.count_up==='no'?1:Math.min(1,Math.max(0,(t-0.15)/1.1)); k=1-Math.pow(1-k,3);
+  a.textContent=fmt((P.amount||0)*k); a.style.opacity=Math.min(1,t/0.2);
+ }
+});
+</script></body></html>

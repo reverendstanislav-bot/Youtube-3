@@ -9,7 +9,8 @@ VIDEOS = ROOT / "03_VIDEOS"
 INDEX = ROOT / "02_PIPELINE" / "VIDEO_INDEX.csv"
 BACKLOG = ROOT / "02_PIPELINE" / "TOPIC_BACKLOG.csv"
 
-ALLOWED_TOP = {".github","00_FOUNDATION","00_CORE","01_CHANNEL","02_PIPELINE","03_VIDEOS","04_SHARED","tools"}
+ALLOWED_TOP = {".github","00_FOUNDATION","00_CORE","01_CHANNEL","02_PIPELINE","03_VIDEOS","04_SHARED","tools",
+               ".claude","channel","topics","videos","weftcut"}  # new Claude Code structure from VIDEO_003
 ROOT_REQUIRED = {"README.md","AGENTS.md",".gitignore"}
 FOUNDATION_REQUIRED = {
     "README.md","CHANNEL_LOCKS.md","POSITIONING.md","CONTENT_PILLARS.md",
