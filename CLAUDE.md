@@ -27,15 +27,15 @@ Faceless US business/legal documentary channel. Claude (main session) is the **d
 | 3 | Script | writer → critic Mode S + hook-doctor + defamation-risk → writer (≤3 rounds) → writer voice script | **G2** script + Shorts lock |
 | 4 | Voice | Higgsfield TTS (spend gate) → WeftCut `transcribe_clip` → `yt.py words` → `yt.py audio-metrics` → audio-qc | **G3** spend approval before TTS |
 | 5 | Visual | visual-director (beats) → prompt-engineer (IMG prompts) → `yt.py handoff --kind img` → owner generates in ChatGPT, drops files in `handoff/<batch>/return/` → `yt.py ingest` → visual-director QC → prompt-engineer fixes / VID prompts → `handoff --kind vid` → owner → `ingest` + `frames` → QC; document-designer → `yt.py pages` + `doc-shots` | **G4** images, **G5** videos |
-| 6 | Edit | Claude assembles in WeftCut (brand motifs) → `yt.py frames` → retention-editor → fixes → `yt.py render-qc` → Shorts 9:16 | **G6** rough cut, **G7** Shorts |
+| 6 | Edit | `yt.py weftcut-plan` → assembler (haiku) builds the timeline in WeftCut → **owner exports** mp4 → `yt.py frames` → retention-editor → fixes → `render-qc` → Shorts 9:16 | **G6** rough cut, **G7** Shorts |
 | 7 | Release | final-check, packaging (titles, desc, chapters, Shorts, release plan); Claude builds thumbnail | **G8** pick title + thumbnail |
 | 8 | Publish | owner uploads | — |
 
 **Before running any phase, read its section in `RUNBOOK.md`** — exact agent prompts, scripts and order. Run independent agents in parallel.
 
 ## Agents — token discipline
-- Models: **opus** researcher, writer, critic · **sonnet** scout, hook-doctor, defamation-risk, visual-director, prompt-engineer, retention-editor, final-check, packaging · **haiku** audio-qc, document-designer.
-- No agent has Bash. Everything mechanical (downloads, hashing, measuring, frames, rendering) is a `yt.py` command the dispatcher runs — 0 tokens.
+- Models: **opus** researcher, writer, critic · **sonnet** scout, hook-doctor, defamation-risk, visual-director, prompt-engineer, retention-editor, final-check, packaging · **haiku** audio-qc, document-designer, assembler.
+- No agent has Bash (assembler only has the WeftCut MCP tools it needs). Everything mechanical (downloads, hashing, measuring, frames, rendering) is a `yt.py` command the dispatcher runs — 0 tokens.
 - Each agent has `maxTurns` and a PreToolUse lock (`tools/agent_guard.py`) that blocks writes outside its own files.
 - Give every agent a short prompt: video id, mode, and the exact files/beats it should handle. Nothing else.
 
@@ -68,8 +68,10 @@ python tools/yt.py audio-metrics <id> [path]            # loudness, silences, tr
 python tools/yt.py frames <id> <render path>            # frames + contact sheets + freeze/black report → 5_edit/frames_report.txt
 python tools/yt.py pages <id> [--sources S004] [--pages 1,3]  # PDF pages → media/sources/pages/*.png (PyMuPDF)
 python tools/yt.py doc-shots <id> [--only B010,B011]    # render document shots from 4_visual/doc_shots.csv
-python tools/yt.py handoff <id> [--kind img|vid]        # pack READY/FIX prompts + refs for the owner → media/handoff/<batch>/PROMPTS.txt, refs/, return/
-python tools/yt.py ingest <id>                          # file owner results from handoff/*/return/ (IMG-###/VID-###), crop images to 16:9, beats → RECEIVED
+python tools/yt.py board                                # all videos: stage, gates waiting for the owner, credits
+python tools/yt.py handoff <id[,id,...]> [--kind img|vid|thm]  # READY/FIX prompts + refs of one or more videos → WhatItCost_media/_handoff/<batch>/ (PROMPTS.txt, refs/, return/)
+python tools/yt.py ingest <id>                          # file owner results (<video>_IMG/VID/THM-###) from return/, crop images to 16:9, beats → RECEIVED, rights rows
+python tools/yt.py weftcut-plan <id> [--cut N]          # beats + narration + words → 5_edit/weftcut_plan.json for the assembler agent
 python tools/yt.py hash-beats <id>                      # sha256 for every asset_file in beats.csv
 ```
 

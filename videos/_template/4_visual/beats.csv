@@ -1,1 +1,1 @@
-beat_id,section,start,end,text,family,visual_type,description,prompt_id,asset_file,asset_sha256,source_ids,claim_ids,short_ids,rights_id,status,notes
+beat_id,section,start,end,text,family,visual_type,description,prompt_id,asset_file,asset_sha256,motion,motif,motif_props,source_ids,claim_ids,short_ids,rights_id,status,notes

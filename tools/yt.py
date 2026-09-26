@@ -680,7 +680,8 @@ def cmd_court(a) -> None:
     print(f"-> {out.relative_to(ROOT)}")
 
 
-PROMPT_BLOCK = re.compile(r"^## ((?:IMG|VID)-\d{3})\b.*?$(.*?)(?=^## (?:IMG|VID)-\d{3}\b|\Z)", re.M | re.S)
+PROMPT_BLOCK = re.compile(r"^## ((?:IMG|VID|THM)-\d{3})\b.*?$(.*?)(?=^## (?:IMG|VID|THM)-\d{3}\b|\Z)", re.M | re.S)
+KIND_DIR = {"IMG": "images", "VID": "video_gen", "THM": "thumbnail"}
 
 
 def parse_prompts(md: str) -> list[dict]:
@@ -698,96 +699,237 @@ def parse_prompts(md: str) -> list[dict]:
 
 
 def cmd_handoff(a) -> None:
-    """Pack prompts + reference files for the owner: media/handoff/<batch>/PROMPTS.txt + refs/ + return/."""
-    folder = video_dir(a.id)
-    mr = media_root(folder)
-    prompts = [p for p in parse_prompts((folder / "4_visual/prompts.md").read_text(encoding="utf-8"))
-               if p["status"].upper() in ("", "READY", "FIX") and (not a.kind or p["id"].startswith(a.kind.upper()))]
-    if not prompts:
-        die("no READY/FIX prompts in 4_visual/prompts.md")
-    beats = {b["beat_id"]: b for b in rows(folder / "4_visual/beats.csv")}
-    batch = mr / "handoff" / (a.batch or f"{TODAY}_{(a.kind or 'all').lower()}")
+    """Pack READY/FIX prompts + refs of one or more videos into ONE folder for the owner:
+    WhatItCost_media/_handoff/<batch>/PROMPTS.txt + refs/ + return/. Files are named <video>_<ID>."""
+    ids = [x.strip() for x in a.id.split(",") if x.strip()]
+    batch = MEDIA_BASE / "_handoff" / (a.batch or f"{TODAY}_{'-'.join(i.zfill(3) for i in ids)}_{(a.kind or 'all').lower()}")
     (batch / "refs").mkdir(parents=True, exist_ok=True)
     (batch / "return").mkdir(exist_ok=True)
     style_dir = MEDIA_BASE / "_style_refs"
-    txt = [f"WHAT IT COST — VIDEO {folder.name} — пакет {batch.name}",
-           f"Кадров: {len(prompts)}. Готовые файлы клади в папку return/ под указанными именами.", "=" * 70, ""]
-    missing = []
-    for p in prompts:
-        b = beats.get(p["beat"], {})
-        when = f"{b.get('start', '?')}–{b.get('end', '?')} c" if b else ""
-        kind = "ВИДЕО (оживить картинку)" if p["id"].startswith("VID") or p["type"] == "video" else "ФОТО / КАДР"
-        ext = "mp4" if kind.startswith("ВИДЕО") else "png"
-        attach = []
-        for i, r in enumerate(filter(None, (x.strip() for x in p["refs"].split(";"))), 1):
-            src = mr / r if (mr / r).exists() else (style_dir / r if (style_dir / r).exists() else mr / "images" / r)
-            if not src.exists():
-                missing.append(f"{p['id']}: {r}")
-                attach.append(f"{r}  (НЕ НАЙДЕН)")
-                continue
-            dst = f"{p['id']}__ref{i}__{src.name}"
-            shutil.copy2(src, batch / "refs" / dst)
-            attach.append(dst)
-        txt += [f"### {p['id']} — {kind} — сцена {p['beat']} {when}".rstrip(),
-                f"Прикрепить: {', '.join(attach) if attach else 'ничего'}",
-                *([f"Длительность: {p['duration']}"] if p["duration"] else []),
-                f"Сохранить как: {p['id']}.{ext}", "Промпт:", p["prompt"], "", "-" * 70, ""]
-    (batch / "PROMPTS.txt").write_text("\n".join(txt), encoding="utf-8")
-    pm = folder / "4_visual/prompts.md"
-    md = pm.read_text(encoding="utf-8")
-    for p in prompts:  # mark as sent so the next handoff does not repeat them
-        md = re.sub(rf"(^## {p['id']}\b.*?^status:)[ \t]*[A-Z]*", r"\1 SENT", md, count=1, flags=re.M | re.S)
-    pm.write_text(md, encoding="utf-8")
-    print(f"{len(prompts)} prompts -> {batch}")
+    txt, missing, total = [], [], 0
+    for vid in ids:
+        folder = video_dir(vid)
+        vid = folder.name[:3]
+        mr = media_root(folder)
+        pm = folder / "4_visual/prompts.md"
+        prompts = [p for p in parse_prompts(pm.read_text(encoding="utf-8"))
+                   if p["status"].upper() in ("", "READY", "FIX") and (not a.kind or p["id"].startswith(a.kind.upper()))]
+        if not prompts:
+            continue
+        beats = {b["beat_id"]: b for b in rows(folder / "4_visual/beats.csv")}
+        txt += ["=" * 70, f"VIDEO {folder.name} — {len(prompts)} кадров", "=" * 70, ""]
+        for p in prompts:
+            b = beats.get(p["beat"], {})
+            when = f"{b.get('start', '?')}–{b.get('end', '?')} c" if b else ""
+            pre = p["id"][:3]
+            kind = {"VID": "ВИДЕО (оживить картинку)", "THM": "ФОН ДЛЯ ПРЕВЬЮ"}.get(pre, "ФОТО / КАДР")
+            ext = "mp4" if pre == "VID" else "png"
+            name = f"{vid}_{p['id']}"
+            attach = []
+            for i, r in enumerate(filter(None, (x.strip() for x in p["refs"].split(";"))), 1):
+                src = next((c for c in (mr / r, style_dir / r, mr / "images" / r) if c.exists()), None)
+                if src is None:
+                    missing.append(f"{name}: {r}")
+                    attach.append(f"{r}  (НЕ НАЙДЕН)")
+                    continue
+                dst = f"{name}__ref{i}__{src.name}"
+                shutil.copy2(src, batch / "refs" / dst)
+                attach.append(dst)
+            txt += [f"### {name} — {kind}" + (f" — сцена {p['beat']} {when}" if b else ""),
+                    f"Прикрепить: {', '.join(attach) if attach else 'ничего'}",
+                    *([f"Длительность: {p['duration']}"] if p["duration"] else []),
+                    f"Сохранить как: {name}.{ext}", "Промпт:", p["prompt"], "", "-" * 70, ""]
+        md = pm.read_text(encoding="utf-8")
+        for p in prompts:  # mark as sent so the next handoff does not repeat them
+            md = re.sub(rf"(^## {p['id']}\b.*?^status:)[ \t]*[A-Z]*", r"\1 SENT", md, count=1, flags=re.M | re.S)
+        pm.write_text(md, encoding="utf-8")
+        total += len(prompts)
+    if not total:
+        shutil.rmtree(batch, ignore_errors=True)
+        die("no READY/FIX prompts")
+    head = [f"WHAT IT COST — пакет {batch.name}", f"Всего кадров: {total}. Готовые файлы клади в return/ под указанными именами.", ""]
+    (batch / "PROMPTS.txt").write_text("\n".join(head + txt), encoding="utf-8")
+    print(f"{total} prompts -> {batch}")
     for m in missing:
         print("MISSING REF " + m)
 
 
+def add_rights(folder: Path, asset: str, beat: str, pid: str) -> None:
+    """Owner's ChatGPT generations get a rights row automatically."""
+    path = folder / "6_release/rights.csv"
+    data, fields = rows(path), csv_fields(path)
+    if any(r.get("asset_file") == asset for r in data):
+        return
+    data.append({k: "" for k in fields} | {
+        "rights_id": f"R-{pid}", "asset_file": asset, "origin": "owner generation — ChatGPT",
+        "license": "own AI generation", "attribution": "", "source_url": "", "used_in_beats": beat,
+        "notes": "AI-generated: tick YouTube altered/synthetic disclosure if realistic"})
+    write_rows(path, data, fields)
+
+
 def cmd_ingest(a) -> None:
-    """Take owner's files from handoff/*/return/, file them under images/ or video_gen/, update beats.csv."""
+    """File owner results (<video>_IMG-### / VID / THM) from _handoff/*/return and the video's handoff/*/return,
+    crop images to 1920x1080, update beats.csv (RECEIVED) and rights.csv."""
     folder = video_dir(a.id)
+    vid = folder.name[:3]
     mr = media_root(folder)
     prompts = {p["id"]: p for p in parse_prompts((folder / "4_visual/prompts.md").read_text(encoding="utf-8"))}
     path = folder / "4_visual/beats.csv"
     data, fields = rows(path), csv_fields(path)
     by_beat = {b["beat_id"]: b for b in data}
     got, unknown = [], []
-    for f in sorted((mr / "handoff").glob("*/return/*")):
-        m = re.match(r"((?:IMG|VID)-\d{3})", f.name, re.I)
-        if not f.is_file() or not m or m.group(1).upper() not in prompts:
+    files = sorted(list((MEDIA_BASE / "_handoff").glob("*/return/*")) + list((mr / "handoff").glob("*/return/*")))
+    for f in files:
+        m = re.match(r"(?:(\d{3})_)?((?:IMG|VID|THM)-\d{3})", f.name, re.I)
+        if not f.is_file() or not m:
             unknown.append(f.name)
             continue
-        pid = m.group(1).upper()
-        sub = "video_gen" if pid.startswith("VID") else "images"
+        if m.group(1) and m.group(1) != vid:
+            continue  # belongs to another video
+        pid = m.group(2).upper()
+        if pid not in prompts:
+            unknown.append(f.name)
+            continue
+        sub = KIND_DIR[pid[:3]]
         dst = mr / sub / f"{pid}{f.suffix.lower()}"
         dst.parent.mkdir(parents=True, exist_ok=True)
         if dst.exists():
             dst.unlink()
         shutil.move(str(f), dst)
         asset = dst
-        if sub == "images":  # GPT images are 3:2 etc. -> 1920x1080 center crop, original kept
+        if sub == "images":  # ChatGPT images are 3:2 -> 1920x1080 center crop, original kept
             asset = dst.with_name(f"{pid}_16x9.png")
             run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(dst), "-vf",
                  "scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080", "-frames:v", "1", str(asset)])
             if not asset.exists():
                 asset = dst
-        b = by_beat.get(prompts[pid]["beat"])
+        beat = prompts[pid]["beat"]
+        b = by_beat.get(beat)
         if b is not None:
             b["asset_file"] = f"{sub}/{asset.name}"
             b["asset_sha256"] = sha256(asset)
             b["status"] = "RECEIVED"
-        got.append(f"{pid} -> {sub}/{dst.name} (beat {prompts[pid]['beat']})")
+        add_rights(folder, f"{sub}/{asset.name}", beat, pid)
+        got.append(f"{pid} -> {sub}/{asset.name}" + (f" (beat {beat})" if b is not None else ""))
     write_rows(path, data, fields)
-    waiting = [pid for pid, p in prompts.items() if p["status"].upper() == "SENT"
-               and not any(g.startswith(pid) for g in got)
-               and not any(x.name.startswith(pid) for d in ("images", "video_gen") for x in (mr / d).glob(f"{pid}.*"))]
+    done = {g.split(" ")[0] for g in got}
+    waiting = [pid for pid, p in prompts.items() if p["status"].upper() == "SENT" and pid not in done
+               and not any((mr / KIND_DIR[pid[:3]]).glob(f"{pid}.*"))]
     print(f"received {len(got)}")
     for g in got:
         print("  " + g)
     if unknown:
-        print("NOT MATCHED (rename to IMG-###/VID-###): " + ", ".join(unknown))
+        print("NOT MATCHED (name must be <video>_IMG-###, VID-###, THM-###): " + ", ".join(unknown))
     if waiting:
         print(f"still missing {len(waiting)}: " + ", ".join(waiting))
+
+
+def cmd_board(a) -> None:
+    """All videos at a glance: stage, gates waiting for the owner, next action, credits."""
+    print(f"{'video':28} {'stage':13} {'waiting owner':30} {'credits':>7}  next")
+    for st in sorted(VIDEOS.glob("[0-9][0-9][0-9]-*/status.yaml")):
+        t = st.read_text(encoding="utf-8")
+        waiting = [g.split("_")[0] for g in GATES if get_scalar(t, g, "  ") == "WAITING_OWNER"]
+        spent = sum(float(m) for m in re.findall(r'credits: ([0-9.]+)\}', t))
+        print(f"{st.parent.name[:28]:28} {get_scalar(t, 'stage'):13} {','.join(waiting) or '-':30} {spent:7g}  "
+              f"{get_scalar(t, 'next_action')[:70]}")
+
+
+def us(sec: str | float) -> int:
+    return int(round(float(sec) * 1_000_000))
+
+
+def media_size(p: Path) -> tuple[int, int, float]:
+    probe = json.loads(run(["ffprobe", "-v", "error", "-show_streams", "-show_format", "-of", "json", str(p)]) or "{}")
+    v = next((s for s in probe.get("streams", []) if s.get("codec_type") == "video"), {})
+    return int(v.get("width", 0)), int(v.get("height", 0)), float(probe.get("format", {}).get("duration", 0) or 0)
+
+
+def cmd_weftcut_plan(a) -> None:
+    """beats.csv + narration + words.json -> 5_edit/weftcut_plan.json: an ordered list of WeftCut MCP calls
+    with final parameters, executed step by step by the `assembler` agent. `$name.field` = result of an
+    earlier step saved with `save_as`."""
+    folder = video_dir(a.id)
+    mr = media_root(folder)
+    t = read_status(folder)
+    narr = mr / (get_scalar(t, "file", "  ") or "voice/narration.mp3")
+    if not narr.is_file():
+        die(f"narration not found: {narr} (set voice.file in status.yaml)")
+    words = json.loads((folder / "3_voice/words.json").read_text(encoding="utf-8"))
+    beats = rows(folder / "4_visual/beats.csv")
+    _, _, ndur = media_size(narr)
+    dur = us(ndur)
+    ops: list[dict] = []
+
+    def op(tool, args, save_as=None, note=""):
+        ops.append({"step": len(ops) + 1, "tool": tool, "args": args, **({"save_as": save_as} if save_as else {}),
+                    **({"note": note} if note else {})})
+
+    op("begin_agent_session", {"reason": f"Assemble {folder.name} cut v{a.cut}"})
+    op("create_checkpoint", {"label": f"before {folder.name} cut v{a.cut}"})
+    op("add_track", {"label": "A NARRATION"}, "trk_a")
+    op("add_track", {"label": "V1 PICTURE"}, "trk_v1")
+    op("add_track", {"label": "V2 GRAPHICS"}, "trk_v2")
+    op("import_media", {"path": narr.as_posix()}, "m_narr")
+    op("add_audio_layer", {"media_id": "$m_narr.media_id", "track_id": "$trk_a.track_id", "role": "voiceover",
+                           "src_in_us": 0, "src_out_us": dur, "t_start_us": 0, "t_end_us": dur})
+    imported: dict[str, str] = {}
+    problems = []
+    for b in beats:
+        bid, t0, t1 = b["beat_id"], us(b["start"]), us(b["end"])
+        f = b.get("asset_file", "").strip()
+        if f:
+            p = mr / f
+            if not p.is_file():
+                problems.append(f"{bid}: missing {f}")
+            else:
+                key = f"m_{re.sub(r'[^A-Za-z0-9]', '_', p.stem)}"
+                if f not in imported:
+                    op("import_media", {"path": p.as_posix()}, key)
+                    imported[f] = key
+                w, h, sdur = media_size(p)
+                is_video = p.suffix.lower() in (".mp4", ".mov", ".webm", ".mkv")
+                args = {"media_id": f"${imported[f]}.media_id", "track_id": "$trk_v1.track_id",
+                        "t_start_us": t0, "t_end_us": t1}
+                if is_video:
+                    args |= {"src_in_us": 0, "src_out_us": min(us(sdur), t1 - t0) if sdur else t1 - t0}
+                    if sdur and us(sdur) < t1 - t0:
+                        problems.append(f"{bid}: clip {sdur:.1f}s shorter than beat {(t1 - t0) / 1e6:.1f}s")
+                op("add_video_layer", args, f"L_{bid}", b.get("visual_type", ""))
+                kind = "VideoClip" if is_video else "ImageOverlay"
+                s = max(1920 / w, 1080 / h) if w and h else 1.0
+                motion = (b.get("motion") or ("none" if is_video else "push")).strip().lower()
+                if abs(s - 1) > 0.01:
+                    op("update_layer_params", {"layer_id": f"$L_{bid}.layer_id",
+                                               "patch": {"kind": kind, "scale_x": round(s, 4), "scale_y": round(s, 4)}})
+                if motion == "push":  # slow push-in 100% -> 104%
+                    for key in ("scale_x", "scale_y"):
+                        op("set_keyframe", {"layer_id": f"$L_{bid}.layer_id", "param_key": key, "t_us": t0,
+                                            "value": round(s, 4), "interp": {"kind": "Linear"}})
+                        op("set_keyframe", {"layer_id": f"$L_{bid}.layer_id", "param_key": key, "t_us": t1 - 40_000,
+                                            "value": round(s * 1.04, 4)})
+        mid = (b.get("motif") or "").strip()
+        if mid:
+            try:
+                props = json.loads(b.get("motif_props") or "{}")
+            except json.JSONDecodeError:
+                problems.append(f"{bid}: motif_props is not valid JSON")
+                props = {}
+            op("add_motif_layer", {"motif_id": mid, "track_id": "$trk_v2.track_id", "t_start_us": t0,
+                                   "t_end_us": t1, "props": props})
+        if not f and not mid:
+            problems.append(f"{bid}: no asset_file and no motif — empty frame")
+    captions = [{"w": w["w"], "s": w["s"], "e": w["e"]} for w in words]
+    op("add_motif_layer", {"motif_id": "wic-captions-16-9", "t_start_us": 0, "t_end_us": dur,
+                           "props": {"words_json": json.dumps(captions, separators=(",", ":"))}}, note="captions over full runtime")
+    op("create_checkpoint", {"label": f"{folder.name} cut v{a.cut} assembled"})
+    op("end_agent_session", {})
+    out = folder / "5_edit/weftcut_plan.json"
+    out.write_text(json.dumps({"video": folder.name, "cut": a.cut, "duration_us": dur, "steps": ops},
+                              ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(ops)} steps, {len(imported)} media, {sum(1 for b in beats if b.get('motif'))} motif beats -> {out.relative_to(ROOT)}")
+    for pr in problems:
+        print("WARN " + pr)
 
 
 def cmd_pages(a) -> None:
@@ -893,9 +1035,13 @@ def main() -> None:
     s.add_argument("-n", type=int, default=10, help="results per query"); s.set_defaults(fn=cmd_yt_search)
     s = sub.add_parser("court"); s.add_argument("id"); s.add_argument("query")
     s.add_argument("-n", type=int, default=8); s.set_defaults(fn=cmd_court)
-    s = sub.add_parser("handoff"); s.add_argument("id"); s.add_argument("--kind", default="", help="img|vid")
+    s = sub.add_parser("handoff"); s.add_argument("id", help="one id or several: 003,004,005")
+    s.add_argument("--kind", default="", help="img|vid|thm")
     s.add_argument("--batch", default=""); s.set_defaults(fn=cmd_handoff)
     s = sub.add_parser("ingest"); s.add_argument("id"); s.set_defaults(fn=cmd_ingest)
+    s = sub.add_parser("board"); s.set_defaults(fn=cmd_board)
+    s = sub.add_parser("weftcut-plan"); s.add_argument("id"); s.add_argument("--cut", type=int, default=1)
+    s.set_defaults(fn=cmd_weftcut_plan)
     s = sub.add_parser("pages"); s.add_argument("id"); s.add_argument("--sources", default="", help="S001,S004")
     s.add_argument("--pages", default="", help="1,3,7 (default: first --max pages)")
     s.add_argument("--max", type=int, default=30); s.add_argument("--dpi", type=int, default=200)

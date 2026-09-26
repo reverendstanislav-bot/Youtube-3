@@ -23,5 +23,8 @@ All 16:9 motifs keep the bottom 20% (Y 864–1080) free.
 3. `preview_motif_draft` → `install_motif { mode: "update" }`.
 4. `python tools/wic_motifs.py export <id> <id>` → commit `weftcut/motifs/<id>.html`.
 
+## Assembly
+`python tools/yt.py weftcut-plan <id>` turns `beats.csv` (`asset_file`, `motion`, `motif`, `motif_props`) + narration + `words.json` into `5_edit/weftcut_plan.json`; the `assembler` agent executes it (tracks: A NARRATION, V1 PICTURE, V2 GRAPHICS, captions on top). The owner exports the mp4 from WeftCut.
+
 ## Captions from a transcript
 `transcribe_clip` on the narration → convert words to `[{"w","s","e"}]` (seconds, relative to the caption layer start) → one `wic-captions-16-9` layer over the full runtime. Shorts: slice the same words for the Short's range, `offset_s` = range start.

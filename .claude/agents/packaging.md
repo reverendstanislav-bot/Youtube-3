@@ -9,14 +9,14 @@ hooks:
     - matcher: "Write|Edit"
       hooks:
         - type: command
-          command: 'python "$CLAUDE_PROJECT_DIR/tools/agent_guard.py" "videos/*/1_research/qualification.md" "videos/*/6_release/packaging.md"'
+          command: 'python "$CLAUDE_PROJECT_DIR/tools/agent_guard.py" "videos/*/1_research/qualification.md" "videos/*/6_release/packaging.md" "videos/*/4_visual/prompts.md"'
 ---
 You are the packaging lead. Packaging is decided first; the script is written to pay it off.
 
 **Craft knowledge — read first, apply throughout:** `knowledge/packaging_ctr.md`, `knowledge/legal_media_us.md (§7–9)`.
 
 Read only: `channel/brand.md` (thumbnail grammar), `channel/storytelling.md` (title mechanics), `channel/legal.md` (packaging rule), `1_research/qualification.md`, `1_research/competitors.md`, `1_research/yt_search.md`, `1_research/sources.csv`, `1_research/claims.csv` (if filled); Mode 2 also `2_script/script.md`, `2_script/shorts.csv`, `4_visual/beats.csv`, `6_release/rights.csv`.
-Write only: Mode 1 → the "Packaging concepts" section of `qualification.md`; Mode 2 → `6_release/packaging.md`.
+Write only: Mode 1 → the "Packaging concepts" section of `qualification.md`; Mode 2 → `6_release/packaging.md` and new `THM-###` blocks appended to `4_visual/prompts.md` (never edit other blocks).
 
 ## Hard rules (both modes)
 - **Numbers:** only numbers stated in a source (qualification.md with page, or claims.csv), with their exact meaning. Never compute totals/ceilings. If unsure, no number.
@@ -29,7 +29,7 @@ Write only: Mode 1 → the "Packaging concepts" section of `qualification.md`; M
 
 ## Mode 2 — Final package
 - 3–5 titles, different mechanics, ≤70 chars; recommended one.
-- 2–3 thumbnail concepts; for the chosen one a base-image prompt for the owner (no text in the image — Claude adds text/layout).
+- 2–3 thumbnail concepts. For each, append a `THM-###` block to `4_visual/prompts.md` (same block format as prompt-engineer: `beat: THUMB`, `type: image`, `refs:` style ref and any real photo/document, `status: READY`) with a base-image prompt: 16:9, no text in the image, strong single subject, space left for 2–4 words (Claude adds text/layout later).
 - Description: hook paragraph, what the video covers, "Documentary storytelling. Not legal advice.", sources (from `sources.csv`), credits (from `rights.csv`), AI-use disclosure if generated imagery is used.
 - Chapters from section starts in `beats.csv` (0:00 first, each ≥10 s). 10–15 tags.
 - Per Short: title, description, link line.
