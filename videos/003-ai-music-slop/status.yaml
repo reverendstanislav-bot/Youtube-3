@@ -7,13 +7,13 @@ created: "2026-09-25"
 media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
-stage: qualification
-next_action: "G1: owner GO/HOLD/NO-GO + pick concept"
+stage: research
+next_action: "Phase 2: researcher Mode 2 deep story research"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
 gates:
-  g1_topic_go_and_concept: WAITING_OWNER
+  g1_topic_go_and_concept: APPROVED
   g2_script_and_shorts_lock: NOT_STARTED
   g3_voice_spend: NOT_STARTED
   g4_images_accepted: NOT_STARTED
@@ -22,7 +22,7 @@ gates:
   g7_shorts_cut: NOT_STARTED
   g8_packaging_choice: NOT_STARTED
 
-packaging_concept: ""   # chosen at g1: title + thumbnail idea
+packaging_concept: "He Did the Math on Fake Streams. It Cost Him $8 Million. — indictment self-email math crop + red-circled forfeiture figure; thumbnail text to be replaced (must not repeat $8M)"   # chosen at g1: title + thumbnail idea
 
 voice:
   file: ""              # relative to media_root
@@ -37,4 +37,5 @@ final_render:
 credits: []
 
 # Short log of owner decisions: - {date, gate, decision, note}
-decisions: []
+decisions:
+  - {date: "2026-09-26", gate: "g1_topic_go_and_concept", decision: "APPROVED", note: "GO, concept 1 The Plea"}
