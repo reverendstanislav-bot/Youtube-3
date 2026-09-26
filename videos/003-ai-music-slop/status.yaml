@@ -8,12 +8,12 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: qualification
-next_action: "Fresh qualification run per RUNBOOK Phase 1 (sources already archived with .txt)"
+next_action: "G1: owner GO/HOLD/NO-GO + pick concept"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
 gates:
-  g1_topic_go_and_concept: NOT_STARTED
+  g1_topic_go_and_concept: WAITING_OWNER
   g2_script_and_shorts_lock: NOT_STARTED
   g3_voice_spend: NOT_STARTED
   g4_images_accepted: NOT_STARTED
