@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: voice
-next_action: "Enable Whisper Base (whisper.cpp) in WeftCut settings, then transcribe narration (layer on ARoll) → yt.py words → audio-metrics → audio-qc. SWITCH-GOV 1/2 after Sept 29."
+next_action: "Narration locked. Need Whisper Base in WeftCut → transcribe → yt.py words (word timings for visual-director/captions). SWITCH-GOV 1/2 after Sept 29."
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -50,3 +50,4 @@ decisions:
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + 10 Shorts (title: He Owes $8 Million). SWITCH-GOV line resolved Sept 29"}
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + Shorts. SWITCH-GOV line to be voiced as a separate segment after Sept 28 filing. Title: He Owes $8 Million (see TITLE entry)."}
   - {date: "2026-09-27", gate: "g3_voice_spend", decision: "APPROVED", note: "TTS 7 parts ~59 credits approved; actual 59.85"}
+  - {date: "2026-09-27", gate: "voice", decision: "LOCKED", note: "Owner listened and locked narration PART 1-7 as is (no retakes). SWITCH-GOV 1/2 still to be voiced after Sept 29."}
