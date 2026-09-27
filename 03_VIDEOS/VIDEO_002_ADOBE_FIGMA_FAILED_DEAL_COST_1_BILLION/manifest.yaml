@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-27"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Fix G015, generate canonical G021-G025, source-verify 29 visual-pass frames, then continue R8 G036-G085."
+next_action: "Fix G006, G008, G010-G016; generate canonical G021-G025; source-verify 16 held frames; then continue R8 G036-G085."
 blockers: []
 
 stages:
@@ -98,8 +98,9 @@ assets:
   stage_13_chat_archive: "13_CHAT_R8_FRAME_ARCHIVE"
   stage_13_archived_current_frames: "30"
   stage_13_archived_rejected_attempts: "11"
-  stage_13_visual_pass_source_hold: "29"
-  stage_13_reject_count: "12"
+  stage_13_visual_pass: "5"
+  stage_13_visual_pass_source_hold: "16"
+  stage_13_reject_count: "20"
   stage_13_missing_canonical_slots: "G021-G025"
 
 qa:
