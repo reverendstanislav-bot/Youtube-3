@@ -110,12 +110,24 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - QC: **PASS / REJECT only**
 - Base generation scope: **110 jobs / 55.0 credits**
 - Paid jobs/retries authorized by this commit: **0 / 0**
-- Existing chat frame archive remains historical QC material and does not alter R9 prompt coverage
+- Existing chat frame archive remains historical provenance; the full recovery audit found **14 reusable PASS slots** across 112 distinct attempts
 
 ## Next action
 1. Verify/materialize every `12_SOURCE_PREP/` asset referenced by the R9 110-row source-binding table.
 2. After explicit owner spend approval, generate F001–F110 in controlled batches using the R9 prompts.
 3. QC every output with **PASS / REJECT only**. No HOLD and no automatic retries.
+
+## Recovered Chat Generation Audit
+- Audit path: `13_CHAT_R9_RECOVERY_AUDIT/`
+- Recovered distinct image attempts checked: **112**
+- Binary QC result: **14 PASS / 98 REJECT**
+- Current reusable R9 final slots: **14 / 110**
+- Remaining final slots needing a PASS image: **96 / 110**
+- Reusable slots: **F002, F003, F004, F005, F006, F014, F018, F039, F040, F041, F042, F044, F047, F049**
+- No credits were spent during recovery/QC.
+- Old 14-image batch: **14/14 REJECT**
+- R3 10-image test batch: **10/10 REJECT**
+- QC policy remains **PASS / REJECT only**.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

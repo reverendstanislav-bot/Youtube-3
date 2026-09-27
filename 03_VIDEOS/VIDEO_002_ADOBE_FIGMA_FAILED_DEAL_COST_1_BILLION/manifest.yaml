@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-27"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "R9 110/110 final-frame prompts locked. Verify/materialize all R9 source-prep inputs, then generate F001-F110 only after explicit owner spend approval; PASS/REJECT QC only."
+next_action: "Reuse 14 recovered PASS frames; no new credits. Resolve the remaining 96 R9 final slots using existing/recovered assets first, then seek spend approval only for still-missing frames."
 blockers: []
 
 stages:
