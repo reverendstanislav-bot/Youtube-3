@@ -124,17 +124,17 @@ Otherwise: **REJECT**.
 **TIMING:** 9.080 → 16.880  
 **DURATION:** 7.800 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G001  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 dollars. That billion dollars was not a government fine. It was not a court judgment. And it was not part of the twenty-billion-dollar purchase price.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NOT A FINE**.
 
 ### LOCKED HEADLINE
-``
+`NOT A FINE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -152,14 +152,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Merger Agreement Section 8.2 termination-fee excerpt; it is the page itself, shown unchanged — never retype, redraw or extend its text. No other document, photo or logo may appear.
 
 ### COMPOSITION DIRECTION
-dollars. That billion dollars was not a government fine. It was not a court judgment. And it was not part of the twenty-billion-dollar purchase price.
+one contract page rests at a slight angle on a dark desk, held by a black binder clip at its top edge; a thin vertical deep-red bracket is drawn in its left margin, beside the text, never over it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The page fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -168,7 +168,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -179,37 +179,37 @@ STORY PURPOSE:
 dollars. That billion dollars was not a government fine. It was not a court judgment. And it was not part of the twenty-billion-dollar purchase price.
 
 LOCKED HEADLINE:
-""
+"NOT A FINE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Merger Agreement Section 8.2 termination-fee excerpt; it is the page itself, shown unchanged — never retype, redraw or extend its text. No other document, photo or logo may appear.
 
 COMPOSITION:
-dollars. That billion dollars was not a government fine. It was not a court judgment. And it was not part of the twenty-billion-dollar purchase price. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one contract page rests at a slight angle on a dark desk, held by a black binder clip at its top edge; a thin vertical deep-red bracket is drawn in its left margin, beside the text, never over it. headline zone inside the top 45% and left 40% of the frame. The page fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NOT A FINE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -219,54 +219,47 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F003 / Beat B003
 
 **TIMING:** 17.580 → 26.700  
 **DURATION:** 9.120 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G002  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It was a contractual termination payment money Adobe had agreed could become due if the deal failed under specified closing and regulatory circumstances.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **CONTRACTUAL EXIT COST**.
 
 ### LOCKED HEADLINE
-``
+`CONTRACTUAL EXIT COST`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
 `12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: Source 2.
+SECONDARY: None.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the framed print, shown unchanged — never redraw or restyle its logos. No other logo, document or photo may appear.
 
 ### COMPOSITION DIRECTION
-It was a contractual termination payment money Adobe had agreed could become due if the deal failed under specified closing and regulatory circumstances.
+a framed print leans against a dark wall on a desk; beneath its lower edge the corner of a thick stack of blank contract paper protrudes, with one deep-red index tab sticking out.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The framed print fills the right 55%, between 8% and 65% of frame height; the paper corner and red tab just below it, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -275,7 +268,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -286,38 +279,37 @@ STORY PURPOSE:
 It was a contractual termination payment money Adobe had agreed could become due if the deal failed under specified closing and regulatory circumstances.
 
 LOCKED HEADLINE:
-""
+"CONTRACTUAL EXIT COST"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg
-Image 2: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
+Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the framed print, shown unchanged — never redraw or restyle its logos. No other logo, document or photo may appear.
 
 COMPOSITION:
-It was a contractual termination payment money Adobe had agreed could become due if the deal failed under specified closing and regulatory circumstances. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a framed print leans against a dark wall on a desk; beneath its lower edge the corner of a thick stack of blank contract paper protrudes, with one deep-red index tab sticking out. headline zone inside the top 45% and left 40% of the frame. The framed print fills the right 55%, between 8% and 65% of frame height; the paper corner and red tab just below it, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `CONTRACTUAL EXIT COST`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -327,31 +319,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F004 / Beat B004
 
 **TIMING:** 27.700 → 36.100  
 **DURATION:** 8.400 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G003  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The billion-dollar consequence was not invented after the acquisition collapsed. It had been negotiated before the merger agreement was even signed.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NEGOTIATED BEFORE FAILURE**.
 
 ### LOCKED HEADLINE
-``
+`NEGOTIATED BEFORE FAILURE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+`12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -362,14 +352,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 20: fee agreed); it is the pinned paper, shown unchanged — never retype it. No other document may appear.
 
 ### COMPOSITION DIRECTION
-The billion-dollar consequence was not invented after the acquisition collapsed. It had been negotiated before the merger agreement was even signed.
+one taut deep-red thread runs horizontally across a dark cork board through exactly three brass pins. At the first pin (left) one small paper excerpt is pinned, sharp and lit; the second pin is in soft light; the third fades into darkness and blur. Nothing is written on the board.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 25% of the frame, left half. The thread at about 55% of frame height; the pinned excerpt just above the first pin. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -378,7 +368,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -389,37 +379,37 @@ STORY PURPOSE:
 The billion-dollar consequence was not invented after the acquisition collapsed. It had been negotiated before the merger agreement was even signed.
 
 LOCKED HEADLINE:
-""
+"NEGOTIATED BEFORE FAILURE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 20: fee agreed); it is the pinned paper, shown unchanged — never retype it. No other document may appear.
 
 COMPOSITION:
-The billion-dollar consequence was not invented after the acquisition collapsed. It had been negotiated before the merger agreement was even signed. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one taut deep-red thread runs horizontally across a dark cork board through exactly three brass pins. At the first pin (left) one small paper excerpt is pinned, sharp and lit; the second pin is in soft light; the third fades into darkness and blur. Nothing is written on the board. headline zone inside the top 25% of the frame, left half. The thread at about 55% of frame height; the pinned excerpt just above the first pin. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NEGOTIATED BEFORE FAILURE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -428,139 +418,35 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F005 / Beat B005
 
 **TIMING:** 37.040 → 47.160  
 **DURATION:** 10.120 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G004  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DUAL_ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 So the real story is not simply why regulators had concerns about Adobe buying Figma. It is how two companies priced the risk that the deal might never close
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **PRICING THE RISK**.
 
 ### LOCKED HEADLINE
-``
+`PRICING THE RISK`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-So the real story is not simply why regulators had concerns about Adobe buying Figma. It is how two companies priced the risk that the deal might never close
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B005, ready to place directly into the finished film.
-
-STORY PURPOSE:
-So the real story is not simply why regulators had concerns about Adobe buying Figma. It is how two companies priced the risk that the deal might never close
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-So the real story is not simply why regulators had concerns about Adobe buying Figma. It is how two companies priced the risk that the deal might never close Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F006 / Beat B006
-
-**TIMING:** 47.760 → 52.320  
-**DURATION:** 4.560 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G005  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-and how that risk eventually became a real one-billion-dollar cash payment.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
+`12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -571,14 +457,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose (left print); image 2 = Figma Config 2023 keynote stage (right print). Show both unchanged; keep every face and person exactly as photographed; add no people.
 
 ### COMPOSITION DIRECTION
-and how that risk eventually became a real one-billion-dollar cash payment.
+top-down view of a dark desk; two photographic prints lie apart, the left slightly larger; between them sits one blank manila shipping tag whose thin deep-red string runs to a corner of each print.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. Prints in the band between 28% and 76% of frame height, left and right; the tag at the exact center. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -587,7 +473,108 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B005, ready to place directly into the finished film.
+
+STORY PURPOSE:
+So the real story is not simply why regulators had concerns about Adobe buying Figma. It is how two companies priced the risk that the deal might never close
+
+LOCKED HEADLINE:
+"PRICING THE RISK"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
+Image 2: 12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Adobe headquarters, San Jose (left print); image 2 = Figma Config 2023 keynote stage (right print). Show both unchanged; keep every face and person exactly as photographed; add no people.
+
+COMPOSITION:
+top-down view of a dark desk; two photographic prints lie apart, the left slightly larger; between them sits one blank manila shipping tag whose thin deep-red string runs to a corner of each print. headline zone = top center, inside the top 22% of the frame. Prints in the band between 28% and 76% of frame height, left and right; the tag at the exact center. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `PRICING THE RISK`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F006 / Beat B006
+
+**TIMING:** 47.760 → 52.320  
+**DURATION:** 4.560 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G005  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+and how that risk eventually became a real one-billion-dollar cash payment.
+
+The viewer must instantly understand: **THE RISK BECAME CASH**.
+
+### LOCKED HEADLINE
+`THE RISK BECAME CASH`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe FY2023 10-K payment excerpt; it is the paper, shown unchanged — never retype, redraw or extend it. No other document may appear.
+
+### COMPOSITION DIRECTION
+top-down view of a single paper excerpt lying diagonally on a dark desk, caught in one hard beam of side light, a brass paperclip on its upper corner, a thin vertical deep-red bracket in its margin beside the text.
+
+headline zone inside the top 45% and left 45% of the frame. The paper sits center-right, between 15% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -598,38 +585,37 @@ STORY PURPOSE:
 and how that risk eventually became a real one-billion-dollar cash payment.
 
 LOCKED HEADLINE:
-""
+"THE RISK BECAME CASH"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
-Image 2: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
+Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe FY2023 10-K payment excerpt; it is the paper, shown unchanged — never retype, redraw or extend it. No other document may appear.
 
 COMPOSITION:
-and how that risk eventually became a real one-billion-dollar cash payment. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of a single paper excerpt lying diagonally on a dark desk, caught in one hard beam of side light, a brass paperclip on its upper corner, a thin vertical deep-red bracket in its margin beside the text. headline zone inside the top 45% and left 45% of the frame. The paper sits center-right, between 15% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE RISK BECAME CASH`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -638,8 +624,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F007 / Beat B007
 
@@ -1078,42 +1062,47 @@ Otherwise: **REJECT**.
 **TIMING:** 89.960 → 94.540  
 **DURATION:** 4.580 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G006  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_COMPARISON  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 even though Adobe and Figma later disputed how directly their products competed.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **HOW DIRECTLY DID THEY COMPETE?**.
 
 ### LOCKED HEADLINE
-``
+`HOW DIRECTLY DID THEY COMPETE?`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg`
+`12_SOURCE_PREP/RV037_FIGMA_DEV_MODE_UI.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV044_ADOBE_XD_WORKFLOW_UI.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma Dev Mode product screenshot (left board); image 2 = Adobe XD documentation visual (right board). Show both unchanged — never redraw or invent interface.
 
 ### COMPOSITION DIRECTION
-even though Adobe and Figma later disputed how directly their products competed.
+two screenshots mounted on separate matte paper boards hang side by side on a dark wall, evenly lit, equal size. The wide space between them is plain, empty dark wall — a deliberate void with no line, shape, tag or symbol.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 20% of the frame. Boards in the band between 26% and 74% of frame height, one in the left third, one in the right third. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Preserve both authentic interfaces with asymmetry and physical depth; no fake controls and no sterile split-screen.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1122,7 +1111,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1133,37 +1122,38 @@ STORY PURPOSE:
 even though Adobe and Figma later disputed how directly their products competed.
 
 LOCKED HEADLINE:
-""
+"HOW DIRECTLY DID THEY COMPETE?"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg
+Image 1: 12_SOURCE_PREP/RV037_FIGMA_DEV_MODE_UI.png
+Image 2: 12_SOURCE_PREP/RV044_ADOBE_XD_WORKFLOW_UI.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma Dev Mode product screenshot (left board); image 2 = Adobe XD documentation visual (right board). Show both unchanged — never redraw or invent interface.
 
 COMPOSITION:
-even though Adobe and Figma later disputed how directly their products competed. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+two screenshots mounted on separate matte paper boards hang side by side on a dark wall, evenly lit, equal size. The wide space between them is plain, empty dark wall — a deliberate void with no line, shape, tag or symbol. headline zone = top center, inside the top 20% of the frame. Boards in the band between 26% and 74% of frame height, one in the left third, one in the right third. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Preserve both authentic interfaces with asymmetry and physical depth; no fake controls and no sterile split-screen.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `HOW DIRECTLY DID THEY COMPETE?`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1172,8 +1162,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F012 / Beat B012
 
@@ -1282,24 +1270,24 @@ Otherwise: **REJECT**.
 **TIMING:** 105.940 → 114.760  
 **DURATION:** 8.820 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G007  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The consideration was expected to be roughly half cash and half Adobe stock. But the agreement did not guarantee that the transaction would close.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **HALF CASH / HALF STOCK**.
 
 ### LOCKED HEADLINE
-``
+`HALF CASH / HALF STOCK`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1310,14 +1298,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the clipped excerpt, shown unchanged — never retype it. No other document may appear.
 
 ### COMPOSITION DIRECTION
-The consideration was expected to be roughly half cash and half Adobe stock. But the agreement did not guarantee that the transaction would close.
+one heavy blank sheet of paper folded exactly in half lies open on a dark desk: left half warm ivory, right half cool grey, a thin deep-red line along the fold. One small paper excerpt is paper-clipped to the sheet's upper-right corner.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The folded sheet center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1326,7 +1314,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1337,37 +1325,37 @@ STORY PURPOSE:
 The consideration was expected to be roughly half cash and half Adobe stock. But the agreement did not guarantee that the transaction would close.
 
 LOCKED HEADLINE:
-""
+"HALF CASH / HALF STOCK"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the clipped excerpt, shown unchanged — never retype it. No other document may appear.
 
 COMPOSITION:
-The consideration was expected to be roughly half cash and half Adobe stock. But the agreement did not guarantee that the transaction would close. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one heavy blank sheet of paper folded exactly in half lies open on a dark desk: left half warm ivory, right half cool grey, a thin deep-red line along the fold. One small paper excerpt is paper-clipped to the sheet's upper-right corner. headline zone inside the top 45% and left 40% of the frame. The folded sheet center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `HALF CASH / HALF STOCK`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1377,31 +1365,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F014 / Beat B014
 
 **TIMING:** 115.820 → 123.680  
 **DURATION:** 7.860 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G008  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It still depended on regulatory approvals and other closing conditions. And by the time the public heard the twenty-billion-dollar headline,
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **CLOSING CONDITIONS**.
 
 ### LOCKED HEADLINE
-``
+`CLOSING CONDITIONS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg`
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1412,14 +1398,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, shown unchanged. No other photo, document or logo may appear.
 
 ### COMPOSITION DIRECTION
-It still depended on regulatory approvals and other closing conditions. And by the time the public heard the twenty-billion-dollar headline,
+a large photographic print of a corporate headquarters at dusk stands on a dark desk. In front of it, three identical blank ivory index cards lie in a neat row, face up, the first one with a thin deep-red top edge.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 38% of the frame. The print fills the right 60%, between 8% and 70% of frame height; the cards lie in front of its lower edge, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1428,7 +1414,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1439,37 +1425,37 @@ STORY PURPOSE:
 It still depended on regulatory approvals and other closing conditions. And by the time the public heard the twenty-billion-dollar headline,
 
 LOCKED HEADLINE:
-""
+"CLOSING CONDITIONS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, shown unchanged. No other photo, document or logo may appear.
 
 COMPOSITION:
-It still depended on regulatory approvals and other closing conditions. And by the time the public heard the twenty-billion-dollar headline, Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a large photographic print of a corporate headquarters at dusk stands on a dark desk. In front of it, three identical blank ivory index cards lie in a neat row, face up, the first one with a thin deep-red top edge. headline zone inside the top 40% and left 38% of the frame. The print fills the right 60%, between 8% and 70% of frame height; the cards lie in front of its lower edge, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `CLOSING CONDITIONS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1479,36 +1465,34 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F015 / Beat B015
 
 **TIMING:** 124.300 → 130.120  
 **DURATION:** 5.820 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G009  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 the contract already contained another number that would later become just as important. One billion dollars.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE OTHER NUMBER**.
 
 ### LOCKED HEADLINE
-``
+`THE OTHER NUMBER`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV044_ADOBE_XD_WORKFLOW_UI.png`
+`12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1519,14 +1503,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline (blurred background page); image 2 = Merger Agreement Section 8.2 fee excerpt (sharp front excerpt). Both unchanged — never retype either.
 
 ### COMPOSITION DIRECTION
-the contract already contained another number that would later become just as important. One billion dollars.
+behind, a large announcement page lies softly out of focus on a dark desk; in front, a smaller contract excerpt is tack-sharp, overlapping the background page's lower-left corner, a thin vertical deep-red bracket in its margin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. The blurred page spans the center-right; the sharp excerpt at mid-height, center; both end above 78% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1535,7 +1519,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1546,38 +1530,38 @@ STORY PURPOSE:
 the contract already contained another number that would later become just as important. One billion dollars.
 
 LOCKED HEADLINE:
-""
+"THE OTHER NUMBER"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV044_ADOBE_XD_WORKFLOW_UI.png
-Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png
+Image 2: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline (blurred background page); image 2 = Merger Agreement Section 8.2 fee excerpt (sharp front excerpt). Both unchanged — never retype either.
 
 COMPOSITION:
-the contract already contained another number that would later become just as important. One billion dollars. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+behind, a large announcement page lies softly out of focus on a dark desk; in front, a smaller contract excerpt is tack-sharp, overlapping the background page's lower-left corner, a thin vertical deep-red bracket in its margin. headline zone inside the top 40% and left 40% of the frame. The blurred page spans the center-right; the sharp excerpt at mid-height, center; both end above 78% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE OTHER NUMBER`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1586,8 +1570,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F016 / Beat B016
 
@@ -1696,24 +1678,24 @@ Otherwise: **REJECT**.
 **TIMING:** 138.300 → 146.580  
 **DURATION:** 8.280 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G010  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **BEFORE 2022**.
 
 ### LOCKED HEADLINE
-``
+`BEFORE 2022`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png`
+`12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1724,14 +1706,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = archival Figma founders office photo; it is the print, unchanged — keep every face and person exactly as photographed; add no people.
 
 ### COMPOSITION DIRECTION
-Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction.
+one old, slightly faded photographic print with a curled corner hangs alone on a dark wall, fixed by a single brass pin. From the pin a short deep-red thread hangs loose and ends in empty air, attached to nothing.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The print on the right half, between 10% and 70% of frame height, slightly tilted; the loose thread ends above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1740,7 +1722,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1751,37 +1733,37 @@ STORY PURPOSE:
 Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction.
 
 LOCKED HEADLINE:
-""
+"BEFORE 2022"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png
+Image 1: 12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = archival Figma founders office photo; it is the print, unchanged — keep every face and person exactly as photographed; add no people.
 
 COMPOSITION:
-Adobe and Figma had discussed possible combinations before twenty twenty-two, but those earlier conversations did not produce a transaction. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one old, slightly faded photographic print with a curled corner hangs alone on a dark wall, fixed by a single brass pin. From the pin a short deep-red thread hangs loose and ends in empty air, attached to nothing. headline zone inside the top 45% and left 40% of the frame. The print on the right half, between 10% and 70% of frame height, slightly tilted; the loose thread ends above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `BEFORE 2022`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1791,36 +1773,34 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F018 / Beat B018
 
 **TIMING:** 147.460 → 155.480  
 **DURATION:** 8.020 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G011  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **TALKS RESTART**.
 
 ### LOCKED HEADLINE
-``
+`TALKS RESTART`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV050_JUNE19_NO_FEE_CROP.png`
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1831,14 +1811,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged, never broken or redrawn.
 
 ### COMPOSITION DIRECTION
-Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement
+top-down view of a dark desk. Two small paper cards, each carrying one company identifier, lie a short distance apart, joined by a deep-red thread with one neat knot in the middle. To the right lies a closed plain manila folder tied shut with red string.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. Cards and thread center, folder right, all between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1847,7 +1827,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1858,38 +1838,38 @@ STORY PURPOSE:
 Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement
 
 LOCKED HEADLINE:
-""
+"TALKS RESTART"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV050_JUNE19_NO_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged, never broken or redrawn.
 
 COMPOSITION:
-Serious acquisition talks restarted in April twenty twenty-two. In May, the companies entered a confidentiality agreement Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of a dark desk. Two small paper cards, each carrying one company identifier, lie a short distance apart, joined by a deep-red thread with one neat knot in the middle. To the right lies a closed plain manila folder tied shut with red string. headline zone inside the top 40% and left 40% of the frame. Cards and thread center, folder right, all between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `TALKS RESTART`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -1899,31 +1879,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F019 / Beat B019
 
 **TIMING:** 155.480 → 161.160  
 **DURATION:** 5.680 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G012  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 and Figma began providing confidential information to Adobe. Then came the price.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THEN CAME THE PRICE**.
 
 ### LOCKED HEADLINE
-``
+`THEN CAME THE PRICE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png`
+`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -1934,14 +1912,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe CEO portrait; it is the print, unchanged — keep the face exactly as photographed; add no people.
 
 ### COMPOSITION DIRECTION
-and Figma began providing confidential information to Adobe. Then came the price.
+on a dark desk, one portrait photograph printed on warm paper lies on the right; in the left-center a single sealed blank ivory envelope bound with a thin deep-red string rests in soft light.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 42% of the frame; the envelope below it, between 45% and 72% of frame height. The portrait fills the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -1950,7 +1928,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -1961,37 +1939,37 @@ STORY PURPOSE:
 and Figma began providing confidential information to Adobe. Then came the price.
 
 LOCKED HEADLINE:
-""
+"THEN CAME THE PRICE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe CEO portrait; it is the print, unchanged — keep the face exactly as photographed; add no people.
 
 COMPOSITION:
-and Figma began providing confidential information to Adobe. Then came the price. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, one portrait photograph printed on warm paper lies on the right; in the left-center a single sealed blank ivory envelope bound with a thin deep-red string rests in soft light. headline zone inside the top 40% and left 42% of the frame; the envelope below it, between 45% and 72% of frame height. The portrait fills the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THEN CAME THE PRICE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -2000,8 +1978,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F020 / Beat B020
 
@@ -2110,17 +2086,17 @@ Otherwise: **REJECT**.
 **TIMING:** 170.080 → 179.580  
 **DURATION:** 9.500 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G013  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** EDITORIAL_METAPHOR  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 roughly half cash and half stock. That proposal did not yet include a termination fee. Figma did not negotiate only the headline price.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NO FEE YET**.
 
 ### LOCKED HEADLINE
-``
+`NO FEE YET`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -2143,14 +2119,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 ### COMPOSITION DIRECTION
-roughly half cash and half stock. That proposal did not yet include a termination fee. Figma did not negotiate only the headline price.
+one clean blank ivory sheet lies on a dark desk. Clipped to its right edge is a clear index-tab holder with a thin deep-red rim, visibly empty — nothing is inside it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The sheet center-right, between 20% and 74% of frame height, with generous dark space around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -2159,7 +2135,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -2170,7 +2146,7 @@ STORY PURPOSE:
 roughly half cash and half stock. That proposal did not yet include a termination fee. Figma did not negotiate only the headline price.
 
 LOCKED HEADLINE:
-""
+"NO FEE YET"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
@@ -2178,30 +2154,30 @@ Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
 Image 2: 12_SOURCE_PREP/RV050_JUNE19_NO_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 COMPOSITION:
-roughly half cash and half stock. That proposal did not yet include a termination fee. Figma did not negotiate only the headline price. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one clean blank ivory sheet lies on a dark desk. Clipped to its right edge is a clear index-tab holder with a thin deep-red rim, visibly empty — nothing is inside it. headline zone inside the top 45% and left 40% of the frame. The sheet center-right, between 20% and 74% of frame height, with generous dark space around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO FEE YET`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -2210,8 +2186,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F022 / Beat B022
 
@@ -2422,29 +2396,29 @@ Otherwise: **REJECT**.
 **TIMING:** 198.400 → 207.520  
 **DURATION:** 9.120 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G014  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The twenty-billion-dollar price remained. And now the proposal included a one-billion-dollar reverse termination fee. That sequence matters.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE FEE ENTERS THE DEAL**.
 
 ### LOCKED HEADLINE
-``
+`THE FEE ENTERS THE DEAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -2455,14 +2429,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma CEO portrait (the print) — keep the face exactly as photographed, add no people; image 2 = Adobe identifier (on the small card), unchanged.
 
 ### COMPOSITION DIRECTION
-The twenty-billion-dollar price remained. And now the proposal included a one-billion-dollar reverse termination fee. That sequence matters.
+on a dark desk, a portrait photograph printed on warm paper lies on the right; one solid deep-red blank index tab is clipped to its left edge. A small paper card with a company identifier sits left-center, the red tab reaching toward it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 42% of the frame; the identifier card below it, between 48% and 72% of frame height. The portrait fills the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -2471,7 +2445,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -2482,38 +2456,38 @@ STORY PURPOSE:
 The twenty-billion-dollar price remained. And now the proposal included a one-billion-dollar reverse termination fee. That sequence matters.
 
 LOCKED HEADLINE:
-""
+"THE FEE ENTERS THE DEAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 2: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma CEO portrait (the print) — keep the face exactly as photographed, add no people; image 2 = Adobe identifier (on the small card), unchanged.
 
 COMPOSITION:
-The twenty-billion-dollar price remained. And now the proposal included a one-billion-dollar reverse termination fee. That sequence matters. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a portrait photograph printed on warm paper lies on the right; one solid deep-red blank index tab is clipped to its left edge. A small paper card with a company identifier sits left-center, the red tab reaching toward it. headline zone inside the top 40% and left 42% of the frame; the identifier card below it, between 48% and 72% of frame height. The portrait fills the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE FEE ENTERS THE DEAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -2522,8 +2496,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F025 / Beat B025
 
@@ -2644,24 +2616,24 @@ Otherwise: **REJECT**.
 **TIMING:** 217.820 → 222.920  
 **DURATION:** 5.100 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G015  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 July twentieth: Adobe agrees to a one-billion-dollar reverse termination fee.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **ADOBE AGREES**.
 
 ### LOCKED HEADLINE
-``
+`ADOBE AGREES`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png`
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -2672,14 +2644,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, shown unchanged. No other photo or logo may appear.
 
 ### COMPOSITION DIRECTION
-July twentieth: Adobe agrees to a one-billion-dollar reverse termination fee.
+a wide photograph of a corporate headquarters under muted dusk light stands as a large print; in front of it, a closed black fountain pen rests across the edge of a blank contract page.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 36% of the frame. The print fills the right 64%, between 8% and 70% of frame height; pen and page in front of its lower edge, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -2688,7 +2660,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -2699,37 +2671,37 @@ STORY PURPOSE:
 July twentieth: Adobe agrees to a one-billion-dollar reverse termination fee.
 
 LOCKED HEADLINE:
-""
+"ADOBE AGREES"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, shown unchanged. No other photo or logo may appear.
 
 COMPOSITION:
-July twentieth: Adobe agrees to a one-billion-dollar reverse termination fee. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a wide photograph of a corporate headquarters under muted dusk light stands as a large print; in front of it, a closed black fountain pen rests across the edge of a blank contract page. headline zone inside the top 45% and left 36% of the frame. The print fills the right 64%, between 8% and 70% of frame height; pen and page in front of its lower edge, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `ADOBE AGREES`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -2738,140 +2710,30 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F027 / Beat B027
 
 **TIMING:** 223.680 → 229.520  
 **DURATION:** 5.840 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G016  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 More than a year before the acquisition ended, the billion-dollar cost was already inside the deal architecture.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE COST WAS ALREADY THERE**.
 
 ### LOCKED HEADLINE
-``
+`THE COST WAS ALREADY THERE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-More than a year before the acquisition ended, the billion-dollar cost was already inside the deal architecture.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B027, ready to place directly into the finished film.
-
-STORY PURPOSE:
-More than a year before the acquisition ended, the billion-dollar cost was already inside the deal architecture.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-More than a year before the acquisition ended, the billion-dollar cost was already inside the deal architecture. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F028 / Beat B028
-
-**TIMING:** 230.660 → 238.600  
-**DURATION:** 7.940 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G017  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-A reverse termination fee is not a punishment imposed by the government. It is a risk-allocation term negotiated by the parties to a transaction.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+`12_SOURCE_PREP/RV053_10Q_CLOSING_RISK_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -2882,14 +2744,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe 10-Q closing-risk disclosure excerpt; it is the pulled sheet, shown unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-A reverse termination fee is not a punishment imposed by the government. It is a risk-allocation term negotiated by the parties to a transaction.
+a low-angle close view of a thick stack of blank paper on a dark desk; one sheet is pulled a few centimeters out of the middle of the stack, lit by a narrow beam, a thin vertical deep-red bracket in its margin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 42% of the frame. The stack spans center-right between 30% and 76% of frame height; the pulled sheet is the sharpest element. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -2898,7 +2760,112 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B027, ready to place directly into the finished film.
+
+STORY PURPOSE:
+More than a year before the acquisition ended, the billion-dollar cost was already inside the deal architecture.
+
+LOCKED HEADLINE:
+"THE COST WAS ALREADY THERE"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV053_10Q_CLOSING_RISK_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Adobe 10-Q closing-risk disclosure excerpt; it is the pulled sheet, shown unchanged — never retype it.
+
+COMPOSITION:
+a low-angle close view of a thick stack of blank paper on a dark desk; one sheet is pulled a few centimeters out of the middle of the stack, lit by a narrow beam, a thin vertical deep-red bracket in its margin. headline zone inside the top 40% and left 42% of the frame. The stack spans center-right between 30% and 76% of frame height; the pulled sheet is the sharpest element. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `THE COST WAS ALREADY THERE`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F028 / Beat B028
+
+**TIMING:** 230.660 → 238.600  
+**DURATION:** 7.940 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G017  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+A reverse termination fee is not a punishment imposed by the government. It is a risk-allocation term negotiated by the parties to a transaction.
+
+The viewer must instantly understand: **RISK ALLOCATION**.
+
+### LOCKED HEADLINE
+`RISK ALLOCATION`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: Source 2.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe identifier (left card); image 2 = Figma identifier (right card). Both unchanged and small.
+
+### COMPOSITION DIRECTION
+a dark desk divided by one thin pale line. Left of the line, a small paper card with a company identifier; right of the line, another card with the second identifier. A solid deep-red paper block rests on the left side, next to the left card.
+
+headline zone inside the top 25% of the frame, left half. The two sides fill the band between 32% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -2909,37 +2876,38 @@ STORY PURPOSE:
 A reverse termination fee is not a punishment imposed by the government. It is a risk-allocation term negotiated by the parties to a transaction.
 
 LOCKED HEADLINE:
-""
+"RISK ALLOCATION"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier (left card); image 2 = Figma identifier (right card). Both unchanged and small.
 
 COMPOSITION:
-A reverse termination fee is not a punishment imposed by the government. It is a risk-allocation term negotiated by the parties to a transaction. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a dark desk divided by one thin pale line. Left of the line, a small paper card with a company identifier; right of the line, another card with the second identifier. A solid deep-red paper block rests on the left side, next to the left card. headline zone inside the top 25% of the frame, left half. The two sides fill the band between 32% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `RISK ALLOCATION`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -2949,24 +2917,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F029 / Beat B029
 
 **TIMING:** 238.600 → 246.320  
 **DURATION:** 7.720 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G018  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** EDITORIAL_METAPHOR  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 In simple terms, the buyer agrees that if specified closing failures occur, the seller can receive a defined payment.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **IF CLOSING FAILS**.
 
 ### LOCKED HEADLINE
-``
+`IF CLOSING FAILS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -2984,14 +2950,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 ### COMPOSITION DIRECTION
-In simple terms, the buyer agrees that if specified closing failures occur, the seller can receive a defined payment.
+one thread enters from the left and meets a brass pin, where it splits: an upper pale-grey thread runs to an empty outlined ivory card; a lower deep-red thread runs to a solid deep-red card. Nothing is written anywhere.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 25% of the frame, left half. Fork point center-left at 50% of frame height; both cards on the right half, the lower card ending above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3000,7 +2966,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3011,37 +2977,37 @@ STORY PURPOSE:
 In simple terms, the buyer agrees that if specified closing failures occur, the seller can receive a defined payment.
 
 LOCKED HEADLINE:
-""
+"IF CLOSING FAILS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 COMPOSITION:
-In simple terms, the buyer agrees that if specified closing failures occur, the seller can receive a defined payment. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one thread enters from the left and meets a brass pin, where it splits: an upper pale-grey thread runs to an empty outlined ivory card; a lower deep-red thread runs to a solid deep-red card. Nothing is written anywhere. headline zone inside the top 25% of the frame, left half. Fork point center-left at 50% of frame height; both cards on the right half, the lower card ending above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `IF CLOSING FAILS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3050,8 +3016,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F030 / Beat B030
 
@@ -3160,24 +3124,24 @@ Otherwise: **REJECT**.
 **TIMING:** 258.500 → 265.220  
 **DURATION:** 6.720 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G019  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 And the contract makes an unusually useful distinction for this story. It says the termination fee is not a penalty.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NOT A PENALTY**.
 
 ### LOCKED HEADLINE
-``
+`NOT A PENALTY`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
+`12_SOURCE_PREP/RV049_NOT_A_PENALTY_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -3188,14 +3152,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Merger Agreement Section 8.2 "not a penalty" excerpt; it is the paper, shown unchanged — never retype or redraw it.
 
 ### COMPOSITION DIRECTION
-And the contract makes an unusually useful distinction for this story. It says the termination fee is not a penalty.
+an extreme close-up of one contract excerpt on warm aged paper with very shallow depth of field — a sharp band across the middle lines, paper edges melting into blur — and a thin vertical deep-red bracket in the margin beside the sharp band.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. The excerpt fills the right 60%, between 8% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3204,7 +3168,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3215,37 +3179,37 @@ STORY PURPOSE:
 And the contract makes an unusually useful distinction for this story. It says the termination fee is not a penalty.
 
 LOCKED HEADLINE:
-""
+"NOT A PENALTY"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV049_NOT_A_PENALTY_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Merger Agreement Section 8.2 "not a penalty" excerpt; it is the paper, shown unchanged — never retype or redraw it.
 
 COMPOSITION:
-And the contract makes an unusually useful distinction for this story. It says the termination fee is not a penalty. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+an extreme close-up of one contract excerpt on warm aged paper with very shallow depth of field — a sharp band across the middle lines, paper edges melting into blur — and a thin vertical deep-red bracket in the margin beside the sharp band. headline zone inside the top 40% and left 40% of the frame. The excerpt fills the right 60%, between 8% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NOT A PENALTY`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3255,24 +3219,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F032 / Beat B032
 
 **TIMING:** 265.220 → 273.100  
 **DURATION:** 7.880 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G020  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** EDITORIAL_METAPHOR  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It describes the payment as liquidated damages. So the agreement did more than describe the deal the companies wanted to close.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **LIQUIDATED DAMAGES**.
 
 ### LOCKED HEADLINE
-``
+`LIQUIDATED DAMAGES`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -3290,14 +3252,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 ### COMPOSITION DIRECTION
-It describes the payment as liquidated damages. So the agreement did more than describe the deal the companies wanted to close.
+an open ledger book on a dark desk, pages blank with faint grey ruled lines. On one line a solid deep-red bar fills a precise measured length; an unmarked brass straightedge lies parallel to it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. The ledger center-right at a gentle angle, between 25% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3306,7 +3268,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3317,37 +3279,37 @@ STORY PURPOSE:
 It describes the payment as liquidated damages. So the agreement did more than describe the deal the companies wanted to close.
 
 LOCKED HEADLINE:
-""
+"LIQUIDATED DAMAGES"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 COMPOSITION:
-It describes the payment as liquidated damages. So the agreement did more than describe the deal the companies wanted to close. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+an open ledger book on a dark desk, pages blank with faint grey ruled lines. On one line a solid deep-red bar fills a precise measured length; an unmarked brass straightedge lies parallel to it. headline zone inside the top 40% and left 40% of the frame. The ledger center-right at a gentle angle, between 25% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `LIQUIDATED DAMAGES`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3357,54 +3319,47 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F033 / Beat B033
 
 **TIMING:** 273.980 → 278.820  
 **DURATION:** 4.840 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G021  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It also described a financial consequence if that deal failed under the specified conditions.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **FAILURE HAD A PRICE**.
 
 ### LOCKED HEADLINE
-``
+`FAILURE HAD A PRICE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png`
+`12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: Source 2.
+SECONDARY: None.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the paper, shown unchanged — never retype it. No other document may appear.
 
 ### COMPOSITION DIRECTION
-It also described a financial consequence if that deal failed under the specified conditions.
+one paper excerpt lies on a dark desk; through a punched hole in its lower-left corner a thin deep-red string is tied to a blank manila price tag resting beside it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The excerpt on the right half, between 10% and 70% of frame height; the tag near the center, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3413,7 +3368,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3424,38 +3379,37 @@ STORY PURPOSE:
 It also described a financial consequence if that deal failed under the specified conditions.
 
 LOCKED HEADLINE:
-""
+"FAILURE HAD A PRICE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
-Image 2: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
+Image 1: 12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the paper, shown unchanged — never retype it. No other document may appear.
 
 COMPOSITION:
-It also described a financial consequence if that deal failed under the specified conditions. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one paper excerpt lies on a dark desk; through a punched hole in its lower-left corner a thin deep-red string is tied to a blank manila price tag resting beside it. headline zone inside the top 45% and left 40% of the frame. The excerpt on the right half, between 10% and 70% of frame height; the tag near the center, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `FAILURE HAD A PRICE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3464,8 +3418,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F034 / Beat B034
 
@@ -3580,17 +3532,17 @@ Otherwise: **REJECT**.
 **TIMING:** 286.680 → 292.860  
 **DURATION:** 6.180 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G022  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 On September fifteenth, twenty twenty-two, the definitive agreement was signed and the transaction became public.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **SEPTEMBER 15, 2022**.
 
 ### LOCKED HEADLINE
-``
+`SEPTEMBER 15, 2022`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -3608,14 +3560,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the framed print, unchanged — never redraw its logos.
 
 ### COMPOSITION DIRECTION
-On September fifteenth, twenty twenty-two, the definitive agreement was signed and the transaction became public.
+a framed print hangs alone on a dark wall under a single spotlight; one deep-red pin is pushed into the wall just above the frame's top center.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 42% of the frame. The framed print center-right, between 12% and 72% of frame height, with wide darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3624,7 +3576,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3635,37 +3587,37 @@ STORY PURPOSE:
 On September fifteenth, twenty twenty-two, the definitive agreement was signed and the transaction became public.
 
 LOCKED HEADLINE:
-""
+"SEPTEMBER 15, 2022"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the framed print, unchanged — never redraw its logos.
 
 COMPOSITION:
-On September fifteenth, twenty twenty-two, the definitive agreement was signed and the transaction became public. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a framed print hangs alone on a dark wall under a single spotlight; one deep-red pin is pushed into the wall just above the frame's top center. headline zone inside the top 40% and left 42% of the frame. The framed print center-right, between 12% and 72% of frame height, with wide darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `SEPTEMBER 15, 2022`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3675,36 +3627,34 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F036 / Beat B036
 
 **TIMING:** 293.860 → 303.080  
 **DURATION:** 9.220 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G023  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Adobe was proposing one of the largest software acquisitions of its era. Figma would remain a separate company until closing, but the plan was for it to become part of Adobe.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **A GIANT SOFTWARE DEAL**.
 
 ### LOCKED HEADLINE
-``
+`A GIANT SOFTWARE DEAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV009_NARAYEN_MAX_2022_STAGE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png`
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -3715,14 +3665,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe MAX 2022 keynote stage (the print) — keep every face and person exactly as photographed, add no people; image 2 = Figma identifier (small card), unchanged.
 
 ### COMPOSITION DIRECTION
-Adobe was proposing one of the largest software acquisitions of its era. Figma would remain a separate company until closing, but the plan was for it to become part of Adobe.
+a wide event photograph of a keynote stage and audience is presented as a large print covering most of the frame; a small paper card with a company identifier is clipped to the print's right edge.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 40% of the frame, over dark shadow. The print spans from 30% to the right edge, between 18% and 74% of frame height; card at right-middle. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3731,7 +3681,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3742,38 +3692,38 @@ STORY PURPOSE:
 Adobe was proposing one of the largest software acquisitions of its era. Figma would remain a separate company until closing, but the plan was for it to become part of Adobe.
 
 LOCKED HEADLINE:
-""
+"A GIANT SOFTWARE DEAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png
+Image 1: 12_SOURCE_PREP/RV009_NARAYEN_MAX_2022_STAGE.jpg
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe MAX 2022 keynote stage (the print) — keep every face and person exactly as photographed, add no people; image 2 = Figma identifier (small card), unchanged.
 
 COMPOSITION:
-Adobe was proposing one of the largest software acquisitions of its era. Figma would remain a separate company until closing, but the plan was for it to become part of Adobe. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a wide event photograph of a keynote stage and audience is presented as a large print covering most of the frame; a small paper card with a company identifier is clipped to the print's right edge. headline zone inside the top 35% and left 40% of the frame, over dark shadow. The print spans from 30% to the right edge, between 18% and 74% of frame height; card at right-middle. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `A GIANT SOFTWARE DEAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3783,31 +3733,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F037 / Beat B037
 
 **TIMING:** 303.880 → 308.020  
 **DURATION:** 4.140 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G024  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 At that moment, the story looked like a conventional giant technology acquisition.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE DEAL LOOKED NORMAL**.
 
 ### LOCKED HEADLINE
-``
+`THE DEAL LOOKED NORMAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
+`12_SOURCE_PREP/RV016_CONFIG_2023_CROWD.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -3818,14 +3766,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma Config 2023 crowd; it is the print, unchanged — do not alter or add people.
 
 ### COMPOSITION DIRECTION
-At that moment, the story looked like a conventional giant technology acquisition.
+a tidy dark desk; a medium photographic print of a conference crowd lies squarely on the right; beside it a neatly closed plain grey folder aligned parallel to the print.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. Folder and print center-right, between 25% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3834,7 +3782,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3845,37 +3793,37 @@ STORY PURPOSE:
 At that moment, the story looked like a conventional giant technology acquisition.
 
 LOCKED HEADLINE:
-""
+"THE DEAL LOOKED NORMAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
+Image 1: 12_SOURCE_PREP/RV016_CONFIG_2023_CROWD.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma Config 2023 crowd; it is the print, unchanged — do not alter or add people.
 
 COMPOSITION:
-At that moment, the story looked like a conventional giant technology acquisition. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a tidy dark desk; a medium photographic print of a conference crowd lies squarely on the right; beside it a neatly closed plain grey folder aligned parallel to the print. headline zone inside the top 45% and left 40% of the frame. Folder and print center-right, between 25% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE DEAL LOOKED NORMAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3885,49 +3833,52 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F038 / Beat B038
 
 **TIMING:** 308.920 → 315.060  
 **DURATION:** 6.140 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G025  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 A buyer. A target. A twenty-billion-dollar headline. Regulatory approvals to obtain.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **BUYER • TARGET • APPROVALS**.
 
 ### LOCKED HEADLINE
-``
+`BUYER • TARGET • APPROVALS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier (first card); image 2 = Figma identifier (second card). Both unchanged and small.
 
 ### COMPOSITION DIRECTION
-A buyer. A target. A twenty-billion-dollar headline. Regulatory approvals to obtain.
+on a dark wall, three items are pinned evenly spaced in a straight row: a small card with one company identifier, a small card with a second identifier, and an empty open paper frame — plain dark wall visible through it — with a thin deep-red top edge.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. The row sits between 34% and 72% of frame height, left to right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -3936,7 +3887,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -3947,37 +3898,38 @@ STORY PURPOSE:
 A buyer. A target. A twenty-billion-dollar headline. Regulatory approvals to obtain.
 
 LOCKED HEADLINE:
-""
+"BUYER • TARGET • APPROVALS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier (first card); image 2 = Figma identifier (second card). Both unchanged and small.
 
 COMPOSITION:
-A buyer. A target. A twenty-billion-dollar headline. Regulatory approvals to obtain. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark wall, three items are pinned evenly spaced in a straight row: a small card with one company identifier, a small card with a second identifier, and an empty open paper frame — plain dark wall visible through it — with a thin deep-red top edge. headline zone = top center, inside the top 22% of the frame. The row sits between 34% and 72% of frame height, left to right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `BUYER • TARGET • APPROVALS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -3987,24 +3939,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F039 / Beat B039
 
 **TIMING:** 315.980 → 325.380  
 **DURATION:** 9.400 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G026  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 But there was already a one-billion-dollar failure mechanism sitting inside the contract. That is easy to miss in a merger announcement. The public headline is the purchase price.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE HIDDEN FAILURE MECHANISM**.
 
 ### LOCKED HEADLINE
-``
+`THE HIDDEN FAILURE MECHANISM`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -4016,7 +3966,7 @@ Exact spelling and punctuation. No second generated headline or explanatory copy
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -4027,14 +3977,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (top print), unchanged; image 2 = Merger Agreement Section 8.2 fee excerpt (revealed underneath), unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-But there was already a one-billion-dollar failure mechanism sitting inside the contract. That is easy to miss in a merger announcement. The public headline is the purchase price.
+a print lies flat on a dark desk; its lower-right corner is physically peeled back and curled up, revealing a contract excerpt underneath, with a thin vertical deep-red bracket in the excerpt's margin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The print fills center-right between 10% and 74% of frame height; the revealed corner at right-middle. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -4043,7 +3993,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -4054,38 +4004,38 @@ STORY PURPOSE:
 But there was already a one-billion-dollar failure mechanism sitting inside the contract. That is easy to miss in a merger announcement. The public headline is the purchase price.
 
 LOCKED HEADLINE:
-""
+"THE HIDDEN FAILURE MECHANISM"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
-Image 2: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
+Image 2: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (top print), unchanged; image 2 = Merger Agreement Section 8.2 fee excerpt (revealed underneath), unchanged — never retype it.
 
 COMPOSITION:
-But there was already a one-billion-dollar failure mechanism sitting inside the contract. That is easy to miss in a merger announcement. The public headline is the purchase price. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a print lies flat on a dark desk; its lower-right corner is physically peeled back and curled up, revealing a contract excerpt underneath, with a thin vertical deep-red bracket in the excerpt's margin. headline zone inside the top 45% and left 40% of the frame. The print fills center-right between 10% and 74% of frame height; the revealed corner at right-middle. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE HIDDEN FAILURE MECHANISM`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -4095,31 +4045,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F040 / Beat B040
 
 **TIMING:** 325.940 → 333.460  
 **DURATION:** 7.520 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G027  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The failure terms live deeper in the agreement, because they matter only if something goes wrong. The question was whether this one ever would.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **DEEPER IN THE AGREEMENT**.
 
 ### LOCKED HEADLINE
-``
+`DEEPER IN THE AGREEMENT`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -4130,14 +4078,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline; it is the excerpt on top, unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-The failure terms live deeper in the agreement, because they matter only if something goes wrong. The question was whether this one ever would.
+a low-angle view of a very thick bound agreement on a dark desk, blank page edges facing camera; one deep-red tab sticks out from deep inside the stack near its bottom. A small crisp announcement excerpt lies on top of the stack.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. The stack spans center-right between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -4146,7 +4094,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -4157,37 +4105,37 @@ STORY PURPOSE:
 The failure terms live deeper in the agreement, because they matter only if something goes wrong. The question was whether this one ever would.
 
 LOCKED HEADLINE:
-""
+"DEEPER IN THE AGREEMENT"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline; it is the excerpt on top, unchanged — never retype it.
 
 COMPOSITION:
-The failure terms live deeper in the agreement, because they matter only if something goes wrong. The question was whether this one ever would. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a low-angle view of a very thick bound agreement on a dark desk, blank page edges facing camera; one deep-red tab sticks out from deep inside the stack near its bottom. A small crisp announcement excerpt lies on top of the stack. headline zone inside the top 40% and left 40% of the frame. The stack spans center-right between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `DEEPER IN THE AGREEMENT`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -4196,337 +4144,23 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F041 / Beat B041
 
 **TIMING:** 334.100 → 337.160  
 **DURATION:** 3.060 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G028  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 In twenty twenty-three, that question stopped being theoretical.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **2023: THE RISK ARRIVES**.
 
 ### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-In twenty twenty-three, that question stopped being theoretical.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B041, ready to place directly into the finished film.
-
-STORY PURPOSE:
-In twenty twenty-three, that question stopped being theoretical.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-In twenty twenty-three, that question stopped being theoretical. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F042 / Beat B042
-
-**TIMING:** 338.280 → 348.700  
-**DURATION:** 10.420 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G029  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV070_DOJ_HQ.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV024_SOURCE.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B042, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
-Image 2: 12_SOURCE_PREP/RV024_SOURCE.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F043 / Beat B043
-
-**TIMING:** 349.400 → 359.780  
-**DURATION:** 10.380 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G030  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B043, ready to place directly into the finished film.
-
-STORY PURPOSE:
-By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F044 / Beat B044
-
-**TIMING:** 361.020 → 368.140  
-**DURATION:** 7.120 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G031  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The European Commission received formal notification on June thirtieth. On August seventh, it opened its own in-depth investigation.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
+`2023: THE RISK ARRIVES`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -4544,14 +4178,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont headquarters; it is the print, unchanged.
 
 ### COMPOSITION DIRECTION
-The European Commission received formal notification on June thirtieth. On August seventh, it opened its own in-depth investigation.
+a photographic print of a large institutional building at blue dusk is pinned to a dark wall with one deep-red pin at its top-left corner; cool, still, quiet.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The print fills the right 60%, between 10% and 72% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -4560,7 +4194,307 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B041, ready to place directly into the finished film.
+
+STORY PURPOSE:
+In twenty twenty-three, that question stopped being theoretical.
+
+LOCKED HEADLINE:
+"2023: THE RISK ARRIVES"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = European Commission Berlaymont headquarters; it is the print, unchanged.
+
+COMPOSITION:
+a photographic print of a large institutional building at blue dusk is pinned to a dark wall with one deep-red pin at its top-left corner; cool, still, quiet. headline zone inside the top 45% and left 40% of the frame. The print fills the right 60%, between 10% and 72% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `2023: THE RISK ARRIVES`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F042 / Beat B042
+
+**TIMING:** 338.280 → 348.700  
+**DURATION:** 10.420 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G029  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition.
+
+The viewer must instantly understand: **UK REVIEW OPENS**.
+
+### LOCKED HEADLINE
+`UK REVIEW OPENS`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = UK CMA case-page timeline excerpt; it is the excerpt in the folder, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+top-down view of a manila case folder just opened flat on a dark desk; on its right-hand page lies one paper excerpt with a thin vertical deep-red bracket in its margin; the left-hand page is blank.
+
+headline zone inside the top 45% and left 38% of the frame. The open folder center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B042, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The United Kingdom was one of the first places where the pressure became formal. On May third, twenty twenty-three, the Competition and Markets Authority opened its inquiry into the proposed acquisition.
+
+LOCKED HEADLINE:
+"UK REVIEW OPENS"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = UK CMA case-page timeline excerpt; it is the excerpt in the folder, unchanged — never retype it.
+
+COMPOSITION:
+top-down view of a manila case folder just opened flat on a dark desk; on its right-hand page lies one paper excerpt with a thin vertical deep-red bracket in its margin; the left-hand page is blank. headline zone inside the top 45% and left 38% of the frame. The open folder center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `UK REVIEW OPENS`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F043 / Beat B043
+
+**TIMING:** 349.400 → 359.780  
+**DURATION:** 10.380 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G030  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation.
+
+The viewer must instantly understand: **PHASE TWO**.
+
+### LOCKED HEADLINE
+`PHASE TWO`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = UK CMA Phase 1 decision title block; it is the clipped excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+side view of two case folders standing upright in an open cardboard archive box on a dark desk: the front folder thin and closed with one small paper excerpt clipped to its face; the folder behind noticeably thicker, one deep-red tab rising from it.
+
+headline zone inside the top 40% and left 40% of the frame. The box center-right, between 28% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B043, ready to place directly into the finished film.
+
+STORY PURPOSE:
+By June thirtieth, the CMA said there were grounds for deeper competition concerns. On July thirteenth, the transaction was referred for an in-depth Phase Two investigation.
+
+LOCKED HEADLINE:
+"PHASE TWO"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = UK CMA Phase 1 decision title block; it is the clipped excerpt, unchanged — never retype it.
+
+COMPOSITION:
+side view of two case folders standing upright in an open cardboard archive box on a dark desk: the front folder thin and closed with one small paper excerpt clipped to its face; the folder behind noticeably thicker, one deep-red tab rising from it. headline zone inside the top 40% and left 40% of the frame. The box center-right, between 28% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `PHASE TWO`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F044 / Beat B044
+
+**TIMING:** 361.020 → 368.140  
+**DURATION:** 7.120 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G031  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The European Commission received formal notification on June thirtieth. On August seventh, it opened its own in-depth investigation.
+
+The viewer must instantly understand: **EU IN-DEPTH REVIEW**.
+
+### LOCKED HEADLINE
+`EU IN-DEPTH REVIEW`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV069_BERLAYMONT_ALT.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = European Commission Berlaymont exterior (alternate view); it is the photograph, unchanged — do not add or alter architecture or signs.
+
+### COMPOSITION DIRECTION
+a wide, cinematic full-frame view of a large institutional office building, deep muted grading, darkened sky.
+
+headline zone inside the top 35% and left 45% of the frame, over the dark sky. The building occupies the center and right. The bottom 22% falls into plain near-black shadow with no building detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -4571,37 +4505,37 @@ STORY PURPOSE:
 The European Commission received formal notification on June thirtieth. On August seventh, it opened its own in-depth investigation.
 
 LOCKED HEADLINE:
-""
+"EU IN-DEPTH REVIEW"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
+Image 1: 12_SOURCE_PREP/RV069_BERLAYMONT_ALT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont exterior (alternate view); it is the photograph, unchanged — do not add or alter architecture or signs.
 
 COMPOSITION:
-The European Commission received formal notification on June thirtieth. On August seventh, it opened its own in-depth investigation. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a wide, cinematic full-frame view of a large institutional office building, deep muted grading, darkened sky. headline zone inside the top 35% and left 45% of the frame, over the dark sky. The building occupies the center and right. The bottom 22% falls into plain near-black shadow with no building detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `EU IN-DEPTH REVIEW`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -4610,8 +4544,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F045 / Beat B045
 
@@ -4739,226 +4671,22 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 The UK and EU reviews developed formal competition objections.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **FORMAL OBJECTIONS**.
 
 ### LOCKED HEADLINE
-``
+`FORMAL OBJECTIONS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The UK and EU reviews developed formal competition objections.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B046, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The UK and EU reviews developed formal competition objections.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The UK and EU reviews developed formal competition objections. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F047 / Beat B047
-
-**TIMING:** 383.760 → 394.540  
-**DURATION:** 10.780 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G033  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B047, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F048 / Beat B048
-
-**TIMING:** 395.560 → 403.160  
-**DURATION:** 7.600 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G034  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV024_SOURCE.png`
+`12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
+`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -4969,14 +4697,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA Phase 1 decision title block (left), unchanged — never retype it; image 2 = European Commission Berlaymont (right print), unchanged.
 
 ### COMPOSITION DIRECTION
-Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+on a dark wall, a paper excerpt (left) and a photographic print of an institutional building (right) are pinned at equal size; each has one small blank deep-red paper flag clipped to its top edge. The wall between them is plain and empty — a deliberate void.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. The two items between 30% and 74% of frame height, in the left and right thirds. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -4985,49 +4713,49 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B048, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B046, ready to place directly into the finished film.
 
 STORY PURPOSE:
-Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+The UK and EU reviews developed formal competition objections.
 
 LOCKED HEADLINE:
-""
+"FORMAL OBJECTIONS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV024_SOURCE.png
-Image 2: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
+Image 1: 12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png
+Image 2: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA Phase 1 decision title block (left), unchanged — never retype it; image 2 = European Commission Berlaymont (right print), unchanged.
 
 COMPOSITION:
-Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark wall, a paper excerpt (left) and a photographic print of an institutional building (right) are pinned at equal size; each has one small blank deep-red paper flag clipped to its top edge. The wall between them is plain and empty — a deliberate void. headline zone = top center, inside the top 22% of the frame. The two items between 30% and 74% of frame height, in the left and right thirds. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `FORMAL OBJECTIONS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -5037,126 +4765,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F047 / Beat B047
 
-## F049 / Beat B049
-
-**TIMING:** 403.160 → 411.760  
-**DURATION:** 8.600 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G035  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 383.760 → 394.540  
+**DURATION:** 10.780 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G033  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
+The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events.
 
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B049, ready to place directly into the finished film.
-
-STORY PURPOSE:
-As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F050 / Beat B050
-
-**TIMING:** 412.380 → 419.620  
-**DURATION:** 7.240 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G036  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
-
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **INVESTIGATION ≠ LAWSUIT**.
 
 ### LOCKED HEADLINE
-``
+`INVESTIGATION ≠ LAWSUIT`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -5174,14 +4798,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = U.S. Department of Justice headquarters exterior; it is the print, unchanged — no seal close-ups.
 
 ### COMPOSITION DIRECTION
-The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
+a photographic print of a government headquarters leans upright on a dark desk in cool light; in front, one closed plain folder lies beside an empty black wire document tray with nothing in it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The print on the right half, between 8% and 66% of frame height; folder and empty tray in front of it, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -5190,7 +4814,307 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B047, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The public DOJ record for this story establishes an investigation, not a filed merger lawsuit. The important business point was that signing and closing were two different events.
+
+LOCKED HEADLINE:
+"INVESTIGATION ≠ LAWSUIT"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = U.S. Department of Justice headquarters exterior; it is the print, unchanged — no seal close-ups.
+
+COMPOSITION:
+a photographic print of a government headquarters leans upright on a dark desk in cool light; in front, one closed plain folder lies beside an empty black wire document tray with nothing in it. headline zone inside the top 45% and left 38% of the frame. The print on the right half, between 8% and 66% of frame height; folder and empty tray in front of it, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `INVESTIGATION ≠ LAWSUIT`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F048 / Beat B048
+
+**TIMING:** 395.560 → 403.160  
+**DURATION:** 7.600 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G034  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+
+The viewer must instantly understand: **SIGNED ≠ CLOSED**.
+
+### LOCKED HEADLINE
+`SIGNED ≠ CLOSED`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the left excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+on a dark desk, left: a paper excerpt with a closed black fountain pen resting across it. Right, across a wide empty gap: one blank card defined only by a thin pale-grey outline, untouched.
+
+headline zone = top center, inside the top 22% of the frame. Excerpt with pen in the left 40%, outlined card in the right 30%, both between 30% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B048, ready to place directly into the finished film.
+
+STORY PURPOSE:
+Adobe and Figma already had a merger agreement, but the companies still needed the required approvals before the transaction could actually be completed.
+
+LOCKED HEADLINE:
+"SIGNED ≠ CLOSED"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Adobe Form 8-K merger-agreement excerpt; it is the left excerpt, unchanged — never retype it.
+
+COMPOSITION:
+on a dark desk, left: a paper excerpt with a closed black fountain pen resting across it. Right, across a wide empty gap: one blank card defined only by a thin pale-grey outline, untouched. headline zone = top center, inside the top 22% of the frame. Excerpt with pen in the left 40%, outlined card in the right 30%, both between 30% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `SIGNED ≠ CLOSED`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F049 / Beat B049
+
+**TIMING:** 403.160 → 411.760  
+**DURATION:** 8.600 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G035  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
+
+The viewer must instantly understand: **THE CLAUSE DIDN'T CHANGE**.
+
+### LOCKED HEADLINE
+`THE CLAUSE DIDN'T CHANGE`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Merger Agreement Section 8.2 fee excerpt; it is the sharp excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+a single contract excerpt lies tack-sharp on a dark desk, a thin vertical deep-red bracket in its margin; behind it, heavily out of focus, tall stacks of blank papers rise and crowd the background.
+
+headline zone inside the top 40% and left 40% of the frame. The sharp excerpt center-right between 35% and 74% of frame height; blurred stacks behind it. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B049, ready to place directly into the finished film.
+
+STORY PURPOSE:
+As the reviews deepened, the one-billion-dollar clause did not change. What changed was the chance that the companies might eventually need it.
+
+LOCKED HEADLINE:
+"THE CLAUSE DIDN'T CHANGE"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Merger Agreement Section 8.2 fee excerpt; it is the sharp excerpt, unchanged — never retype it.
+
+COMPOSITION:
+a single contract excerpt lies tack-sharp on a dark desk, a thin vertical deep-red bracket in its margin; behind it, heavily out of focus, tall stacks of blank papers rise and crowd the background. headline zone inside the top 40% and left 40% of the frame. The sharp excerpt center-right between 35% and 74% of frame height; blurred stacks behind it. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `THE CLAUSE DIDN'T CHANGE`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F050 / Beat B050
+
+**TIMING:** 412.380 → 419.620  
+**DURATION:** 7.240 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G036  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
+
+The viewer must instantly understand: **FAILED CLOSING GETS CLOSER**.
+
+### LOCKED HEADLINE
+`FAILED CLOSING GETS CLOSER`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV053_10Q_CLOSING_RISK_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe 10-Q closing-risk excerpt; it is the pinned excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+a low, deep perspective down a narrow corridor formed by two tall dark walls of stacked file folders on a desk; at the far end a small blank pale card stands in faint light. One paper excerpt is pinned high on the near right wall.
+
+headline zone inside the top 35% and left 40% of the frame. The corridor converges at center; the excerpt upper right, between 12% and 45% of frame height. The bottom 22% is dark shadow. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -5201,37 +5125,37 @@ STORY PURPOSE:
 The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore.
 
 LOCKED HEADLINE:
-""
+"FAILED CLOSING GETS CLOSER"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
+Image 1: 12_SOURCE_PREP/RV053_10Q_CLOSING_RISK_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe 10-Q closing-risk excerpt; it is the pinned excerpt, unchanged — never retype it.
 
 COMPOSITION:
-The fee mattered because it had already been written into their own contract, and the possibility of a failed closing was becoming harder to ignore. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a low, deep perspective down a narrow corridor formed by two tall dark walls of stacked file folders on a desk; at the far end a small blank pale card stands in faint light. One paper excerpt is pinned high on the near right wall. headline zone inside the top 35% and left 40% of the frame. The corridor converges at center; the excerpt upper right, between 12% and 45% of frame height. The bottom 22% is dark shadow. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `FAILED CLOSING GETS CLOSER`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -5240,8 +5164,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F051 / Beat B051
 
@@ -5255,22 +5177,22 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 By November twenty twenty-three, the UK and EU concerns had become much more explicit.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NOVEMBER 2023**.
 
 ### LOCKED HEADLINE
-``
+`NOVEMBER 2023`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png`
+`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png`
+`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -5281,14 +5203,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont (large print), unchanged; image 2 = UK CMA case-page timeline excerpt (small excerpt), unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-By November twenty twenty-three, the UK and EU concerns had become much more explicit.
+on a dark wall, a large photographic print of an institutional building at dusk (right) and a smaller paper excerpt (left-center) are pinned; one short taut deep-red thread joins a pin on each.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame; the excerpt below it, between 42% and 72% of frame height. The large print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -5297,7 +5219,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -5308,38 +5230,38 @@ STORY PURPOSE:
 By November twenty twenty-three, the UK and EU concerns had become much more explicit.
 
 LOCKED HEADLINE:
-""
+"NOVEMBER 2023"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png
-Image 2: 12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png
+Image 1: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
+Image 2: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont (large print), unchanged; image 2 = UK CMA case-page timeline excerpt (small excerpt), unchanged — never retype it.
 
 COMPOSITION:
-By November twenty twenty-three, the UK and EU concerns had become much more explicit. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark wall, a large photographic print of an institutional building at dusk (right) and a smaller paper excerpt (left-center) are pinned; one short taut deep-red thread joins a pin on each. headline zone inside the top 35% and left 42% of the frame; the excerpt below it, between 42% and 72% of frame height. The large print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NOVEMBER 2023`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -5348,8 +5270,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F052 / Beat B052
 
@@ -5770,131 +5690,29 @@ Otherwise: **REJECT**.
 **TIMING:** 464.240 → 474.500  
 **DURATION:** 10.260 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G038  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **REMEDIES CHANGE THE DEAL**.
 
 ### LOCKED HEADLINE
-``
+`REMEDIES CHANGE THE DEAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B056, ready to place directly into the finished film.
-
-STORY PURPOSE:
-That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F057 / Beat B057
-
-**TIMING:** 474.500 → 481.820  
-**DURATION:** 7.320 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G039  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png`
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png`
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -5905,14 +5723,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged and small.
 
 ### COMPOSITION DIRECTION
-if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design
+top-down view of one blank sheet on a dark desk with two small identifier cards paper-clipped to it, one on each half; a deep-red dashed fold line runs between them and the sheet is partly lifted along that line.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The sheet center-right, between 22% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -5921,49 +5739,49 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B057, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B056, ready to place directly into the finished film.
 
 STORY PURPOSE:
-if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design
+That was a major escalation in practical terms. A provisional concern is one thing. A remedies discussion forces the parties to confront what the deal might have to look like
 
 LOCKED HEADLINE:
-""
+"REMEDIES CHANGE THE DEAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png
-Image 2: 12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged and small.
 
 COMPOSITION:
-if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of one blank sheet on a dark desk with two small identifier cards paper-clipped to it, one on each half; a deep-red dashed fold line runs between them and the sheet is partly lifted along that line. headline zone inside the top 45% and left 40% of the frame. The sheet center-right, between 22% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `REMEDIES CHANGE THE DEAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -5973,31 +5791,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F057 / Beat B057
 
-## F058 / Beat B058
-
-**TIMING:** 481.820 → 490.200  
-**DURATION:** 8.380 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G040  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 474.500 → 481.820  
+**DURATION:** 7.320 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G039  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-and said that remedy would be substantially similar to prohibition while introducing additional risks. The pressure was real.
+if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **FIGMA DESIGN ON THE TABLE**.
 
 ### LOCKED HEADLINE
-``
+`FIGMA DESIGN ON THE TABLE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
+`12_SOURCE_PREP/RV033_FIGMA_COLLAB_WORKFLOW_UI.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6008,14 +5824,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Figma collaboration workflow product visual; it is the print, unchanged — never redraw or invent interface.
 
 ### COMPOSITION DIRECTION
-and said that remedy would be substantially similar to prohibition while introducing additional risks. The pressure was real.
+a long dark conference table at a low angle, empty chairs dissolving into shadow; a printed product screenshot lies on the table; beside it runs a faint deep-red dashed pencil line with a red pencil resting at its end.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame. The print center-right, between 35% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6024,7 +5840,107 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B057, ready to place directly into the finished film.
+
+STORY PURPOSE:
+if the concerns are not resolved. The CMA document also discussed a possible divestiture of Figma Design
+
+LOCKED HEADLINE:
+"FIGMA DESIGN ON THE TABLE"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV033_FIGMA_COLLAB_WORKFLOW_UI.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = official Figma collaboration workflow product visual; it is the print, unchanged — never redraw or invent interface.
+
+COMPOSITION:
+a long dark conference table at a low angle, empty chairs dissolving into shadow; a printed product screenshot lies on the table; beside it runs a faint deep-red dashed pencil line with a red pencil resting at its end. headline zone inside the top 35% and left 42% of the frame. The print center-right, between 35% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `FIGMA DESIGN ON THE TABLE`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F058 / Beat B058
+
+**TIMING:** 481.820 → 490.200  
+**DURATION:** 8.380 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G040  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+and said that remedy would be substantially similar to prohibition while introducing additional risks. The pressure was real.
+
+The viewer must instantly understand: **PRESSURE, NOT FINALITY**.
+
+### LOCKED HEADLINE
+`PRESSURE, NOT FINALITY`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = UK CMA provisional-findings excerpt; it is the excerpt on the stack, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+on a dark desk, a heavy black steel clamp presses down on a short stack of paper; one paper excerpt is fixed to the front of the stack. To the right a single clean blank sheet lies untouched in soft light.
+
+headline zone inside the top 40% and left 38% of the frame. Clamp and stack at center, blank sheet center-right, all between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6035,37 +5951,37 @@ STORY PURPOSE:
 and said that remedy would be substantially similar to prohibition while introducing additional risks. The pressure was real.
 
 LOCKED HEADLINE:
-""
+"PRESSURE, NOT FINALITY"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
+Image 1: 12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA provisional-findings excerpt; it is the excerpt on the stack, unchanged — never retype it.
 
 COMPOSITION:
-and said that remedy would be substantially similar to prohibition while introducing additional risks. The pressure was real. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a heavy black steel clamp presses down on a short stack of paper; one paper excerpt is fixed to the front of the stack. To the right a single clean blank sheet lies untouched in soft light. headline zone inside the top 40% and left 38% of the frame. Clamp and stack at center, blank sheet center-right, all between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `PRESSURE, NOT FINALITY`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6074,8 +5990,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F059 / Beat B059
 
@@ -6190,24 +6104,24 @@ Otherwise: **REJECT**.
 **TIMING:** 502.040 → 509.740  
 **DURATION:** 7.700 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G041  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DUAL_ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Adobe and Figma did not accept the regulators' theories as settled fact. In their submissions to the CMA, the companies argued
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **ADOBE + FIGMA PUSH BACK**.
 
 ### LOCKED HEADLINE
-``
+`ADOBE + FIGMA PUSH BACK`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV009_NARAYEN_MAX_2022_STAGE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6223,14 +6137,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe MAX 2022 keynote stage (large print); image 2 = Figma CEO portrait (small print). Both unchanged — keep every face and person exactly as photographed; add no people.
 
 ### COMPOSITION DIRECTION
-Adobe and Figma did not accept the regulators' theories as settled fact. In their submissions to the CMA, the companies argued
+on a dark desk, a large event-photograph print (right) and a smaller portrait print (left-center) lie apart; between them rests a thick bound submission with a plain blank cover.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame; the portrait print below it, between 40% and 74% of frame height. The large print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6239,7 +6153,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6250,38 +6164,38 @@ STORY PURPOSE:
 Adobe and Figma did not accept the regulators' theories as settled fact. In their submissions to the CMA, the companies argued
 
 LOCKED HEADLINE:
-""
+"ADOBE + FIGMA PUSH BACK"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV009_NARAYEN_MAX_2022_STAGE.jpg
 Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe MAX 2022 keynote stage (large print); image 2 = Figma CEO portrait (small print). Both unchanged — keep every face and person exactly as photographed; add no people.
 
 COMPOSITION:
-Adobe and Figma did not accept the regulators' theories as settled fact. In their submissions to the CMA, the companies argued Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a large event-photograph print (right) and a smaller portrait print (left-center) lie apart; between them rests a thick bound submission with a plain blank cover. headline zone inside the top 35% and left 42% of the frame; the portrait print below it, between 40% and 74% of frame height. The large print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `ADOBE + FIGMA PUSH BACK`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6290,8 +6204,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F061 / Beat B061
 
@@ -6406,24 +6318,24 @@ Otherwise: **REJECT**.
 **TIMING:** 520.580 → 528.940  
 **DURATION:** 8.360 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G042  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 That counter-position belongs in the film for a simple reason: neither the UK nor the EU process reached a final merits decision.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NO FINAL MERITS DECISION**.
 
 ### LOCKED HEADLINE
-``
+`NO FINAL MERITS DECISION`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV045_ADOBE_XD_PROTOTYPING_UI.png`
+`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6434,14 +6346,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA case-page timeline excerpt; it is the excerpt, unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-That counter-position belongs in the film for a simple reason: neither the UK nor the EU process reached a final merits decision.
+an open ring binder on a dark desk; on its left side a paper excerpt sits on the earlier pages; the binder is opened at its last section — a divider with a deep-red edge followed by a completely blank white page.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 38% of the frame. The binder center-right, between 24% and 76% of frame height; the blank page is the brightest area. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6450,7 +6362,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6461,37 +6373,37 @@ STORY PURPOSE:
 That counter-position belongs in the film for a simple reason: neither the UK nor the EU process reached a final merits decision.
 
 LOCKED HEADLINE:
-""
+"NO FINAL MERITS DECISION"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV045_ADOBE_XD_PROTOTYPING_UI.png
+Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA case-page timeline excerpt; it is the excerpt, unchanged — never retype it.
 
 COMPOSITION:
-That counter-position belongs in the film for a simple reason: neither the UK nor the EU process reached a final merits decision. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+an open ring binder on a dark desk; on its left side a paper excerpt sits on the earlier pages; the binder is opened at its last section — a divider with a deep-red edge followed by a completely blank white page. headline zone inside the top 40% and left 38% of the frame. The binder center-right, between 24% and 76% of frame height; the blank page is the brightest area. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO FINAL MERITS DECISION`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6501,36 +6413,34 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F063 / Beat B063
 
 **TIMING:** 529.760 → 537.140  
 **DURATION:** 7.380 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G043  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **TWO SIDES OF THE RECORD**.
 
 ### LOCKED HEADLINE
-``
+`TWO SIDES OF THE RECORD`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV058_PARTIES_RESPONSE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6541,14 +6451,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA provisional-findings excerpt (left folder); image 2 = Adobe/Figma response excerpt (right folder). Both unchanged — never retype them.
 
 ### COMPOSITION DIRECTION
-The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns.
+top-down view of two open manila folders of identical size lying side by side on a dark desk, a thin neutral grey unmarked ruler between them; each folder holds one paper excerpt.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. The folders fill the band between 28% and 76% of frame height, symmetrically. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6557,7 +6467,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6568,38 +6478,38 @@ STORY PURPOSE:
 The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns.
 
 LOCKED HEADLINE:
-""
+"TWO SIDES OF THE RECORD"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png
+Image 2: 12_SOURCE_PREP/RV058_PARTIES_RESPONSE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA provisional-findings excerpt (left folder); image 2 = Adobe/Figma response excerpt (right folder). Both unchanged — never retype them.
 
 COMPOSITION:
-The public record contains serious regulatory concerns, but it also contains the companies' detailed disagreement with those concerns. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of two open manila folders of identical size lying side by side on a dark desk, a thin neutral grey unmarked ruler between them; each folder holds one paper excerpt. headline zone = top center, inside the top 22% of the frame. The folders fill the band between 28% and 76% of frame height, symmetrically. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `TWO SIDES OF THE RECORD`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6609,31 +6519,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F064 / Beat B064
 
 **TIMING:** 538.340 → 544.420  
 **DURATION:** 6.080 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G044  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **WHAT REMEDY COULD WORK?**.
 
 ### LOCKED HEADLINE
-``
+`WHAT REMEDY COULD WORK?`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV042_FIGMA_ADVANCED_PROTOTYPING_UI.png`
+`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6644,14 +6552,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA Notice of Possible Remedies title excerpt; it is the paper, unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns.
+on a dark desk, one paper excerpt lies at a slight angle; beside it three uncut, unengraved brass key blanks lie in a neat row, one tied with a thin deep-red thread.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. Excerpt and keys on the right 58%, between 22% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6660,7 +6568,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6671,37 +6579,37 @@ STORY PURPOSE:
 By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns.
 
 LOCKED HEADLINE:
-""
+"WHAT REMEDY COULD WORK?"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV042_FIGMA_ADVANCED_PROTOTYPING_UI.png
+Image 1: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA Notice of Possible Remedies title excerpt; it is the paper, unchanged — never retype it.
 
 COMPOSITION:
-By December, the argument had shifted toward what kinds of remedies could realistically address the regulators' concerns. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, one paper excerpt lies at a slight angle; beside it three uncut, unengraved brass key blanks lie in a neat row, one tied with a thin deep-red thread. headline zone inside the top 40% and left 40% of the frame. Excerpt and keys on the right 58%, between 22% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `WHAT REMEDY COULD WORK?`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6710,8 +6618,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F065 / Beat B065
 
@@ -6820,29 +6726,29 @@ Otherwise: **REJECT**.
 **TIMING:** 555.500 → 563.200  
 **DURATION:** 7.700 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G045  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 effectively pointed toward either prohibition or divestiture of Figma Design. That was the companies' characterization.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE COMPANIES' CHARACTERIZATION**.
 
 ### LOCKED HEADLINE
-``
+`THE COMPANIES' CHARACTERIZATION`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg`
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6853,14 +6759,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose (the print), unchanged; image 2 = Figma identifier (small card), unchanged.
 
 ### COMPOSITION DIRECTION
-effectively pointed toward either prohibition or divestiture of Figma Design. That was the companies' characterization.
+on a dark desk, a photographic print of a corporate headquarters lies partly covered by a single blank response sheet; a solid vertical deep-red quote bar runs along the sheet's left edge; a small identifier card is clipped to the sheet's top corner.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 40% of the frame. Print and sheet center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6869,7 +6775,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6880,38 +6786,38 @@ STORY PURPOSE:
 effectively pointed toward either prohibition or divestiture of Figma Design. That was the companies' characterization.
 
 LOCKED HEADLINE:
-""
+"THE COMPANIES' CHARACTERIZATION"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose (the print), unchanged; image 2 = Figma identifier (small card), unchanged.
 
 COMPOSITION:
-effectively pointed toward either prohibition or divestiture of Figma Design. That was the companies' characterization. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a photographic print of a corporate headquarters lies partly covered by a single blank response sheet; a solid vertical deep-red quote bar runs along the sheet's left edge; a small identifier card is clipped to the sheet's top corner. headline zone inside the top 40% and left 40% of the frame. Print and sheet center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE COMPANIES' CHARACTERIZATION`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -6921,31 +6827,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F067 / Beat B067
 
 **TIMING:** 564.300 → 574.220  
 **DURATION:** 9.920 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G046  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It was not a final CMA ruling. But it captures how narrow they said the path had become. No final UK or EU prohibition order had been issued.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NO FINAL PROHIBITION**.
 
 ### LOCKED HEADLINE
-``
+`NO FINAL PROHIBITION`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV042_FIGMA_ADVANCED_PROTOTYPING_UI.png`
+`12_SOURCE_PREP/RV069_BERLAYMONT_ALT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -6956,14 +6860,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont exterior (alternate view); it is the photograph, unchanged — do not add signs or alter the building.
 
 ### COMPOSITION DIRECTION
-It was not a final CMA ruling. But it captures how narrow they said the path had become. No final UK or EU prohibition order had been issued.
+a large institutional office building at night with some windows lit, full-frame, deep muted grading.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 45% of the frame, over dark sky. The building fills center and right. The bottom 22% falls into plain near-black shadow with no detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -6972,7 +6876,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -6983,37 +6887,37 @@ STORY PURPOSE:
 It was not a final CMA ruling. But it captures how narrow they said the path had become. No final UK or EU prohibition order had been issued.
 
 LOCKED HEADLINE:
-""
+"NO FINAL PROHIBITION"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV042_FIGMA_ADVANCED_PROTOTYPING_UI.png
+Image 1: 12_SOURCE_PREP/RV069_BERLAYMONT_ALT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont exterior (alternate view); it is the photograph, unchanged — do not add signs or alter the building.
 
 COMPOSITION:
-It was not a final CMA ruling. But it captures how narrow they said the path had become. No final UK or EU prohibition order had been issued. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a large institutional office building at night with some windows lit, full-frame, deep muted grading. headline zone inside the top 35% and left 45% of the frame, over dark sky. The building fills center and right. The bottom 22% falls into plain near-black shadow with no detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO FINAL PROHIBITION`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7023,31 +6927,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F068 / Beat B068
 
 **TIMING:** 575.080 → 581.860  
 **DURATION:** 6.780 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G047  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Yet the practical question was now unavoidable. Could this transaction still reach the approvals required to close?
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **COULD THIS STILL CLOSE?**.
 
 ### LOCKED HEADLINE
-``
+`COULD THIS STILL CLOSE?`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV058_PARTIES_RESPONSE_CROP.png`
+`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -7058,14 +6960,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the faded print, unchanged apart from muted color — never redraw logos.
 
 ### COMPOSITION DIRECTION
-Yet the practical question was now unavoidable. Could this transaction still reach the approvals required to close?
+a view through a narrow vertical gap between two dark filing cabinets; in the lit space beyond, a faded print stands on a desk, visible but hard to reach.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 40% of the frame, over the dark cabinet side. The gap slightly right of center; the print inside it between 30% and 70% of frame height. The bottom 22% is dark cabinet shadow. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -7074,7 +6976,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -7085,37 +6987,37 @@ STORY PURPOSE:
 Yet the practical question was now unavoidable. Could this transaction still reach the approvals required to close?
 
 LOCKED HEADLINE:
-""
+"COULD THIS STILL CLOSE?"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV058_PARTIES_RESPONSE_CROP.png
+Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the faded print, unchanged apart from muted color — never redraw logos.
 
 COMPOSITION:
-Yet the practical question was now unavoidable. Could this transaction still reach the approvals required to close? Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a view through a narrow vertical gap between two dark filing cabinets; in the lit space beyond, a faded print stands on a desk, visible but hard to reach. headline zone inside the top 35% and left 40% of the frame, over the dark cabinet side. The gap slightly right of center; the print inside it between 30% and 70% of frame height. The bottom 22% is dark cabinet shadow. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `COULD THIS STILL CLOSE?`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7124,8 +7026,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F069 / Beat B069
 
@@ -7234,119 +7134,17 @@ Otherwise: **REJECT**.
 **TIMING:** 593.360 → 603.920  
 **DURATION:** 10.560 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G048  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The next day, they announced that the acquisition was over. Their public explanation was direct. They said there was no clear path to obtaining the necessary regulatory approvals
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NO CLEAR PATH**.
 
 ### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The next day, they announced that the acquisition was over. Their public explanation was direct. They said there was no clear path to obtaining the necessary regulatory approvals
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B070, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The next day, they announced that the acquisition was over. Their public explanation was direct. They said there was no clear path to obtaining the necessary regulatory approvals
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The next day, they announced that the acquisition was over. Their public explanation was direct. They said there was no clear path to obtaining the necessary regulatory approvals Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F071 / Beat B071
-
-**TIMING:** 603.920 → 612.420  
-**DURATION:** 8.500 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G049  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
+`NO CLEAR PATH`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -7364,14 +7162,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt; it is the paper, unchanged — never retype, redraw or extend it.
 
 ### COMPOSITION DIRECTION
-from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order.
+one paper excerpt on warm aged paper lies slightly angled on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin beside the text.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -7380,48 +7178,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B071, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B070, ready to place directly into the finished film.
 
 STORY PURPOSE:
-from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order.
+The next day, they announced that the acquisition was over. Their public explanation was direct. They said there was no clear path to obtaining the necessary regulatory approvals
 
 LOCKED HEADLINE:
-""
+"NO CLEAR PATH"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt; it is the paper, unchanged — never retype, redraw or extend it.
 
 COMPOSITION:
-from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one paper excerpt on warm aged paper lies slightly angled on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin beside the text. headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO CLEAR PATH`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7431,139 +7229,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F071 / Beat B071
 
-## F072 / Beat B072
-
-**TIMING:** 613.420 → 619.760  
-**DURATION:** 6.340 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G050  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 603.920 → 612.420  
+**DURATION:** 8.500 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G049  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived.
+from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NOT A FINAL PROHIBITION**.
 
 ### LOCKED HEADLINE
-``
+`NOT A FINAL PROHIBITION`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B072, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg
-Image 2: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F073 / Beat B073
-
-**TIMING:** 620.880 → 630.260  
-**DURATION:** 9.380 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G051  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-After the abandonment, the CMA cancelled its Phase Two inquiry. The European Commission's investigation ended without a formal Commission decision on the merits.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png`
+`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -7574,14 +7262,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = European Commission Berlaymont; it is the print, unchanged.
 
 ### COMPOSITION DIRECTION
-After the abandonment, the CMA cancelled its Phase Two inquiry. The European Commission's investigation ended without a formal Commission decision on the merits.
+a photographic print of an institutional building stands upright on a dark desk; in front of it lies an open plain review folder with blank pages and nothing inside.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The print on the right half, between 8% and 64% of frame height; the open folder in front, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -7590,7 +7278,213 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B071, ready to place directly into the finished film.
+
+STORY PURPOSE:
+from the European Commission and the UK CMA. That is different from saying a regulator had already issued a final prohibition order.
+
+LOCKED HEADLINE:
+"NOT A FINAL PROHIBITION"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = European Commission Berlaymont; it is the print, unchanged.
+
+COMPOSITION:
+a photographic print of an institutional building stands upright on a dark desk; in front of it lies an open plain review folder with blank pages and nothing inside. headline zone inside the top 45% and left 38% of the frame. The print on the right half, between 8% and 64% of frame height; the open folder in front, above 78%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `NOT A FINAL PROHIBITION`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F072 / Beat B072
+
+**TIMING:** 613.420 → 619.760  
+**DURATION:** 6.340 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G050  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived.
+
+The viewer must instantly understand: **MUTUAL TERMINATION**.
+
+### LOCKED HEADLINE
+`MUTUAL TERMINATION`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: Source 2.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged, never broken.
+
+### COMPOSITION DIRECTION
+top-down view of a dark desk: two small identifier cards far apart, joined by a deep-red thread that has been cleanly cut in the middle; the two cut ends lie neatly side by side on one blank sheet placed between the cards.
+
+headline zone inside the top 30% of the frame, left half. Cards, thread and sheet between 36% and 74% of frame height, left to right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B072, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The companies ended the deal by mutual agreement before final UK and EU merits decisions arrived.
+
+LOCKED HEADLINE:
+"MUTUAL TERMINATION"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Adobe identifier; image 2 = Figma identifier — each on its own card, unchanged, never broken.
+
+COMPOSITION:
+top-down view of a dark desk: two small identifier cards far apart, joined by a deep-red thread that has been cleanly cut in the middle; the two cut ends lie neatly side by side on one blank sheet placed between the cards. headline zone inside the top 30% of the frame, left half. Cards, thread and sheet between 36% and 74% of frame height, left to right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `MUTUAL TERMINATION`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F073 / Beat B073
+
+**TIMING:** 620.880 → 630.260  
+**DURATION:** 9.380 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G051  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+After the abandonment, the CMA cancelled its Phase Two inquiry. The European Commission's investigation ended without a formal Commission decision on the merits.
+
+The viewer must instantly understand: **REVIEWS END**.
+
+### LOCKED HEADLINE
+`REVIEWS END`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = UK CMA case-page timeline excerpt; it is the clipped excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+two closed case folders tied with plain grey tape lie stacked inside an open cardboard archive box on a dark desk, seen from a high angle; one paper excerpt is clipped to the top folder.
+
+headline zone inside the top 45% and left 38% of the frame. The box center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -7601,37 +7495,37 @@ STORY PURPOSE:
 After the abandonment, the CMA cancelled its Phase Two inquiry. The European Commission's investigation ended without a formal Commission decision on the merits.
 
 LOCKED HEADLINE:
-""
+"REVIEWS END"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA case-page timeline excerpt; it is the clipped excerpt, unchanged — never retype it.
 
 COMPOSITION:
-After the abandonment, the CMA cancelled its Phase Two inquiry. The European Commission's investigation ended without a formal Commission decision on the merits. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+two closed case folders tied with plain grey tape lie stacked inside an open cardboard archive box on a dark desk, seen from a high angle; one paper excerpt is clipped to the top folder. headline zone inside the top 45% and left 38% of the frame. The box center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `REVIEWS END`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7640,8 +7534,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F074 / Beat B074
 
@@ -7655,10 +7547,416 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 And in the United States, the Justice Department's Antitrust Division publicly welcomed the abandonment and confirmed that it had investigated the transaction.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **DOJ WELCOMES ABANDONMENT**.
 
 ### LOCKED HEADLINE
-``
+`DOJ WELCOMES ABANDONMENT`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV070_DOJ_HQ.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: Source 2.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = DOJ Antitrust Division statement excerpt (main), unchanged — never retype it; image 2 = U.S. Department of Justice headquarters (small print), unchanged.
+
+### COMPOSITION DIRECTION
+on a dark desk a paper excerpt lies large and sharp with a thin vertical deep-red bracket in its margin; a small photographic print of a government building sits partly tucked under its upper-right corner.
+
+headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 12% and 76% of frame height; the small print at its upper-right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B074, ready to place directly into the finished film.
+
+STORY PURPOSE:
+And in the United States, the Justice Department's Antitrust Division publicly welcomed the abandonment and confirmed that it had investigated the transaction.
+
+LOCKED HEADLINE:
+"DOJ WELCOMES ABANDONMENT"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png
+Image 2: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = DOJ Antitrust Division statement excerpt (main), unchanged — never retype it; image 2 = U.S. Department of Justice headquarters (small print), unchanged.
+
+COMPOSITION:
+on a dark desk a paper excerpt lies large and sharp with a thin vertical deep-red bracket in its margin; a small photographic print of a government building sits partly tucked under its upper-right corner. headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 12% and 76% of frame height; the small print at its upper-right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `DOJ WELCOMES ABANDONMENT`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F075 / Beat B075
+
+**TIMING:** 640.700 → 647.060  
+**DURATION:** 6.360 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G053  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal.
+
+The viewer must instantly understand: **INVESTIGATION, NO BLOCKING LAWSUIT**.
+
+### LOCKED HEADLINE
+`INVESTIGATION, NO BLOCKING LAWSUIT`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV070_DOJ_HQ.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = U.S. Department of Justice headquarters exterior; it is the print, unchanged — no seal close-ups.
+
+### COMPOSITION DIRECTION
+a photographic print of a government headquarters lies flat on a dark desk in cold blue-grey light; one closed plain folder rests across its lower-right corner.
+
+headline zone inside the top 45% and left 40% of the frame. Print and folder center-right, between 18% and 76% of frame height, generous darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B075, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal.
+
+LOCKED HEADLINE:
+"INVESTIGATION, NO BLOCKING LAWSUIT"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = U.S. Department of Justice headquarters exterior; it is the print, unchanged — no seal close-ups.
+
+COMPOSITION:
+a photographic print of a government headquarters lies flat on a dark desk in cold blue-grey light; one closed plain folder rests across its lower-right corner. headline zone inside the top 45% and left 40% of the frame. Print and folder center-right, between 18% and 76% of frame height, generous darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `INVESTIGATION, NO BLOCKING LAWSUIT`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F076 / Beat B076
+
+**TIMING:** 647.900 → 658.240  
+**DURATION:** 10.340 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G054  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed.
+
+The viewer must instantly understand: **NO COURTROOM LOSS**.
+
+### LOCKED HEADLINE
+`NO COURTROOM LOSS`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Adobe headquarters, San Jose; it is the photograph, unchanged — do not alter signs or architecture.
+
+### COMPOSITION DIRECTION
+a wide cinematic full-frame view of a corporate headquarters at dusk, deep muted grading, still and quiet.
+
+headline zone inside the top 40% and left 38% of the frame, over the darker left side. The buildings fill center and right. The bottom 22% falls into plain near-black shadow with no detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B076, ready to place directly into the finished film.
+
+STORY PURPOSE:
+So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed.
+
+LOCKED HEADLINE:
+"NO COURTROOM LOSS"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Adobe headquarters, San Jose; it is the photograph, unchanged — do not alter signs or architecture.
+
+COMPOSITION:
+a wide cinematic full-frame view of a corporate headquarters at dusk, deep muted grading, still and quiet. headline zone inside the top 40% and left 38% of the frame, over the darker left side. The buildings fill center and right. The bottom 22% falls into plain near-black shadow with no detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `NO COURTROOM LOSS`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F077 / Beat B077
+
+**TIMING:** 659.040 → 662.400  
+**DURATION:** 3.360 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G055  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+And that is the moment the billion-dollar clause stopped being theoretical.
+
+The viewer must instantly understand: **THE CLAUSE BECOMES REAL**.
+
+### LOCKED HEADLINE
+`THE CLAUSE BECOMES REAL`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Merger Agreement Section 8.2 fee excerpt; it is the lit excerpt, unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+near-total darkness; a single narrow spotlight falls on one contract excerpt lying on a desk, a bright thin vertical deep-red bracket in its margin; everything else dissolves into black.
+
+headline zone inside the top 40% and left 40% of the frame. The lit excerpt center-right, between 32% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B077, ready to place directly into the finished film.
+
+STORY PURPOSE:
+And that is the moment the billion-dollar clause stopped being theoretical.
+
+LOCKED HEADLINE:
+"THE CLAUSE BECOMES REAL"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Merger Agreement Section 8.2 fee excerpt; it is the lit excerpt, unchanged — never retype it.
+
+COMPOSITION:
+near-total darkness; a single narrow spotlight falls on one contract excerpt lying on a desk, a bright thin vertical deep-red bracket in its margin; everything else dissolves into black. headline zone inside the top 40% and left 40% of the frame. The lit excerpt center-right, between 32% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `THE CLAUSE BECOMES REAL`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F078 / Beat B078
+
+**TIMING:** 663.680 → 669.360  
+**DURATION:** 5.680 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G056  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The mutual termination agreement did not just end the acquisition. It specified what happened next.
+
+The viewer must instantly understand: **WHAT HAPPENS NEXT**.
+
+### LOCKED HEADLINE
+`WHAT HAPPENS NEXT`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -7676,14 +7974,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Mutual Termination Agreement excerpt; it is printed on the turning top sheet, unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-And in the United States, the Justice Department's Antitrust Division publicly welcomed the abandonment and confirmed that it had investigated the transaction.
+top-down view of a small bound document on a dark desk; its top sheet is mid-turn, lifted and curving; beneath it the next page is blank with one deep-red tab at its edge.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The document center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -7692,48 +7990,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B074, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B078, ready to place directly into the finished film.
 
 STORY PURPOSE:
-And in the United States, the Justice Department's Antitrust Division publicly welcomed the abandonment and confirmed that it had investigated the transaction.
+The mutual termination agreement did not just end the acquisition. It specified what happened next.
 
 LOCKED HEADLINE:
-""
+"WHAT HAPPENS NEXT"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Mutual Termination Agreement excerpt; it is printed on the turning top sheet, unchanged — never retype it.
 
 COMPOSITION:
-And in the United States, the Justice Department's Antitrust Division publicly welcomed the abandonment and confirmed that it had investigated the transaction. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of a small bound document on a dark desk; its top sheet is mid-turn, lifted and curving; beneath it the next page is blank with one deep-red tab at its edge. headline zone inside the top 45% and left 38% of the frame. The document center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `WHAT HAPPENS NEXT`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7743,132 +8041,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F079 / Beat B079
 
-## F075 / Beat B075
-
-**TIMING:** 640.700 → 647.060  
-**DURATION:** 6.360 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G053  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 670.180 → 679.520  
+**DURATION:** 9.340 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G057  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal.
+Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages.
 
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B075, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg
-Image 2: 12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The public Stage One record does not show a DOJ merger lawsuit or a court judgment blocking the deal. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F076 / Beat B076
-
-**TIMING:** 647.900 → 658.240  
-**DURATION:** 10.340 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G054  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed.
-
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **DUE IN THREE BUSINESS DAYS**.
 
 ### LOCKED HEADLINE
-``
+`DUE IN THREE BUSINESS DAYS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -7886,14 +8074,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt (payment-timing passage); unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed.
+on a dark desk, a paper excerpt lies on the right with a thin vertical deep-red bracket in its margin; on the left, three small blank ivory cards step upward in a row toward a fourth card of solid deep red.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 36% and left 42% of the frame; step cards below it, between 44% and 74% of frame height. The excerpt on the right half, between 10% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -7902,48 +8090,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B076, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B079, ready to place directly into the finished film.
 
 STORY PURPOSE:
-So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed.
+Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages.
 
 LOCKED HEADLINE:
-""
+"DUE IN THREE BUSINESS DAYS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt (payment-timing passage); unchanged — never retype it.
 
 COMPOSITION:
-So the transaction did not end with a final courtroom loss. It ended with a mutual termination after the companies said they no longer saw a clear path to the approvals they needed. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a paper excerpt lies on the right with a thin vertical deep-red bracket in its margin; on the left, three small blank ivory cards step upward in a row toward a fourth card of solid deep red. headline zone inside the top 36% and left 42% of the frame; step cards below it, between 44% and 74% of frame height. The excerpt on the right half, between 10% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `DUE IN THREE BUSINESS DAYS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -7953,31 +8141,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F080 / Beat B080
 
-## F077 / Beat B077
-
-**TIMING:** 659.040 → 662.400  
-**DURATION:** 3.360 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G055  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 680.580 → 689.260  
+**DURATION:** 8.680 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G058  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-And that is the moment the billion-dollar clause stopped being theoretical.
+It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **DECEMBER 20, 2023**.
 
 ### LOCKED HEADLINE
-``
+`DECEMBER 20, 2023`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg`
+`12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -7988,14 +8174,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, unchanged.
 
 ### COMPOSITION DIRECTION
-And that is the moment the billion-dollar clause stopped being theoretical.
+a photographic print of a corporate headquarters in cool early-morning light hangs on a dark wall; one deep-red pin is pushed in just above its top edge.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 42% of the frame. The print center-right, between 12% and 72% of frame height, wide darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -8004,48 +8190,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B077, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B080, ready to place directly into the finished film.
 
 STORY PURPOSE:
-And that is the moment the billion-dollar clause stopped being theoretical.
+It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid.
 
 LOCKED HEADLINE:
-""
+"DECEMBER 20, 2023"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg
+Image 1: 12_SOURCE_PREP/RV004_ADOBE_HQ_SAN_JOSE.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe headquarters, San Jose; it is the print, unchanged.
 
 COMPOSITION:
-And that is the moment the billion-dollar clause stopped being theoretical. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a photographic print of a corporate headquarters in cool early-morning light hangs on a dark wall; one deep-red pin is pushed in just above its top edge. headline zone inside the top 40% and left 42% of the frame. The print center-right, between 12% and 72% of frame height, wide darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `DECEMBER 20, 2023`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -8055,24 +8241,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F081 / Beat B081
 
-## F078 / Beat B078
-
-**TIMING:** 663.680 → 669.360  
-**DURATION:** 5.680 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G056  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 690.300 → 697.820  
+**DURATION:** 7.520 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G059  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-The mutual termination agreement did not just end the acquisition. It specified what happened next.
+Adobe later disclosed that it used cash on hand. Figma later disclosed that it received the same one-billion-dollar payment.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **ADOBE PAYS • FIGMA RECEIVES**.
 
 ### LOCKED HEADLINE
-``
+`ADOBE PAYS • FIGMA RECEIVES`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -8095,14 +8279,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe FY2023 10-K payment excerpt (left); image 2 = Figma S-1 fee-receipt excerpt (right). Both unchanged — never retype them.
 
 ### COMPOSITION DIRECTION
-The mutual termination agreement did not just end the acquisition. It specified what happened next.
+top-down view of a dark desk; two paper excerpts lie far apart, left and right, joined by one straight thin deep-red line across the empty dark space between them.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. Excerpts symmetric between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -8111,319 +8295,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B078, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The mutual termination agreement did not just end the acquisition. It specified what happened next.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
-Image 2: 12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The mutual termination agreement did not just end the acquisition. It specified what happened next. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F079 / Beat B079
-
-**TIMING:** 670.180 → 679.520  
-**DURATION:** 9.340 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G057  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B079, ready to place directly into the finished film.
-
-STORY PURPOSE:
-Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-Adobe was required to pay Figma one billion dollars in cash within three business days. The agreement described that payment as liquidated damages. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F080 / Beat B080
-
-**TIMING:** 680.580 → 689.260  
-**DURATION:** 8.680 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G058  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B080, ready to place directly into the finished film.
-
-STORY PURPOSE:
-It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-It also made the payment Figma's sole and exclusive remedy under the merger agreement. On December twentieth, twenty twenty-three, Adobe paid. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F081 / Beat B081
-
-**TIMING:** 690.300 → 697.820  
-**DURATION:** 7.520 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G059  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-Adobe later disclosed that it used cash on hand. Figma later disclosed that it received the same one-billion-dollar payment.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-Adobe later disclosed that it used cash on hand. Figma later disclosed that it received the same one-billion-dollar payment.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -8434,38 +8306,38 @@ STORY PURPOSE:
 Adobe later disclosed that it used cash on hand. Figma later disclosed that it received the same one-billion-dollar payment.
 
 LOCKED HEADLINE:
-""
+"ADOBE PAYS • FIGMA RECEIVES"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
-Image 2: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 2: 12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe FY2023 10-K payment excerpt (left); image 2 = Figma S-1 fee-receipt excerpt (right). Both unchanged — never retype them.
 
 COMPOSITION:
-Adobe later disclosed that it used cash on hand. Figma later disclosed that it received the same one-billion-dollar payment. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+top-down view of a dark desk; two paper excerpts lie far apart, left and right, joined by one straight thin deep-red line across the empty dark space between them. headline zone = top center, inside the top 22% of the frame. Excerpts symmetric between 30% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `ADOBE PAYS • FIGMA RECEIVES`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -8475,49 +8347,52 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F082 / Beat B082
 
 **TIMING:** 698.480 → 707.700  
 **DURATION:** 9.220 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G060  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** IDENTIFIER_RELATIONSHIP  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE MONEY MOVED**.
 
 ### LOCKED HEADLINE
-``
+`THE MONEY MOVED`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier (near card); image 2 = Figma identifier (far card). Both unchanged and small.
 
 ### COMPOSITION DIRECTION
-Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract.
+a dark wall seen at a raking side angle; two small identifier cards are pinned far apart along it, and one taut deep-red thread runs between them, receding in perspective.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame. Near card center-left, far card toward the right edge; the thread crosses the band between 40% and 70% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -8526,7 +8401,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -8537,37 +8412,38 @@ STORY PURPOSE:
 Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract.
 
 LOCKED HEADLINE:
-""
+"THE MONEY MOVED"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier (near card); image 2 = Figma identifier (far card). Both unchanged and small.
 
 COMPOSITION:
-Those later filings are important because they confirm the consequence from both sides of the transaction. The fee was not merely a number left in an abandoned contract. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a dark wall seen at a raking side angle; two small identifier cards are pinned far apart along it, and one taut deep-red thread runs between them, receding in perspective. headline zone inside the top 35% and left 42% of the frame. Near card center-left, far card toward the right edge; the thread crosses the band between 40% and 70% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE MONEY MOVED`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -8576,8 +8452,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F083 / Beat B083
 
@@ -8692,29 +8566,29 @@ Otherwise: **REJECT**.
 **TIMING:** 719.220 → 725.420  
 **DURATION:** 6.200 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G061  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 The acquisition disappeared. The termination fee did not. And the payment did not come from a regulator's invoice.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE DEAL DISAPPEARED. THE FEE DIDN'T.**.
 
 ### LOCKED HEADLINE
-``
+`THE DEAL DISAPPEARED. THE FEE DIDN'T.`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
+`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -8725,14 +8599,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (fading print), unchanged apart from dim desaturated color; image 2 = Merger Agreement Section 8.2 fee excerpt (lit), unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-The acquisition disappeared. The termination fee did not. And the payment did not come from a regulator's invoice.
+on a dark desk, a desaturated print on the left fades into shadow, barely visible; on the right, a contract excerpt is warm, sharp and lit, with a thin vertical deep-red bracket in its margin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 32% of the frame, left 60%. The fading print left-center between 38% and 74% of frame height; the lit excerpt on the right, between 14% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -8741,7 +8615,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -8752,38 +8626,38 @@ STORY PURPOSE:
 The acquisition disappeared. The termination fee did not. And the payment did not come from a regulator's invoice.
 
 LOCKED HEADLINE:
-""
+"THE DEAL DISAPPEARED. THE FEE DIDN'T."
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
-Image 2: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
+Image 2: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (fading print), unchanged apart from dim desaturated color; image 2 = Merger Agreement Section 8.2 fee excerpt (lit), unchanged — never retype it.
 
 COMPOSITION:
-The acquisition disappeared. The termination fee did not. And the payment did not come from a regulator's invoice. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a desaturated print on the left fades into shadow, barely visible; on the right, a contract excerpt is warm, sharp and lit, with a thin vertical deep-red bracket in its margin. headline zone inside the top 32% of the frame, left 60%. The fading print left-center between 38% and 74% of frame height; the lit excerpt on the right, between 14% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE DEAL DISAPPEARED. THE FEE DIDN'T.`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -8793,31 +8667,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F085 / Beat B085
 
 **TIMING:** 726.300 → 729.080  
 **DURATION:** 2.780 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G062  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 It came from a contract the companies had negotiated themselves.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE CONTRACT, NOT A REGULATOR**.
 
 ### LOCKED HEADLINE
-``
+`THE CONTRACT, NOT A REGULATOR`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png`
+`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -8828,14 +8700,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Mutual Termination Agreement excerpt (liquidated damages / sole remedy); it is the paper, unchanged — never retype or redraw it.
 
 ### COMPOSITION DIRECTION
-It came from a contract the companies had negotiated themselves.
+an extreme close-up of one contract excerpt on warm aged paper, very shallow depth of field, a sharp band across the key lines, a thin vertical deep-red bracket in the margin beside them.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 60%, between 8% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -8844,7 +8716,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -8855,37 +8727,37 @@ STORY PURPOSE:
 It came from a contract the companies had negotiated themselves.
 
 LOCKED HEADLINE:
-""
+"THE CONTRACT, NOT A REGULATOR"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png
+Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Mutual Termination Agreement excerpt (liquidated damages / sole remedy); it is the paper, unchanged — never retype or redraw it.
 
 COMPOSITION:
-It came from a contract the companies had negotiated themselves. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+an extreme close-up of one contract excerpt on warm aged paper, very shallow depth of field, a sharp band across the key lines, a thin vertical deep-red bracket in the margin beside them. headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 60%, between 8% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE CONTRACT, NOT A REGULATOR`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -8894,8 +8766,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F086 / Beat B086
 
@@ -9010,24 +8880,24 @@ Otherwise: **REJECT**.
 **TIMING:** 739.440 → 749.260  
 **DURATION:** 9.820 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G063  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 That was the amount associated with the deal Adobe wanted to close. Because the acquisition never closed, Adobe did not pay Figma twenty billion dollars to buy the company.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE PURCHASE NEVER HAPPENED**.
 
 ### LOCKED HEADLINE
-``
+`THE PURCHASE NEVER HAPPENED`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
+`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -9038,14 +8908,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the faded print, unchanged apart from muted desaturated color.
 
 ### COMPOSITION DIRECTION
-That was the amount associated with the deal Adobe wanted to close. Because the acquisition never closed, Adobe did not pay Figma twenty billion dollars to buy the company.
+a high-angle view into an empty, clean cardboard archive box on a dark desk; a single faded print lies alone on its bottom.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The box center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9054,7 +8924,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -9065,37 +8935,37 @@ STORY PURPOSE:
 That was the amount associated with the deal Adobe wanted to close. Because the acquisition never closed, Adobe did not pay Figma twenty billion dollars to buy the company.
 
 LOCKED HEADLINE:
-""
+"THE PURCHASE NEVER HAPPENED"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic; it is the faded print, unchanged apart from muted desaturated color.
 
 COMPOSITION:
-That was the amount associated with the deal Adobe wanted to close. Because the acquisition never closed, Adobe did not pay Figma twenty billion dollars to buy the company. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a high-angle view into an empty, clean cardboard archive box on a dark desk; a single faded print lies alone on its bottom. headline zone inside the top 45% and left 38% of the frame. The box center-right, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE PURCHASE NEVER HAPPENED`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9105,24 +8975,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F088 / Beat B088
 
 **TIMING:** 750.260 → 760.640  
 **DURATION:** 10.380 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G064  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** EDITORIAL_METAPHOR  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 One billion dollars was the actual termination payment. Adobe paid it. Figma received it. Adobe later recorded the one-billion-dollar fee in operating expenses.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE PAYMENT WAS REAL**.
 
 ### LOCKED HEADLINE
-``
+`THE PAYMENT WAS REAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -9140,14 +9008,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 ### COMPOSITION DIRECTION
-One billion dollars was the actual termination payment. Adobe paid it. Figma received it. Adobe later recorded the one-billion-dollar fee in operating expenses.
+one thick, heavy blank ivory card with a deep-red painted edge lies on a dark desk in hard directional light, casting a crisp solid shadow.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The card center-right, between 30% and 72% of frame height, large, with generous darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9156,7 +9024,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -9167,37 +9035,37 @@ STORY PURPOSE:
 One billion dollars was the actual termination payment. Adobe paid it. Figma received it. Adobe later recorded the one-billion-dollar fee in operating expenses.
 
 LOCKED HEADLINE:
-""
+"THE PAYMENT WAS REAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+none — the frame contains no documents, photos, screenshots or logos.
 
 COMPOSITION:
-One billion dollars was the actual termination payment. Adobe paid it. Figma received it. Adobe later recorded the one-billion-dollar fee in operating expenses. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one thick, heavy blank ivory card with a deep-red painted edge lies on a dark desk in hard directional light, casting a crisp solid shadow. headline zone inside the top 45% and left 40% of the frame. The card center-right, between 30% and 72% of frame height, large, with generous darkness around. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE PAYMENT WAS REAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9207,24 +9075,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F089 / Beat B089
 
 **TIMING:** 761.480 → 771.080  
 **DURATION:** 9.600 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G065  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Figma recorded the payment in other income. Those are separate categories. The accounting records make the distinction concrete. Adobe treated the fee as an expense.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **EXPENSE VS INCOME**.
 
 ### LOCKED HEADLINE
-``
+`EXPENSE VS INCOME`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -9235,21 +9101,26 @@ Exact spelling and punctuation. No second generated headline or explanatory copy
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
+**SOURCE 2**
+`12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe FY2023 10-K payment excerpt (upper-right sheet); image 2 = Figma S-1 fee-receipt excerpt (lower-left sheet). Both unchanged — never retype them.
 
 ### COMPOSITION DIRECTION
-Figma recorded the payment in other income. Those are separate categories. The accounting records make the distinction concrete. Adobe treated the fee as an expense.
+two separate faint-ruled ledger sheets on a dark desk, offset diagonally — one upper-right, one lower-left — separated by a clear dark gap; each carries one paper excerpt.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 36% and left 40% of the frame. Upper-right sheet between 10% and 50% of frame height; lower-left sheet between 44% and 76%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9258,7 +9129,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -9269,37 +9140,38 @@ STORY PURPOSE:
 Figma recorded the payment in other income. Those are separate categories. The accounting records make the distinction concrete. Adobe treated the fee as an expense.
 
 LOCKED HEADLINE:
-""
+"EXPENSE VS INCOME"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 2: 12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe FY2023 10-K payment excerpt (upper-right sheet); image 2 = Figma S-1 fee-receipt excerpt (lower-left sheet). Both unchanged — never retype them.
 
 COMPOSITION:
-Figma recorded the payment in other income. Those are separate categories. The accounting records make the distinction concrete. Adobe treated the fee as an expense. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+two separate faint-ruled ledger sheets on a dark desk, offset diagonally — one upper-right, one lower-left — separated by a clear dark gap; each carries one paper excerpt. headline zone inside the top 36% and left 40% of the frame. Upper-right sheet between 10% and 50% of frame height; lower-left sheet between 44% and 76%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `EXPENSE VS INCOME`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9309,31 +9181,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F090 / Beat B090
 
 **TIMING:** 771.980 → 780.040  
 **DURATION:** 8.060 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G066  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **PROPOSED ≠ PAID**.
 
 ### LOCKED HEADLINE
-``
+`PROPOSED ≠ PAID`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
+`12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -9344,14 +9214,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline; it is the faded left excerpt, unchanged apart from muted color — never retype it.
 
 ### COMPOSITION DIRECTION
-Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.
+on a wide dark desk, a faded paper excerpt lies at the far left; at the far right lies one heavy blank ivory card with a deep-red edge; the space between is completely empty.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. The two objects in the outer thirds, between 32% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9360,7 +9230,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -9371,37 +9241,37 @@ STORY PURPOSE:
 Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands.
 
 LOCKED HEADLINE:
-""
+"PROPOSED ≠ PAID"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV047_ANNOUNCEMENT_HEADLINE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe acquisition announcement headline; it is the faded left excerpt, unchanged apart from muted color — never retype it.
 
 COMPOSITION:
-Figma treated the receipt as income. Neither filing turns the abandoned twenty-billion-dollar purchase price into money that changed hands. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a wide dark desk, a faded paper excerpt lies at the far left; at the far right lies one heavy blank ivory card with a deep-red edge; the space between is completely empty. headline zone = top center, inside the top 22% of the frame. The two objects in the outer thirds, between 32% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `PROPOSED ≠ PAID`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9410,8 +9280,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F091 / Beat B091
 
@@ -9526,17 +9394,223 @@ Otherwise: **REJECT**.
 **TIMING:** 791.260 → 794.660  
 **DURATION:** 3.400 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G067  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 That is the billion-dollar cost at the center of this story.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE BILLION-DOLLAR COST**.
 
 ### LOCKED HEADLINE
-``
+`THE BILLION-DOLLAR COST`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Merger Agreement Section 8.2 fee excerpt; unchanged — never retype it.
+
+### COMPOSITION DIRECTION
+a vast dark desk surface; one small contract excerpt lies alone on the right, softly lit, a thin vertical deep-red bracket in its margin.
+
+headline zone = left half, between 12% and 60% of frame height, large. The small excerpt at right, between 36% and 64% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B092, ready to place directly into the finished film.
+
+STORY PURPOSE:
+That is the billion-dollar cost at the center of this story.
+
+LOCKED HEADLINE:
+"THE BILLION-DOLLAR COST"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Merger Agreement Section 8.2 fee excerpt; unchanged — never retype it.
+
+COMPOSITION:
+a vast dark desk surface; one small contract excerpt lies alone on the right, softly lit, a thin vertical deep-red bracket in its margin. headline zone = left half, between 12% and 60% of frame height, large. The small excerpt at right, between 36% and 64% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `THE BILLION-DOLLAR COST`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F093 / Beat B093
+
+**TIMING:** 795.320 → 806.320  
+**DURATION:** 11.000 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G068  
+**VISUAL FAMILY:** UI_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.
+
+The viewer must instantly understand: **FIGMA STAYS INDEPENDENT**.
+
+### LOCKED HEADLINE
+`FIGMA STAYS INDEPENDENT`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: Source 2.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Figma Config 2023 keynote stage (large print) — keep every face and person exactly as photographed, add no people; image 2 = official Adobe + Figma deal graphic (small faded print), unchanged apart from muted color.
+
+### COMPOSITION DIRECTION
+a large event-photograph print stands on a dark desk, warmly lit; behind it and to one side a small faded print lies flat, half in shadow.
+
+headline zone inside the top 45% and left 38% of the frame. The large print on the right half, between 8% and 72% of frame height; the small faded print partly visible behind its left edge. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B093, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.
+
+LOCKED HEADLINE:
+"FIGMA STAYS INDEPENDENT"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV015_CONFIG_2023_KEYNOTE.jpg
+Image 2: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Figma Config 2023 keynote stage (large print) — keep every face and person exactly as photographed, add no people; image 2 = official Adobe + Figma deal graphic (small faded print), unchanged apart from muted color.
+
+COMPOSITION:
+a large event-photograph print stands on a dark desk, warmly lit; behind it and to one side a small faded print lies flat, half in shadow. headline zone inside the top 45% and left 38% of the frame. The large print on the right half, between 8% and 72% of frame height; the small faded print partly visible behind its left edge. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `FIGMA STAYS INDEPENDENT`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F094 / Beat B094
+
+**TIMING:** 807.320 → 816.060  
+**DURATION:** 8.740 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G069  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
+
+The viewer must instantly understand: **THE PAYMENT ENTERS FIGMA'S HISTORY**.
+
+### LOCKED HEADLINE
+`THE PAYMENT ENTERS FIGMA'S HISTORY`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -9554,14 +9628,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma S-1 fee-receipt excerpt; unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-That is the billion-dollar cost at the center of this story.
+a thick bound filing volume lies open on a dark desk; on its right-hand page rests one paper excerpt with a thin vertical deep-red bracket in its margin; all other pages are blank.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The open volume center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9570,48 +9644,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B092, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B094, ready to place directly into the finished film.
 
 STORY PURPOSE:
-That is the billion-dollar cost at the center of this story.
+Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
 
 LOCKED HEADLINE:
-""
+"THE PAYMENT ENTERS FIGMA'S HISTORY"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV064_S1_FEE_RECEIPT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma S-1 fee-receipt excerpt; unchanged — never retype it.
 
 COMPOSITION:
-That is the billion-dollar cost at the center of this story. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a thick bound filing volume lies open on a dark desk; on its right-hand page rests one paper excerpt with a thin vertical deep-red bracket in its margin; all other pages are blank. headline zone inside the top 45% and left 38% of the frame. The open volume center-right, between 20% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE PAYMENT ENTERS FIGMA'S HISTORY`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9621,36 +9695,34 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F095 / Beat B095
 
-## F093 / Beat B093
-
-**TIMING:** 795.320 → 806.320  
-**DURATION:** 11.000 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G068  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 816.720 → 825.800  
+**DURATION:** 9.080 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G070  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.
+In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **FIGMA GOES PUBLIC**.
 
 ### LOCKED HEADLINE
-``
+`FIGMA GOES PUBLIC`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg`
+`12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg`
+`12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -9661,14 +9733,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE facade with Figma banner (the photograph) — keep people exactly as photographed, add none; image 2 = Figma S-1 announcement headline block (small excerpt), unchanged.
 
 ### COMPOSITION DIRECTION
-The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.
+a full-frame photograph of a stock-exchange facade with a large company banner, muted documentary grading; a small paper excerpt is clipped as a print in the upper-right corner.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame, over the darker left side. The excerpt upper right, between 8% and 36% of frame height. The bottom 22% falls into plain dark shadow with no people or detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9677,49 +9749,49 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B093, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B095, ready to place directly into the finished film.
 
 STORY PURPOSE:
-The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent.
+In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.
 
 LOCKED HEADLINE:
-""
+"FIGMA GOES PUBLIC"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg
-Image 2: 12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg
+Image 1: 12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg
+Image 2: 12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE facade with Figma banner (the photograph) — keep people exactly as photographed, add none; image 2 = Figma S-1 announcement headline block (small excerpt), unchanged.
 
 COMPOSITION:
-The failed acquisition did not end Figma's story. Figma remained independent. And because Figma later became a public company, the post-deal record became unusually transparent. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a full-frame photograph of a stock-exchange facade with a large company banner, muted documentary grading; a small paper excerpt is clipped as a print in the upper-right corner. headline zone inside the top 35% and left 42% of the frame, over the darker left side. The excerpt upper right, between 8% and 36% of frame height. The bottom 22% falls into plain dark shadow with no people or detail. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `FIGMA GOES PUBLIC`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9729,24 +9801,122 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F096 / Beat B096
 
-## F094 / Beat B094
-
-**TIMING:** 807.320 → 816.060  
-**DURATION:** 8.740 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G069  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 825.800 → 831.820  
+**DURATION:** 6.020 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G071  
+**VISUAL FAMILY:** CONTEXT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
+The company sold twelve-point-five million of its own shares at thirty-three dollars per share.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **IPO SHARE SALE**.
 
 ### LOCKED HEADLINE
-``
+`IPO SHARE SALE`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV071_IPO_PRICING_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = official Figma IPO pricing announcement; unchanged — never retype, redraw or re-letter it.
+
+### COMPOSITION DIRECTION
+one printed excerpt lies slightly angled on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin.
+
+headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B096, ready to place directly into the finished film.
+
+STORY PURPOSE:
+The company sold twelve-point-five million of its own shares at thirty-three dollars per share.
+
+LOCKED HEADLINE:
+"IPO SHARE SALE"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV071_IPO_PRICING_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = official Figma IPO pricing announcement; unchanged — never retype, redraw or re-letter it.
+
+COMPOSITION:
+one printed excerpt lies slightly angled on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin. headline zone inside the top 45% and left 40% of the frame. The excerpt fills the right 55%, between 10% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `IPO SHARE SALE`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F097 / Beat B097
+
+**TIMING:** 832.560 → 839.860  
+**DURATION:** 7.300 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G072  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.
+
+The viewer must instantly understand: **NET PROCEEDS**.
+
+### LOCKED HEADLINE
+`NET PROCEEDS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -9764,14 +9934,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE / Figma street scene; it is the print, unchanged — keep people exactly as photographed, add none.
 
 ### COMPOSITION DIRECTION
-Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
+on a dark desk, a street-level event photograph lies as a print on the right; on the left, a blank faint-ruled ledger sheet with one line marked by a thin deep-red rule, nothing written on it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 36% and left 42% of the frame; the ledger sheet below it, between 42% and 74% of frame height. The print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9780,48 +9950,48 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
 ```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B094, ready to place directly into the finished film.
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B097, ready to place directly into the finished film.
 
 STORY PURPOSE:
-Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history.
+Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.
 
 LOCKED HEADLINE:
-""
+"NET PROCEEDS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV020_NYSE_FIGMA_STREET.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE / Figma street scene; it is the print, unchanged — keep people exactly as photographed, add none.
 
 COMPOSITION:
-Its own securities filings preserved the abandoned Adobe transaction and the one-billion-dollar termination payment as part of the company's financial history. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a street-level event photograph lies as a print on the right; on the left, a blank faint-ruled ledger sheet with one line marked by a thin deep-red rule, nothing written on it. headline zone inside the top 36% and left 42% of the frame; the ledger sheet below it, between 42% and 74% of frame height. The print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NET PROCEEDS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -9831,24 +10001,128 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
+## F098 / Beat B098
 
-## F095 / Beat B095
-
-**TIMING:** 816.720 → 825.800  
-**DURATION:** 9.080 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G070  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**TIMING:** 840.620 → 845.000  
+**DURATION:** 4.380 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G073  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
-In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.
+That later success should not be turned into a causal claim the record does not support.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **LATER SUCCESS ≠ PROVEN CAUSE**.
 
 ### LOCKED HEADLINE
-``
+`LATER SUCCESS ≠ PROVEN CAUSE`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV021_FIGMA_COMMONS_NYSE.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: Source 2.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Figma Commons NYSE installation (print) — keep people exactly as photographed, add none; image 2 = Merger Agreement Section 8.2 fee excerpt (small), unchanged.
+
+### COMPOSITION DIRECTION
+on a dark wall, an event-photograph print (left) and a small contract excerpt (far right) are pinned apart; a pale-grey thread runs from each toward the other but is broken in the middle, leaving a clean empty gap.
+
+headline zone = top center, inside the top 22% of the frame. Print on the left half, excerpt at right, both between 30% and 74% of frame height; the gap at center. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B098, ready to place directly into the finished film.
+
+STORY PURPOSE:
+That later success should not be turned into a causal claim the record does not support.
+
+LOCKED HEADLINE:
+"LATER SUCCESS ≠ PROVEN CAUSE"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV021_FIGMA_COMMONS_NYSE.jpg
+Image 2: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Figma Commons NYSE installation (print) — keep people exactly as photographed, add none; image 2 = Merger Agreement Section 8.2 fee excerpt (small), unchanged.
+
+COMPOSITION:
+on a dark wall, an event-photograph print (left) and a small contract excerpt (far right) are pinned apart; a pale-grey thread runs from each toward the other but is broken in the middle, leaving a clean empty gap. headline zone = top center, inside the top 22% of the frame. Print on the left half, excerpt at right, both between 30% and 74% of frame height; the gap at center. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `LATER SUCCESS ≠ PROVEN CAUSE`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F099 / Beat B099
+
+**TIMING:** 845.680 → 855.320  
+**DURATION:** 9.640 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G074  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value.
+
+The viewer must instantly understand: **NO PROVEN IPO CAUSATION**.
+
+### LOCKED HEADLINE
+`NO PROVEN IPO CAUSATION`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -9866,14 +10140,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Times Square billboard photo; it is the print, unchanged — add no text to the billboard.
 
 ### COMPOSITION DIRECTION
-In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.
+on a dark desk, a city-billboard photograph lies as a large print on the right; on the left one heavy blank ivory card with a deep-red edge lies apart; no line, thread or arrow links them.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 36% and left 42% of the frame; the card below it, between 46% and 72% of frame height. The print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -9882,426 +10156,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B095, ready to place directly into the finished film.
-
-STORY PURPOSE:
-In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV023_TIMES_SQUARE_BILLBOARD.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-In July twenty twenty-five, the company filed to go public. And on August first, twenty twenty-five, Figma completed its initial public offering. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F096 / Beat B096
-
-**TIMING:** 825.800 → 831.820  
-**DURATION:** 6.020 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G071  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The company sold twelve-point-five million of its own shares at thirty-three dollars per share.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The company sold twelve-point-five million of its own shares at thirty-three dollars per share.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B096, ready to place directly into the finished film.
-
-STORY PURPOSE:
-The company sold twelve-point-five million of its own shares at thirty-three dollars per share.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png
-Image 2: 12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-The company sold twelve-point-five million of its own shares at thirty-three dollars per share. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F097 / Beat B097
-
-**TIMING:** 832.560 → 839.860  
-**DURATION:** 7.300 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G072  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B097, ready to place directly into the finished film.
-
-STORY PURPOSE:
-Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV019_NYSE_FIGMA_BANNER.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-Its later filing reported approximately three-hundred-ninety-three-point-one million dollars of net proceeds before offering costs. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F098 / Beat B098
-
-**TIMING:** 840.620 → 845.000  
-**DURATION:** 4.380 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G073  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-That later success should not be turned into a causal claim the record does not support.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV021_FIGMA_COMMONS_NYSE.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-That later success should not be turned into a causal claim the record does not support.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B098, ready to place directly into the finished film.
-
-STORY PURPOSE:
-That later success should not be turned into a causal claim the record does not support.
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV021_FIGMA_COMMONS_NYSE.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-That later success should not be turned into a causal claim the record does not support. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F099 / Beat B099
-
-**TIMING:** 845.680 → 855.320  
-**DURATION:** 9.640 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G074  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV071_IPO_PRICING_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-**SOURCE 2**
-`12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: Source 2.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value.
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10312,38 +10167,37 @@ STORY PURPOSE:
 The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value.
 
 LOCKED HEADLINE:
-""
+"NO PROVEN IPO CAUSATION"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV071_IPO_PRICING_CROP.png
-Image 2: 12_SOURCE_PREP/RV072_S1_ANNOUNCEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV023_TIMES_SQUARE_BILLBOARD.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Times Square billboard photo; it is the print, unchanged — add no text to the billboard.
 
 COMPOSITION:
-The public record does not establish that Adobe's one-billion-dollar termination payment caused Figma's IPO, its offering price, or its later market value. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a city-billboard photograph lies as a large print on the right; on the left one heavy blank ivory card with a deep-red edge lies apart; no line, thread or arrow links them. headline zone inside the top 36% and left 42% of the frame; the card below it, between 46% and 72% of frame height. The print on the right half, between 10% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO PROVEN IPO CAUSATION`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10353,24 +10207,22 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F100 / Beat B100
 
 **TIMING:** 856.100 → 862.760  
 **DURATION:** 6.660 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G075  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 What the record does establish is simpler. Adobe did not acquire Figma. Figma remained independent.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **ADOBE DID NOT ACQUIRE FIGMA**.
 
 ### LOCKED HEADLINE
-``
+`ADOBE DID NOT ACQUIRE FIGMA`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
@@ -10388,14 +10240,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma CEO, IPO-era portrait; it is the print, unchanged — keep the face exactly as photographed; add no people.
 
 ### COMPOSITION DIRECTION
-What the record does establish is simpler. Adobe did not acquire Figma. Figma remained independent.
+a single portrait photograph print hangs alone on a dark wall under soft light, nothing else around it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. The portrait on the right half, between 10% and 72% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10404,7 +10256,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10415,37 +10267,37 @@ STORY PURPOSE:
 What the record does establish is simpler. Adobe did not acquire Figma. Figma remained independent.
 
 LOCKED HEADLINE:
-""
+"ADOBE DID NOT ACQUIRE FIGMA"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
 Image 1: 12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Figma CEO, IPO-era portrait; it is the print, unchanged — keep the face exactly as photographed; add no people.
 
 COMPOSITION:
-What the record does establish is simpler. Adobe did not acquire Figma. Figma remained independent. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a single portrait photograph print hangs alone on a dark wall under soft light, nothing else around it. headline zone inside the top 45% and left 40% of the frame. The portrait on the right half, between 10% and 72% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `ADOBE DID NOT ACQUIRE FIGMA`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10455,31 +10307,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F101 / Beat B101
 
 **TIMING:** 863.300 → 867.660  
 **DURATION:** 4.360 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G076  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** ARCHIVAL_PHOTO  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 And less than two years after receiving the termination fee, it became a public company.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **PUBLIC COMPANY**.
 
 ### LOCKED HEADLINE
-``
+`PUBLIC COMPANY`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV020_NYSE_FIGMA_STREET.jpg`
+`12_SOURCE_PREP/RV022_NYSE_BANNER_SETUP.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -10490,14 +10340,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE banner setup / scaffolding photo; it is the print, unchanged — keep people exactly as photographed, add none.
 
 ### COMPOSITION DIRECTION
-And less than two years after receiving the termination fee, it became a public company.
+a dark cork board; two pins joined by a plain neutral thread with no arrowhead — a grey pin at left, a deep-red pin at right; above the right pin hangs one pinned photographic print.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 30% of the frame, left half. The thread at about 58% of frame height across the center; the print upper right, between 12% and 52%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10506,7 +10356,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10517,37 +10367,37 @@ STORY PURPOSE:
 And less than two years after receiving the termination fee, it became a public company.
 
 LOCKED HEADLINE:
-""
+"PUBLIC COMPANY"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV020_NYSE_FIGMA_STREET.jpg
+Image 1: 12_SOURCE_PREP/RV022_NYSE_BANNER_SETUP.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = NYSE banner setup / scaffolding photo; it is the print, unchanged — keep people exactly as photographed, add none.
 
 COMPOSITION:
-And less than two years after receiving the termination fee, it became a public company. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a dark cork board; two pins joined by a plain neutral thread with no arrowhead — a grey pin at left, a deep-red pin at right; above the right pin hangs one pinned photographic print. headline zone inside the top 30% of the frame, left half. The thread at about 58% of frame height across the center; the print upper right, between 12% and 52%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `PUBLIC COMPANY`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10557,31 +10407,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F102 / Beat B102
 
 **TIMING:** 868.540 → 877.080  
 **DURATION:** 8.540 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G077  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** UI_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 At the beginning, Adobe and Figma negotiated the upside. A roughly twenty-billion-dollar acquisition. But they also negotiated the downside.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **UPSIDE / DOWNSIDE**.
 
 ### LOCKED HEADLINE
-``
+`UPSIDE / DOWNSIDE`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg`
+`12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -10597,14 +10445,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (upper print), unchanged; image 2 = Merger Agreement Section 8.2 fee excerpt (lower), unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-At the beginning, Adobe and Figma negotiated the upside. A roughly twenty-billion-dollar acquisition. But they also negotiated the downside.
+on a dark desk, a print lies high in the frame; below it and offset to the right, a contract excerpt with a thin vertical deep-red bracket in its margin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The print center-right between 6% and 42% of frame height; the excerpt right, between 46% and 76%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10613,7 +10461,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10624,38 +10472,38 @@ STORY PURPOSE:
 At the beginning, Adobe and Figma negotiated the upside. A roughly twenty-billion-dollar acquisition. But they also negotiated the downside.
 
 LOCKED HEADLINE:
-""
+"UPSIDE / DOWNSIDE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg
+Image 1: 12_SOURCE_PREP/RV025_ADOBE_FIGMA_DEAL_GRAPHIC.png
 Image 2: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = official Adobe + Figma deal graphic (upper print), unchanged; image 2 = Merger Agreement Section 8.2 fee excerpt (lower), unchanged — never retype it.
 
 COMPOSITION:
-At the beginning, Adobe and Figma negotiated the upside. A roughly twenty-billion-dollar acquisition. But they also negotiated the downside. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk, a print lies high in the frame; below it and offset to the right, a contract excerpt with a thin vertical deep-red bracket in its margin. headline zone inside the top 45% and left 38% of the frame. The print center-right between 6% and 42% of frame height; the excerpt right, between 46% and 76%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic interface large and readable; preserve native controls, colors and proportions.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `UPSIDE / DOWNSIDE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10665,31 +10513,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F103 / Beat B103
 
 **TIMING:** 878.080 → 887.580  
 **DURATION:** 9.500 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G078  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 What would happen if the required regulatory clearance could not be obtained under the terms of the deal? That risk became a one-billion-dollar reverse termination fee.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THE RISK WAS PRICED**.
 
 ### LOCKED HEADLINE
-``
+`THE RISK WAS PRICED`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
+`12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -10700,14 +10546,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 5: reverse-fee proposal); unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-What would happen if the required regulatory clearance could not be obtained under the terms of the deal? That risk became a one-billion-dollar reverse termination fee.
+on a dark negotiating table one paper excerpt lies with a thin vertical deep-red bracket in its margin; a closed black fountain pen rests beside it; empty chairs dissolve into the dark background.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 40% of the frame. Excerpt and pen on the right 58%, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10716,7 +10562,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10727,37 +10573,37 @@ STORY PURPOSE:
 What would happen if the required regulatory clearance could not be obtained under the terms of the deal? That risk became a one-billion-dollar reverse termination fee.
 
 LOCKED HEADLINE:
-""
+"THE RISK WAS PRICED"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
+Image 1: 12_SOURCE_PREP/RV051_JULY5_REVERSE_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 5: reverse-fee proposal); unchanged — never retype it.
 
 COMPOSITION:
-What would happen if the required regulatory clearance could not be obtained under the terms of the deal? That risk became a one-billion-dollar reverse termination fee. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark negotiating table one paper excerpt lies with a thin vertical deep-red bracket in its margin; a closed black fountain pen rests beside it; empty chairs dissolve into the dark background. headline zone inside the top 45% and left 40% of the frame. Excerpt and pen on the right 58%, between 18% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THE RISK WAS PRICED`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10767,49 +10613,52 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F104 / Beat B104
 
 **TIMING:** 888.180 → 895.900  
 **DURATION:** 7.720 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G079  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 Then the regulatory pressure became real. The UK CMA published provisional competition concerns and possible remedies.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **REGULATORY PRESSURE BECOMES REAL**.
 
 ### LOCKED HEADLINE
-``
+`REGULATORY PRESSURE BECOMES REAL`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
+`12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA provisional-findings excerpt (front); image 2 = UK CMA possible-remedies excerpt (behind). Both unchanged — never retype them.
 
 ### COMPOSITION DIRECTION
-Then the regulatory pressure became real. The UK CMA published provisional competition concerns and possible remedies.
+on a dark desk two paper excerpts overlap slightly, one in front, one behind; to their right a faint clean rectangular outline on the desk marks an empty place — nothing lies inside it.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 45% and left 38% of the frame. The overlapping excerpts at center between 22% and 76% of frame height; the empty outline center-right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10818,7 +10667,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10829,37 +10678,38 @@ STORY PURPOSE:
 Then the regulatory pressure became real. The UK CMA published provisional competition concerns and possible remedies.
 
 LOCKED HEADLINE:
-""
+"REGULATORY PRESSURE BECOMES REAL"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV056_CMA_PROVISIONAL_FINDINGS_CROP.png
+Image 2: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA provisional-findings excerpt (front); image 2 = UK CMA possible-remedies excerpt (behind). Both unchanged — never retype them.
 
 COMPOSITION:
-Then the regulatory pressure became real. The UK CMA published provisional competition concerns and possible remedies. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+on a dark desk two paper excerpts overlap slightly, one in front, one behind; to their right a faint clean rectangular outline on the desk marks an empty place — nothing lies inside it. headline zone inside the top 45% and left 38% of the frame. The overlapping excerpts at center between 22% and 76% of frame height; the empty outline center-right. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `REGULATORY PRESSURE BECOMES REAL`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10868,8 +10718,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F105 / Beat B105
 
@@ -10883,40 +10731,45 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 The European Commission sent preliminary objections. The Justice Department investigated. Adobe and Figma disputed the regulators' analysis.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **THREE FRONTS**.
 
 ### LOCKED HEADLINE
-``
+`THREE FRONTS`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
+`12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
+`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 3**
+`12_SOURCE_PREP/RV070_DOJ_HQ.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
 SECONDARY: Source 2.
-TERTIARY: None.
+TERTIARY: Source 3.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA case-page excerpt (top track); image 2 = European Commission Berlaymont (middle track); image 3 = U.S. Department of Justice headquarters (bottom track). All unchanged and small.
 
 ### COMPOSITION DIRECTION
-The European Commission sent preliminary objections. The Justice Department investigated. Adobe and Figma disputed the regulators' analysis.
+three short parallel horizontal threads stacked one above another on a dark cork board; at the left start of each thread one small item is pinned; each thread stops well before the right edge, ending at an empty pin.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 24% of the frame, left half. The three tracks between 30% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -10925,7 +10778,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -10936,38 +10789,39 @@ STORY PURPOSE:
 The European Commission sent preliminary objections. The Justice Department investigated. Adobe and Figma disputed the regulators' analysis.
 
 LOCKED HEADLINE:
-""
+"THREE FRONTS"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
-Image 2: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
+Image 1: 12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png
+Image 2: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
+Image 3: 12_SOURCE_PREP/RV070_DOJ_HQ.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = UK CMA case-page excerpt (top track); image 2 = European Commission Berlaymont (middle track); image 3 = U.S. Department of Justice headquarters (bottom track). All unchanged and small.
 
 COMPOSITION:
-The European Commission sent preliminary objections. The Justice Department investigated. Adobe and Figma disputed the regulators' analysis. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+three short parallel horizontal threads stacked one above another on a dark cork board; at the left start of each thread one small item is pinned; each thread stops well before the right edge, ending at an empty pin. headline zone inside the top 24% of the frame, left half. The three tracks between 30% and 75% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `THREE FRONTS`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -10977,31 +10831,29 @@ PASS only if all are true:
 
 Otherwise: **REJECT**.
 
----
-
 ## F106 / Beat B106
 
 **TIMING:** 904.940 → 912.140  
 **DURATION:** 7.200 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G081  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 But by December twenty twenty-three, the companies said they no longer saw a clear path to the approvals they needed.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NO CLEAR PATH**.
 
 ### LOCKED HEADLINE
-``
+`NO CLEAR PATH`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png`
+`12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -11012,14 +10864,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt; unchanged — never retype, redraw or re-letter it.
 
 ### COMPOSITION DIRECTION
-But by December twenty twenty-three, the companies said they no longer saw a clear path to the approvals they needed.
+a tight close-up of one paper excerpt on warm aged paper, cropped closer than a full page, a thin vertical deep-red bracket in its margin, soft focus falloff at the edges.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 40% and left 38% of the frame. The excerpt fills the right 62%, between 6% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -11028,7 +10880,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -11039,37 +10891,37 @@ STORY PURPOSE:
 But by December twenty twenty-three, the companies said they no longer saw a clear path to the approvals they needed.
 
 LOCKED HEADLINE:
-""
+"NO CLEAR PATH"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png
+Image 1: 12_SOURCE_PREP/RV061_8K_TERMINATION_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe Form 8-K termination excerpt; unchanged — never retype, redraw or re-letter it.
 
 COMPOSITION:
-But by December twenty twenty-three, the companies said they no longer saw a clear path to the approvals they needed. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a tight close-up of one paper excerpt on warm aged paper, cropped closer than a full page, a thin vertical deep-red bracket in its margin, soft focus falloff at the edges. headline zone inside the top 40% and left 38% of the frame. The excerpt fills the right 62%, between 6% and 76% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NO CLEAR PATH`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -11078,139 +10930,35 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F107 / Beat B107
 
 **TIMING:** 912.980 → 922.480  
 **DURATION:** 9.500 sec  
 **LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G082  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
+**VISUAL FAMILY:** LAYERED_DOCUMENT_EVIDENCE  
 **FINAL FRAME REQUIRED:** YES  
 **QC POLICY:** PASS / REJECT ONLY
 
 ### SCRIPT PURPOSE
 So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **TERMINATION → PAYMENT**.
 
 ### LOCKED HEADLINE
-``
+`TERMINATION → PAYMENT`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg`
-- Attach this exact prepared source.
-- Preserve its factual visual content; do not substitute a generated lookalike.
-
-### SOURCE HIERARCHY
-PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
-GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
-
-### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-### COMPOSITION DIRECTION
-So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion
-
-Build one clear evidence hierarchy.
-
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-### LIGHTING / MATERIALS
-Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
-
-### SUBTITLE SAFE
-Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
-
-### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-### FINAL GENERATION PROMPT
-
-```text
-FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B107, ready to place directly into the finished film.
-
-STORY PURPOSE:
-So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion
-
-LOCKED HEADLINE:
-""
-Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
-
-MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV018_FIELD_IPO_ERA.jpg
-
-SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
-
-SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
-
-COMPOSITION:
-So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
-
-STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
-
-CAPTION SAFE:
-Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
-
-ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
-
-OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
-```
-
-### PASS CONDITIONS
-PASS only if all are true:
-- exact headline = ``;
-- every required source is visible and source-faithful;
-- beat meaning matches the locked narration;
-- source hierarchy is clear and informative;
-- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
-- no fake source text/UI/logos/people are introduced;
-- bottom 15% remains subtitle-safe.
-
-Otherwise: **REJECT**.
-
----
-
-## F108 / Beat B108
-
-**TIMING:** 923.380 → 929.500  
-**DURATION:** 6.120 sec  
-**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G083  
-**VISUAL FAMILY:** MIXED_EVIDENCE  
-**FINAL FRAME REQUIRED:** YES  
-**QC POLICY:** PASS / REJECT ONLY
-
-### SCRIPT PURPOSE
-dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma.
-
-The viewer must instantly understand: ****.
-
-### LOCKED HEADLINE
-``
-
-Exact spelling and punctuation. No second generated headline or explanatory copy.
-
-### REQUIRED SOURCE INPUTS
-
-**SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png`
+`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 **SOURCE 2**
-`12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png`
+`12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
@@ -11221,14 +10969,14 @@ TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Mutual Termination Agreement excerpt (left); image 2 = Adobe FY2023 10-K payment excerpt (right). Both unchanged — never retype them.
 
 ### COMPOSITION DIRECTION
-dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma.
+two paper excerpts pinned left and right on a dark cork board, joined by one taut deep-red thread ending in a small neat red paper arrowhead touching the right excerpt.
 
-Build one clear evidence hierarchy.
+headline zone = top center, inside the top 22% of the frame. Excerpts between 30% and 76% of frame height, in the left and right thirds. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -11237,7 +10985,108 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+### FINAL GENERATION PROMPT
+
+```text
+FINAL FRAME ONLY. Create one complete 16:9 WHAT IT COST documentary image for Beat B107, ready to place directly into the finished film.
+
+STORY PURPOSE:
+So they terminated the acquisition by mutual agreement. And then the contract did exactly what it had been written to do. Adobe paid Figma one billion
+
+LOCKED HEADLINE:
+"TERMINATION → PAYMENT"
+Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
+
+MANDATORY SOURCES:
+Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
+Image 2: 12_SOURCE_PREP/RV063_10K_PAYMENT_CROP.png
+
+SOURCE FIDELITY:
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
+
+SOURCE ROLE:
+image 1 = Mutual Termination Agreement excerpt (left); image 2 = Adobe FY2023 10-K payment excerpt (right). Both unchanged — never retype them.
+
+COMPOSITION:
+two paper excerpts pinned left and right on a dark cork board, joined by one taut deep-red thread ending in a small neat red paper arrowhead touching the right excerpt. headline zone = top center, inside the top 22% of the frame. Excerpts between 30% and 76% of frame height, in the left and right thirds. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
+
+STYLE:
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
+
+CAPTION SAFE:
+Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
+
+ABSOLUTELY AVOID:
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
+
+OUTPUT:
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
+```
+
+### PASS CONDITIONS
+PASS only if all are true:
+- exact headline = `TERMINATION → PAYMENT`;
+- every required source is visible and source-faithful;
+- beat meaning matches the locked narration;
+- source hierarchy is clear and informative;
+- R9 charcoal / warm-paper / ivory / deep-red language is preserved;
+- no fake source text/UI/logos/people are introduced;
+- bottom 15% remains subtitle-safe.
+
+Otherwise: **REJECT**.
+
+## F108 / Beat B108
+
+**TIMING:** 923.380 → 929.500  
+**DURATION:** 6.120 sec  
+**LEGACY ROUTE:** GENERATED_SOURCE_STYLED / G083  
+**VISUAL FAMILY:** DOCUMENT_EVIDENCE  
+**FINAL FRAME REQUIRED:** YES  
+**QC POLICY:** PASS / REJECT ONLY
+
+### SCRIPT PURPOSE
+dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma.
+
+The viewer must instantly understand: **NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE**.
+
+### LOCKED HEADLINE
+`NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE`
+
+Exact spelling and punctuation. No second generated headline or explanatory copy.
+
+### REQUIRED SOURCE INPUTS
+
+**SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV049_NOT_A_PENALTY_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+### SOURCE HIERARCHY
+PRIMARY: Source 1.
+SECONDARY: None.
+TERTIARY: None.
+GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
+
+### SOURCE ROLE / PLACEMENT
+image 1 = Merger Agreement Section 8.2 "not a penalty" excerpt; unchanged — never retype, redraw or re-letter it.
+
+### COMPOSITION DIRECTION
+one contract excerpt on warm aged paper lies on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin.
+
+headline zone = left 50%, between 10% and 70% of frame height. The excerpt fills the right 45%, between 10% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
+
+Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
+
+### LIGHTING / MATERIALS
+Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
+
+### SUBTITLE SAFE
+Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
+
+### HARD NEGATIVES
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -11248,38 +11097,37 @@ STORY PURPOSE:
 dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma.
 
 LOCKED HEADLINE:
-""
+"NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV057_CMA_POSSIBLE_REMEDIES_CROP.png
-Image 2: 12_SOURCE_PREP/RV059_EC_STATEMENT_OF_OBJECTIONS_CROP.png
+Image 1: 12_SOURCE_PREP/RV049_NOT_A_PENALTY_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Merger Agreement Section 8.2 "not a penalty" excerpt; unchanged — never retype, redraw or re-letter it.
 
 COMPOSITION:
-dollars. Not because a judge awarded it. Not because a regulator fined Adobe. And not because Adobe bought Figma. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+one contract excerpt on warm aged paper lies on a dark desk, held by a black binder clip, a thin vertical deep-red bracket in its margin. headline zone = left 50%, between 10% and 70% of frame height. The excerpt fills the right 45%, between 10% and 74%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic document the hero at roughly 55–70% of frame; preserve readable wording; at most one deep-red bracket and one restrained warm-yellow highlight.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NOT A JUDGMENT • NOT A FINE • NOT A PURCHASE`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -11288,8 +11136,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F109 / Beat B109
 
@@ -11303,35 +11149,40 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 The clearest billion-dollar consequence of the failed acquisition was a clause the two companies had negotiated before the regulatory fight really began.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **NEGOTIATED BEFORE THE FIGHT**.
 
 ### LOCKED HEADLINE
-``
+`NEGOTIATED BEFORE THE FIGHT`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
-`12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png`
+`12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV068_BERLAYMONT.jpg`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
+SECONDARY: Source 2.
 TERTIARY: None.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 20: fee agreed), sharp, unchanged — never retype it; image 2 = European Commission Berlaymont, blurred background print, unchanged.
 
 ### COMPOSITION DIRECTION
-The clearest billion-dollar consequence of the failed acquisition was a clause the two companies had negotiated before the regulatory fight really began.
+a paper excerpt lies tack-sharp in the foreground of a dark desk, a thin vertical deep-red bracket in its margin; behind it, heavily out of focus, stands a photographic print of an institutional building.
 
-Build one clear evidence hierarchy.
+headline zone inside the top 35% and left 42% of the frame. The sharp excerpt left-center between 42% and 76% of frame height; the blurred print fills the right background. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -11340,7 +11191,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -11351,37 +11202,38 @@ STORY PURPOSE:
 The clearest billion-dollar consequence of the failed acquisition was a clause the two companies had negotiated before the regulatory fight really began.
 
 LOCKED HEADLINE:
-""
+"NEGOTIATED BEFORE THE FIGHT"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV062_TERMINATION_AGREEMENT_CROP.png
+Image 1: 12_SOURCE_PREP/RV052_JULY20_FEE_AGREED_CROP.png
+Image 2: 12_SOURCE_PREP/RV068_BERLAYMONT.jpg
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = 424B3 excerpt (July 20: fee agreed), sharp, unchanged — never retype it; image 2 = European Commission Berlaymont, blurred background print, unchanged.
 
 COMPOSITION:
-The clearest billion-dollar consequence of the failed acquisition was a clause the two companies had negotiated before the regulatory fight really began. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a paper excerpt lies tack-sharp in the foreground of a dark desk, a thin vertical deep-red bracket in its margin; behind it, heavily out of focus, stands a photographic print of an institutional building. headline zone inside the top 35% and left 42% of the frame. The sharp excerpt left-center between 42% and 76% of frame height; the blurred print fills the right background. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `NEGOTIATED BEFORE THE FIGHT`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -11390,8 +11242,6 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
-
----
 
 ## F110 / Beat B110
 
@@ -11405,35 +11255,45 @@ Otherwise: **REJECT**.
 ### SCRIPT PURPOSE
 That is what it cost.
 
-The viewer must instantly understand: ****.
+The viewer must instantly understand: **WHAT IT COST**.
 
 ### LOCKED HEADLINE
-``
+`WHAT IT COST`
 
 Exact spelling and punctuation. No second generated headline or explanatory copy.
 
 ### REQUIRED SOURCE INPUTS
 
 **SOURCE 1 — PRIMARY**
+`12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 2**
+`12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png`
+- Attach this exact prepared source.
+- Preserve its factual visual content; do not substitute a generated lookalike.
+
+**SOURCE 3**
 `12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png`
 - Attach this exact prepared source.
 - Preserve its factual visual content; do not substitute a generated lookalike.
 
 ### SOURCE HIERARCHY
 PRIMARY: Source 1.
-SECONDARY: None.
-TERTIARY: None.
+SECONDARY: Source 2.
+TERTIARY: Source 3.
 GENERATED ENVIRONMENT: only the charcoal / warm-paper / restrained-red editorial world around the evidence.
 
 ### SOURCE ROLE / PLACEMENT
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier (the two tiny cards), unchanged; image 3 = Merger Agreement Section 8.2 fee excerpt (the paper edge), unchanged — never retype it.
 
 ### COMPOSITION DIRECTION
-That is what it cost.
+a deep charcoal field; at the right edge the edge of a contract excerpt on warm paper enters the frame, with two tiny identifier cards resting beside it.
 
-Build one clear evidence hierarchy.
+headline zone = left of center, between 30% and 62% of frame height, large. Excerpt edge and cards at right, between 18% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot.
 
-Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 ### LIGHTING / MATERIALS
 Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-key directional warm light; subtle cool shadow depth; fine grain; restrained wear; deep red only for headline underline and one evidence accent. Premium investigative business-documentary still, not a thumbnail.
@@ -11442,7 +11302,7 @@ Deep charcoal textured environment; warm aged ivory paper/matte surfaces; low-ke
 Bottom 15% stays calm: no headline, no faces, no key evidence, no tiny UI, no crucial dates/numbers, no black subtitle box.
 
 ### HARD NEGATIVES
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 ### FINAL GENERATION PROMPT
 
@@ -11453,37 +11313,39 @@ STORY PURPOSE:
 That is what it cost.
 
 LOCKED HEADLINE:
-""
+"WHAT IT COST"
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
+Image 1: 12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png
+Image 2: 12_SOURCE_PREP/RV066_FIGMA_IDENTIFIER.png
+Image 3: 12_SOURCE_PREP/RV049_S8_2_TERMINATION_FEE_CROP.png
 
 SOURCE FIDELITY:
-Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline and exact fact labels explicitly required by this beat.
+Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-Use attached source material as the factual anchor; generated styling may frame it but never replace it.
+image 1 = Adobe identifier; image 2 = Figma identifier (the two tiny cards), unchanged; image 3 = Merger Agreement Section 8.2 fee excerpt (the paper edge), unchanged — never retype it.
 
 COMPOSITION:
-That is what it cost. Build one clear evidence hierarchy. Establish one dominant evidence source and subordinate support; communicate the beat in under one second.
+a deep charcoal field; at the right edge the edge of a contract excerpt on warm paper enters the frame, with two tiny identifier cards resting beside it. headline zone = left of center, between 30% and 62% of frame height, large. Excerpt edge and cards at right, between 18% and 72%. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Establish one dominant factual source and subordinate support; communicate the beat in under one second.
 
 STYLE:
-Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate. Do not fall back to a generic dark desk with random papers.
+Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
 
 CAPTION SAFE:
 Keep the bottom 15% visually calm and free of headline, faces, key evidence and tiny text.
 
 ABSOLUTELY AVOID:
-fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, flag/Capitol symbolism unrelated to the source.
+fake legal text, fake UI, invented logos, substituted source images, extra people, warped faces, collage/contact sheet/storyboard, random giant arrows/circles/icons, neon/glossy ad styling, generic desk clutter, black subtitle boxes, courtroom/gavel/Lady Justice clichés, unrelated flag/Capitol symbolism.
 
 OUTPUT:
-One finished cinematic frame only. No backplate. No placeholder. No alternate versions. No editor instructions inside the image.
+One finished cinematic frame only. No backplate. No placeholder. No alternate versions.
 ```
 
 ### PASS CONDITIONS
 PASS only if all are true:
-- exact headline = ``;
+- exact headline = `WHAT IT COST`;
 - every required source is visible and source-faithful;
 - beat meaning matches the locked narration;
 - source hierarchy is clear and informative;
@@ -11492,3 +11354,4 @@ PASS only if all are true:
 - bottom 15% remains subtitle-safe.
 
 Otherwise: **REJECT**.
+
