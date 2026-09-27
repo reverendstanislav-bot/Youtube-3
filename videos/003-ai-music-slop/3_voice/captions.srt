@@ -1,0 +1,1147 @@
+1
+00:00:00,000 --> 00:00:06,060
+In October 2017, a North Carolina businessman named Michael Smith sent himself an email.
+
+2
+00:00:07,000 --> 00:00:11,460
+According to a federal indictment, it was a business plan, written as a Rhythmatic.
+
+3
+00:00:12,120 --> 00:00:17,540
+52 cloud accounts, 20 bots on each, 1,040 fake listeners.
+
+4
+00:00:18,360 --> 00:00:25,480
+At half a cent a stream, the email projected $1,207,128 a year.
+
+5
+00:00:25,480 --> 00:00:29,280
+That email comes from the indictment. It's an allegation.
+
+6
+00:00:30,000 --> 00:00:36,820
+This isn't. In March, 2026, Smith pleaded guilty to one count of conspiracy to commit wire fraud,
+
+7
+00:00:37,360 --> 00:00:43,980
+and agreed to a money judgment of $8,091,843.64.
+
+8
+00:00:44,740 --> 00:00:47,720
+He did the math. This is what it cost.
+
+9
+00:00:48,720 --> 00:00:54,780
+This isn't really a story about bots. It's about a pool of money that every artist on a streaming service shares,
+
+10
+00:00:54,780 --> 00:01:01,240
+and about a new kind of song that prosecutors say let one man draw from that pool for years.
+
+11
+00:01:02,220 --> 00:01:05,980
+According to the indictment, the songs he needed weren't written by a person.
+
+12
+00:01:06,540 --> 00:01:11,760
+They came from an AI music company under a contract for up to 10,000 songs a month,
+
+13
+00:01:12,060 --> 00:01:15,920
+and at the center of this case sits a question nobody has answered.
+
+14
+00:01:16,720 --> 00:01:22,440
+Spotify says its protections held what Smith got from Spotify to a small fraction of the total.
+
+15
+00:01:22,440 --> 00:01:26,540
+So who paid the rest? The public record doesn't say.
+
+16
+00:01:27,120 --> 00:01:32,680
+On Tuesday, October 6th, a federal judge is set to decide what the rest of this costs him.
+
+17
+00:01:33,320 --> 00:01:38,940
+His lawyers argue, according to billboard, that each fake stream's effect was a drop in an ocean.
+
+18
+00:01:39,720 --> 00:01:42,800
+The prosecutor who announced his guilty plea put it differently.
+
+19
+00:01:43,580 --> 00:01:46,200
+The millions of dollars Smith stole was real.
+
+20
+00:01:46,860 --> 00:01:51,060
+Before any of this, there was a real music career, a small one.
+
+21
+00:01:51,060 --> 00:01:56,880
+Rolling Stone reported that Smith owned a chain of medical clinics, co-founded a record label,
+
+22
+00:01:57,300 --> 00:02:03,300
+and bankrolled a hip-hop competition on BET called One Shot, where he also sat as a judge.
+
+23
+00:02:04,040 --> 00:02:08,840
+He called it the first nationally televised competition specific to hip-hop.
+
+24
+00:02:09,460 --> 00:02:12,500
+That's the beauty of monitored. They can't manipulate it.
+
+25
+00:02:13,100 --> 00:02:18,800
+That's what a Nashville radio promoter told Rolling Stone about a 2017 single by Michael Smith,
+
+26
+00:02:18,800 --> 00:02:20,840
+Your My Kind of Beautiful.
+
+27
+00:02:21,980 --> 00:02:25,560
+Monitored charts are built on real stations reporting real spins.
+
+28
+00:02:26,300 --> 00:02:30,340
+The song peaked at number 35 on billboards adult contemporary chart.
+
+29
+00:02:31,120 --> 00:02:36,740
+The next year, an album Smith made with a collaborator reached number one on billboards jazz charts.
+
+30
+00:02:37,360 --> 00:02:37,900
+He posted,
+
+31
+00:02:38,540 --> 00:02:40,760
+I officially have a number one billboard album.
+
+32
+00:02:41,620 --> 00:02:46,200
+The federal case against him isn't about those charts. It's about streaming royalties.
+
+33
+00:02:46,200 --> 00:02:54,560
+In October 2017, according to a federal indictment, Smith emailed himself a plan for one thousand forty bought accounts.
+
+34
+00:02:54,940 --> 00:02:59,240
+He later pleaded guilty to one count of conspiracy to commit wire fraud.
+
+35
+00:03:00,140 --> 00:03:03,200
+To see why that plan could pay, you need one idea.
+
+36
+00:03:03,980 --> 00:03:06,740
+Streaming services don't pay a fixed price per play.
+
+37
+00:03:07,340 --> 00:03:09,560
+They put a share of their revenue into a pool.
+
+38
+00:03:10,060 --> 00:03:13,480
+Then the pool is split by each rights holder share of all the streams.
+
+39
+00:03:14,180 --> 00:03:15,880
+Picture a simplified pot.
+
+40
+00:03:16,540 --> 00:03:18,520
+One hundred dollars and one hundred streams.
+
+41
+00:03:19,460 --> 00:03:23,080
+Each stream is worth a dollar. Add one hundred fake streams.
+
+42
+00:03:23,760 --> 00:03:27,260
+The pot doesn't grow. Every stream is now worth fifty cents.
+
+43
+00:03:28,040 --> 00:03:32,740
+The artist behind the one hundred real streams now split fifty dollars instead of one hundred.
+
+44
+00:03:33,380 --> 00:03:36,100
+That's our illustration, not a number from the case.
+
+45
+00:03:36,680 --> 00:03:39,000
+So a fake stream doesn't create new money.
+
+46
+00:03:39,000 --> 00:03:43,000
+In the prosecutors telling, it takes a slice of the same pot.
+
+47
+00:03:43,620 --> 00:03:47,000
+Money that would otherwise go to artists that real people chose to hear.
+
+48
+00:03:47,820 --> 00:03:48,720
+Hold onto that pot.
+
+49
+00:03:49,540 --> 00:03:54,160
+By the end, the hardest question in this case is who actually lost money from it?
+
+50
+00:03:54,280 --> 00:03:59,180
+By May 2017, according to the indictment, Smith was emailing an associate.
+
+51
+00:04:00,220 --> 00:04:01,500
+Make up names and addresses.
+
+52
+00:04:02,460 --> 00:04:05,680
+He bought fake email accounts in bulk, the indictment says,
+
+53
+00:04:05,680 --> 00:04:08,860
+and registered bought accounts under made up names.
+
+54
+00:04:09,280 --> 00:04:12,740
+Often on family plans, because they cost less per user.
+
+55
+00:04:13,680 --> 00:04:18,579
+The bots, prosecutors say, ran in browser tabs on rented cloud computers,
+
+56
+00:04:19,019 --> 00:04:24,800
+with modified macros looping the music, and VPNs hiding that it all ran from his home.
+
+57
+00:04:25,459 --> 00:04:30,040
+The indictment says he told his helpers the setup had to be undetectable.
+
+58
+00:04:30,740 --> 00:04:32,560
+But the machine had a weak point.
+
+59
+00:04:32,560 --> 00:04:35,440
+It wasn't the bots, it was the songs.
+
+60
+00:04:36,420 --> 00:04:39,600
+Put a billion streams on one track, and someone notices.
+
+61
+00:04:40,520 --> 00:04:45,600
+Spread them across tens of thousands of tracks, and each one is played only a few times.
+
+62
+00:04:46,400 --> 00:04:49,780
+That, prosecutors say, is why he needed more music.
+
+63
+00:04:50,740 --> 00:04:54,680
+In May 2019, according to the indictment, he put it plainly.
+
+64
+00:04:55,380 --> 00:04:58,560
+If we get too many streams on one song, it comes down.
+
+65
+00:04:59,500 --> 00:05:00,980
+Then the warning started.
+
+66
+00:05:01,980 --> 00:05:05,220
+I acknowledge what you wrote, and I ask that you still release it.
+
+67
+00:05:05,940 --> 00:05:09,400
+Prosecutors say Michael Smith wrote that in March 2018.
+
+68
+00:05:10,080 --> 00:05:13,860
+After a music distribution company warned him that one of his songs
+
+69
+00:05:13,860 --> 00:05:18,300
+fit the criteria that is usually linked to store-end streaming abuse.
+
+70
+00:05:19,040 --> 00:05:19,600
+He added,
+
+71
+00:05:20,260 --> 00:05:22,860
+we have no intentions of committing streaming fraud.
+
+72
+00:05:23,780 --> 00:05:29,580
+That October, after what the company called multiple reports of streaming abuse from different stores,
+
+73
+00:05:29,580 --> 00:05:30,640
+he replied,
+
+74
+00:05:31,560 --> 00:05:33,760
+this is absolutely wrong and crazy.
+
+75
+00:05:34,320 --> 00:05:37,100
+There is absolutely no fraud going on whatsoever.
+
+76
+00:05:37,860 --> 00:05:38,920
+How can I appeal this?
+
+77
+00:05:40,000 --> 00:05:43,000
+In March 2019, he told the streaming platform,
+
+78
+00:05:43,860 --> 00:05:45,760
+you have slandered me to my distributors.
+
+79
+00:05:46,600 --> 00:05:51,780
+Every one of those lines is written into the federal charge Smith later pleaded guilty to,
+
+80
+00:05:52,320 --> 00:05:54,420
+conspiracy to commit wire fraud.
+
+81
+00:05:55,420 --> 00:05:58,580
+That charge calls his 2019 statements false.
+
+82
+00:05:59,560 --> 00:06:04,420
+Smith own catalog, the indictment says, was not nearly large enough.
+
+83
+00:06:05,160 --> 00:06:06,800
+He tried a publicist catalog.
+
+84
+00:06:07,620 --> 00:06:10,840
+He even tried selling fake streams as a service.
+
+85
+00:06:11,580 --> 00:06:16,920
+On October 4, 2018, according to the indictment, he wrote to two associates.
+
+86
+00:06:17,800 --> 00:06:20,900
+In order to not raise any issues with the powers that be,
+
+87
+00:06:20,900 --> 00:06:24,340
+we need a ton of content with small amounts of streams.
+
+88
+00:06:25,340 --> 00:06:27,320
+The answer was already arriving.
+
+89
+00:06:28,000 --> 00:06:34,340
+According to the indictment, that year, Smith began working with the chief executive of an AI music company,
+
+90
+00:06:34,780 --> 00:06:36,280
+and with a music promoter.
+
+91
+00:06:36,800 --> 00:06:43,100
+By October 18, Smith was reporting hundreds of thousands of streams on AI-made tracks.
+
+92
+00:06:43,560 --> 00:06:47,820
+The promoter, who had called it a proof of concept, wrote back,
+
+93
+00:06:47,820 --> 00:06:50,380
+we've proved the model works.
+
+94
+00:06:51,200 --> 00:06:53,480
+Up to 10,000 songs a month.
+
+95
+00:06:54,240 --> 00:07:00,000
+According to a federal indictment, that's what Michael Smith contracted for in February 2019,
+
+96
+00:07:00,700 --> 00:07:03,540
+with the chief executive of an AI music company.
+
+97
+00:07:04,400 --> 00:07:06,920
+It was called a master services agreement.
+
+98
+00:07:07,760 --> 00:07:14,200
+Under it, the indictment says, Smith would own the song's outright and supply the song and artist names.
+
+99
+00:07:14,200 --> 00:07:22,060
+The AI company would get $2,000 a month, or 15% of the streaming revenue, whichever was greater.
+
+100
+00:07:22,760 --> 00:07:25,720
+The files arrived named like random code.
+
+101
+00:07:26,420 --> 00:07:30,680
+Smith, prosecutors say, gave them fake song and artist names.
+
+102
+00:07:31,380 --> 00:07:37,380
+Songs called Zygophicia, Zygotic Wash Stands, Zyme Bedouin.
+
+103
+00:07:37,380 --> 00:07:45,540
+Artists called Kaliope Bloom, Calm Knuckles, Calorie Screams, and Camel Edible.
+
+104
+00:07:46,560 --> 00:07:50,520
+A month later, the indictment says, the AI executive wrote to him.
+
+105
+00:07:51,280 --> 00:07:54,060
+This is not music, it's instant music.
+
+106
+00:07:54,900 --> 00:07:59,840
+The executive isn't named in court papers, and neither is the promoter who worked with them.
+
+107
+00:08:00,580 --> 00:08:02,440
+Neither has been publicly charged.
+
+108
+00:08:03,200 --> 00:08:06,760
+Smith has pleaded guilty to conspiracy to commit wire fraud.
+
+109
+00:08:07,419 --> 00:08:12,140
+On June 5, 2019, according to the indictment, Smith wrote,
+
+110
+00:08:12,900 --> 00:08:15,920
+we're at 88 million total streams so far.
+
+111
+00:08:16,480 --> 00:08:22,160
+He told his two partners the streams were earning about $110,000 a month,
+
+112
+00:08:22,280 --> 00:08:30,040
+that each of them was getting 10%, and he asked for another 10,000 songs to spread this out more.
+
+113
+00:08:30,320 --> 00:08:33,179
+The next year's ran on the same engine, only bigger.
+
+114
+00:08:34,180 --> 00:08:37,520
+August 2020, the AI executive per the indictment.
+
+115
+00:08:37,919 --> 00:08:43,179
+Song quality is 10x to 20x better now, and we also have vocal generation capabilities.
+
+116
+00:08:44,000 --> 00:08:49,520
+At certain points, prosecutors alleged, Smith had as many as 10,000 active body counts.
+
+117
+00:08:50,159 --> 00:08:51,740
+Those accounts had to be paid for.
+
+118
+00:08:52,220 --> 00:08:59,940
+From about 2020 to 2023, the indictment alleges, Smith moved $1.3 million of royalties
+
+119
+00:08:59,940 --> 00:09:04,920
+through an account called SMH Entertainment into a Manhattan debit card service,
+
+120
+00:09:05,260 --> 00:09:09,000
+using dozens of fake employee names to pay for body counts.
+
+121
+00:09:09,600 --> 00:09:11,380
+That became a money laundering charge.
+
+122
+00:09:12,040 --> 00:09:14,420
+It is not part of the charge he pleaded guilty to.
+
+123
+00:09:15,080 --> 00:09:16,560
+Mike is the human author.
+
+124
+00:09:17,240 --> 00:09:20,760
+That's what Michael Smith's representatives wrote in March 2023,
+
+125
+00:09:21,280 --> 00:09:25,120
+according to a federal indictment, after the songwriter's royalty collective,
+
+126
+00:09:25,500 --> 00:09:27,700
+the MLC, stopped paying him.
+
+127
+00:09:27,700 --> 00:09:29,840
+In the same exchange, they wrote,
+
+128
+00:09:30,640 --> 00:09:33,380
+Mike categorically denies any play manipulation.
+
+129
+00:09:34,120 --> 00:09:39,940
+According to the same indictment, an AI company had been supplying him songs under contract since 2019.
+
+130
+00:09:40,920 --> 00:09:45,240
+When Smith was arrested the next year, the MLC's chief executive said it had
+
+131
+00:09:45,240 --> 00:09:48,480
+withheld payment of the associated mechanical royalties.
+
+132
+00:09:49,020 --> 00:09:51,500
+The MLC hasn't said how much it held back.
+
+133
+00:09:52,060 --> 00:09:55,220
+Smith later pleaded guilty to conspiracy to commit wire fraud.
+
+134
+00:09:55,220 --> 00:09:57,380
+The rest is the indictment's account.
+
+135
+00:09:58,040 --> 00:10:02,980
+In February 2024, less than a year after the MLC stopped paying him,
+
+136
+00:10:03,480 --> 00:10:08,060
+Smith wrote, per the indictment, that his music had generated at this point
+
+137
+00:10:08,060 --> 00:10:13,160
+over four billion streams and $12 million in royalties since 2019.
+
+138
+00:10:14,000 --> 00:10:17,640
+That's his own number, as prosecutors quoted, not a finding.
+
+139
+00:10:18,380 --> 00:10:21,000
+Remember it, the numbers in this case keep changing.
+
+140
+00:10:21,000 --> 00:10:24,860
+On the morning of Wednesday, September 4, 2024,
+
+141
+00:10:25,640 --> 00:10:27,860
+Smith was arrested at his home outside Charlotte.
+
+142
+00:10:28,280 --> 00:10:32,960
+The same day, the Justice Department announced what it called the first criminal case
+
+143
+00:10:32,960 --> 00:10:35,600
+involving artificially inflated music streaming.
+
+144
+00:10:36,320 --> 00:10:41,480
+Three counts, wire fraud conspiracy, wire fraud, and money laundering conspiracy.
+
+145
+00:10:42,120 --> 00:10:44,000
+Each carried up to 20 years in prison.
+
+146
+00:10:44,800 --> 00:10:48,640
+Prosecutors alleged he had obtained more than $10 million in royalties.
+
+147
+00:10:48,640 --> 00:10:50,860
+The US Attorney at the time said,
+
+148
+00:10:51,520 --> 00:10:53,360
+it's time for Smith to face the music.
+
+149
+00:10:53,960 --> 00:10:55,540
+Smith's lawyer declined to comment.
+
+150
+00:10:55,980 --> 00:10:59,800
+He was released on a $500,000 personal reconnaissance bond.
+
+151
+00:11:00,480 --> 00:11:01,900
+The case headed toward trial.
+
+152
+00:11:02,520 --> 00:11:07,900
+In early 2026, Rolling Stone reported it was expected to start on October 6th.
+
+153
+00:11:07,900 --> 00:11:09,080
+There was no trial.
+
+154
+00:11:09,800 --> 00:11:12,620
+Three federal counts, up to 20 years each.
+
+155
+00:11:13,380 --> 00:11:18,280
+Michael Smith, indicted in 2024, never pleaded guilty to any of them.
+
+156
+00:11:18,280 --> 00:11:25,760
+Instead, on March 19th, 2026, prosecutors filed a brand new one-count charge.
+
+157
+00:11:26,320 --> 00:11:31,960
+Conspiracy to commit wire fraud under a different statute, section 371.
+
+158
+00:11:33,260 --> 00:11:37,320
+Smith gave up his right to an indictment and was charged on it that same day.
+
+159
+00:11:38,480 --> 00:11:42,600
+Same kind of crime, a different law, with a much lower ceiling.
+
+160
+00:11:43,600 --> 00:11:48,700
+He pleaded guilty to it before US District Judge John Kotl under a plea agreement.
+
+161
+00:11:49,220 --> 00:11:51,460
+The agreement itself isn't public.
+
+162
+00:11:52,160 --> 00:11:53,740
+The maximum he faces on it?
+
+163
+00:11:54,200 --> 00:11:56,080
+Five years, not 20.
+
+164
+00:11:57,140 --> 00:12:00,520
+It is a federal conviction, and it came with a price.
+
+165
+00:12:01,220 --> 00:12:07,260
+A money judgment of $8 million, $91,843.64.
+
+166
+00:12:08,079 --> 00:12:12,400
+As of late September, 2026, he had not been sentenced.
+
+167
+00:12:13,020 --> 00:12:18,260
+There's a sentence in the Forfeiture Order, Michael Smith agreed to after his guilty plea
+
+168
+00:12:18,260 --> 00:12:22,080
+that sounds like a confession that millions of dollars vanished.
+
+169
+00:12:22,820 --> 00:12:23,620
+It isn't.
+
+170
+00:12:24,220 --> 00:12:30,940
+The order sets his money judgment, $8 million in change, as the proceeds he personally obtained.
+
+171
+00:12:31,940 --> 00:12:37,840
+And in it, he admits those proceeds cannot be located upon the exercise of due diligence.
+
+172
+00:12:38,820 --> 00:12:39,960
+It sounds dramatic.
+
+173
+00:12:40,640 --> 00:12:45,580
+It's actually a legal formula, the trigger words from the federal Forfeiture Statute.
+
+174
+00:12:45,980 --> 00:12:49,920
+The same words were already in his 2024 indictment.
+
+175
+00:12:50,580 --> 00:12:52,220
+What they do is practical.
+
+176
+00:12:52,900 --> 00:12:58,460
+They let the government go after his other property instead, up to whatever remains unpaid.
+
+177
+00:12:59,120 --> 00:13:03,520
+So the $8 million is a debt the court has entered against him.
+
+178
+00:13:03,960 --> 00:13:07,900
+Final as to him, and set to become part of his sentence.
+
+179
+00:13:09,140 --> 00:13:12,920
+No public document we found says whether any of it has been collected.
+
+180
+00:13:14,080 --> 00:13:15,520
+Now line the numbers up.
+
+181
+00:13:16,020 --> 00:13:20,040
+His own email, as the indictment quotes it, claimed $12 million.
+
+182
+00:13:20,840 --> 00:13:23,520
+The indictment alleged more than $10 million.
+
+183
+00:13:24,520 --> 00:13:25,200
+The judgment?
+
+184
+00:13:25,940 --> 00:13:27,040
+Just over $8 million.
+
+185
+00:13:28,080 --> 00:13:30,900
+Why the figure fell from $10 to $8?
+
+186
+00:13:31,200 --> 00:13:33,600
+The public record we reviewed doesn't explain.
+
+187
+00:13:34,560 --> 00:13:37,540
+Which leaves the question this whole case keeps circling.
+
+188
+00:13:38,320 --> 00:13:42,380
+$8 million in royalties by the Justice Department's count.
+
+189
+00:13:43,160 --> 00:13:44,380
+Whose money was it?
+
+190
+00:13:45,560 --> 00:13:50,260
+Spotify says Michael Smith got only about $60,000 from Spotify.
+
+191
+00:13:51,260 --> 00:13:57,920
+He has pleaded guilty to conspiracy to commit wire fraud and agreed to a money judgment of more than $8 million.
+
+192
+00:13:59,020 --> 00:14:00,600
+So who paid him?
+
+193
+00:14:01,760 --> 00:14:04,640
+Spotify's answer came eight days after his arrest.
+
+194
+00:14:05,540 --> 00:14:16,580
+Its measures it said limited the royalties Smith was able to game from Spotify to approximately $60,000 of the $10 million noted in the indictment.
+
+195
+00:14:17,580 --> 00:14:22,040
+Spotify says it usually accounts for about half of all streams in the market.
+
+196
+00:14:22,860 --> 00:14:27,040
+Pandora put its estimated royalty exposure at $1,500.
+
+197
+00:14:27,860 --> 00:14:34,240
+The songwriter's collective, the MLC, says it caught him early and withheld payment.
+
+198
+00:14:34,980 --> 00:14:44,560
+When digital music news asked Apple music, boom play, title, YouTube and Amazon music what they paid him, none of them responded.
+
+199
+00:14:45,420 --> 00:14:47,320
+Soundcloud wouldn't give a figure.
+
+200
+00:14:48,300 --> 00:14:51,120
+Not answering isn't an answer, either way.
+
+201
+00:14:51,620 --> 00:14:54,100
+These are the company's own accounts.
+
+202
+00:14:54,740 --> 00:14:59,000
+Which services paid most of the money has never been publicly established.
+
+203
+00:15:00,060 --> 00:15:12,220
+Michael Lewin, who runs an industry anti-fraud group, the Music Fights Fraud Alliance, was speaking about streaming fraud industry-wide, not about Smith's case when he told Rolling Stone.
+
+204
+00:15:13,220 --> 00:15:21,920
+If you view it as one or five or ten percent, that is a percentage of royalties not going to artists, creators and songwriters.
+
+205
+00:15:22,740 --> 00:15:29,840
+He also said he hadn't seen a trusted percentage or number for how big streaming fraud really is.
+
+206
+00:15:30,800 --> 00:15:36,320
+The head of the recording industry's global body, IFPI, puts it more bluntly.
+
+207
+00:15:36,800 --> 00:15:39,400
+This is theft, plain and simple.
+
+208
+00:15:40,280 --> 00:15:44,760
+Money that, prosecutors say, came out of real artist's share.
+
+209
+00:15:45,360 --> 00:15:49,380
+Spreads so thin, it's hard to point to any one artist's slice.
+
+210
+00:15:50,460 --> 00:15:53,960
+That gap is where Smith's lawyers built their case for mercy.
+
+211
+00:15:54,260 --> 00:15:59,320
+On September 22nd, 2026, Smith's lawyers filed their sentencing memo.
+
+212
+00:16:00,300 --> 00:16:04,820
+Michael Smith's lawyers have a metaphor for the fraud conspiracy he pleaded guilty to.
+
+213
+00:16:04,820 --> 00:16:08,740
+According to Billboard, we haven't seen the memo ourselves.
+
+214
+00:16:09,260 --> 00:16:10,820
+Their sentencing memo says,
+
+215
+00:16:11,360 --> 00:16:19,660
+The effect each individual stream of one artist's song has on every other artist's share of total streams is not akin to a drop in a proverbial bucket.
+
+216
+00:16:20,200 --> 00:16:21,560
+It is a drop in an ocean.
+
+217
+00:16:22,500 --> 00:16:28,480
+And, no individual artist or songwriter suffered any perceptible harm from Mr. Smith's conduct.
+
+218
+00:16:29,100 --> 00:16:30,500
+They're asking for probation.
+
+219
+00:16:31,500 --> 00:16:38,720
+Billboard reports the sentencing guidelines call for 46 to 57 months and the probation office recommended 24.
+
+220
+00:16:39,340 --> 00:16:41,080
+The maximum is 5 years.
+
+221
+00:16:41,800 --> 00:16:49,480
+In May, his lawyers questioned whether the section 2B1.1 guidelines fairly address Mr. Smith's culpability.
+
+222
+00:16:50,500 --> 00:16:53,080
+That's the fraud guideline and it scales with loss.
+
+223
+00:16:53,940 --> 00:16:57,060
+If the loss is spread across an ocean, how do you measure it?
+
+224
+00:16:57,060 --> 00:17:00,600
+Sentencing was set for October 6th, 2026.
+
+225
+00:17:01,460 --> 00:17:04,760
+That's when Judge Koldle decides how much a drop in an ocean costs.
+
+226
+00:17:05,619 --> 00:17:06,839
+The memo goes further.
+
+227
+00:17:07,339 --> 00:17:14,680
+Per Billboard, it argues that bot-driven fraud is indisputably rampant, including by big labels and publishers.
+
+228
+00:17:15,460 --> 00:17:17,119
+That is the defense's claim.
+
+229
+00:17:17,940 --> 00:17:20,960
+It points to no criminal record and to letters of support.
+
+230
+00:17:21,480 --> 00:17:25,980
+While he made serious mistakes here, those mistakes do not define him as a person.
+
+231
+00:17:25,980 --> 00:17:31,720
+A rapper who worked with Smith on one shot, KXNG Crooked, told Rolling Stone.
+
+232
+00:17:32,200 --> 00:17:35,720
+Whatever he did, he made that bed and he's got a lie in it.
+
+233
+00:17:36,339 --> 00:17:40,720
+But he added, let's not take the man who's the independent guy and string him up.
+
+234
+00:17:40,920 --> 00:17:46,619
+In 2018, according to the indictment, Smith's problem was that he couldn't get enough songs.
+
+235
+00:17:47,440 --> 00:17:55,960
+At its June 2026 peak, one streaming service, Deezer, says it was receiving nearly 90,000 fully AI-generated trucks.
+
+236
+00:17:56,740 --> 00:17:58,980
+More than half of everything uploaded.
+
+237
+00:17:59,820 --> 00:18:04,680
+Deezer says AI music makes up only 1-3% of streams on Deezer.
+
+238
+00:18:04,980 --> 00:18:10,820
+But that up to 85% of those streams in 2025 were fraudulent and were demonetized.
+
+239
+00:18:11,140 --> 00:18:18,940
+And it says the impact on human-artist royalties is minimal on Deezer because it strips those streams out of the pool.
+
+240
+00:18:19,940 --> 00:18:28,320
+On September 14, 2026, the Recording Industry Body IFPI launched a Streaming Integrity Initiative,
+
+241
+00:18:28,740 --> 00:18:33,880
+asking distributors to verify their customers and vet uploads for AI-related risks.
+
+242
+00:18:34,700 --> 00:18:37,360
+Universal, Sony and Warner signed on.
+
+243
+00:18:38,020 --> 00:18:39,860
+The industry has also gone to court.
+
+244
+00:18:40,360 --> 00:18:44,500
+Against distributors, the companies that deliver music to the streaming services.
+
+245
+00:18:45,500 --> 00:18:59,900
+In 2024, UMG and other music companies sued one of them, believe, and its tune-core service, seeking at least $500 million over uploads under names like Kendrick Lamar and Juten Bieber.
+
+246
+00:19:00,660 --> 00:19:03,600
+Believe said it strongly refuted the claims.
+
+247
+00:19:04,240 --> 00:19:08,300
+In April 2026, the case was dismissed after a settlement.
+
+248
+00:19:09,020 --> 00:19:13,240
+Terms weren't disclosed. No admission of wrongdoing has been made public.
+
+249
+00:19:13,240 --> 00:19:19,020
+The newest fight is a separate one, a civil lawsuit about uploads and copyright.
+
+250
+00:19:19,540 --> 00:19:21,980
+It is not part of Smith's criminal case.
+
+251
+00:19:22,840 --> 00:19:27,440
+4,562 tracks in 12 months from one account.
+
+252
+00:19:28,100 --> 00:19:33,220
+That's what Universal Music Group alleges about the busiest account on the distributor distro kid.
+
+253
+00:19:33,760 --> 00:19:38,820
+In a lawsuit filed September 15, 2026, in federal court in Delaware.
+
+254
+00:19:38,820 --> 00:19:43,840
+The suit claims deceptive trade practices and copyright infringement.
+
+255
+00:19:43,980 --> 00:19:54,860
+At two other high-volume accounts, the complaint alleges, over 97 and over 98% of the tracks are raw outputs from the AI Generator Soono.
+
+256
+00:19:55,680 --> 00:20:04,680
+And it alleges distro kid accounts for more than half of weekly track releases on one major service, nearly 12 million tracks in six months.
+
+257
+00:20:05,700 --> 00:20:07,460
+UMG also draws a line.
+
+258
+00:20:07,460 --> 00:20:14,280
+This lawsuit is not about the distribution of AI-generated music when clearly disclosed as such.
+
+259
+00:20:15,180 --> 00:20:16,280
+Distro kid's response.
+
+260
+00:20:17,140 --> 00:20:19,800
+We strongly disagree with UMG's allegations.
+
+261
+00:20:20,380 --> 00:20:25,160
+We are confident in our practices and intend to defend distro kid vigorously.
+
+262
+00:20:25,860 --> 00:20:31,780
+These are allegations in a civil case that has only just been filed. Nothing has been decided.
+
+263
+00:20:32,780 --> 00:20:42,320
+As this film is released at the end of September 2026, Michael Smith is due back before Judge Coltl on Tuesday, October 6 at 3pm.
+
+264
+00:20:42,940 --> 00:20:46,360
+It's the same date Rolling Stone once reported for his trial.
+
+265
+00:20:47,120 --> 00:20:49,600
+Music Business Worldwide describes it as,
+
+266
+00:20:49,980 --> 00:20:53,380
+The first sentence in the US for AI-assisted streaming fraud.
+
+267
+00:20:54,220 --> 00:20:55,640
+Here is what we'll decide it.
+
+268
+00:20:56,320 --> 00:21:00,480
+Whether the judge accepts that a drop in an ocean caused no perceptible harm.
+
+269
+00:21:00,480 --> 00:21:04,420
+Where he lands between probation, which the defense wants.
+
+270
+00:21:04,840 --> 00:21:08,820
+The 24 months the probation office recommended, according to billboard.
+
+271
+00:21:09,300 --> 00:21:13,300
+And the 46 to 57 month guideline range billboard reported.
+
+272
+00:21:13,800 --> 00:21:15,480
+All under a five year cap.
+
+273
+00:21:16,340 --> 00:21:18,100
+And whether he orders restitution.
+
+274
+00:21:18,740 --> 00:21:19,400
+And to whom.
+
+275
+00:21:20,740 --> 00:21:22,420
+Some things are already settled.
+
+276
+00:21:22,940 --> 00:21:26,140
+A federal conviction for conspiracy to commit wire fraud.
+
+277
+00:21:26,140 --> 00:21:32,700
+An eight million dollar money judgment that the government can pursue, including against his other property.
+
+278
+00:21:34,020 --> 00:21:35,840
+Some things may never be known.
+
+279
+00:21:36,740 --> 00:21:38,180
+Who paid most of the money?
+
+280
+00:21:38,960 --> 00:21:40,960
+How much the MLC held back?
+
+281
+00:21:41,700 --> 00:21:52,580
+In 2017, the email in the indictment said 1,040 bots would bring in 1,207,128 dollars a year.
+
+282
+00:21:53,580 --> 00:21:56,620
+It never had a line for the artists on the other side of the pool.
+
+283
+00:21:57,460 --> 00:21:59,820
+He did the math on fake streams.
+
+284
+00:22:00,500 --> 00:22:02,860
+The court has already written down one number.
+
+285
+00:22:03,620 --> 00:22:08,480
+8,091,843.64.
+
+286
+00:22:09,760 --> 00:22:12,320
+On October 6th, it writes the rest.
+
+287
+00:22:13,320 --> 00:22:14,620
+That's what it cost.

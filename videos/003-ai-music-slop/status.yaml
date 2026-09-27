@@ -7,8 +7,8 @@ created: "2026-09-25"
 media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
-stage: voice
-next_action: "Narration locked. Need Whisper Base in WeftCut → transcribe → yt.py words (word timings for visual-director/captions). SWITCH-GOV 1/2 after Sept 29."
+stage: visual
+next_action: "Phase 5: visual-director Mode 1 (beats from words.json). SWITCH-GOV 1/2 voiced + re-joined after Sept 29 (shifts timings after PART 5)."
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -25,8 +25,8 @@ gates:
 packaging_concept: "He Did the Math on Fake Streams. He Owes $8 Million. — thumbnail: authentic indictment crop of Smith's self-emailed bot math + red $8M figure (text TBD, not 'Forfeited')"   # chosen at g1: title + thumbnail idea
 
 voice:
-  file: "voice/narration.mp3"              # relative to media_root; PART 1-7 joined, SWITCH-GOV 1/2 not yet inserted
-  sha256: "3c2d11ff9a3f24e44672a128fde7b41df70467cd0cb86ccb9cd8560fe867d991"
+  file: "voice/narration.mp3"              # relative to media_root; PART 1-7 joined, loudnorm -15 LUFS; SWITCH-GOV 1/2 not yet inserted
+  sha256: "37925de1a1d75c0a6c3b7204e28f7731ef1cefb5460fb84f874967f57ff0d914"
   duration_sec: "1334.88"
 
 final_render:

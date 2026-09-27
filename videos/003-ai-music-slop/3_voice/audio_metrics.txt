@@ -1,0 +1,198 @@
+# Audio metrics — voice/narration.mp3 — 2026-09-27
+sha256 37925de1a1d75c0a6c3b7204e28f7731ef1cefb5460fb84f874967f57ff0d914
+duration_sec 1334.880
+integrated_lufs -15.3 (target -16..-14)
+loudness_range_lu 2.5
+true_peak_dbfs -1.6 (max -1.0)
+clipping_risk no
+silences_over_1.5s 0
+words expected 3637 / heard 3115 / wpm 140
+mismatches (time — expected → heard):
+  00:00.00  delete: "narrator harrison spoken text plain paragraphs only headings and html comments are not spoken assembly order part 1 part 2 part 3 part 4 part 5 switch gov 1 part 6 switch gov 2 part 7 parts 1 7 can be voiced now switch gov 1 and 2 are voiced after the c060 refresh sept 29 pick the same variant letter for both voice only the chosen variant's text" → "" [NUMBER]
+  00:00.44  replace: "twenty seventeen" → "2017" [NUMBER]
+  00:10.80  replace: "arithmetic fifty two" → "a rhythmatic 52" [NUMBER]
+  00:14.02  replace: "twenty" → "20" [NUMBER]
+  00:15.72  replace: "one thousand forty" → "1 040" [NUMBER]
+  00:20.90  replace: "one million two hundred seven thousand one hundred twenty eight dollars" → "1 207 128" [NUMBER]
+  00:31.78  replace: "twenty twenty six" → "2026" [NUMBER]
+  00:39.26  replace: "eight million ninety one thousand eight hundred forty three dollars and sixty four cents" → "8 091 843 64" [NUMBER]
+  01:10.20  replace: "ten thousand" → "10 000" [NUMBER]
+  01:28.50  replace: "sixth" → "6th" [NUMBER]
+  01:59.46  replace: "b e t" → "bet"
+  02:16.74  replace: "twenty seventeen" → "2017" [NUMBER]
+  02:18.80  replace: "you're" → "your"
+  02:27.44  replace: "thirty five" → "35" [NUMBER]
+  02:28.40  replace: "billboard's" → "billboards"
+  02:35.48  replace: "billboard's" → "billboards"
+  02:47.46  replace: "twenty seventeen" → "2017" [NUMBER]
+  02:53.76  replace: "bot" → "bought"
+  03:11.74  replace: "rightsholder's" → "rights holder"
+  03:28.24  replace: "artists" → "artist"
+  03:39.98  replace: "prosecutors'" → "prosecutors"
+  03:48.02  replace: "on to" → "onto"
+  03:54.62  replace: "twenty seventeen" → "2017" [NUMBER]
+  04:06.80  replace: "bot" → "bought"
+  04:21.98  replace: "v p ns" → "vpns"
+  04:51.16  replace: "twenty nineteen" → "2019" [NUMBER]
+  05:00.12  replace: "warnings" → "warning"
+  05:08.60  replace: "twenty eighteen" → "2018" [NUMBER]
+  05:40.34  replace: "twenty nineteen" → "2019" [NUMBER]
+  05:41.92  replace: "a" → "the"
+  05:56.56  replace: "twenty nineteen" → "2019" [NUMBER]
+  05:59.56  replace: "smith's" → "smith"
+  06:05.86  replace: "publicist's" → "publicist"
+  06:12.16  replace: "fourth twenty eighteen" → "4 2018" [NUMBER]
+  06:37.72  replace: "eighteenth" → "18" [NUMBER]
+  06:51.58  replace: "ten thousand" → "10 000" [NUMBER]
+  06:59.10  replace: "twenty nineteen" → "2019" [NUMBER]
+  07:10.80  replace: "songs" → "song's"
+  07:16.46  replace: "two thousand dollars" → "2 000" [NUMBER]
+  07:18.68  replace: "fifteen percent" → "15" [NUMBER]
+  07:32.16  replace: "zygophyceae" → "zygophicia"
+  07:34.82  replace: "washstands" → "wash stands"
+  07:36.90  replace: "bedewing" → "bedouin"
+  07:39.08  replace: "calliope" → "kaliope"
+  07:51.90  replace: "'music '" → "music"
+  07:53.08  replace: "'instant" → "instant"
+  07:54.90  delete: "'" → ""
+  08:08.26  replace: "fifth twenty nineteen" → "5 2019" [NUMBER]
+  08:12.90  replace: "we are" → "we're"
+  08:13.44  replace: "eighty eight" → "88" [NUMBER]
+  08:19.72  replace: "one hundred ten thousand dollars" → "110 000" [NUMBER]
+  08:23.94  replace: "ten percent" → "10" [NUMBER]
+  08:26.52  replace: "ten thousand" → "10 000" [NUMBER]
+  08:30.66  replace: "years" → "year's"
+  08:34.24  replace: "twenty twenty" → "2020" [NUMBER]
+  08:38.96  replace: "ten x" → "10x" [NUMBER]
+  08:39.58  replace: "twenty x" → "20x" [NUMBER]
+  08:45.68  replace: "allege" → "alleged"
+  08:47.66  replace: "ten thousand" → "10 000" [NUMBER]
+  08:48.84  replace: "bot accounts" → "body counts"
+  08:52.94  replace: "twenty twenty" → "2020" [NUMBER]
+  08:53.86  replace: "twenty twenty three" → "2023" [NUMBER]
+  08:57.48  replace: "one point three" → "1 3" [NUMBER]
+  08:58.76  delete: "dollars" → ""
+  09:01.22  replace: "s m h" → "smh"
+  09:08.34  replace: "bot accounts" → "body counts"
+  09:15.68  replace: "'human'" → "human"
+  09:19.80  replace: "twenty twenty three" → "2023" [NUMBER]
+  09:23.54  replace: "songwriters'" → "songwriter's"
+  09:25.66  replace: "m l c" → "mlc"
+  09:39.20  replace: "twenty nineteen" → "2019" [NUMBER]
+  09:43.16  replace: "m l c's" → "mlc's"
+  09:49.36  replace: "m l c" → "mlc"
+  09:58.52  replace: "twenty twenty four" → "2024" [NUMBER]
+  10:01.36  replace: "m l c" → "mlc"
+  10:10.30  replace: "twelve" → "12" [NUMBER]
+  10:11.18  delete: "dollars" → ""
+  10:12.46  replace: "twenty nineteen" → "2019" [NUMBER]
+  10:15.94  replace: "quote it" → "quoted"
+  10:23.32  replace: "fourth twenty twenty four" → "4 2024" [NUMBER]
+  10:42.94  replace: "twenty" → "20" [NUMBER]
+  10:46.84  replace: "ten" → "10" [NUMBER]
+  10:47.50  delete: "dollars" → ""
+  10:49.38  replace: "u s" → "us"
+  10:56.98  replace: "five hundred thousand dollar" → "500 000" [NUMBER]
+  10:58.74  replace: "recognizance" → "reconnaissance"
+  11:03.00  replace: "twenty twenty six" → "2026" [NUMBER]
+  11:07.16  replace: "sixth" → "6th" [NUMBER]
+  11:11.54  replace: "twenty" → "20" [NUMBER]
+  11:15.10  replace: "twenty twenty four" → "2024" [NUMBER]
+  11:20.34  replace: "nineteenth twenty twenty six" → "19th 2026" [NUMBER]
+  11:30.80  replace: "three seventy one" → "371" [NUMBER]
+  11:45.18  replace: "u s" → "us"
+  11:46.80  replace: "koeltl" → "kotl"
+  11:55.58  replace: "twenty" → "20" [NUMBER]
+  12:02.48  replace: "eight" → "8" [NUMBER]
+  12:03.44  replace: "ninety one thousand eight hundred forty three dollars and sixty four cents" → "91 843 64" [NUMBER]
+  12:09.90  replace: "twenty twenty six" → "2026" [NUMBER]
+  12:26.70  replace: "eight" → "8" [NUMBER]
+  12:27.20  replace: "dollars and" → "in"
+  12:48.42  replace: "twenty twenty four" → "2024" [NUMBER]
+  12:59.88  replace: "eight" → "8" [NUMBER]
+  13:00.42  delete: "dollars" → ""
+  13:19.14  replace: "twelve" → "12" [NUMBER]
+  13:20.84  delete: "dollars" → ""
+  13:22.90  replace: "ten" → "10" [NUMBER]
+  13:24.44  delete: "dollars" → ""
+  13:26.44  replace: "eight" → "8" [NUMBER]
+  13:28.08  delete: "dollars" → ""
+  13:29.96  replace: "ten" → "10" [NUMBER]
+  13:30.56  replace: "eight" → "8" [NUMBER]
+  13:38.32  replace: "eight" → "8" [NUMBER]
+  13:39.36  delete: "dollars" → ""
+  13:48.24  replace: "sixty thousand dollars" → "60 000" [NUMBER]
+  13:57.24  replace: "eight" → "8" [NUMBER]
+  13:59.02  delete: "dollars" → ""
+  14:11.96  replace: "sixty thousand dollars" → "60 000" [NUMBER]
+  14:14.02  replace: "ten" → "10" [NUMBER]
+  14:14.80  delete: "dollars" → ""
+  14:26.10  replace: "fifteen hundred dollars" → "1 500" [NUMBER]
+  14:28.62  replace: "songwriters'" → "songwriter's"
+  14:30.26  replace: "m l c" → "mlc"
+  14:38.38  replace: "boomplay tidal" → "boom play title"
+  14:52.62  replace: "companies'" → "company's"
+  15:00.48  replace: "lewan" → "lewin"
+  15:33.80  replace: "i f p i" → "ifpi"
+  15:43.90  replace: "artists'" → "artist's"
+  15:45.36  replace: "spread" → "spreads"
+  15:54.66  replace: "twenty second twenty twenty six" → "22nd 2026" [NUMBER]
+  16:27.28  replace: "mister" → "mr"
+  16:34.00  replace: "forty six" → "46" [NUMBER]
+  16:34.88  replace: "fifty seven" → "57" [NUMBER]
+  16:37.94  replace: "twenty four" → "24" [NUMBER]
+  16:40.36  replace: "five" → "5" [NUMBER]
+  16:44.82  replace: "two b one point one" → "2b1 1" [NUMBER]
+  16:48.06  replace: "mister" → "mr"
+  16:59.14  replace: "sixth twenty twenty six" → "6th 2026" [NUMBER]
+  17:02.08  replace: "koeltl" → "koldle"
+  17:35.04  replace: "to" → "a"
+  17:40.92  delete: "plays right after part 5 right before part 6 same letter as switch gov 2 variant a has two blanks to fill from c060 before tts spelled out" → "" [NUMBER]
+  17:41.00  replace: "words date filing day expected twenty eighth amount what prosecutors asked for e g months write in words do not voice with blanks never federal officials recommended two years the 24 month figure is the probation office c058 on september date prosecutors filed their sentencing submission they asked for amount as this film was finished at the end of september twenty twenty six the government's sentencing submission had not been made public in twenty eighteen" → "2018" [NUMBER]
+  17:48.06  replace: "twenty twenty six" → "2026" [NUMBER]
+  17:53.32  replace: "ninety thousand" → "90 000" [NUMBER]
+  17:55.82  replace: "tracks a day" → "trucks"
+  18:02.30  replace: "one to three percent" → "1 3" [NUMBER]
+  18:05.74  replace: "eighty five percent" → "85" [NUMBER]
+  18:07.52  replace: "twenty twenty five" → "2025" [NUMBER]
+  18:13.30  replace: "artists'" → "artist"
+  18:20.56  replace: "fourteenth twenty twenty six" → "14 2026" [NUMBER]
+  18:24.28  replace: "i f p i" → "ifpi"
+  18:45.54  replace: "twenty twenty four u m g" → "2024 umg" [NUMBER]
+  18:51.48  replace: "tunecore" → "tune core"
+  18:53.62  replace: "five hundred" → "500" [NUMBER]
+  18:54.80  delete: "dollars" → ""
+  18:57.30  replace: "kendrik laamar" → "kendrick lamar"
+  18:59.08  replace: "jutin biber" → "juten bieber"
+  19:04.86  replace: "twenty twenty six" → "2026" [NUMBER]
+  19:22.84  replace: "four thousand five hundred sixty two" → "4 562" [NUMBER]
+  19:25.42  replace: "twelve" → "12" [NUMBER]
+  19:32.42  replace: "distrokid" → "distro kid"
+  19:35.22  replace: "fifteenth twenty twenty six" → "15 2026" [NUMBER]
+  19:48.44  replace: "ninety seven" → "97" [NUMBER]
+  19:49.82  replace: "ninety eight percent" → "98" [NUMBER]
+  19:54.24  replace: "suno" → "soono"
+  19:56.54  replace: "distrokid" → "distro kid"
+  20:02.20  replace: "twelve" → "12" [NUMBER]
+  20:05.70  replace: "u m g" → "umg"
+  20:15.18  replace: "distrokid's" → "distro kid's"
+  20:18.60  replace: "u m g's" → "umg's"
+  20:23.70  replace: "distrokid" → "distro kid"
+  20:35.26  replace: "twenty twenty six" → "2026" [NUMBER]
+  20:38.90  replace: "koeltl" → "coltl"
+  20:40.70  replace: "sixth" → "6" [NUMBER]
+  20:41.66  replace: "three p m" → "3pm" [NUMBER]
+  20:51.06  replace: "u s" → "us"
+  20:54.86  replace: "will" → "we'll"
+  21:05.04  replace: "twenty four" → "24" [NUMBER]
+  21:09.50  replace: "forty six" → "46" [NUMBER]
+  21:10.36  replace: "fifty seven" → "57" [NUMBER]
+  21:16.34  delete: "plays right after part 6 right before part 7 same letter as switch gov 1 variant a amount must be the same words as in switch gov 1 a do not voice with blanks whether he imposes the amount prosecutors asked for what the government asks for" → "" [NUMBER]
+  21:39.72  replace: "m l c" → "mlc"
+  21:42.38  replace: "twenty seventeen" → "2017" [NUMBER]
+  21:45.32  replace: "one thousand forty" → "1 040" [NUMBER]
+  21:47.78  replace: "one million two hundred seven thousand one hundred twenty eight" → "1 207 128" [NUMBER]
+  22:03.62  replace: "eight million ninety one thousand eight hundred forty three dollars and sixty four cents" → "8 091 843 64" [NUMBER]
+  22:10.60  replace: "sixth" → "6th" [NUMBER]
+  22:14.30  delete: "real names terms whose tts reading is uncertain no respellings applied koeltl judge john koeltl kxng crooked lewan michael lewan deezer suno distrokid tunecore boomplay believe company name should read as the ordinary word zygophyceae zygotic washstands zyme bedewing kendrik laamar jutin biber deliberate misspellings in the source will likely sound like the real names acceptable check store end streaming abuse quoted as written in source b e t v p ns s m h m l c i f p i u m g check each is read letter by letter ten x to twenty x quote 10x 20x should sound as ten ex to twenty ex section three seventy one section two b one point one" → "" [NUMBER]
+mismatch_count 187
