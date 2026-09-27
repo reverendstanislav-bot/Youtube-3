@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: visual
-next_action: "Phase 5: visual-director Mode 1 (beats from words.json). SWITCH-GOV 1/2 voiced + re-joined after Sept 29 (shifts timings after PART 5)."
+next_action: "Owner generates 22 images from _handoff/2026-09-27_003_img into return/ → yt.py ingest 003 → visual-director Mode 2"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -16,7 +16,7 @@ gates:
   g1_topic_go_and_concept: APPROVED
   g2_script_and_shorts_lock: APPROVED
   g3_voice_spend: APPROVED
-  g4_images_accepted: NOT_STARTED
+  g4_images_accepted: WAITING_OWNER
   g5_video_gen_accepted: NOT_STARTED
   g6_rough_cut: NOT_STARTED
   g7_shorts_cut: NOT_STARTED

@@ -693,6 +693,7 @@ KIND_DIR = {"IMG": "images", "VID": "video_gen", "THM": "thumbnail"}
 def parse_prompts(md: str) -> list[dict]:
     """prompts.md blocks: '## IMG-001 — ...' then 'beat:', 'type:', 'refs:', 'status:' lines and 'prompt:' + text."""
     out = []
+    md = re.sub(r"<!--.*?-->", "", md, flags=re.S)  # the format example lives in a comment
     for pid, body in PROMPT_BLOCK.findall(md):
         f = {"id": pid}
         for key in ("beat", "type", "refs", "status", "duration"):
@@ -746,8 +747,13 @@ def cmd_handoff(a) -> None:
                     *([f"Длительность: {p['duration']}"] if p["duration"] else []),
                     f"Сохранить как: {name}.{ext}", "Промпт:", p["prompt"], "", "-" * 70, ""]
         md = pm.read_text(encoding="utf-8")
+        notes = re.findall(r"<!--.*?-->", md, flags=re.S)
+        for i, c in enumerate(notes):  # keep the commented format example out of the status rewrite
+            md = md.replace(c, f"\x00NOTE{i}\x00", 1)
         for p in prompts:  # mark as sent so the next handoff does not repeat them
             md = re.sub(rf"(^## {p['id']}\b.*?^status:)[ \t]*[A-Z]*", r"\1 SENT", md, count=1, flags=re.M | re.S)
+        for i, c in enumerate(notes):
+            md = md.replace(f"\x00NOTE{i}\x00", c, 1)
         pm.write_text(md, encoding="utf-8")
         total += len(prompts)
     if not total:
@@ -968,15 +974,32 @@ def quote_boxes(folder: Path, mr: Path, r: dict, png: Path) -> dict | None:
     src = next((s for s in rows(folder / "1_research/sources.csv") if s["source_id"] == r["source_id"]), None)
     if not m or not src or not src.get("media_file", "").lower().endswith(".pdf"):
         return None
-    page = pymupdf.open(mr / src["media_file"])[int(m.group(1)) - 1]
-    words = r["quote"].split()
-    hits = []
-    for n in (len(words), 12, 8, 5):  # OCR layers break long phrases; fall back to the opening words
-        hits = page.search_for(" ".join(words[:n]))
+    doc = pymupdf.open(mr / src["media_file"])
+    first = int(m.group(1)) - 1
+    words = r["quote"].replace("“", '"').replace("”", '"').replace("’", "'").split()
+    hits, page = [], None
+    for pno in [first] + [i for i in range(len(doc)) if i != first]:  # named page first, then the rest
+        pg = doc[pno]
+        for n in (len(words), 12, 8, 5):  # OCR layers break long phrases; fall back to the opening words
+            if n > len(words) or n < 4:
+                continue
+            probe = " ".join(words[:n])
+            for variant in (probe, probe.replace('"', "“"), probe.replace("'", "’")):
+                hits = pg.search_for(variant)
+                if hits:
+                    break
+            if hits:
+                break
         if hits:
+            page = pg
             break
     if not hits:
         return None
+    if page.number != first:
+        png = png.with_name(f"{r['source_id']}_p{page.number + 1}.png")
+        if not png.is_file():
+            page.get_pixmap(dpi=200).save(png)
+        print(f"MOVED {r['beat_id']}: quote found on p{page.number + 1}, not p{first + 1}")
     hl = pymupdf.Rect(hits[0])
     for q in hits[1:]:
         if q.y0 - hl.y1 < 30:  # same passage only, not a later repeat
@@ -991,7 +1014,8 @@ def quote_boxes(folder: Path, mr: Path, r: dict, png: Path) -> dict | None:
     from PIL import Image
     k = Image.open(png).width / pr.width
     return {"crop_x": cx0 * k, "crop_y": cy0 * k, "crop_w": cw * k, "crop_h": ch * k,
-            "hl_x": hl.x0 * k, "hl_y": hl.y0 * k, "hl_w": hl.width * k, "hl_h": hl.height * k}
+            "hl_x": hl.x0 * k, "hl_y": hl.y0 * k, "hl_w": hl.width * k, "hl_h": hl.height * k,
+            "page_png": png.relative_to(mr).as_posix()}
 
 
 def cmd_doc_shots(a) -> None:
@@ -1019,6 +1043,7 @@ def cmd_doc_shots(a) -> None:
                 print(f"NOTFOUND {r['beat_id']}: quote not on {r['page_png']}")
                 continue
             r.update(box)
+            src = mr / r["page_png"]
         elif not r.get("crop_w"):
             print(f"SKIP  {r['beat_id']}: no quote and no crop box")
             continue
@@ -1027,7 +1052,7 @@ def cmd_doc_shots(a) -> None:
         W, H = int(w * s) // 2 * 2, int(h * s) // 2 * 2
         Y = max(120, 432 - H // 2)
         chain = [f"crop={w}:{h}:{x}:{y}"]
-        if r.get("hl_w") and r.get("hl_h"):
+        if all(r.get(k) for k in ("hl_x", "hl_y", "hl_w", "hl_h")):
             hx, hy, hw, hh = (int(float(r[k])) for k in ("hl_x", "hl_y", "hl_w", "hl_h"))
             chain.append(f"drawbox=x={hx - x}:y={hy - y}:w={hw}:h={hh}:color=0xD32222@0.22:t=fill")
             chain.append(f"drawbox=x={hx - x}:y={hy - y + hh}:w={hw}:h={max(3, int(4 / s))}:color=0xD32222@1:t=fill")
@@ -1041,6 +1066,8 @@ def cmd_doc_shots(a) -> None:
               f"drawtext=fontfile='{ff_path(font)}':textfile='{ff_path(tmp)}':x={X + 20}:y={Y - 50}:"
               f"fontsize=24:fontcolor=0xEDEDED")
         out = mr / "documents" / f"{r['beat_id']}_{Path(r['page_png']).stem}.png"
+        for old in (mr / "documents").glob(f"{r['beat_id']}_*.png"):
+            old.unlink()
         out.unlink(missing_ok=True)
         log = run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(src),
                    "-filter_complex", fc, "-frames:v", "1", str(out)])
