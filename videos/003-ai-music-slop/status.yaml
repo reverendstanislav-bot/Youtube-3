@@ -7,14 +7,14 @@ created: "2026-09-25"
 media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
-stage: script
-next_action: "Writer v1 now; release 2026-09-29/30 before Oct 6 sentencing (open-loop ending). Pull govt submission at final-check."
+stage: voice
+next_action: "writer Mode 3 (voice script, SWITCH-GOV kept as a separate TTS part) → owner connects Higgsfield → spend approval"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
 gates:
   g1_topic_go_and_concept: APPROVED
-  g2_script_and_shorts_lock: WAITING_OWNER
+  g2_script_and_shorts_lock: APPROVED
   g3_voice_spend: NOT_STARTED
   g4_images_accepted: NOT_STARTED
   g5_video_gen_accepted: NOT_STARTED
@@ -46,3 +46,4 @@ decisions:
   - {date: "2026-09-26", gate: "research", decision: "TIMING_CHANGED", note: "Owner: produce now, release 2026-09-29/30 — BEFORE the Oct 6 sentencing. Ending = open loop (sentencing Oct 6, DistroKid answer due Oct 6). Government submission (due Sept 28) to be pulled at final-check."}
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "TITLE", note: "Owner: title changed to 'He Did the Math on Fake Streams. He Owes $8 Million.' (legal HIGH on 'It Cost Him')"}
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "RUNTIME", note: "Owner: ~24 min (3721 words) accepted, no trim"}
+  - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + 10 Shorts (title: He Owes $8 Million). SWITCH-GOV line resolved Sept 29"}
