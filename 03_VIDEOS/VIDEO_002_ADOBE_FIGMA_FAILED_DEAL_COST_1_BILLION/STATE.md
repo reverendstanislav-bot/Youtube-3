@@ -57,8 +57,9 @@ VIDEO 001 precedent remains:
 - 12 final GFX
 - 115 total beats
 
-VIDEO 002 exact locked map:
-**110 beats = 85 generated + 11 authentic documents + 6 authentic UI + 8 editor GFX.**
+VIDEO 002 R9 locked map:
+**110 beats = 110 unified source-grounded final-frame generation targets (F001–F110).**
+The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX split is historical provenance only.
 
 ## Harrison preflight
 - Stage 08 Voice Script: **PASS**
@@ -85,36 +86,36 @@ VIDEO 002 exact locked map:
 - SHA-256: `6b0da92fd9bebdab69d93fb5b30c285a2aa4d2b56d64c45638f4f2647e37d259`
 
 ## Stage 11 Transcript + Visual Timeline
-- Status: **PASS / LOCKED**
+- Status: **PASS / R9 ROUTE LOCKED**
 - Canonical timed words: **2,185 / 2,185**
-- Direct ASR alignment: **94.14%**
-- Timing-aligned tokens: **5.86%**
 - Visual beats: **110**
-- GENERATED_SOURCE_STYLED: **85**
-- AUTHENTIC_DOCUMENT: **11**
-- AUTHENTIC_PRODUCT_UI: **6**
-- EDITOR_GFX: **8**
-- Base image generation: **85 × 0.5 = 42.5 credits**
-- Image generation performed: **0**
+- R9 final-frame targets: **110 / 110**
+- Canonical generation slots: **F001–F110**
+- Legacy production routes are preserved only in R9 prompt/source metadata
+- Base image generation: **110 × 0.5 = 55.0 credits**
+- Paid R9 generation performed by this change: **0**
 
 ## Stage 12 Visual Source / Generation Plan
-- Status: **PASS / R8 APPROVED EVIDENCE-EDITORIAL METHOD LOCKED**
-- Final prompts: **85 / 85**
-- Prompt revision: **R8 — APPROVED EVIDENCE-EDITORIAL FINAL FRAMES** (`12A_R8_FINAL_FRAME_PROMPTS.md`)
-- Visual style authority: `12A_R8_APPROVED_FRAME_STYLE_LOCK.md`
-- Current chat-generated archive: `13_CHAT_R8_FRAME_ARCHIVE/`
-- Current slot-addressed frames archived: **30** — G001–G020 + G026–G035
-- Binary QC: **5 PASS / 25 REJECT current archived candidates**
-- Rejected/superseded side attempts archived: **11**
-- Canonical G021–G025: **REJECT / NOT READY — only wrong-slot attempts exist**
-- Any frame with unverified exact source fidelity is **REJECT**, not HOLD.
-- Paid Higgsfield generation/retry authorization remains unchanged.
+- Status: **PASS / R9 UNIFIED 110-FRAME PROMPT SYSTEM LOCKED**
+- Canonical prompts: `12A_R9_UNIFIED_110_FINAL_FRAME_PROMPTS.md`
+- Canonical source bindings: `12A_R9_UNIFIED_110_SOURCE_BINDINGS.csv`
+- Canonical style lock: `12A_R9_STYLE_LOCK.md`
+- Coverage: **110 / 110 beats**
+- Source-bound frames: **110 / 110**
+- Source-free frames: **0**
+- Production rule: **every beat is one source-grounded finished 16:9 generation target**
+- Former document/UI/GFX routes: **retired for production; retained only as provenance/specification inputs**
+- Headline: baked into every final frame
+- Subtitle-safe: bottom **15%**
+- QC: **PASS / REJECT only**
+- Base generation scope: **110 jobs / 55.0 credits**
+- Paid jobs/retries authorized by this commit: **0 / 0**
+- Existing chat frame archive remains historical QC material and does not alter R9 prompt coverage
 
 ## Next action
-1. Regenerate every rejected slot among G001–G035 until it receives a binary PASS.
-2. Current ready count: **5 / 35**.
-3. Current rejected/not-ready count: **30 / 35**.
-4. Continue G036–G085 only under the R8 style lock and the same binary PASS/REJECT rule.
+1. Verify/materialize every `12_SOURCE_PREP/` asset referenced by the R9 110-row source-binding table.
+2. After explicit owner spend approval, generate F001–F110 in controlled batches using the R9 prompts.
+3. QC every output with **PASS / REJECT only**. No HOLD and no automatic retries.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
