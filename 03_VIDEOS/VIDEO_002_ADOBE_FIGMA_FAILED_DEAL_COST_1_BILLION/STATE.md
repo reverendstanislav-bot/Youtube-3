@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN — PASS / R8 APPROVED EVIDENCE-EDITORIAL PROMPTS LOCKED / GENERATION BLOCKED**
+- Current pipeline stage: **13_VISUAL_ASSET_QC — IN PROGRESS / R8 CHAT FRAME ARCHIVE COMMITTED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -98,27 +98,23 @@ VIDEO 002 exact locked map:
 - Image generation performed: **0**
 
 ## Stage 12 Visual Source / Generation Plan
-- Status: **PASS / R8 APPROVED EVIDENCE-EDITORIAL METHOD LOCKED / GENERATION BLOCKED**
+- Status: **PASS / R8 APPROVED EVIDENCE-EDITORIAL METHOD LOCKED**
 - Final prompts: **85 / 85**
 - Prompt revision: **R8 — APPROVED EVIDENCE-EDITORIAL FINAL FRAMES** (`12A_R8_FINAL_FRAME_PROMPTS.md`)
 - Visual style authority: `12A_R8_APPROVED_FRAME_STYLE_LOCK.md`
-- Output rule: **every image is a finished 16:9 frame with headline + authentic beat sources already visible**
-- Information rule: **source evidence is large and legible; it is never decorative**
-- Style rule: **approved NOT A FINE / THE RISK BECAME CASH language — charcoal, warm paper, ivory distressed headline, restrained red underline/bracket/highlight, cinematic directional light**
-- Variation rule: **do not default every beat to the same desk/paper setup; visual family changes with source type and story meaning**
-- Source bindings remain governed by `12A_R2_REFERENCE_BINDINGS.csv`
-- Bottom **15%** subtitle-safe lock is mandatory
-- Model/cost assumption: **Higgsfield GPT Image 2 · 1k · low · 16:9 · 0.5 credit**
-- Base scope if approved: **85 jobs / 42.5 credits**
-- Canonical R8 production frames generated so far: **0**
-- Previous R3–R7 tests are **non-canonical QC references only**
-- Retries authorized: **0**
+- Current chat-generated archive: `13_CHAT_R8_FRAME_ARCHIVE/`
+- Current slot-addressed frames archived: **30** — G001–G020 + G026–G035
+- Quick QC: **29 VISUAL_PASS_SOURCE_HOLD / 1 REJECT (G015)**
+- Rejected/superseded side attempts archived: **11**
+- Canonical G021–G025: **MISSING — wrong-slot attempts exist but are rejected**
+- Exact source fidelity remains a blocker before canonical visual lock.
+- Paid Higgsfield generation/retry authorization remains unchanged.
 
 ## Next action
-1. Prepare/verify all source inputs referenced by `12A_R8_FINAL_FRAME_PROMPTS.md` in `12_SOURCE_PREP/` (no spend).
-2. Owner approval is required before paid Higgsfield generation.
-3. Generate each G-slot as one finished source-grounded frame in the R8 approved evidence-editorial style.
-4. Run strict frame-by-frame QC; no automatic retries.
+1. Replace/fix **G015** to exact locked headline/content.
+2. Generate correct canonical **G021–G025**.
+3. Source-check the 29 visual-pass frames against exact R8 bindings; promote only exact-source frames from SOURCE_HOLD to PASS.
+4. Continue G036–G085 only under the R8 style lock and normal spend controls.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
