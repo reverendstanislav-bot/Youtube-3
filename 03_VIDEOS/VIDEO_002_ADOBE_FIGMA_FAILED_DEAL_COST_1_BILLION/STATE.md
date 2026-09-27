@@ -104,16 +104,16 @@ VIDEO 002 exact locked map:
 - Visual style authority: `12A_R8_APPROVED_FRAME_STYLE_LOCK.md`
 - Current chat-generated archive: `13_CHAT_R8_FRAME_ARCHIVE/`
 - Current slot-addressed frames archived: **30** — G001–G020 + G026–G035
-- Quick QC: **29 VISUAL_PASS_SOURCE_HOLD / 1 REJECT (G015)**
+- Quick QC: **5 PASS_VISUAL / 16 HOLD_SOURCE_VERIFY / 9 REJECT-or-EDIT current candidates**
 - Rejected/superseded side attempts archived: **11**
 - Canonical G021–G025: **MISSING — wrong-slot attempts exist but are rejected**
 - Exact source fidelity remains a blocker before canonical visual lock.
 - Paid Higgsfield generation/retry authorization remains unchanged.
 
 ## Next action
-1. Replace/fix **G015** to exact locked headline/content.
+1. Fix/regenerate **G006, G008, G010–G016**.
 2. Generate correct canonical **G021–G025**.
-3. Source-check the 29 visual-pass frames against exact R8 bindings; promote only exact-source frames from SOURCE_HOLD to PASS.
+3. Source-check the **16 HOLD_SOURCE_VERIFY** frames against exact R8 bindings.
 4. Continue G036–G085 only under the R8 style lock and normal spend controls.
 
 ## Spend lock
