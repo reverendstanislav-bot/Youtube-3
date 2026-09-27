@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: voice
-next_action: "writer Mode 3 (voice script, SWITCH-GOV kept as a separate TTS part) → owner connects Higgsfield → spend approval"
+next_action: "G3: owner spend approval for TTS of PART 1–7 (~70 credits); SWITCH-GOV 1/2 voiced after Sept 29 C060 refresh"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -47,3 +47,4 @@ decisions:
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "TITLE", note: "Owner: title changed to 'He Did the Math on Fake Streams. He Owes $8 Million.' (legal HIGH on 'It Cost Him')"}
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "RUNTIME", note: "Owner: ~24 min (3721 words) accepted, no trim"}
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + 10 Shorts (title: He Owes $8 Million). SWITCH-GOV line resolved Sept 29"}
+  - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + Shorts. SWITCH-GOV line to be voiced as a separate segment after Sept 28 filing. Title wording (It Cost Him vs He Owes) not yet decided."}
