@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-27"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Fix G006, G008, G010-G016; generate canonical G021-G025; source-verify 16 held frames; then continue R8 G036-G085."
+next_action: "Binary QC only: 5/35 PASS, 30/35 REJECT or not ready. Regenerate rejected G001-G035 slots; then continue R8 G036-G085."
 blockers: []
 
 stages:
@@ -99,9 +99,12 @@ assets:
   stage_13_archived_current_frames: "30"
   stage_13_archived_rejected_attempts: "11"
   stage_13_visual_pass: "5"
-  stage_13_visual_pass_source_hold: "16"
-  stage_13_reject_count: "20"
+  stage_13_visual_pass_source_hold: "0"
+  stage_13_reject_count: "30"
   stage_13_missing_canonical_slots: "G021-G025"
+  stage_13_qc_policy: "BINARY_PASS_OR_REJECT_ONLY"
+  stage_13_ready_slots_g001_g035: "5"
+  stage_13_rejected_or_not_ready_slots_g001_g035: "30"
 
 qa:
   topic: "PASS"

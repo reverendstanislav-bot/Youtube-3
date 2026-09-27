@@ -104,17 +104,17 @@ VIDEO 002 exact locked map:
 - Visual style authority: `12A_R8_APPROVED_FRAME_STYLE_LOCK.md`
 - Current chat-generated archive: `13_CHAT_R8_FRAME_ARCHIVE/`
 - Current slot-addressed frames archived: **30** — G001–G020 + G026–G035
-- Quick QC: **5 PASS_VISUAL / 16 HOLD_SOURCE_VERIFY / 9 REJECT-or-EDIT current candidates**
+- Binary QC: **5 PASS / 25 REJECT current archived candidates**
 - Rejected/superseded side attempts archived: **11**
-- Canonical G021–G025: **MISSING — wrong-slot attempts exist but are rejected**
-- Exact source fidelity remains a blocker before canonical visual lock.
+- Canonical G021–G025: **REJECT / NOT READY — only wrong-slot attempts exist**
+- Any frame with unverified exact source fidelity is **REJECT**, not HOLD.
 - Paid Higgsfield generation/retry authorization remains unchanged.
 
 ## Next action
-1. Fix/regenerate **G006, G008, G010–G016**.
-2. Generate correct canonical **G021–G025**.
-3. Source-check the **16 HOLD_SOURCE_VERIFY** frames against exact R8 bindings.
-4. Continue G036–G085 only under the R8 style lock and normal spend controls.
+1. Regenerate every rejected slot among G001–G035 until it receives a binary PASS.
+2. Current ready count: **5 / 35**.
+3. Current rejected/not-ready count: **30 / 35**.
+4. Continue G036–G085 only under the R8 style lock and the same binary PASS/REJECT rule.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

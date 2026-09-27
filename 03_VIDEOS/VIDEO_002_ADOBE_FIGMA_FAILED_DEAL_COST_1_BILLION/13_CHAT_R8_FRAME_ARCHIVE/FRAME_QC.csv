@@ -1,13 +1,13 @@
 file,slot,qc_status,note
-CANDIDATES/G001.jpg,G001,HOLD_SOURCE_VERIFY,Strong style; verify exact source.
-CANDIDATES/G002.jpg,G002,HOLD_SOURCE_VERIFY,Strong style; verify exact source.
-CANDIDATES/G003.jpg,G003,HOLD_SOURCE_VERIFY,Correct idea; verify exact source.
-CANDIDATES/G004.jpg,G004,HOLD_SOURCE_VERIFY,Correct idea; verify exact source photos.
-CANDIDATES/G005.jpg,G005,HOLD_SOURCE_VERIFY,Strong frame; verify exact source.
+CANDIDATES/G001.jpg,G001,REJECT_SOURCE_UNVERIFIED,Strong style; verify exact source.
+CANDIDATES/G002.jpg,G002,REJECT_SOURCE_UNVERIFIED,Strong style; verify exact source.
+CANDIDATES/G003.jpg,G003,REJECT_SOURCE_UNVERIFIED,Correct idea; verify exact source.
+CANDIDATES/G004.jpg,G004,REJECT_SOURCE_UNVERIFIED,Correct idea; verify exact source photos.
+CANDIDATES/G005.jpg,G005,REJECT_SOURCE_UNVERIFIED,Strong frame; verify exact source.
 CANDIDATES/G006.jpg,G006,REJECT_SOURCE_FIDELITY,UI appears recreated instead of exact bound source.
-CANDIDATES/G007.jpg,G007,HOLD_SOURCE_VERIFY,Verify exact source document.
-CANDIDATES/G008.jpg,G008,EDIT_FIX_SOURCE_FIDELITY,Generated condition cards are not exact source evidence.
-CANDIDATES/G009.jpg,G009,HOLD_SOURCE_VERIFY,Verify both exact sources.
+CANDIDATES/G007.jpg,G007,REJECT_SOURCE_UNVERIFIED,Verify exact source document.
+CANDIDATES/G008.jpg,G008,REJECT_SOURCE_FIDELITY,Generated condition cards are not exact source evidence.
+CANDIDATES/G009.jpg,G009,REJECT_SOURCE_UNVERIFIED,Verify both exact sources.
 CANDIDATES/G010.jpg,G010,REJECT_WRONG_SOURCE,Expected founders archival source; current office/UI staging is wrong.
 CANDIDATES/G011.jpg,G011,REJECT_WRONG_SOURCE,Expected identifier relationship treatment; current documents are wrong.
 CANDIDATES/G012.jpg,G012,REJECT_WRONG_SOURCE,Expected CEO portrait plus envelope; current term sheet is wrong.
@@ -15,20 +15,20 @@ CANDIDATES/G013.jpg,G013,REJECT_WRONG_SOURCE,Expected blank sheet/tab treatment;
 CANDIDATES/G014.jpg,G014,REJECT_WRONG_SOURCE,Expected portrait plus identifier; current agreement page is wrong.
 CANDIDATES/G015.jpg,G015,REJECT_WRONG_HEADLINE_BEAT,Headline and beat do not match locked G015.
 CANDIDATES/G016.jpg,G016,REJECT_SOURCE_FIDELITY,Shown source page appears reconstructed; exact bound source required.
-CANDIDATES/G017.jpg,G017,HOLD_SOURCE_VERIFY,Strong metaphor; verify exact identifier assets.
+CANDIDATES/G017.jpg,G017,REJECT_SOURCE_UNVERIFIED,Strong metaphor; verify exact identifier assets.
 CANDIDATES/G018.jpg,G018,PASS_VISUAL,Correct source-free metaphor and headline.
-CANDIDATES/G019.jpg,G019,HOLD_SOURCE_VERIFY,Strong frame; verify exact source crop.
+CANDIDATES/G019.jpg,G019,REJECT_SOURCE_UNVERIFIED,Strong frame; verify exact source crop.
 CANDIDATES/G020.jpg,G020,PASS_VISUAL,Correct source-free metaphor and headline.
-CANDIDATES/G026.jpg,G026,HOLD_SOURCE_VERIFY,Strong frame; verify both exact sources.
-CANDIDATES/G027.jpg,G027,HOLD_SOURCE_VERIFY,Correct beat; verify exact announcement source.
-CANDIDATES/G028.jpg,G028,HOLD_SOURCE_VERIFY,Correct institutional frame; verify exact photo source.
-CANDIDATES/G029.jpg,G029,HOLD_SOURCE_VERIFY,Correct idea; verify exact regulator page source.
-CANDIDATES/G030.jpg,G030,HOLD_SOURCE_VERIFY,Correct logic; verify exact decision source.
+CANDIDATES/G026.jpg,G026,REJECT_SOURCE_UNVERIFIED,Strong frame; verify both exact sources.
+CANDIDATES/G027.jpg,G027,REJECT_SOURCE_UNVERIFIED,Correct beat; verify exact announcement source.
+CANDIDATES/G028.jpg,G028,REJECT_SOURCE_UNVERIFIED,Correct institutional frame; verify exact photo source.
+CANDIDATES/G029.jpg,G029,REJECT_SOURCE_UNVERIFIED,Correct idea; verify exact regulator page source.
+CANDIDATES/G030.jpg,G030,REJECT_SOURCE_UNVERIFIED,Correct logic; verify exact decision source.
 CANDIDATES/G031.jpg,G031,PASS_VISUAL,Correct headline and clean institutional frame.
-CANDIDATES/G032.jpg,G032,HOLD_SOURCE_VERIFY,Good layout; verify exact regulator sources.
+CANDIDATES/G032.jpg,G032,REJECT_SOURCE_UNVERIFIED,Good layout; verify exact regulator sources.
 CANDIDATES/G033.jpg,G033,PASS_VISUAL,Correct distinction and headline.
 CANDIDATES/G034.jpg,G034,PASS_VISUAL,Correct metaphor and headline.
-CANDIDATES/G035.jpg,G035,HOLD_SOURCE_VERIFY,Strong frame; verify exact source crop.
+CANDIDATES/G035.jpg,G035,REJECT_SOURCE_UNVERIFIED,Strong frame; verify exact source crop.
 REJECTED_ATTEMPTS/REJECT_G021_WRONG_SLOT.jpg,G021,REJECT_WRONG_SLOT,Wrong headline/content.
 REJECTED_ATTEMPTS/REJECT_G022_WRONG_SLOT.jpg,G022,REJECT_WRONG_SLOT,Wrong beat.
 REJECTED_ATTEMPTS/REJECT_G023_WRONG_SLOT_A.jpg,G023,REJECT_WRONG_SLOT,Wrong staging/headline.

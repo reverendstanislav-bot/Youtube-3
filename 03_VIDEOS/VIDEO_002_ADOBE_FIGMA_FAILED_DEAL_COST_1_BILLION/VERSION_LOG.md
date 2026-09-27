@@ -46,4 +46,5 @@
 | 2026-09-27 | spend gate | v21 | R8 rewrite submitted no paid generation; base remains 85 jobs / 42.5 credits and zero retries until owner approval | Preserve spend control | LOCK |
 | 2026-09-27 | generation archive | v22 | Archived current ChatGPT R8 frame work in Git: 30 slot-addressed candidates (G001-G020, G026-G035) plus 11 rejected/superseded attempts; older 14+10 test folders retained | Remove dependence on chat history and preserve every current batch outcome | PASS |
 | 2026-09-27 | visual QC | v22 | Quick QC: 29 frames VISUAL_PASS_SOURCE_HOLD; G015 REJECT for locked-headline mismatch; wrong-slot G021-G025 attempts REJECT; canonical G021-G025 still missing | Separate visual quality from exact-source integrity before final lock | IN_PROGRESS |
+| 2026-09-27 | visual QC | v22.1 | Replaced HOLD / EDIT_FIX with owner-mandated binary PASS-or-REJECT classification. Any unverified exact-source fidelity is REJECT. G001-G035 now stands at 5 PASS / 30 REJECT-or-not-ready. | Owner requires unambiguous production readiness; no intermediate QC state is allowed | LOCK |
 
