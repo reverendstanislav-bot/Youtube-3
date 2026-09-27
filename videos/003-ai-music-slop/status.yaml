@@ -8,14 +8,14 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: voice
-next_action: "G3: owner spend approval for TTS of PART 1–7 (~70 credits); SWITCH-GOV 1/2 voiced after Sept 29 C060 refresh"
+next_action: "Enable Whisper Base (whisper.cpp) in WeftCut settings, then transcribe narration (layer on ARoll) → yt.py words → audio-metrics → audio-qc. SWITCH-GOV 1/2 after Sept 29."
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
 gates:
   g1_topic_go_and_concept: APPROVED
   g2_script_and_shorts_lock: APPROVED
-  g3_voice_spend: NOT_STARTED
+  g3_voice_spend: APPROVED
   g4_images_accepted: NOT_STARTED
   g5_video_gen_accepted: NOT_STARTED
   g6_rough_cut: NOT_STARTED
@@ -25,16 +25,17 @@ gates:
 packaging_concept: "He Did the Math on Fake Streams. He Owes $8 Million. — thumbnail: authentic indictment crop of Smith's self-emailed bot math + red $8M figure (text TBD, not 'Forfeited')"   # chosen at g1: title + thumbnail idea
 
 voice:
-  file: ""              # relative to media_root
-  sha256: ""
-  duration_sec: ""
+  file: "voice/narration.mp3"              # relative to media_root; PART 1-7 joined, SWITCH-GOV 1/2 not yet inserted
+  sha256: "3c2d11ff9a3f24e44672a128fde7b41df70467cd0cb86ccb9cd8560fe867d991"
+  duration_sec: "1334.88"
 
 final_render:
   file: ""
   sha256: ""
 
 # Every paid job. Filled by `yt.py credit`.
-credits: []
+credits:
+  - {date: "2026-09-27", provider: "higgsfield", jobs: 7, note: "TTS Harrison text2speech_v2/elevenlabs PART 1-7 (owner approved G3 ~59)", credits: 59.85}
 
 # Short log of owner decisions: - {date, gate, decision, note}
 decisions:
@@ -47,4 +48,5 @@ decisions:
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "TITLE", note: "Owner: title changed to 'He Did the Math on Fake Streams. He Owes $8 Million.' (legal HIGH on 'It Cost Him')"}
   - {date: "2026-09-26", gate: "g2_script_and_shorts_lock", decision: "RUNTIME", note: "Owner: ~24 min (3721 words) accepted, no trim"}
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + 10 Shorts (title: He Owes $8 Million). SWITCH-GOV line resolved Sept 29"}
-  - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + Shorts. SWITCH-GOV line to be voiced as a separate segment after Sept 28 filing. Title wording (It Cost Him vs He Owes) not yet decided."}
+  - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + Shorts. SWITCH-GOV line to be voiced as a separate segment after Sept 28 filing. Title: He Owes $8 Million (see TITLE entry)."}
+  - {date: "2026-09-27", gate: "g3_voice_spend", decision: "APPROVED", note: "TTS 7 parts ~59 credits approved; actual 59.85"}
