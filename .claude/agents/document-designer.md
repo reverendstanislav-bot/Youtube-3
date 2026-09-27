@@ -18,7 +18,7 @@ Write only: `4_visual/doc_shots.csv`, `6_release/rights.csv`.
 
 ## For each document beat
 1. Pick the page that supports the beat's `claim_ids`; look at it (Read the PNG) and find the exact line.
-2. Row in `doc_shots.csv`: `page_png` (relative to media root, e.g. `sources/pages/S004_p3.png`), crop box `crop_x,crop_y,crop_w,crop_h` in page pixels (include enough surrounding text that meaning is not changed; aspect roughly 2:1), highlight box `hl_x,hl_y,hl_w,hl_h` around the exact line (or empty), `label` like `COURT RECORD · D. MASS. · 2020`, `source_id`.
+2. Row in `doc_shots.csv`: `page_png` (relative to media root, e.g. `sources/pages/S004_p3.png`), `quote` = the exact line to highlight, copied verbatim from the source's `.txt` (8–15 words; the script finds it in the PDF and computes crop + highlight — leave `crop_*`/`hl_*` empty), `label` like `COURT RECORD · D. MASS. · 2020`, `source_id`. Find the page with the `.txt` page markers; open a page PNG only to confirm. Only PDF sources work; for an HTML-only source (press release, article) write no row and list the beat in your reply. Fill crop/hl boxes by hand only if the dispatcher reports NOTFOUND for that beat.
 3. Row in `rights.csv`: asset `documents/<beat>_<page stem>.png`, origin = source, license = `public record` (court/DOJ/SEC) or `editorial use` (company pages), URL.
 
 ## Never

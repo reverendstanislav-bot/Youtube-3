@@ -961,6 +961,39 @@ def ff_path(p: Path) -> str:
     return p.as_posix().replace(":", r"\:")
 
 
+def quote_boxes(folder: Path, mr: Path, r: dict, png: Path) -> dict | None:
+    """Locate r['quote'] in the source PDF page -> crop (≈2:1, with context) and highlight boxes in PNG pixels."""
+    import pymupdf
+    m = re.search(r"_p(\d+)$", Path(r["page_png"]).stem)
+    src = next((s for s in rows(folder / "1_research/sources.csv") if s["source_id"] == r["source_id"]), None)
+    if not m or not src or not src.get("media_file", "").lower().endswith(".pdf"):
+        return None
+    page = pymupdf.open(mr / src["media_file"])[int(m.group(1)) - 1]
+    words = r["quote"].split()
+    hits = []
+    for n in (len(words), 12, 8, 5):  # OCR layers break long phrases; fall back to the opening words
+        hits = page.search_for(" ".join(words[:n]))
+        if hits:
+            break
+    if not hits:
+        return None
+    hl = pymupdf.Rect(hits[0])
+    for q in hits[1:]:
+        if q.y0 - hl.y1 < 30:  # same passage only, not a later repeat
+            hl |= q
+    hl = hl + (-4, -3, 4, 3)
+    pr = page.rect
+    cw = max(pr.width - 2 * 60, hl.width + 40)
+    ch = max(cw / 2, hl.height + 90)
+    cx0 = max(0, min((pr.width - cw) / 2, hl.x0 - 10))  # page-centred text column, widened left if the quote needs it
+    cx0 = min(cx0, max(0, pr.width - cw))
+    cy0 = min(max(0, (hl.y0 + hl.y1) / 2 - ch / 2), pr.height - ch)
+    from PIL import Image
+    k = Image.open(png).width / pr.width
+    return {"crop_x": cx0 * k, "crop_y": cy0 * k, "crop_w": cw * k, "crop_h": ch * k,
+            "hl_x": hl.x0 * k, "hl_y": hl.y0 * k, "hl_w": hl.width * k, "hl_h": hl.height * k}
+
+
 def cmd_doc_shots(a) -> None:
     """Render document shots from 4_visual/doc_shots.csv (page crop + red highlight + label) with ffmpeg."""
     folder = video_dir(a.id)
@@ -979,6 +1012,15 @@ def cmd_doc_shots(a) -> None:
         src = mr / r["page_png"]
         if not src.is_file():
             print(f"MISSING {r['beat_id']}: {r['page_png']}")
+            continue
+        if (r.get("quote") or "").strip():
+            box = quote_boxes(folder, mr, r, src)
+            if not box:
+                print(f"NOTFOUND {r['beat_id']}: quote not on {r['page_png']}")
+                continue
+            r.update(box)
+        elif not r.get("crop_w"):
+            print(f"SKIP  {r['beat_id']}: no quote and no crop box")
             continue
         x, y, w, h = (int(float(r[k])) for k in ("crop_x", "crop_y", "crop_w", "crop_h"))
         s = min(1560 / w, 700 / h)
