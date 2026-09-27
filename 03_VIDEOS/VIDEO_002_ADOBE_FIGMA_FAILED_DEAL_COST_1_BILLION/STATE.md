@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN — PASS / R6 BACKPLATE+COMPOSITE LOCKED / GENERATION BLOCKED**
+- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN — PASS / R7 FINAL-FRAME PROMPTS LOCKED / GENERATION BLOCKED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -98,24 +98,25 @@ VIDEO 002 exact locked map:
 - Image generation performed: **0**
 
 ## Stage 12 Visual Source / Generation Plan
-- Status: **PASS / R6 BACKPLATE+EXACT-COMPOSITE METHOD LOCKED / GENERATION BLOCKED**
-- Final backplate prompts: **85 / 85**
-- Prompt revision: **R6 — BACKPLATE ONLY + DETERMINISTIC SOURCE/HEADLINE COMPOSITE** (`12A_R6_BACKPLATE_COMPOSITE_PROMPTS.md`)
-- R6 source rule: **the image model never recreates authentic documents, UI, logos, portraits or photos**
-- R6 typography rule: **zero model-generated readable text; all 85 locked headlines are editor-native**
-- Authentic source inserts remain bound by `12A_R2_REFERENCE_BINDINGS.csv` and prepared through `12A_R2_SOURCE_PREP_QUEUE.csv`
-- Source-bound backplates are incomplete until exact `12_SOURCE_PREP/` assets are composited without generative resynthesis
+- Status: **PASS / R7 FINAL-FRAME METHOD LOCKED / GENERATION BLOCKED**
+- Final prompts: **85 / 85**
+- Prompt revision: **R7 — FINAL FRAME WITH SOURCES + HEADLINE BAKED IN** (`12A_R7_FINAL_FRAME_PROMPTS.md`)
+- Output rule: **every paid image job must return one finished 16:9 frame ready for edit**
+- Headline rule: **locked headline is rendered directly in the final image**
+- Source rule: **all bound `12_SOURCE_PREP/` assets are attached and visible in the final frame; no placeholder/backplate-only output**
+- Authentic source bindings remain governed by `12A_R2_REFERENCE_BINDINGS.csv` and `12A_R2_SOURCE_PREP_QUEUE.csv`
 - Bottom 22% subtitle-safe lock remains mandatory
-- Model/cost assumption remains: **Higgsfield GPT Image 2 · 1k · low · 16:9 · 0.5 credit**
-- Base backplate spend if approved: **42.5 credits**
-- Canonical production backplates generated so far: **0**
-- Prior chat test generations are **non-canonical QC references only** and do not count toward the asset lock
+- Model/cost assumption: **Higgsfield GPT Image 2 · 1k · low · 16:9 · 0.5 credit**
+- Base scope if approved: **85 jobs / 42.5 credits**
+- Canonical production frames generated so far: **0**
+- Previous R3/R4/R5/R6 chat generations remain **non-canonical QC references only**
 - Retries authorized: **0**
 
 ## Next action
-1. Prepare the 41 source inputs in `12A_R2_SOURCE_PREP_QUEUE.csv` into `12_SOURCE_PREP/` (no spend).
-2. Owner approval is required before any paid Higgsfield backplate job.
-3. After each approved backplate, composite the exact bound source assets and headline deterministically; do not ask the image model to reproduce evidence.
+1. Prepare/verify all source inputs referenced by `12A_R7_FINAL_FRAME_PROMPTS.md` in `12_SOURCE_PREP/` (no spend).
+2. Owner approval is required before paid Higgsfield generation.
+3. Generate each G-slot as one finished frame with all required source inputs + locked headline already visible.
+4. Run frame-by-frame QC; no automatic retries.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

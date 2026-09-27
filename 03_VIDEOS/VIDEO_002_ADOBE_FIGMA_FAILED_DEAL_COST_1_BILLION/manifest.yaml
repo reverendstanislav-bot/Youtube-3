@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-25"
 current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage12A-R6 backplate+exact-composite prompts locked. Prepare 41 source inputs into 12_SOURCE_PREP; owner approval required before any paid Higgsfield backplate job; then composite exact source pixels and editor-native headlines deterministically."
+next_action: "Stage12A-R7 final-frame prompt pack locked. Verify 12_SOURCE_PREP inputs, then owner approval is required before paid generation. Each G-slot must output one final 16:9 frame with required sources and locked headline already visible."
 blockers: []
 
 stages:
@@ -87,12 +87,12 @@ assets:
   stage_12_editor_gfx_count: "8"
   stage_12_base_image_cost_credits: "42.5"
   stage_12_paid_generation_authorized: false
-  stage_12_prompt_pack: "12A_R6_BACKPLATE_COMPOSITE_PROMPTS.md"
-  stage_12_prompt_revision: "R6_BACKPLATE_EXACT_COMPOSITE"
+  stage_12_prompt_pack: "12A_R7_FINAL_FRAME_PROMPTS.md"
+  stage_12_prompt_revision: "R7_FINAL_FRAME_SOURCES_HEADLINE_BAKED_IN"
   stage_12_generation_model: "higgsfield gpt_image_2 | 1k | low | 16:9 | 0.5 credit"
-  stage_12_generation_method: "BACKPLATE_ONLY_THEN_EXACT_EDITOR_COMPOSITE"
-  stage_12_generated_text_policy: "NONE_MODEL_GENERATED_HEADLINES_EDITOR_NATIVE"
-  stage_12_source_fidelity_policy: "EXACT_12_SOURCE_PREP_PIXELS_NO_GENERATIVE_RESYNTHESIS"
+  stage_12_generation_method: "FINAL_FRAME_WITH_ATTACHED_SOURCES_AND_BAKED_HEADLINE"
+  stage_12_generated_text_policy: "LOCKED_HEADLINE_ONLY_BAKED_IN"
+  stage_12_source_fidelity_policy: "ATTACH_BOUND_12_SOURCE_PREP_ASSETS_AND_PRESERVE_VISIBLE_SOURCE_CONTENT"
   stage_12_source_prep_queue: "12A_R2_SOURCE_PREP_QUEUE.csv"
   stage_12_source_prep_status: "NOT_STARTED"
 
