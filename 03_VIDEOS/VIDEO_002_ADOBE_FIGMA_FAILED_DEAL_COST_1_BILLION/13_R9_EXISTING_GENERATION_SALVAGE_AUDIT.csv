@@ -1,0 +1,42 @@
+legacy_file,legacy_slot,r9_frame,r9_beat,qc_status,reason
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg,G001,F002,B002,PASS,Exact locked headline NOT A FINE; evidence-led Section 8.2 treatment matches R9 composition and legal meaning.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg,G002,F003,B003,PASS,Exact CONTRACTUAL EXIT COST headline; Adobe/Figma deal graphic is the visual anchor and frame matches R9 style.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G003.jpg,G003,F004,B004,PASS,Exact NEGOTIATED BEFORE FAILURE headline; July 20 negotiation evidence is visually central and consistent with the locked beat.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg,G004,F005,B005,PASS,Exact PRICING THE RISK headline; Adobe HQ + Figma event relationship is clear and source-driven.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G005.jpg,G005,F006,B006,PASS,Exact THE RISK BECAME CASH headline; payment evidence is readable and matches the approved evidence-editorial look.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G009.jpg,G009,F015,B015,PASS,Exact THE OTHER NUMBER headline; announcement plus Section 8.2 layered evidence directly communicates the beat.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg,G017,F028,B028,PASS,Exact RISK ALLOCATION headline; Adobe/Figma identifiers plus risk block communicate contractual allocation cleanly.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg,G019,F031,B031,PASS,Exact NOT A PENALTY headline; clause wording and highlight directly support the narration.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G026.jpg,G026,F039,B039,PASS,Exact THE HIDDEN FAILURE MECHANISM headline; deal announcement and Section 8.2 are combined into the intended reveal.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G027.jpg,G027,F040,B040,PASS,Exact DEEPER IN THE AGREEMENT headline; announcement sits above/deeper-contract visual architecture consistent with the beat.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G028.jpg,G028,F041,B041,PASS,Exact 2023: THE RISK ARRIVES headline; institutional EC context frame is clean and on-story.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G029.jpg,G029,F042,B042,PASS,Exact UK REVIEW OPENS headline; CMA inquiry page treatment clearly communicates launch of review.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G031.jpg,G031,F044,B044,PASS,Exact EU IN-DEPTH REVIEW headline; EC building is the sole dominant institutional source and composition is strong.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg,G033,F047,B047,PASS,Exact INVESTIGATION ≠ LAWSUIT headline; DOJ context and empty tray/folder metaphor correctly distinguish investigation from filed lawsuit.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G035.jpg,G035,F049,B049,PASS,Exact THE CLAUSE DIDN'T CHANGE headline; Section 8.2 remains the visual hero and beat meaning is immediate.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G006.jpg,G006,F011,B011,REJECT,UI is visibly recreated rather than exact product UI.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G007.jpg,G007,F013,B013,REJECT,Displayed document treatment does not match the exact required 8-K source crop.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G008.jpg,G008,F014,B014,REJECT,Generated condition cards add unsupported readable copy; R9 permits only source-native text plus locked headline.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G010.jpg,G010,F017,B017,REJECT,Wrong archival source for BEFORE 2022; does not show the required founders archival image.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G011.jpg,G011,F018,B018,REJECT,Invented memo/documents replace identifier-led source treatment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G012.jpg,G012,F019,B019,REJECT,Invented confidential term sheet replaces the required Narayen portrait source.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G013.jpg,G013,F021,B021,REJECT,Fabricated proposal with unrelated company names; unusable evidence.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G014.jpg,G014,F024,B024,REJECT,Fabricated merger-agreement page replaces required Field portrait + Adobe identifier sources.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G015.jpg,G015,F026,B026,REJECT,Wrong locked headline and fabricated signature treatment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G016.jpg,G016,F027,B027,REJECT,10-Q page is reconstructed and contains inconsistent filing/date treatment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G018.jpg,G018,F029,B029,REJECT,Metaphor omits the mandatory R9 source attachment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G020.jpg,G020,F032,B032,REJECT,Metaphor omits the mandatory R9 termination-source attachment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G030.jpg,G030,F043,B043,REJECT,Phase Two visual contains inconsistent/incorrect decision-date document treatment.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G032.jpg,G032,F046,B046,REJECT,Formal-objections composition uses a questionable Phase 1 document treatment and cannot be trusted as exact source evidence.
+13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G034.jpg,G034,F048,B048,REJECT,Merger document is generic/reconstructed rather than exact required 8-K source crop.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_G021_WRONG_SLOT.jpg,G021,,,REJECT,Headline A $20 BILLION DEAL does not match any required R9 locked headline exactly.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_G022_WRONG_SLOT.jpg,G022,,,REJECT,Headline THE DEAL COLLAPSES does not match the locked R9 frame system.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_G023_WRONG_SLOT_A.jpg,G023,,,REJECT,Invented handshake/person staging and noncanonical headline.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_G024_WRONG_SLOT.jpg,G024,,,REJECT,Noncanonical headline and generic deal-staging; no direct R9 match.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_G025_WRONG_SLOT.jpg,G025,F006,B006,REJECT,"Good alternate THE RISK BECAME CASH concept, but F006 is already filled by the stronger current G005 candidate; retain as backup only."
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G026_01.jpg,pre-G026,,,REJECT,Noncanonical headline/staging and fabricated people.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G026_02.jpg,pre-G026,,,REJECT,Noncanonical headline/staging and fabricated people.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G026_03.jpg,pre-G026,,,REJECT,Noncanonical headline THE DEAL IS ANNOUNCED; not a direct R9 match.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G031_01.jpg,pre-G031,,,REJECT,Noncanonical headline and synthetic transaction-summary document.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G031_02.jpg,pre-G031,,,REJECT,Noncanonical headline and synthetic SEC document.
+13_CHAT_R8_FRAME_ARCHIVE/REJECTED_ATTEMPTS/REJECT_PRE_G031_03.jpg,pre-G031,,,REJECT,Factually unsafe 'deal was blocked' framing.
