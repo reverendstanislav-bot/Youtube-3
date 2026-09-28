@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-27"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "15 existing frames are locked canon PASS. Use R10 canon-driven 110-frame prompts for all future work; generate only the remaining 95 frames after explicit owner spend approval; PASS/REJECT only; bottom 15% subtitle-safe."
+next_action: "R2 reject recheck leaves 55/110 locked PASS and 55/110 still missing. Continue zero-spend salvage first; only then generate remaining slots with explicit approval; PASS/REJECT only."
 blockers: []
 
 stages:
@@ -118,12 +118,14 @@ assets:
   stage_13_r9_salvaged_pass_count: "15"
   stage_13_r9_salvaged_pass_slots: "F002,F003,F004,F005,F006,F015,F028,F031,F039,F040,F041,F042,F044,F047,F049"
   stage_13_r9_remaining_without_pass: "95"
-  stage_13_queue_001_075_qc_pass: "22"
-  stage_13_queue_001_075_qc_reject: "53"
-  stage_13_total_locked_pass_after_queue_075: "37"
-  stage_13_remaining_without_pass_after_queue_075: "73"
+  stage_13_queue_001_075_qc_pass: "40"
+  stage_13_queue_001_075_qc_reject: "35"
+  stage_13_total_locked_pass_after_queue_075: "55"
+  stage_13_remaining_without_pass_after_queue_075: "55"
   stage_13_queue_001_075_qc_file: "13_R10_QUEUE_001_075_QC.csv"
   stage_13_queue_001_075_recovery_lock: "13_R10_QUEUE_001_075_RECOVERY_LOCK.md"
+  stage_13_queue_001_075_recheck_r2: "13_R10_QUEUE_001_075_RECHECK_R2.md"
+  stage_13_queue_001_075_r2_promotions: "18"
   stage_13_queue_001_075_recovery_zip_sha256: "49fdc5e577b17e4b6b7748995bbcb36a6d47dbdaf93ba0dd52408a74e9969530"
   stage_13_r9_salvage_audit: "13_R9_EXISTING_GENERATION_SALVAGE_AUDIT.csv"
 

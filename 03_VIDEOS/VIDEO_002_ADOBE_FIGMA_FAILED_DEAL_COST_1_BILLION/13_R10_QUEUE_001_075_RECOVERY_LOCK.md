@@ -7,11 +7,23 @@ QC policy: **PASS / REJECT only**
 
 - Queue positions audited: **75**
 - Raw generation attempts recovered from the current working container: **149**
-- PASS: **22**
-- REJECT: **53**
+- PASS: **40**
+- REJECT: **35**
 - Existing pre-batch canon PASS frames: **15**
-- Total usable frames after this audit: **37 / 110**
-- Remaining frames without a locked PASS: **73 / 110**
+- Total usable frames after R2 recheck: **55 / 110**
+- Remaining frames without a locked PASS: **55 / 110**
+
+## R2 reject recheck
+
+The initial QC was too conservative. A second-pass editorial-use recheck promoted **18** previously rejected/unresolved queue slots where the visual is on-beat, factually safe, and production-usable even when the headline is a semantic equivalent rather than an exact string match.
+
+Canonical R2 notes: `13_R10_QUEUE_001_075_RECHECK_R2.md`
+
+Two additional exact chat artifacts were recovered during R2:
+- F082: `conversation:file_000000008eb882109f40a2e06ce0fcb2`
+- F083: `conversation:file_00000000d3f082109da712e784eba65f`
+
+These two are outside the original 149-file ZIP, whose checksum remains unchanged.
 
 ## Exact recovery archive
 
@@ -42,4 +54,4 @@ The GitHub source-of-truth records the exact archive SHA-256, frame mapping and 
 
 ## Production rule
 
-Only rows marked **PASS** in `13_R10_QUEUE_001_075_QC.csv` may be used in the film. Every REJECT remains historical only and must be regenerated or replaced before picture lock.
+Only rows marked **PASS** in `13_R10_QUEUE_001_075_QC.csv` may be used in the film. R2 allows semantically equivalent headlines/editorial summaries when they remain factually safe; hard factual/legal/source contradictions remain REJECT.

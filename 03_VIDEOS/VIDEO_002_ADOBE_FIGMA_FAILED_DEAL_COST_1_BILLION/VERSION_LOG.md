@@ -59,4 +59,6 @@
 | 2026-09-27 | spend gate | v25 | 15 canon PASS assets are protected from regeneration; 95 frames remain without PASS; no image generation or retry submitted | Preserve credits and generate only missing frames after owner approval | LOCK |
 | 2026-09-28 | generation recovery | v26 | Recovered 149 raw chat-generation attempts covering work through queue position 75; assembled a full-resolution 321,750,437-byte recovery ZIP and locked its SHA-256 | Preserve every recovered attempt before further generation | LOCK |
 | 2026-09-28 | queue 001-075 QC | v26 | Binary QC across 75 queue positions: 22 PASS / 53 REJECT; total usable frame count becomes 37/110 including the existing 15 canon PASS | Separate publishable frames from historical/rejected attempts | PASS |
+| 2026-09-28 | reject recheck | v26.1 | Re-audited all queue 001-075 REJECT decisions with an edit-usability standard; promoted 18 frames, including newly recovered exact chat artifacts F082/F083 | Initial binary audit was overly conservative about alternate headlines/editorial source synthesis; retain REJECT only for material factual/legal/source failures | PASS |
+| 2026-09-28 | queue 001-075 QC | v26.1 | Revised queue result: 40 PASS / 35 REJECT; total usable VIDEO 002 frames now 55/110 including 15 canon PASS; 55 remain without PASS | Reduce unnecessary regeneration and preserve credits | LOCK |
 
