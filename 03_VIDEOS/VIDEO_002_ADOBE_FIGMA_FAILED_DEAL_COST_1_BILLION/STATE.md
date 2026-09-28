@@ -97,9 +97,9 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 
 ## Stage 12 Visual Source / Generation Plan
 - Status: **PASS / R9 UNIFIED 110-FRAME PROMPT SYSTEM LOCKED**
-- Canonical prompts: `12A_R9_UNIFIED_110_FINAL_FRAME_PROMPTS.md`
+- Canonical prompts: `12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md`
 - Canonical source bindings: `12A_R9_UNIFIED_110_SOURCE_BINDINGS.csv`
-- Canonical style lock: `12A_R9_STYLE_LOCK.md`
+- Canonical style lock: `12A_R10_CANON_STYLE_FROM_PASS15.md`
 - Coverage: **110 / 110 beats**
 - Source-bound frames: **110 / 110**
 - Source-free frames: **0**
@@ -113,10 +113,11 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Existing chat frame archive remains historical provenance; the full recovery audit found **14 reusable PASS slots** across 112 distinct attempts
 
 ## Next action
-1. **Do not regenerate the 15 salvaged PASS slots** unless the owner explicitly rejects one.
-2. Continue zero-spend recovery/audit of any additional persisted chat generations if discovered.
-3. Only after recovery is exhausted, generate the remaining **95** R9 slots in controlled batches with explicit owner spend approval.
-4. QC every output with **PASS / REJECT only**.
+1. Keep the 15 canon PASS assets locked; do not regenerate them unless the owner explicitly rejects one.
+2. Use `12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md` for every future frame.
+3. Before any paid batch, attach every factual source listed in that R10 frame plus its primary canon style anchor where the generator supports style references.
+4. Generate only the remaining 95 non-PASS frames after explicit owner spend approval.
+5. QC outputs with **PASS / REJECT only**, with bottom 15% subtitle-safe.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

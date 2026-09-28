@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-27"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Reuse 14 recovered PASS frames; no new credits. Resolve the remaining 96 R9 final slots using existing/recovered assets first, then seek spend approval only for still-missing frames."
+next_action: "15 existing frames are locked canon PASS. Use R10 canon-driven 110-frame prompts for all future work; generate only the remaining 95 frames after explicit owner spend approval; PASS/REJECT only; bottom 15% subtitle-safe."
 blockers: []
 
 stages:
@@ -87,8 +87,8 @@ assets:
   stage_12_editor_gfx_count: "8 legacy beats unified into R9 final frames"
   stage_12_base_image_cost_credits: "55.0"
   stage_12_paid_generation_authorized: false
-  stage_12_prompt_pack: "12A_R9_UNIFIED_110_FINAL_FRAME_PROMPTS.md"
-  stage_12_prompt_revision: "R9_UNIFIED_110_SOURCE_GROUNDED_FINAL_FRAMES"
+  stage_12_prompt_pack: "12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md"
+  stage_12_prompt_revision: "R10_CANON_DRIVEN_FROM_15_PASS"
   stage_12_generation_model: "higgsfield gpt_image_2 | 1k | low | 16:9 | 0.5 credit"
   stage_12_generation_method: "110_UNIFIED_FINAL_FRAME_GENERATIONS_WITH_REPOSITORY_SOURCE_ATTACHMENTS"
   stage_12_generated_text_policy: "LOCKED_HEADLINE_PLUS_EXACT_BEAT_FACT_LABELS_ONLY"
@@ -99,7 +99,11 @@ assets:
   stage_12_source_bound_frame_count: "110"
   stage_12_source_free_frame_count: "0"
   stage_12_qc_policy: "PASS_OR_REJECT_ONLY"
-  stage_12_style_lock: "12A_R9_STYLE_LOCK.md"
+  stage_12_canon_pass_count: "15"
+  stage_12_canon_pass_slots: "F002,F003,F004,F005,F006,F015,F028,F031,F039,F040,F041,F042,F044,F047,F049"
+  stage_12_remaining_nonpass_count: "95"
+  stage_12_canon_prompt_summary: "12A_R10_CANON_ANCHOR_MAP.csv"
+  stage_12_style_lock: "12A_R10_CANON_STYLE_FROM_PASS15.md"
   stage_12_source_bindings: "12A_R9_UNIFIED_110_SOURCE_BINDINGS.csv"
   stage_13_chat_archive: "13_CHAT_R8_FRAME_ARCHIVE"
   stage_13_archived_current_frames: "30"
