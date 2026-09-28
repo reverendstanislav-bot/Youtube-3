@@ -112,6 +112,20 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Paid jobs/retries authorized by this commit: **0 / 0**
 - Existing chat frame archive remains historical provenance; the full recovery audit found **14 reusable PASS slots** across 112 distinct attempts
 
+## Queue 001–075 recovery audit
+- Status: **LOCKED**
+- Audited queue positions: **75**
+- Raw attempts recovered: **149**
+- New PASS from queue 001–075: **22**
+- REJECT: **53**
+- Existing canon PASS before this audit: **15**
+- Total locked usable frames now: **37 / 110**
+- Remaining without PASS: **73 / 110**
+- QC manifest: `13_R10_QUEUE_001_075_QC.csv`
+- Recovery lock: `13_R10_QUEUE_001_075_RECOVERY_LOCK.md`
+- Full recovery ZIP SHA-256: `49fdc5e577b17e4b6b7748995bbcb36a6d47dbdaf93ba0dd52408a74e9969530`
+- Policy: **PASS / REJECT only**
+
 ## Next action
 1. Keep the 15 canon PASS assets locked; do not regenerate them unless the owner explicitly rejects one.
 2. Use `12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md` for every future frame.
