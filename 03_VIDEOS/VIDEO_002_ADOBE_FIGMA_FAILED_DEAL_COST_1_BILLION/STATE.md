@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13_VISUAL_ASSET_QC — IN PROGRESS / R8 CHAT FRAME ARCHIVE COMMITTED**
+- Current pipeline stage: **13_VISUAL_ASSET_QC — IN PROGRESS / R10 QUEUE 001–075 RECOVERY RE-QC VERIFIED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -115,7 +115,11 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 ## Queue 001–075 recovery audit
 - Status: **LOCKED**
 - Audited queue positions: **75**
-- Raw attempts recovered: **149**
+- Raw attempts in original recovery ZIP: **149**
+- Additional exact persisted chat artifacts recovered after ZIP: **2**
+- Confirmed recovered generation artifacts: **151**
+- Confidently mapped queue slots: **55 / 75**
+- Unresolved queue-slot mappings: **20 / 75**
 - PASS after R2 reject recheck: **40**
 - REJECT after R2 recheck: **35**
 - Existing canon PASS before this audit: **15**
@@ -123,6 +127,8 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Remaining without PASS: **55 / 110**
 - QC manifest: `13_R10_QUEUE_001_075_QC.csv`
 - Recovery lock: `13_R10_QUEUE_001_075_RECOVERY_LOCK.md`
+- 2026-09-29 practical re-QC ledger: `13_R10_QUEUE001_075_REQC.csv`
+- 2026-09-29 re-QC summary: `13_R10_QUEUE001_075_REQC.md`
 - Full recovery ZIP SHA-256: `49fdc5e577b17e4b6b7748995bbcb36a6d47dbdaf93ba0dd52408a74e9969530`
 - Policy: **PASS / REJECT only**; semantic-equivalent headline is acceptable when the beat is factually safe and edit-usable
 
