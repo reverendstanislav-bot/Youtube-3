@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13_VISUAL_ASSET_QC — IN PROGRESS / R10 QUEUE 001–075 RECOVERY RE-QC VERIFIED**
+- Current pipeline stage: **12/13 PRE-GENERATION SOURCE PREP — R10 REMAINING55 PHYSICAL REFERENCE AUDIT COMPLETE / NOT READY**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -132,11 +132,23 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Full recovery ZIP SHA-256: `49fdc5e577b17e4b6b7748995bbcb36a6d47dbdaf93ba0dd52408a74e9969530`
 - Policy: **PASS / REJECT only**; semantic-equivalent headline is acceptable when the beat is factually safe and edit-usable
 
+## R10 remaining-55 reference readiness audit
+- R10 prompts present: **55 / 55**
+- R9 source bindings present: **55 / 55**
+- Unique required canonical reference files: **50**
+- Source/provenance definitions: **50 / 50**
+- Canonical reference binaries physically present in Git: **0 / 50**
+- Exact canonical reference filenames present in `/Youtube 3` Library: **0 / 50**
+- Frames physically ready for paid generation with all attachments: **0 / 55**
+- Audit: `12A_R10_REMAINING55_REFERENCE_READINESS.md`
+- Reference ledger: `12A_R10_REMAINING55_REFERENCE_READINESS.csv`
+- Frame queue: `12A_R10_REMAINING55_GENERATION_QUEUE.csv`
+
 ## Next action
 1. Keep all **55 current PASS frames** locked unless the owner explicitly rejects one.
-2. Continue zero-spend recovery/recheck of historical attempts before any new paid generation.
-3. Use `12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md` only for frames that still have no PASS asset.
-4. If generation resumes, target only the remaining **55 / 110** missing slots.
+2. Free/pre-generation work only: acquire/crop/render and persist the **50 canonical `12_SOURCE_PREP/*` reference files** required by the remaining 55 slots.
+3. Re-run physical attachment verification; require all mandatory refs before marking a frame generation-ready.
+4. Only after that, with explicit owner approval, generate the remaining **55 / 110** missing slots.
 5. QC outputs with **PASS / REJECT only**, bottom 15% subtitle-safe.
 
 ## Spend lock
