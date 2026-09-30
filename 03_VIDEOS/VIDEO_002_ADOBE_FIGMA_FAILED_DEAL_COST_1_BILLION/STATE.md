@@ -233,8 +233,13 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Preview-backed slots remaining: **7** (locked previews stay as fallback)
 - Retry (7 × 0.5 = 3.5 credits, after RV048 re-crop): **NOT AUTHORIZED**
 
+## R15 reject-7 retry
+- Owner approval: **YES — 3.5 credits**; RV048 re-prepared as exact-text render
+- Hard QC: **5 PASS / 2 REJECT** (`F012` caption band, `F037` quote typo) — see `13_R15_RETRY_QC.md`
+- Cumulative R14+R15: **38 / 40 PASS**; preview-backed slots remaining: **2**
+
 ## Next action
-0. Swap the 33 R14 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
+0. Swap the 38 R14/R15 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`, `13_R15_RETRY_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
 1. Use only `15_FINAL_FRAMES_1080P/F001.jpg…F110.jpg` for the next picture assembly.
 2. Do not use the invalidated V1 MP4.
 3. Rebuild the full 15:40.617 assembly with the fixed normalization path, then run visual/timing QC.
