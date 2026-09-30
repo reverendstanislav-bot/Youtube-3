@@ -238,6 +238,12 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Hard QC: **5 PASS / 2 REJECT** (`F012` caption band, `F037` quote typo) — see `13_R15_RETRY_QC.md`
 - Cumulative R14+R15: **38 / 40 PASS**; preview-backed slots remaining: **2**
 
+## R16 + Picture Assembly V2
+- R16 (1.0 credit): F012, F037 regenerated; one garbled word in each fixed deterministically → **40 / 40** former preview slots replaced
+- `15_FINAL_FRAMES_1080P/` updated; recovery-preview sources: **0**
+- Picture Assembly V2 built locally (940.600 s, SHA-256 `919e70f5…`) — see `15_PICTURE_ASSEMBLY_RESULT.md`
+- Total R14–R16 spend: **24.5 credits**
+
 ## Next action
 0. Swap the 38 R14/R15 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`, `13_R15_RETRY_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
 1. Use only `15_FINAL_FRAMES_1080P/F001.jpg…F110.jpg` for the next picture assembly.

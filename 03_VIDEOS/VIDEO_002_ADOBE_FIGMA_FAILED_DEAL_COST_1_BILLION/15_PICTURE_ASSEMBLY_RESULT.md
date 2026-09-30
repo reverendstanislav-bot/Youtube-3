@@ -74,3 +74,19 @@ Either:
 2. owner explicitly accepts the 960×540-upscaled sources for release.
 
 Until one of those happens, `edit_master` remains **false**.
+
+---
+
+# Picture Assembly V2 — 2026-09-30
+
+Status: **BUILT / NO PREVIEW-BACKED SLOTS**
+
+- R14–R16 replaced all 40 former 960×540 recovery-preview slots with 1344×752 GPT Image 2 frames (R14 33, R15 5, R16 2 with deterministic one-word text fixes). See `13_R14_PREVIEW40_QC.md`, `13_R15_RETRY_QC.md`, `13_R16_RESULTS.csv`.
+- `15_FINAL_FRAMES_1080P/` updated for those 40 slots (ImageOps.fit → 1920×1080, JPEG q95 4:4:4); manifest updated. Source classes now: http 39, r14-regen 33, latest-retry 16, git-relative 15, r15-retry 5, r16 2. **recovery-preview: 0.**
+- Note: all generated frames are native 1344×752 (git-relative canon 1672×941), so every slot is still upscaled to 1080p; none is a 960×540 preview any more.
+- Build: same concat/timing as V1 from `11_VISUAL_TIMELINE.csv`, locked Harrison master (sha256 `6b0da92f…` verified).
+- Output (local, not in Git): `WhatItCost_media/002-adobe-figma/15_ASSEMBLY_V2/VIDEO_002_ADOBE_FIGMA_PICTURE_ASSEMBLY_V2_1080P25.mp4`
+  - 1920×1080 · 25 fps · H.264 + AAC 48 kHz stereo · 940.600 s · 89,097,788 bytes
+  - SHA-256 `919e70f5ec1f859253215e3a79f498d8144cb90d1a225cefb0313fd15ee57b3e`
+- Spot check of rendered frames (F001, F012, F037, F055, F088, F110): full-frame, no inset borders.
+- Not integrated yet: captions, overlays, transitions, release-master QC.
