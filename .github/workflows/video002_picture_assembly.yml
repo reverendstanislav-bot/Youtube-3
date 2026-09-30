@@ -1,0 +1,37 @@
+name: VIDEO002 Picture Assembly
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_BUILD_PICTURE_ASSEMBLY.py'
+      - '.github/workflows/video002_picture_assembly.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install runtime
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg python3-pil
+      - name: Build deterministic picture assembly
+        run: python3 03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_BUILD_PICTURE_ASSEMBLY.py
+      - name: Upload picture assembly artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO002_PICTURE_ASSEMBLY_V1
+          path: |
+            03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_PICTURE_ASSEMBLY_BUILD/VIDEO_002_ADOBE_FIGMA_PICTURE_ASSEMBLY_V1_1080P25.mp4
+            03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_PICTURE_ASSEMBLY_BUILD/FINAL_ASSEMBLY_ASSET_RESOLVER.csv
+            03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_PICTURE_ASSEMBLY_BUILD/FFPROBE.json
+            03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_PICTURE_ASSEMBLY_BUILD/SHA256.txt
+            03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_PICTURE_ASSEMBLY_BUILD/BUILD_REPORT.json
+          compression-level: 0
+          retention-days: 14
