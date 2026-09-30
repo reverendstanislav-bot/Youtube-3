@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — R12 COMPLETE 109/110 / R13 F059 FINAL RETRY PACK READY**
+- Current pipeline stage: **13 VISUAL ASSET QC — FINAL 110/110 PASS / ASSET LOCK COMPLETE**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -199,20 +199,23 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - R12 spend: **2.5 credits**
 - Automatic retries: **0**
 
-## R13 F059 final retry readiness
-- Source references changed: **0**
-- Source-prep required: **0**
-- Final layout-only prompt ready: **1 / 1**
-- Retry pack: `13_R13_F059_FINAL_LAYOUT_EXECUTION_PACK.md`
-- Retry queue: `13_R13_F059_FINAL_LAYOUT_QUEUE.csv`
-- Retry cost if approved: **0.5 credit**
-- Paid retry authorization: **NO**
+## R13 F059 final retry result
+- Owner approval: **YES — 0.5 credit**
+- Generated: **1 / 1**
+- Job: `16289a58-5e70-4bdf-8aef-5fa4b96a6bc0`
+- QC: **PASS**
+- Result: `https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_054938_16289a58-5e70-4bdf-8aef-5fa4b96a6bc0.png`
+- R13 spend: **0.5 credit**
+- Automatic retries: **0**
+- Total usable PASS now: **110 / 110**
+- Remaining without PASS: **0**
+- Final QC ledger: `13_R13_F059_FINAL_QC.csv`
+- Final QC summary: `13_R13_F059_FINAL_QC.md`
 
 ## Next action
-1. Keep all **109 PASS frames** locked.
-2. Keep F059 repaired references locked unchanged.
-3. Wait for explicit owner approval of **0.5 credit** for one final F059 layout-only retry.
-4. No automatic retry after that job.
+1. Keep all **110 / 110 final frames locked**.
+2. Proceed to deterministic final visual assembly / edit integration using the locked asset manifest.
+3. No further image generation unless the owner explicitly reopens a frame.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

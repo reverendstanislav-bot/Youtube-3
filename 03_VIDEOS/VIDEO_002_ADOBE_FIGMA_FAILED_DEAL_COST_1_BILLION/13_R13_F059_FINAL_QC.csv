@@ -1,0 +1,2 @@
+frame_slot,job_id,result_url,headline_qc,source_fidelity_qc,composition_qc,subtitle_safe_qc,final_qc,reason
+F059,16289a58-5e70-4bdf-8aef-5fa4b96a6bc0,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_054938_16289a58-5e70-4bdf-8aef-5fa4b96a6bc0.png,PASS,PASS,PASS,PASS,PASS,PASS — exact locked headline; repaired EC/CMA evidence preserved; FINAL remains empty; documents end well above caption band; bottom 15% is clean dark background.

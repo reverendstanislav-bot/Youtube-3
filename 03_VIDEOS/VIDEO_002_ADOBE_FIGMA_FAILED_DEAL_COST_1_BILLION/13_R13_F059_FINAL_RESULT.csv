@@ -1,0 +1,2 @@
+frame_slot,job_id,status,model,resolution,quality,aspect_ratio,result_url,qc_status
+F059,16289a58-5e70-4bdf-8aef-5fa4b96a6bc0,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_054938_16289a58-5e70-4bdf-8aef-5fa4b96a6bc0.png,PASS
