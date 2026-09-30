@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "All 50 canonical reference paths are resolved to 44 verified Higgsfield media objects and all 55 remaining F-slots are attachment-ready. Wait for explicit owner approval before the 55-job / 27.5-credit paid generation run."
+next_action: "The approved 55-job GPT Image 2 run is complete 55/55 with 0 submission failures and 0 retries. Perform PASS/REJECT visual QC and map each result back to its F-slot; do not spend on retries without new owner approval."
 blockers: []
 
 stages:
@@ -86,7 +86,7 @@ assets:
   stage_12_ui_beat_count: "6 legacy beats unified into R9 final frames"
   stage_12_editor_gfx_count: "8 legacy beats unified into R9 final frames"
   stage_12_base_image_cost_credits: "55.0"
-  stage_12_paid_generation_authorized: false
+  stage_12_paid_generation_authorized: true
   stage_12_prompt_pack: "12A_R10_UNIFIED_110_FINAL_FRAME_PROMPTS.md"
   stage_12_prompt_revision: "R10_CANON_DRIVEN_FROM_15_PASS"
   stage_12_generation_model: "higgsfield gpt_image_2 | 1k | low | 16:9 | 0.5 credit"
@@ -107,7 +107,15 @@ assets:
   stage_12_remaining55_reference_aliases: "6"
   stage_12_remaining55_reference_resolver: "12_SOURCE_PREP/HIGGSFIELD_MEDIA_MAP.csv"
   stage_12_remaining55_paid_generation_base_credits: "27.5"
-  stage_12_remaining55_paid_generation_authorized: false
+  stage_12_remaining55_paid_generation_authorized: true
+  stage_12_remaining55_generation_submitted: "55"
+  stage_12_remaining55_generation_completed: "55"
+  stage_12_remaining55_generation_submission_failures: "0"
+  stage_12_remaining55_generation_retries: "0"
+  stage_12_remaining55_generation_model_runtime: "gpt_image_2 | 1k | low | 16:9"
+  stage_12_remaining55_generation_project_id: "9bad6370-d0ed-4bbd-94f5-29a9786baedb"
+  stage_12_remaining55_generation_set_ledger: "13_R10_REMAINING55_GENERATION_SET.csv"
+  stage_12_remaining55_generation_slot_mapping: "PENDING_QC_MAPPING"
   stage_12_remaining55_reference_readiness_audit: "12A_R10_REMAINING55_REFERENCE_READINESS.md"
   stage_12_remaining55_reference_readiness_csv: "12A_R10_REMAINING55_REFERENCE_READINESS.csv"
   stage_12_remaining55_generation_queue: "12A_R10_REMAINING55_GENERATION_QUEUE.csv"

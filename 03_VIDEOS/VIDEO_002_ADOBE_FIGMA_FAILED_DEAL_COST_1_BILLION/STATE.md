@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **12/13 PRE-GENERATION SOURCE PREP — R10 REMAINING55 REFERENCES READY / WAITING OWNER SPEND APPROVAL**
+- Current pipeline stage: **13 VISUAL ASSET QC — R10 REMAINING55 GENERATION COMPLETE / QC PENDING**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -146,12 +146,24 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Reference ledger: `12A_R10_REMAINING55_REFERENCE_READINESS.csv`
 - Frame queue: `12A_R10_REMAINING55_GENERATION_QUEUE.csv`
 
+## R10 remaining-55 generation result
+- Owner spend approval: **YES — 27.5 credits base run**
+- Submitted: **55 / 55 image jobs**
+- Model: **Higgsfield GPT Image 2**
+- Settings: **1k / low / 16:9**
+- Completed: **55 / 55**
+- Submission failures: **0**
+- Paid retries: **0**
+- Higgsfield project: `9bad6370-d0ed-4bbd-94f5-29a9786baedb`
+- Generation set ledger: `13_R10_REMAINING55_GENERATION_SET.csv`
+- Slot mapping: **PENDING QC MAPPING**; provider creation order is not treated as canonical frame order.
+
 ## Next action
-1. Keep all **55 current PASS frames** locked unless the owner explicitly rejects one.
-2. Keep the **50 / 50** resolved source-prep references locked; no more prep is required before generation.
-3. Wait for explicit owner approval of the paid base run: **55 image jobs × 0.5 = 27.5 credits**.
-4. After approval, generate only the remaining **55 / 110** missing slots using the resolved Higgsfield media IDs.
-5. QC outputs with **PASS / REJECT only**, bottom 15% subtitle-safe.
+1. Keep all **55 prior PASS frames** locked unless the owner explicitly rejects one.
+2. Perform hard **PASS / REJECT** QC on the newly completed 55 images against the execution pack.
+3. Map each completed generation back to its F-slot during QC; do not infer slot identity from provider creation timestamp alone.
+4. No retry/regeneration spend without a new explicit owner approval.
+5. Keep bottom 15% subtitle-safe and source fidelity absolute.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
