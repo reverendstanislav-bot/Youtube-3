@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "15_ASSEMBLY_EDIT"
-next_action: "Picture Assembly V1 is built from all 110 locked frames and the Harrison master. Technical assembly passed, but release-resolution is on hold because 40 slots currently resolve only to 960x540 recovery previews. Recover full-resolution originals or obtain owner acceptance before release-master lock."
+next_action: "The old Picture Assembly V1 is invalidated because thumbnail()+black-canvas produced inset frames. All 110 locked frames are now committed in GitHub as exact 1920x1080 files under 15_FINAL_FRAMES_1080P. Rebuild the full assembly from that directory with the fixed ImageOps.fit normalization path."
 blockers: []
 
 stages:
@@ -27,7 +27,7 @@ stages:
   stage_12_visual_source_generation_plan: "PASS"
   stage_13_visual_asset_qc: "PASS"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
-  stage_15_assembly_edit: "PICTURE_ASSEMBLY_V1_PASS_WITH_RELEASE_RES_HOLD"
+  stage_15_assembly_edit: "FRAME_EXPORT_REPAIRED_110_OF_110_OLD_ASSEMBLY_INVALIDATED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
@@ -57,6 +57,13 @@ locks:
   stage_15_picture_assembly_v1_fullres_or_nonpreview_count: "70"
   stage_15_picture_assembly_v1_status: "PASS_WITH_RELEASE_RES_HOLD"
   stage_15_picture_assembly_result: "15_PICTURE_ASSEMBLY_RESULT.md"
+  stage_15_picture_assembly_v1_invalidated: true
+  stage_15_picture_assembly_v1_invalidation_reason: "thumbnail_no_upscale_black_canvas_inset_bug"
+  stage_15_final_frames_1080p_dir: "15_FINAL_FRAMES_1080P"
+  stage_15_final_frames_1080p_count: "110"
+  stage_15_final_frames_1080p_verified_dimensions: "1920x1080"
+  stage_15_final_frames_1080p_black_border_bug_fixed: true
+  stage_15_frame_export_manifest: "15_FINAL_FRAMES_1080P/FRAME_EXPORT_MANIFEST.csv"
   final_fact_legal_refresh: false
   packaging: false
   release_ready: false

@@ -1,3 +1,11 @@
+# INVALIDATED — DO NOT USE THIS V1 MP4
+
+The previously recorded Picture Assembly V1 is invalidated because the frame normalizer used Pillow `thumbnail()`, which never enlarges smaller inputs. This caused smaller frames to be centered inside a black 1920×1080 canvas.
+
+The bug is fixed in `15_BUILD_PICTURE_ASSEMBLY.py`, and all 110 frames have been exported individually at 1920×1080 under `15_FINAL_FRAMES_1080P/`.
+
+---
+
 # VIDEO 002 — Stage 15 Picture Assembly V1 Result
 
 Status: **PASS WITH RELEASE-RESOLUTION HOLD**

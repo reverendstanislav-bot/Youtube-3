@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **15 PICTURE ASSEMBLY — V1 BUILT / TECHNICAL PASS / RELEASE-RES QUALITY HOLD**
+- Current pipeline stage: **15 FRAME EXPORT REPAIR — 110/110 NORMALIZED 1920x1080 IN GITHUB / OLD ASSEMBLY INVALIDATED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -212,27 +212,23 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Final QC ledger: `13_R13_F059_FINAL_QC.csv`
 - Final QC summary: `13_R13_F059_FINAL_QC.md`
 
-## Stage 15 Picture Assembly V1
-- Status: **PASS WITH RELEASE-RESOLUTION HOLD**
-- Visual slots assembled: **110 / 110**
-- Audio: **locked Harrison master**
-- Target runtime: **940.617 sec**
-- MP4 runtime: **940.600 sec**
-- Resolution / fps: **1920×1080 / 25 fps**
-- Video / audio: **H.264 / AAC 48 kHz stereo**
-- Media ID: `942946e7-2b5d-4a39-b439-9777dee28f0b`
-- URI: `https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/942946e7-2b5d-4a39-b439-9777dee28f0b.mp4`
-- SHA-256: `b3b6bf5e29964a4b231334fb738c57e6085c59694dc7ec991eab8d06db17b120`
-- File size: **190,700,575 bytes**
-- Release-resolution hold: **40 / 110 frames use 960×540 recovery-preview sources upscaled to 1080p**
-- Result report: `15_PICTURE_ASSEMBLY_RESULT.md`
-- New paid generation spend: **0 credits**
+## Stage 15 frame export repair
+- Previous Picture Assembly V1: **INVALIDATED — inset/black-border normalization bug**
+- Root cause: Pillow `thumbnail()` does not upscale smaller sources; 960×540 inputs remained 960×540 and were centered on a 1920×1080 black canvas.
+- Build script fix: **LOCKED — `ImageOps.fit(..., 1920×1080)`**
+- Final frame directory: `15_FINAL_FRAMES_1080P/`
+- Frames committed to GitHub: **110 / 110**
+- Verified output dimensions: **1920×1080 for 110 / 110**
+- Black inset borders: **REMOVED**
+- Export manifest: `15_FINAL_FRAMES_1080P/FRAME_EXPORT_MANIFEST.csv`
+- Export commit: `c333f1bfbf4c89e478db642da76ab153d2a8182a`
+- New AI generation spend: **0 credits**
 
 ## Next action
-1. Keep the **110/110 visual identity lock** unchanged.
-2. Recover the full-resolution originals for the **40 preview-backed slots**, or obtain explicit owner acceptance of those upscales for release.
-3. After that gate, integrate final captions / overlays / transition polish and complete Stage 15 edit-master QC.
-4. No image/video generation is authorized by this assembly step.
+1. Use only `15_FINAL_FRAMES_1080P/F001.jpg…F110.jpg` for the next picture assembly.
+2. Do not use the invalidated V1 MP4.
+3. Rebuild the full 15:40.617 assembly with the fixed normalization path, then run visual/timing QC.
+4. No image generation is authorized by this repair.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
