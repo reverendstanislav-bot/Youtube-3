@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — R12 REJECT5 LAYOUT-ONLY RETRY PACK READY / WAITING OWNER APPROVAL**
+- Current pipeline stage: **13 VISUAL ASSET QC — R12 COMPLETE 109/110 / R13 F059 FINAL RETRY PACK READY**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -184,26 +184,35 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Additional QC spend: **0 credits**
 - Additional retry jobs launched: **0**
 
-## R12 reject5 layout-only retry readiness
-- Remaining REJECT slots: **5**
-- Slots: `F010, F054, F059, F061, F104`
-- Root cause: **layout / subtitle-safe only**
+## R12 reject5 generation + hard QC
+- Owner approval: **YES — 2.5 credits**
+- Generated: **5 / 5**
+- PASS: **4**
+- REJECT: **1**
+- PASS slots: `F010, F054, F061, F104`
+- REJECT slot: `F059`
+- Total usable PASS now: **109 / 110**
+- Remaining without PASS: **1 / 110**
+- R12 results: `13_R12_RETRY_RESULTS.csv`
+- R12 QC: `13_R12_RETRY_QC.csv`
+- R12 QC summary: `13_R12_RETRY_QC.md`
+- R12 spend: **2.5 credits**
+- Automatic retries: **0**
+
+## R13 F059 final retry readiness
 - Source references changed: **0**
 - Source-prep required: **0**
-- Layout-only prompts ready: **5 / 5**
-- Reference bindings ready: **5 / 5**
-- Retry pack: `13_R12_REJECT5_LAYOUT_ONLY_EXECUTION_PACK.md`
-- Retry queue: `13_R12_REJECT5_LAYOUT_ONLY_QUEUE.csv`
-- Layout spec: `13_R12_REJECT5_LAYOUT_FIX_SPEC.md`
-- Base retry cost if approved: **5 × 0.5 = 2.5 credits**
+- Final layout-only prompt ready: **1 / 1**
+- Retry pack: `13_R13_F059_FINAL_LAYOUT_EXECUTION_PACK.md`
+- Retry queue: `13_R13_F059_FINAL_LAYOUT_QUEUE.csv`
+- Retry cost if approved: **0.5 credit**
 - Paid retry authorization: **NO**
-- Jobs launched: **0**
 
 ## Next action
-1. Keep all **105 PASS frames** locked.
-2. Keep all repaired R11 references locked unchanged.
-3. Wait for explicit owner approval of **2.5 credits**.
-4. If approved, generate exactly one retry for each of the 5 queued slots; no automatic retries.
+1. Keep all **109 PASS frames** locked.
+2. Keep F059 repaired references locked unchanged.
+3. Wait for explicit owner approval of **0.5 credit** for one final F059 layout-only retry.
+4. No automatic retry after that job.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

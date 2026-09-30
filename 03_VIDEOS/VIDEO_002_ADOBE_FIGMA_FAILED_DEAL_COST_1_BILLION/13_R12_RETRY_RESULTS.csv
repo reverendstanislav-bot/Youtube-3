@@ -1,0 +1,6 @@
+frame_slot,job_id,status,model,resolution,quality,aspect_ratio,result_url,qc_status
+F010,97becafd-7dd2-4a10-bb45-28a3ecdc7c15,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_051601_97becafd-7dd2-4a10-bb45-28a3ecdc7c15.png,PASS
+F054,3cf441a3-3e51-4892-9176-db96130eb388,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_051600_3cf441a3-3e51-4892-9176-db96130eb388.png,PASS
+F059,64303e63-f9fe-42ea-91fd-781d7cd3b849,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_051600_64303e63-f9fe-42ea-91fd-781d7cd3b849.png,REJECT
+F061,cb9e7c9d-f536-414a-b836-695c714b285d,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_051600_cb9e7c9d-f536-414a-b836-695c714b285d.png,PASS
+F104,eadaf7f3-c0c7-46f7-8150-15f6ece1b172,completed,gpt_image_2,1k,low,16:9,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20260930_051600_eadaf7f3-c0c7-46f7-8150-15f6ece1b172.png,PASS

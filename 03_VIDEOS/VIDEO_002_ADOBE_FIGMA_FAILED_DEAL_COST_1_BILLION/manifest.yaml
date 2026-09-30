@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "R12 layout-only retry pack is ready for F010, F054, F059, F061, F104 using unchanged repaired references. Wait for explicit owner approval before the 5-job / 2.5-credit run; no automatic retries."
+next_action: "R12 complete: 4/5 PASS, F059 remains REJECT on subtitle-safe layout only. Total usable PASS is 109/110. R13 final F059 layout-only prompt is ready; wait for explicit owner approval of 0.5 credit."
 blockers: []
 
 stages:
@@ -177,8 +177,23 @@ assets:
   stage_13_r12_layout_retry_slots: "F010,F054,F059,F061,F104"
   stage_13_r12_layout_retry_base_jobs: "5"
   stage_13_r12_layout_retry_base_credits: "2.5"
-  stage_13_r12_layout_retry_authorized: false
-  stage_13_r12_layout_retry_jobs_launched: "0"
+  stage_13_r12_layout_retry_authorized: true
+  stage_13_r12_layout_retry_jobs_launched: "5"
+  stage_13_r12_layout_retry_jobs_completed: "5"
+  stage_13_r12_layout_retry_qc_pass: "4"
+  stage_13_r12_layout_retry_qc_reject: "1"
+  stage_13_r12_total_locked_pass_after_qc: "109"
+  stage_13_r12_remaining_without_pass_after_qc: "1"
+  stage_13_r12_remaining_slot: "F059"
+  stage_13_r12_retry_results: "13_R12_RETRY_RESULTS.csv"
+  stage_13_r12_retry_qc: "13_R12_RETRY_QC.csv"
+  stage_13_r13_f059_prompt_ready: "1"
+  stage_13_r13_f059_reference_ready: "1"
+  stage_13_r13_f059_retry_cost_credits: "0.5"
+  stage_13_r13_f059_retry_authorized: false
+  stage_13_r13_f059_retry_jobs_launched: "0"
+  stage_13_r13_f059_retry_pack: "13_R13_F059_FINAL_LAYOUT_EXECUTION_PACK.md"
+  stage_13_r13_f059_retry_queue: "13_R13_F059_FINAL_LAYOUT_QUEUE.csv"
   stage_13_r12_layout_retry_pack: "13_R12_REJECT5_LAYOUT_ONLY_EXECUTION_PACK.md"
   stage_13_r12_layout_retry_queue: "13_R12_REJECT5_LAYOUT_ONLY_QUEUE.csv"
   stage_13_r12_layout_fix_spec: "13_R12_REJECT5_LAYOUT_FIX_SPEC.md"
