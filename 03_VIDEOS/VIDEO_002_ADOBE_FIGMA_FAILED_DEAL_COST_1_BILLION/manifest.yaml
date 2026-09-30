@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "R11 reject16 retry prep complete: 10/10 defective references repaired and 16/16 prompts/bindings ready. Wait for explicit owner approval before the 16-job / 8.0-credit retry run; no automatic retries."
+next_action: "R11 reject16 retry run completed: 16/16 Higgsfield GPT Image 2 jobs finished. Run binary QC next; no automatic retry of failures without separate owner approval."
 blockers: []
 
 stages:
@@ -160,8 +160,10 @@ assets:
   stage_13_r11_reject16_reference_ready: "16"
   stage_13_r11_retry_base_jobs: "16"
   stage_13_r11_retry_base_credits: "8.0"
-  stage_13_r11_retry_authorized: false
-  stage_13_r11_retry_jobs_launched: "0"
+  stage_13_r11_retry_authorized: true
+  stage_13_r11_retry_jobs_launched: "16"
+  stage_13_r11_retry_jobs_completed: "16"
+  stage_13_r11_retry_results: "13_R11_RETRY_RESULTS.csv"
   stage_13_r11_retry_prompt_pack: "13_R11_REJECT16_RETRY_EXECUTION_PACK.md"
   stage_13_r11_retry_queue: "13_R11_REJECT16_RETRY_QUEUE.csv"
   stage_13_r11_repaired_reference_resolver: "13_R11_REPAIRED_REFERENCE_RESOLVER.csv"

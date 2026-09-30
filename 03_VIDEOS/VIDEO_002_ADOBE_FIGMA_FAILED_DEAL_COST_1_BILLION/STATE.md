@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — R11 REJECT16 RETRY PACK READY / WAITING OWNER RETRY APPROVAL**
+- Current pipeline stage: **13 VISUAL ASSET QC — R11 REJECT16 RETRY GENERATED / QC PENDING**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -180,14 +180,17 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - R11 resolver: `13_R11_REPAIRED_REFERENCE_RESOLVER.csv`
 - Source repair ledger: `13_R11_SOURCE_PREP_REPAIR.csv`
 - Base retry cost if approved: **16 × 0.5 = 8.0 credits**
-- Paid retry authorization: **NO**
-- Retry jobs launched: **0**
+- Paid retry authorization: **YES — owner approved in chat**
+- Retry jobs launched: **16 / 16**
+- Retry jobs completed: **16 / 16**
+- Retry generation result ledger: `13_R11_RETRY_RESULTS.csv`
+- Retry spend: **8.0 credits base scope**
 
 ## Next action
 1. Keep all **94 existing PASS frames** locked.
 2. Keep the repaired references and R11 prompts locked.
-3. No generation yet.
-4. With separate owner approval of **8.0 credits**, retry exactly the 16 queued slots once each; no automatic retries.
+3. Run hard binary QC on the 16 completed R11 retry frames.
+4. Do not auto-regenerate any QC failures; any further retry needs separate owner approval.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
