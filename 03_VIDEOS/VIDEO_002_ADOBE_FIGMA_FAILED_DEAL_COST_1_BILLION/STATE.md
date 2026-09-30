@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — FINAL 110/110 PASS / ASSET LOCK COMPLETE**
+- Current pipeline stage: **15 PICTURE ASSEMBLY — V1 BUILT / TECHNICAL PASS / RELEASE-RES QUALITY HOLD**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -212,10 +212,27 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Final QC ledger: `13_R13_F059_FINAL_QC.csv`
 - Final QC summary: `13_R13_F059_FINAL_QC.md`
 
+## Stage 15 Picture Assembly V1
+- Status: **PASS WITH RELEASE-RESOLUTION HOLD**
+- Visual slots assembled: **110 / 110**
+- Audio: **locked Harrison master**
+- Target runtime: **940.617 sec**
+- MP4 runtime: **940.600 sec**
+- Resolution / fps: **1920×1080 / 25 fps**
+- Video / audio: **H.264 / AAC 48 kHz stereo**
+- Media ID: `942946e7-2b5d-4a39-b439-9777dee28f0b`
+- URI: `https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/942946e7-2b5d-4a39-b439-9777dee28f0b.mp4`
+- SHA-256: `b3b6bf5e29964a4b231334fb738c57e6085c59694dc7ec991eab8d06db17b120`
+- File size: **190,700,575 bytes**
+- Release-resolution hold: **40 / 110 frames use 960×540 recovery-preview sources upscaled to 1080p**
+- Result report: `15_PICTURE_ASSEMBLY_RESULT.md`
+- New paid generation spend: **0 credits**
+
 ## Next action
-1. Keep all **110 / 110 final frames locked**.
-2. Proceed to deterministic final visual assembly / edit integration using the locked asset manifest.
-3. No further image generation unless the owner explicitly reopens a frame.
+1. Keep the **110/110 visual identity lock** unchanged.
+2. Recover the full-resolution originals for the **40 preview-backed slots**, or obtain explicit owner acceptance of those upscales for release.
+3. After that gate, integrate final captions / overlays / transition polish and complete Stage 15 edit-master QC.
+4. No image/video generation is authorized by this assembly step.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.
