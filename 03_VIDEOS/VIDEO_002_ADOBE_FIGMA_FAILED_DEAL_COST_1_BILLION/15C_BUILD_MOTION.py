@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """VIDEO 002 — Stage 15C: motion edit (owner feedback: "looks like a slideshow").
 
-Per beat: slow push-in / pull-out / lateral drift on the locked 1080p frame.
+Per beat: slow centred push-in / pull-out (max 3 %, sub-pixel smooth) on the locked frame.
 Between beats: 0.5 s cross-dissolve; at chapter (section) changes: 0.9 s dip to black.
 Every transition is centred on the original cut, so picture stays in sync with the
 locked Harrison narration. Stage 15B captions are burned on top; voice-only audio.
 
-Output (outside Git): <media>/15C_MOTION/VIDEO_002_STAGE15C_REVIEW_V1_1080P25.mp4
+Output (outside Git): <media>/15C_MOTION/VIDEO_002_STAGE15C_REVIEW_V2_1080P25.mp4
 """
-import csv, hashlib, json, os, subprocess, sys
+import csv, hashlib, json, math, os, subprocess, sys
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from PIL import Image
 
 HERE = Path(__file__).resolve().parent
 MEDIA = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("C:/Users/KK/Documents/WhatItCost_media/002-adobe-figma")
@@ -21,7 +22,7 @@ FONTS = MEDIA.parent / "_fonts"
 OUT = MEDIA / "15C_MOTION"
 CLIPS = OUT / "clips"
 CLIPS.mkdir(parents=True, exist_ok=True)
-REVIEW = OUT / "VIDEO_002_STAGE15C_REVIEW_V1_1080P25.mp4"
+REVIEW = OUT / "VIDEO_002_STAGE15C_REVIEW_V2_1080P25.mp4"
 RUNTIME = 940.617
 FPS = 25
 T_CUT, T_CHAPTER = 0.5, 0.9
@@ -34,34 +35,37 @@ starts[0] = 0.0
 chapter_change = [False] + [rows[i]["section"] != rows[i - 1]["section"] for i in range(1, 110)]
 trans = [T_CHAPTER if chapter_change[i] else T_CUT for i in range(110)]  # transition INTO beat i
 
-# Motion recipes cycle so consecutive beats never repeat; zoom stays within 1.00-1.10.
-MOVES = ["in", "left", "out", "right", "in", "up", "out"]
-
-def zp(move, n):
-    on = f"(on/{max(n - 1, 1)})"
-    ease = f"(0.5-0.5*cos(PI*{on}))"
-    z0, z1 = {"in": (1.0, 1.10), "out": (1.10, 1.0)}.get(move, (1.06, 1.06))
-    z = f"{z0}+({z1}-{z0})*{ease}"
-    cx, cy = "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
-    span = "(iw-iw/zoom)"
-    x = {"left": f"{span}*(1-{ease})", "right": f"{span}*{ease}"}.get(move, cx)
-    y = {"up": f"(ih-ih/zoom)*(1-{ease})*0.6+(ih-ih/zoom)*0.2"}.get(move, cy)
-    return f"zoompan=z='{z}':x='{x}':y='{y}':d={n}:s=1920x1080:fps={FPS}"
+# V2 (owner: "shaking", "zooms cut text"): zoompan snapped the crop to whole pixels and
+# jittered; lateral drift and 10 % zoom cropped headlines. Now: centred zoom only, max 3 %
+# (<= 29 px per side, inside every headline margin), rendered with sub-pixel bicubic affine.
+ZMAX = 1.03
+MOVES = ["in", "out"]
 
 def clip(i):
-    if os.environ.get("REUSE_CLIPS") and (CLIPS / f"C{i + 1:03d}.mp4").exists():
+    out = CLIPS / f"C{i + 1:03d}.mp4"
+    if os.environ.get("REUSE_CLIPS") and out.exists():
         return i, 0.0
     lead = trans[i] / 2 if i > 0 else 0.0
     tail = trans[i + 1] / 2 if i < 109 else 0.0
-    dur = (starts[i + 1] - starts[i]) + lead + tail
-    n = max(2, round(dur * FPS))
-    out = CLIPS / f"C{i + 1:03d}.mp4"
-    vf = (f"scale=3840:2160:flags=lanczos,{zp(MOVES[i % len(MOVES)], n)},"
-          f"format=yuv420p,setsar=1")
-    subprocess.run(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-loop", "1",
-                    "-framerate", str(FPS), "-i", str(FRAMES / f"F{i + 1:03d}.jpg"),
-                    "-vf", vf, "-frames:v", str(n), "-c:v", "libx264", "-preset", "fast",
-                    "-crf", "14", "-r", str(FPS), str(out)], check=True)
+    n = max(2, round(((starts[i + 1] - starts[i]) + lead + tail) * FPS))
+    img = Image.open(FRAMES / f"F{i + 1:03d}.jpg").convert("RGB")
+    W, H = img.size
+    z0, z1 = (1.0, ZMAX) if MOVES[i % 2] == "in" else (ZMAX, 1.0)
+    enc = subprocess.Popen(["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-f", "rawvideo",
+                            "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
+                            "-c:v", "libx264", "-preset", "fast", "-crf", "14", "-pix_fmt", "yuv420p",
+                            str(out)], stdin=subprocess.PIPE)
+    for k in range(n):
+        e = 0.5 - 0.5 * math.cos(math.pi * k / (n - 1))
+        z = z0 + (z1 - z0) * e
+        # output pixel (x, y) samples source ((x - W/2) / z + W/2, ...): exact float, no rounding
+        a = 1 / z
+        f = img.transform((W, H), Image.AFFINE, (a, 0, W / 2 * (1 - a), 0, a, H / 2 * (1 - a)),
+                          resample=Image.BICUBIC)
+        enc.stdin.write(f.tobytes())
+    enc.stdin.close()
+    if enc.wait():
+        raise RuntimeError(out)
     return i, n / FPS
 
 with ThreadPoolExecutor(max_workers=max(2, (os.cpu_count() or 4) // 2)) as ex:

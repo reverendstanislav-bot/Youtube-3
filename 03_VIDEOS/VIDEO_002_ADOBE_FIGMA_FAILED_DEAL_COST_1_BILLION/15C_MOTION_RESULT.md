@@ -9,3 +9,9 @@
   - SHA-256 `03bda993b0e7d53fa3210603f973a51651482b062fdcb400b81e15a4682d3a39`
 - QC stills: dissolve at 89.96 s, chapter dip at 131.12 s, F059 "NO FINAL DECISION" at 496 s — PASS
 - Gate: owner visual review pending
+
+## V2 (owner: "unnatural shaking", "zooms cut text")
+- Cause: ffmpeg zoompan snaps the crop window to whole pixels -> per-frame jitter; lateral drift + 10 % zoom cropped headlines (e.g. F016)
+- Fix: centred push-in / pull-out only, max 3 % (<= 29 px per side), rendered per frame with sub-pixel bicubic affine (PIL); no lateral drift
+- Output: `VIDEO_002_STAGE15C_REVIEW_V2_1080P25.mp4`, 940.600 s, 851,990,062 bytes, SHA-256 `c38dfa33845bf5e2895444f67a5a3927d9229df951f6618e85d0a5f90d64d3a9`
+- Smoothness QC: frame-difference curve monotonic, no jitter spikes; V1 superseded

@@ -254,8 +254,8 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - F025 F050 F094 F095 F096 F098 F106 regenerated from exact-text renders (3.5 credits); F059 FINAL box labelled "NO FINAL DECISION"; F051/F086 headers fixed — see `13_R17_TEXT_REPAIR_RESULT.md`
 
 ## Stage 15C motion edit
-- `15C_BUILD_MOTION.py`: eased push-in / pull-out / drift per beat, 0.5 s dissolves, 0.9 s dip-to-black at 12 chapter changes, transitions centred on cuts; 15B captions burned; voice-only
-- Review cut (local): `15C_MOTION/VIDEO_002_STAGE15C_REVIEW_V1_1080P25.mp4`, 940.600 s, SHA-256 `03bda993…`
+- `15C_BUILD_MOTION.py`: eased centred push-in / pull-out per beat, 0.5 s dissolves, 0.9 s dip-to-black at 12 chapter changes, transitions centred on cuts; 15B captions burned; voice-only
+- V2 (no jitter, centred zoom ≤ 3 %, no drift): `15C_MOTION/VIDEO_002_STAGE15C_REVIEW_V2_1080P25.mp4`, 940.600 s, SHA-256 `c38dfa33…`
 - Gate: **owner visual review pending**
 
 ## Next action
