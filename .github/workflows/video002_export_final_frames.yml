@@ -1,0 +1,56 @@
+name: VIDEO002 Export Final Frames 1080p
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_EXPORT_FINAL_FRAMES_1080P.py'
+      - '.github/workflows/video002_export_final_frames.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Pillow
+        run: python3 -m pip install --quiet pillow
+
+      - name: Export locked frames to 1920x1080
+        run: python3 03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_EXPORT_FINAL_FRAMES_1080P.py
+
+      - name: Verify frame count and dimensions
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from PIL import Image
+          p=Path('03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_FINAL_FRAMES_1080P')
+          frames=sorted(p.glob('F[0-9][0-9][0-9].jpg'))
+          assert len(frames)==110, len(frames)
+          bad=[]
+          for f in frames:
+              with Image.open(f) as im:
+                  if im.size != (1920,1080):
+                      bad.append((f.name,im.size))
+          assert not bad, bad
+          print('PASS: 110/110 frames are exactly 1920x1080')
+          PY
+
+      - name: Commit normalized 1080p frame set
+        run: |
+          git config user.name "youtube3-production-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_FINAL_FRAMES_1080P
+          if git diff --cached --quiet; then
+            echo "No frame changes to commit."
+            exit 0
+          fi
+          git commit -m "VIDEO002: export locked 110-frame set at 1920x1080"
+          git push origin HEAD:main

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import csv, io, json, os, re, subprocess, sys, time, urllib.request, zipfile
 from pathlib import Path
-from PIL import Image
+from PIL import Image, ImageOps
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[2]
@@ -120,9 +120,14 @@ for i in range(1,111):
         locator = f"{zrel}::{name}"
     im = Image.open(io.BytesIO(data)).convert("RGB")
     sw, sh = im.size
-    im.thumbnail((1920,1080), Image.Resampling.LANCZOS)
-    canvas = Image.new("RGB", (1920,1080), (8,8,8))
-    canvas.paste(im, ((1920-im.width)//2, (1080-im.height)//2))
+    # Normalize every locked frame to a true full-frame 1920x1080 image.
+    # ImageOps.fit scales both up and down and center-crops only when aspect ratios differ.
+    # This fixes the previous thumbnail()+black-canvas bug that produced inset 960x540 frames.
+    canvas = ImageOps.fit(
+        im, (1920,1080),
+        method=Image.Resampling.LANCZOS,
+        centering=(0.5,0.5),
+    )
     out_frame = FRAMES / f"{slot}.jpg"
     canvas.save(out_frame, "JPEG", quality=95, subsampling=0, optimize=True)
     resolver_rows.append([slot, source_class[slot], sw, sh, locator])
