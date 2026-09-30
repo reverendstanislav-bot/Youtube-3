@@ -244,6 +244,12 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Picture Assembly V2 built locally (940.600 s, SHA-256 `919e70f5…`) — see `15_PICTURE_ASSEMBLY_RESULT.md`
 - Total R14–R16 spend: **24.5 credits**
 
+## Stage 15B captions
+- Burned word-highlight captions over Picture Assembly V2 (VIDEO_001 style), voice-only, no overlay layer — see `15B_CAPTIONS_RESULT.md`
+- `11_CAPTIONS.srt` (313 cues) + `18_YOUTUBE_ENGLISH_CC_POSITIONED.vtt`
+- Review master (local): SHA-256 `3ace86df…`, 940.600 s
+- Gate: **owner visual review pending**
+
 ## Next action
 0. Swap the 38 R14/R15 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`, `13_R15_RETRY_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
 1. Use only `15_FINAL_FRAMES_1080P/F001.jpg…F110.jpg` for the next picture assembly.
