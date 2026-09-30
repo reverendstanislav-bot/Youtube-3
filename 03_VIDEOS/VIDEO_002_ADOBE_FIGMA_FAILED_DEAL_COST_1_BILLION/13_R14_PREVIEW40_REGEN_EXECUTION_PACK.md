@@ -52,7 +52,7 @@ The 22 slots marked `READY` in `13_R14_PREVIEW40_REGEN_QUEUE.csv` have every ref
 - 6 references prepared locally from the official sources (RV048, RV055, RV060, RV001, RV012, RV013); binaries in `WhatItCost_media/002-adobe-figma/12_SOURCE_PREP/`, not yet uploaded to Higgsfield.
 - RV016 (Config 2023 crowd) not found on the current official page nor in the Wayback snapshot of 2023-07-09 → F037 stays blocked pending owner decision. Note: the locked R10 PASS F037 frame was built on definitive-agreement evidence (~$20B half cash / half stock), which `RV048_8K_MERGER_AGREEMENT_CROP.png` now covers.
 
-Queue after prep: **27 READY**, **12 READY_AFTER_UPLOAD** (F013 F017 F019 F021 F024 F033 F043 F045 F046 F048 F060 F074), **1 BLOCKED** (F037).
+Queue after prep: **27 READY**, **13 READY_AFTER_UPLOAD** (F013 F017 F019 F021 F024 F033 F037 F043 F045 F046 F048 F060 F074), **0 BLOCKED**. F037 rebound RV016 → RV048 (see F037 section).
 
 ## Resolution note
 
@@ -1342,7 +1342,9 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 303.880 → 308.020 (4.140 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV016_CONFIG_2023_CROWD.jpg` → Higgsfield media `NOT_FOUND` (see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+
+**R14 SOURCE REBIND (2026-09-30, owner delegated):** RV016 Config 2023 crowd photo does not exist on the official page (current or Wayback 2023). Rebound to RV048 8-K merger-agreement excerpt — the same definitive-agreement evidence (~$20B, half cash / half stock) the locked R10 PASS F037 frame was built on.
 
 ### R14 EXECUTION PROMPT
 
@@ -1357,16 +1359,16 @@ LOCKED HEADLINE:
 Render it directly in the image with exact spelling and punctuation, distressed condensed ivory/off-white capitals, one or two lines where practical, plus one short deep-red underline. No secondary generated copy.
 
 MANDATORY SOURCES:
-Image 1: 12_SOURCE_PREP/RV016_CONFIG_2023_CROWD.jpg
+Image 1: 12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png
 
 SOURCE FIDELITY:
 Use every attached image as the actual factual visual content. Preserve authentic document wording, UI controls, logos, faces, people, architecture and source composition. Never redraw, paraphrase, replace, synthesize or invent a substitute source. Source-native text may remain readable; generated text is limited to the locked headline.
 
 SOURCE ROLE:
-image 1 = Figma Config 2023 crowd; it is the print, unchanged — do not alter or add people.
+image 1 = Adobe Form 8-K merger-agreement excerpt (Item 1.01, Merger Consideration: approximately $10 billion in cash and approximately $10 billion in Company Shares); it is the paper, shown unchanged — never retype it. No other document may appear.
 
 COMPOSITION:
-a tidy dark desk; a medium photographic print of a conference crowd lies squarely on the right; beside it a neatly closed plain grey folder aligned parallel to the print. headline zone inside the top 45% and left 40% of the frame. Folder and print center-right, between 25% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make authentic photo evidence large enough to identify the people/place/event; preserve faces and source composition.
+a tidy dark desk; the authentic 8-K excerpt printed on warm ivory paper lies squarely on the right, calm and orderly like routine corporate paperwork; beside it a neatly closed plain grey folder aligned parallel to the page. headline zone inside the top 45% and left 40% of the frame. Folder and page center-right, between 25% and 74% of frame height. The bottom 22% is empty dark charcoal. Treat that layout as a guide for hierarchy, not as a rigid graphic grid. Keep the evidence large, legible and visually dominant. Headline and evidence must feel designed together as one cinematic shot. Make the authentic filing excerpt large enough that the Merger Consideration wording is legible; preserve its exact wording and layout.
 
 STYLE:
 Approved R9 evidence-editorial language: deep charcoal-black textured environment, warm aged ivory paper/matte surfaces, low-key directional warm key light, subtle cool shadow falloff, fine cinematic grain, restrained deep-red accents, elegant information-rich business documentary photography. The source is the hero; decoration is subordinate.
@@ -1388,7 +1390,7 @@ Keep the bottom 15% of the full 16:9 frame calm, dark and free of headline, face
 Deliver exactly one finished cinematic 16:9 frame.
 
 R14 RELEASE-RESOLUTION REGENERATION — HIGHEST PRIORITY:
-This slot previously passed QC but only a 960x540 preview survives. Regenerate the same beat as a fresh finished frame: same locked headline, same attached sources, same beat meaning, same canon style.
+This slot previously passed QC but only a 960x540 preview survives. Regenerate the same beat as a fresh finished frame: same locked headline, same beat meaning, the attached rebound source, same canon style.
 Proven caption-safe layout from R12/R13: keep the headline inside the top 8%-34% of frame height; every source board, label, face, key number and bright paper edge must end ABOVE 77% of frame height.
 The bottom 23% of the frame must be uninterrupted deep charcoal with only subtle texture/light falloff.
 
