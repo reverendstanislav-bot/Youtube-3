@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "R11 hard QC complete: 11/16 retry frames PASS, 5 REJECT on subtitle-safe/composition only. Total usable PASS is 105/110. Prepare layout-only retry prompts for F010, F054, F059, F061, F104; no spend without explicit owner approval."
+next_action: "R12 layout-only retry pack is ready for F010, F054, F059, F061, F104 using unchanged repaired references. Wait for explicit owner approval before the 5-job / 2.5-credit run; no automatic retries."
 blockers: []
 
 stages:
@@ -172,6 +172,16 @@ assets:
   stage_13_r11_retry_qc_summary: "13_R11_RETRY_QC.md"
   stage_13_r11_remaining_reject_slots: "F010,F054,F059,F061,F104"
   stage_13_r11_additional_retry_authorized: false
+  stage_13_r12_layout_retry_prompt_ready: "5"
+  stage_13_r12_layout_retry_reference_ready: "5"
+  stage_13_r12_layout_retry_slots: "F010,F054,F059,F061,F104"
+  stage_13_r12_layout_retry_base_jobs: "5"
+  stage_13_r12_layout_retry_base_credits: "2.5"
+  stage_13_r12_layout_retry_authorized: false
+  stage_13_r12_layout_retry_jobs_launched: "0"
+  stage_13_r12_layout_retry_pack: "13_R12_REJECT5_LAYOUT_ONLY_EXECUTION_PACK.md"
+  stage_13_r12_layout_retry_queue: "13_R12_REJECT5_LAYOUT_ONLY_QUEUE.csv"
+  stage_13_r12_layout_fix_spec: "13_R12_REJECT5_LAYOUT_FIX_SPEC.md"
   stage_13_r11_retry_prompt_pack: "13_R11_REJECT16_RETRY_EXECUTION_PACK.md"
   stage_13_r11_retry_queue: "13_R11_REJECT16_RETRY_QUEUE.csv"
   stage_13_r11_repaired_reference_resolver: "13_R11_REPAIRED_REFERENCE_RESOLVER.csv"
