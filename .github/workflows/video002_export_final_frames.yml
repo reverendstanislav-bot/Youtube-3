@@ -43,6 +43,14 @@ jobs:
           print('PASS: 110/110 frames are exactly 1920x1080')
           PY
 
+      - name: Upload normalized frame artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO002_FINAL_FRAMES_1080P
+          path: 03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/15_FINAL_FRAMES_1080P
+          compression-level: 0
+          retention-days: 7
+
       - name: Commit normalized 1080p frame set
         run: |
           git config user.name "youtube3-production-bot"
