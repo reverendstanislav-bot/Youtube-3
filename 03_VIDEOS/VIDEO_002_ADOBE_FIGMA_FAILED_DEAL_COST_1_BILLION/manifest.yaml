@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "The approved 55-job GPT Image 2 run is complete 55/55 with 0 submission failures and 0 retries. Perform PASS/REJECT visual QC and map each result back to its F-slot; do not spend on retries without new owner approval."
+next_action: "Hard QC complete: 39/55 new frames PASS and 16/55 REJECT. Total usable PASS is 94/110. Rebuild the 10 defective source-prep assets first; no paid retry until separate owner approval."
 blockers: []
 
 stages:
@@ -146,6 +146,14 @@ assets:
   stage_13_queue_001_075_qc_reject: "35"
   stage_13_total_locked_pass_after_queue_075: "55"
   stage_13_remaining_without_pass_after_queue_075: "55"
+  stage_13_r10_remaining55_hard_qc_pass: "39"
+  stage_13_r10_remaining55_hard_qc_reject: "16"
+  stage_13_r10_total_locked_pass_after_hard_qc: "94"
+  stage_13_r10_remaining_without_pass_after_hard_qc: "16"
+  stage_13_r10_source_prep_defect_count: "10"
+  stage_13_r10_remaining55_qc_file: "13_R10_REMAINING55_QC.csv"
+  stage_13_r10_source_prep_defects_file: "13_R10_SOURCE_PREP_DEFECTS.csv"
+  stage_13_r10_retry_authorized: false
   stage_13_queue_001_075_qc_file: "13_R10_QUEUE_001_075_QC.csv"
   stage_13_queue_001_075_recovery_lock: "13_R10_QUEUE_001_075_RECOVERY_LOCK.md"
   stage_13_queue_001_075_recheck_r2: "13_R10_QUEUE_001_075_RECHECK_R2.md"

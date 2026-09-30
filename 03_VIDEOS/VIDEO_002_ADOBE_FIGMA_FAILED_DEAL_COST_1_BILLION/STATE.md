@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — R10 REMAINING55 GENERATION COMPLETE / QC PENDING**
+- Current pipeline stage: **13 VISUAL ASSET QC — R10 REMAINING55 HARD QC COMPLETE / SOURCE-PREP REPAIR REQUIRED**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -158,12 +158,22 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Generation set ledger: `13_R10_REMAINING55_GENERATION_SET.csv`
 - Slot mapping: **PENDING QC MAPPING**; provider creation order is not treated as canonical frame order.
 
+## R10 remaining-55 hard QC result
+- New frames audited: **55 / 55**
+- PASS: **39**
+- REJECT: **16**
+- Total usable PASS now: **94 / 110**
+- Remaining without PASS: **16 / 110**
+- Source-prep defects: **10**
+- QC ledger: `13_R10_REMAINING55_QC.csv`
+- Defect ledger: `13_R10_SOURCE_PREP_DEFECTS.csv`
+- Paid retries: **0**
+
 ## Next action
-1. Keep all **55 prior PASS frames** locked unless the owner explicitly rejects one.
-2. Perform hard **PASS / REJECT** QC on the newly completed 55 images against the execution pack.
-3. Map each completed generation back to its F-slot during QC; do not infer slot identity from provider creation timestamp alone.
-4. No retry/regeneration spend without a new explicit owner approval.
-5. Keep bottom 15% subtitle-safe and source fidelity absolute.
+1. Keep all **94 PASS frames** locked.
+2. Rebuild/verify the **10 defective source-prep assets**.
+3. Do not retry the 16 REJECT slots until source prep is fixed.
+4. After repair, present exact retry count/cost for separate approval.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

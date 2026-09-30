@@ -1,0 +1,11 @@
+source_id,affected_frames,qc_status,defect,required_action
+RV027,F007,REJECT_SOURCE_PREP,Generic Figma hero artwork duplicated where search/file-preview UI was required.,Rebuild from locked official source before any paid retry.
+RV028,F007,REJECT_SOURCE_PREP,Generic Figma hero artwork duplicated where workspace/navigation UI was required.,Rebuild from locked official source before any paid retry.
+RV034,F010,REJECT_SOURCE_PREP,Generic Figma hero artwork instead of design-system UI.,Rebuild from locked official source before any paid retry.
+RV037,F011;F054,REJECT_SOURCE_PREP,Promotional Dev Mode artwork instead of authentic Dev Mode product screenshot/UI.,Rebuild from locked official source before any paid retry.
+RV042,F061,REJECT_SOURCE_PREP,Generic Figma hero artwork instead of advanced-prototyping UI.,Rebuild from locked official source before any paid retry.
+RV054,F051;F062;F073;F105,REJECT_SOURCE_PREP,CMA timeline extraction is malformed with escaped/HTML-like garbage.,Rebuild from locked official source before any paid retry.
+RV056,F053;F059;F063;F104,REJECT_SOURCE_PREP,CMA provisional-findings extraction contains escape/markup artifacts.,Rebuild from locked official source before any paid retry.
+RV015,F093,REJECT_SOURCE_PREP,Generic Figma artwork instead of Config 2023 keynote-stage photo.,Rebuild from locked official source before any paid retry.
+RV018,F100,REJECT_SOURCE_PREP,Generic Figma artwork instead of IPO-era portrait.,Rebuild from locked official source before any paid retry.
+RV072,F095,REJECT_SOURCE_PREP,S-1 announcement prep contains CSS/style-text garbage instead of clean announcement copy.,Rebuild from locked official source before any paid retry.
