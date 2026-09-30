@@ -224,7 +224,17 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Export commit: `c333f1bfbf4c89e478db642da76ab153d2a8182a`
 - New AI generation spend: **0 credits**
 
+## R14 preview-40 release-resolution regeneration
+- Scope: the 40 slots that existed only as 960×540 recovery previews
+- Owner approval: **YES — Higgsfield, 1k (1344×752)**; spend **20.0 credits**, 0 retries
+- Source prep: 5 aliases + 6 new official-source references uploaded (`13_R14_SOURCE_PREP.csv`); F037 rebound RV016 → RV048
+- Completed: **40 / 40** · Hard QC: **33 PASS / 7 REJECT**
+- REJECT: `F012 F013 F033 F037 F043 F048 F074` — see `13_R14_PREVIEW40_QC.md`
+- Preview-backed slots remaining: **7** (locked previews stay as fallback)
+- Retry (7 × 0.5 = 3.5 credits, after RV048 re-crop): **NOT AUTHORIZED**
+
 ## Next action
+0. Swap the 33 R14 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
 1. Use only `15_FINAL_FRAMES_1080P/F001.jpg…F110.jpg` for the next picture assembly.
 2. Do not use the invalidated V1 MP4.
 3. Rebuild the full 15:40.617 assembly with the fixed normalization path, then run visual/timing QC.

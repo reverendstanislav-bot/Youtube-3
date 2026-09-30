@@ -263,7 +263,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 105.940 → 114.760 (8.820 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `3ebe0696-9f75-4eb8-8105-e7eb75ac056c`
 
 ### R14 EXECUTION PROMPT
 
@@ -452,7 +452,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 138.300 → 146.580 (8.280 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV013_FIGMA_FOUNDERS_ARCHIVAL.jpg` → Higgsfield media `cd54ef67-c63d-4d13-be87-97556941d0de`
 
 ### R14 EXECUTION PROMPT
 
@@ -580,7 +580,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 155.480 → 161.160 (5.680 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV001_NARAYEN_PORTRAIT.jpg` → Higgsfield media `7c86652d-2b71-42f6-99c7-3a4b1a78a5ff`
 
 ### R14 EXECUTION PROMPT
 
@@ -643,7 +643,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 170.080 → 179.580 (9.500 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `11ed80fd-8035-4260-94c1-e6faa0bf96f9`
 - Image 2: `12_SOURCE_PREP/RV050_JUNE19_NO_FEE_CROP.png` → Higgsfield media `4d458471-bcf8-4c86-808e-98fc73c9ac62`
 
 ### R14 EXECUTION PROMPT
@@ -771,7 +771,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 198.400 → 207.520 (9.120 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `11ed80fd-8035-4260-94c1-e6faa0bf96f9`
 - Image 2: `12_SOURCE_PREP/RV065_ADOBE_IDENTIFIER.png` → Higgsfield media `d22816b6-faa3-45eb-a5f3-ef985e2375ce`
 
 ### R14 EXECUTION PROMPT
@@ -1151,7 +1151,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 273.980 → 278.820 (4.840 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `3ebe0696-9f75-4eb8-8105-e7eb75ac056c`
 
 ### R14 EXECUTION PROMPT
 
@@ -1342,7 +1342,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 303.880 → 308.020 (4.140 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `3ebe0696-9f75-4eb8-8105-e7eb75ac056c`
 
 **R14 SOURCE REBIND (2026-09-30, owner delegated):** RV016 Config 2023 crowd photo does not exist on the official page (current or Wayback 2023). Rebound to RV048 8-K merger-agreement excerpt — the same definitive-agreement evidence (~$20B, half cash / half stock) the locked R10 PASS F037 frame was built on.
 
@@ -1407,7 +1407,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 349.400 → 359.780 (10.380 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png` → Higgsfield media `7b1daf92-ae5f-4190-a979-df9b434a702b`
 
 ### R14 EXECUTION PROMPT
 
@@ -1472,7 +1472,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **LOCKED REFERENCES — REUSE UNCHANGED:**
 - Image 1: `12_SOURCE_PREP/RV054_CMA_CASE_TIMELINE_CROP.png` → Higgsfield media `2be9b5d2-084c-4c6e-bd2f-b5dcc0cfc798`
 - Image 2: `12_SOURCE_PREP/RV068_BERLAYMONT.jpg` → Higgsfield media `a3f3abf1-ac8b-4668-9e2c-8f906599b70e`
-- Image 3: `12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 3: `12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png` → Higgsfield media `6c87dd96-a09c-44e7-879f-211ceb4098de`
 
 ### R14 EXECUTION PROMPT
 
@@ -1537,7 +1537,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 378.720 → 382.580 (3.860 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV055_CMA_PHASE1_DECISION_CROP.png` → Higgsfield media `7b1daf92-ae5f-4190-a979-df9b434a702b`
 - Image 2: `12_SOURCE_PREP/RV068_BERLAYMONT.jpg` → Higgsfield media `a3f3abf1-ac8b-4668-9e2c-8f906599b70e`
 
 ### R14 EXECUTION PROMPT
@@ -1602,7 +1602,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 395.560 → 403.160 (7.600 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV048_8K_MERGER_AGREEMENT_CROP.png` → Higgsfield media `3ebe0696-9f75-4eb8-8105-e7eb75ac056c`
 
 ### R14 EXECUTION PROMPT
 
@@ -1729,7 +1729,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
 - Image 1: `12_SOURCE_PREP/RV009_NARAYEN_MAX_2022_STAGE.jpg` → Higgsfield media `78c95d50-0a84-43d0-bb88-55b8e24190b4`
-- Image 2: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 2: `12_SOURCE_PREP/RV012_FIELD_PORTRAIT.jpg` → Higgsfield media `11ed80fd-8035-4260-94c1-e6faa0bf96f9`
 
 ### R14 EXECUTION PROMPT
 
@@ -1984,7 +1984,7 @@ The bottom 15% must contain only dark, low-detail background. If anything import
 **TIMING:** 631.240 → 639.700 (8.460 sec)
 
 **LOCKED REFERENCES — REUSE UNCHANGED:**
-- Image 1: `12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png` → Higgsfield media `PENDING_UPLOAD` (prepared locally, see `13_R14_SOURCE_PREP.csv`)
+- Image 1: `12_SOURCE_PREP/RV060_DOJ_STATEMENT_CROP.png` → Higgsfield media `6c87dd96-a09c-44e7-879f-211ceb4098de`
 - Image 2: `12_SOURCE_PREP/RV070_DOJ_HQ.jpg` → Higgsfield media `7c2e44fc-214e-44de-a75f-f84ace946e33`
 
 ### R14 EXECUTION PROMPT
