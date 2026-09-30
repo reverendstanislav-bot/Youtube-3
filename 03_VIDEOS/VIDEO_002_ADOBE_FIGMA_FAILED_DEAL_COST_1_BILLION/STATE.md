@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **13 VISUAL ASSET QC — R11 REJECT16 RETRY GENERATED / QC PENDING**
+- Current pipeline stage: **13 VISUAL ASSET QC — R11 RETRY HARD QC COMPLETE / 5 FRAMES REMAIN**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -169,28 +169,26 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - Defect ledger: `13_R10_SOURCE_PREP_DEFECTS.csv`
 - Paid retries: **0**
 
-## R11 reject16 retry readiness
-- R10 REJECT slots: **16**
-- Defective source-prep inputs repaired: **10 / 10**
-- Repaired reference media verified: **10 / 10**
-- Retry prompts: **16 / 16**
-- Retry bindings: **16 / 16**
-- Retry pack: `13_R11_REJECT16_RETRY_EXECUTION_PACK.md`
-- Retry queue: `13_R11_REJECT16_RETRY_QUEUE.csv`
-- R11 resolver: `13_R11_REPAIRED_REFERENCE_RESOLVER.csv`
-- Source repair ledger: `13_R11_SOURCE_PREP_REPAIR.csv`
-- Base retry cost if approved: **16 × 0.5 = 8.0 credits**
-- Paid retry authorization: **YES — owner approved in chat**
-- Retry jobs launched: **16 / 16**
-- Retry jobs completed: **16 / 16**
-- Retry generation result ledger: `13_R11_RETRY_RESULTS.csv`
-- Retry spend: **8.0 credits base scope**
+## R11 reject16 retry QC result
+- Retry frames audited: **16 / 16**
+- PASS: **11**
+- REJECT: **5**
+- Total usable PASS now: **105 / 110**
+- Remaining without PASS: **5 / 110**
+- PASS slots: `F007, F011, F051, F053, F062, F063, F073, F093, F095, F100, F105`
+- REJECT slots: `F010, F054, F059, F061, F104`
+- Reject root cause: **subtitle-safe / composition only**
+- Repaired source references remain valid and locked.
+- QC ledger: `13_R11_RETRY_QC.csv`
+- QC summary: `13_R11_RETRY_QC.md`
+- Additional QC spend: **0 credits**
+- Additional retry jobs launched: **0**
 
 ## Next action
-1. Keep all **94 existing PASS frames** locked.
-2. Keep the repaired references and R11 prompts locked.
-3. Run hard binary QC on the 16 completed R11 retry frames.
-4. Do not auto-regenerate any QC failures; any further retry needs separate owner approval.
+1. Keep all **105 PASS frames** locked.
+2. Prepare corrected layout-only retry prompts for **F010, F054, F059, F061, F104** using the already-repaired references.
+3. Do not spend any retry credits until the owner explicitly approves the exact 5-job cost.
+4. No automatic retries.
 
 ## Spend lock
 No TTS, image generation, video generation or retries without explicit owner approval.

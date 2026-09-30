@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-09-25"
 last_updated: "2026-09-29"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "R11 reject16 retry run completed: 16/16 Higgsfield GPT Image 2 jobs finished. Run binary QC next; no automatic retry of failures without separate owner approval."
+next_action: "R11 hard QC complete: 11/16 retry frames PASS, 5 REJECT on subtitle-safe/composition only. Total usable PASS is 105/110. Prepare layout-only retry prompts for F010, F054, F059, F061, F104; no spend without explicit owner approval."
 blockers: []
 
 stages:
@@ -164,6 +164,14 @@ assets:
   stage_13_r11_retry_jobs_launched: "16"
   stage_13_r11_retry_jobs_completed: "16"
   stage_13_r11_retry_results: "13_R11_RETRY_RESULTS.csv"
+  stage_13_r11_retry_qc_pass: "11"
+  stage_13_r11_retry_qc_reject: "5"
+  stage_13_r11_total_locked_pass_after_qc: "105"
+  stage_13_r11_remaining_without_pass_after_qc: "5"
+  stage_13_r11_retry_qc_file: "13_R11_RETRY_QC.csv"
+  stage_13_r11_retry_qc_summary: "13_R11_RETRY_QC.md"
+  stage_13_r11_remaining_reject_slots: "F010,F054,F059,F061,F104"
+  stage_13_r11_additional_retry_authorized: false
   stage_13_r11_retry_prompt_pack: "13_R11_REJECT16_RETRY_EXECUTION_PACK.md"
   stage_13_r11_retry_queue: "13_R11_REJECT16_RETRY_QUEUE.csv"
   stage_13_r11_repaired_reference_resolver: "13_R11_REPAIRED_REFERENCE_RESOLVER.csv"
