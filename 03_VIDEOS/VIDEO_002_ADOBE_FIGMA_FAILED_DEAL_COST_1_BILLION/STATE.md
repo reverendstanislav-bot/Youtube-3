@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **15C MOTION EDIT — REVIEW CUT BUILT / OWNER REVIEW PENDING**
+- Current pipeline stage: **15D V3 ACCENT EDIT — BUILT / OWNER REVIEW PENDING (V2 = approved baseline)**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -257,6 +257,10 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 - `15C_BUILD_MOTION.py`: eased centred push-in / pull-out per beat, 0.5 s dissolves, 0.9 s dip-to-black at 12 chapter changes, transitions centred on cuts; 15B captions burned; voice-only
 - V2 (no jitter, centred zoom ≤ 3 %, no drift): `15C_MOTION/VIDEO_002_STAGE15C_REVIEW_V2_1080P25.mp4`, 940.600 s, SHA-256 `c38dfa33…`
 - Gate: **owner visual review pending**
+
+## Stage 15D V3 accent edit
+- Owner rated V2 a good baseline ("something still missing"); V3 adds punch-ins on narrated numbers, hard-cut rhythm, count-up number cards — see `15D_V3_RESULT.md`
+- Review cut (local): `15D_V3/VIDEO_002_STAGE15D_REVIEW_V3_1080P25.mp4`, SHA-256 `41bc4fd2…`
 
 ## Next action
 0. Swap the 38 R14/R15 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`, `13_R15_RETRY_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
