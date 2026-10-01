@@ -8,7 +8,7 @@ media_root: "C:/Users/KK/Documents/WhatItCost_media/003-ai-music-slop"
 
 # qualification -> research -> script -> voice -> visual -> edit -> release -> published
 stage: visual
-next_action: "Owner generates 22 images from _handoff/2026-09-27_003_img into return/ → yt.py ingest 003 → visual-director Mode 2"
+next_action: "164 image prompts READY (22 sent 09-27 + 142 plates). Owner decides who generates: Higgsfield by Claude (spend gate) or ChatGPT handoff → ingest → visual-director Mode 2"
 blockers: []
 
 # Owner gates. Each: NOT_STARTED | WAITING_OWNER | APPROVED | REJECTED
@@ -50,4 +50,5 @@ decisions:
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + 10 Shorts (title: He Owes $8 Million). SWITCH-GOV line resolved Sept 29"}
   - {date: "2026-09-27", gate: "g2_script_and_shorts_lock", decision: "APPROVED", note: "Owner locked script + Shorts. SWITCH-GOV line to be voiced as a separate segment after Sept 28 filing. Title: He Owes $8 Million (see TITLE entry)."}
   - {date: "2026-09-27", gate: "g3_voice_spend", decision: "APPROVED", note: "TTS 7 parts ~59 credits approved; actual 59.85"}
+  - {date: "2026-09-27", gate: "g4_images_accepted", decision: "ALL_FRAMES_GENERATED", note: "Owner: generate an image for every frame. 139 graphic beats get a generated background plate under their WeftCut motif. Exception kept per legal.md/visual_style.md: 23 document beats + 4 courthouse-photo beats stay authentic (no generated documents)."}
   - {date: "2026-09-27", gate: "voice", decision: "LOCKED", note: "Owner listened and locked narration PART 1-7 as is (no retakes). SWITCH-GOV 1/2 still to be voiced after Sept 29."}

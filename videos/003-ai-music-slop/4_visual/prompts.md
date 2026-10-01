@@ -189,3 +189,1139 @@ refs: style_money.png
 status: SENT
 prompt:
 Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the film's closing money image, converging the bot-farm and waveform motifs into a single final weight. What the viewer must understand: everything shown before collapses into one settled, heavy fact. Composition: hero is a single dim, glowing waveform line folding inward and thickening at the center of frame, faint echoes of small server-screen shapes dissolving into it from both sides; support is deep charcoal darkness surrounding the convergence point. Focal side: centered, symmetrical convergence, strongest negative space of the set to let the shape read as final and heavy. Text: no readable text, no numerals or digits of any kind — the figure is added later as a title in edit. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or currency symbols, no logos, no real-person likeness, no neon.
+
+## IMG-023 — B003 — Bot-farm math: a shelf of rented devices
+beat: B003
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: opens the film's cold arithmetic, the sheer number of rented accounts behind one man's bot operation. What the viewer must understand: a small, orderly grid of cheap machines doing the work, not a single device. Composition: hero is a tight cluster of identical inexpensive laptops and phones stacked on a dark metal shelf, each screen glowing with a faint blank light, arranged in neat rows along the left third of frame; support is a loose tangle of charging cables disappearing into shadow on the right. Focal side: left-weighted, with the center and right two-thirds of the frame kept dark, soft and quiet for the overlay. Text: no readable text, no numerals, no screen UI of any kind beyond a faint blank glow. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or logos, no real device brands, no faces, no neon or cyberpunk styling.
+
+## IMG-024 — B004 — Projected royalties: a blank spreadsheet by lamplight
+beat: B004
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the moment a yearly royalty figure was calculated in advance, on paper, before any money existed. What the viewer must understand: a cold financial projection, not a real payout. Composition: hero is a laptop open on a dark desk, its screen glowing with a faint blank spreadsheet grid of thin rule lines only, positioned on the left third of frame; support is a small loose stack of plain coins catching the screen's glow beside the keyboard. Focal side: left-weighted, keeping the center and right of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible cells or labels on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers anywhere, no logos, no real-person likeness, no small print.
+
+## IMG-025 — B005 — The email, flagged as allegation
+beat: B005
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the email just shown as a prosecutor's allegation, not an established fact. What the viewer must understand: caution — this is a claim from a court filing, not proven. Composition: hero is a laptop screen close-up, tilted on a dark desk, showing a blank glowing email interface with only faint illegible line shapes where text would be, placed in the lower half of frame; support is soft out-of-focus shadow and a loose paper edge filling the upper portion. Focal side: bottom-weighted, leaving the upper-center of the frame dark, plain and quiet for the overlay. Text: no readable text, no numerals, no legible words on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers, no logos, no fabricated letterhead, no real-person likeness.
+
+## IMG-026 — B007 — The money judgment: paper and pen on a dark desk
+beat: B007
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the film's central money beat, the moment a money judgment was agreed to. What the viewer must understand: a heavy, formal financial consequence, settled on paper. Composition: hero is a neat stack of blank aged legal paper on a dark desk with a plain pen resting on top, lit by a narrow desk-lamp pool, positioned on the right third of frame; support is a dim, out-of-focus corridor with a closed wooden door visible in the background on the left. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible words on the pages. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, seals or signatures, no logos, no real-person likeness, no gavel cliché.
+
+## IMG-027 — B012 — AI contract: a laptop cascading waveform thumbnails
+beat: B012
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: shows the contract that put mass song production on an industrial footing. What the viewer must understand: music being produced like inventory, at volume. Composition: hero is a laptop at the edge of a dark desk, its screen showing a rapid cascade of small, identical, faint waveform thumbnails scrolling past (no artwork, no letters), positioned on the right side of frame; support is a single blank paper contract lying beside it, slightly out of focus. Focal side: right-weighted, keeping the center and left two-thirds of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible contract clauses or thumbnail labels. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, logos or brand marks, no real album art, no fabricated contract text.
+
+## IMG-028 — B014 — Spotify's filter: light through a fine mesh
+beat: B014
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: illustrates a platform's own claim that its protections limited what the fraud could extract. What the viewer must understand: a filtering mechanism catching most of something, letting a little through. Composition: hero is a fine metal mesh screen lit from behind in a dark room, small points of light passing cleanly through the weave while larger soft shapes are caught and scattered at its surface, positioned on the right side of frame; support is a faint, blurred glow suggesting distant server racks in the deep background on the left. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no UI or logos of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real platform logos or brand marks, no legible text, no dashboard UI, no neon.
+
+## IMG-029 — B017 — A single coin falling toward dark water
+beat: B017
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the defense's own "drop in an ocean" metaphor for a single fake stream's effect. What the viewer must understand: one small, individually trivial act against an enormous calm surface. Composition: hero is a single plain coin caught mid-fall between two anonymous fingers in the upper-right of frame, about to strike a vast, still, dark pool of water below; support is the pool's calm dark surface filling the lower two-thirds of the frame, one faint ripple already spreading from an earlier drop. Focal side: upper-right hand and coin, with the center of the frame occupied by the calm, dark, low-detail water surface kept quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face or full body, no real currency design, no legible text, no logos.
+
+## IMG-030 — B018 — Federal courthouse exterior, generic
+beat: B018
+type: image
+refs: style_timeline_place.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: grounds the prosecutor's statement in the setting of federal justice, without naming any specific building. What the viewer must understand: the weight of an official institutional voice. Composition: hero is a generic federal courthouse exterior with tall stone columns, photographed from a low angle on the right two-thirds of frame in soft midday light; support is a bare flagpole silhouette barely visible against the sky in the background. Focal side: right-weighted, keeping the lower-left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no signage, seals or plaques of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real identifiable courthouse likeness, no legible signage or seals, no people, no gavel or scales-of-justice cliché.
+
+## IMG-031 — B020 — Before the case: a desk of unrelated ventures
+beat: B020
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: establishes the breadth of ventures Smith ran before the case, beyond music. What the viewer must understand: a restless, ordinary businessman with several unrelated projects, not yet a fraud case. Composition: hero is a desk arrangement of a coiled stethoscope resting beside a stack of plain blank folders and a studio microphone on a small stand, lit warmly, positioned on the right two-thirds of frame; support is soft dark negative space filling the left third. Focal side: right-weighted, keeping the left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no labels or logos on any object. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people, no faces, no visible brand logos, no small print.
+
+## IMG-032 — B022 — Backstage curtain, stage light beyond
+beat: B022
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: evokes the televised talent-show ambition behind Smith's own words, without depicting any real person or stage. What the viewer must understand: showbusiness ambition, seen from just behind the scenes. Composition: hero is a heavy stage curtain pulled slightly open along the left edge of frame, warm stage lighting and soft lens flare spilling through the narrow gap; support is a blurred, distant silhouette of empty audience seating glimpsed through the opening. Focal side: left-weighted curtain and light, with the center and right two-thirds of the frame kept dark and quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: absolutely no visible or recognizable faces, no real-person likeness, no network logos or branding, no legible text.
+
+## IMG-033 — B023 — A radio tower at dusk
+beat: B023
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: grounds a Nashville radio promoter's quote about monitored airplay in a plain, real-world image of broadcast infrastructure. What the viewer must understand: an old, physically verifiable system, resistant to manipulation. Composition: hero is a plain radio transmission tower with a few small warning lights, silhouetted against a deepening dusk sky, positioned in the left third of frame; support is soft layered cloud texture filling the right two-thirds. Focal side: left-weighted tower, keeping the center and right of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no station signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible signage or call letters, no logos, no people, no real identifiable tower.
+
+## IMG-034 — B025 — Monitored charts: VU meters on a dark rack
+beat: B025
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: explains the mechanism of a monitored chart through the physical equipment behind it. What the viewer must understand: real stations, real signals, measured by real machines. Composition: hero is a bank of analog radio-station VU meters and dials on a dark equipment rack, needles mid-swing, glowing warmly, positioned on the right side of frame; support is a loose stack of blank, unlabeled vinyl records softly blurred in the lower-left foreground. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible dial markings or labels. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers, no brand logos, no people, no dashboard-style UI chrome.
+
+## IMG-035 — B026 — Chart position: a corkboard of blank slips
+beat: B026
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: a breather image for the song's real chart placement, told through an ordinary station office object rather than a graphic. What the viewer must understand: a small, legitimate industry milestone, modestly recorded. Composition: hero is a corkboard with several narrow blank paper strips pinned in a vertical column suggesting a ranked list, lit by a small desk lamp, positioned on the left third of frame; support is a softly blurred radio-studio window visible in the background on the right. Focal side: left-weighted, keeping the center and right of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible markings on the strips. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers, no logos, no people, no small print.
+
+## IMG-036 — B027 — A saxophone in warm studio light
+beat: B027
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: a breather image for the number-one jazz album, grounding the claim in a real instrument rather than a chart graphic. What the viewer must understand: a genuine musical achievement, modest in scale. Composition: hero is a brass saxophone resting upright on a stand under warm practical light, positioned on the left third of frame; support is a softly blurred upright piano and its keys visible in the background on the right. Focal side: left-weighted, keeping the center and right of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no visible brand engravings. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible brand logos, no people, no legible text, no small print.
+
+## IMG-037 — B028 — A phone's glow in a dark room
+beat: B028
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's own celebratory social-media post about the number-one album, without showing any real app or his face. What the viewer must understand: a private moment of personal pride, posted into public view. Composition: hero is a hand holding a phone low in frame, its screen glowing with a blurred, entirely illegible generic layout (no logos, no text), the surrounding room dark, positioned in the lower-left third of frame; support is soft out-of-focus city-window bokeh in the background. Focal side: lower-left, keeping the center and upper frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible app interface. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real app logos or brand marks, no legible text on the screen, no visible or recognizable face.
+
+## IMG-038 — B029 — Dissolve: radio dial fading into waveform
+beat: B029
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: pivots the film from the chart-fraud question to the real subject, streaming royalties. What the viewer must understand: one world of evidence dissolving into another, a correction of scope. Composition: hero is a soft diagonal dissolve in the upper half of frame between two faint textures — on the left, a blurred analog radio dial glow, on the right, a thin digital streaming-waveform line — meeting softly at the center; support is deep charcoal darkness filling the entire lower half. Focal side: upper frame, symmetrical dissolve, with the lower half and lower-center kept especially dark, plain and quiet for the overlay. Text: no readable text, no numerals, no legible dial markings or waveform data. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers, no logos, no real app or station branding, no neon.
+
+## IMG-039 — B031 — Courthouse facade at dusk
+beat: B031
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the guilty plea with a generic image of federal justice. What the viewer must understand: a grave, formal turning point in the case. Composition: hero is a wide stone courthouse facade with tall columns, photographed from below at dusk, cool fading light at the top of frame, centered symmetrically; support is a single bare flagpole silhouette to the right of the facade. Focal side: centered facade, symmetrical, with the lower half of the frame — steps and shadow — kept plain, dark and quiet for the overlay. Text: no readable text, no numerals, no signage, seals or plaques of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real identifiable courthouse likeness, no legible signage or seals, no people, no gavel or scales-of-justice cliché.
+
+## IMG-040 — B032 — One idea: a single suspended coin
+beat: B032
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the pivot into the film's explanatory section, built around one simple idea. What the viewer must understand: a single, isolated concept about to be explained. Composition: hero is a single plain coin suspended in mid-air against deep charcoal darkness, caught by a narrow shaft of warm light, positioned in the lower-right third of frame; support is a soft, blurred reflection of the coin on a dark desk surface below it. Focal side: lower-right, keeping the center and upper two-thirds of the frame dark and quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real coin design, no legible text, no logos.
+
+## IMG-041 — B033 — How it works: coins pouring into a basin
+beat: B033
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes revenue flowing into a shared pool before it is split. What the viewer must understand: one continuous stream of money feeding one shared pool. Composition: hero is a narrow stream of coins pouring downward from the top of frame into a wide shallow dark basin below, positioned on the right two-thirds of frame, catching a warm overhead light; support is soft ripple reflections spreading across the basin's dark surface. Focal side: right-weighted, keeping the left third of the frame dark and quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real coin or banknote design, no legible numbers, no logos.
+
+## IMG-042 — B034 — The simplified pot: a ring of coins from above
+beat: B034
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the film's simplified illustration of a fixed pool of money split among a fixed number of streams. What the viewer must understand: an exact, closed pot with nothing hidden. Composition: hero is a tight ring of identical plain coins arranged in a perfect circle on a dark wooden table, shot directly from above, with the table's bare dark surface left empty and visible in the hollow center of the ring; support is a single soft directional light raking across the coins from one side. Focal side: centered ring, the hollow middle of the circle kept dark, bare and quiet for the overlay. Text: no readable text, no numerals or markings on any coin. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real coin design, no legible numbers, no logos.
+
+## IMG-043 — B036 — The same ring, now half missing
+beat: B036
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: continues the pot illustration to show real streams' share being cut in half. What the viewer must understand: the same fixed pot, now visibly smaller for the same real streams. Composition: hero is the same tight ring of plain coins from directly above, but with exactly half the ring now missing, a dark gap and faint shadow where those coins used to sit, on the same dark wooden table; support is the remaining half-ring of coins catching the same single raking light. Focal side: centered, the hollow middle and the missing half both kept dark and quiet for the overlay. Text: no readable text, no numerals or markings on any coin. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real coin design, no legible numbers, no logos.
+
+## IMG-044 — B037 — A hand lifting one slice from the pot
+beat: B037
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: states the prosecutors' framing plainly, a fake stream takes rather than creates. What the viewer must understand: money moving out of an existing pool, not new money appearing. Composition: hero is an anonymous hand, no face visible, lifting a single wedge-shaped slice of coins away from a round arrangement on a dark table, positioned in the lower-right third of frame; support is the remaining coin ring fading into soft shadow toward the left. Focal side: lower-right, keeping the center and upper frame dark and quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face or full body, no currency symbols, no legible numbers, no logos.
+
+## IMG-045 — B041 — Typing in the dark: the email begins
+beat: B041
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the indictment's quoted instruction to fabricate names and addresses. What the viewer must understand: a deliberate, typed instruction, written in private. Composition: hero is a pair of hands typing on a laptop keyboard in a dark room, seen from a low angle with only the screen's cool glow lighting the fingers, no face visible, positioned on the left third of frame; support is a blank sheet of paper and a pen resting beside the laptop. Focal side: left-weighted, keeping the center and right of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible words on the screen or paper. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face, no legible text, no logos, no fabricated document content.
+
+## IMG-046 — B045 — A hidden closet of rented machines
+beat: B045
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the indictment's claim that the setup had to stay undetectable. What the viewer must understand: machines deliberately kept out of sight. Composition: hero is a small utility closet packed with a few inexpensive laptops and routers stacked on a wire shelf, the door open just a crack letting out a faint glow, positioned on the right third of frame; support is a tangle of cables disappearing through a gap in the wall beside it. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible labels on any device. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real device brands, no faces, no neon or cyberpunk styling.
+
+## IMG-047 — B047 — One screen glowing brighter than the rest
+beat: B047
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: illustrates why one track with a billion streams would draw attention. What the viewer must understand: a single anomaly standing out against an otherwise uniform, quiet row. Composition: hero is a dark row of identical dim server screens receding along the right edge of frame, one screen near that edge glowing noticeably brighter and warmer than the others; support is soft shadow and loose cable clutter filling the left two-thirds. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible UI on any screen beyond a plain glow. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real device brands, no faces, no neon or alarm-icon styling.
+
+## IMG-048 — B048 — A server aisle receding into darkness
+beat: B048
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: illustrates the opposite strategy, the same volume spread thin across tens of thousands of tracks. What the viewer must understand: enormous breadth, each individual piece unremarkable. Composition: hero is a long server-rack aisle photographed from floor level, countless identical dim cabinet lights receding symmetrically into darkness along both sides of frame, with the empty aisle itself running straight down the center; support is a faint haze softening the furthest, most distant racks. Focal side: centered, symmetrical aisle, the center kept dark, plain and quiet for the overlay. Text: no readable text, no numerals, no legible labels on any rack. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or logos, no real hardware brands, no faces, no neon or cyberpunk styling.
+
+## IMG-049 — B049 — A spilling stack of blank storage drives
+beat: B049
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries prosecutors' theory that Smith needed ever more tracks to keep the scheme working. What the viewer must understand: a constant, growing demand for more raw material to spread across. Composition: hero is a loose, overflowing stack of blank unlabeled memory cards and small storage drives spilling across a dark desk, positioned in the lower-left third of frame; support is a single small desk lamp casting a narrow warm pool of light over the pile. Focal side: lower-left, keeping the center and upper two-thirds of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible labels on any drive. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real device brands, no faces, no small print.
+
+## IMG-050 — B050 — A silhouette typing at a night window
+beat: B050
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries a second indictment-quoted email, warning that too many streams on one song draws attention. What the viewer must understand: a quiet, private act of calculation at night. Composition: hero is a silhouette of a person's shoulder and arm typing at a laptop near a dark window at night, blurred distant city lights beyond the glass, face never visible, positioned on the right third of frame; support is the laptop's screen glow illuminating the desk surface in the foreground. Focal side: right-weighted, keeping the center and left of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible words on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face, no legible text, no logos, no fabricated document content.
+
+## IMG-051 — B051 — A stack of paper with red warning tabs
+beat: B051
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges into the section where the first warnings about the scheme arrive. What the viewer must understand: trouble beginning to accumulate, marked but not yet opened. Composition: hero is a stack of aged blank paper documents on a dark desk, several thin deep-red tabs protruding from the edges like warning flags, positioned in the lower-right third of frame; support is a narrow beam of desk-lamp light raking across the red tabs. Focal side: lower-right, keeping the center and upper two-thirds of the frame dark and quiet for the overlay. Text: no readable text, no numerals, no legible words on any page. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or numbers, no logos, no fabricated official markings, no people.
+
+## IMG-052 — B052 — Late-night email reply, no face, home studio desk
+beat: B052
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the private email reply in which Smith told his AI-music partner to release a song anyway. What the viewer must understand: a late-night, one-sided written exchange, not a public statement. Composition: hero is an open laptop on a home-studio desk at night, its screen glowing with a blurred, out-of-focus reply window reduced to soft illegible paragraph shapes, positioned in the left third of frame; support is a microphone on a stand softly out of focus in the right background. Focal side: left-weighted, laptop glow as the only light source. Leave the center and right two-thirds of the frame dark, soft and empty so a text overlay can sit there. Text: no readable text, no numerals, no legible words of any kind on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible email text, no real app UI or logos, no real-person face, no small print.
+
+## IMG-053 — B054 — Distribution back-office flags a release
+beat: B054
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: shows a distribution company privately flagging a Smith release as matching store-end streaming-abuse patterns. What the viewer must understand: an ordinary back-office review process catching something wrong. Composition: hero is a dim aggregator back-office desk with a row of monitors, one screen in the right third glowing with a soft, unreadable warm highlighted rectangle suggesting an internal flag; support is a stack of unlabeled folders at the left edge of frame. Focal side: right-weighted. Leave the center and left of frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible wording on any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible alerts, dashboards or UI chrome, no real distributor branding or logos, no people.
+
+## IMG-054 — B055 — A hurried denial, hands at a keyboard
+beat: B055
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's written denial that he had any intention of committing streaming fraud. What the viewer must understand: a defensive reply typed quickly, not a considered statement. Composition: hero is a tight close shot of hands typing on a keyboard at night (no face, no wrists jewelry, generic), laptop screen glowing with a blurred illegible paragraph, positioned left of frame; support is a half-full coffee mug softly out of focus at the right edge. Focal side: left-weighted, tighter crop than a wide desk shot. Leave the center and right of frame dark, soft and empty for a text overlay. Text: no readable text, no numerals, no legible words on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face, no identifying tattoos or jewelry, no legible text, no logos.
+
+## IMG-055 — B056 — Multiple stores, multiple flags, October 2018
+beat: B056
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: shows that by October 2018 several different stores had independently reported streaming abuse on Smith's catalog. What the viewer must understand: the same problem surfacing in parallel, from unrelated places. Composition: hero is a dim back-office desk with three separate monitors at increasing distance receding to the right, each glowing with a faintly different warm highlighted rectangle (no two identical), representing different stores flagging independently; support is a closed laptop resting flat at the left edge. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible wording on any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos on any screen, no real store branding, no people, no dashboard UI chrome.
+
+## IMG-056 — B057 — Escalating denial, a hand near the screen
+beat: B057
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's escalating written denial and appeal after being flagged. What the viewer must understand: rising frustration expressed only through posture and light, never through legible words. Composition: hero is a desk at night with a laptop glowing in the right third of frame, a hand mid-gesture hovering near the keyboard (no face) suggesting agitation; support is a dim desk lamp casting a small warm pool of light in the lower left. Focal side: right-weighted. Leave the center and left of frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible words on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible face, no legible text, no logos, no exaggerated or violent gesture.
+
+## IMG-057 — B058 — A third platform, a third denial
+beat: B058
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's March 2019 message accusing a streaming platform of slandering him to his distributors. What the viewer must understand: the same conflict now spreading across a third relationship. Composition: hero is three stacked phone screens of slightly different size resting on a dark desk, each tilted at a different angle, each glowing faintly and identically unreadable, arranged along the left side of frame; support is deep shadow filling the right two-thirds. Focal side: left-weighted. Leave the center and right of the frame dark and quiet for a text overlay. Text: no readable text, no numerals, no legible wording on any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos on any screen, no real brand phone hardware, no people.
+
+## IMG-058 — B061 — Two failed workarounds before the AI deal
+beat: B061
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: shows Smith trying a publicist's catalog and even selling fake streams as a service, before the AI deal. What the viewer must understand: smaller, improvised schemes that preceded the larger operation. Composition: hero is a blank glossy portfolio folder lying open on a desk beside a small dark laptop glowing faintly, both placed in the right two-thirds of frame; support is a softly blurred hint of a row of cheap phones mounted on a shelf in the deep background, barely legible as shapes. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible wording on the folder or any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, prices or logos, no real brand hardware, no people.
+
+## IMG-059 — B063 — "A TON of content," a low-angle laptop glow
+beat: B063
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's October 2018 email instruction to produce a ton of content in small streaming amounts, to stay under the radar. What the viewer must understand: a deliberate, calculated instruction, not a casual remark. Composition: hero is a laptop photographed from a low angle looking slightly up at the glowing screen, the blurred illegible paragraph filling the upper right of frame; support is a tangle of audio-interface cables and a small mixer softly out of focus in the lower left. Focal side: right-weighted, upper frame. Leave the center and lower-left dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible words on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no brand logos on equipment, no people, no small print.
+
+## IMG-060 — B065 — Hundreds of thousands of streams, the rack starts running
+beat: B065
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the moment the bot operation began producing hundreds of thousands of streams on AI-made tracks. What the viewer must understand: a mechanical operation now actively running at scale. Composition: hero is a dark rack of cheap phones mounted in rows, each screen looping a faint identical glowing waveform sliver, receding into soft blur toward the right side of frame; support is a tangle of charging cables in shadow at the left edge. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible UI beyond the faint waveform shape. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real brand phone hardware, no faces, no neon or cyberpunk styling.
+
+## IMG-061 — B066 — "We've proved the model works," two glowing laptops
+beat: B066
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the promoter's reply confirming the scheme was producing results. What the viewer must understand: two sides of a written exchange agreeing the method is working. Composition: hero is two separate laptops on two separate dark desks, one glowing faintly at the far left edge of frame and one glowing faintly at the far right edge, both screens blurred and illegible; support is a wide band of deep charcoal shadow filling the entire center of frame between them. Focal side: symmetrical, split left and right. Leave the center third of the frame dark, soft and empty for a text overlay. Text: no readable text, no numerals, no legible words on either screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no logos, no real-person face, no small print.
+
+## IMG-062 — B067 — Mass production: track icons pouring from both sides
+beat: B067
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the contract headline moment describing up to ten thousand songs a month. What the viewer must understand: industrial-scale output, not a handful of songs. Composition: hero is two dense streams of small identical blank rounded-rectangle track icons, one cascading down from the upper-left corner and one from the upper-right corner, each stream curving toward its own bottom corner; support is a thin blank sheet of paper visible at the very bottom edge, corner only, suggesting the contract beneath it all. Focal side: symmetrical, split left and right. Leave the vertical center of the frame dark, soft and empty for a text overlay. Text: no readable text, no numerals, no artwork or letters on any icon. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or currency symbols, no logos or brand marks, no real album art, no dashboard UI chrome.
+
+## IMG-063 — B068 — Signing the Master Services Agreement, hands only
+beat: B068
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the February 2019 contract between Smith and the AI music company's chief executive. What the viewer must understand: a formal agreement being finalized, without identifying either party. Composition: hero is two pairs of hands (no faces, no identifying jewelry) placing a blank contract page onto a glossy dark desk, a pen resting beside it, positioned in the right two-thirds of frame; support is a warm desk-lamp light pool spilling across the page. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible printing on the page. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no visible faces, no identifying jewelry or tattoos, no legible contract text, no logos or seals.
+
+## IMG-064 — B069 — Named: "A Master Services Agreement"
+beat: B069
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: names the contract at the center of the case. What the viewer must understand: a formal document sitting between two worlds — Smith's side and the AI company's side. Composition: hero is a small stack of blank contract pages resting on the left side of a dark desk; support is a desk lamp casting a warm pool of light on the right side of the same desk, nothing else in it. Focal side: split left and right, with a vertical band of deep shadow running down the middle of the frame. Leave that vertical center band dark, soft and empty for a text overlay. Text: no readable text, no numerals, no legible printing on any page. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible contract text, no seals or signatures, no logos, no people.
+
+## IMG-065 — B070 — Contract terms: ownership and naming rights
+beat: B070
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the contract term that Smith would own the songs outright and supply the names. What the viewer must understand: a specific, concrete clause, shown without revealing any actual wording. Composition: hero is a close, shallow-focus view of a blank sheet of paper with a pen resting diagonally across it as if a list were just written, positioned in the right two-thirds of frame; support is the edge of a dark desk fading into shadow on the left. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible handwriting of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or handwriting, no logos, no people, no small print.
+
+## IMG-066 — B071 — Contract terms: the payment split
+beat: B071
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the contract term splitting payment between a flat monthly fee and a share of streaming revenue. What the viewer must understand: two different-sized shares of the same pool of money. Composition: hero is two uneven piles of plain unmarked coins sitting side by side on a dark desk, one noticeably smaller than the other, positioned in the right two-thirds of frame; support is soft shadow extending the desk surface toward the left edge. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals or labels on the coins. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real banknote or coin designs, no legible numbers, no logos.
+
+## IMG-067 — B073 — Invented song names, a box of blank cards
+beat: B073
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: represents the invented, machine-generated song titles listed in the indictment. What the viewer must understand: a stack of invented names, generated like inventory, not written by anyone. Composition: hero is a small wooden index-card box with several blank off-white cards fanned out beside it on a dark desk, under a narrow beam of desk-lamp light, positioned in the right two-thirds of frame; support is deep shadow filling the left third. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals or letters on any card. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or letters on any card, no logos, no people, no small print.
+
+## IMG-068 — B074 — Invented artist names, a corkboard of blank notes
+beat: B074
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: represents the invented, machine-generated artist names listed in the indictment. What the viewer must understand: a second layer of invented identity, this time for performers who do not exist. Composition: hero is a small cork pinboard mounted on a dark wall with a loose grid of blank off-white sticky notes pinned to it, warm practical light from one side, positioned in the right two-thirds of frame; support is a sliver of desk edge visible in shadow at the lower left. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals or letters on any note. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or letters on any note, no logos, no people, no small print.
+
+## IMG-069 — B075 — "Instant music," a single soft glow on a dark screen
+beat: B075
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the AI company executive's own description of the output as "instant music." What the viewer must understand: a casual, almost dismissive internal attitude toward what was being produced. Composition: hero is a close-up laptop screen glowing faintly in the dark, a single small soft rounded glow dot visible near one corner of the screen (never a legible symbol, just a soft light shape), positioned in the left third of frame; support is a dark, out-of-focus office chair barely visible in the right background. Focal side: left-weighted. Leave the center and right of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible characters, symbols or emoji on the screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, code or emoji, no real-person likeness, no logos.
+
+## IMG-070 — B076 — Two empty chairs, names left out of the record
+beat: B076
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks that the AI company executive and the promoter are not named and not charged. What the viewer must understand: two people present in the story but absent from the public record, shown without identifying anyone. Composition: hero is two generic empty office chairs angled away from each other in a dim conference room, upper two-thirds of frame, softly lit by window light from one side; support is a plain, uncluttered floor filling the lower third. Focal side: centered, upper-weighted. Keep the lower-center of the frame — around the middle of the floor area — plain, dark and quiet for a status-tag overlay. Text: no readable text, no numerals, no name plates or signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people, no faces, no name plates or signage, no logos.
+
+## IMG-071 — B077 — A courthouse corridor, the guilty plea
+beat: B077
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks Smith's guilty plea to conspiracy to commit wire fraud. What the viewer must understand: a formal, consequential legal step, handled with restraint. Composition: hero is a generic, illustrative wood-paneled courthouse corridor receding into soft light from high unseen windows, a wooden bench along one side, upper two-thirds of frame; support is the plain corridor floor filling the lower third. Focal side: centered, receding perspective. Keep the lower-center of the frame — the floor near the vanishing point — plain, dark and quiet for a status-tag overlay. Text: no readable text, no case numbers, seals or plaques of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real courthouse likeness, no seals or plaques, no people, no gavel or scales-of-justice cliché.
+
+## IMG-072 — B078 — "88 million streams," a wall of icons converging
+beat: B078
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's own June 2019 email boasting of 88 million total streams. What the viewer must understand: an overwhelming, self-reported number behind an ordinary email. Composition: hero is a dense wall of small identical blank rounded-rectangle track icons flooding in from the left and right edges of frame, each side's flow stopping just short of meeting; support is a single small laptop screen glowing faintly at the very bottom edge of frame, blurred and illegible, hinting at the email itself. Focal side: symmetrical, split left and right. Leave the vertical center of the frame dark, soft and empty for a text overlay. Text: no readable text, no numerals, no artwork or letters on any icon or screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or currency symbols, no logos, no real album art, no dashboard UI chrome.
+
+## IMG-073 — B079 — Reported earnings, coins pouring into two piles
+beat: B079
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith telling his two partners the streams were earning roughly a steady monthly sum. What the viewer must understand: money arriving on a recurring basis, split between people. Composition: hero is two separate streams of plain unmarked coins falling from the upper-left and upper-right corners of frame into two separate growing piles at the bottom-left and bottom-right corners; support is a dark wooden desk surface implied beneath both piles. Focal side: symmetrical, split left and right. Leave the vertical center of the frame dark, soft and empty for a text overlay. Text: no readable text, no numerals or labels on any coin. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real banknote or coin designs, no legible numbers, no logos.
+
+## IMG-074 — B080 — Shares and a bigger request, three coin piles
+beat: B080
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the June 2019 moment Smith's two partners each got a share and he asked for ten thousand more songs. What the viewer must understand: the operation being scaled up again, with more people now sharing in it. Composition: hero is three small, roughly equal piles of plain unmarked coins arranged in a receding row toward the right side of frame on a dark desk; support is a single blank sheet of paper lying flat just behind the piles, illegible. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals or labels on the coins or paper. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no legible numbers, no logos, no people.
+
+## IMG-075 — B081 — "Only bigger": the bot-farm corridor widens
+beat: B081
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges into the 2020–2023 stretch of the operation running at a larger scale. What the viewer must understand: the same machine as before, now simply larger on both sides. Composition: hero is a dark server-and-phone-rack corridor with rows of cabinets and mounted devices receding on both the left and right sides of frame, each showing a faint identical glowing waveform sliver; support is a long aisle of deep shadow running straight down the middle of the frame. Focal side: symmetrical, split left and right. Leave that central aisle of shadow dark, soft and empty for a text overlay. Text: no readable text, no numerals, no legible UI on any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real brand hardware, no faces, no neon or cyberpunk styling.
+
+## IMG-076 — B082 — "Song quality is better now," screens catching up
+beat: B082
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the AI company executive's August 2020 claim that song quality had improved by an order of magnitude. What the viewer must understand: the same machine producing a slightly more convincing result, still clearly synthetic. Composition: hero is two small screens glowing symmetrically at the left and right edges of frame, each showing a faint waveform shape with slightly more visible detail and texture than the plain slivers seen earlier in the film; support is a wide band of deep charcoal shadow filling the center of frame between them. Focal side: symmetrical, split left and right. Leave the center third of the frame dark, soft and empty for a text overlay. Text: no readable text, no numerals, no legible UI on either screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real brand hardware, no faces, no neon or cyberpunk styling.
+
+## IMG-077 — B084 — $1.3 million moved, a narrow channel of coins
+beat: B084
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the headline figure of royalties moved between 2020 and 2023. What the viewer must understand: a steady, deliberate channel of money being redirected, not a single event. Composition: hero is a narrow dark metal chute or trough running horizontally across the frame, plain unmarked coins visible flowing out of each end into shallow pools at the left and right edges; support is deep charcoal shadow surrounding the chute. Focal side: symmetrical, split left and right. Leave the center section of the chute, in the middle of the frame, dark, soft and empty for a text overlay. Text: no readable text, no numerals or currency symbols on any coin. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no currency symbols, no real banknote or coin designs, no legible numbers, no logos.
+
+## IMG-078 — B085 — Alleged flow: blank cards fanned beside a printer
+beat: B085
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: represents royalties allegedly moving through an account into a debit-card service using dozens of fake employee names. What the viewer must understand: money being converted into untraceable plastic, at volume. Composition: hero is a fan of plain unmarked debit-card-shaped cards spread across a dark desk, uniform grey-white, positioned in the right two-thirds of frame; support is the dark silhouette of a small card-printing or laminating machine just visible at the right edge, out of focus. Focal side: right-weighted; keep the left third of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no names or logos on any card. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, names or logos on any card, no real bank branding, no people.
+
+## IMG-079 — B086 — Two charges, two stacks of folders
+beat: B086
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: distinguishes the separate money-laundering charge from the charge Smith pleaded guilty to. What the viewer must understand: two distinct legal tracks sitting side by side, not one. Composition: hero is two separate stacks of plain unmarked folders sitting on a dark desk with a clear gap between them, lit by a single desk lamp above, upper two-thirds of frame; support is the plain desk surface filling the lower third. Focal side: centered, split left and right by the gap. Keep the lower-center of the frame — the desk surface between the two stacks — plain, dark and quiet for a status-tag overlay. Text: no readable text, no numerals, no labels on either stack. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible labels or case numbers, no seals, no people, no logos.
+
+## IMG-080 — B087 — "Mike is the human author," a phone glowing face-down
+beat: B087
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: opens the film's final section with Smith's representatives insisting, in March 2023, that he was the "human" author. What the viewer must understand: a claim of authorship being asserted in writing, late in the story, against everything already shown. Composition: hero is a phone resting face-down at the edge of a dark desk at night, its screen's glow bleeding faintly around the edges onto the desk surface, positioned in the right third of frame; support is a softly blurred, blank picture frame standing on the desk in the left background. Focal side: right-weighted. Leave the center and left of the frame dark, soft and quiet for a text overlay. Text: no readable text, no numerals, no legible wording of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no real-person face or photo in the frame, no logos, no small print.
+
+## IMG-081 — B088 — MLC payment stream goes cold, March 2023
+beat: B088
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the moment the MLC, the songwriters' royalty collective, cut off Smith's payments in March 2023. What the viewer must understand: an institutional payment stream drying up, not a visible person. Composition: hero is a closed, aged ledger book resting shut on a dark desk beside a cold, unlit desk lamp, placed on the right two-thirds of frame; support is a faint stack of blank envelope-like papers in soft shadow at the lower right edge. Focal side: right-weighted; keep the left third of the frame dark and empty for a text card. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible ledger entries or numbers, no logos, no real institution branding, no people.
+
+## IMG-082 — B089 — Denial on the record, no face
+beat: B089
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the formal denial issued on Smith's behalf in the same exchange with the MLC. What the viewer must understand: a guarded, corporate statement, not an admission. Composition: hero is a single sheet of aged paper resting face-down on a dark desk, its reverse blank, lit by a narrow raking light from the left edge of frame; support is a softly blurred office chair and shelf in deep shadow on the right. Focal side: left-weighted paper, with the centre of frame left dark and empty for a quote card. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text on the paper, no letterhead, no logos, no real-person likeness.
+
+## IMG-083 — B090 — A standing AI-song supply contract since 2019
+beat: B090
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the start of Smith's standing contract with an AI music supplier in 2019. What the viewer must understand: a quiet, ordinary business arrangement, not a dramatic reveal. Composition: hero is a laptop on a small home-studio desk, its screen glowing faintly with an abstract, non-legible waveform pattern, placed on the right side of frame; support is a stack of blank printed pages half-curled beside it. Focal side: right-weighted; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no legible on-screen UI. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible screen text or logos, no real software branding, no people.
+
+## IMG-084 — B091 — MLC's CEO confirms the withheld royalties
+beat: B091
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the MLC chief executive's statement that royalties were withheld after the arrest. What the viewer must understand: an institutional, official acknowledgment, delivered coldly. Composition: hero is a row of identical manila folders standing upright in a dim filing-cabinet drawer pulled half open, on the right side of frame; support is a single desk lamp's warm pool of light spilling faintly from off-frame left. Focal side: right-weighted folders, left and centre of frame left dark and quiet for a quote card. Text: no readable text, no numerals, no legible folder labels. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible labels or text, no logos, no real-person likeness.
+
+## IMG-085 — B092 — The withheld amount stays unknown
+beat: B092
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: poses the open question of how much royalty money the MLC withheld. What the viewer must understand: an answer the public record does not contain. Composition: hero is a single open ledger page on a dark desk, its rows of rule-lines visible but every cell blank, lit faintly from a lamp placed low at the top edge of frame; support is soft shadow filling both lower corners. Focal side: centred page, but kept very dim and soft directly behind the middle of frame so a headline can sit over it. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or words on the page, no logos, no fabricated letterhead.
+
+## IMG-086 — B093 — Guilty plea, a grave procedural turn
+beat: B093
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the guilty plea that shifts the account onto the indictment's own words. What the viewer must understand: a grave, procedural turning point, handled with restraint. Composition: hero is a dim, empty federal courthouse corridor receding toward a closed door, generic architecture, no signage, lit by cold overhead light; support is a single wooden bench in soft shadow along the left wall. Focal side: centred corridor, with the lower-centre of frame kept dark, empty floor and shadow for a status tag. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no plaques, seals or legible signage, no people, no real courthouse likeness.
+
+## IMG-087 — B094 — A February 2024 email, late and private
+beat: B094
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the February 2024 email Smith wrote after the MLC cut him off. What the viewer must understand: a private written exchange, generic and unreadable. Composition: hero is a laptop open on a dim kitchen-table or home-office desk at night, its screen showing a faint glow of blank, illegible paragraph blocks, placed on the right side of frame; support is a half-empty coffee mug softly blurred beside it. Focal side: right-weighted; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no legible on-screen content. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible email text, no logos, no real-person likeness, no visible brand hardware.
+
+## IMG-088 — B095 — Smith's own claimed figure, a glow not a number
+beat: B095
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Smith's own claimed figure of streams and royalties since 2019. What the viewer must understand: this is a claim, not a verified fact, illustrated with a glow rather than a number. Composition: hero is a wide shallow pool of plain unmarked coins catching warm light, pushed to the left third of frame; support is a faint glowing waveform line hovering just above the coins, fading into darkness on the right. Focal side: left-weighted coin pool; keep the centre and right of frame dark and soft for a money count-up. Text: no readable text, no numerals or currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real currency or coin designs, no logos.
+
+## IMG-089 — B096 — A warning: the numbers keep changing
+beat: B096
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges from Smith's claimed figure toward the lower figures that follow, warning the viewer the numbers will keep shifting. What the viewer must understand: instability in the record itself. Composition: hero is three thin, aged ledger-page edges fanned and overlapping at the very top edge of frame, each blank; support is a matching soft reflection of the fanned pages at the very bottom edge of frame. Focal side: symmetrical top-and-bottom framing, with the entire centre of frame left dark, soft and empty for a headline. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or text on any page, no logos, no fabricated letterhead.
+
+## IMG-090 — B098 — DOJ's own headline: a first-of-its-kind case
+beat: B098
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the Justice Department's own description of the case as a first of its kind. What the viewer must understand: an official announcement, formal and institutional. Composition: hero is a row of unlit podium microphones on stands, silhouetted against a dim federal-building lobby backdrop, placed on the left third of frame; support is soft cold light spilling from an unseen doorway on the far right. Focal side: left-weighted microphones; keep the centre and right of frame dark and quiet for a quote card. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no agency seals or logos, no real building likeness, no people, no legible signage.
+
+## IMG-091 — B099 — Three federal counts, bound and unread
+beat: B099
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces the three federal counts Smith faced in the 2024 indictment. What the viewer must understand: a formal charging document, shown only as a physical object, never read. Composition: hero is a thick stack of plain aged paper bound with a thin red ribbon tab, resting on a dark desk, placed on the right side of frame; support is a desk lamp's narrow warm light pool spilling across the lower right corner. Focal side: right-weighted; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no visible case numbers or seals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, case numbers or seals, no logos, no real document content.
+
+## IMG-092 — B100 — Alleged proceeds, a charge not a verdict
+beat: B100
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the indictment's allegation of royalties obtained. What the viewer must understand: an allegation at the charging stage, not a proven fact. Composition: hero is a close, shallow-focus view of a wide pool of plain coins, pushed to the right third of frame under a harder, cooler light; support is deep charcoal shadow filling the left two-thirds. Focal side: right-weighted coin pool; keep the centre and left of frame dark and soft for a money count-up. Text: no readable text, no numerals or currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real currency or coin designs, no logos.
+
+## IMG-093 — B101 — U.S. Attorney's public line, no face shown
+beat: B101
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the then-U.S. Attorney's public line at the announcement of charges. What the viewer must understand: a pointed, public statement from a federal official, never shown as a face. Composition: hero is a federal building's generic stone facade at dusk, a bank of tall dark windows, placed across the right two-thirds of frame; support is a single flagpole silhouette with no flag detail at the far left edge. Focal side: right-weighted facade; keep the centre and left of frame dark and quiet for a quote card. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real building likeness, no agency seals or logos, no people, no legible signage.
+
+## IMG-094 — B102 — Release on bond, a quiet administrative moment
+beat: B102
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the bond terms set after Smith's release. What the viewer must understand: a procedural, administrative moment, not a dramatic scene. Composition: hero is a wide shot of generic stone courthouse steps at overcast midday, empty, receding toward tall closed doors; support is a single unmarked dark sedan parked at the curb in soft background blur. Focal side: centred steps and doors, with the lower-centre of frame kept plain and dark for a status tag. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people, no visible plates or signage, no real courthouse likeness, no law-enforcement badges or logos.
+
+## IMG-095 — B103 — A trial date on the horizon, early 2026
+beat: B103
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks reporting that the trial was expected to begin in October 2026. What the viewer must understand: a date on the horizon, treated procedurally. Composition: hero is a blank wall calendar with plain, unmarked grid squares hanging in a dim office, a single page corner curling, placed on the right side of frame; support is a desk and chair softly blurred in shadow below it. Focal side: right-weighted calendar; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no legible dates. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible dates, numbers or publication names, no logos, no people.
+
+## IMG-096 — B105 — Charges still standing, no plea entered
+beat: B105
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: restates the unresolved charges Smith faced going into the next chapter. What the viewer must understand: formal counts still standing, unresolved by a plea. Composition: hero is a single empty wooden chair at a long table inside a generic, dim courtroom-style room, placed on the right side of frame; support is soft shadow and a faint high window glow on the left wall. Focal side: right-weighted empty chair; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people, no seals or signage, no real courtroom likeness, no gavel or scales-of-justice cliché.
+
+## IMG-097 — B108 — Indictment waived, charged the same day
+beat: B108
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the procedural shift to a waived indictment and same-day charge. What the viewer must understand: a quiet administrative step, not a public spectacle. Composition: hero is a heavy wood-panelled door standing slightly ajar in a dim corridor, warm light spilling through the gap, placed on the right side of frame; support is a worn stone floor receding into shadow on the left. Focal side: right-weighted door; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no plaques. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no plaques or signage, no people, no real courthouse likeness.
+
+## IMG-098 — B109 — Two statutes, one much lower ceiling
+beat: B109
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the shift to a different statute with a lower sentencing ceiling. What the viewer must understand: two different legal frameworks applied to the same underlying conduct. Composition: hero is two matching rows of plain, unmarked law-book spines standing on dark wooden shelves, one row on the far left and a second on the far right of frame; support is a narrow strip of warm library light along the top edge connecting them. Focal side: symmetrical left-and-right shelving, with the entire centre of frame left dark and empty for a comparison card. Text: no readable text, no numerals, no legible spine titles. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text on any spine, no logos, no fabricated statute labels.
+
+## IMG-099 — B111 — Sentencing exposure, a ceiling not an outcome
+beat: B111
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the drop from a twenty-year maximum to a five-year maximum. What the viewer must understand: exposure, not an outcome — a ceiling, not a sentence. Composition: hero is a single wooden courtroom-style bench, half in warm light and half fading into deep shadow, placed on the left third of frame; support is a thin shaft of cold light crossing the floor toward the right edge. Focal side: left-weighted bench; keep the centre and right of frame dark and soft for a number graphic. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no people, no real courthouse likeness.
+
+## IMG-100 — B112 — A conviction settles its weight
+beat: B112
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges from the guilty plea to the dollar figure that follows. What the viewer must understand: weight and consequence, settling in. Composition: hero is a dim, generic courtroom interior seen from the back row, empty rows of seating receding toward a shadowed front bench, lit only by high side windows; support is matching soft shadow filling the lower corners. Focal side: symmetrical, centred aisle, with the middle of frame kept very dark and soft for a headline. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people, no seals, plaques or signage, no real courtroom likeness, no gavel cliché.
+
+## IMG-101 — B113 — The central figure: the money judgment
+beat: B113
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the film's central dollar figure, the money judgment. What the viewer must understand: the single settled number the whole film has been circling. Composition: hero is a wide shallow pool of plain coins seen dead-on and half in shadow, centred in frame; support is a single desk lamp above it, its light kept low and soft rather than bright. Focal side: centred and symmetrical, with the pool itself kept dim and low-contrast so a count-up figure reads clearly over it. Text: no readable text, no numerals or currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real currency or coin designs, no logos.
+
+## IMG-102 — B114 — Still waiting: no sentencing date yet
+beat: B114
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks that, as of the time of filming, sentencing had not occurred. What the viewer must understand: an unresolved, waiting state. Composition: hero is a single empty courtroom chair at a long table, seen from a slight low angle, placed on the left third of frame; support is a dim, unlit round silhouette on the back wall suggesting a clock shape with no numerals or hands, on the right. Focal side: left-weighted chair, with the lower-centre of frame kept plain and dark for a status tag. Text: no readable text, no numerals, no clock face detail. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible clock numerals, no people, no signage, no real courtroom likeness.
+
+## IMG-103 — B116 — The forfeiture order, shown only as an object
+beat: B116
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces the forfeiture order setting the money judgment. What the viewer must understand: a formal legal order, shown only as a physical object, never read. Composition: hero is a single thick legal document bound with a narrow deep-red ribbon tab, resting closed on a dark desk under a tight pool of lamp light, placed on the right side of frame; support is soft shadow and a blurred desk edge on the left. Focal side: right-weighted; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no visible seals or signatures. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, seals or signatures, no logos, no real document content.
+
+## IMG-104 — B117 — Money owed, but gone: the empty safe
+beat: B117
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the admission that the proceeds cannot be located. What the viewer must understand: money that is legally owed but physically gone. Composition: hero is a small wall safe with its door swung open, the interior empty and dark, placed on the left third of frame; support is a thin beam of light crossing the empty interior from the right edge. Focal side: left-weighted empty safe; keep the centre and right of frame dark and quiet for a quote card. Text: no readable text, no numerals, no dial markings. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or markings on the dial, no logos, no real-person likeness.
+
+## IMG-105 — B118 — Boilerplate wording, not a confession
+beat: B118
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: explains that the dramatic-sounding wording is a standard statutory formula, not a personal confession. What the viewer must understand: boilerplate legal language carried over from the 2024 indictment. Composition: hero is a single row of plain, unmarked law-book spines on a dark shelf, lit by a narrow desk lamp from below, placed on the right side of frame; support is soft out-of-focus shelving receding into shadow on the left. Focal side: right-weighted; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no legible spine titles. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text on any spine, no logos, no fabricated statute labels.
+
+## IMG-106 — B119 — What the order lets the government reach
+beat: B119
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: explains the practical effect of the forfeiture order — reaching other assets. What the viewer must understand: a mechanism, not a symbolic gesture. Composition: hero is a single set of house keys resting on a blank, deed-style paper on a dark desk, placed on the right side of frame; support is a softly blurred window showing a generic house exterior at dusk in the far background. Focal side: right-weighted keys and paper; keep the left third of the frame dark and quiet for a text card. Text: no readable text, no numerals, no legible deed content. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text on the paper, no real address or property, no logos, no people.
+
+## IMG-107 — B120 — Final figure, now part of the sentence
+beat: B120
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the film's closing reprise of the central dollar figure, now final. What the viewer must understand: the number has stopped moving — it is now part of the sentence itself. Composition: hero is a single dim, glowing waveform line folding inward and settling at the centre of frame, faint coin-shapes dissolving into it from both sides; support is deep charcoal darkness surrounding the convergence point. Focal side: centred, symmetrical convergence, with the shape itself kept soft and low-contrast so a final figure reads clearly over it. Text: no readable text, no numerals or currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals, no logos, no real-person likeness, no neon.
+
+## IMG-108 — B121 — Collection status left unanswered
+beat: B121
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: closes the money thread on an open, unanswered question. What the viewer must understand: no public record confirms whether any of the money has been collected. Composition: hero is a single plain in-tray on a dark desk holding a thin stack of blank paper, lit faintly from the lower left corner of frame; support is matching soft shadow in the lower right corner. Focal side: symmetrical lower corners, with the centre and middle of frame kept dark and soft for a headline. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no logos, no fabricated letterhead.
+
+## IMG-109 — B122 — Three numbers, lined up for comparison
+beat: B122
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: lines up the shifting figures from the case for direct comparison. What the viewer must understand: a sequence of different numbers, not one settled fact. Composition: hero is three thin, aged ledger slips fanned out and overlapping, each blank, resting on a dark desk along the left third of frame; support is a single soft light source grazing their edges from the top left. Focal side: left-weighted fan of slips, with the centre and right of frame left dark and quiet for a comparison card. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or text on any slip, no logos, no fabricated letterhead.
+
+## IMG-110 — B123 — Judgment figure: a coin stack dissolving toward a lower number
+beat: B123
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges from the $10 million figure named in the indictment to the lower $8.09 million judgment that actually landed. What the viewer must understand: the number itself shrank between accusation and judgment. Composition: hero is a tall stack of plain unmarked coins resting on a dark wooden desk, its top quarter dissolving into soft drifting grains of light as if losing height, positioned on the right side of frame; support is the out-of-focus edge of a generic stone courthouse column glimpsed in deep shadow at the far left. Focal side: right-weighted, with the center of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or digits of any kind, no real courthouse likeness, no logos, no coin designs resembling real currency.
+
+## IMG-111 — B124 — Unexplained gap: a blank folder in a courthouse corridor
+beat: B124
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks that the public record reviewed for this film leaves a specific gap unexplained. What the viewer must understand: a document trail that simply stops short of an answer. Composition: hero is a slightly open blank file folder lying on a dark desk, its interior pages faceless and illegible, lit by a narrow desk-lamp beam, positioned lower-left; support is a long, empty federal-style courthouse corridor stretching into soft shadow in the upper right background, out of focus and generic, no signage. Focal side: lower-left anchor, with the center and middle of the frame kept dark and quiet for the overlay. Text: no readable text, no numerals, no case numbers or seals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or seals of any kind, no real courthouse likeness, no people, no logos.
+
+## IMG-112 — B125 — Whose money: an unclaimed pool of coins
+beat: B125
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: poses the open question of who the eight million dollars in royalties actually belonged to. What the viewer must understand: a sum of money sitting unclaimed, its rightful owner unresolved. Composition: hero is a wide, shallow pot of plain unmarked coins sitting in the bottom-right corner of the frame, partly in shadow; support is an empty wooden chair's silhouette far in the upper-left background, suggesting an absent owner, never a recognizable figure. Focal side: lower-right anchor, with the center and middle of the frame kept dark and quiet for the overlay. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or currency symbols, no real coin designs, no people or faces, no logos.
+
+## IMG-113 — B126 — Spotify's own figure: a modest handful of coins
+beat: B126
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes Spotify's own much smaller estimate of what Smith actually got from its platform. What the viewer must understand: a modest, almost negligible amount compared to the case's headline figures. Composition: hero is a small, modest handful of plain coins resting alone on a vast dark desk, dwarfed by surrounding empty space, positioned lower-left; support is the dim blue-white glow of a laptop screen faintly visible in the upper-right background, its content illegible. Focal side: lower-left anchor, with the center of the frame kept dark and quiet for the overlay. Text: no readable text, no numerals, no currency symbols, no legible screen content. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real coin or currency designs, no brand logos or app UI, no faces.
+
+## IMG-114 — B128 — Timeline beat: an unopened envelope, eight days later
+beat: B128
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks that Spotify's public answer came eight days after the arrest. What the viewer must understand: a measured, delayed corporate response. Composition: hero is a single plain unmarked envelope resting on a corporate reception-style desk, lit by a narrow overhead light, positioned on the right side of frame; support is a softly blurred modern office lobby receding into shadow behind it. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no postmarks or addresses. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, postmarks or addresses, no real company branding, no people or faces.
+
+## IMG-115 — B129 — Spotify statement quote: a blank statement page under lamp light
+beat: B129
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries Spotify's own quoted statement limiting the royalties Smith could game to about $60,000. What the viewer must understand: a corporate statement, held at arm's length, not raw evidence. Composition: hero is a single aged paper document lying under a narrow desk-lamp beam, its text area deliberately blank and illegible, positioned on the left side of frame; support is soft shadow filling the right two-thirds of the desk. Focal side: left-weighted, with the center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals, no letterhead. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or letterhead of any kind, no logos, no fabricated official markings.
+
+## IMG-116 — B130 — Spotify's streamshare claim: a pool of coins split in half
+beat: B130
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes Spotify's claim that it usually accounts for about half of all streams in the market. What the viewer must understand: a single pool of money divided into two roughly equal shares. Composition: hero is a shallow pot of plain coins divided down the middle by a thin shadow line into two near-equal halves, positioned on the right side of frame; support is deep charcoal negative space filling the left side of the desk. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no percentage signs. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or percentage symbols, no real coin or currency designs, no logos.
+
+## IMG-117 — B131 — Pandora's estimate: a lone handful of coins
+beat: B131
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes Pandora's own, even smaller estimate of its royalty exposure. What the viewer must understand: a vanishingly small amount of money, alone in a large dark space. Composition: hero is a single small pile of a few plain coins resting alone on a vast dark wooden desk, positioned lower-left, dwarfed by surrounding shadow; support is a narrow cone of warm desk-lamp light falling from the upper right, barely reaching the coins. Focal side: lower-left anchor, with the center and right side of the frame kept dark and quiet for the overlay. Text: no readable text, no numerals, no currency symbols. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real coin or currency designs, no logos, no faces.
+
+## IMG-118 — B132 — MLC withheld payment: a folder set apart with a red tab
+beat: B132
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the MLC catching the activity early and withholding payment rather than paying it out. What the viewer must understand: a payment deliberately held back, separated from the rest. Composition: hero is a closed paper folder marked only by a single restrained deep-red tab, set apart from a neat stack of identical unmarked folders, positioned on the right side of a dim back-office desk; support is softly blurred office shelving fading into shadow in the right background. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no labels. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or labels, no logos, no fabricated official markings, no people.
+
+## IMG-119 — B133 — Five silent platforms: a row of closed laptops
+beat: B133
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: represents the five streaming platforms that gave no response when asked what they paid Smith. What the viewer must understand: a roster of silence, several identical unanswered inquiries. Composition: hero is a row of five identical laptops with dark, blank screens, lined up along a long dim office desk, each softly lit by a single overhead light, positioned on the right side of frame; support is a row of empty office chairs pushed in, barely visible in deep shadow in the right background. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no brand marks on any laptop. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no real laptop brand logos, no visible screen UI, no people or faces.
+
+## IMG-120 — B134 — SoundCloud no figure: a single closed laptop at the end of the desk
+beat: B134
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: represents SoundCloud declining to give any figure at all. What the viewer must understand: one platform, alone, giving nothing. Composition: hero is a single closed laptop sitting alone at the far end of a long empty office desk, a thin shaft of light falling across it, positioned on the right side of frame; support is the same desk receding into total darkness toward the left edge, empty of any other object. Focal side: right-weighted, with the left two-thirds of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no brand marks. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, no real laptop or platform brand logos, no people.
+
+## IMG-121 — B135 — Companies' own accounts: a stack of closed folders
+beat: B135
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: underlines that silence is itself a kind of account, not an answer. What the viewer must understand: a pile of unopened, self-reported records, nothing more. Composition: hero is a stack of plain closed folders resting on a dark desk in deep shadow, positioned lower-left; support is a single empty high-backed office chair softly lit in the upper-right background, no one seated in it. Focal side: lower-left anchor, with the center and middle of the frame kept dark and quiet for the overlay headline. Text: no readable text, no numerals, no labels. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or labels, no logos, no people or faces.
+
+## IMG-122 — B136 — Never established: a waveform branching into dead ends
+beat: B136
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes that which platforms paid the most has never been publicly established. What the viewer must understand: several possible paths for the money, none of them resolved. Composition: hero is a single dim streaming-waveform line splitting into several thin branching paths, each fading into blackness before reaching any destination, positioned in the lower-left of frame; support is vast dark negative space surrounding it on all sides. Focal side: lower-left anchor, with the center and middle of the frame kept dark and quiet for the overlay headline. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or data labels, no sci-fi HUD look, no neon, no logos.
+
+## IMG-123 — B137 — Industry voice: a silhouette at a panel table
+beat: B137
+type: image
+refs: style_timeline_place.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces a named industry anti-fraud voice speaking about streaming fraud across the whole business, not this case alone. What the viewer must understand: an informed outside perspective, never a depiction of the real person. Composition: hero is the silhouette of a seated person seen from behind at a conference-style table, facing a blurred panel of microphones, positioned in the upper-right of frame; support is soft stage lighting spilling across the background. Focal side: upper-right anchor, with the lower-left corner of the frame kept dark and quiet for the overlay caption. Text: no readable text, no numerals, no name badges or signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: absolutely no visible or recognizable faces, no real-person likeness, no logos or signage, no legible text.
+
+## IMG-124 — B138 — Lewan quote: coins diverted from the shared pool
+beat: B138
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the quoted claim that any percentage of fraud is royalties not going to artists, creators and songwriters. What the viewer must understand: a visible slice of the shared pool being quietly siphoned away. Composition: hero is a shallow pot of plain coins with a thin stream of coins diverting off to one side, running down a dark channel in the desk's surface, positioned lower-right; support is the main pot resting in soft light at the frame's edge, the diverted stream disappearing into shadow. Focal side: lower-right anchor, with the center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals, no percentage signs. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or symbols, no real coin or currency designs, no logos, no faces.
+
+## IMG-125 — B139 — No trusted number: a cluster of blank monitors
+beat: B139
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the admission that no trusted percentage or number for the scale of streaming fraud actually exists. What the viewer must understand: an absence of real measurement, not a hidden one. Composition: hero is a cluster of three dim computer monitors, each showing a blank, empty dark screen, arranged on a desk and positioned on the left side of frame; support is a single unlit desk lamp resting beside them. Focal side: left-weighted, with the center and middle of the frame kept dark and quiet for the overlay headline. Text: no readable text, no numerals, no legible screen content. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or data on any screen, no real monitor or computer brand logos, no dashboard-style UI chrome.
+
+## IMG-126 — B140 — IFPI quote: an open lockbox and a rolling coin
+beat: B140
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the bluntest line in the film, the global industry body's CEO calling it theft, plain and simple. What the viewer must understand: a direct, concrete sense of something taken. Composition: hero is a small weathered metal lockbox sitting open and empty on a dark desk, its lid lifted, a single plain coin rolling out of it across the surface, positioned on the right side of frame; support is deep shadow filling the left and center of the frame. Focal side: right-weighted, with the center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or markings, no real coin or currency designs, no logos, no faces.
+
+## IMG-127 — B141 — Spread too thin: coins scattered sparsely across a desk
+beat: B141
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes money spread so thin across real artists' shares that no single slice can be pointed to. What the viewer must understand: dispersal and thinness, not concentration. Composition: hero is a handful of plain coins scattered sparsely and unevenly across a vast dark wooden tabletop, each coin isolated by large empty space between them, positioned across the lower-middle portion of the frame, well above the very bottom edge; support is the table surface receding into total darkness toward the top of the frame. Focal side: lower-middle anchor, with the center and upper-middle of the frame kept dark and quiet for the overlay headline. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real coin or currency designs, no logos, no faces.
+
+## IMG-128 — B142 — Bridge to mercy: a tied bundle of letters and a pen
+beat: B142
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges from the question of harm into the defense's sentencing memo and its case for mercy. What the viewer must understand: a quiet, personal appeal taking shape on paper. Composition: hero is a stack of plain aged paper letters tied with a thin ribbon resting on a dark wooden desk, a single pen laid across the top, positioned lower-right; support is soft warm desk-lamp light glowing from the upper-left corner. Focal side: lower-right anchor, with the center and middle of the frame kept dark and quiet for the overlay headline. Text: no readable text, no numerals, no signatures. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or signatures, no logos, no fabricated official markings, no faces.
+
+## IMG-129 — B144 — Secondhand sourcing: a sealed folder beside a newsroom phone
+beat: B144
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: flags that the sentencing memo is being described secondhand, via reporting, not a document the filmmakers examined themselves. What the viewer must understand: a careful, sourced distance from the original paper. Composition: hero is a closed, unmarked folder resting on a reporter's desk beside an old rotary-style telephone, deep in warm shadow, positioned upper-left; support is a dim, out-of-focus newsroom or office space fading into darkness on the right. Focal side: upper-left anchor; also keep the lower-center of the frame, around the horizontal middle near the bottom, dark and quiet in addition to the standard caption band, for the status-tag overlay. Text: no readable text, no numerals, no bylines. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or bylines, no real publication branding, no logos, no faces.
+
+## IMG-130 — B145 — Defense metaphor: a vast calm dark ocean
+beat: B145
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the defense's own metaphor for the effect of each stream on other artists' shares, not a drop in a bucket but a drop in an ocean. What the viewer must understand: an enormous, calm, undisturbed surface. Composition: hero is a vast, calm, dark ocean surface stretching to a low horizon under a deep charcoal sky, seen from a slightly elevated angle and filling the full width of the frame; support is a few scattered points of soft starlight glinting faintly on the water. Focal side: centered and symmetrical; the ocean's stillness itself keeps the central band of the frame dark, calm and quiet for the overlay quote. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no boats, people or landmarks, no calendar graphics or numerals baked into the image, no logos.
+
+## IMG-131 — B146 — No perceptible harm: empty benches in a courthouse corridor
+beat: B146
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the defense's claim that no individual artist or songwriter suffered any perceptible harm. What the viewer must understand: an absence of anyone present to claim injury. Composition: hero is a row of empty wooden benches along the right side of a dim, generic courthouse corridor, softly lit from above; support is the corridor's far closed door fading into shadow in the deep background. Focal side: right-weighted, with the left and center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals, no signage. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real courthouse likeness, no legible signage or seals, no people or faces, no gavel or scales-of-justice cliché.
+
+## IMG-132 — B147 — Sentencing range: three blocks of different heights
+beat: B147
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the spread between the sentencing guideline range, the probation office's recommendation, and the statutory maximum. What the viewer must understand: three distinct possible outcomes, shown only as relative scale. Composition: hero is three plain wooden blocks of distinctly different heights arranged in a row on a dark desk, unmarked, positioned on the right side of frame; support is a thin shaft of overhead light falling across them, the left side of the desk fading into shadow. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers or labels on the blocks, no logos, no gavel or scales-of-justice cliché.
+
+## IMG-133 — B148 — Guidelines challenge: a lawyer's desk, pen paused mid-page
+beat: B148
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the lawyers questioning whether the sentencing guidelines fairly address his culpability. What the viewer must understand: an argument being drafted, mid-thought. Composition: hero is a lawyer's desk with a single blank legal pad and pen under a desk lamp, the pen resting mid-page as if paused, positioned on the right side of frame; support is a wall of generic law books, spines blank and illegible, blurred in the background. Focal side: right-weighted, with the left side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals, no book titles. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text on the pad or book spines, no logos, no people or faces.
+
+## IMG-134 — B149 — Loss-based guideline: two coin stacks of different heights
+beat: B149
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: visualizes the fraud guideline scaling with the size of the loss. What the viewer must understand: a direct, physical relationship between amount and consequence. Composition: hero is a single stack of plain coins rising unusually tall on a dark desk, its top disappearing into shadow above the frame, positioned lower-left; support is a much shorter identical stack of coins beside it in the foreground, both resting on the same dark surface. Focal side: lower-left anchor, with the center and right side of the frame kept dark and quiet for the overlay card. Text: no readable text, no numerals. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numbers, no real coin or currency designs, no gavel or scales-of-justice cliché, no logos.
+
+## IMG-135 — B152 — Industry-wide claim: a dark office tower with server-lit windows
+beat: B152
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the defense's claim that bot-driven fraud is rampant industry-wide, including at big labels and publishers. What the viewer must understand: the same machinery implied to exist inside the wider, legitimate industry, not just one house. Composition: hero is a generic corporate office tower exterior at night, a few high floor windows glowing with the faint cool light of server racks visible through the glass, positioned on the left side of frame; support is a dark, unidentifiable city skyline silhouette filling the right side of the frame. Focal side: left-weighted, with the center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals, no signage or building names. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real identifiable building or skyline, no legible signage or logos, no faces.
+
+## IMG-136 — B153 — Letters of support: envelopes scattered in warm window light
+beat: B153
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the claim built from letters of support, that these mistakes do not define him as a person. What the viewer must understand: a personal, human appeal, distinct from the case's institutional claims. Composition: hero is several plain envelopes scattered loosely across a warmly lit desk as if recently opened, one partly unfolded letter visible with blank, illegible lines, positioned on the right side of frame; support is soft golden late-afternoon window light pouring across the scene from the left. Focal side: right-weighted, with the left and center of the frame kept dark and quiet for the overlay quote. Text: no readable text, no numerals, no signatures. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or signatures, no logos, no faces.
+
+## IMG-137 — B154 — Kxng Crooked quote: a guitar alone in low studio light
+beat: B154
+type: image
+refs: style_timeline_place.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries a sympathetic collaborator's quote that whatever he did, he made that bed and has to lie in it. What the viewer must understand: the music world Smith actually came from, rendered without any real likeness. Composition: hero is a single guitar leaning against a studio wall in low warm light, its strings catching a soft highlight, positioned upper-right of frame; support is the blurred edge of a mixing desk visible in the lower-right background. Focal side: upper-right anchor, with the lower-left corner of the frame kept dark and quiet for the overlay lower-third. Text: no readable text, no numerals, no brand marks on the instrument. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people or faces, no visible brand logos on equipment, no legible text.
+
+## IMG-138 — B155 — Kxng Crooked continued: a microphone alone in a home studio
+beat: B155
+type: image
+refs: style_timeline_place.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: continues the same collaborator's quote, cautioning against stringing up the independent guy. What the viewer must understand: the same modest music world, held a moment longer. Composition: hero is a studio microphone on a stand, softly lit from one side, standing alone in a dim home-studio room, positioned upper-left of frame; support is a softly blurred acoustic foam wall fading into shadow on the right. Focal side: upper-left anchor, with the lower-left corner of the frame kept dark and quiet for the overlay lower-third. Text: no readable text, no numerals, no brand marks on the equipment. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no people or faces, no visible brand logos on equipment, no legible text.
+
+## IMG-139 — B156 — Headline: an endless pile of songs, 2018
+beat: B156
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: a recap headline bridging from Smith's case into the industry-wide AI-music section, keyed to 2018. What the viewer must understand: an insatiable, almost absurd demand for more songs, like material piling up faster than it can be used. Composition: hero is a precarious stack of blank, unlabeled paper sleeves and blank CD-style discs piled high on a desk, lit warm from a lamp off-frame, pushed to the right third of the frame; support is a second, smaller half-toppled stack spilling toward the edge in the lower right. Focal side: right-weighted, with the center and left of the frame left dark, soft and empty so the headline overlay reads clearly in the middle of the frame. Text: no readable text, no numerals, no letters on any sleeve or disc. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no readable text or numerals, no logos, no real-person faces, no small print.
+
+## IMG-140 — B158 — Deezer's own data on AI-music fraud
+beat: B158
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces a distributor's own data on how much AI music is fraudulent. What the viewer must understand: a back-office, data-driven view of streaming fraud, told through machines rather than people. Composition: hero is a dim data-center aisle with a row of server cabinets showing a handful of faint indicator lights, receding toward the right side of frame; support is a soft out-of-focus laptop glow resting on a desk in the foreground right. Focal side: right-weighted, with the left third of the frame left dark and uncluttered so the card overlay sits clearly there. Text: no readable text, no legible numbers or labels on any screen or light. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible on-screen text or logos, no real brand hardware, no faces, no neon or cyberpunk styling.
+
+## IMG-141 — B159 — Deezer's minimal-impact quote, back-office desk
+beat: B159
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries an attributed claim from a distributor minimizing the impact of fraud on human artists. What the viewer must understand: a corporate, measured statement, not an emotional scene. Composition: hero is a small stack of blank, aged printed pages resting on a dark desk under a narrow lamp pool, pushed to the left third of frame; support is a softly blurred laptop screen glowing faint and illegible in the right background. Focal side: left-weighted, with the center of the frame kept dark and quiet so the quote overlay reads clearly. Text: no readable text, no legible words or numbers on any page or screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, letterhead or logos, no real-person faces, no small print.
+
+## IMG-142 — B160 — IFPI's Streaming Integrity Initiative, empty boardroom
+beat: B160
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the recording industry's own named initiative against streaming fraud. What the viewer must understand: an institutional, corporate response — a meeting, not a raid. Composition: hero is a generic empty conference room, a long table with a row of identical closed blank folders at each seat, pushed to the left side of frame; support is a tall window on the right letting in cool evening city light. Focal side: left-weighted table, with the center and right of frame left soft and dim so the headline overlay sits clearly in the middle. Text: no readable text, no legible labels on any folder. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no readable text, no logos or seals, no people, no small print.
+
+## IMG-143 — B161 — IFPI quote: vetting uploads for AI risk
+beat: B161
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the industry initiative's own description of what signatory companies commit to. What the viewer must understand: a procedural, paperwork-driven commitment. Composition: hero is a blank printed form resting on a dark desk with a plain pen laid diagonally across it, lit by a narrow lamp pool, pushed to the right third of frame; support is a softly blurred office shelving unit in the left background. Focal side: right-weighted, with the center of the frame kept dark and quiet so the quote overlay reads clearly. Text: no readable text, no legible words on the form. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or letterhead, no logos, no real-person faces, no small print.
+
+## IMG-144 — B162 — Bridge: the industry goes to court
+beat: B162
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: bridges from the initiative to litigation against distributors. What the viewer must understand: the dispute has moved from statements into the legal system. Composition: hero is a generic federal courthouse exterior at dusk, stone columns and steps lit warm, placed on the left third of frame, no visible signage or seals; support is an empty plaza and bare flagpole silhouette fading into the right background. Focal side: left-weighted courthouse, with the center and right of frame left soft, dark sky and plaza so the headline overlay sits clearly. Text: no readable text, no signage, seals or plaques. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real courthouse likeness, no seals or signage, no people, no gavel or scales-of-justice cliché.
+
+## IMG-145 — B163 — Card: UMG v. Believe/TuneCore, 2024
+beat: B163
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces the 2024 lawsuit against a specific distributor. What the viewer must understand: an ordinary corporate back-office, the setting for the dispute. Composition: hero is a dim office desk with a stack of blank case-file folders bound by a plain string, lit from above, pushed to the right third of frame; support is a dark filing cabinet silhouette fading into shadow on the left. Focal side: right-weighted, with the left third of the frame left dark and quiet so the card overlay sits clearly there. Text: no readable text, no legible labels on any folder. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no real-person faces, no small print.
+
+## IMG-146 — B164 — Money: $500 million sought from Believe/TuneCore
+beat: B164
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the headline figure sought in the 2024 lawsuit. What the viewer must understand: a very large sum being pursued through the courts, not yet awarded. Composition: hero is a tall stack of plain unmarked coins on a dark desk, pushed to the right third of frame, catching a narrow beam of lamp light; support is a softly blurred edge of a blank legal file resting just behind it. Focal side: right-weighted, with the center and left of the frame kept dark and quiet so the money overlay and its count-up sit clearly in the middle. Text: no readable text, no numerals, no currency symbols or markings on any coin. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or currency symbols, no logos, no real-person likeness.
+
+## IMG-147 — B165 — Believe's denial quote, printed statement
+beat: B165
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the distributor's denial of the lawsuit's claims. What the viewer must understand: a formal corporate rebuttal. Composition: hero is a single blank printed statement page resting under a desk lamp, pushed to the left third of frame; support is a dark, softly blurred office interior fading into the right background. Focal side: left-weighted, with the center of the frame kept dark and quiet so the quote overlay reads clearly. Text: no readable text, no legible words on the page. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or letterhead, no logos, no real-person faces.
+
+## IMG-148 — B166 — Status: settled April 2026, terms undisclosed
+beat: B166
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks that the 2024 case ended in a settlement with undisclosed terms. What the viewer must understand: the matter closed quietly, without resolution made public. Composition: hero is a dim office filing cabinet with one drawer sliding shut, shot from a slight low angle, framed in the upper two-thirds of the image; support is a soft overhead light pooling just above the drawer. Focal side: centered, with the lower-center of the frame, around the horizontal middle and roughly four-fifths of the way down, kept dark and quiet for the status-tag overlay, in addition to the bottom 22% caption band. Text: no readable text, no legible labels on the cabinet. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or labels, no logos, no people, no small print.
+
+## IMG-149 — B167 — Headline: a separate civil lawsuit, two file stacks
+beat: B167
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: distinguishes the newest civil lawsuit from Smith's own criminal case. What the viewer must understand: two separate legal matters, visually split apart. Composition: hero is two distinct stacks of blank case files on a dark desk, one lit warm on the left, one lit warm on the right, with a clear gap of darkness between them; support is soft shadow framing both stacks from above. Focal side: symmetrical, split left and right, with the gap at the center of the frame kept dark and quiet so the headline overlay sits clearly there. Text: no readable text, no legible labels on either stack. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no readable text or logos, no people, no small print.
+
+## IMG-150 — B172 — Card: two other high-volume bot accounts
+beat: B172
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: introduces two other high-volume accounts named in the complaint. What the viewer must understand: a mechanical bot-farm setup, impersonal and automated. Composition: hero is a small rig of cheap phones mounted in a row, screens dim and unreadable, lit warm, pushed to the right third of frame; support is a tangle of charging cables fading into shadow on the left. Focal side: right-weighted, with the left third of the frame left dark and quiet so the card overlay sits clearly there. Text: no readable text, no legible UI on any screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible on-screen text or logos, no real brand hardware, no faces, no neon or cyberpunk styling.
+
+## IMG-151 — B173 — Card: 97-98% raw Suno output, server blade
+beat: B173
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the near-total share of raw AI-generated output on two of the accounts named in the complaint. What the viewer must understand: almost nothing about these accounts is a human creative act. Composition: hero is a single close-up server blade bristling with a dense row of identical small status lights, nearly all lit the same faint color, pushed to the right third of frame; support is a loosely coiled cable bundle blurred in the left foreground. Focal side: right-weighted, with the left third of the frame left dark and quiet so the card overlay sits clearly there. Text: no readable text, no legible numbers or labels on the blade. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or logos, no real brand hardware, no neon or cyberpunk styling.
+
+## IMG-152 — B174 — Money: nearly 12 million tracks in six months
+beat: B174
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the alleged scale of tracks released through one distributor in six months. What the viewer must understand: an overwhelming, mechanical flood of output, not a count of real songs. Composition: hero is a thin, continuous ribbon of blank paper slips pouring from a dark slot in a machine and pooling in loose coils on a desk, pushed to the right third of frame; support is deep shadow filling the left two-thirds. Focal side: right-weighted, with the center and left of the frame kept dark and quiet so the money overlay and its count-up sit clearly in the middle. Text: no readable text, no numerals or printing of any kind on the paper. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or text, no logos, no real-person likeness.
+
+## IMG-153 — B175 — UMG's quote: not about disclosed AI music
+beat: B175
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the distributor's own limit on the scope of its lawsuit. What the viewer must understand: a careful legal distinction being drawn, not a blanket accusation. Composition: hero is a fan of blank legal complaint pages spread on a dark desk under a narrow lamp pool, pushed to the left third of frame; support is a softly blurred office interior fading into the right background. Focal side: left-weighted, with the center of the frame kept dark and quiet so the quote overlay reads clearly. Text: no readable text, no legible words on any page. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or letterhead, no logos, no real-person faces.
+
+## IMG-154 — B176 — DistroKid's denial quote, laptop at night
+beat: B176
+type: image
+refs: style_quote_document.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the distributor's public denial and intent to defend itself. What the viewer must understand: a measured corporate pushback, delivered at a late hour. Composition: hero is a laptop open on a dark desk at night, its screen glowing dim and illegible, pushed to the right third of frame; support is a cup and a closed notebook blurred in the foreground left. Focal side: right-weighted, with the center of the frame kept dark and quiet so the quote overlay reads clearly. Text: no readable text, no legible words on the laptop screen. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible on-screen text, no logos or brand UI, no real-person faces.
+
+## IMG-155 — B177 — Status: allegations only, nothing decided
+beat: B177
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: closes the civil-lawsuit section on the fact that nothing has been decided. What the viewer must understand: an unresolved, still-open matter. Composition: hero is a single closed, blank case file resting unopened on a dark desk, lit by a narrow lamp pool, framed in the upper two-thirds of the image; support is soft shadow surrounding the file on all sides. Focal side: centered, with the lower-center of the frame, around the horizontal middle and roughly four-fifths of the way down, kept dark and quiet for the status-tag overlay, in addition to the bottom 22% caption band. Text: no readable text, no legible labels on the file. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or labels, no logos, no people.
+
+## IMG-156 — B180 — Status: first US sentence, courthouse corridor
+beat: B180
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the significance of Smith's sentence as reportedly the first of its kind. What the viewer must understand: a grave, institutional moment inside the federal court system. Composition: hero is a long, generic federal courthouse corridor with a row of closed doors receding into dim institutional light, framed in the upper two-thirds of the image; support is a single bench visible in soft shadow along the near wall. Focal side: centered corridor, receding symmetrically, with the lower-center of the frame, around the horizontal middle and roughly four-fifths of the way down, kept dark and quiet for the status-tag overlay, in addition to the bottom 22% caption band. Text: no readable text, no signage, seals or plaques on any door. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no real courthouse likeness, no signage or seals, no people, no gavel or scales-of-justice cliché.
+
+## IMG-157 — B181 — Headline: what decides it, ripple in the ocean
+beat: B181
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: poses the question that will decide the sentence — whether a drop in an ocean caused no perceptible harm. What the viewer must understand: an enormous, calm surface disturbed by one small, almost invisible ripple. Composition: hero is a vast, dark, calm ocean surface seen from a low angle at dusk, one small circular ripple catching the last warm light near the left edge of frame; support is a soft gradient of deepening charcoal sky filling the upper half. Focal side: left-weighted ripple, horizon line placed low, with the center of the frame kept open, dark and quiet so the headline overlay sits clearly there. Text: no readable text. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no boats, people or landmarks, no calendar graphics or numerals baked into the image, no logos.
+
+## IMG-158 — B182 — Card: probation vs 24 months recap
+beat: B182
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: recaps the first half of the sentencing range, probation against the Probation Office's recommendation. What the viewer must understand: two competing recommendations sitting side by side. Composition: hero is two blank case-file folders of different thickness resting side by side on a dark desk, lit from above, pushed to the right third of frame; support is a dark shadow filling the left two-thirds. Focal side: right-weighted, with the left third of the frame left dark and quiet so the card overlay sits clearly there. Text: no readable text, no legible labels on either folder. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or logos, no people, no small print.
+
+## IMG-159 — B183 — Card: 46-57 month guideline range recap
+beat: B183
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: recaps the second half of the sentencing range, the guideline figure under its statutory cap. What the viewer must understand: a formal numeric boundary set by law. Composition: hero is a row of plain law-book spines, blank and unmarked, standing on a dark shelf, pushed to the right third of frame; support is a closed blank binder resting on a desk edge in the foreground left. Focal side: right-weighted, with the left third of the frame left dark and quiet so the card overlay sits clearly there. Text: no readable text, no legible titles on any spine. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or titles, no logos, no people.
+
+## IMG-160 — B184 — Status: restitution unknown, blank payee line
+beat: B184
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: poses the open question of restitution and who it might go to. What the viewer must understand: an unresolved financial question, still blank. Composition: hero is a blank check-sized slip of paper resting on a dark desk beside a plain pen, with the payee line left conspicuously empty under a narrow lamp beam, framed in the upper two-thirds of the image; support is soft shadow surrounding the slip. Focal side: centered on the blank slip, with the lower-center of the frame, around the horizontal middle and roughly four-fifths of the way down, kept dark and quiet for the status-tag overlay, in addition to the bottom 22% caption band. Text: no readable text, no legible numbers or names anywhere on the slip. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text, numbers or names, no fabricated official markings, no logos.
+
+## IMG-161 — B185 — Status: already settled, bound case file
+beat: B185
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: marks the one thing already settled — the federal conviction itself. What the viewer must understand: a closed, finished matter, final and bound. Composition: hero is a single case file bound shut with a plain string tie, resting on a dark desk under a narrow lamp beam, framed in the upper two-thirds of the image; support is soft shadow surrounding the file on all sides. Focal side: centered, with the lower-center of the frame, around the horizontal middle and roughly four-fifths of the way down, kept dark and quiet for the status-tag overlay, in addition to the bottom 22% caption band. Text: no readable text, no legible labels on the file. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible text or labels, no logos, no people.
+
+## IMG-162 — B186 — Money: $8,091,843.64 judgment and forfeiture
+beat: B186
+type: image
+refs: style_money.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: carries the exact dollar figure of the money judgment the government can pursue. What the viewer must understand: a large, specific sum, already fixed by the court, resting on top of a forfeiture order. Composition: hero is a bound bundle of plain, blank banknote-shaped paper stacked like a brick on a dark desk, pushed to the left third of frame; support is the edge of a blank forfeiture order page visible just beneath it. Focal side: left-weighted, with the center and right of the frame kept dark and quiet so the money overlay and its figure sit clearly in the middle. Text: no readable text, no numerals, no currency symbols or printing of any kind on the paper. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no legible numerals or currency symbols, no logos, no real-person likeness.
+
+## IMG-163 — B187 — Headline: what may never be known, records room
+beat: B187
+type: image
+refs: style_evidence.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: closes on what may never be known — who paid most, and how much was held back. What the viewer must understand: an archive of unanswered questions, receding into darkness. Composition: hero is a dim records room with rows of plain shelving holding identical blank boxes, receding into shadow on the right side of frame; support is a single open, empty box left resting on a low table in the foreground left. Focal side: right-weighted shelving, with the center of the frame kept dark and quiet, the aisle itself forming a calm negative space, so the headline overlay sits clearly there. Text: no readable text, no legible labels on any box. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no readable text or labels, no logos, no people.
+
+## IMG-164 — B191 — End card: WHAT IT COST, corridor light
+beat: B191
+type: image
+refs: style_cards.png
+status: READY
+prompt:
+Use image 1 only for color, texture and lighting — do not copy its content. Scene purpose: the film's final image, closing on the date the case next moves forward. What the viewer must understand: a quiet, settled ending, not a cliffhanger. Composition: hero is a long, dark server-room corridor with rows of dim cabinets on either side, a single soft light glowing at the far vanishing point; support is fine drifting dust catching that light in the foreground. Focal side: centered, symmetrical recession toward the single light, with the light itself kept soft and the immediate center of the frame dark and quiet so the closing card overlay sits clearly there. Text: no readable text, no numerals of any kind. WHAT IT COST canonical frame style: premium investigative business documentary; charcoal/black textured background; warm aged-paper evidence layers; off-white distressed condensed headline; restrained deep-red underline/tab accents; realistic paper depth and film grain; strong cinematic negative space; serious corporate/legal tone; no horror, no crime-poster look, no neon, no dashboard/card-grid, no decorative clutter. Aspect ratio: wide landscape. Keep the bottom 22% of the frame dark and quiet for captions. Rejects: no readable text or numerals, no logos, no real-person likeness, no neon.
