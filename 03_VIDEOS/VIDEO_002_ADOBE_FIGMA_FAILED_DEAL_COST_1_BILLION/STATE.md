@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **15E V4 CONTINUOUS CAMERA + PREMIUM CARDS — BUILT / OWNER REVIEW PENDING**
+- Current pipeline stage: **15F V5 FILM LOOK — BUILT / OWNER REVIEW PENDING**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -265,6 +265,9 @@ The former 85 generated + 11 authentic document + 6 authentic UI + 8 editor GFX 
 ## Stage 15E V4
 - Constant-velocity push-in (no zoom in/out alternation), smoother punch-ins, per-frame eased number cards — see `15E_V4_RESULT.md`
 - Review cut (local): `15E_V4/VIDEO_002_STAGE15E_REVIEW_V4_1080P25.mp4`, SHA-256 `e9ba99d6…`
+
+## Stage 15F V5
+- V4 picture + shared film look (glow, film curve, split-tone, vignette, grain); cards under the look, captions clean — see `15F_V5_RESULT.md`
 
 ## Next action
 0. Swap the 38 R14/R15 PASS frames (`13_R14_PREVIEW40_RESULTS.csv`, `13_R15_RETRY_RESULTS.csv`) into `15_FINAL_FRAMES_1080P/` in place of their preview sources before rebuilding.
