@@ -1,0 +1,25 @@
+{
+  "episode": "WHAT IT COST — VIDEO 002 Adobe / Figma",
+  "title": "Adobe Paid $1 Billion for a Deal That Never Happened",
+  "status": "OWNER_APPROVED_V6_UPLOAD_MASTER_READY",
+  "filename": "VIDEO_002_UPLOAD_MASTER_1080P.mp4",
+  "size_bytes": 2530613593,
+  "sha256": "ac1e3c39cf0fd996f8f2de2865146505d5acd9958020383bc25d9c5e4221c754",
+  "width": 1920,
+  "height": 1080,
+  "fps": 25,
+  "frames": 23515,
+  "duration_seconds": 940.6,
+  "video": "H.264 High 4.1, yuv420p, BT.709, x264 slow / tune grain / CRF 20 (~21 Mbit/s)",
+  "audio": "Harrison narration + original synthesised sound design (V6); AAC LC stereo 48 kHz 192 kbit/s; no music; -16.7 LUFS, TP -3.9 dBFS",
+  "picture_source": "15F V5 (continuous camera, punch-ins, number cards, film look) — owner fixed as main cut",
+  "sound_source": "15G V6 — owner approved ('вроде норм')",
+  "source_review_master_sha256": "360d156c1aa4cd933e1b6ca471de6d04c8418036d22ac800451ed50c91745e3e",
+  "qc": {
+    "full_decode": "PASS",
+    "frames": 23515,
+    "duration_seconds": 940.6,
+    "audio_decoded_md5_identical_to_V6": true,
+    "captions": "burned in (word highlight)"
+  }
+}

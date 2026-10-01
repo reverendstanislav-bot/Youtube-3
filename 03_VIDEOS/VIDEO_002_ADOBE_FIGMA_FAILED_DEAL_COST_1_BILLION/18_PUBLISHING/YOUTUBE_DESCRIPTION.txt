@@ -1,0 +1,62 @@
+﻿Adobe agreed to buy Figma for about $20 billion. The acquisition never closed. Adobe still paid Figma $1 billion.
+
+That billion dollars was not a government fine. It came from a reverse termination fee the two companies negotiated before the merger agreement was signed. This episode follows the record — SEC filings, the merger agreement, UK CMA and European Commission documents — to show how the clause entered the deal, why the regulators' concerns grew, how the deal ended by mutual termination before any final UK or EU prohibition, and how three business days later the clause became cash.
+
+CHAPTERS
+00:00 A Billion Dollars for a Deal That Never Closed
+00:53 The Twenty-Billion-Dollar Bet
+02:11 The Clause Existed Before the Deal
+03:50 What a Reverse Termination Fee Actually Does
+04:46 Then the Deal Became Public
+05:38 The Reviews Expand
+07:00 The Concerns Become Hard to Ignore
+08:22 Adobe and Figma Push Back
+09:42 The Deal Ends Before the Final “No”
+11:03 Three Days Later, the Contract Fires
+12:10 The Two Numbers People Confuse
+13:15 Figma After Adobe
+14:28 What the Clause Was Really Pricing
+
+SELECTED SOURCES
+Adobe — Adobe to Acquire Figma (Sept. 15, 2022):
+https://news.adobe.com/news/news-details/2022/adobe-to-acquire-figma
+
+Agreement and Plan of Merger, Adobe / Figma (SEC Exhibit 2.1):
+https://www.sec.gov/Archives/edgar/data/796343/000114036122033413/ny20005310x2_ex2-1.htm
+
+Figma consent solicitation / Adobe prospectus (SEC 424B3) — background of the merger:
+https://www.sec.gov/Archives/edgar/data/796343/000114036123001357/ny20005310x21_424b3.htm
+
+UK CMA — Adobe / Figma merger inquiry:
+https://www.gov.uk/cma-cases/adobe-slash-figma-merger-inquiry
+
+UK CMA — Adobe / Figma deal could harm UK digital design sector (provisional findings):
+https://www.gov.uk/government/news/adobe-figma-deal-could-harm-uk-digital-design-sector
+
+European Commission — Competition Merger Brief 2/2024, M.11033 Adobe/Figma:
+https://competition-policy.ec.europa.eu/document/download/4e7dcad9-4787-4cef-885b-dcc5f8f1244c_en?filename=kd0124001enn_mergers_brief_2024_2.pdf
+
+Adobe and Figma Mutually Agree to Terminate Merger Agreement (Dec. 18, 2023):
+https://news.adobe.com/news/news-details/2023/adobe-and-figma-mutually-agree-to-terminate-merger-agreement
+
+Mutual Termination Agreement, Adobe / Figma (SEC):
+https://www.sec.gov/Archives/edgar/data/796343/000079634323000254/mutualterminationagreement.htm
+
+Adobe FY2023 Form 10-K:
+https://www.sec.gov/Archives/edgar/data/796343/000079634324000006/adbe-20231201.htm
+
+Figma Form S-1 Registration Statement:
+https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/figma-sx1.htm
+
+Figma 2025 Form 10-K:
+https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/fig-20251231.htm
+
+CREDITS
+Contains public sector information licensed under the Open Government Licence v3.0 (UK Competition and Markets Authority).
+European Commission material: © European Union, 2023–2024, reused under CC BY 4.0.
+SEC EDGAR filings and company statements are shown as documentary excerpts for news reporting and commentary.
+
+VISUAL DISCLOSURE
+This documentary combines authentic public documents, company and regulator material, custom explanatory graphics, and AI-generated illustrative reconstructions. Reconstructions are illustrative and are not presented as original documents or footage. The $1 billion was a contractual termination fee, not a government fine.
+
+#Adobe #Figma #WhatItCost #Mergers #BusinessHistory
