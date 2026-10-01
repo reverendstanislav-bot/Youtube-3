@@ -6,6 +6,9 @@ Date: **2026-10-01**
 Built in the channel-2 pack layout (DELIVERY / PUBLISHING / SHORTS).
 Binaries live outside Git in `WhatItCost_media/002-adobe-figma/18_UPLOAD_PACK/`; text files are mirrored in `18_PUBLISHING/`.
 
+## Owner-facing channel folder
+- `Desktop/Новая папка (3)/Youtube 3/Video 2/` in the HIA format: `ADOBE FIGMA - ГОТОВОЕ ВИДЕО.mp4`, `ОБЛОЖКА.png`, `ДАННЫЕ ДЛЯ ЗАГРУЗКИ.txt`, `SHORTS/` (8 MP4 + `КАК ЗАГРУЖАТЬ SHORTS.txt`); built by `18_BUILD_CHANNEL_FOLDER.py`
+
 ## Canonical master
 - filename: `DELIVERY/VIDEO_002_UPLOAD_MASTER_1080P.mp4`
 - checksum: SHA-256 `ac1e3c39cf0fd996f8f2de2865146505d5acd9958020383bc25d9c5e4221c754`
