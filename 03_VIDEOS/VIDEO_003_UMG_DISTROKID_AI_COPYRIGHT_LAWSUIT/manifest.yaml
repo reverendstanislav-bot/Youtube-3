@@ -7,8 +7,8 @@ priority: "3"
 status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-03"
-current_stage: "04_FACT_LEGAL_REVIEW"
-next_action: "Begin Stage 05 Script Revision only on explicit owner instruction"
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Begin Stage 06 YouTube Performance Review only on explicit owner instruction"
 blockers: []
 
 stages:
@@ -17,7 +17,7 @@ stages:
   stage_02_case_story_map: "PASS"
   stage_03_script_v1: "PASS"
   stage_04_fact_legal_review: "PASS"
-  stage_05_script_revision: "NOT_STARTED"
+  stage_05_script_revision: "PASS"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
@@ -65,7 +65,7 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "STAGE_04_REVIEWED_8_RANGES_SH02_REPAIR_SH08_PRECISION_EDIT"
+  architecture_status: "STAGE_05_V2_8_CONTIGUOUS_RANGES_PASS"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
