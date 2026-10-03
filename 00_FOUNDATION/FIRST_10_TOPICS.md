@@ -21,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_00_PASS / STAGE_01_PASS |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_02_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -107,9 +107,10 @@ Slots 6–10 remain editable.
 **VIDEO_003 — UMG / DistroKid**
 
 Stage 00 result: **GO — 88.5/100**  
-Stage 01 result: **PASS**
+Stage 01 result: **PASS**  
+Stage 02 result: **PASS / 8 SHORTS UNITS LOCKED**
 
 Next action:
-Begin Stage 02 Case / Story Map only on explicit owner instruction.
+Begin Stage 03 Script V1 only on explicit owner instruction.
 
 Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
