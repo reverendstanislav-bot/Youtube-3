@@ -9,41 +9,45 @@ Why Universal Music Just Sued DistroKid
 - Stage 00 Topic Qualification: **PASS / GO — 88.5/100**
 - Stage 01 Evidence Research: **PASS**
 - Stage 02 Case / Story Map: **PASS / LOCKED**
-- Current pipeline stage: **02_CASE_STORY_MAP**
+- Stage 03 Script V1: **PASS — READY FOR FACT / LEGAL REVIEW**
+- Current pipeline stage: **03_SCRIPT_V1**
 - Research lock / current-status refresh: **2026-10-03**
-- Case: **UMG Recordings, Inc. et al. v. DistroKid, LLC et al., 1:26-cv-01156 (D. Del.)**
-- Shorts architecture: **8 contiguous units locked**
-- Paid generation used through Stage 02: **NONE**
+- Script V1: **2,940 words**
+- Estimated narration: **~17.8 min at 165 wpm**
+- Shorts: **8 contiguous script ranges mapped / legal-isolation precheck PASS**
+- Paid generation used through Stage 03: **NONE**
 
-## Locked story spine
-**4,562-track allegation → DistroKid as distribution pipe → complaint's AI-framing reversal → alleged infringement scale → ISRC/metadata → rights-management notice → DistroKid denial/policies → damages guardrail → business/industry context → pending procedural status → unresolved distributor-responsibility question.**
+## Script V1 spine
+**4,562-track allegation → DistroKid as distribution pipe → AI-framing reversal → alleged scale → ISRC/metadata → rights-management notice → DistroKid denial/policies → damages guardrail → CVC/IFPI context → pending procedure → distributor-responsibility question.**
+
+## Stage 03 locked artifacts
+- `03_SCRIPT_V1.md`
+- `03_SHORTS_MAP.csv`
+- `CLAIMS_LEDGER.csv` script references populated for material V1 assertions
+- new ISRC/metadata claim C016 added for traceability
 
 ## Core factual / legal locks
-- UMG allegations are **not court findings**.
-- DistroKid publicly disputes the allegations.
-- Complaint expressly says clearly disclosed AI-generated music itself is not what the suit is about.
-- 1,000 examples / nearly 2,000 recordings are plaintiffs' pleaded assertions.
-- $150,000 per work is a requested statutory ceiling where applicable, **not an award or fixed total case value**.
-- September 28 docket activity reset the original response deadline.
-- No merits ruling, damages award or injunction identified in the 2026-10-03 refresh.
-- CVC investment / IFPI initiative may be used as context only; no invented causal link.
-
-## Stage 02 locked artifacts
-- `02_STORY_MAP.md`
-- `02_TIMELINE.csv`
-- `02_SHORTS_ARCHITECTURE.md` — 8 units
+- UMG allegations remain allegations, not court findings.
+- DistroKid's denial and policies remain attributed.
+- Clearly disclosed AI-generated music is not framed as the target of the suit.
+- 4,562 / 1,000 / nearly 2,000 figures remain attributed to the complaint.
+- $150,000 per work is a requested statutory ceiling where applicable, not an award or fixed case value.
+- No synthetic multiplied damages number.
+- CVC investment and IFPI initiative are context only; no causal inference.
+- Original October 6 answer date is superseded by later scheduling activity.
+- Current ending remains pending/unresolved.
 
 ## Next action
-**Stage 03 — Script V1**, only on explicit owner instruction.
+**Stage 04 — Fact + Legal Claim Review**, only on explicit owner instruction.
 
-Stage 03 must write the 8 locked Short-ready units as contiguous long-form narration and populate `03_SHORTS_MAP.csv`.
+Stage 04 must refresh the live docket first, review every material script assertion against the claim/source ledgers, and review all 8 Shorts in isolation.
 
 ## Blockers
-No Stage 03 blocker.
+No Stage 04 blocker.
 
-Non-blocking refresh items remain:
-1. exact dates from Sept. 28 document 12 if a procedural deadline is used;
-2. formal DistroKid answer/motion status before Stage 04 and again Stage 16.
+Known non-blocking refresh items:
+1. obtain exact dates from September 28 document 12 if the script needs a current deadline;
+2. check whether DistroKid has filed a formal answer/motion since the Stage 01 refresh.
 
 ## Agent handoff
-Read `manifest.yaml` first. The narrative can be cinematic, but it may not weaken allegation/finding distinctions, invent a damages total, or turn the pending case into a resolved story.
+Read `manifest.yaml` first. Script V1 is not final script lock. Do not advance to revisions until Stage 04 reviews the current docket and all material claims.
