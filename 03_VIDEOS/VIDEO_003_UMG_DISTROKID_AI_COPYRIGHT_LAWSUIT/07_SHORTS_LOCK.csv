@@ -1,0 +1,2 @@
+short_id,status,section_start,paragraph_start,section_end,paragraph_end,hook,payoff,claim_ids,extraction_rule
+SH01,LOCKED,,,,,,,,CONTIGUOUS_NO_REWRITE_NO_REORDER

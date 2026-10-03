@@ -12,6 +12,7 @@ Important:
 - Every topic still has to pass Stage 00 before package creation. T007 and T008 have passed.
 - VIDEO_001 exists because T007 passed Stage 00.
 - VIDEO_002 exists because T008 passed Stage 00 on 2026-09-25 (GO — 93/100).
+- VIDEO_003 exists because T006 passed Stage 00 on 2026-10-03 (GO — 88.5/100) and Stage 01 Evidence Research is PASS.
 - PSA is no longer part of Launch 5 and has moved to reserve.
 
 ## Locked Launch 5
@@ -20,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_00_PASS / STAGE_01_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -103,11 +104,12 @@ Slots 6–10 remain editable.
 
 ## Next gate
 
-**VIDEO_002 — Adobe / Figma**
+**VIDEO_003 — UMG / DistroKid**
 
-Stage 00 result: **GO — 93/100**
+Stage 00 result: **GO — 88.5/100**  
+Stage 01 result: **PASS**
 
 Next action:
-Begin Stage 01 Evidence Research and populate the evidence ledgers.
+Begin Stage 02 Case / Story Map only on explicit owner instruction.
 
-Voice remains channel-locked to Harrison; no TTS/audio generation is authorized at this stage.
+Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
