@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Await explicit owner approval for paid image-generation wave; no paid generation authorized yet"
+next_action: "Await explicit owner approval for R6 image-generation wave; 80 remaining prompts ready; no paid generation authorized"
 blockers: []
 
 stages:
@@ -274,3 +274,28 @@ stage_13f_r5_test30:
   summary: "13F_R5_TEST30_VISUAL_QC_SUMMARY.md"
   further_paid_generation_authorized: false
   automatic_retries_authorized: "0"
+
+stage_13g_r6_prompt_repair:
+  status: "PASS"
+  trigger: "R5_TEST30_9_REJECT"
+  total_final_frames: "120"
+  pass_locked: "40"
+  remaining_prompts: "80"
+  current_reject_repairs: "9"
+  never_generated_rewrites: "71"
+  source_binding_repairs: "16"
+  canonical_prompt_pack: "13G_R6_REMAINING_80_PROMPTS.md"
+  canonical_bindings: "13G_R6_REMAINING_80_BINDINGS.csv"
+  qc_ledger: "13G_R6_HARD_PREFLIGHT_QC.csv"
+  summary: "13G_R6_REPAIR_SUMMARY.md"
+  hard_preflight_pass: "80"
+  hard_preflight_reject: "0"
+  zero_copy_lock_frames: "80"
+  no_generated_logo_lock_frames: "80"
+  source_fidelity_lock_frames: "80"
+  subtitle_safe_frames: "80"
+  paid_generation_authorized: false
+  jobs_submitted: "0"
+  credits_spent: "0"
+  retries_authorized: "0"
+  one_pass_remaining_cost_credits: "40.0"

@@ -11,7 +11,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
-- Stage 13 Visual Asset QC: **ACTIVE — R5 Test30 hard QC complete: 21 PASS / 9 REJECT; 40 total PASS locked**
+- Stage 13 Visual Asset QC: **ACTIVE — R6 root-cause repair complete; 80/80 remaining prompts hard-preflight PASS; 40 PASS locked**
 - Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -181,9 +181,10 @@ Canonical Stage 13 files:
 ## Next action
 Paid generation remains blocked pending explicit owner approval.
 
-Full locked base if approved:
-**120 Higgsfield GPT Image 2 jobs × 0.5 credit = 60.0 credits**.
+Current R6 one-pass remainder if separately approved:
+**80 Higgsfield GPT Image 2 jobs × 0.5 credit = 40.0 credits**.
 
+This includes 9 current reject slots and 71 never-generated slots.
 Retries authorized: **0**.
 
 ## Stage 13B test generation + hard QC
@@ -263,3 +264,27 @@ R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized b
 - automatic retries authorized: **0**
 - QC ledger: `13F_R5_TEST30_VISUAL_QC.csv`
 - summary: `13F_R5_TEST30_VISUAL_QC_SUMMARY.md`
+
+
+## Stage 13G — R6 root-cause prompt repair
+- trigger: **R5 Test30 still produced 9/30 REJECT**
+- remaining slots rewritten: **80 / 80**
+- current rejects repaired: **9 / 9**
+- never-generated remaining prompts preventively rewritten: **71 / 71**
+- existing PASS locked and excluded: **40 / 120**
+- source-binding simplifications/relevance repairs: **16**
+- source-repair frames: **F023, F031, F041, F056, F058, F059, F062, F080, F085, F088, F094, F101, F105, F107, F108, F110**
+- exact-headline-only generated-text lock: **80 / 80**
+- no-generated-logo lock: **80 / 80**
+- source pixel-fidelity / no-reconstruction lock: **80 / 80**
+- bottom 20% subtitle-safe: **80 / 80**
+- hard preflight: **80 PASS / 0 REJECT**
+- canonical prompt pack: `13G_R6_REMAINING_80_PROMPTS.md`
+- canonical bindings: `13G_R6_REMAINING_80_BINDINGS.csv`
+- QC: `13G_R6_HARD_PREFLIGHT_QC.csv`
+- summary: `13G_R6_REPAIR_SUMMARY.md`
+- R6 supersedes R5 for these 80 slots only
+- paid jobs submitted: **0**
+- credits spent: **0**
+- next paid generation authorized: **NO**
+- retries authorized: **0**
