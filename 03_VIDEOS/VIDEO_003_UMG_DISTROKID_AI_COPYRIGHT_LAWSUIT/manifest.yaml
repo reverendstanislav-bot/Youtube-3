@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Repair prompts for the 10 current reject frames only; do not regenerate until separate owner approval"
+next_action: "Run hard visual QC on the 10 R7 reject-only repairs; no further paid generation authorized"
 blockers: []
 
 stages:
@@ -371,3 +371,20 @@ stage_13k_r6_remaining50_visual_qc:
   further_paid_generation_authorized: false
   retries_authorized: "0"
   one_pass_reject_only_cost_credits: "5.0"
+
+stage_13l_r7_reject10_generation:
+  status: "GENERATED_AWAITING_QC"
+  model: "gpt_image_2"
+  settings: "1k_low_16:9"
+  frames: "F016,F044,F046,F051,F059,F060,F101,F102,F107,F110"
+  jobs_authorized: "10"
+  jobs_submitted: "10"
+  jobs_completed: "10"
+  jobs_failed: "0"
+  cost_per_job_credits: "0.5"
+  actual_spend_credits: "5.0"
+  retries_authorized: "0"
+  prompt_pack: "13L_R7_REJECT10_PROMPTS.md"
+  generation_ledger: "13L_R7_REJECT10_GENERATION_LEDGER.csv"
+  hard_qc_status: "PENDING"
+  further_paid_generation_authorized: false
