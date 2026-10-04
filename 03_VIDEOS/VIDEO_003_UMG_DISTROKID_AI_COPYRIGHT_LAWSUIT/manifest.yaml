@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Await explicit owner approval for R6 image-generation wave; 80 remaining prompts ready; no paid generation authorized"
+next_action: "Run hard visual QC on completed R6 Test30; no further paid generation authorized"
 blockers: []
 
 stages:
@@ -299,3 +299,20 @@ stage_13g_r6_prompt_repair:
   credits_spent: "0"
   retries_authorized: "0"
   one_pass_remaining_cost_credits: "40.0"
+
+stage_13h_r6_test30_generation:
+  status: "GENERATED_AWAITING_QC"
+  model: "gpt_image_2"
+  settings: "1k_low_16:9"
+  jobs_authorized: "30"
+  jobs_submitted: "30"
+  jobs_completed: "30"
+  jobs_failed: "0"
+  repaired_reject_slots: "9"
+  representative_new_slots: "21"
+  cost_per_job_credits: "0.5"
+  actual_spend_credits: "15.0"
+  automatic_retries: "0"
+  generation_ledger: "13H_R6_TEST30_GENERATION_LEDGER.csv"
+  hard_qc_status: "PENDING"
+  further_paid_generation_authorized: false
