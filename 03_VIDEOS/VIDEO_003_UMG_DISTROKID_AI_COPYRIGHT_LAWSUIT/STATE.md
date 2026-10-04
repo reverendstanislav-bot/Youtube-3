@@ -222,3 +222,27 @@ Canonical R4 generation authority:
 
 The 19 PASS frames are frozen. R3 is superseded only for the other 101 frames.
 No retry or F031+ generation is authorized.
+
+
+## Stage 13E — Hard preflight 101/101
+- audited: **101 / 101**
+- final preflight result: **101 PASS / 0 REJECT**
+- semantic/legal/reference/layout repairs applied: **31**
+- R4 prompts retained unchanged after hard review: **70**
+- existing Test30 PASS frames still frozen: **19**
+- missing references/media IDs: **0**
+- duplicate frames/headlines: **0**
+- PASS19 overlap: **0**
+- refs per R5 frame: **1–2**
+- max identical adjacent source-set run: **2**
+- max identical adjacent layout-mode run: **1**
+- paid jobs submitted: **0**
+- credits spent: **0**
+
+Canonical next-generation authority:
+- `13E_R5_REMAINING_101_PROMPTS.md`
+- `13E_R5_REMAINING_101_BINDINGS.csv`
+- `13E_R5_HARD_PREFLIGHT_QC.csv`
+- `13E_R5_HARD_PREFLIGHT_SUMMARY.md`
+
+R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized by Stage13E.

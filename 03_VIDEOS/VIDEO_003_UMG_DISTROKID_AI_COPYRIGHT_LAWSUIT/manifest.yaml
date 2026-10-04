@@ -231,3 +231,23 @@ stage_13d_r4_prompt_rewrite:
   paid_generation_authorized: false
   jobs_submitted: "0"
   credits_spent: "0"
+
+stage_13e_hard_preflight:
+  status: "PASS"
+  audited_frames: "101"
+  final_pass: "101"
+  final_reject: "0"
+  semantic_repairs: "31"
+  retained_without_change: "70"
+  pass19_locked: "19"
+  canonical_prompt_pack: "13E_R5_REMAINING_101_PROMPTS.md"
+  canonical_bindings: "13E_R5_REMAINING_101_BINDINGS.csv"
+  qc_ledger: "13E_R5_HARD_PREFLIGHT_QC.csv"
+  summary: "13E_R5_HARD_PREFLIGHT_SUMMARY.md"
+  refs_per_frame_min: "1"
+  refs_per_frame_max: "2"
+  max_identical_adjacent_source_set_run: "2"
+  max_identical_adjacent_layout_run: "1"
+  paid_generation_authorized: false
+  jobs_submitted: "0"
+  credits_spent: "0"
