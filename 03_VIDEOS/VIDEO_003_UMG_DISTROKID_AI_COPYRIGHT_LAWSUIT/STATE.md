@@ -11,7 +11,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
-- Stage 13 Visual Asset QC: **ACTIVE — R6 Test30 hard QC complete: 26 PASS / 4 REJECT; 66 total PASS locked**
+- Stage 13 Visual Asset QC: **ACTIVE — all 50 previously ungenerated R6 slots now generated; hard QC pending; 66 PASS remain locked; 4 known rejects held for later repair**
 - Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -317,3 +317,19 @@ R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized b
 - retries authorized: **0**
 - QC ledger: `13I_R6_TEST30_VISUAL_QC.csv`
 - summary: `13I_R6_TEST30_VISUAL_QC_SUMMARY.md`
+
+
+## Stage 13J — R6 remaining-50 generation
+- owner-approved spend: **50 jobs × 0.5 = 25.0 credits**
+- model/settings: **Higgsfield GPT Image 2 / 1k / low / 16:9**
+- jobs submitted: **50**
+- jobs completed: **50**
+- generation failures: **0**
+- automatic retries: **0**
+- scope: **all 50 previously never-generated R6 slots**
+- known Stage13I rejects intentionally excluded: **F016, F060, F101, F110**
+- generation ledger: `13J_R6_REMAINING50_GENERATION_LEDGER.csv`
+- visual verdicts for these 50: **PENDING HARD QC**
+- prior locked PASS: **66 / 120**
+- further paid generation authorized: **NO**
+- reject retries authorized: **0**
