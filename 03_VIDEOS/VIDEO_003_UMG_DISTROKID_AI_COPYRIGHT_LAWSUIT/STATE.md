@@ -7,14 +7,14 @@ Why Universal Music Just Sued DistroKid
 - Status: **IN_PREPARATION**
 - Stage 07 Final Script Lock: **PASS / CANONICAL — R3 RETENTION POLISH**
 - Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY**
-- Stage 09 Voice QA + Lock: **PASS — INPUT / SETTINGS LOCKED**
+- Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 - Current pipeline stage: **09_VOICE_QA_LOCK**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
 - Harrison: **CHANNEL LOCK**
 - Model preflight: **Higgsfield `text2speech_v2` + ElevenLabs**
-- Paid generation through Stage 09: **NONE**
+- Paid Harrison generation: **COMPLETE — 46.65 credits / 0 retries**
 
 ## Stage 08 exact input
 Only delivery-form normalization was applied:
@@ -69,10 +69,20 @@ Current planned paid step after Stage 09, if owner approves:
 - credits consumed: **0**
 - exact review: `09_VOICE_REVIEW.md`
 
-## Next action
-**Await explicit owner approval for the locked paid step: 4 Harrison TTS jobs = 46.65 credits total.**
+## Harrison production result
+- Part A: `2c4cd5da-7f49-4dc3-8f7a-2bb56428fa64` — **COMPLETED / 235.20 sec**
+- Part B: `10c300ad-d52a-459d-930b-170e0e6acd4d` — **COMPLETED / 274.72 sec**
+- Part C: `13728239-5079-49e4-934a-b75d7956097e` — **COMPLETED / 230.16 sec**
+- Part D: `fb7b4115-3ba6-416a-9168-0e67f7bd0d74` — **COMPLETED / 245.92 sec**
+- Raw source sum: **986.00 sec / 16:26.000**
+- Actual approved spend: **46.65 credits**
+- Paid retries: **0**
+- Source ledger: `09_TTS_SOURCE_JOBS.csv`
 
-Do not submit any source job without that approval.
+Provider status is 4/4 COMPLETED and each result exposes an MP3 source URL plus waveform metadata. Local master-level codec/loudness normalization belongs to Stage 10.
+
+## Next action
+**Stage 10 — Audio Master**, only on explicit owner instruction.
 
 ## Blockers
 None.

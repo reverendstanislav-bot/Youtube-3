@@ -1,6 +1,6 @@
 # VIDEO 003 — 09 Voice QA + Lock
 
-Status: **PASS — EXACT HARRISON INPUT / SETTINGS LOCKED — TTS NOT GENERATED**
+Status: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 
 Date: **2026-10-04**
 
@@ -24,7 +24,7 @@ Engine:
 - voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`
 
 Paid generation authorization:
-**NOT GRANTED**
+**GRANTED BY OWNER — 4 jobs / 46.65 credits total**
 
 ## Semantic fidelity audit
 
@@ -127,39 +127,55 @@ The quote is unchanged from Stage 08.
 **No jobs were submitted.**
 **Credits consumed in Stage 09: 0.**
 
-## Stage 09 decision
+## Owner-approved production
 
-**PASS — VOICE INPUT LOCKED**
+Owner explicitly approved:
+**4 Harrison TTS jobs / 46.65 credits total**
 
-The exact input, voice, engine, split and quoted spend are now production-locked.
-
-The lock does **not** authorize paid generation.
-
-## Production spend gate
-
-The next paid action requires separate owner approval:
-
-**4 Harrison TTS jobs**
-- Part A: 11.40 credits
-- Part B: 12.45 credits
-- Part C: 11.40 credits
-- Part D: 11.40 credits
+Immediately before submission, the live quote was rechecked and remained exactly:
+- A: 11.40
+- B: 12.45
+- C: 11.40
+- D: 11.40
 - **TOTAL: 46.65 credits**
 
-Model:
-**Higgsfield `text2speech_v2` + ElevenLabs**
+No automatic retry was authorized or submitted.
 
-Voice:
-**Harrison / preset / `573e5163-59b3-4926-aab1-951ef2985f81`**
+## Production jobs
 
-Retries:
-**0 authorized by default**
+| Part | Sections | Job ID | Status | Duration |
+|---|---|---|---|---:|
+| A | S01–S03 | `2c4cd5da-7f49-4dc3-8f7a-2bb56428fa64` | COMPLETED | 235.20 sec |
+| B | S04–S06 | `10c300ad-d52a-459d-930b-170e0e6acd4d` | COMPLETED | 274.72 sec |
+| C | S07–S09 | `13728239-5079-49e4-934a-b75d7956097e` | COMPLETED | 230.16 sec |
+| D | S10–S12 | `fb7b4115-3ba6-416a-9168-0e67f7bd0d74` | COMPLETED | 245.92 sec |
+| **TOTAL** | S01–S12 | — | **4/4 COMPLETED** | **986.00 sec / 16:26.000** |
 
-Do not submit any TTS job until the owner explicitly approves this exact spend.
+Actual spend:
+**46.65 credits**
+
+Paid retries:
+**0**
+
+Provider result:
+- all four jobs terminal COMPLETED;
+- failed jobs: 0;
+- lookup errors: 0;
+- each job returned an MP3 result URL and waveform metadata.
+
+Source-job ledger:
+`09_TTS_SOURCE_JOBS.csv`
+
+## Stage 09 decision
+
+**PASS — 4/4 SOURCE JOBS COMPLETE**
+
+The exact input, voice, engine and split were used as locked.
+No retry or substitute generation was submitted.
 
 ## Stage boundary
 
 **STOP.**
 
 Stage 10 Audio Master is **NOT STARTED**.
-Source audio does not exist yet.
+The four source audio jobs are ready for deterministic master assembly.

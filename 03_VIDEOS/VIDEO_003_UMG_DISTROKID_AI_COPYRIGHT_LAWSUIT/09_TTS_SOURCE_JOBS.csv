@@ -1,0 +1,6 @@
+part,sections,job_id,status,duration_sec,cost_credits,result_url
+A,"S01–S03",2c4cd5da-7f49-4dc3-8f7a-2bb56428fa64,COMPLETED,235.20,11.40,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261004_111553_2c4cd5da-7f49-4dc3-8f7a-2bb56428fa64.mp3
+B,"S04–S06",10c300ad-d52a-459d-930b-170e0e6acd4d,COMPLETED,274.72,12.45,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261004_111553_10c300ad-d52a-459d-930b-170e0e6acd4d.mp3
+C,"S07–S09",13728239-5079-49e4-934a-b75d7956097e,COMPLETED,230.16,11.40,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261004_111553_13728239-5079-49e4-934a-b75d7956097e.mp3
+D,"S10–S12",fb7b4115-3ba6-416a-9168-0e67f7bd0d74,COMPLETED,245.92,11.40,https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261004_111553_fb7b4115-3ba6-416a-9168-0e67f7bd0d74.mp3
+TOTAL,S01-S12,,COMPLETED,986.00,46.65,
