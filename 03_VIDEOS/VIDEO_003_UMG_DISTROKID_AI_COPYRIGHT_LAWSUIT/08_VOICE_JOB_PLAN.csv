@@ -1,0 +1,6 @@
+part,sections,characters,normalized_words,model,variant,voice_name,voice_type,voice_id,quoted_cost_credits,status
+A,"S01;S02;S03",3773,597,text2speech_v2,elevenlabs,Harrison,preset,573e5163-59b3-4926-aab1-951ef2985f81,11.40,READY_NOT_SUBMITTED
+B,"S04;S05;S06",4125,642,text2speech_v2,elevenlabs,Harrison,preset,573e5163-59b3-4926-aab1-951ef2985f81,12.45,READY_NOT_SUBMITTED
+C,"S07;S08;S09",3779,584,text2speech_v2,elevenlabs,Harrison,preset,573e5163-59b3-4926-aab1-951ef2985f81,11.40,READY_NOT_SUBMITTED
+D,"S10;S11;S12",3798,592,text2speech_v2,elevenlabs,Harrison,preset,573e5163-59b3-4926-aab1-951ef2985f81,11.40,READY_NOT_SUBMITTED
+TOTAL,S01-S12,15475,2415,text2speech_v2,elevenlabs,Harrison,preset,573e5163-59b3-4926-aab1-951ef2985f81,46.65,READY_NOT_SUBMITTED
