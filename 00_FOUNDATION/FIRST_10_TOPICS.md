@@ -21,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_06_PASS |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_07_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -112,9 +112,10 @@ Stage 02 result: **PASS / 8 SHORTS UNITS LOCKED**
 Stage 03 result: **PASS / SCRIPT V1 READY FOR FACT-LEGAL REVIEW**  
 Stage 04 result: **PASS WITH REQUIRED EDITS**  
 Stage 05 result: **PASS / SCRIPT V2 — 5/5 FIXES APPLIED / 8 SHORTS PASS**  
-Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**
+Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**  
+Stage 07 result: **PASS / CANONICAL — 2,456 WORDS / ~17:37 / 8 SHORTS LOCKED**
 
 Next action:
-Begin Stage 07 Final Script Lock only on explicit owner instruction.
+Begin Stage 08 Voice Script only on explicit owner instruction.
 
 Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
