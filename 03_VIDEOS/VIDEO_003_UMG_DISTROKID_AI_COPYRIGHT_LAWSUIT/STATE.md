@@ -16,9 +16,9 @@ Why Universal Music Just Sued DistroKid
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
 - Current pipeline stage: **07_SCRIPT_LOCK**
 - Canonical narration: **`07_SCRIPT_FINAL.md`**
-- Canonical spoken words: **2,456**
+- Canonical spoken words: **2,370**
 - Harrison measured channel pace: **~139.4 wpm**
-- Projected narration runtime: **~17:37**
+- Projected narration runtime: **~17:00**
 - Shorts: **8/8 canonical contiguous locks**
 - Paid generation used through Stage 07: **NONE**
 
@@ -26,13 +26,13 @@ Why Universal Music Just Sued DistroKid
 Stage 06 identified that the earlier 165-wpm estimate was not representative of Harrison.
 
 V2 body was **2,847 spoken words** before final compression.
-Stage 07 canonical body is **2,456 spoken words**.
+Stage 07 canonical body is **2,370 spoken words**.
 
 Reduction:
-**391 spoken words / ~13.7%**
+**477 spoken words / ~16.8%**
 
 Projected Harrison runtime:
-**~17:37**, inside the locked 16–18 minute target.
+**~17:00**, inside the locked 16–18 minute target.
 
 ## Stage 07 performance edits completed
 - S09–S10 context/procedure trough compressed.
