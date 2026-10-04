@@ -11,7 +11,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
-- Stage 13 Visual Asset QC: **PASS / 32 REFERENCES PREPARED + 120/120 PRE-GEN QC PASS / NO GENERATION AUTHORIZED**
+- Stage 13 Visual Asset QC: **ACTIVE — R5 Test30 hard QC complete: 21 PASS / 9 REJECT; 40 total PASS locked**
 - Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -246,3 +246,20 @@ Canonical next-generation authority:
 - `13E_R5_HARD_PREFLIGHT_SUMMARY.md`
 
 R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized by Stage13E.
+
+
+## Stage 13F — R5 Test30 generation + hard visual QC
+- owner-approved wave: **30 jobs × 0.5 = 15.0 credits**
+- model/settings: **Higgsfield GPT Image 2 / 1k / low / 16:9**
+- completed: **30/30**
+- generation failures: **0**
+- approved prior-reject regenerations: **11**
+- first-generation R5 frames: **19**
+- hard visual QC: **21 PASS / 9 REJECT**
+- new PASS locked: **21**
+- total locked PASS: **40 / 120**
+- remaining non-PASS: **80 = 9 current rejects + 71 never-generated**
+- further paid generation authorized: **NO**
+- automatic retries authorized: **0**
+- QC ledger: `13F_R5_TEST30_VISUAL_QC.csv`
+- summary: `13F_R5_TEST30_VISUAL_QC_SUMMARY.md`

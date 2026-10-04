@@ -251,3 +251,26 @@ stage_13e_hard_preflight:
   paid_generation_authorized: false
   jobs_submitted: "0"
   credits_spent: "0"
+
+stage_13f_r5_test30:
+  status: "QC_COMPLETE"
+  model: "gpt_image_2"
+  settings: "1k_low_16:9"
+  jobs_authorized: "30"
+  jobs_submitted: "30"
+  jobs_completed: "30"
+  jobs_failed: "0"
+  approved_prior_reject_regenerations: "11"
+  first_generation_frames: "19"
+  cost_per_job_credits: "0.5"
+  actual_spend_credits: "15.0"
+  qc_pass: "21"
+  qc_reject: "9"
+  total_pass_locked_after_qc: "40"
+  remaining_non_pass: "80"
+  remaining_current_rejects: "9"
+  remaining_never_generated: "71"
+  qc_ledger: "13F_R5_TEST30_VISUAL_QC.csv"
+  summary: "13F_R5_TEST30_VISUAL_QC_SUMMARY.md"
+  further_paid_generation_authorized: false
+  automatic_retries_authorized: "0"
