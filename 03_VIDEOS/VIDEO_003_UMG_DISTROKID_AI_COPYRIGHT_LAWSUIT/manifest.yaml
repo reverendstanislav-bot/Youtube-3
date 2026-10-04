@@ -215,3 +215,19 @@ test_generation_wave_01:
   qc_pass: "19"
   qc_reject: "11"
   next_generation_authorized: false
+
+stage_13d_r4_prompt_rewrite:
+  status: "PASS"
+  total_frames: "120"
+  pass_locked: "19"
+  remaining_prompts: "101"
+  reject_repairs: "11"
+  never_generated_rewrites: "90"
+  canonical_prompt_pack: "13D_R4_REMAINING_101_PROMPTS.md"
+  canonical_bindings: "13D_R4_REMAINING_101_BINDINGS.csv"
+  pass_lock: "13D_R4_PASS19_LOCK.csv"
+  max_factual_refs_per_frame: "2"
+  max_identical_adjacent_source_set_run: "2"
+  paid_generation_authorized: false
+  jobs_submitted: "0"
+  credits_spent: "0"

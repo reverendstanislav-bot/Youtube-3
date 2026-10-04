@@ -200,3 +200,25 @@ Retries authorized: **0**.
 - QC ledger: `13C_TEST30_VISUAL_QC.csv`
 - next paid generation authorized: **NO**
 - reject retries authorized: **0**
+
+
+## Stage 13D — R4 remaining-101 prompt rewrite
+Test30 arithmetic is now the production authority:
+- total final frames: **120**
+- PASS locked and excluded from regeneration: **19**
+- remaining prompts: **101**
+  - Test30 REJECT repairs: **11**
+  - never generated: **90**
+- R4 prompt sections: **101 / 101**
+- max factual references per R4 frame: **2**
+- maximum identical adjacent source-set run: **2**
+- paid jobs submitted by R4 rewrite: **0**
+- credits spent by R4 rewrite: **0**
+
+Canonical R4 generation authority:
+- `13D_R4_REMAINING_101_PROMPTS.md`
+- `13D_R4_REMAINING_101_BINDINGS.csv`
+- `13D_R4_PASS19_LOCK.csv`
+
+The 19 PASS frames are frozen. R3 is superseded only for the other 101 frames.
+No retry or F031+ generation is authorized.
