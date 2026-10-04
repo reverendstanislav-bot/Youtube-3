@@ -7,8 +7,8 @@ priority: "3"
 status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
-current_stage: "09_VOICE_QA_LOCK"
-next_action: "Begin Stage 10 Audio Master only on explicit owner instruction"
+current_stage: "10_AUDIO_MASTER"
+next_action: "Begin Stage 11 Transcript + Visual Timeline only on explicit owner instruction"
 blockers: []
 
 stages:
@@ -22,7 +22,7 @@ stages:
   stage_07_script_lock: "PASS"
   stage_08_voice_script: "PASS"
   stage_09_voice_qa_lock: "PASS"
-  stage_10_audio_master: "NOT_STARTED"
+  stage_10_audio_master: "PASS"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
@@ -39,7 +39,7 @@ locks:
   case_story_map: true
   final_script: true
   voice_input: true
-  audio_master: false
+  audio_master: true
   visual_timeline: false
   visual_assets: false
   edit_master: false
@@ -85,9 +85,18 @@ voice:
   stage_09_job_d: "fb7b4115-3ba6-416a-9168-0e67f7bd0d74"
 
 audio:
-  runtime_sec: ""
-  file_or_uri: ""
-  checksum: ""
+  runtime_sec: "988.290612"
+  file_or_uri: "https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/3927e3f3-6b64-4214-8bc0-144d59214b81.mp3"
+  checksum: "sha256:d6f149bc0d24be1f40c766ad3b68adfc94720ea67d547d22906cd963f2d551e8"
+  filename: "VIDEO_003_HARRISON_AUDIO_MASTER.mp3"
+  media_id: "3927e3f3-6b64-4214-8bc0-144d59214b81"
+  codec: "mp3"
+  sample_rate_hz: "44100"
+  channels: "1"
+  bitrate_bps: "192000"
+  mean_dbfs: "-16.8"
+  peak_dbfs: "-0.9"
+  stage_10_record: "10_AUDIO_MASTER.md"
 
 shorts:
   required: true
