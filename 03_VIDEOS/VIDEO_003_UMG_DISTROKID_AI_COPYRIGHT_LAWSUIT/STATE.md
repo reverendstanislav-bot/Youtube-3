@@ -51,13 +51,8 @@ Quote source:
 - No retries authorized.
 - Stage 09 must compare exact input against Stage 07 before locking voice input.
 
-## Spend gate
-**NOT AUTHORIZED.**
-
-Current planned paid step after Stage 09, if owner approves:
-**4 Harrison jobs = 46.65 credits total.**
-
-## Stage 09 lock result
+## Stage 09 QA lock result
+Before paid submission:
 - 4/4 exact normalized parts: **PASS**
 - omissions: **0**
 - duplications: **0**
@@ -65,9 +60,18 @@ Current planned paid step after Stage 09, if owner approves:
 - legal/attribution hard gate: **PASS**
 - chunking/editability: **PASS**
 - live cost re-preflight: **46.65 credits**
-- TTS jobs submitted: **0**
-- credits consumed: **0**
 - exact review: `09_VOICE_REVIEW.md`
+
+## Approved spend result
+Owner approved the locked production step:
+**4 Harrison jobs = 46.65 credits total.**
+
+Execution:
+- jobs submitted: **4**
+- jobs completed: **4**
+- failed: **0**
+- paid retries: **0**
+- actual spend: **46.65 credits**
 
 ## Harrison production result
 - Part A: `2c4cd5da-7f49-4dc3-8f7a-2bb56428fa64` — **COMPLETED / 235.20 sec**
