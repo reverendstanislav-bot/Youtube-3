@@ -12,55 +12,51 @@ Why Universal Music Just Sued DistroKid
 - Stage 03 Script V1: **PASS**
 - Stage 04 Fact + Legal Review: **PASS WITH REQUIRED EDITS**
 - Stage 05 Script Revision: **PASS — V2**
-- Current pipeline stage: **05_SCRIPT_REVISION**
-- Live docket refresh carried forward from Stage 04: **2026-10-03**
+- Stage 06 YouTube Performance Review: **PASS — 88/100**
+- Current pipeline stage: **06_PERFORMANCE_REVIEW**
+- Live legal/docket refresh carried forward from Stage 04: **2026-10-03**
+- Performance review date: **2026-10-04**
 - Script V2: **2,970 words**
-- Estimated narration: **~18.0 min at 165 wpm**
-- Shorts: **8 contiguous V2 ranges / isolation PASS**
-- Paid generation used through Stage 05: **NONE**
+- Harrison measured channel pace: **~139.4–139.7 wpm**
+- Current projected runtime at measured Harrison pace: **~21:19**
+- Stage 07 target: **~2,350–2,500 spoken words / ~16:52–17:56**
+- Required trim: **~470–620 words**
+- Shorts: **8 contiguous V2 ranges remain PASS**
+- Paid generation used through Stage 06: **NONE**
 
-## Stage 05 result
-All five required Stage 04 edits were applied to the long-form itself:
+## Stage 06 performance result
 
-1. categorical “DistroKid is not a record label” removed;
-2. broad traditional-label generalization narrowed to DistroKid's distribution proposition;
-3. §504(c)(2) wording now states proved/found willfulness + court discretion before the $150,000 ceiling;
-4. S10 now uses the Stage 04 October 3 docket refresh rather than Stage 01 source-pack language;
-5. S12 defense-outcome language softened to a conditional “could clarify,” depending on the basis of a future ruling.
+Weighted score: **88 / 100**
+Accuracy hard gate: **PASS — 5/5**
 
-## Shorts result
-- SH01 PASS
-- SH02 PASS — inherited repaired DistroKid role wording
-- SH03 PASS
-- SH04 PASS
-- SH05 PASS
-- SH06 PASS
-- SH07 PASS
-- SH08 PASS — inherited exact statutory-damages condition; 157 words / ~57 sec at 165 wpm
+Strongest:
+- 4,562-track cold open;
+- unexpected DistroKid-as-middle-layer reveal;
+- AI-framing reversal;
+- S06 rights-notice escalation;
+- S08 fake-multiplication / $150k payoff;
+- final battleground line.
 
-No separate Shorts rewrite was used. All eight remain contiguous long-form extracts.
+Main retention defect:
+**S09–S10 context/procedure trough**, followed by repeated synthesis in S11–S12.
 
-## Stage 05 artifacts
-- `05_SCRIPT_V2.md`
-- updated `03_SHORTS_MAP.csv`
-
-## Core locks retained
-- UMG allegations are not court findings.
-- DistroKid's denial/policies remain attributed.
-- Clearly disclosed AI-generated music is not framed as the target of the suit.
-- 4,562 / 1,000 / nearly 2,000 figures remain attributed.
-- No synthetic damages multiplication.
-- CVC/IFPI remain context only; no causal inference.
-- October 6 is not presented as the current answer deadline.
-- Current ending remains pending/unresolved.
+## Required Stage 07 edit plan
+1. Cut V2 to **~2,350–2,500 words** using real Harrison pace, not 165 wpm.
+2. Preserve all 8 contiguous Shorts.
+3. Preserve Stage 04 legal/factual locks.
+4. Compress S09–S10 by ~160–200 words.
+5. Delete internal spoken line about “Stage Four” / “Stage Sixteen” refreshes.
+6. Compress repeated caveats/explanations in S04, S05, S07 and post-SH08.
+7. Compress repeated middle-layer synthesis in S11–S12.
+8. Keep final line: **“It is the battleground.”**
+9. No generic CTA before final payoff.
 
 ## Next action
-**Stage 06 — YouTube Performance Review**, only on explicit owner instruction.
-
-Stage 06 may critique hook, retention, pacing, curiosity, density, payoff and click-promise delivery, but must not weaken the Stage 04 legal/factual locks.
+**Stage 07 — Final Script Lock**, only on explicit owner instruction.
 
 ## Blockers
-No Stage 06 blocker.
+No research blocker.
+Stage 07 has a **required performance/runtime edit**, not a factual blocker.
 
 ## Agent handoff
-Read `05_SCRIPT_V2.md`, `04_FACT_LEGAL_REVIEW.md` and `03_SHORTS_MAP.csv` before Stage 06. V2 is revised but not yet final/canonical script lock.
+Read `06_PERFORMANCE_REVIEW.md`, `05_SCRIPT_V2.md`, `04_FACT_LEGAL_REVIEW.md` and `03_SHORTS_MAP.csv`. Do not declare final script lock until the Harrison-paced runtime correction is completed and all 8 Shorts remain contiguous/legal-isolation PASS.
