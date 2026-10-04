@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Run hard visual QC on the 50 newly generated R6 frames; then repair only rejects; no further paid generation authorized"
+next_action: "Repair prompts for the 10 current reject frames only; do not regenerate until separate owner approval"
 blockers: []
 
 stages:
@@ -354,3 +354,20 @@ stage_13j_r6_remaining50_generation:
   pass_locked_before_qc: "66"
   further_paid_generation_authorized: false
   retries_authorized: "0"
+
+stage_13k_r6_remaining50_visual_qc:
+  status: "QC_COMPLETE"
+  generated_in_wave: "50"
+  qc_pass: "44"
+  qc_reject: "6"
+  reject_frames: "F044,F046,F051,F059,F102,F107"
+  total_pass_locked: "110"
+  total_current_rejects: "10"
+  current_reject_set: "F016,F044,F046,F051,F059,F060,F101,F102,F107,F110"
+  never_generated_remaining: "0"
+  first_pass_completion_rate_pct: "91.7"
+  qc_ledger: "13K_R6_REMAINING50_VISUAL_QC.csv"
+  summary: "13K_R6_REMAINING50_VISUAL_QC_SUMMARY.md"
+  further_paid_generation_authorized: false
+  retries_authorized: "0"
+  one_pass_reject_only_cost_credits: "5.0"
