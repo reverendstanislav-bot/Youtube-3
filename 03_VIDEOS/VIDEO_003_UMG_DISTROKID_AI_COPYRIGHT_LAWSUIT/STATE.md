@@ -10,7 +10,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
-- Stage 12 Visual Source / Generation Plan: **PASS / LOCKED — NO GENERATION AUTHORIZED**
+- Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL — 120/120 SOURCE-GROUNDED FINAL-FRAME TARGETS / NO GENERATION AUTHORIZED**
 - Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -117,31 +117,46 @@ Provider status is 4/4 COMPLETED and each result exposes an MP3 source URL plus 
 
 Stage 12 QA corrected one Stage 11 tokenizer defect: the final Markdown separator `---` had been counted as a 2,392nd token. Correct spoken authority is **2,391**. Final spoken word “battleground” ends at **987.120 sec**. Script/audio/Shorts are unchanged.
 
-## Stage 12 Visual Source / Generation Plan
-- 120 / 120 beats routed
-- REAL: **12**
-- DOCUMENT: **18**
-- UI: **10**
-- GFX: **43**
-- RECONSTRUCTION: **37**
-- real-source manifest: **32 entries**
-- authentic source-prep assets queued: **40**
-- deterministic editor GFX: **43**
-- paid image jobs required: **37**
+## Stage 12 Visual Source / Generation Plan — R2 corrected production model
+The prior v01 split of 12 REAL / 18 DOCUMENT / 10 UI / 43 GFX / 37 RECONSTRUCTION is **SUPERSEDED as a final-output model**.
+
+Correct WHAT IT COST model inherited from VIDEO001 final + VIDEO002 R9/R10:
+- B001–B120 → **F001–F120**
+- finished source-grounded Higgsfield final-frame targets: **120**
+- exact in-frame locked headlines: **120**
+- source-bound frames: **120 / 120**
+- mandatory authentic source inputs per frame: **1–3**
+- real source pool: **32**
+- source-prep queue: **32 unique prepared inputs**
+- raw editor-only/document-only final targets: **0**
 - model: **Higgsfield GPT Image 2 / 1k / low / 16:9**
-- live cost: **0.5 credit/image**
-- base paid image budget: **18.5 credits**
+- live rate: **0.5 credit/image**
+- paid jobs required: **120**
+- base image budget: **60.0 credits**
 - image jobs submitted: **0**
 - video jobs: **0**
 - retries authorized: **0**
-- Stage 12 credits spent: **0**
-- plan: `12_VISUAL_SOURCE_PLAN.md`
-- route map: `12_BEAT_ROUTE_MAP.csv`
+- Stage 12 correction spend: **0**
+
+Canonical files:
+- `12A_R2_STYLE_LOCK.md`
+- `12A_R2_UNIFIED_120_FINAL_FRAME_PROMPTS.md`
+- `12A_R2_FINAL_FRAME_PROMPTS_001_030.md`
+- `12A_R2_FINAL_FRAME_PROMPTS_031_060.md`
+- `12A_R2_FINAL_FRAME_PROMPTS_061_090.md`
+- `12A_R2_FINAL_FRAME_PROMPTS_091_120.md`
+- `12A_R2_UNIFIED_120_SOURCE_BINDINGS.csv`
+- `12A_R2_SOURCE_PREP_QUEUE.csv`
+- `12_GENERATION_COUNT_LOCK.md`
+- `12_BEAT_ROUTE_MAP.csv`
+- `ASSET_MANIFEST.csv`
+
+Every frame carries one exact locked headline directly in the image and uses authentic document/UI/photo/logo references as mandatory factual inputs. The generated environment may compose/frame/light those sources but may not replace or hallucinate them.
 
 ## Next action
-**Stage 13 — Visual Asset QC / source-prep readiness**, only on explicit owner instruction.
+**Stage 13 — source-prep + pre-generation QC for all 120 final-frame targets**, only on explicit owner instruction.
 
-Stage 13 remains free/source-prep QC. Paid reconstruction generation still requires separate owner approval of **37 jobs × 0.5 = 18.5 credits**.
+Paid generation remains blocked. After Stage13 PASS, any paid wave requires separate owner approval. Full locked base = **120 jobs × 0.5 = 60.0 credits**; retries = 0 unless separately approved.
 
 ## Blockers
 None.

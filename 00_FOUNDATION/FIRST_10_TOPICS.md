@@ -21,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_12_PASS |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_12_R2_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -118,9 +118,9 @@ Stage 08 result: **PASS — EXACT HARRISON INPUT / 4 JOBS / 15,475 CHARS / LIVE 
 Stage 09 result: **PASS — 4/4 EXACT QA / 4/4 HARRISON SOURCE JOBS COMPLETE / 46.65 CREDITS / 0 RETRIES / 16:26 RAW**  
 Stage 10 result: **PASS / AUDIO MASTER LOCKED — 16:28.291 / 44.1 KHZ MONO / 192 KBPS / ASR QC PASS**  
 Stage 11 result: **PASS / LOCKED — 2,391/2,391 SPOKEN TOKENS TIMED / 120 VISUAL BEATS / 8/8 SHORTS TIMED**  
-Stage 12 result: **PASS / PLAN LOCKED — 12 REAL / 18 DOCUMENT / 10 UI / 43 GFX / 37 RECONSTRUCTION / 18.5 CREDITS BASE / 0 SPENT**
+Stage 12 result: **PASS / R2 CORRECTED CANONICAL — 120/120 SOURCE-GROUNDED FINAL-FRAME TARGETS / 120 LOCKED HEADLINES / 1–3 AUTHENTIC REFS EACH / 60.0 CREDITS BASE / 0 SPENT**
 
 Next action:
-Begin Stage 13 Visual Asset QC / source-prep readiness only on explicit owner instruction; paid generation remains blocked.
+Begin Stage 13 source-prep + pre-generation QC for the 120 unified final-frame targets only on explicit owner instruction; paid generation remains blocked.
 
 Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
