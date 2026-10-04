@@ -198,3 +198,20 @@ stage_13_visual_qc:
   paid_generation_authorized: false
   paid_jobs_submitted: "0"
   credits_spent_stage_13: "0"
+
+test_generation_wave_01:
+  range: "F001-F030"
+  model: "gpt_image_2"
+  settings: "1k_low_16:9"
+  jobs_authorized: "30"
+  jobs_submitted: "30"
+  jobs_completed: "30"
+  jobs_failed: "0"
+  paid_retries: "0"
+  cost_per_job_credits: "0.5"
+  actual_spend_credits: "15.0"
+  generation_ledger: "13B_TEST30_GENERATION_LEDGER.csv"
+  qc_ledger: "13C_TEST30_VISUAL_QC.csv"
+  qc_pass: "19"
+  qc_reject: "11"
+  next_generation_authorized: false

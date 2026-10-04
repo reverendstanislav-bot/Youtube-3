@@ -185,3 +185,18 @@ Full locked base if approved:
 **120 Higgsfield GPT Image 2 jobs × 0.5 credit = 60.0 credits**.
 
 Retries authorized: **0**.
+
+## Stage 13B test generation + hard QC
+- test range: **F001–F030**
+- generated: **30 / 30**
+- completed: **30 / 30**
+- generation failures: **0**
+- paid retries: **0**
+- actual spend: **15.0 credits**
+- hard visual QC: **19 PASS / 11 REJECT**
+- PASS frames: **F001, F002, F004, F005, F007, F009, F010, F011, F012, F013, F017, F018, F020, F022, F024, F025, F027, F028, F030**
+- REJECT frames: **F003, F006, F008, F014, F015, F016, F019, F021, F023, F026, F029**
+- generation ledger: `13B_TEST30_GENERATION_LEDGER.csv`
+- QC ledger: `13C_TEST30_VISUAL_QC.csv`
+- next paid generation authorized: **NO**
+- reject retries authorized: **0**
