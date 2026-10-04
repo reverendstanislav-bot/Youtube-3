@@ -47,11 +47,11 @@ Git authority:
 - `11_ALIGNMENT_QC.json`
 
 Uncompressed durable mirror:
-- `https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/43d6ffa8-9c7e-4bb5-8e7e-06f8a539686d.csv`
+- `https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/5f99efc4-428c-474c-8b6b-b68996ce8eab.csv`
 
 Uncompressed CSV:
-- size: **173,989 bytes**
-- SHA-256: `7e9c9d3b7b31d5ec80f5b740ea3e643edfa694708ce93327e196e7fb2bfaa0b7`
+- size: **173,921 bytes**
+- SHA-256: `3f57cf1a8e10162cbe255d9b39926f97a5b96396768b484f5b17db6c83365f24`
 
 Columns:
 `word_id, section, paragraph, word, start_sec, end_sec, start_timecode, end_timecode, alignment, asr_probability`
@@ -65,7 +65,7 @@ Exact visual beats:
 **120**
 
 Timeline SHA-256:
-`70e1680bc731f9465119c0fff1e12ed6dc261f98ed1853d81d8bd95be30b8a46`
+`65d62cb8bf8c3a33c7a536561498e0ab4e77a10138336de7f0f8202d56427b36`
 
 Timeline design:
 - first minute deliberately denser to support R3 retention;

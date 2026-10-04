@@ -146,7 +146,7 @@ visual_timeline:
   file: "11_VISUAL_TIMELINE.csv"
   beats: "120"
   route_status: "UNASSIGNED_STAGE12"
-  sha256: "70e1680bc731f9465119c0fff1e12ed6dc261f98ed1853d81d8bd95be30b8a46"
+  sha256: "65d62cb8bf8c3a33c7a536561498e0ab4e77a10138336de7f0f8202d56427b36"
 
 stage_12_visual_plan:
   route_map: "12_BEAT_ROUTE_MAP.csv"
