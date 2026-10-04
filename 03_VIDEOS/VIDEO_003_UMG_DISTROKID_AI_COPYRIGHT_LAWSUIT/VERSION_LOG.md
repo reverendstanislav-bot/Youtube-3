@@ -13,3 +13,4 @@
 | 2026-10-04 | Stage 07 | v01 | Canonical final script locked at 2,370 spoken words; Harrison runtime ~17:00; Stage06 density/runtime defects resolved; 8 Shorts locked at ~48–60 sec | G07 canonical script + Shorts lock | PASS / CANONICAL |
 
 | 2026-10-04 | Stage 07 | v02 | Final editorial dedupe removed residual repeated phrasing in S02/S04/S05/S06/S08/S09/S10/S11/S12; canonical body corrected to 2,370 spoken words | Post-lock textual QC correction; no claim/Short changes | PASS / CANONICAL |
+| 2026-10-04 | Stage 07 | v03 | Director/retention polish: rebuilt first 60s as 9-beat hook chain; added section-to-section curiosity handoffs; re-locked 8 Shorts; canonical body 2,391 words (~17:09 Harrison) | Owner requested 10/10 first-minute retention focus | PASS / CANONICAL R3 — 98/100 PERFORMANCE RE-REVIEW |

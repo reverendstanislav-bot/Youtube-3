@@ -13,12 +13,12 @@ Why Universal Music Just Sued DistroKid
 - Stage 04 Fact + Legal Review: **PASS WITH REQUIRED EDITS**
 - Stage 05 Script Revision: **PASS — V2**
 - Stage 06 YouTube Performance Review: **PASS — 88/100**
-- Stage 07 Final Script Lock: **PASS / CANONICAL**
+- Stage 07 Final Script Lock: **PASS / CANONICAL — R3 RETENTION POLISH**
 - Current pipeline stage: **07_SCRIPT_LOCK**
 - Canonical narration: **`07_SCRIPT_FINAL.md`**
-- Canonical spoken words: **2,370**
+- Canonical spoken words: **2,391**
 - Harrison measured channel pace: **~139.4 wpm**
-- Projected narration runtime: **~17:00**
+- Projected narration runtime: **~17:09**
 - Shorts: **8/8 canonical contiguous locks**
 - Paid generation used through Stage 07: **NONE**
 
@@ -26,13 +26,26 @@ Why Universal Music Just Sued DistroKid
 Stage 06 identified that the earlier 165-wpm estimate was not representative of Harrison.
 
 V2 body was **2,847 spoken words** before final compression.
-Stage 07 canonical body is **2,370 spoken words**.
+Stage 07 R3 canonical body is **2,391 spoken words**.
 
 Reduction:
-**477 spoken words / ~16.8%**
+**456 spoken words / ~16.0% from the 2,847-word V2 body**
 
 Projected Harrison runtime:
-**~17:00**, inside the locked 16–18 minute target.
+**~17:09**, inside the locked 16–18 minute target.
+
+## Stage 07 R3 retention polish
+- First minute rebuilt as a dedicated 9-beat retention sequence.
+- 139 words / ~60 sec at measured Harrison pace.
+- Unexpected-defendant reveal lands by ~19 sec.
+- Distributor mechanism is clear by ~28 sec.
+- Notice/continued-distribution allegation lands by ~40 sec.
+- DistroKid denial + no-merits-ruling caveat lands by ~48 sec.
+- AI reversal lands by ~55 sec.
+- Minute ends on the open loop: **“The real question is what happens after the pipe is warned.”**
+- Curiosity handoffs added between every major section.
+- Post-polish performance re-review: **98/100**.
+- Full audit: `07_RETENTION_POLISH_R3.md`.
 
 ## Stage 07 performance edits completed
 - S09–S10 context/procedure trough compressed.
@@ -46,14 +59,14 @@ Projected Harrison runtime:
 `07_SHORTS_LOCK.csv`
 
 Estimated at measured Harrison pace:
-- SH01: **134 words / ~58 sec**
-- SH02: **133 / ~57 sec**
-- SH03: **139 / ~60 sec**
+- SH01: **139 words / ~60 sec**
+- SH02: **128 / ~55 sec**
+- SH03: **132 / ~57 sec**
 - SH04: **111 / ~48 sec**
-- SH05: **118 / ~51 sec**
-- SH06: **117 / ~50 sec**
-- SH07: **113 / ~49 sec**
-- SH08: **139 / ~60 sec**
+- SH05: **106 / ~46 sec**
+- SH06: **109 / ~47 sec**
+- SH07: **111 / ~48 sec**
+- SH08: **138 / ~59 sec**
 
 Rules:
 - contiguous extraction only;

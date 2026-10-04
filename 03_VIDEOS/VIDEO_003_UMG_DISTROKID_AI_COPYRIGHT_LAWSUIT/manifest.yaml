@@ -65,7 +65,7 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "STAGE_07_8_SHORTS_CANONICAL_LOCK"
+  architecture_status: "STAGE_07_R3_8_SHORTS_CANONICAL_LOCK"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"

@@ -113,7 +113,7 @@ Stage 03 result: **PASS / SCRIPT V1 READY FOR FACT-LEGAL REVIEW**
 Stage 04 result: **PASS WITH REQUIRED EDITS**  
 Stage 05 result: **PASS / SCRIPT V2 — 5/5 FIXES APPLIED / 8 SHORTS PASS**  
 Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**  
-Stage 07 result: **PASS / CANONICAL — 2,370 WORDS / ~17:00 / 8 SHORTS LOCKED**
+Stage 07 result: **PASS / CANONICAL R3 — 2,391 WORDS / ~17:09 / FIRST-MINUTE RETENTION POLISH / 98/100 / 8 SHORTS LOCKED**
 
 Next action:
 Begin Stage 08 Voice Script only on explicit owner instruction.
