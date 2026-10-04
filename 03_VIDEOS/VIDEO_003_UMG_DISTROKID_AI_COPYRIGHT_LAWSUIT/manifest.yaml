@@ -7,8 +7,8 @@ priority: "3"
 status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
-current_stage: "08_VOICE_SCRIPT"
-next_action: "Begin Stage 09 Voice QA + Lock only on explicit owner instruction"
+current_stage: "09_VOICE_QA_LOCK"
+next_action: "Await explicit owner approval for 4 Harrison TTS jobs / 46.65 credits; do not submit otherwise"
 blockers: []
 
 stages:
@@ -21,7 +21,7 @@ stages:
   stage_06_performance_review: "PASS"
   stage_07_script_lock: "PASS"
   stage_08_voice_script: "PASS"
-  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_09_voice_qa_lock: "PASS"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -38,7 +38,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
+  voice_input: true
   audio_master: false
   visual_timeline: false
   visual_assets: false
@@ -66,6 +66,13 @@ voice:
   stage_08_normalized_words: "2415"
   stage_08_live_quoted_cost_credits: "46.65"
   stage_08_paid_generation_authorized: false
+  stage_09_review: "09_VOICE_REVIEW.md"
+  stage_09_semantic_match: "4_OF_4_EXACT"
+  stage_09_omissions: "0"
+  stage_09_duplications: "0"
+  stage_09_live_quoted_cost_credits: "46.65"
+  stage_09_paid_generation_authorized: false
+  stage_09_tts_submitted: false
 
 audio:
   runtime_sec: ""

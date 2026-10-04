@@ -7,13 +7,14 @@ Why Universal Music Just Sued DistroKid
 - Status: **IN_PREPARATION**
 - Stage 07 Final Script Lock: **PASS / CANONICAL — R3 RETENTION POLISH**
 - Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY**
-- Current pipeline stage: **08_VOICE_SCRIPT**
+- Stage 09 Voice QA + Lock: **PASS — INPUT / SETTINGS LOCKED**
+- Current pipeline stage: **09_VOICE_QA_LOCK**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
 - Harrison: **CHANNEL LOCK**
 - Model preflight: **Higgsfield `text2speech_v2` + ElevenLabs**
-- Paid generation through Stage 08: **NONE**
+- Paid generation through Stage 09: **NONE**
 
 ## Stage 08 exact input
 Only delivery-form normalization was applied:
@@ -56,10 +57,22 @@ Quote source:
 Current planned paid step after Stage 09, if owner approves:
 **4 Harrison jobs = 46.65 credits total.**
 
-## Next action
-**Stage 09 — Voice QA + Lock**, only on explicit owner instruction.
+## Stage 09 lock result
+- 4/4 exact normalized parts: **PASS**
+- omissions: **0**
+- duplications: **0**
+- unauthorized rewrites: **0**
+- legal/attribution hard gate: **PASS**
+- chunking/editability: **PASS**
+- live cost re-preflight: **46.65 credits**
+- TTS jobs submitted: **0**
+- credits consumed: **0**
+- exact review: `09_VOICE_REVIEW.md`
 
-Stage 09 must verify semantic fidelity, omissions/duplications, pronunciation, numbers/currency/dates, legal terms, attribution, chunking and editability. On PASS it may lock the exact input/settings, but must not submit paid TTS without separate owner approval.
+## Next action
+**Await explicit owner approval for the locked paid step: 4 Harrison TTS jobs = 46.65 credits total.**
+
+Do not submit any source job without that approval.
 
 ## Blockers
 None.

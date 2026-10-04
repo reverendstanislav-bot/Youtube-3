@@ -21,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_08_PASS |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_09_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -114,9 +114,10 @@ Stage 04 result: **PASS WITH REQUIRED EDITS**
 Stage 05 result: **PASS / SCRIPT V2 — 5/5 FIXES APPLIED / 8 SHORTS PASS**  
 Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**  
 Stage 07 result: **PASS / CANONICAL R3 — 2,391 WORDS / ~17:09 / FIRST-MINUTE RETENTION POLISH / 98/100 / 8 SHORTS LOCKED**  
-Stage 08 result: **PASS — EXACT HARRISON INPUT / 4 JOBS / 15,475 CHARS / LIVE QUOTE 46.65 CREDITS / 0 SPENT**
+Stage 08 result: **PASS — EXACT HARRISON INPUT / 4 JOBS / 15,475 CHARS / LIVE QUOTE 46.65 CREDITS / 0 SPENT**  
+Stage 09 result: **PASS — 4/4 EXACT QA / VOICE INPUT LOCKED / 46.65 CREDITS RECONFIRMED / TTS NOT GENERATED**
 
 Next action:
-Begin Stage 09 Voice QA + Lock only on explicit owner instruction.
+Await explicit owner approval for 4 Harrison TTS jobs = 46.65 credits total.
 
 Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
