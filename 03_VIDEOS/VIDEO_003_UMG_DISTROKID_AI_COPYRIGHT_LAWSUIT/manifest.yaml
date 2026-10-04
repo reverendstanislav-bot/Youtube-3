@@ -145,7 +145,7 @@ transcript:
 visual_timeline:
   file: "11_VISUAL_TIMELINE.csv"
   beats: "120"
-  route_status: "UNASSIGNED_STAGE12"
+  route_status: "ASSIGNED_STAGE12_LOCKED"
   sha256: "65d62cb8bf8c3a33c7a536561498e0ab4e77a10138336de7f0f8202d56427b36"
 
 stage_12_visual_plan:
