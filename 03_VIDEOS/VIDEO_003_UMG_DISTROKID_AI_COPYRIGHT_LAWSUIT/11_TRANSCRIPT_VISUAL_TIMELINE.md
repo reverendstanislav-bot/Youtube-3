@@ -16,11 +16,11 @@ All Stage 11 timing derives from this locked master.
 ## Canonical word alignment
 
 Canonical Stage 07 lexical tokens timed:
-**2,392 / 2,392**
+**2,391 / 2,391**
 
 Alignment:
-- **2,338 / 97.74% DIRECT**
-- **54 / 2.26% ALIGNED**
+- **2,338 / 97.78% DIRECT**
+- **53 / 2.22% ALIGNED**
 
 `DIRECT` means the canonical token matched the master ASR token directly.
 `ALIGNED` means timing was interpolated monotonically inside neighboring confirmed canonical/ASR anchors.
@@ -29,16 +29,16 @@ The ASR wording is never the text authority. The canonical text remains `07_SCRI
 
 ### Stage 07 metadata reconciliation
 
-Stage 07 R3 metadata previously recorded **2,391** words.
-A fresh Stage 11 production-tokenizer pass on the unchanged canonical file returns **2,392 lexical tokens**.
+Stage 12 QA found that the first Stage 11 tokenizer pass accidentally included the final Markdown separator `---` as a lexical token.
 
-This is an **off-by-one metadata correction only**:
+Corrected authority:
+- spoken canonical lexical tokens: **2,391**
+- final spoken token: **“battleground”**
+- final spoken token end: **987.120 sec / 00:16:27.120**
+- trailing master tail after final spoken token: **1.171 sec**
 - canonical script text changed: **NO**
 - audio changed: **NO**
-- legal/factual meaning changed: **NO**
-- Shorts text changed: **NO**
-
-Stage 11 downstream timing authority therefore uses **2,392 canonical tokens**.
+- Shorts timing changed: **NO**
 
 ## Transcript artifacts
 
@@ -131,9 +131,9 @@ Rules preserved:
 **PASS**
 
 - master authority: PASS
-- 2,392/2,392 canonical tokens timed
+- 2,391/2,391 canonical tokens timed
 - monotonic word timing: PASS
-- direct alignment: 97.74%
+- direct alignment: 97.78%
 - 120/120 visual beats timed
 - first-minute density lock: PASS
 - 8/8 Shorts timed

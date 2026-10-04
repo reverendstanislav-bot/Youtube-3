@@ -9,8 +9,9 @@ Why Universal Music Just Sued DistroKid
 - Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY**
 - Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 - Stage 10 Audio Master: **PASS / LOCKED**
-- Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
-- Current pipeline stage: **11_TRANSCRIPT_VISUAL_TIMELINE**
+- Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
+- Stage 12 Visual Source / Generation Plan: **PASS / LOCKED — NO GENERATION AUTHORIZED**
+- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
@@ -102,9 +103,9 @@ Provider status is 4/4 COMPLETED and each result exposes an MP3 source URL plus 
 - Record: `10_AUDIO_MASTER.md`
 
 ## Stage 11 Transcript + Visual Timeline
-- Canonical tokens timed: **2,392 / 2,392**
-- DIRECT: **2,338 / 97.74%**
-- ALIGNED: **54 / 2.26%**
+- Canonical tokens timed: **2,391 / 2,391**
+- DIRECT: **2,338 / 97.78%**
+- ALIGNED: **53 / 2.22%**
 - Word transcript: `11_WORD_TRANSCRIPT.csv.gz`
 - Alignment QC: `11_ALIGNMENT_QC.json`
 - Visual timeline: **120 beats**
@@ -114,10 +115,33 @@ Provider status is 4/4 COMPLETED and each result exposes an MP3 source URL plus 
 - Stage 11 credits: **0**
 - Record: `11_TRANSCRIPT_VISUAL_TIMELINE.md`
 
-Stage 11 also reconciled the Stage 07 word-count metadata from **2,391 → 2,392 lexical tokens**. Canonical script bytes and audio were not changed.
+Stage 12 QA corrected one Stage 11 tokenizer defect: the final Markdown separator `---` had been counted as a 2,392nd token. Correct spoken authority is **2,391**. Final spoken word “battleground” ends at **987.120 sec**. Script/audio/Shorts are unchanged.
+
+## Stage 12 Visual Source / Generation Plan
+- 120 / 120 beats routed
+- REAL: **12**
+- DOCUMENT: **18**
+- UI: **10**
+- GFX: **43**
+- RECONSTRUCTION: **37**
+- real-source manifest: **32 entries**
+- authentic source-prep assets queued: **40**
+- deterministic editor GFX: **43**
+- paid image jobs required: **37**
+- model: **Higgsfield GPT Image 2 / 1k / low / 16:9**
+- live cost: **0.5 credit/image**
+- base paid image budget: **18.5 credits**
+- image jobs submitted: **0**
+- video jobs: **0**
+- retries authorized: **0**
+- Stage 12 credits spent: **0**
+- plan: `12_VISUAL_SOURCE_PLAN.md`
+- route map: `12_BEAT_ROUTE_MAP.csv`
 
 ## Next action
-**Stage 12 — Visual Source / Generation Plan**, only on explicit owner instruction.
+**Stage 13 — Visual Asset QC / source-prep readiness**, only on explicit owner instruction.
+
+Stage 13 remains free/source-prep QC. Paid reconstruction generation still requires separate owner approval of **37 jobs × 0.5 = 18.5 credits**.
 
 ## Blockers
 None.

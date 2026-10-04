@@ -4,10 +4,10 @@ Status: **PASS — MAX-RETENTION CANONICAL**
 
 Date: **2026-10-04**
 Canonical script: `07_SCRIPT_FINAL.md`
-Spoken lexical tokens: **2,392**
+Spoken lexical tokens: **2,391**
 Projected Harrison runtime at Stage 07: **~17:09 at 139.4 wpm**
 
-Stage 11 metadata reconciliation: the unchanged R3 file contains **2,392 production lexical tokens**; the prior 2,391 figure was off by one.
+Stage 12 QA correction: the transient Stage 11 count of 2,392 mistakenly included the final Markdown separator. Correct spoken count remains **2,391**; script content was not changed.
 
 ## First-minute architecture
 
