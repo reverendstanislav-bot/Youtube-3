@@ -10,8 +10,9 @@ Why Universal Music Just Sued DistroKid
 - Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
-- Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL — 120/120 SOURCE-GROUNDED FINAL-FRAME TARGETS / NO GENERATION AUTHORIZED**
-- Current pipeline stage: **12_VISUAL_SOURCE_GENERATION_PLAN**
+- Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
+- Stage 13 Visual Asset QC: **PASS / 32 REFERENCES PREPARED + 120/120 PRE-GEN QC PASS / NO GENERATION AUTHORIZED**
+- Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
@@ -153,10 +154,34 @@ Canonical files:
 
 Every frame carries one exact locked headline directly in the image and uses authentic document/UI/photo/logo references as mandatory factual inputs. The generated environment may compose/frame/light those sources but may not replace or hallucinate them.
 
+## Stage 13 result
+- physical prepared references: **32 / 32**
+- persistent Higgsfield image uploads: **32 / 32**
+- prompt targets reviewed: **120 / 120**
+- pre-generation QC rows: **120 / 120 PASS**
+- generation-reference bindings: **228**
+- unique locked headlines: **120**
+- maximum identical adjacent source-set run: **2**
+- legal-headline repairs: **4**
+- source-diversity repairs: **5**
+- paid image jobs submitted: **0**
+- Stage 13 credits spent: **0**
+
+Canonical Stage 13 files:
+- `13_REFERENCE_FILES.csv`
+- `13_SOURCE_VISUAL_QC.csv`
+- `13_GENERATION_REFERENCE_BINDINGS.csv`
+- `13_PREGEN_QC.csv`
+- `12A_R3_UNIFIED_120_FINAL_FRAME_PROMPTS.md`
+- `12A_R3_FINAL_FRAME_PROMPTS_001_030.md`
+- `12A_R3_FINAL_FRAME_PROMPTS_031_060.md`
+- `12A_R3_FINAL_FRAME_PROMPTS_061_090.md`
+- `12A_R3_FINAL_FRAME_PROMPTS_091_120.md`
+
 ## Next action
-**Stage 13 — source-prep + pre-generation QC for all 120 final-frame targets**, only on explicit owner instruction.
+Paid generation remains blocked pending explicit owner approval.
 
-Paid generation remains blocked. After Stage13 PASS, any paid wave requires separate owner approval. Full locked base = **120 jobs × 0.5 = 60.0 credits**; retries = 0 unless separately approved.
+Full locked base if approved:
+**120 Higgsfield GPT Image 2 jobs × 0.5 credit = 60.0 credits**.
 
-## Blockers
-None.
+Retries authorized: **0**.

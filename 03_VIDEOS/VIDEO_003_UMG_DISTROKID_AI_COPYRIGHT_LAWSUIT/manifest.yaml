@@ -7,8 +7,8 @@ priority: "3"
 status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
-current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Begin Stage 13 source-prep + pre-generation QC for 120 unified final-frame targets only on explicit owner instruction; no paid generation authorized"
+current_stage: "13_VISUAL_ASSET_QC"
+next_action: "Await explicit owner approval for paid image-generation wave; no paid generation authorized yet"
 blockers: []
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_10_audio_master: "PASS"
   stage_11_transcript_visual_timeline: "PASS"
   stage_12_visual_source_generation_plan: "PASS"
-  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_13_visual_asset_qc: "PASS"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -178,3 +178,23 @@ stage_12_visual_plan:
   jobs_submitted: "0"
   credits_spent_stage_12: "0"
   supersedes_stage_12_v01_split: true
+
+stage_13_visual_qc:
+  reference_files: "13_REFERENCE_FILES.csv"
+  source_visual_qc: "13_SOURCE_VISUAL_QC.csv"
+  generation_reference_bindings: "13_GENERATION_REFERENCE_BINDINGS.csv"
+  pregen_qc: "13_PREGEN_QC.csv"
+  prompt_index: "12A_R3_UNIFIED_120_FINAL_FRAME_PROMPTS.md"
+  prompt_part_001_030: "12A_R3_FINAL_FRAME_PROMPTS_001_030.md"
+  prompt_part_031_060: "12A_R3_FINAL_FRAME_PROMPTS_031_060.md"
+  prompt_part_061_090: "12A_R3_FINAL_FRAME_PROMPTS_061_090.md"
+  prompt_part_091_120: "12A_R3_FINAL_FRAME_PROMPTS_091_120.md"
+  prepared_references: "32"
+  persistent_reference_uploads: "32"
+  prompt_targets_qc_pass: "120"
+  reference_bindings: "228"
+  unique_headlines: "120"
+  max_adjacent_identical_source_set_run: "2"
+  paid_generation_authorized: false
+  paid_jobs_submitted: "0"
+  credits_spent_stage_13: "0"

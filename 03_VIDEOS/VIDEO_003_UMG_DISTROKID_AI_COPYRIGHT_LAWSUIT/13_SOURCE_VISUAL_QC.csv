@@ -1,1 +1,33 @@
-scene_id,asset_id,source_id,visual_type,authenticity_verified,rights_or_usage_note,crop_context_ok,quote_text_verified,date_amount_verified,status,notes
+visual_source_id,target_file,authenticity_verified,rights_or_usage_note,crop_context_ok,text_or_identity_readable,challenge_free,status,notes
+VS001,12_SOURCE_PREP/VS001_COMPLAINT_COVER_PARTIES_FILING.png,YES,Use tight crop only; preserve filing text; no fake docket styling.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS002,12_SOURCE_PREP/VS002_COMPLAINT_DISTRIBUTION_CHAIN_EXPLANATION.png,YES,Crop chain-of-distribution language; source pixels unchanged.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS003,12_SOURCE_PREP/VS003_COMPLAINT_AI_DISCLOSURE_CAVEAT.png,YES,Use footnote stating suit is not about clearly disclosed AI music.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS004,12_SOURCE_PREP/VS004_COMPLAINT_4_562_TRACKS_ISRC_ALLEGATION.png,YES,"Two separate crops: 4,562 block and ISRC block.",YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS005,12_SOURCE_PREP/VS005_COMPLAINT_1_000_EXAMPLES_RIGHTS_NOTICE_THEOR.png,YES,"Use separate crops for 1,000 and post-notice allegation.",YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS006,12_SOURCE_PREP/VS006_COMPLAINT_INFRINGEMENT_EXAMPLE_CATEGORIES.png,YES,Use only necessary excerpt/figure; do not imply court finding.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS007,12_SOURCE_PREP/VS007_COMPLAINT_150_000_REQUESTED_MAXIMUM.png,YES,"Pair with statute; label as request/allegation, not award.",YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS008,12_SOURCE_PREP/VS008_COMPLAINT_REQUEST_FOR_RELIEF.png,YES,Use request-for-relief crop; preserve context.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS009,12_SOURCE_PREP/VS009_JUSTIA_DOCKET_SNAPSHOT.png,YES,Stage13 replacement for blocked Justia capture; supports historical/superseded scheduling context only.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS010,12_SOURCE_PREP/VS010_CURRENT_DOCKET_NEXUS_CASE_PAGE.png,YES,Use dated Oct.3 status only; refresh again Stage16.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS011,12_SOURCE_PREP/VS011_OPEN_PUBLIC_RECORDS_DOCKET_FEED.png,YES,Supports Sept.28 reset/schedule; no invented replacement date.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS012,12_SOURCE_PREP/VS012_DISTROKID_HOMEPAGE_DISTRIBUTION_PRODUCT_UI.png,YES,Exact official DistroKid Help Center API text rendered deterministically for reference; not a fabricated UI.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS013,12_SOURCE_PREP/VS013_DISTROKID_AI_UPLOAD_POLICY.png,YES,Exact official policy text rendered deterministically; preserve meaning and attribution.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS014,12_SOURCE_PREP/VS014_DISTROKID_ARTIST_NAME_VERIFICATION_HELP.png,YES,"Exact official support text rendered deterministically; context only, not case-specific proof.",YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS015,12_SOURCE_PREP/VS015_OFFICIAL_ISRC_SITE.png,YES,Use unique/permanent identifier explanation and site identity.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS016,12_SOURCE_PREP/VS016_IFPI_STREAMING_INTEGRITY_INITIATIVE_LAUNCH.png,YES,Use supporter list/launch date; absence is not proof of wrongdoing.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS017,12_SOURCE_PREP/VS017_STREAMING_INTEGRITY_INITIATIVE_PRACTICES_PAG.png,YES,Use Verify/Vet/Act framework only as industry context.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS018,12_SOURCE_PREP/VS018_CVC_MAJORITY_INVESTMENT_ANNOUNCEMENT.png,YES,Terms undisclosed; do not state closing unless later official source says so.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS019,12_SOURCE_PREP/VS019_17_U_S_C_504_STATUTORY_DAMAGES.png,YES,Use §504(c)(2) condition: proved/found willfulness + court discretion.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS020,12_SOURCE_PREP/VS020_DISTROKID_FULL_PUBLIC_RESPONSE.png,YES,Accessible visual replacement carrying DistroKid's published response; quote remains attributed.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS021,12_SOURCE_PREP/VS021_REUTERS_FILING_DENIAL_REPORT.png,YES,Stage13 visual replacement for Reuters 401 page; Reuters wording/source attribution retained.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS022,12_SOURCE_PREP/VS022_DISTROKID_BLACK_WORDMARK.png,YES,Public-domain simple logo; trademark/editorial use only; no endorsement.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS023,12_SOURCE_PREP/VS023_UNIVERSAL_MUSIC_GROUP_CORPORATE_IDENTITY.png,YES,Use official brand identity narrowly; trademark/editorial context only.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS024,12_SOURCE_PREP/VS024_UMG_UNIVERSAL_MUSIC_PUBLISHING_SANTA_MONICA_.png,YES,Credit Coolcaesar / CC BY 4.0; indicate crop if used.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS025,12_SOURCE_PREP/VS025_PHILIP_KAPLAN_PORTRAIT_DISTROKID_FOUNDER_CON.png,YES,Use only as founder/company context; do not attribute company statement to him.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS026,12_SOURCE_PREP/VS026_PHIL_BAUER_PHILIP_KAPLAN_LEADERSHIP_CONTEXT.png,YES,Use as leadership context; preserve faces.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS027,12_SOURCE_PREP/VS027_SPOTIFY_CURRENT_WORDMARK.png,YES,Public-domain simple logo; trademark/editorial context.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS028,12_SOURCE_PREP/VS028_APPLE_MUSIC_ICON.png,YES,Public-domain simple logo; trademark/editorial context.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS029,12_SOURCE_PREP/VS029_TIKTOK_WORDMARK.png,YES,Public-domain simple logo; trademark/editorial context.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS030,12_SOURCE_PREP/VS030_UNIVERSAL_MUSIC_GROUP_LOGO.png,YES,Trademark/editorial use; final file-page rights recheck required at Stage16 rights audit.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS031,12_SOURCE_PREP/VS031_CVC_DISTROKID_OFFICIAL_ANNOUNCEMENT_HERO_BRA.png,YES,Use official page hero/brand elements only in transaction-context beat.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
+VS032,12_SOURCE_PREP/VS032_IFPI_SII_OFFICIAL_LAUNCH_BRANDING.png,YES,Use only for industry-context beat; no guilt inference.,YES,YES,YES,PASS,Visual contact-sheet + file integrity review PASS.
