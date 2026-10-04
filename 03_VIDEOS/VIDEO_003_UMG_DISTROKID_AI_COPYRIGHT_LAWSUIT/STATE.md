@@ -11,7 +11,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
-- Stage 13 Visual Asset QC: **ACTIVE — R7 reject-only generation complete 10/10; 110 prior PASS locked; hard QC pending on 10 repairs**
+- Stage 13 Visual Asset QC: **COMPLETE — FINAL 120/120 PASS LOCKED; 0 rejects; 0 pending QC**
 - Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -362,3 +362,19 @@ R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized b
 - generation ledger: `13L_R7_REJECT10_GENERATION_LEDGER.csv`
 - visual verdicts: **PENDING HARD QC**
 - further paid generation authorized: **NO**
+
+
+## Stage 13M — R7 reject-only hard visual QC / FINAL ASSET LOCK
+- inspected: **10 / 10 actual R7 Higgsfield outputs**
+- PASS: **10**
+- REJECT: **0**
+- R7 PASS frames: **F016, F044, F046, F051, F059, F060, F101, F102, F107, F110**
+- final visual assets: **120 / 120 PASS_LOCKED**
+- current rejects: **0**
+- generated awaiting QC: **0**
+- never-generated: **0**
+- final completion: **100%**
+- QC ledger: `13M_R7_REJECT10_VISUAL_QC.csv`
+- summary: `13M_R7_REJECT10_VISUAL_QC_SUMMARY.md`
+- further paid image generation authorized: **NO**
+- Stage 13 visual asset set: **FINAL LOCK**

@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Run hard visual QC on the 10 R7 reject-only repairs; no further paid generation authorized"
+next_action: "Proceed to deterministic production assembly using the final 120/120 PASS_LOCKED visual asset manifest; no image generation required"
 blockers: []
 
 stages:
@@ -388,3 +388,18 @@ stage_13l_r7_reject10_generation:
   generation_ledger: "13L_R7_REJECT10_GENERATION_LEDGER.csv"
   hard_qc_status: "PENDING"
   further_paid_generation_authorized: false
+
+stage_13m_r7_reject10_visual_qc:
+  status: "FINAL_ASSET_LOCK"
+  inspected: "10"
+  qc_pass: "10"
+  qc_reject: "0"
+  pass_frames: "F016,F044,F046,F051,F059,F060,F101,F102,F107,F110"
+  total_pass_locked: "120"
+  total_rejects: "0"
+  generated_awaiting_qc: "0"
+  never_generated: "0"
+  completion_rate_pct: "100.0"
+  qc_ledger: "13M_R7_REJECT10_VISUAL_QC.csv"
+  summary: "13M_R7_REJECT10_VISUAL_QC_SUMMARY.md"
+  further_paid_image_generation_authorized: false
