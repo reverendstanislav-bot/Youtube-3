@@ -9,7 +9,8 @@ Why Universal Music Just Sued DistroKid
 - Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY**
 - Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
 - Stage 10 Audio Master: **PASS / LOCKED**
-- Current pipeline stage: **10_AUDIO_MASTER**
+- Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
+- Current pipeline stage: **11_TRANSCRIPT_VISUAL_TIMELINE**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
@@ -100,8 +101,23 @@ Provider status is 4/4 COMPLETED and each result exposes an MP3 source URL plus 
 - New credits spent at Stage 10: **0**
 - Record: `10_AUDIO_MASTER.md`
 
+## Stage 11 Transcript + Visual Timeline
+- Canonical tokens timed: **2,392 / 2,392**
+- DIRECT: **2,338 / 97.74%**
+- ALIGNED: **54 / 2.26%**
+- Word transcript: `11_WORD_TRANSCRIPT.csv.gz`
+- Alignment QC: `11_ALIGNMENT_QC.json`
+- Visual timeline: **120 beats**
+- Visual route assignment: **UNASSIGNED_STAGE12**
+- Shorts: **8/8 TIMED_LOCKED**
+- Short durations: **44.960–54.600 sec**
+- Stage 11 credits: **0**
+- Record: `11_TRANSCRIPT_VISUAL_TIMELINE.md`
+
+Stage 11 also reconciled the Stage 07 word-count metadata from **2,391 → 2,392 lexical tokens**. Canonical script bytes and audio were not changed.
+
 ## Next action
-**Stage 11 — Transcript + Visual Timeline**, only on explicit owner instruction.
+**Stage 12 — Visual Source / Generation Plan**, only on explicit owner instruction.
 
 ## Blockers
 None.

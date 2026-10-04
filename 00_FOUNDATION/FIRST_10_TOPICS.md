@@ -21,7 +21,7 @@ Important:
 |---|---|---|---|---|---|
 | 01 | T007 | eBay | **The eBay Harassment Scandal That Cost $56 Million** | CORPORATE_SCANDAL | LAUNCH_5_LOCKED |
 | 02 | T008 | Adobe / Figma | **Adobe’s Failed Figma Deal Cost $1 Billion** | DEAL_CONTRACT | LAUNCH_5_LOCKED / STAGE_00_PASS |
-| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_10_PASS |
+| 03 | T006 | UMG / DistroKid | **Why Universal Music Just Sued DistroKid** | COPYRIGHT_AI | LAUNCH_5_LOCKED / STAGE_11_PASS |
 | 04 | T004 | Valve / Steam | **Steam Tried to Stop Thousands of Claims. Then This Happened.** | BUSINESS_LAWSUIT | LAUNCH_5_LOCKED |
 | 05 | T005 | Waymo / Uber | **The Engineer Who Took 14,000 Files From Google** | TRADE_SECRETS | LAUNCH_5_LOCKED |
 
@@ -113,12 +113,13 @@ Stage 03 result: **PASS / SCRIPT V1 READY FOR FACT-LEGAL REVIEW**
 Stage 04 result: **PASS WITH REQUIRED EDITS**  
 Stage 05 result: **PASS / SCRIPT V2 — 5/5 FIXES APPLIED / 8 SHORTS PASS**  
 Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**  
-Stage 07 result: **PASS / CANONICAL R3 — 2,391 WORDS / ~17:09 / FIRST-MINUTE RETENTION POLISH / 98/100 / 8 SHORTS LOCKED**  
+Stage 07 result: **PASS / CANONICAL R3 — 2,392 PRODUCTION TOKENS / FIRST-MINUTE RETENTION POLISH / 98/100 / 8 SHORTS LOCKED**  
 Stage 08 result: **PASS — EXACT HARRISON INPUT / 4 JOBS / 15,475 CHARS / LIVE QUOTE 46.65 CREDITS / 0 SPENT**  
 Stage 09 result: **PASS — 4/4 EXACT QA / 4/4 HARRISON SOURCE JOBS COMPLETE / 46.65 CREDITS / 0 RETRIES / 16:26 RAW**  
-Stage 10 result: **PASS / AUDIO MASTER LOCKED — 16:28.291 / 44.1 KHZ MONO / 192 KBPS / ASR QC PASS**
+Stage 10 result: **PASS / AUDIO MASTER LOCKED — 16:28.291 / 44.1 KHZ MONO / 192 KBPS / ASR QC PASS**  
+Stage 11 result: **PASS / LOCKED — 2,392/2,392 TOKENS TIMED / 120 VISUAL BEATS / 8/8 SHORTS TIMED**
 
 Next action:
-Begin Stage 11 Transcript + Visual Timeline only on explicit owner instruction.
+Begin Stage 12 Visual Source / Generation Plan only on explicit owner instruction.
 
 Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.

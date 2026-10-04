@@ -7,8 +7,8 @@ priority: "3"
 status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
-current_stage: "10_AUDIO_MASTER"
-next_action: "Begin Stage 11 Transcript + Visual Timeline only on explicit owner instruction"
+current_stage: "11_TRANSCRIPT_VISUAL_TIMELINE"
+next_action: "Begin Stage 12 Visual Source / Generation Plan only on explicit owner instruction"
 blockers: []
 
 stages:
@@ -23,7 +23,7 @@ stages:
   stage_08_voice_script: "PASS"
   stage_09_voice_qa_lock: "PASS"
   stage_10_audio_master: "PASS"
-  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "PASS"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
@@ -40,7 +40,7 @@ locks:
   final_script: true
   voice_input: true
   audio_master: true
-  visual_timeline: false
+  visual_timeline: true
   visual_assets: false
   edit_master: false
   final_fact_legal_refresh: false
@@ -100,13 +100,14 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "STAGE_07_R3_8_SHORTS_CANONICAL_LOCK"
+  architecture_status: "STAGE_11_8_SHORTS_TIMED_LOCK"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
   stage_03_map: "03_SHORTS_MAP.csv"
   stage_07_lock: "07_SHORTS_LOCK.csv"
   stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
+  stage_11_timed_count: "8"
   audio_source: "FINAL_AUDIO_MASTER"
   vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
 
@@ -129,3 +130,20 @@ publish:
   scheduled_at: ""
   published_at: ""
   youtube_url: ""
+
+transcript:
+  canonical_tokens: "2392"
+  direct_matches: "2338"
+  direct_pct: "97.74"
+  aligned_tokens: "54"
+  aligned_pct: "2.26"
+  git_file: "11_WORD_TRANSCRIPT.csv.gz"
+  uncompressed_mirror: "https://d2ol7oe51mr4n9.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/43d6ffa8-9c7e-4bb5-8e7e-06f8a539686d.csv"
+  uncompressed_sha256: "7e9c9d3b7b31d5ec80f5b740ea3e643edfa694708ce93327e196e7fb2bfaa0b7"
+  qc_file: "11_ALIGNMENT_QC.json"
+
+visual_timeline:
+  file: "11_VISUAL_TIMELINE.csv"
+  beats: "120"
+  route_status: "UNASSIGNED_STAGE12"
+  sha256: "70e1680bc731f9465119c0fff1e12ed6dc261f98ed1853d81d8bd95be30b8a46"

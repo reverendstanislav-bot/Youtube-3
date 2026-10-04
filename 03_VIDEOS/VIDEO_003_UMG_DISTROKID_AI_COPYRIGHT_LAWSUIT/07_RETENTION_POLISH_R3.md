@@ -4,8 +4,10 @@ Status: **PASS — MAX-RETENTION CANONICAL**
 
 Date: **2026-10-04**
 Canonical script: `07_SCRIPT_FINAL.md`
-Spoken words: **2,391**
-Projected Harrison runtime: **~17:09 at 139.4 wpm**
+Spoken lexical tokens: **2,392**
+Projected Harrison runtime at Stage 07: **~17:09 at 139.4 wpm**
+
+Stage 11 metadata reconciliation: the unchanged R3 file contains **2,392 production lexical tokens**; the prior 2,391 figure was off by one.
 
 ## First-minute architecture
 
@@ -96,5 +98,5 @@ At measured Harrison pace:
 **R3 replaces the prior Stage 07 canonical narration.**
 
 No new facts were introduced.
-No paid generation was used.
+No paid generation was used at Stage 07.
 Stage 08 remains **NOT STARTED**.
