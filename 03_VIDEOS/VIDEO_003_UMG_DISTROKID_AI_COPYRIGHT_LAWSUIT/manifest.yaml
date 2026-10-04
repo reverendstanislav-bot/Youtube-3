@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-03"
 last_updated: "2026-10-04"
 current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Run hard visual QC on completed R6 Test30; no further paid generation authorized"
+next_action: "Review four Stage13I R6 rejects and repair those prompts before any further paid generation; no spend authorized"
 blockers: []
 
 stages:
@@ -316,3 +316,22 @@ stage_13h_r6_test30_generation:
   generation_ledger: "13H_R6_TEST30_GENERATION_LEDGER.csv"
   hard_qc_status: "PENDING"
   further_paid_generation_authorized: false
+
+stage_13i_r6_test30_visual_qc:
+  status: "QC_COMPLETE"
+  generated: "30"
+  qc_pass: "26"
+  qc_reject: "4"
+  reject_frames: "F016,F060,F101,F110"
+  previous_r5_test30_pass_rate_pct: "70.0"
+  current_r6_test30_pass_rate_pct: "86.7"
+  representative_new_r6_pass: "21_OF_21"
+  total_pass_locked: "66"
+  remaining_non_pass: "54"
+  remaining_current_rejects: "4"
+  remaining_never_generated: "50"
+  qc_ledger: "13I_R6_TEST30_VISUAL_QC.csv"
+  summary: "13I_R6_TEST30_VISUAL_QC_SUMMARY.md"
+  further_paid_generation_authorized: false
+  retries_authorized: "0"
+  one_pass_remaining_cost_credits: "27.0"

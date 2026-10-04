@@ -11,7 +11,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
-- Stage 13 Visual Asset QC: **ACTIVE — R6 Test30 generated 30/30; hard QC pending; 40 prior PASS remain locked**
+- Stage 13 Visual Asset QC: **ACTIVE — R6 Test30 hard QC complete: 26 PASS / 4 REJECT; 66 total PASS locked**
 - Current pipeline stage: **13_VISUAL_ASSET_QC**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
@@ -301,3 +301,19 @@ R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized b
 - generation ledger: `13H_R6_TEST30_GENERATION_LEDGER.csv`
 - visual verdicts: **PENDING HARD QC**
 - further paid generation authorized: **NO**
+
+
+## Stage 13I — R6 Test30 hard visual QC
+- hard visual QC: **26 PASS / 4 REJECT**
+- PASS: **F006, F019, F023, F031, F056, F032, F035, F037, F042, F045, F048, F054, F061, F065, F069, F074, F076, F078, F085, F088, F094, F098, F103, F111, F115, F120**
+- REJECT: **F016, F060, F101, F110**
+- R5 Test30 pass rate: **70.0%**
+- R6 Test30 pass rate: **86.7%**
+- all 21 representative never-generated R6 samples: **PASS**
+- remaining failures are concentrated in 4 historically difficult repair slots
+- total PASS locked: **66 / 120**
+- remaining non-PASS: **54 = 4 current rejects + 50 never-generated**
+- further paid generation authorized: **NO**
+- retries authorized: **0**
+- QC ledger: `13I_R6_TEST30_VISUAL_QC.csv`
+- summary: `13I_R6_TEST30_VISUAL_QC_SUMMARY.md`
