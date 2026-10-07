@@ -45,5 +45,6 @@ Valve's contract-control, acceptance and harm positions are stated. Defendants' 
 
 - 2026-10-05: Stage 00 district posture refreshed.
 - 2026-10-07: appeal `26-6269` added; no appellate merits ruling identified.
+- 2026-10-07 Stage 07 lock: public docket snapshot confirmed appeal opening but was current only through September 28 and warned that PACER may be newer. Exact November/December briefing dates were removed from canonical narration. Final text says only that the public appellate record reviewed for lock contains no merits ruling.
 
 Final Stage 16 refresh must be recorded separately in `16_FINAL_FACT_LEGAL_REFRESH.md`.

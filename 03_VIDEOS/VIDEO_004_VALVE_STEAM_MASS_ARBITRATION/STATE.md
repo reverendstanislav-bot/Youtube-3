@@ -13,8 +13,9 @@ Steam Tried to Stop Thousands of Claims. Then This Happened.
 - Stage 04 Fact / Legal Review: **PASS**
 - Stage 05 Script Revision: **PASS**
 - Stage 06 YouTube Performance Review: **PASS — 92/100**
-- Current pipeline stage: **06_PERFORMANCE_REVIEW**
-- Next stage: **Stage 07 Final Script Lock — NOT STARTED**
+- Stage 07 Final Script Lock: **PASS / CANONICAL**
+- Current pipeline stage: **07_SCRIPT_LOCK**
+- Next stage: **Stage 08 Voice Script — NOT STARTED**
 - Current-status refresh: **2026-10-07**
 - Paid generation: **NOT AUTHORIZED / NOT NEEDED**
 
@@ -25,16 +26,16 @@ Valve's individual-arbitration and class-waiver design met mass filings; Valve t
 Do not combine the injunction action, the consolidated antitrust class action, individual arbitration-award cases and Valve's litigation against claimant law firms. A preliminary-injunction denial is not a final antitrust merits ruling.
 
 ## Next action
-Run Stage 07 Final Script Lock only on explicit owner instruction. Apply only the micro-edits listed in `06_PERFORMANCE_REVIEW.md`, refresh or remove exact appellate briefing dates, update claim refs and create `07_SHORTS_LOCK.csv`.
+Prepare Stage 08 Voice Script from the exact text of `07_SCRIPT_FINAL.md` only on explicit owner instruction. No factual rewrite is allowed.
 
 ## Canonical controls
 - Manifest: `manifest.yaml`
 - Sources: `SOURCE_INDEX.csv` — 9
 - Material claims: `CLAIMS_LEDGER.csv` — 23
 - Case events: `CASE_EVENT_LEDGER.csv` — 13
-- Current narration: `05_SCRIPT_V2.md` — Stage 06 reviewed, not yet final script lock
-- Shorts map: `03_SHORTS_MAP.csv` — 8 contiguous extracts
+- Canonical narration: `07_SCRIPT_FINAL.md` — 2,359 spoken words / projected 16:55
+- Shorts lock: `07_SHORTS_LOCK.csv` — 8 contiguous extracts
 - Performance review: `06_PERFORMANCE_REVIEW.md` — PASS 92/100
 
 ## Blockers
-None blocking Stage 07 execution. Stage 07 must refresh or remove exact appellate briefing dates and apply the required density trims before lock.
+None blocking Stage 08 preparation. Paid or quota-consuming voice generation remains separately locked and requires explicit owner approval at the appropriate later stage.

@@ -7,8 +7,9 @@ priority: "4"
 status: "IN_PREPARATION"
 created: "2026-10-05"
 last_updated: "2026-10-07"
-current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "Stage 07 Final Script Lock only on explicit owner instruction"
+last_case_status_refresh: "2026-10-07"
+current_stage: "07_SCRIPT_LOCK"
+next_action: "Stage 08 Voice Script only on explicit owner instruction"
 blockers: []
 
 stages:
@@ -19,7 +20,7 @@ stages:
   stage_04_fact_legal_review: "PASS"
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS"
-  stage_07_script_lock: "NOT_STARTED"
+  stage_07_script_lock: "PASS"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -37,7 +38,7 @@ locks:
   topic_qualified: true
   evidence_research: true
   case_story_map: true
-  final_script: false
+  final_script: true
   voice_input: false
   audio_master: false
   visual_timeline: false
@@ -55,7 +56,7 @@ evidence:
 
 shorts:
   required: true
-  architecture_status: "STAGE_06_PASS"
+  architecture_status: "LOCKED"
   target_count: "8"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -75,3 +76,8 @@ qa:
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
   prepublication: "NOT_RUN"
+
+script:
+  canonical: "07_SCRIPT_FINAL.md"
+  spoken_words: 2359
+  projected_runtime_sec_at_channel_reference: 1015

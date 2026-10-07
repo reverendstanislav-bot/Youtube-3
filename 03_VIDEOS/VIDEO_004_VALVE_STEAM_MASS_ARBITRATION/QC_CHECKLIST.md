@@ -20,8 +20,8 @@
 - [ ] active matter refreshed at Stage 16
 
 ## Script / edit
-- [ ] one canonical final script
-- [ ] narration matches claims ledger
+- [x] one canonical final script
+- [x] narration matches claims ledger
 - [ ] authentic vs recreated visuals are distinguishable
 - [ ] document excerpts preserve context
 - [ ] graphics/status labels are current
@@ -31,10 +31,10 @@
 - [x] 6–10 contiguous short-ready units identified at Stage 02
 - [x] `03_SHORTS_MAP.csv` exists and uses long-form wording only
 - [x] every proposed Short passed standalone fact/legal review
-- [ ] `07_SHORTS_LOCK.csv` locked with final script unless owner waived requirement
+- [x] `07_SHORTS_LOCK.csv` locked with final script unless owner waived requirement
 - [ ] `11_SHORTS_CUT_MAP.csv` uses exact final-master timestamps
 - [ ] Short-used Stage 12 beats carry `short_ids` and 9:16-safe strategy
-- [ ] canonical Shorts require no rewritten/reordered VO or distant-line stitching
+- [x] canonical Shorts require no rewritten/reordered VO or distant-line stitching
 - [ ] Stage 16 refresh reviewed each Short independently
 
 ## Packaging / release
