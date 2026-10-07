@@ -1,0 +1,77 @@
+schema_version: "1.0"
+video_id: "004"
+slug: "VALVE_STEAM_MASS_ARBITRATION"
+title: "Steam Tried to Stop Thousands of Claims. Then This Happened."
+pillar: "BUSINESS_LAWSUIT"
+priority: "4"
+status: "IN_PREPARATION"
+created: "2026-10-05"
+last_updated: "2026-10-07"
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Stage 06 YouTube Performance Review only on explicit owner instruction"
+blockers: []
+
+stages:
+  stage_00_topic_qualification: "PASS"
+  stage_01_evidence_research: "PASS"
+  stage_02_case_story_map: "PASS"
+  stage_03_script_v1: "PASS"
+  stage_04_fact_legal_review: "PASS"
+  stage_05_script_revision: "PASS"
+  stage_06_performance_review: "NOT_STARTED"
+  stage_07_script_lock: "NOT_STARTED"
+  stage_08_voice_script: "NOT_STARTED"
+  stage_09_voice_qa_lock: "NOT_STARTED"
+  stage_10_audio_master: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "NOT_STARTED"
+  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_14_graphics_documents_music_sfx: "NOT_STARTED"
+  stage_15_assembly_edit: "NOT_STARTED"
+  stage_16_final_fact_legal_refresh: "NOT_STARTED"
+  stage_17_packaging: "NOT_STARTED"
+  stage_18_upload_prepublication: "NOT_STARTED"
+  stage_19_post_publish_analytics: "NOT_STARTED"
+
+locks:
+  topic_qualified: true
+  evidence_research: true
+  case_story_map: true
+  final_script: false
+  voice_input: false
+  audio_master: false
+  visual_timeline: false
+  visual_assets: false
+  edit_master: false
+  packaging: false
+  release_ready: false
+
+evidence:
+  source_index: "SOURCE_INDEX.csv"
+  claims_ledger: "CLAIMS_LEDGER.csv"
+  case_event_ledger: "CASE_EVENT_LEDGER.csv"
+  last_case_status_refresh: "2026-10-07"
+  unresolved_material_claims: 0
+
+shorts:
+  required: true
+  architecture_status: "STAGE_05_PASS"
+  target_count: "8"
+  extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
+  stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
+  stage_03_map: "03_SHORTS_MAP.csv"
+  stage_07_lock: "07_SHORTS_LOCK.csv"
+  stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
+  audio_source: "FINAL_AUDIO_MASTER"
+  vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
+
+qa:
+  topic: "PASS"
+  research: "PASS"
+  fact_legal: "PASS"
+  performance: "NOT_RUN"
+  visual: "NOT_RUN"
+  edit: "NOT_RUN"
+  final_refresh: "NOT_RUN"
+  packaging: "NOT_RUN"
+  prepublication: "NOT_RUN"
