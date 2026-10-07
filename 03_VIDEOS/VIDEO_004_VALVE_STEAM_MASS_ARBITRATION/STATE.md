@@ -12,8 +12,9 @@ Steam Tried to Stop Thousands of Claims. Then This Happened.
 - Stage 03 Script V1: **PASS**
 - Stage 04 Fact / Legal Review: **PASS**
 - Stage 05 Script Revision: **PASS**
-- Current pipeline stage: **05_SCRIPT_REVISION**
-- Next stage: **Stage 06 YouTube Performance Review — NOT STARTED**
+- Stage 06 YouTube Performance Review: **PASS — 92/100**
+- Current pipeline stage: **06_PERFORMANCE_REVIEW**
+- Next stage: **Stage 07 Final Script Lock — NOT STARTED**
 - Current-status refresh: **2026-10-07**
 - Paid generation: **NOT AUTHORIZED / NOT NEEDED**
 
@@ -24,15 +25,16 @@ Valve's individual-arbitration and class-waiver design met mass filings; Valve t
 Do not combine the injunction action, the consolidated antitrust class action, individual arbitration-award cases and Valve's litigation against claimant law firms. A preliminary-injunction denial is not a final antitrust merits ruling.
 
 ## Next action
-Run Stage 06 YouTube Performance Review on `05_SCRIPT_V2.md` and all eight mapped Shorts only on explicit owner instruction.
+Run Stage 07 Final Script Lock only on explicit owner instruction. Apply only the micro-edits listed in `06_PERFORMANCE_REVIEW.md`, refresh or remove exact appellate briefing dates, update claim refs and create `07_SHORTS_LOCK.csv`.
 
 ## Canonical controls
 - Manifest: `manifest.yaml`
 - Sources: `SOURCE_INDEX.csv` — 9
 - Material claims: `CLAIMS_LEDGER.csv` — 23
 - Case events: `CASE_EVENT_LEDGER.csv` — 13
-- Current narration: `05_SCRIPT_V2.md` — Stage 05 artifact, not yet final script lock
+- Current narration: `05_SCRIPT_V2.md` — Stage 06 reviewed, not yet final script lock
 - Shorts map: `03_SHORTS_MAP.csv` — 8 contiguous extracts
+- Performance review: `06_PERFORMANCE_REVIEW.md` — PASS 92/100
 
 ## Blockers
-None for Stage 06. Before Stage 07, review the cited underlying filings and any available appellate briefs or remove schedule-dependent detail.
+None blocking Stage 07 execution. Stage 07 must refresh or remove exact appellate briefing dates and apply the required density trims before lock.
