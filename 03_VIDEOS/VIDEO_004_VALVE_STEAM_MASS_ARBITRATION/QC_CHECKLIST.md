@@ -43,4 +43,4 @@
 - [ ] no stronger accusation than evidence supports
 - [ ] copyright/provenance audit PASS
 - [ ] prepublication QC PASS
-- [ ] no unresolved BLOCKER/HIGH issue
+- [x] no unresolved BLOCKER/HIGH issue for completed Stage 07

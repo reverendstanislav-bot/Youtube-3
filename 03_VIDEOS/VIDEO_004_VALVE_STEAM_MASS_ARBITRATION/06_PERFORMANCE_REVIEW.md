@@ -1,6 +1,31 @@
 # VIDEO 004 — 06 YouTube Performance Review
 
-Status: **PASS — 92 / 100 WITH REQUIRED STAGE 07 MICRO-EDITS**
+Status: **PASS — V08 OWNER-APPROVED REBUILD / HISTORICAL V2 REVIEW RETAINED BELOW**
+
+Owner review on 2026-10-07 found the narration too flat, over-explanatory and without sufficient intrigue. The original Stage 06 score is retained below only as an audit record; it is not an active approval. Stage 07 has been reopened for a structural retention rewrite.
+
+## V08 owner-directed question/payoff rebuild
+
+The v06/v07 candidates remained rejected. V08 now uses:
+- 17 sections and 30 explicit viewer questions;
+- a question → answer → larger-question handoff in every major section;
+- one reveal, reversal or raised stake every 30–60 seconds;
+- a 2,089-word spoken body at approximately 14:59;
+- 8 contiguous Shorts at 23.2–28.8 seconds including a specific 3-second CTA;
+- no Short at or above 30.0 seconds.
+
+Owner accepted V08 on 2026-10-08 by instructing production to continue. The Stage 07 gate may close; the historical 92/100 V2 score remains superseded.
+
+## Owner-directed retention rebuild basis
+
+The replacement candidate does not reuse the invalid 92/100 conclusion.
+
+Applied evidence:
+- VIDEO 004 direct competitors lead with Valve, a large number and immediate conflict; their unsupported global money framing is excluded.
+- The populated channel-level reference file is absent: `01_CHANNEL/REFERENCE_CHANNELS.csv` contains only a header.
+- VIDEO 003 R3 is the verified internal retention reference: abnormal-number opener, unexpected role reveal, nine first-minute beats and a curiosity handoff after each section.
+- VIDEO 004 adaptation: one contract → 997 demands → 4,991 claimants → Valve deletes arbitration → AAA refuses closure → claimants become defendants → judge denies relief → same judge permits immediate appeal.
+- Shorts are conversion cuts, not miniature explainers: 23.2–28.8 seconds including a specific 3-second CTA card.
 
 Review date: **2026-10-07**
 Reviewed artifact: `05_SCRIPT_V2.md`

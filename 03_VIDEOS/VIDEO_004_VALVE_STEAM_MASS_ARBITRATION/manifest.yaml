@@ -6,7 +6,7 @@ pillar: "BUSINESS_LAWSUIT"
 priority: "4"
 status: "IN_PREPARATION"
 created: "2026-10-05"
-last_updated: "2026-10-07"
+last_updated: "2026-10-08"
 last_case_status_refresh: "2026-10-07"
 current_stage: "07_SCRIPT_LOCK"
 next_action: "Stage 08 Voice Script only on explicit owner instruction"
@@ -20,7 +20,7 @@ stages:
   stage_04_fact_legal_review: "PASS"
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS"
-  stage_07_script_lock: "PASS"
+  stage_07_script_lock: "PASS_OWNER_APPROVED_V08"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -56,7 +56,7 @@ evidence:
 
 shorts:
   required: true
-  architecture_status: "LOCKED"
+  architecture_status: "LOCKED_MAX30_V08"
   target_count: "8"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -70,7 +70,7 @@ qa:
   topic: "PASS"
   research: "PASS"
   fact_legal: "PASS"
-  performance: "PASS_92"
+  performance: "PASS_OWNER_APPROVED_V08"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
@@ -79,5 +79,5 @@ qa:
 
 script:
   canonical: "07_SCRIPT_FINAL.md"
-  spoken_words: 2359
-  projected_runtime_sec_at_channel_reference: 1015
+  spoken_words: 2089
+  projected_runtime_sec_at_channel_reference: 899
