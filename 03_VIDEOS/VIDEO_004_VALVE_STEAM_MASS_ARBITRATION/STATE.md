@@ -14,10 +14,11 @@ Steam Tried to Stop Thousands of Claims. Then This Happened.
 - Stage 05 Script Revision: **PASS**
 - Stage 06 YouTube Performance Review: **HISTORICAL V2 SCORE SUPERSEDED / V08 OWNER-APPROVED**
 - Stage 07 Final Script Lock: **PASS / CANONICAL — OWNER-APPROVED V08**
-- Current pipeline stage: **07_SCRIPT_LOCK**
-- Next stage: **Stage 08 Voice Script — NOT STARTED**
+- Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY / TTS NOT GENERATED**
+- Current pipeline stage: **08_VOICE_SCRIPT**
+- Next stage: **Stage 09 Voice QA / Lock — NOT STARTED**
 - Current-status refresh: **2026-10-08**
-- Paid generation: **NOT AUTHORIZED / NOT NEEDED**
+- Paid generation: **NOT AUTHORIZED / 0 JOBS / 0 CREDITS CONSUMED**
 
 ## Locked story mechanism
 Valve's individual-arbitration and class-waiver design met mass filings; Valve then removed arbitration from the Steam Subscriber Agreement and sought to redirect or halt pending proceedings.
@@ -26,7 +27,7 @@ Valve's individual-arbitration and class-waiver design met mass filings; Valve t
 Do not combine the injunction action, the consolidated antitrust class action, individual arbitration-award cases and Valve's litigation against claimant law firms. A preliminary-injunction denial is not a final antitrust merits ruling.
 
 ## Next action
-Prepare Stage 08 Voice Script from the exact canonical text of `07_SCRIPT_FINAL.md` only on explicit owner instruction.
+Run Stage 09 Voice QA / Lock against the exact inputs in `08_VOICE_SCRIPT.md` only on explicit owner instruction. Do not submit paid TTS without a separate exact-cost approval.
 
 ## Canonical controls
 - Manifest: `manifest.yaml`
@@ -36,6 +37,11 @@ Prepare Stage 08 Voice Script from the exact canonical text of `07_SCRIPT_FINAL.
 - Canonical narration: `07_SCRIPT_FINAL.md` — 2,089 spoken words / projected 14:59
 - Canonical Shorts lock: `07_SHORTS_LOCK.csv` — 8 contiguous viral conversion cuts at 23.2–28.8 seconds including CTA
 - Performance review: `06_PERFORMANCE_REVIEW.md` — V08 owner-approved rebuild; historical V2 score retained below
+- Voice input: `08_VOICE_SCRIPT.md` — 3 exact Harrison parts / 13,632 characters / 2,183 normalized words
+- Voice job plan: `08_VOICE_JOB_PLAN.csv` — live quote 41.10 credits / READY_NOT_SUBMITTED
+
+## Stage 08 exact input
+Only pronunciation and spoken-form normalization was applied. The 17 canonical sections are split into 3 section-safe jobs, all below 5,000 characters; SH01–SH08 remain intact. Live Higgsfield preflight: **41.10 credits total**. Stage 08 submitted **0 jobs** and consumed **0 credits**.
 
 ## Blockers
-None blocking Stage 08 preparation. Paid or quota-consuming voice generation remains separately locked and requires explicit owner approval.
+None blocking Stage 09 QA / Lock. Paid or quota-consuming voice generation remains separately locked and requires explicit owner approval.

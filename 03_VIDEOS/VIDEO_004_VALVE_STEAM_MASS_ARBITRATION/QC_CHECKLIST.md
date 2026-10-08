@@ -22,6 +22,9 @@
 ## Script / edit
 - [x] one canonical final script
 - [x] narration matches claims ledger
+- [x] Stage 08 exact input changes delivery form only
+- [x] 3/3 TTS jobs are section-safe, Shorts-safe and below 5,000 characters
+- [ ] Stage 09 exact-input comparison and voice lock complete
 - [ ] authentic vs recreated visuals are distinguishable
 - [ ] document excerpts preserve context
 - [ ] graphics/status labels are current
@@ -43,4 +46,4 @@
 - [ ] no stronger accusation than evidence supports
 - [ ] copyright/provenance audit PASS
 - [ ] prepublication QC PASS
-- [x] no unresolved BLOCKER/HIGH issue for completed Stage 07
+- [x] no unresolved BLOCKER/HIGH issue for completed Stage 08
