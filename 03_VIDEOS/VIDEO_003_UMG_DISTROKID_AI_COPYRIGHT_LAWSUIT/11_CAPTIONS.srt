@@ -109,8 +109,307 @@ distribution to services including
 00:01:16,480 --> 00:01:19,120
 Spotify, Apple Music and TikTok.
 
+25
+00:01:19,740 --> 00:01:22,380
+That promise is a huge part of why digital
+distribution
 
-…[5449 chars truncated — re-run with head/grep/tail for full output]…
+26
+00:01:22,940 --> 00:01:24,240
+changed independent music.
+
+27
+00:01:24,840 --> 00:01:29,260
+Services like DistroKid let independent
+artists deliver releases to major
+
+28
+00:01:29,260 --> 00:01:30,160
+streaming platforms
+
+29
+00:01:30,720 --> 00:01:33,560
+without relying on traditional
+distribution infrastructure.
+
+30
+00:01:34,220 --> 00:01:36,080
+The process is designed to remove
+friction.
+
+31
+00:01:36,800 --> 00:01:39,940
+And that is exactly why the role of the
+distributor matters in this
+
+32
+00:01:39,940 --> 00:01:40,180
+lawsuit.
+
+33
+00:01:41,120 --> 00:01:44,200
+If a business is built to move enormous
+volumes of music quickly,
+
+34
+00:01:44,880 --> 00:01:47,880
+what happens when a rights conflict
+appears inside that flow?
+
+35
+00:01:48,520 --> 00:01:51,600
+A bad upload does not automatically make
+the distributor liable.
+
+36
+00:01:52,200 --> 00:01:54,060
+But it puts three roles into focus:
+
+37
+00:01:54,780 --> 00:01:56,460
+the uploader, the streaming platform,
+
+38
+00:01:57,100 --> 00:02:00,360
+and the distributor handling the file and
+its metadata in between.
+
+39
+00:02:01,160 --> 00:02:04,840
+That middle position is commercially
+useful because it removes friction,
+
+40
+00:02:05,580 --> 00:02:09,700
+and it becomes legally important only when
+the specific conduct alleged in the
+
+41
+00:02:09,700 --> 00:02:10,600
+case is examined.
+
+42
+00:02:11,300 --> 00:02:14,580
+UMG's case is trying to make that middle
+role the center of the
+
+43
+00:02:14,580 --> 00:02:14,920
+dispute.
+
+44
+00:02:15,540 --> 00:02:18,640
+And then the complaint makes a distinction
+that changes the story again.
+
+45
+00:02:19,200 --> 00:02:23,160
+Then Universal's complaint says something
+that flips the obvious AI narrative.
+
+46
+00:02:23,900 --> 00:02:27,060
+UMG says the case is not about
+AI-generated music
+
+47
+00:02:27,460 --> 00:02:31,460
+when that music is clearly disclosed as
+AI-generated.
+
+48
+00:02:31,460 --> 00:02:35,480
+That matters because the fastest version
+of this story is also the most
+
+49
+00:02:35,480 --> 00:02:36,360
+misleading one: “
+
+50
+00:02:36,860 --> 00:02:40,400
+Universal sued DistroKid because AI music
+is illegal.”
+
+51
+00:02:41,160 --> 00:02:42,600
+That is not what the complaint says.
+
+52
+00:02:43,240 --> 00:02:47,360
+The complaint instead advances allegations
+of copyright infringement and
+
+53
+00:02:47,360 --> 00:02:48,620
+deceptive trade practices.
+
+54
+00:02:48,620 --> 00:02:53,320
+AI-generated or mass-generated content is
+part of the factual
+
+55
+00:02:53,320 --> 00:02:54,860
+story UMG tells,
+
+56
+00:02:55,620 --> 00:02:59,220
+but the legal theory is not a blanket
+demand to outlaw every song
+
+57
+00:02:59,220 --> 00:03:00,600
+created with AI tools.
+
+58
+00:03:01,400 --> 00:03:04,940
+The real fight is about alleged
+infringement, alleged deception,
+
+59
+00:03:05,840 --> 00:03:09,680
+and what UMG says DistroKid did as the
+distributor in the middle.
+
+60
+00:03:10,240 --> 00:03:13,420
+And none of those allegations has been
+established by a merits ruling.
+
+61
+00:03:14,100 --> 00:03:17,380
+DistroKid's own current policy makes the
+distinction clearer:
+
+62
+00:03:18,100 --> 00:03:21,460
+it allows AI-made music when the uploader
+owns the rights
+
+63
+00:03:21,800 --> 00:03:24,260
+and bars unauthorized impersonation,
+
+64
+00:03:24,260 --> 00:03:26,820
+mass-generated spam and infringement.
+
+65
+00:03:27,600 --> 00:03:31,340
+That policy does not prove every disputed
+upload complied with the rules.
+
+66
+00:03:32,100 --> 00:03:36,860
+It also shows that DistroKid itself does
+not treat all AI-made music as
+
+67
+00:03:36,860 --> 00:03:37,820
+automatically prohibited.
+
+68
+00:03:38,600 --> 00:03:42,460
+But it shows why the real question is not
+simply AI or no
+
+69
+00:03:42,460 --> 00:03:45,080
+AI. It is what moved through the system,
+
+70
+00:03:45,540 --> 00:03:48,000
+what signals appeared, and what happened
+next.
+
+71
+00:03:48,760 --> 00:03:50,160
+And to show the scale of its theory,
+
+72
+00:03:50,660 --> 00:03:52,320
+Universal points to two more numbers:
+
+73
+00:03:52,320 --> 00:03:55,920
+1,000 and nearly 2,000.
+
+74
+00:03:55,920 --> 00:03:58,015
+UMG's complaint points to 1,
+
+75
+00:03:58,015 --> 00:04:02,300
+000 examples in its exhibits and says its
+investigation
+
+76
+00:04:02,300 --> 00:04:04,310
+had identified nearly 2,
+
+77
+00:04:04,310 --> 00:04:08,300
+000 allegedly infringing
+DistroKid-distributed recordings
+
+78
+00:04:08,700 --> 00:04:09,700
+by the time it filed.
+
+79
+00:04:10,660 --> 00:04:11,660
+Those are big numbers.
+
+80
+00:04:12,500 --> 00:04:17,200
+They are also plaintiffs' assertions, not
+1,000 or 2,000 court findings.
+
+81
+00:04:17,980 --> 00:04:19,280
+That distinction is essential
+
+82
+00:04:19,840 --> 00:04:23,300
+because a complaint is one side's case at
+the beginning of litigation.
+
+83
+00:04:24,440 --> 00:04:28,480
+It tells us what UMG says happened and
+what it intends to prove.
+
+84
+00:04:29,120 --> 00:04:32,420
+It does not tell us what a judge or jury
+will eventually accept.
+
+85
+00:04:33,180 --> 00:04:35,760
+So the numbers show the scale of
+Universal's theory —
+
+86
+00:04:35,760 --> 00:04:37,520
+not the outcome of the case.
+
+87
+00:04:38,580 --> 00:04:41,660
+The complaint alleges several different
+kinds of disputed material.
+
+88
+00:04:42,600 --> 00:04:46,060
+UMG describes speed-altered or remixed
+copies,
+
+89
+00:04:46,600 --> 00:04:49,080
+reused artwork, substituted vocals,
+
+90
+00:04:49,820 --> 00:04:54,240
 unlicensed samples and compilations that
 allegedly incorporated protected
 
