@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-05"
 last_updated: "2026-10-09"
 last_case_status_refresh: "2026-10-07"
-current_stage: "09_VOICE_QA_LOCK"
-next_action: "Stage09 input QA/lock complete; await explicit owner Stage10 spend approval for3Harrison/ElevenLabs parts quoted42.00credits; no audio submitted"
+current_stage: "07_SCRIPT_LOCK"
+next_action: "V11 script and8Shorts text locked90.4; stop at owner quality handoff; Stage08 resynchronization only on explicit instruction; no generation"
 blockers: []
 
 stages:
@@ -17,12 +17,12 @@ stages:
   stage_01_evidence_research: "PASS"
   stage_02_case_story_map: "PASS"
   stage_03_script_v1: "PASS"
-  stage_04_fact_legal_review: "PASS_V09_BOUNDED_TEXT_RECHECK"
+  stage_04_fact_legal_review: "PASS_V11_BOUNDED_TEXT_RECHECK"
   stage_05_script_revision: "PASS"
-  stage_06_performance_review: "PASS_CURRENT_V09_82.2"
-  stage_07_script_lock: "LOCKED_V09_INDEPENDENT_TEXT_RECHECK"
-  stage_08_voice_script: "SYNCED_V09_TEXT_NOT_GENERATED"
-  stage_09_voice_qa_lock: "PASS_V09_INPUT_SETTINGS_LOCK_AUDIO_NOT_GENERATED"
+  stage_06_performance_review: "PASS_V11_90.4_OWNER_MIN90"
+  stage_07_script_lock: "LOCKED_V11_TEXT"
+  stage_08_voice_script: "V09_HISTORY_REVALIDATION_REQUIRED"
+  stage_09_voice_qa_lock: "V09_HISTORY_INVALIDATED_BY_OWNER_REOPEN"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -39,7 +39,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: true
+  voice_input: false
   audio_master: false
   visual_timeline: false
   visual_assets: false
@@ -54,7 +54,7 @@ evidence:
   last_case_status_refresh: "2026-10-07"
   unresolved_material_claims: 0
   official_release_freshness: "NOT_RUN"
-  current_script_wording_recheck: "PASS_V09_BOUNDED_RECORD_NOT_OFFICIAL_REFRESH"
+  current_script_wording_recheck: "PASS_V11_BOUNDED_RECORD_NOT_OFFICIAL_REFRESH"
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -63,24 +63,28 @@ voice:
   variant: "elevenlabs"
   stage_08_input: "08_VOICE_SCRIPT.md"
   stage_08_job_plan: "08_VOICE_JOB_PLAN.csv"
-  stage_08_jobs_planned: "3"
-  stage_08_characters: "13932"
-  stage_08_normalized_words: "2140"
-  stage_08_live_quoted_cost_credits: "42.00"
-  stage_08_cost_preflight: "V09_FRESH_EXACT_INPUT_QUOTE_OBTAINED_AT_STAGE09"
+  stage_08_jobs_planned: "0_CURRENT_V11_NOT_PREPARED"
+  stage_08_characters: "NOT_PREPARED_V11"
+  stage_08_normalized_words: "NOT_PREPARED_V11"
+  stage_08_live_quoted_cost_credits: "NOT_QUOTED_V11"
+  historical_v09_quote_credits: "42.00"
+  historical_v09_jobs: 3
+  historical_v09_characters: 13932
+  historical_v09_normalized_words: 2140
+  stage_08_cost_preflight: "V09_HISTORY_ONLY_REQUOTE_AFTER_REVISION"
   stage_08_paid_generation_authorized: false
   stage_09_review: "09_VOICE_REVIEW.md"
-  episode_input_settings_locked: true
+  episode_input_settings_locked: false
   global_engine_lock_changed: false
-  cost_quote_checked_at_utc: "2026-10-09T14:22:46.059Z"
-  stage_09_part_A_sha256: "e26b0cf977411f932b5ebf01b11f5385991bca2b0eb9e67743e3447b007be10a"
-  stage_09_part_B_sha256: "116a642bdd448a9062b299790b4582f1b96c5ae56efe46fc17387d59dedfe590"
-  stage_09_part_C_sha256: "03b334387e8d92c2415eb022ee8b733d9f74b4a7a2e553c94ae39ba888139a17"
+  historical_v09_quote_checked_at_utc: "2026-10-09T14:22:46.059Z"
+  historical_v09_part_A_sha256: "e26b0cf977411f932b5ebf01b11f5385991bca2b0eb9e67743e3447b007be10a"
+  historical_v09_part_B_sha256: "116a642bdd448a9062b299790b4582f1b96c5ae56efe46fc17387d59dedfe590"
+  historical_v09_part_C_sha256: "03b334387e8d92c2415eb022ee8b733d9f74b4a7a2e553c94ae39ba888139a17"
   generated_jobs: 0
 
 shorts:
   required: true
-  architecture_status: "LOCKED_V09_TEXT_PASS_AUDIO_NOT_MEASURED"
+  architecture_status: "LOCKED_V11_TEXT_PASS_MIN90_AUDIO_NOT_MEASURED"
   target_count: "8"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -93,9 +97,9 @@ shorts:
 qa:
   topic: "PASS"
   research: "PASS"
-  fact_legal: "PASS_V09_BOUNDED_TEXT_RECHECK"
-  performance: "PASS_CURRENT_V09_82.2"
-  voice_input: "PASS_V09_TEXT_SETTINGS_ONLY"
+  fact_legal: "PASS_V11_BOUNDED_TEXT_RECHECK"
+  performance: "PASS_V11_90.4_OWNER_MIN90"
+  voice_input: "INVALIDATED_BY_OWNER_REOPEN"
   generated_audio: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
@@ -105,18 +109,22 @@ qa:
 
 script:
   canonical: "07_SCRIPT_FINAL.md"
-  spoken_words: 2080
-  normalized_words: 2140
+  spoken_words: 1950
+  normalized_words: 2014
   planning_reference_wpm: 139.4
-  historical_raw_word_runtime_estimate_sec: 899 # Superseded V08 history, not V09 timing
-  projected_runtime_sec_at_channel_reference: 921
+  historical_raw_word_runtime_estimate_sec: 899 # Superseded V08 history, not V11 timing
+  projected_runtime_sec_at_channel_reference: 867 # Before real pauses; not measured audio
   actual_audio_runtime_measured: false
 
 performance_correction:
-  status: "CORRECTED_V09_INDEPENDENT_TEXT_RECHECK_PASS"
-  review: "06_V09_DIRECTORIAL_RECHECK.md"
+  status: "TEXT_CORRECTION_COMPLETE_V11_MIN90_MET"
+  review: "06_V11_OWNER90_REVIEW.md"
   reviewed_on: "2026-10-09"
-  current_artifact_score: 82.2
+  current_artifact_score: 90.4
+  historical_v09_score: 82.2
+  intermediate_v10_score: 86.8
+  owner_minimum_score: 90
+  score82_accepts_this_episode: false
   shorts_reviewed: 8
   shorts_fail: 0
   shorts_warn: 0
@@ -126,7 +134,7 @@ performance_correction:
   plan: "06_CORRECTIVE_ACTION_PLAN.md"
   evidence: "06_CHANNEL_ANALYSIS_2026-10-08.md"
   protocol: "01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md"
-  canonical_script_owner_approval_preserved: true
+  canonical_script_owner_approval_preserved: true # Historical approvals only; independent V11 acceptance is current
   new_current_artifact_score_issued: true
   downstream_production_on_hold: true # Task boundary and spend lock, not unresolved script failure
-  stage_advanced: false
+  stage_advanced: false # Current task relocked Stage07; did not prepare/advance voice or production

@@ -1,6 +1,6 @@
-# VIDEO 004 — Corrective preparation
-Prepared: 2026-10-08. Updated: 2026-10-09. Status: V09 TEXT CORRECTIONS COMPLETE / INDEPENDENT RECHECK PASS82.2.
-Current authorized scope: repair marked places, synchronize8 Shorts and exact voice input, repeat review. No TTS/assets/stage advancement. Earlier plan/review entries below are historical.
+# VIDEO004 — Corrective preparation
+Prepared2026-10-08; updated2026-10-09. **V11 TEXT CORRECTION COMPLETE / INDEPENDENT90.4 PASS.**
+Current authorized scope ends at owner-minimum90 script/contiguousShorts handoff. Old V09 voice input, Stage09 lock and42-credit quote inactive. Earlier plans/acceptances below are historical and do not authorize downstream work.
 
 ## Evidence and limits
 Use VIDEO 001–003 Stage19 reports and snapshots; channel context is in 06_CHANNEL_ANALYSIS_2026-10-08.md. Reusable rules: 01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md.
@@ -48,3 +48,10 @@ Next bounded task: owner-authorized source-zone corrections, fact/ledger/provena
 - C04-08: feedback loop remains subsequent measured analytics, not proof of guaranteed viral performance.
 
 QV08_R01–R16 text/evidence corrections resolved in QA_LEDGER; detailed mapping and remaining nonblocking visual risks in06_V09_DIRECTORIAL_RECHECK.md. Stage07 relocked V09; Stage08 synchronized; Stage09 NOT_STARTED. Fresh V09 quote pending; no billable jobs submitted.
+
+
+## Owner minimum90 acceptance — V11 current
+
+C04-01 now requires>=90 for VIDEO004, not82. V09 82.2 rejected for this owner gate; V10 86.8 HOLD. V11 90.4 fresh independent review and full precision PASS, no score inflation or global threshold change. C04-02/03: personal stake first20s, causal decisions, distinct evidence, delayed court payoff and short consequence ending; repetitions removed. C04-04:8/8 isolated contiguous text cuts PASS; timing remains modeled, actual exports<=30 not completed. C04-05/06/07/08 finished packaging/media/analytics remain later unperformed obligations. See06_V11_OWNER90_REVIEW.md.
+
+Only Stage07 relocked. No current voice synchronization, fresh quote, generation or downstream stage permission. Stop at this bounded quality task.

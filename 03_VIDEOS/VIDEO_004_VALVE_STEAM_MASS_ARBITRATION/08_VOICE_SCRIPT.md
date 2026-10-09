@@ -1,7 +1,7 @@
 # VIDEO 004 — 08 Voice Script / V09 Harrison Input
 
-Status: **SYNCED V09 INPUT — INDEPENDENT TEXT RECHECK PASS / TTS NOT GENERATED**
-Canonical source: `07_SCRIPT_FINAL.md`, correctionV09. Owner-approved V08 retained in Git history.
+Status: **HISTORICAL V09 INPUT — INACTIVE AFTER OWNER MIN90 REOPEN / TTS NOT GENERATED**
+Source: historical V09 at Git8958eef, not the current V11 script. Text below is preserved for audit only; do not submit. Current narration must be resynchronized/reviewed on a new instruction.
 Narrator: **Harrison — CHANNEL LOCK**
 Provider: Higgsfield; model: `text2speech_v2`; variant: `elevenlabs`.
 Voice type: `preset`; voice ID: `573e5163-59b3-4926-aab1-951ef2985f81`.

@@ -1,17 +1,18 @@
-# VIDEO 004 — Fact Check / V09 bounded recheck
+# VIDEO 004 — Fact Check / V11 bounded recheck
 
 Status: **PASS — CURRENT TEXT AGAINST REVIEWED RECORD; OFFICIAL RELEASE REFRESH NOT_RUN**
 Updated2026-10-09. This is not a new live appellate-status certification.
 
 ## Verified correction scope
 
-Independent precision critic rechecked V09 and repaired ledgers against the historical primary district-court record. Dkt169 and192 are the underlying orders, not competitor reporting. S003 is the linked2020 SSA version (footer2020-08-28), not an authenticated2023 capture. Historical covered arbitration is supported by the court record/exhibit references; do not label this2020 URL as a2023 archive.
+Independent precision critic rechecked full V11 and all8 isolated extracts and repaired ledgers against the historical primary district-court record. Dkt169 and192 are the underlying orders, not competitor reporting. S003 is the linked2020 SSA version (footer2020-08-28), not an authenticated2023 capture. Historical covered arbitration is supported by the court record/exhibit references; do not label this2020 URL as a2023 archive.
 
 - 997 demands: initial coordinated group, not victories.
 - 4991: claimant scale recorded in May2026 Dkt169; not proven wins, exactSeptember2024 count or currently active cohort.
 - 624 initial respondents /572 operative defendants: distinct dated procedural counts.
 - Roughly400: Valve representation summarized in the court record; exact number disputed.
-- 454/572 accepted and118 declined: Valve-attributed acceptance evidence, not final judicial finding.
+- Valve said454 of572 affirmatively accepted;118 logged in without clicking acceptance. Lack of an affirmative click is not an explicit rejection; these are attributed acceptance positions, not final findings.
+- Users said refusing the update threatened purchased-game access; Valve said stopping account use retained licenses. Both are attributed contract positions (C012), not authenticated confiscation.
 - More than$3000 library value: defendants' disputed average claim.
 - $20M: unauthenticated total; text explicitly rejects verification of one such bill. No fabricated invoice or multiplication into a proven debt.
 - May27→July30,2026:64 calendar days (C024), not34.
@@ -30,11 +31,11 @@ Maintain opposing contract/acceptance positions. Consumer arbitration, publisher
 
 Historical details attributed to Valve/users as summarized in the primary order are checked as attributed positions; this does not claim independent authentication of every underlying Dkt78/79/92/106 exhibit. If stronger wording or authentic exhibit visuals are proposed later, inspect those exact underlying documents first.
 
-The public appellate snapshot reviewed for the prior lock was bounded through2026-09-28 and warned PACER may be newer. V09 uses record-bounded absence of a merits ruling, not a claim that today's official docket has been checked. Exact future briefing dates remain omitted. Last recorded case-status check2026-10-07; source/provenance reread2026-10-09 does not reset that date.
+The public appellate snapshot reviewed for the prior lock was bounded through2026-09-28 and warned PACER may be newer. V11 uses record-bounded absence of a merits ruling, not a claim that today's official docket has been checked. Exact future briefing dates remain omitted. Last recorded case-status check2026-10-07; source/provenance reread2026-10-09 does not reset that date.
 
 ## Independent result
 
-Traceability4/5; attribution/status5; chronology5; context5; bounded-record status4; numbers5; fairness4; primary sufficiency4. No HIGH/BLOCKER textual issue; all8 standalone cuts legally PASS. See `06_V09_DIRECTORIAL_RECHECK.md` for hashes and resolution locations.
+Fresh independent V11 legal/precision PASS; no HIGH/BLOCKER textual issue, all8 isolated extracts PASS. Prior V10 motive inference repaired to demonstrated actions; C012 explicitly traces both access/license positions; C015 traces procedurally improper initial petition and later complaint; C021 exclusion marker corrected. See06_V11_OWNER90_REVIEW.md for exact artifacts and boundaries. This is not fresh official appellate research.
 
 ## Later release obligations — NOT COMPLETED
 

@@ -1,7 +1,9 @@
 # VIDEO 004 — Stage 09 Voice QA + Input Lock
 
 Date: 2026-10-09
-Result: **PASS_INPUT_LOCK — AUDIO_NOT_GENERATED**
+Result: **HISTORICAL V09 PASS_INPUT_LOCK — NOW INACTIVE / AUDIO_NOT_GENERATED**
+
+Owner reopened the episode for minimum90 on2026-10-09. Current V11 wording invalidates this V09 payload lock and42-credit price for downstream use. The original QA/quote record below is history only; no generation was submitted.
 Scope: exact V09 generation input and episode settings only. No script rewrite, voice test, narration generation, media QC or Stage10 advancement.
 
 ## Independent review

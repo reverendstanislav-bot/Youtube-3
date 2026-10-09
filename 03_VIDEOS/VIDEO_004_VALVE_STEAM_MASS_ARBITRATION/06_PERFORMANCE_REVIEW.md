@@ -1,10 +1,10 @@
-# VIDEO 004 — 06 YouTube Performance Review
+# VIDEO004 — 06 YouTube Performance Review
 
-Status: **PASS_CURRENT_V09 — 82.2/100 / TEXT REVIEW ONLY**
+Status: **PASS_CURRENT_V11 — 90.4/100; OWNER MINIMUM90 MET / TEXT ONLY**
 
-Active review: `06_V09_DIRECTORIAL_RECHECK.md`, 2026-10-09. Corrected V09 passed independent retention and bounded legal/text-precision review; all8 contiguous Shorts passed standalone text checks. Actual audio/edit/runtime and virality are not measured.
+Active review:06_V11_OWNER90_REVIEW.md,2026-10-09. Unchanged12metric weights and hard gates; independent retention90.4 and bounded full legal/precision PASS;8/8 isolated contiguous Shorts text PASS. No measured retention, audio/edit/runtime/virality or release PASS.
 
-Historic V08 review: `06_V08_DIRECTORIAL_REVIEW.md`,75.8/FAIL; findings resolved through current V09 acceptance in QA_LEDGER. Owner approval and all older reviews below remain audit history only. Previous raw-token timing assurances are superseded, not silently erased. Paid generation remains unauthorized; Stage09 NOT_STARTED.
+V09 score82.2 is historical and does NOT satisfy this episode's owner minimum90. V10 scored86.8 HOLD before further structural cuts. V08 and older owner acceptances/reviews below remain history only, not active production approval. Stage07 V11 locked; Stage08/09 V09 voice lock and42credit quote INACTIVE. No generation or automatic downstream advance. Global default82 unchanged.
 
 ## Archived rationale and V2 review — NOT ACTIVE APPROVAL
 
