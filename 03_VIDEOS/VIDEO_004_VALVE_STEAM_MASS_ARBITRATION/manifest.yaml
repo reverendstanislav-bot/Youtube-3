@@ -6,23 +6,24 @@ pillar: "BUSINESS_LAWSUIT"
 priority: "4"
 status: "IN_PREPARATION"
 created: "2026-10-05"
-last_updated: "2026-10-08"
+last_updated: "2026-10-09"
 last_case_status_refresh: "2026-10-07"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Corrective Stage06 recheck of owner-approved V08 and all8 Shorts before Stage09; see 06_CORRECTIVE_ACTION_PLAN.md"
+next_action: "Owner-authorized correction of V08 and all8 Shorts required; relock Stage07 and resynchronize Stage08 before fresh review or Stage09"
 blockers:
-  - "CORRECTIVE_PERFORMANCE_RECHECK_REQUIRED_BEFORE_DOWNSTREAM_PRODUCTION"
+  - "V08_DIRECTORIAL_AND_PRECISION_RECHECK_FAIL"
+  - "SHORTS_MAX30_AND_STANDALONE_REPAIR_REQUIRED"
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "PASS"
   stage_02_case_story_map: "PASS"
   stage_03_script_v1: "PASS"
-  stage_04_fact_legal_review: "PASS"
+  stage_04_fact_legal_review: "RECHECK_REQUIRED_V08_WORDING"
   stage_05_script_revision: "PASS"
-  stage_06_performance_review: "PASS"
-  stage_07_script_lock: "PASS_OWNER_APPROVED_V08"
-  stage_08_voice_script: "PASS"
+  stage_06_performance_review: "FAIL_CURRENT_V08"
+  stage_07_script_lock: "OWNER_APPROVED_V08_RECHECK_FAIL"
+  stage_08_voice_script: "BLOCKED_UPSTREAM_RECHECK_FAIL"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
@@ -54,6 +55,7 @@ evidence:
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-07"
   unresolved_material_claims: 0
+  current_script_wording_recheck: "FAIL_SEE_QV08_QA"
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -70,7 +72,7 @@ voice:
 
 shorts:
   required: true
-  architecture_status: "LOCKED_MAX30_V08"
+  architecture_status: "RECHECK_FAIL_CURRENT_V08"
   target_count: "8"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -83,8 +85,8 @@ shorts:
 qa:
   topic: "PASS"
   research: "PASS"
-  fact_legal: "PASS"
-  performance: "PASS_OWNER_APPROVED_V08"
+  fact_legal: "FAIL_CURRENT_V08_WORDING"
+  performance: "FAIL_CURRENT_V08_75.8"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
@@ -94,14 +96,25 @@ qa:
 script:
   canonical: "07_SCRIPT_FINAL.md"
   spoken_words: 2089
-  projected_runtime_sec_at_channel_reference: 899
+  normalized_words: 2183
+  planning_reference_wpm: 139.4
+  historical_raw_word_runtime_estimate_sec: 899
+  projected_runtime_sec_at_channel_reference: 940
+  actual_audio_runtime_measured: false
 
 performance_correction:
-  status: "PREPARED_REVIEW_PENDING"
+  status: "REVIEW_COMPLETE_FAIL_CORRECTIONS_REQUIRED"
+  review: "06_V08_DIRECTORIAL_REVIEW.md"
+  reviewed_on: "2026-10-09"
+  current_artifact_score: 75.8
+  shorts_reviewed: 8
+  shorts_fail: 6
+  shorts_warn: 2
+  measured_short_durations: false
   plan: "06_CORRECTIVE_ACTION_PLAN.md"
   evidence: "06_CHANNEL_ANALYSIS_2026-10-08.md"
   protocol: "01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md"
   canonical_script_owner_approval_preserved: true
-  new_current_artifact_score_issued: false
+  new_current_artifact_score_issued: true
   downstream_production_on_hold: true
   stage_advanced: false

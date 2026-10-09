@@ -1,5 +1,5 @@
 # VIDEO 004 — Corrective preparation
-Date: 2026-10-08. Status: PREPARED / CURRENT-ARTIFACT REVIEW PENDING.
+Prepared: 2026-10-08. Updated: 2026-10-09. Status: CURRENT-ARTIFACT REVIEW COMPLETE / FAIL / CORRECTIONS REQUIRED.
 Scope: record mistakes and prepare remedies; no script rewrite, TTS, assets or stage advancement.
 
 ## Evidence and limits
@@ -31,3 +31,9 @@ No live legal-status refresh was performed for this documentation task. Release 
 
 ## Independent documentation review
 2026-10-08: reviewer `/root/review_correction` returned PASS after verifying saved Stage19 evidence, traceable links, blank unknown gross subscriber gains and projected (not measured/viral) Shorts wording. All four documentation comments resolved. This approves the recording/plan only; the current V08 script performance recheck remains pending.
+
+
+## 2026-10-09 — C04-01 review executed, acceptance FAILED
+Current exact-version critique: `06_V08_DIRECTORIAL_REVIEW.md`. Score75.8/100; promise/accuracy hard failures; all8 Shorts reviewed (6FAIL/2WARN), actual durations NOT_MEASURED. The independent review task is complete but its acceptance criteria are not met; do not close C04-01 as PASS.
+C04-02/03/04 findings are now exact QV08_R01–R16 items. C04-05 has only a recognizable packaging direction, not finished assets. C04-06/07 remain later visual/edit reviews; no visual/edit PASS.
+Next bounded task: owner-authorized source-zone corrections, fact/ledger/provenance repairs, Stage07 relock and Stage08 synchronization plus fresh independent recheck. Do not generate or advance automatically.

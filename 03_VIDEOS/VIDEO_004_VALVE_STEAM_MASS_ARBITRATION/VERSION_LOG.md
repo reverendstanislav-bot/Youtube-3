@@ -21,3 +21,8 @@
 
 ## 2026-10-08 — Corrective preparation after launch analytics
 Owner requested errors recorded and preparation for recovery. Added evidence-qualified channel context, prioritized corrective plan and reusable performance protocol. Kept V08 owner approval and Stage08 artifacts; added pending exact-version recheck before Stage09. No new score, script rewrite, stage advancement, jobs or spend.
+
+
+## 2026-10-09 — Current V08 / all8 Shorts directorial review
+Two independent critics plus lead reviewed exact SHA-256-identified artifacts; fresh75.8/100 with hard failures. Added `06_V08_DIRECTORIAL_REVIEW.md` and QV08 issue register. Verified195 canonical/normalized paragraph pairs and2089/2183 token counts. Found64-versus34-day error, unsupported judicial self-doubt, overstated motive/current-count framing, dependent/mismatched Shorts and normalized-duration overruns.
+Canonical script, Shorts lock and exact voice text remain byte-identical; owner acceptance preserved as history. Manifest/STATE now block downstream production; job plan marked BLOCKED_SOURCE_REVIEW_FAIL. Review COMPLETE, repairs NOT_DONE, no Stage09 advancement,0 jobs/0 credits.

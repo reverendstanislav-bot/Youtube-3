@@ -1,6 +1,10 @@
 # VIDEO 004 — 06 YouTube Performance Review
 
-Status: **PASS — V08 OWNER-APPROVED REBUILD / HISTORICAL V2 REVIEW RETAINED BELOW**
+Status: **FAIL_CURRENT_V08 — 75.8/100 / VOICE BLOCKED**
+
+Active review: `06_V08_DIRECTORIAL_REVIEW.md`, 2026-10-09. Independent current-version review found hard failures. Historical owner approval and older reviews below remain audit history only; prior <=30s assurances are superseded by normalized timing calculations.
+
+## Archived rationale and V2 review — NOT ACTIVE APPROVAL
 
 Owner review on 2026-10-07 found the narration too flat, over-explanatory and without sufficient intrigue. The original Stage 06 score is retained below only as an audit record; it is not an active approval. Stage 07 has been reopened for a structural retention rewrite.
 
@@ -270,3 +274,7 @@ Next canonical stage:
 
 ## 2026-10-08 — Corrective review required before production
 The historical V2 score and V08 owner approval are retained as history. Current-artifact performance review remains **PENDING** under `06_CORRECTIVE_ACTION_PLAN.md`. The 30 explicit questions and estimated <=30s cuts are structural properties, not proof of retention or virality. No new score is issued by this documentation step. Review exact `07_SCRIPT_FINAL.md` and all8 locked extracts before Stage09; align Stage07/08 only if changes are needed.
+
+
+## 2026-10-09 — Current V08 review COMPLETE / FAIL
+Two independent critics and lead synthesis reviewed the exact V08 and8 normalized contiguous extracts:75.8/100; promise3.5/5 and accuracy3/5 fail hard metrics. Six Shorts FAIL, two WARN. See `06_V08_DIRECTORIAL_REVIEW.md` and open QV08 issues. Historical23.2–28.8s assurances are not valid: SH02 is33.00s at150wpm including3sCTA before pauses. No voice generated; no script rewrite performed; fixes remain required.
