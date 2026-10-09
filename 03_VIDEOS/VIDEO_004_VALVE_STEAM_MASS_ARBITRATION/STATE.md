@@ -1,22 +1,19 @@
 # VIDEO004 — STATE
 
 Status: IN_PREPARATION
-Current stage: **07_SCRIPT_LOCK — V11 TEXT LOCK; OWNER MINIMUM90 MET**
-Updated2026-10-09.
+Current stage: **08_VOICE_SCRIPT — V11 PASS_PREPARATION; STAGE09 LOCK PENDING**
+Updated2026-10-09; owner instruction: continue after V11 minimum90 script acceptance.
 
 ## Current truth
 
-- Independent retention review90.4/100 on unchanged12metric rubric; bounded legal/precision PASS; no HIGH/BLOCKER text issue. Active evidence:06_V11_OWNER90_REVIEW.md.
-- Canonical07_SCRIPT_FINAL.md V11:13sections,123paragraphs,1950raw/2014planning-normalized tokens. Approx14:27 narration at139.4wpm before real pauses/later20s end screen; actual runtime unknown. No padding to satisfy duration target.
-- Eight exact contiguous Shorts locked and synchronized across02architecture/03map/07lock.35–43 normalized tokens; modeled20.06–23.51s with3sCTA+2s pause allowance. Delivered<=30.00s NOT_MEASURED; text PASS is not viral-performance proof.
-- Stage07 final_script=true. Stage08 V09 text and Stage09 V09 payload/settings lock INACTIVE; voice_input=false. Old42credit quote is historical, not current V11 price. No new voice preparation or cost call in this task.
-- Stage10 NOT_STARTED;0generated jobs/0generation spend. Audio/edit/packaging/release NOT_RUN. No burned captions, shake or crop jumps; future smooth silent3sCTA with transition inside it.
-- Existing9sources/24claims/13events; C012 both attributed library positions and C015 procedural first-filing setback traced. Last case-status refresh2026-10-07; official Stage16 release refresh NOT_RUN, not reset by text recheck.
-
-## Reopened quality history
-
-V08:75.8 FAIL; V09:82.2 passed old default82 but not this owner's minimum90; V10:86.8 HOLD; V11:90.4 fresh PASS. Prior owner acceptance and Stage09 input PASS remain historical, not permission to submit stale voice prompts. Global Foundation threshold unchanged.
+- Canonical07V11 unchanged:13sections123paragraphs1950raw tokens; independent retention90.4/100 and bounded legal/precision PASS. Owner minimum90 met; active script review06_V11_OWNER90_REVIEW.md.07Shorts lock unchanged.
+- Stage08 synchronized exact V11:123normalized paragraphs,2014spoken tokens;16pronunciation-only paragraph changes;0omission/reorder/meaning mismatch. Harrison channel preset retained. A S01–S05 4567chars/711tokens; B S06–S09 4107/624; C S10–S13 4384/679; total13058chars/2014tokens.
+- Independent precision and delivery reviewers both PASS_PREPARATION; counts/payload hashes in08_VOICE_SCRIPT.md and jobplan. Not Stage09 exact-input/settings lock; voice_input=false; episode_input_settings_locked=false. Proposed text2speech_v2/elevenlabs is not a global engine lock or paid authorization.
+- Eight exact same-audio Shorts wholly contained:SH01–03 A,SH04–07 B,SH08 C.35–43tokens; projected20.06–23.51s including3sCTA+2s pause allowance. Actual speech/export<=30.00s NOT_MEASURED. No separate Shorts TTS.
+- Narration model~14:27 at139.4wpm before real pauses/later20s end screen, not measured runtime or padding. Future no burned captions/shake/crop jumps; smooth silentCTA.
+- V09 prompts/42credit quote superseded and recoverable from Gitfcd211c; current V11 price NOT_QUOTED. No cost call, voice test or generation. Stage09 NOT_RUN_V11; Stage10 NOT_STARTED;0generatedjobs/0generation spend.
+- Existing9sources/24claims/13events unchanged. Last case refresh2026-10-07, official Stage16 freshness NOT_RUN. Text normalization does not refresh case status. Audio/edit/packaging/release NOT_RUN.
 
 ## Task boundary
 
-Stop after script-quality/Shorts handoff. Next possible bounded task is Stage08 V11 voice synchronization and separate review, only after explicit owner instruction. No automatic Stage09/10, cost quote, paid generation or upload.
+Stage08 complete; STOP. Next bounded stage is09 Voice QA + Input/Settings Lock on explicit owner instruction; then exact quote and separate spend approval before any Stage10 submission. Do not submit historical V09 payloads or the full08Markdown file.

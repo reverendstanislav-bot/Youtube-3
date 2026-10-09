@@ -46,3 +46,15 @@ Owner rejected82.2 acceptance as insufficient and objected to approaching genera
 V10 independent score86.8 HOLD: repeated explanation/positions/end caveats and duplicate Shorts angles. Reworked to V11 documentary: attributed library stake first, action-based contracts, distinct evidence, procedural first-filing setback, emergency outcome delayed, bounded short ending.13sections123paras1950raw/2014planning tokens;8cuts35–43tokens/model20.06–23.51s including3CTA+2pause. No extra research or current voice prep.
 
 Fresh independent retention90.4 and legal/precision PASS; reviewed hashes and all12metrics in06_V11_OWNER90_REVIEW.md. C012 both positions/C015 first-filing trace and C021 exclusion marker repaired. Spoken text unchanged after review; metadata-only locks synchronized with maps/architecture/storymap/manifest/STATE/index/QA/fact check. Stage07 locked; voice_input=false; Stage10 NOT_STARTED. Audio/edit/durations/virality/release NOT_RUN; official freshness NOT_RUN. Stop before Stage08/new quotes/spend pending explicit instruction.
+
+
+## 2026-10-09 — Stage08 V11 voice synchronization only
+
+Owner instructed continue after V11 script90.4. Prepared08 from unchanged07canonical SHA50cf94f42018fecb112e083afd5ca2f4069914171b5fe5db9fbd86498f156a43.13sections123paragraphs;16pronunciation-only changes;1950raw→2014spoken tokens. Dates/counts/appealnumber normalized with no added/reordered narration. A S01–S05 4567chars711tokens; B S06–S09 4107/624; C S10–S13 4384/679; total13058/2014. Eight locked Short ranges unchanged and contained A[SH01–03],B[SH04–07],C[SH08].
+
+Precision and delivery critics both PASS_PREPARATION,0meaning mismatches/blockers. Reviewed08hashdc7fb1629271def591b0a4f996cd64f47b3ee1fc8f909725fa47227673eded22; later status/review metadata only, exact payloads unchanged. Replaced stale V09 jobplan with V11 rows and blank costs; prior inputs/42quote retained in Gitfcd211c/09historical record. Read-only catalog reconfirmed text2speech_v2 variant elevenlabs; conservative<5000planning cap not fresh servervalidation. Harrison identity unchanged; globalengineNOT_YET_LOCKED.
+
+Current08_VOICE_SCRIPT; Stage09NOT_RUN_V11; voice_input=false/settingslocked=false; no quote, generation, voice test, spend or downstreamadvance. Actual audio/runtime/Shorts/exportQC and Stage16officialrefresh NOT_RUN. NextStage09 only on explicit instruction.
+
+
+Stage08 finalverification: strict episodeaudit PASS/0warnings, repositorycontract PASS/4videos, scoped diff--check PASS. Final08fileSHA2566c9e5b81bc8420c9092e332d83bbb1a92e5bdf7cf9403d9dba7b6008dae9c9ab; exactpayloads match independent review after metadata update; canonical07/07Shorts unchanged. CSV widths, currentjobplan counts/blankprices and manifest08/voicefalse lockfalse verified.

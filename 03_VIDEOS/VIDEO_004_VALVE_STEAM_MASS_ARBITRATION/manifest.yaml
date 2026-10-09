@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-05"
 last_updated: "2026-10-09"
 last_case_status_refresh: "2026-10-07"
-current_stage: "07_SCRIPT_LOCK"
-next_action: "V11 script and8Shorts text locked90.4; stop at owner quality handoff; Stage08 resynchronization only on explicit instruction; no generation"
+current_stage: "08_VOICE_SCRIPT"
+next_action: "Stage08 V11 voice preparation complete; await explicit Stage09 QA/input-settings lock instruction; no cost quote or generation"
 blockers: []
 
 stages:
@@ -21,8 +21,8 @@ stages:
   stage_05_script_revision: "PASS"
   stage_06_performance_review: "PASS_V11_90.4_OWNER_MIN90"
   stage_07_script_lock: "LOCKED_V11_TEXT"
-  stage_08_voice_script: "V09_HISTORY_REVALIDATION_REQUIRED"
-  stage_09_voice_qa_lock: "V09_HISTORY_INVALIDATED_BY_OWNER_REOPEN"
+  stage_08_voice_script: "PASS_PREPARATION_V11_STAGE09_PENDING"
+  stage_09_voice_qa_lock: "NOT_RUN_V11_V09_HISTORY_INACTIVE"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -63,16 +63,20 @@ voice:
   variant: "elevenlabs"
   stage_08_input: "08_VOICE_SCRIPT.md"
   stage_08_job_plan: "08_VOICE_JOB_PLAN.csv"
-  stage_08_jobs_planned: "0_CURRENT_V11_NOT_PREPARED"
-  stage_08_characters: "NOT_PREPARED_V11"
-  stage_08_normalized_words: "NOT_PREPARED_V11"
+  stage_08_jobs_planned: "3"
+  stage_08_characters: "13058"
+  stage_08_normalized_words: "2014"
   stage_08_live_quoted_cost_credits: "NOT_QUOTED_V11"
   historical_v09_quote_credits: "42.00"
   historical_v09_jobs: 3
   historical_v09_characters: 13932
   historical_v09_normalized_words: 2140
-  stage_08_cost_preflight: "V09_HISTORY_ONLY_REQUOTE_AFTER_REVISION"
+  stage_08_cost_preflight: "NOT_RUN_V11_STAGE08_ONLY"
   stage_08_paid_generation_authorized: false
+  stage_08_preparation_review: "08_VOICE_SCRIPT.md#independent-preparation-review--not-spoken"
+  stage_08_prospective_part_A_sha256: "f81867d76acaa1e33182dee5c766d48cafdb732f3f8f6d0285e06d964122e9d6"
+  stage_08_prospective_part_B_sha256: "3c38e3759110016120227c7b0f0120f1f914bded957d423daffae453c759505a"
+  stage_08_prospective_part_C_sha256: "5253ebe982b6280e3ae6c850143dcda9b0a23f1f553f5c5819d2c2768dd7c8a3"
   stage_09_review: "09_VOICE_REVIEW.md"
   episode_input_settings_locked: false
   global_engine_lock_changed: false
@@ -99,7 +103,7 @@ qa:
   research: "PASS"
   fact_legal: "PASS_V11_BOUNDED_TEXT_RECHECK"
   performance: "PASS_V11_90.4_OWNER_MIN90"
-  voice_input: "INVALIDATED_BY_OWNER_REOPEN"
+  voice_input: "PASS_PREPARATION_V11_STAGE09_LOCK_PENDING"
   generated_audio: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
@@ -137,4 +141,4 @@ performance_correction:
   canonical_script_owner_approval_preserved: true # Historical approvals only; independent V11 acceptance is current
   new_current_artifact_score_issued: true
   downstream_production_on_hold: true # Task boundary and spend lock, not unresolved script failure
-  stage_advanced: false # Current task relocked Stage07; did not prepare/advance voice or production
+  stage_advanced: true # Owner authorized this bounded Stage08 resume only; no Stage09/10 or generation
