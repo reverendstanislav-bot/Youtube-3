@@ -1,50 +1,41 @@
-# VIDEO 004 — Fact Check
+# VIDEO 004 — Fact Check / V09 bounded recheck
 
-Status: **STAGE 04 PASS WITH LOCKED LATER REFRESHES**
+Status: **PASS — CURRENT TEXT AGAINST REVIEWED RECORD; OFFICIAL RELEASE REFRESH NOT_RUN**
+Updated2026-10-09. This is not a new live appellate-status certification.
 
-## Material unresolved items
+## Verified correction scope
 
-- Ninth Circuit appeal `26-6269` remains unresolved.
-- Initial briefing dates are time-sensitive and may change.
-- No authenticated record supports using a single `$20 million` Valve invoice, liability or payment as fact.
+Independent precision critic rechecked V09 and repaired ledgers against the historical primary district-court record. Dkt169 and192 are the underlying orders, not competitor reporting. S003 is the linked2020 SSA version (footer2020-08-28), not an authenticated2023 capture. Historical covered arbitration is supported by the court record/exhibit references; do not label this2020 URL as a2023 archive.
 
-## Primary-source gaps
+- 997 demands: initial coordinated group, not victories.
+- 4991: claimant scale recorded in May2026 Dkt169; not proven wins, exactSeptember2024 count or currently active cohort.
+- 624 initial respondents /572 operative defendants: distinct dated procedural counts.
+- Roughly400: Valve representation summarized in the court record; exact number disputed.
+- 454/572 accepted and118 declined: Valve-attributed acceptance evidence, not final judicial finding.
+- More than$3000 library value: defendants' disputed average claim.
+- $20M: unauthenticated total; text explicitly rejects verification of one such bill. No fabricated invoice or multiplication into a proven debt.
+- May27→July30,2026:64 calendar days (C024), not34.
 
-- Review the underlying filings cited as Dkt. 78, 79, 92 and 106 before Stage 07 final script lock if their details remain in the canonical narration.
-- Replace the public appeal-docket mirror with an official docket capture at Stage 16.
-- Obtain and review appellate briefs after filing before publication.
+## Chronology / attribution
 
-## Quote verification
+Valve attributed removal of arbitration to an arbitrator's decision in a four-claimant matter; do not convert aggregate scale into a proven corporate motive. September26 rewrite, September27 administrative request and October7 response are separate events. AAA's refusal to close files was not a legal merits determination.
 
-No verbatim quote is carried as a material hook in Script V1. Contract wording and court characterizations are paraphrased and linked through `CLAIMS_LEDGER.csv`.
+Dkt169 denied preliminary relief; it was not a global antitrust verdict. Dkt192 retained the court's prior analysis while allowing a contested controlling question to be presented for possible immediate appellate review. The district case was stayed pending whether the Ninth Circuit would hear the interlocutory appeal; certification/opening a docket does not guarantee acceptance, reversal or eventual answer. No invented judicial self-doubt.
 
-## Number verification
+## Fairness and case separation
 
-- `997`: first coordinated demand group in Dkt. 169; demands, not wins.
-- `4,991`: claimants at the cited stage in Dkt. 169; not final winners.
-- `624`: respondents in Valve's initial filing.
-- `572`: defendants in the operative complaint.
-- `roughly 400`: Valve's May 2026 representation; defendants disputed an exact count.
-- `454 / 118`: Valve evidence summarized by the district court; not a final acceptance ruling.
-- `more than $3,000`: defendants' disputed average-library claim.
-- `$20 million`: excluded as unauthenticated global framing.
+Maintain opposing contract/acceptance positions. Consumer arbitration, publisher antitrust litigation, award/vacatur proceedings and Bucher Law litigation are distinct tracks. Mixed outcomes are not a global winner count. No assertion that every Steam dispute or geographic exception was governed by this clause.
 
-## Legal-status checks
+## Source sufficiency and limits
 
-- Dkt. 169 is a preliminary-injunction ruling, not a final antitrust merits judgment.
-- Dkt. 192 certified an interlocutory appeal and stayed the district case; it did not reverse Dkt. 169.
-- Underlying antitrust assertions remain allegations.
-- Arbitral outcomes were mixed.
-- The injunction action, publisher class action, award matters and Bucher Law litigation remain separate.
+Historical details attributed to Valve/users as summarized in the primary order are checked as attributed positions; this does not claim independent authentication of every underlying Dkt78/79/92/106 exhibit. If stronger wording or authentic exhibit visuals are proposed later, inspect those exact underlying documents first.
 
-## Opposing-side / denial checks
+The public appellate snapshot reviewed for the prior lock was bounded through2026-09-28 and warned PACER may be newer. V09 uses record-bounded absence of a merits ruling, not a claim that today's official docket has been checked. Exact future briefing dates remain omitted. Last recorded case-status check2026-10-07; source/provenance reread2026-10-09 does not reset that date.
 
-Valve's contract-control, acceptance and harm positions are stated. Defendants' accrued-rights, meaningful-choice and retroactivity positions are also stated. Neither side is presented as having won the final dispute.
+## Independent result
 
-## Current-status refresh log
+Traceability4/5; attribution/status5; chronology5; context5; bounded-record status4; numbers5; fairness4; primary sufficiency4. No HIGH/BLOCKER textual issue; all8 standalone cuts legally PASS. See `06_V09_DIRECTORIAL_RECHECK.md` for hashes and resolution locations.
 
-- 2026-10-05: Stage 00 district posture refreshed.
-- 2026-10-07: appeal `26-6269` added; no appellate merits ruling identified.
-- 2026-10-07 Stage 07 lock: public docket snapshot confirmed appeal opening but was current only through September 28 and warned that PACER may be newer. Exact November/December briefing dates were removed from canonical narration. Final text says only that the public appellate record reviewed for lock contains no merits ruling.
+## Later release obligations — NOT COMPLETED
 
-Final Stage 16 refresh must be recorded separately in `16_FINAL_FACT_LEGAL_REFRESH.md`.
+Obtain official appellate docket and any filed briefs before Stage16 release refresh; record result in `16_FINAL_FACT_LEGAL_REFRESH.md`. Any changed ruling must propagate to script, Shorts, audio, packaging and ledgers. This text recheck does not approve finished media or publication.

@@ -1,25 +1,25 @@
 # VIDEO 004 — Stage 02 Case / Story Map
 
-Status: **PASS — LOCKED FOR SCRIPT V1**  
-Date: 2026-10-07
+Status: **PASS — V09 SOURCE / SHORTS ALIGNMENT UPDATED**
+Initial map2026-10-07; corrected2026-10-09. Canonical wording/ranges are V09 in07_SCRIPT_FINAL.md and07_SHORTS_LOCK.csv; old scene timings are not audio measurements.
 
 ## Viewer promise
 
-Show how a contract clause built to force disputes into one-by-one arbitration met thousands of individual filings, why Valve rewrote the rules, and why the central contract question is now before the Ninth Circuit.
+Show how covered individual arbitration met thousands of filings, how Valve changed the agreement and sued claimants, and why the unresolved contract question produced possible immediate appellate review. Separate documented actions and Valve-attributed reasons from inferred motives.
 
 ## Chronological truth
 
 1. Valve added mandatory individual arbitration and a class-action waiver to the Steam Subscriber Agreement in 2012.
 2. Consumer antitrust claims were directed to arbitration while publisher litigation proceeded separately in court.
-3. By the cited stage, 4,991 claimants were pursuing AAA arbitration.
+3. The May2026 district order recorded4,991 claimants pursuing AAA arbitration; this is a later recorded scale, not an exactSeptember2024/current count.
 4. In 2024, enforceability disputes developed inside some arbitrations.
 5. On September 26, 2024, Valve removed arbitration and the class waiver and added court-only language covering older claims.
-6. AAA declined Valve's administrative request to close pending arbitrations.
+6. Valve requested administrative closure onSeptember27,2024; AAA responded onOctober7, declining closure without deciding the contract merits.
 7. Valve filed in federal court to stop them.
 8. The procedural path produced an August 2025 complaint against 572 defendants and a request for preliminary relief.
 9. The district court denied preliminary relief on May 27, 2026.
 10. The court certified the contract question for interlocutory appeal and stayed the case on July 30, 2026.
-11. Ninth Circuit appeal `26-6269` opened September 25, 2026. The merits remain unresolved.
+11. The reviewed public mirror records appeal26-6269 opening September25,2026. The snapshot throughSeptember28 contains no merits ruling; official current/release status remains unchecked.
 
 ## Narrative order
 
@@ -66,7 +66,7 @@ The antitrust allegations are still unresolved. The immediate appellate fight is
 
 ## Money and incentives
 
-- Valve's incentive: stop proceedings it says are no longer authorized by the controlling contract and avoid multiplied defense/administration cost.
+- Valve's stated contract position: stop proceedings it says are no longer authorized. Potential multiplied defense/administration cost is structural analysis, not a proven motive for removing arbitration.
 - Claimants' incentive: preserve the forum and procedural rights under which their cases were filed.
 - AAA schedule: costs scale through initiation, per-case, appointment, final and arbitrator-compensation stages.
 - Prohibited shortcut: no unverified `$20 million` hook.
@@ -103,7 +103,7 @@ A class waiver can prevent one aggregated case while still permitting thousands 
 
 ## Ending state
 
-**Pending appeal.** Ninth Circuit No. `26-6269`; no final merits decision. Current briefing dates must be refreshed before publication.
+**Unresolved in the reviewed appellate snapshot.** Ninth Circuit No.26-6269; no merits decision in that bounded record. Do not guarantee acceptance or an eventual answer. Official docket and briefing status must be refreshed before publication.
 
 ## Retention design
 

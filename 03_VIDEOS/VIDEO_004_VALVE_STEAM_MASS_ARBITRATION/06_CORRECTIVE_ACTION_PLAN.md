@@ -1,6 +1,6 @@
 # VIDEO 004 — Corrective preparation
-Prepared: 2026-10-08. Updated: 2026-10-09. Status: CURRENT-ARTIFACT REVIEW COMPLETE / FAIL / CORRECTIONS REQUIRED.
-Scope: record mistakes and prepare remedies; no script rewrite, TTS, assets or stage advancement.
+Prepared: 2026-10-08. Updated: 2026-10-09. Status: V09 TEXT CORRECTIONS COMPLETE / INDEPENDENT RECHECK PASS82.2.
+Current authorized scope: repair marked places, synchronize8 Shorts and exact voice input, repeat review. No TTS/assets/stage advancement. Earlier plan/review entries below are historical.
 
 ## Evidence and limits
 Use VIDEO 001–003 Stage19 reports and snapshots; channel context is in 06_CHANNEL_ANALYSIS_2026-10-08.md. Reusable rules: 01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md.
@@ -37,3 +37,14 @@ No live legal-status refresh was performed for this documentation task. Release 
 Current exact-version critique: `06_V08_DIRECTORIAL_REVIEW.md`. Score75.8/100; promise/accuracy hard failures; all8 Shorts reviewed (6FAIL/2WARN), actual durations NOT_MEASURED. The independent review task is complete but its acceptance criteria are not met; do not close C04-01 as PASS.
 C04-02/03/04 findings are now exact QV08_R01–R16 items. C04-05 has only a recognizable packaging direction, not finished assets. C04-06/07 remain later visual/edit reviews; no visual/edit PASS.
 Next bounded task: owner-authorized source-zone corrections, fact/ledger/provenance repairs, Stage07 relock and Stage08 synchronization plus fresh independent recheck. Do not generate or advance automatically.
+
+## V09 corrective acceptance — current
+
+- C04-01: fresh independent review PASS82.2; current-artifact hard gates pass.
+- C04-02/03: explicit preliminary outcome, covered scope, attributed reasons, real question/payoff progression; repetition and ending reduced.
+- C04-04:8/8 standalone exact cuts PASS_TEXT_PLAN. Normalized34–44 tokens and3s CTA+2s allowance yield19.63–23.94s at139.4wpm. Actual audio/export<=30 remains an unperformed later acceptance, not closed by estimation.
+- C04-05: recognizable working-title/promise repaired; finished packaging remains Stage17, not generated here.
+- C04-06/07: visual priority and actual normal-speed edit/audio QC remain later work; no visual/edit PASS. Preserve no burned captions/shake/crop jumps and smooth CTA endings.
+- C04-08: feedback loop remains subsequent measured analytics, not proof of guaranteed viral performance.
+
+QV08_R01–R16 text/evidence corrections resolved in QA_LEDGER; detailed mapping and remaining nonblocking visual risks in06_V09_DIRECTORIAL_RECHECK.md. Stage07 relocked V09; Stage08 synchronized; Stage09 NOT_STARTED. Fresh V09 quote pending; no billable jobs submitted.

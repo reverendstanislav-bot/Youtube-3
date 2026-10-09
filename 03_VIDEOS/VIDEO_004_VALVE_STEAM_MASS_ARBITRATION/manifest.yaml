@@ -1,7 +1,7 @@
 schema_version: "1.0"
 video_id: "004"
 slug: "VALVE_STEAM_MASS_ARBITRATION"
-title: "Steam Tried to Stop Thousands of Claims. Then This Happened."
+title: "Steam Sent Users to Arbitration. Then Valve Sued Them."
 pillar: "BUSINESS_LAWSUIT"
 priority: "4"
 status: "IN_PREPARATION"
@@ -9,21 +9,19 @@ created: "2026-10-05"
 last_updated: "2026-10-09"
 last_case_status_refresh: "2026-10-07"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Owner-authorized correction of V08 and all8 Shorts required; relock Stage07 and resynchronize Stage08 before fresh review or Stage09"
-blockers:
-  - "V08_DIRECTORIAL_AND_PRECISION_RECHECK_FAIL"
-  - "SHORTS_MAX30_AND_STANDALONE_REPAIR_REQUIRED"
+next_action: "Requested V09 correction and independent recheck complete; stop before Stage09; fresh V09 cost estimate and explicit spend approval required before any generation"
+blockers: []
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "PASS"
   stage_02_case_story_map: "PASS"
   stage_03_script_v1: "PASS"
-  stage_04_fact_legal_review: "RECHECK_REQUIRED_V08_WORDING"
+  stage_04_fact_legal_review: "PASS_V09_BOUNDED_TEXT_RECHECK"
   stage_05_script_revision: "PASS"
-  stage_06_performance_review: "FAIL_CURRENT_V08"
-  stage_07_script_lock: "OWNER_APPROVED_V08_RECHECK_FAIL"
-  stage_08_voice_script: "BLOCKED_UPSTREAM_RECHECK_FAIL"
+  stage_06_performance_review: "PASS_CURRENT_V09_82.2"
+  stage_07_script_lock: "LOCKED_V09_INDEPENDENT_TEXT_RECHECK"
+  stage_08_voice_script: "SYNCED_V09_TEXT_NOT_GENERATED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
@@ -55,7 +53,8 @@ evidence:
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-07"
   unresolved_material_claims: 0
-  current_script_wording_recheck: "FAIL_SEE_QV08_QA"
+  official_release_freshness: "NOT_RUN"
+  current_script_wording_recheck: "PASS_V09_BOUNDED_RECORD_NOT_OFFICIAL_REFRESH"
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -65,14 +64,15 @@ voice:
   stage_08_input: "08_VOICE_SCRIPT.md"
   stage_08_job_plan: "08_VOICE_JOB_PLAN.csv"
   stage_08_jobs_planned: "3"
-  stage_08_characters: "13632"
-  stage_08_normalized_words: "2183"
-  stage_08_live_quoted_cost_credits: "41.10"
+  stage_08_characters: "13932"
+  stage_08_normalized_words: "2140"
+  stage_08_live_quoted_cost_credits: "NOT_RETRIEVED_FOR_V09"
+  stage_08_cost_preflight: "PENDING_FRESH_QUOTE; V08_41.10_SUPERSEDED"
   stage_08_paid_generation_authorized: false
 
 shorts:
   required: true
-  architecture_status: "RECHECK_FAIL_CURRENT_V08"
+  architecture_status: "LOCKED_V09_TEXT_PASS_AUDIO_NOT_MEASURED"
   target_count: "8"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -85,8 +85,8 @@ shorts:
 qa:
   topic: "PASS"
   research: "PASS"
-  fact_legal: "FAIL_CURRENT_V08_WORDING"
-  performance: "FAIL_CURRENT_V08_75.8"
+  fact_legal: "PASS_V09_BOUNDED_TEXT_RECHECK"
+  performance: "PASS_CURRENT_V09_82.2"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
@@ -95,26 +95,28 @@ qa:
 
 script:
   canonical: "07_SCRIPT_FINAL.md"
-  spoken_words: 2089
-  normalized_words: 2183
+  spoken_words: 2080
+  normalized_words: 2140
   planning_reference_wpm: 139.4
-  historical_raw_word_runtime_estimate_sec: 899
-  projected_runtime_sec_at_channel_reference: 940
+  historical_raw_word_runtime_estimate_sec: 899 # Superseded V08 history, not V09 timing
+  projected_runtime_sec_at_channel_reference: 921
   actual_audio_runtime_measured: false
 
 performance_correction:
-  status: "REVIEW_COMPLETE_FAIL_CORRECTIONS_REQUIRED"
-  review: "06_V08_DIRECTORIAL_REVIEW.md"
+  status: "CORRECTED_V09_INDEPENDENT_TEXT_RECHECK_PASS"
+  review: "06_V09_DIRECTORIAL_RECHECK.md"
   reviewed_on: "2026-10-09"
-  current_artifact_score: 75.8
+  current_artifact_score: 82.2
   shorts_reviewed: 8
-  shorts_fail: 6
-  shorts_warn: 2
+  shorts_fail: 0
+  shorts_warn: 0
+  shorts_text_pass: 8
+  historical_review: "06_V08_DIRECTORIAL_REVIEW.md"
   measured_short_durations: false
   plan: "06_CORRECTIVE_ACTION_PLAN.md"
   evidence: "06_CHANNEL_ANALYSIS_2026-10-08.md"
   protocol: "01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md"
   canonical_script_owner_approval_preserved: true
   new_current_artifact_score_issued: true
-  downstream_production_on_hold: true
+  downstream_production_on_hold: true # Task boundary and spend lock, not unresolved script failure
   stage_advanced: false

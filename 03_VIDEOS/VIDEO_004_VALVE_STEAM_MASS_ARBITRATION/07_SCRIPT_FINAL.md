@@ -1,457 +1,358 @@
-# VIDEO 004 — 07 Final Script — QUESTION / PAYOFF REBUILD
+# VIDEO 004 — 07 Final Script — V09
 
-Status: **PASS / CANONICAL — OWNER-APPROVED V08**
+Status: **LOCKED V09 — INDEPENDENT TEXT RECHECK PASS / 82.2**
+Working title: **Steam Sent Users to Arbitration. Then Valve Sued Them.**
+Revision date: **2026-10-09**
+Spoken body: **2080 canonical tokens / 2140 normalized spoken tokens**
+Planning runtime: **~15:21 narration at139.4wpm, before pause variance; later20s silent end screen**
 
-Working title:
-**Steam Tried to Stop Thousands of Claims. Then This Happened.**
-
-Revision date:
-**2026-10-08**
-
-Retention architecture:
-**Question → answer → larger question. One paid reveal or escalation every 30–60 seconds.**
-
-Spoken body:
-**2,089 words / projected 14:59 at the channel Harrison reference pace**
+Owner-authorized correction of the V08 review findings. Earlier V08 approval remains historical; V09 passed independent retention and precision rechecks on 2026-10-09. See 06_V09_DIRECTORIAL_RECHECK.md. This is a text lock, not generated-audio, edit, release or owner-approved spend. Section headings and these notes are not spoken.
 
 ---
 
 ## S01 / SH01 — THE RULE THAT TURNED ON VALVE
 
-Valve wrote a rule designed to stop Steam users from joining forces.
+Valve required Steam users to arbitrate covered disputes individually.
 
-Then 4,991 users followed that rule—separately.
+Thousands filed.
 
-Valve deleted the rule, asked the arbitrators to close the pending cases, and went to federal court to escape the process it had required.
+Valve then asked a federal judge to stop pending arbitrations.
 
-The judge said no.
+The judge denied preliminary relief—not a final verdict on the users' claims.
 
-So how did a clause meant to protect Valve become the reason Valve wanted out?
+So why did Valve try to leave the process its own contract required?
 
-This is not a story about gamers proving Valve violated antitrust law. Those claims remain allegations.
+Steam sent users to arbitration. Then Valve sued hundreds of them. And part of the fight reached into the game libraries attached to their accounts.
 
-The proven reversal is in the contract itself.
+The question was not just who had the better case. It was who could change the rules after that case had already started.
 
-And it begins with three words:
+The users alleged that Valve had inflated game prices through anticompetitive practices. Those allegations were not established by this ruling.
 
-One at a time.
+The documented reversal was about the contract.
 
-## S02 — WHY VALVE WANTED EVERY USER ALONE
+It starts with one word:
 
-Why would Valve want that rule?
+Individual.
 
-Because one class action can put thousands—or millions—of people behind a single complaint.
+## S02 — INDIVIDUAL DID NOT MEAN FEW
 
-Individual arbitration breaks that crowd apart.
+Arbitration puts a dispute before a neutral arbitrator instead of an ordinary judge or jury.
 
-One user.
+The old Steam agreement required that route for covered disputes. Valve added individual arbitration and a class-action waiver in 2012.
 
-One private case.
+One user. One separate proceeding.
 
-No class action and no combining claims without consent.
+A class action works differently: many people's claims can be pursued through one case. Steam's terms barred that route and barred combining proceedings without the required consent.
 
-Valve added that system to the Steam Subscriber Agreement in 2012.
+That separated the files. It did not limit how many files could arrive.
 
-On paper, it is a powerful shield. Every dispute stays small, separate and outside an ordinary courtroom.
+Individual describes how a claim is handled—not how many people may file. Thousands could follow that rule without becoming one class.
 
-But the shield depends on one hidden assumption:
-
-People will arrive one at a time.
-
-What happens if they remain separate—but arrive together?
-
-That answer took eleven years.
+But first, Valve had to get the consumers out of court.
 
 ## S03 — THE VICTORY THAT CREATED THE PROBLEM
 
-How did Steam users enter Valve's system in the first place?
-
 In 2021, a game publisher and two Steam users sued Valve. They alleged that Valve used market power and anticompetitive practices to inflate game prices.
 
-Again, those are allegations.
+Valve's response to the consumer claims was procedural: the Subscriber Agreement required arbitration.
 
-Valve pointed to its Subscriber Agreement and asked the court to send the consumer claims into arbitration.
+The court agreed and sent those claims to that forum.
 
-The court agreed.
+The publisher litigation stayed in court and later became part of a separate case called *In re Valve Antitrust Litigation*. Keep those tracks separate: a publisher case in court was not the same proceeding as a consumer arbitration.
 
-At first, that looks like a routine procedural win. But choosing a forum does not just choose a building. It chooses the rules, fees, pace and repeated work. Valve had not simply moved the claims. It had selected the machine that thousands of users would later scale.
+Valve had won the forum argument, not an antitrust verdict. The chosen forum had its own fees and procedures.
 
-The users left court. The publisher claims stayed and later became part of a separate case called *In re Valve Antitrust Litigation*.
+A case outside court still needs an administrator, a response and, if it advances, an arbitrator. Sending someone into a different process does not remove the work.
 
-Valve had won the procedural fight.
+The next wave would use the individual route.
 
-The consumers were now exactly where Valve said they belonged.
-
-Then lawyers discovered the gap in the shield.
-
-The contract stopped users from filing together.
-
-It did not stop them from filing separately at the same time.
+Not one joint complaint. A growing stack of separate demands.
 
 ## S04 / SH02 — 997 BECOMES 4,991
 
-October 2023.
+Steam's mass-arbitration wave began with 997 demands.
 
-The first wave arrives: 997 separate arbitration demands.
+A May 2026 court order recorded 4,991 claimants against Valve.
 
-More follow in November.
+That meant separate cases—not proven wins.
 
-Then more in December.
+One rule. Thousands of files.
 
-By the stage recorded in a May 2026 federal order, 4,991 claimants are pursuing arbitration against Valve through AAA.
+The first coordinated group filed in October 2023. More demands followed in November and December.
 
-That does not mean 4,991 victories. It proves scale, not liability.
+The American Arbitration Association, or AAA, administered the proceedings. Each claimant had an individual matter.
 
-So how did separate claims create collective pressure?
+That meant the basic work could recur: identify the claim, respond, schedule the next step and deal with the arbitrator handling it. Not every file would reach a hearing.
 
-Every file could require its own intake, response, scheduling, arbitrator and legal work.
+The scale was documented. A single final bill for all that work was not.
 
-Picture one claim as one door. Now stretch that hallway to 4,991 doors. Even if many never reach a hearing, each file has to be opened, identified and routed through the system.
+And that is where the most clickable version of this story takes a shortcut.
 
-That is mass arbitration: not one giant case, but thousands moving in parallel.
+## S05 / SH03 — THE TWENTY-MILLION-DOLLAR SHORTCUT
 
-The claimants never became one class.
+Twenty million dollars for Valve's Steam arbitrations? That figure is unverified.
 
-The process became thousands of repetitions.
+The records reviewed here do not verify a single bill for that amount.
 
-Which raises the obvious question:
+What they do establish is thousands of separate arbitrations—not one class action.
 
-What did all of that cost?
+That can multiply fees and legal work.
 
-## S05 / SH03 — THE VIRAL NUMBER THAT DOES NOT HOLD UP
+AAA's fee schedule separates charges by stage: initiation, individual cases, appointments and final stages. Arbitrator compensation is handled separately.
 
-Twenty million dollars.
+A case that stops early does not necessarily incur everything a case reaching the finish line might incur. The schedules changed too.
 
-That is the number repeated in videos and posts about Valve's arbitration problem.
+So multiplying one fee by one claimant count does not authenticate what Valve actually owed or paid.
 
-There is just one issue.
+The documented issue is repeated procedure. The total remains unverified.
 
-The records reviewed for this script do not prove one authenticated twenty-million-dollar invoice or final payment obligation.
+But Valve's own explanation for removing arbitration pointed to something more specific than the number of files.
 
-So is the entire story fake?
-
-No.
-
-The mistake is looking for one dramatic receipt. Mass arbitration does not hit like one invoice. It works like a conveyor belt: each case can stop early or move forward, and every new stage creates another task.
-
-AAA's schedule can attach charges to initiation, individual cases, appointments and final stages, with arbitrator compensation handled separately.
-
-Not every case reaches every stage. The schedules also changed.
-
-The defensible answer is not one viral total.
-
-It is multiplication.
-
-Repeat one administrative process thousands of times, and a system designed to isolate claims can create pressure at scale.
-
-But pressure alone does not explain why Valve eventually deleted arbitration.
-
-For that, four unusual cases matter.
+Four claimants.
 
 ## S06 — WHY FOUR CLAIMANTS WANTED OUT
 
-Why would claimants leave the forum they had just flooded?
-
-In May 2024, four of them asked their own arbitrator to dismiss their cases. They argued that the arbitration agreement itself was unenforceable.
+In May 2024, four claimants asked their own arbitrator to dismiss their cases. They argued that the arbitration agreement itself was unenforceable.
 
 In July, the arbitrator agreed, allowing those claims to move toward court.
 
 These four people are not defendants in Valve's later injunction case. Their matters entered separate litigation.
 
-But Valve later told the federal court that the decision influenced what happened next.
+Valve later said it removed the clause in response to that arbitrator's unenforceability finding.
 
-The reversal was now happening on both sides.
+The direction of the fight had reversed.
 
-Valve had used the contract to push consumers out of court.
+Valve had used the contract to move consumer claims into arbitration. These consumers attacked the contract to get out.
 
-Some consumers were attacking that contract to get back in.
+That September, Valve changed the agreement.
 
-Then, two months later, Valve made the biggest move in the entire story.
-
-It removed arbitration from Steam.
-
-But did that change only the future?
+The next fight was over whether the change could reach proceedings already underway.
 
 ## S07 / SH04 — VALVE DELETES ITS OWN SHIELD
 
-September 26, 2024.
+Valve removed mandatory arbitration from Steam's agreement.
 
-Valve announces a new Steam Subscriber Agreement.
+Did that erase the cases already underway?
 
-Mandatory arbitration is gone.
+No. The rewrite did not automatically close them.
 
-The class-action waiver is gone.
+Valve still had to persuade the administrator, arbitrators or a court that the new contract controlled.
 
-If support cannot resolve a dispute, the new agreement sends it to court in King County, Washington.
+The announcement came on September 26, 2024. The class-action waiver was removed too.
 
-Valve's twelve-year-old shield has disappeared.
+Under the replacement agreement, disputes that support could not resolve were directed to courts in King County, Washington.
 
-So did the 4,991 pending claims disappear with it?
+There were now two versions of the rules: the version under which users had filed and the version Valve wanted applied afterward.
 
-No.
-
-They were already moving through the old system.
-
-Changing the route for tomorrow's dispute was easy.
-
-Valve needed the new agreement to reach backward.
-
-And one sentence said that it did.
+The new terms claimed to reach backward—not just into future disputes.
 
 ## S08 / SH05 — CAN A NEW CONTRACT ERASE OLD CASES?
 
-The new court clause covered more than future disputes.
+Valve's new Steam contract reached backward.
 
-It also reached claims arising before the new agreement—or under any earlier agreement.
+The clause said even older claims belonged in court.
 
-Valve said yes: the replacement contract superseded the old one, so pending arbitrations lost their foundation.
+Valve argued that pending arbitrations had to end.
 
-The claimants' answer was no.
+The users disagreed: they had already filed under the old rules.
 
-They had filed under the old rules. A later edit, they argued, could not erase that.
+The same rewrite pointed both sides in opposite directions.
 
-Same sentence.
+The clause expressly covered claims arising before the new agreement, including under an earlier agreement. Another provision said the new contract replaced the old one.
 
-Opposite answers.
+Valve treated those terms as the answer. The claimants treated the timing as the problem.
 
-So can Valve change the rules after thousands of cases have already started?
+Their cases were not hypothetical future disputes. They had already entered the forum Valve had required.
 
-Before a judge could decide, Valve had to prove that users accepted the new rules.
+Before that conflict could be resolved, another question intervened.
+
+Had the users actually accepted the replacement contract?
 
 ## S09 — DID ONE CLICK CHANGE EVERYTHING?
 
-Did the users actually accept the new agreement?
+For these users, accepting new terms could change an existing legal dispute—not just a future purchase.
 
-Valve did more than update a webpage. According to evidence summarized by the district court, it sent emails, displayed a Steam pop-up and required acceptance before new purchases or Steam Wallet funding.
+According to evidence summarized by the court, Valve used emails, a Steam pop-up and acceptance requirements for purchases or Wallet funding.
 
-Valve said 454 of the 572 later defendants clicked acceptance.
+Valve said 454 of the 572 later defendants clicked acceptance. The other 118 logged in afterward without clicking.
 
-The remaining 118 did not click, but logged in after the terms took effect. None deleted the account beforehand.
+An account already held purchased games.
 
-This was more than a checkbox. The accounts represented years of purchases, which is why the option to delete everything became part of the fight.
+The defendants said rejecting the update could cost access to their libraries. They claimed an average value above three thousand dollars.
 
-The claimants said deletion was not a real choice because it could put an existing game library at risk. They claimed an average value above three thousand dollars.
+Valve disputed that figure and said a user could stop using an account without losing purchased licenses.
 
-Valve disputed that number and said users could stop using an account without losing purchased licenses.
+Keeping a license and being able to play the games were different parts of that argument.
 
-But here is the harder question:
+Acceptance did not automatically make the terms enforceable. The court would assess whether rejecting them was a meaningful choice.
 
-Even if one click accepted a new contract, could it erase the forum chosen for a dispute already underway?
-
-Valve asked AAA to answer immediately.
+Valve wanted the files closed anyway.
 
 ## S10 / SH06 — AAA REFUSES TO MAKE THE CASES DISAPPEAR
 
-One day after announcing the new agreement, Valve asks AAA to close the pending arbitrations.
+Valve asked the American Arbitration Association to close pending Steam arbitrations.
 
-AAA refuses.
+The administrator refused.
 
-Did AAA decide that Valve was legally wrong?
+It did not decide that Valve was legally wrong.
 
-No.
+It left that contract question to courts or arbitrators.
 
-It said the contract question belonged with a court or the arbitrators handling the merits.
+The cases stayed open.
 
-But the practical answer was immediate:
+Valve sent its request on September 27, 2024. The administrator's response was recorded in an October 7 letter.
 
-The files stayed open.
+The arbitrators handling individual matters still had decisions to make. Some applied the original agreement. Valve said many others paused their cases.
 
-Some arbitrators applied the original agreement. Valve said many others paused their cases. Valve kept participating while reserving its objections.
+Valve kept participating while reserving its objections.
 
-The new contract had not killed the old proceedings.
+The rewrite had reached the administrator. It had not produced the blanket closure Valve sought.
 
-So what could Valve do next?
+To seek that, Valve took a different route.
 
-It went to court—and sued the users it had sent into arbitration.
+Federal court.
 
 ## S11 / SH07 — THE CLAIMANTS BECOME THE DEFENDANTS
 
-Valve goes to federal court to stop the arbitrations.
+Valve sued Steam users who had filed claims in the forum its contract required.
 
-Its first filing names 624 respondents.
+Those claimants became defendants in a federal lawsuit.
 
-That filing is struck as procedurally improper.
+Valve wanted their pending arbitrations stopped.
 
-Valve returns on August 21, 2025, with a civil complaint against 572 defendants.
+The role reversal did not prove anyone's antitrust case.
 
-Who are those defendants?
+It changed who was suing whom.
 
-The Steam users who entered arbitration because Valve's own contract required it.
+The first federal filing came in October 2024 and named 624 respondents. It was struck as procedurally improper.
 
-The role reversal is complete.
+Valve returned on August 21, 2025, with a civil complaint against 572 defendants.
 
-But why did 624 become 572—and later roughly four hundred active matters according to Valve?
+By a May 2026 hearing, Valve represented that roughly four hundred matters remained active. An exact count was disputed.
 
-Because the cases were not moving as one group.
+Do not read those figures as one scoreboard. Proceedings ended, were withdrawn or paused at different times.
 
-Some ended. Some were withdrawn. Some paused.
+The people named in federal court were a subset of the arbitration claimants, not every person counted in the broader wave.
 
-And the results were beginning to split.
-
-So who was actually winning?
+And the individual results were already pulling in different directions.
 
 ## S12 — THE SCOREBOARD NOBODY COULD SIMPLIFY
 
-Were the claimants beating Valve?
-
-Not cleanly.
-
 The defendants submitted evidence that eleven arbitrators had applied the original agreement in proceedings before them.
 
-Valve said many other arbitrators stayed their cases rather than let them continue.
+Valve said many others stayed their cases rather than let them continue.
 
-Some completed arbitrations produced final awards for Valve.
+Some completed arbitrations produced final awards for Valve. Other proceedings produced rulings or awards for claimants, including interim awards Valve challenged.
 
-Other proceedings produced rulings or awards for claimants, including interim awards Valve challenged.
+Those were not interchangeable results.
 
-So “the gamers won” is wrong.
+A stay pauses a proceeding. Applying the old contract chooses the rules for it. An award addresses what happened in a particular matter.
 
-“Valve won” is also wrong.
+None of those, by itself, produces one winner across the entire wave.
 
-Hundreds of separate cases were producing different answers at different speeds.
+The federal contract fight could change the framework for proceedings still in dispute. That is why a company could win some individual arbitrations and still seek an order stopping others.
 
-Freeze the process on any date and the apparent winner depends on which file you open. One federal ruling could replace hundreds of separate contract fights with a single rule.
+The immediate question was not which side had collected the most wins.
 
-That was Valve's deeper problem.
-
-It did not want to fight the contract question hundreds of times.
-
-It wanted one federal answer before more cases crossed the finish line.
-
-Could a judge stop the entire machine?
+It was whether the old proceedings could continue at all.
 
 ## S13 — VALVE ASKS FOR AN EMERGENCY EXIT
 
-Valve asks for a preliminary injunction—an emergency order before the whole lawsuit is decided.
+Valve asked for a preliminary injunction: an order stopping the arbitrations before the whole federal lawsuit was decided.
 
-What does Valve want?
+Valve argued that users accepted a replacement contract directing old and new disputes to court. Forcing arbitration without an agreement that still authorized it, Valve said, caused irreparable harm.
 
-Stop the arbitrations now.
+The defendants resisted the move. Their proceedings had begun under the earlier terms, and some had already advanced substantially.
 
-Its argument is simple: users accepted a new agreement, and that agreement sends old and new disputes to court. Forcing Valve to arbitrate without a current arbitration agreement, it says, causes irreparable harm.
+The court had to evaluate the request now, without turning that emergency decision into a final trial of every antitrust allegation.
 
-The claimants answer with the timeline.
+A denial would leave Valve without the immediate stop order it wanted.
 
-Valve wrote the arbitration rule.
-
-Valve used it to move consumers out of court.
-
-The consumers filed where Valve sent them.
-
-Only after thousands of claims were underway did Valve rewrite the agreement and demand a return to court.
-
-Would the judge rescue Valve from its own system?
-
-On May 27, 2026, the answer arrived.
+On May 27, 2026, the judge decided.
 
 ## S14 / SH08 — THE JUDGE SAYS NO—BUT NOT FOREVER
 
-The judge refuses to stop the arbitrations.
+Valve lost its request to stop pending Steam arbitrations.
 
-Had the users won the entire case?
+The ruling was preliminary—not an antitrust verdict.
 
-No.
+The court found the new clause likely unenforceable against these defendants.
 
-This was a preliminary ruling. It did not prove the antitrust claims or award one common sum.
+Valve lost the emergency motion, not the entire case.
 
-But Valve had lost the emergency motion.
+The timing was central. Users had entered the required forum and advanced their cases before Valve changed the terms.
 
-Why?
+The order did not award one common sum or establish that every claimant would prevail.
 
-The court focused on timing: users had entered Valve's forum and advanced their cases before the contract changed.
+Sixty-four days later, the same judge certified the order for possible immediate appeal.
 
-That looked like the payoff.
+He had not withdrawn his earlier legal view.
 
-It was not.
-
-Thirty-four days later, the same judge who blocked Valve's exit opened another one.
+His two decisions rested on different questions.
 
 ## S15 — WHY THE COURT WOULD NOT STOP THE MACHINE
 
-Why was timing so damaging to Valve's request?
+The amendment offered the defendants no new benefit for giving up the forum they had already entered. Valve, by contrast, could escape the burden of those pending proceedings.
 
-The amendment offered users no new benefit for losing the forum they had already entered. Valve, meanwhile, could escape the burden of pending cases.
+The judge also addressed Valve's claimed harm. Valve had selected arbitration and continued participating for more than a year.
 
-The order mattered: write the rule, compel people to use it, then rewrite it after thousands have relied on it.
+The immediate burden was largely financial, the court reasoned. That did not automatically establish the irreparable injury needed for emergency relief.
 
-Valve argued that no company should be forced to arbitrate without an agreement.
+Stopping the proceedings could damage work already completed by claimants who had reached hearings or obtained favorable rulings or awards.
 
-The judge answered that Valve had selected arbitration and continued participating for more than a year. The immediate burden was largely financial, not the kind of irreparable injury that automatically justified emergency relief.
+The court's reasons did not settle any individual antitrust claim. Nor did they eliminate the contested legal question behind the request.
 
-Stopping everything could also destroy completed work. Some claimants had reached hearings or obtained favorable rulings or awards.
-
-So the machine kept running.
-
-Was Valve trapped?
-
-Not quite.
-
-The judge believed his own answer might be wrong.
+Valve's next move targeted that question.
 
 ## S16 — HOW A DEFEAT BECAME VALVE'S LIFELINE
 
-How can a loss become a lifeline?
+Valve sought appellate review before the district case reached a final judgment.
 
-Valve asked for an immediate appeal before the district case reached final judgment.
+The question was whether the replacement agreement's retroactive court clause could be enforced against these defendants.
 
-Normally, an appeal waits for the case to end. This kind can jump the line when one legal question could control almost everything that follows.
+On July 30, 2026, the judge certified his order for possible immediate appeal.
 
-On July 30, 2026, the judge allowed it.
+He remained convinced that the clause was likely unconscionable as applied here. In plain language, his preliminary view was that the terms and their imposition were too unfair to enforce against this group.
 
-He did not reverse himself. The retroactive clause still appeared likely unconscionable as applied to these defendants.
+But he also recognized a new, controlling legal question on which reasonable judges could disagree.
 
-But he acknowledged that the question was new, controlling and open to reasonable disagreement.
+If the Ninth Circuit accepted review and sided with Valve, that could resolve the contract question and materially shorten the litigation.
 
-If the Ninth Circuit sided with Valve, little might remain to decide about which contract controlled the pending cases.
+The district case was stayed while the appellate court decided whether to take the appeal.
 
-The district case was stayed.
+Certification was not a reversal. It was a way to seek a higher court's answer sooner.
 
-Valve had lost the emergency motion—and gained a direct path to challenge it.
+Valve had lost the emergency motion.
 
-So can Valve change the rules after thousands of cases have already started?
-
-That answer moved to a higher court.
+It had not lost every route forward.
 
 ## S17 — WHAT THE RULE ACTUALLY COST
 
 On September 25, 2026, the Ninth Circuit opened appeal number 26-6269: *Valve Corporation v. Fish and others*.
 
-The public appellate record reviewed for this script contains no ruling on the merits.
+The public appellate record reviewed for this script contains no ruling on the merits. Whether the new agreement controls those pending cases remains unresolved in that record.
 
-The legal ending is still open.
+The already-real consequence is narrower—and stranger—than a global victory or a verified twenty-million-dollar bill.
 
-But one consequence is already real.
+Steam changed its contract. That edit did not automatically settle who could leave the old proceedings.
 
-Valve spent years requiring every user to fight alone.
+Valve had required an individual process, then asked a court to stop it.
 
-The users followed the rule.
+The arbitration clause was gone.
 
-First 997 demands.
-
-Then 4,991 claimants.
-
-The response grew so large that Valve removed arbitration from Steam's agreement and tried to move the pending cases back to court.
-
-That attempt failed at the preliminary stage. The appeal will decide whether it stays failed.
-
-But the reversal has already happened.
-
-The rule was supposed to leave every claimant alone against Valve.
-
-Instead, it left Valve alone against 4,991 claimants.
+The fight over it wasn't.
 
 ---
 
-## Canonical lock notes
+## Canonical lock notes — NOT SPOKEN
 
-This file is the only canonical narration authority after the owner-approved V08 Stage 07 lock.
-
-Hard factual boundaries remain unchanged:
-- antitrust assertions remain allegations;
-- 4,991 means claimants at the cited stage, not victories;
-- no authenticated record supports a single verified twenty-million-dollar obligation;
-- arbitral results were mixed;
-- the district court denied preliminary relief, not the full case;
-- the immediate appeal remains unresolved in the public record reviewed for this script;
-- related publisher, award and law-firm proceedings remain separate;
-- every Short must remain at or below 30.0 seconds including its final CTA card.
+07_SCRIPT_FINAL.md remains the only narration source. No Short has separate or reordered VO.
+- Covered disputes only; arbitration/class waiver exceptions exist.
+- Antitrust assertions remain allegations; preliminary loss is not a final verdict.
+- 4,991 is the cited court-record count, not September2024 or current active-case count.
+- No verified single twenty-million-dollar bill/payment obligation.
+- Valve attributes removal to the four-claimant ruling; no unproven global cost motive.
+- AAA requestSep27,2024; responseOct7letter.
+- May27 ->July30,2026 =64days; certification retained the prior preliminary view.
+- Appeal opening is not a guaranteed merits decision; status dated to reviewed record. Official Stage16 refresh remains mandatory.
+- All delivered Shorts must be<=30.0s including CTA; final audio/export timing is not measured yet.

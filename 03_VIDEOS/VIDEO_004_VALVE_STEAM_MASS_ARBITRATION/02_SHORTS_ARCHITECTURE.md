@@ -1,94 +1,31 @@
-# VIDEO 004 — Stage 02 Shorts Architecture
+# VIDEO 004 — Stage 02 Shorts Architecture / V09 synchronization
 
-Status: **PASS — 8 UNITS LOCKED**  
-Date: 2026-10-07
+Status: **8 CONTIGUOUS UNITS — TEXT RECHECK PASS**
+Updated: 2026-10-09. The owner's max-30-second requirement supersedes the former 45–57-second body targets.
 
-These are contiguous long-form narration requirements, not separate scripts. Final Shorts format: 1080x1920, no burned subtitles, no shake, 45–57 seconds of body plus a silent 3-second integrated Subscribe CTA with a 0.35-second soft transition.
+Final format: 1080x1920; no burned subtitles, no shake or crop jumps; smooth silent 3-second integrated Subscribe/long-form CTA. The 0.35-second soft transition is inside the CTA, not extra runtime.
 
-## SH01 — The Clause That Backfired
+Canonical words come only from `07_SCRIPT_FINAL.md`; ranges and claims are in `07_SHORTS_LOCK.csv`, mirrored by `03_SHORTS_MAP.csv`. Do not write separate Shorts narration.
 
-- Hook: Steam told users they could not combine claims; every dispute had to be individual.
-- Context: Explain arbitration and the class waiver in one sentence.
-- Reveal: thousands used the individual route at once.
-- Payoff: individual did not mean small when filings arrived at scale.
-- Caveat: do not imply claims were adjudicated as valid.
-- Target body: 48–54 seconds.
-- Visual: one contract becomes thousands of separate case files.
+| Short | Contiguous source | Normalized tokens | Total planning seconds at139.4wpm +3s CTA +2s pause allowance | Mini-payoff |
+|---|---|---:|---:|---|
+| SH01 | S01 p1–4 | 34 | 19.63 | Preliminary stop request denied; not final claim merits. |
+| SH02 | S04 p1–4 | 40 | 22.22 | Recorded separate claimant scale is not proven wins. |
+| SH03 | S05 p1–4 | 44 | 23.94 | No verified single bill; repeated individual proceedings are documented. |
+| SH04 | S07 p1–4 | 38 | 21.36 | Contract edit did not automatically close pending cases. |
+| SH05 | S08 p1–5 | 43 | 23.51 | Retroactive text produces opposing contract positions. |
+| SH06 | S10 p1–5 | 36 | 20.49 | Files remain open; administrator did not decide legal merits. |
+| SH07 | S11 p1–5 | 43 | 23.51 | Users claiming in required forum became federal defendants; merits unchanged. |
+| SH08 | S14 p1–4 | 37 | 20.93 | Preliminary motion lost; no global antitrust verdict. |
 
-## SH02 — 4,991 Individual Claims
+## Conversion and legal boundaries
 
-- Hook: one court order recorded 4,991 Steam claimants pursuing AAA arbitration.
-- Context: the number describes claimants at the cited stage, not final winners.
-- Reveal: per-case procedures multiply even without a class action.
-- Payoff: aggregation reappeared as administration cost and workload.
-- Caveat: attribute number to the May 2026 district-court order.
-- Target body: 45–52 seconds.
-- Visual: counter rising from 1 to 4,991 over individual folders.
+Each extract identifies Steam/Valve, pays its immediate question within the cut, and leaves a specific larger question for the long. The CTA text is recorded with its payoff; it is silent editorial text, not additional narration. Keep preliminary denial separate from final merits, administrator refusal separate from a legal ruling, and the cited 4,991 count separate from a current cohort. No verified global $20M bill is claimed.
 
-## SH03 — Valve Removed Arbitration
+## Duration acceptance
 
-- Hook: in September 2024, Valve removed the arbitration clause it had required for years.
-- Context: show old individual-arbitration language.
-- Reveal: new agreement moved disputes to court and removed the class waiver.
-- Payoff: the company changed both the forum and aggregation rule.
-- Caveat: do not state motive beyond Valve's announced change and court record.
-- Target body: 48–55 seconds.
-- Visual: verified before/after contract comparison.
+34–44 normalized tokens; projected total19.63–23.94s at139.4wpm with the stated CTA/pause budget. At130wpm the longest is25.31s; at120wpm it is27.00s. These are planning scenarios, not measured Harrison takes or proof of virality. After voice generation measure exact speech, real pauses, transition and CTA; shorten only by a newly locked contiguous sentence-safe boundary if any final export exceeds30.00s. No speed-up or independent rewrite is pre-approved.
 
-## SH04 — Can a New Contract Stop Old Cases?
+## Review boundary
 
-- Hook: Valve's new language expressly reached claims arising before the new agreement.
-- Context: many arbitrations were already pending.
-- Reveal: which version controls became the central federal question.
-- Payoff: the clause itself—not the antitrust merits—became the immediate case.
-- Caveat: present both sides; issue remains on appeal.
-- Target body: 50–56 seconds.
-- Visual: OLD SSA versus UPDATED SSA feeding into one question mark.
-
-## SH05 — AAA Did Not Close the Cases
-
-- Hook: one day after the rewrite, Valve asked AAA to close pending arbitrations.
-- Context: AAA administers the cases but did not decide the federal contract dispute.
-- Reveal: AAA declined administrative closure and directed the issue to courts or merits arbitrators.
-- Payoff: Valve then went to federal court.
-- Caveat: do not say AAA ruled Valve legally wrong.
-- Target body: 45–52 seconds.
-- Visual: request letter, declined stamp, courthouse transition.
-
-## SH06 — Why 572 Users Became Defendants
-
-- Hook: Steam customers who had filed claims became named defendants in Valve's federal complaint.
-- Context: original filing named 624; operative complaint named 572.
-- Reveal: Valve sought an order stopping their arbitrations.
-- Payoff: dispute resolution reversed the normal courtroom roles.
-- Caveat: counts changed as matters completed, withdrew or otherwise resolved.
-- Target body: 48–55 seconds.
-- Visual: claimant label flips to defendant; count 624 to 572.
-
-## SH07 — Valve Lost the Motion, Not the Case
-
-- Hook: the judge refused to stop the arbitrations—but that was not a final antitrust verdict.
-- Context: define preliminary injunction in plain language.
-- Reveal: court treated the retroactive clause as likely unenforceable at that stage.
-- Payoff: the ruling preserved the immediate status quo without deciding every claim.
-- Caveat: explicitly say preliminary ruling and active appeal.
-- Target body: 50–57 seconds.
-- Visual: DENIED order, then “NOT FINAL” card integrated into the scene.
-
-## SH08 — The Ninth Circuit Ending
-
-- Hook: the same judge who denied relief said reasonable jurists could disagree.
-- Context: the court certified a controlling legal question and stayed the case.
-- Reveal: Ninth Circuit appeal `26-6269` is active.
-- Payoff: the final answer is still unwritten.
-- Caveat: refresh docket and briefing dates before export.
-- Target body: 45–52 seconds.
-- Visual: district order folds into appellate docket; end on pending status.
-
-## Canonical placement rule
-
-Script V1 must contain each unit as a clean contiguous narration window with its own hook, context and payoff. Avoid starting or ending a unit mid-sentence. Body duration must remain below 57 seconds so the final CTA keeps every delivered Short below 60 seconds.
-
-## Stage 02 Shorts verdict
-
-**PASS.** Eight legally safe, visually distinct units are ready to be embedded into Script V1.
+Independent retention and legal-precision critics passed all8 text windows. Audio, visual, edit and conversion analytics remain NOT_RUN/NOT_MEASURED. See `06_V09_DIRECTORIAL_RECHECK.md`; future production does not inherit an audio/export PASS.

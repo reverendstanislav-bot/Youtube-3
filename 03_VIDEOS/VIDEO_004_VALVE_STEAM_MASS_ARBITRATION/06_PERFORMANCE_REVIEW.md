@@ -1,8 +1,10 @@
 # VIDEO 004 — 06 YouTube Performance Review
 
-Status: **FAIL_CURRENT_V08 — 75.8/100 / VOICE BLOCKED**
+Status: **PASS_CURRENT_V09 — 82.2/100 / TEXT REVIEW ONLY**
 
-Active review: `06_V08_DIRECTORIAL_REVIEW.md`, 2026-10-09. Independent current-version review found hard failures. Historical owner approval and older reviews below remain audit history only; prior <=30s assurances are superseded by normalized timing calculations.
+Active review: `06_V09_DIRECTORIAL_RECHECK.md`, 2026-10-09. Corrected V09 passed independent retention and bounded legal/text-precision review; all8 contiguous Shorts passed standalone text checks. Actual audio/edit/runtime and virality are not measured.
+
+Historic V08 review: `06_V08_DIRECTORIAL_REVIEW.md`,75.8/FAIL; findings resolved through current V09 acceptance in QA_LEDGER. Owner approval and all older reviews below remain audit history only. Previous raw-token timing assurances are superseded, not silently erased. Paid generation remains unauthorized; Stage09 NOT_STARTED.
 
 ## Archived rationale and V2 review — NOT ACTIVE APPROVAL
 
