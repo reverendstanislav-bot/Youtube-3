@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-05"
 last_updated: "2026-10-09"
 last_case_status_refresh: "2026-10-07"
-current_stage: "08_VOICE_SCRIPT"
-next_action: "Stage08 V11 voice preparation complete; await explicit Stage09 QA/input-settings lock instruction; no cost quote or generation"
+current_stage: "09_VOICE_QA_LOCK"
+next_action: "Stage09 V11 input/settings locked; obtain fresh V11 quote and explicit owner spend approval before Stage10"
 blockers: []
 
 stages:
@@ -22,7 +22,7 @@ stages:
   stage_06_performance_review: "PASS_V11_90.4_OWNER_MIN90"
   stage_07_script_lock: "LOCKED_V11_TEXT"
   stage_08_voice_script: "PASS_PREPARATION_V11_STAGE09_PENDING"
-  stage_09_voice_qa_lock: "NOT_RUN_V11_V09_HISTORY_INACTIVE"
+  stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -39,7 +39,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
+  voice_input: true
   audio_master: false
   visual_timeline: false
   visual_assets: false
@@ -78,7 +78,7 @@ voice:
   stage_08_prospective_part_B_sha256: "3c38e3759110016120227c7b0f0120f1f914bded957d423daffae453c759505a"
   stage_08_prospective_part_C_sha256: "5253ebe982b6280e3ae6c850143dcda9b0a23f1f553f5c5819d2c2768dd7c8a3"
   stage_09_review: "09_VOICE_REVIEW.md"
-  episode_input_settings_locked: false
+  episode_input_settings_locked: true
   global_engine_lock_changed: false
   historical_v09_quote_checked_at_utc: "2026-10-09T14:22:46.059Z"
   historical_v09_part_A_sha256: "e26b0cf977411f932b5ebf01b11f5385991bca2b0eb9e67743e3447b007be10a"
@@ -103,7 +103,7 @@ qa:
   research: "PASS"
   fact_legal: "PASS_V11_BOUNDED_TEXT_RECHECK"
   performance: "PASS_V11_90.4_OWNER_MIN90"
-  voice_input: "PASS_PREPARATION_V11_STAGE09_LOCK_PENDING"
+  voice_input: "PASS_INPUT_LOCK_V11"
   generated_audio: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
