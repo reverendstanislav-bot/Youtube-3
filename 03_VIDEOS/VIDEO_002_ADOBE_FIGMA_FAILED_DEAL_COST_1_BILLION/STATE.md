@@ -4,7 +4,7 @@
 Adobe’s Failed Figma Deal Cost $1 Billion
 
 ## Current
-- Status: IN_PREPARATION
+- Status: **PUBLISHED**
 - Topic ID: T008
 - Pillar: DEAL_CONTRACT
 - Stage 00: **PASS**
@@ -16,7 +16,7 @@ Adobe’s Failed Figma Deal Cost $1 Billion
 - Stage 05 Script V2: **PASS**
 - Stage 06 Performance Review: **PASS — 94/100**
 - Stage 07 Final Script Lock: **PASS / CANONICAL**
-- Current pipeline stage: **18 UPLOAD PACK READY (V5 picture + V6 sound, owner-approved) — UPLOAD IS OWNER ACTION**
+- Current pipeline stage: **19_POST_PUBLISH_ANALYTICS / IN_PROGRESS**
 
 ## Canonical narration
 `07_SCRIPT_FINAL.md`
@@ -293,3 +293,10 @@ No TTS, image generation, video generation or retries without explicit owner app
 - R2 canonical lock: **2,185 spoken words / ~16.22 min estimate**.
 - Expansion used already verified Stage 01 claims only.
 - No TTS was generated before this correction.
+
+## 2026-10-08 — Observed publication and launch review
+- Public publication verified in Studio: 2026-10-06; https://www.youtube.com/watch?v=8jDjxns2fDM. Exact publication clock not captured in this snapshot.
+- Observed title: Adobe Paid $1 Billion for a Deal That Never Happened. Historical working title/packaging records retained.
+- No notices; A/B test running without a measured winner. Unknown platform settings remain unknown. Publication is not retrospective certification of all Stage18 checks.
+- Current measurements/limitations: `19_ANALYTICS.md`; append-only CSV snapshots.
+- Historical next-action sections above are superseded by this current Stage19 handoff. No reupload, packaging edit or experiment was executed.

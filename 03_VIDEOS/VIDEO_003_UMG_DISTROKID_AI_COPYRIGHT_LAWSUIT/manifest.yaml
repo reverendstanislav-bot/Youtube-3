@@ -4,11 +4,12 @@ slug: "UMG_DISTROKID_AI_COPYRIGHT_LAWSUIT"
 title: "Why Universal Music Just Sued DistroKid"
 pillar: "COPYRIGHT_AI"
 priority: "3"
-status: "IN_PREPARATION"
+status: "PUBLISHED"
 created: "2026-10-03"
-last_updated: "2026-10-04"
-current_stage: "13_VISUAL_ASSET_QC"
-next_action: "Proceed to deterministic production assembly using the final 120/120 PASS_LOCKED visual asset manifest; no image generation required"
+last_updated: "2026-10-08"
+last_case_status_refresh: "2026-10-05"
+current_stage: "19_POST_PUBLISH_ANALYTICS"
+next_action: "Stage19: record comparable 24h/48h/72h/7d observations; no intervention based on tiny samples"
 blockers: []
 
 stages:
@@ -31,7 +32,7 @@ stages:
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
-  stage_19_post_publish_analytics: "NOT_STARTED"
+  stage_19_post_publish_analytics: "IN_PROGRESS"
 
 locks:
   topic_qualified: true
@@ -128,8 +129,15 @@ qa:
 
 publish:
   scheduled_at: ""
-  published_at: ""
-  youtube_url: ""
+  published_at: "2026-10-08"
+  youtube_url: "https://www.youtube.com/watch?v=ciFB8WI4sYE"
+  published_at_precision: "DATE_ONLY_STUDIO"
+  observed_title: "The Lawsuit That Could Break DistroKid"
+  observed_public: true
+  no_notices_observed: true
+  ab_test_observed: "RUNNING_NO_WINNER"
+  analytics_report: "19_ANALYTICS.md"
+  analytics_snapshot_date: "2026-10-08"
 
 transcript:
   canonical_tokens: "2391"

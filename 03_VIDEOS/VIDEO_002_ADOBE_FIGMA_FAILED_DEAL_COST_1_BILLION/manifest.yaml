@@ -4,11 +4,12 @@ slug: "ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION"
 title: "Adobe’s Failed Figma Deal Cost $1 Billion"
 pillar: "DEAL_CONTRACT"
 priority: "2"
-status: "IN_PREPARATION"
+status: "PUBLISHED"
 created: "2026-09-25"
-last_updated: "2026-09-29"
-current_stage: "15_ASSEMBLY_EDIT"
-next_action: "The old Picture Assembly V1 is invalidated because thumbnail()+black-canvas produced inset frames. All 110 locked frames are now committed in GitHub as exact 1920x1080 files under 15_FINAL_FRAMES_1080P. Rebuild the full assembly from that directory with the fixed ImageOps.fit normalization path."
+last_updated: "2026-10-08"
+last_case_status_refresh: "2026-09-25"
+current_stage: "19_POST_PUBLISH_ANALYTICS"
+next_action: "Stage19: record comparable 24h/48h/72h/7d observations; no intervention based on tiny samples"
 blockers: []
 
 stages:
@@ -31,7 +32,7 @@ stages:
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
-  stage_19_post_publish_analytics: "NOT_STARTED"
+  stage_19_post_publish_analytics: "IN_PROGRESS"
 
 locks:
   topic_qualified: true
@@ -259,5 +260,12 @@ qa:
 
 publish:
   scheduled_at: ""
-  published_at: ""
-  youtube_url: ""
+  published_at: "2026-10-06"
+  youtube_url: "https://www.youtube.com/watch?v=8jDjxns2fDM"
+  published_at_precision: "DATE_ONLY_STUDIO"
+  observed_title: "Adobe Paid $1 Billion for a Deal That Never Happened"
+  observed_public: true
+  no_notices_observed: true
+  ab_test_observed: "RUNNING_NO_WINNER"
+  analytics_report: "19_ANALYTICS.md"
+  analytics_snapshot_date: "2026-10-08"

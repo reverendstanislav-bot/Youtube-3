@@ -37,3 +37,6 @@ Snapshots should record:
 - end-screen/next-view behavior when available.
 
 Experiments record hypothesis, changed element, start/end, pre/post data and interpretation.
+
+## Evidence precision and corrective review
+Use `01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md`. Blank means unavailable; zero must be explicitly measured. Record report windows and rounded values; do not combine realtime with delayed funnels. Separate long-form eligible-impression CTR from Shorts feed stayed/swiped and mixed-content CTR. Do not infer Shorts-to-long conversion or end-screen exposure from missing reports. Each experiment retains its hypothesis and comparable pre/post windows.

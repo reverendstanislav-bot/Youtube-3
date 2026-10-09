@@ -270,3 +270,6 @@
 - New release master SHA256 512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25.
 - Final preservation archive SHA256 6174ebb8fa17f20e547da3a2138aed9f30cd44dd1e68d6cb7d0f2905a7424b02.
 - G18 remains PASS / POLICY-SAFE RELEASE_READY.
+
+## 2026-10-08 — Stage19 publication/accounting correction
+Recorded observed Public status and date-only publication URL; synchronized manifest/STATE/index. Saved since-published and delayed-cutoff evidence with unavailable fields left blank. No historical gate upgraded, no platform setting changed, no causal result inferred from tiny samples.

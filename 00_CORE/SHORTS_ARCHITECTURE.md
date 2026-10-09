@@ -5,7 +5,8 @@ Every long-form WHAT IT COST episode must be written so canonical Shorts can be 
 
 Default target:
 - 6–10 short-ready segments per long-form episode;
-- preferred duration 25–60 seconds; up to ~75 seconds when a complete factual/legal unit needs it;
+- owner override effective 2026-10-08: preferred spoken range about 20–27 seconds; final delivered duration <=30.0 seconds INCLUDING ending/CTA;
+- duration is projected before audio and must be measured on the final export; older 25–60/~75s guidance is superseded for new production;
 - one continuous time range per Short;
 - sentence-boundary cuts;
 - no reordered narration;
@@ -39,3 +40,6 @@ Every Short is reviewed in isolation. Extraction must not convert allegation to 
 
 ## Success condition
 Once the long-form master exists, canonical Shorts are a cut/reframe/caption job, not a new writing or voice-production job.
+
+## Performance correction cross-reference
+Use `01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md`: independent per-extract hook/context/mini-payoff/legal review; specific long-form bridge; no unsupported claims of virality. Owner delivery direction is no burned subtitles and no shake/crop jumps; alternate vertical layouts must preserve meaning.

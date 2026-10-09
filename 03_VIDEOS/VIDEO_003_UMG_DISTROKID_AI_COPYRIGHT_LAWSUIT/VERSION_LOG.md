@@ -34,3 +34,6 @@
 | 2026-10-04 | Stage 13K | R6 remaining-50 hard QC | Actual visual inspection of all 50 new outputs: 44 PASS / 6 REJECT; new rejects F044 F046 F051 F059 F102 F107; film now 110/120 PASS locked with 10 reject-only repairs remaining | Close first-pass generation and isolate final repair set | QC COMPLETE / 91.7% PASS / NO FURTHER SPEND |
 | 2026-10-04 | Stage 13L | R7 reject-only generation | Owner approved exactly 10 reject repairs; 10/10 completed; failures 0; retries 0; spend 5.0 credits | Close final reject set with targeted R7 prompts | GENERATED / HARD QC PENDING |
 | 2026-10-04 | Stage 13M | R7 reject-only hard QC / FINAL ASSET LOCK | Actual visual inspection of all ten R7 repair outputs: 10 PASS / 0 REJECT; final film visual set 120/120 PASS_LOCKED | Close visual-generation/QC loop and hand off deterministic assembly | FINAL LOCK / 100% PASS |
+
+## 2026-10-08 — Stage19 publication/accounting correction
+Recorded observed Public status and date-only publication URL; synchronized manifest/STATE/index. Saved since-published and delayed-cutoff evidence with unavailable fields left blank. No historical gate upgraded, no platform setting changed, no causal result inferred from tiny samples.

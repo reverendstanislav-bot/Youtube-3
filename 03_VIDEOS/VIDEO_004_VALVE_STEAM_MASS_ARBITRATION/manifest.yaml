@@ -9,8 +9,9 @@ created: "2026-10-05"
 last_updated: "2026-10-08"
 last_case_status_refresh: "2026-10-07"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Stage 09 Voice QA / Lock only on explicit owner instruction"
-blockers: []
+next_action: "Corrective Stage06 recheck of owner-approved V08 and all8 Shorts before Stage09; see 06_CORRECTIVE_ACTION_PLAN.md"
+blockers:
+  - "CORRECTIVE_PERFORMANCE_RECHECK_REQUIRED_BEFORE_DOWNSTREAM_PRODUCTION"
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -94,3 +95,13 @@ script:
   canonical: "07_SCRIPT_FINAL.md"
   spoken_words: 2089
   projected_runtime_sec_at_channel_reference: 899
+
+performance_correction:
+  status: "PREPARED_REVIEW_PENDING"
+  plan: "06_CORRECTIVE_ACTION_PLAN.md"
+  evidence: "06_CHANNEL_ANALYSIS_2026-10-08.md"
+  protocol: "01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md"
+  canonical_script_owner_approval_preserved: true
+  new_current_artifact_score_issued: false
+  downstream_production_on_hold: true
+  stage_advanced: false

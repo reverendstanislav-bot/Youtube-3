@@ -267,3 +267,6 @@ The premise, first minute, central reversal and ending are strong. The remaining
 
 Next canonical stage:
 **Stage 07 — Final Script Lock**, only on explicit owner instruction.
+
+## 2026-10-08 — Corrective review required before production
+The historical V2 score and V08 owner approval are retained as history. Current-artifact performance review remains **PENDING** under `06_CORRECTIVE_ACTION_PLAN.md`. The 30 explicit questions and estimated <=30s cuts are structural properties, not proof of retention or virality. No new score is issued by this documentation step. Review exact `07_SCRIPT_FINAL.md` and all8 locked extracts before Stage09; align Stage07/08 only if changes are needed.

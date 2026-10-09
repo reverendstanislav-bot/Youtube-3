@@ -4,14 +4,14 @@
 The eBay Harassment Scandal That Cost $56 Million
 
 ## Current
-- Status: RELEASE_READY
+- Status: **PUBLISHED**
 - Stage 07 Final Script Lock: **PASS**
 - Stage 08 Voice Script: **PASS**
 - Stage 09 Voice QA + Lock: **PASS**
 - Stage 10 Audio Master: **PASS / LOCKED**
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED**
 - Stage 12 Visual Source / Generation Plan: **PASS / 115-BEAT FINAL ASSET PATH LOCKED**
-- Current pipeline stage: 18_UPLOAD_PREPUBLICATION — **PASS / RELEASE_READY**
+- Current pipeline stage: **19_POST_PUBLISH_ANALYTICS / IN_PROGRESS**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Final script length: ~2,321 words
 - Performance review: PASS — 92/100
@@ -636,3 +636,10 @@ Do not reopen selection, test substitutes, or generate audio unless the owner ex
 - Harrison audio decoded PCM MD5 remains identical to Stage15B: `9c97dfc3783e24cb0202f27233b52fd9`.
 - Final preservation archive SHA-256: `6174ebb8fa17f20e547da3a2138aed9f30cd44dd1e68d6cb7d0f2905a7424b02`.
 - VIDEO 001 remains **RELEASE_READY**; Stage19 remains NOT_STARTED.
+
+## 2026-10-08 — Observed publication and launch review
+- Public publication verified in Studio: 2026-10-04; https://www.youtube.com/watch?v=TQRCYnsLYn4. Exact publication clock not captured in this snapshot.
+- Observed title: They Criticized eBay. Then the Harassment Started.. Historical working title/packaging records retained.
+- No notices; A/B test running without a measured winner. Unknown platform settings remain unknown. Publication is not retrospective certification of all Stage18 checks.
+- Current measurements/limitations: `19_ANALYTICS.md`; append-only CSV snapshots.
+- Historical next-action sections above are superseded by this current Stage19 handoff. No reupload, packaging edit or experiment was executed.

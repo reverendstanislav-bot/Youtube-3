@@ -4,7 +4,7 @@
 Why Universal Music Just Sued DistroKid
 
 ## Current
-- Status: **IN_PREPARATION**
+- Status: **PUBLISHED**
 - Stage 07 Final Script Lock: **PASS / CANONICAL — R3 RETENTION POLISH**
 - Stage 08 Voice Script: **PASS — EXACT HARRISON INPUT READY**
 - Stage 09 Voice QA + Lock: **PASS — 4/4 HARRISON SOURCE JOBS COMPLETE**
@@ -12,7 +12,7 @@ Why Universal Music Just Sued DistroKid
 - Stage 11 Transcript + Visual Timeline: **PASS / LOCKED — 2,391 spoken tokens corrected**
 - Stage 12 Visual Source / Generation Plan: **PASS / R2 CORRECTED CANONICAL**
 - Stage 13 Visual Asset QC: **COMPLETE — FINAL 120/120 PASS LOCKED; 0 rejects; 0 pending QC**
-- Current pipeline stage: **13_VISUAL_ASSET_QC**
+- Current pipeline stage: **19_POST_PUBLISH_ANALYTICS / IN_PROGRESS**
 - Canonical narration: `07_SCRIPT_FINAL.md`
 - Voice input: `08_VOICE_SCRIPT.md`
 - Job plan: `08_VOICE_JOB_PLAN.csv`
@@ -378,3 +378,10 @@ R5 supersedes R4 for the 101 non-PASS frames. No paid generation is authorized b
 - summary: `13M_R7_REJECT10_VISUAL_QC_SUMMARY.md`
 - further paid image generation authorized: **NO**
 - Stage 13 visual asset set: **FINAL LOCK**
+
+## 2026-10-08 — Observed publication and launch review
+- Public publication verified in Studio: 2026-10-08; https://www.youtube.com/watch?v=ciFB8WI4sYE. Exact publication clock not captured in this snapshot.
+- Observed title: The Lawsuit That Could Break DistroKid. Historical working title/packaging records retained.
+- No notices; A/B test running without a measured winner. Unknown platform settings remain unknown. Publication is not retrospective certification of all Stage18 checks.
+- Current measurements/limitations: `19_ANALYTICS.md`; append-only CSV snapshots.
+- Historical next-action sections above are superseded by this current Stage19 handoff. No reupload, packaging edit or experiment was executed.

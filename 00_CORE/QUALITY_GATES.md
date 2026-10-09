@@ -53,3 +53,6 @@ PASS: master, metadata, captions, sources/provenance and platform settings are r
 
 ## G19 Analytics
 Ongoing; snapshots and experiments logged without rewriting history.
+
+## Current-artifact correction check
+For G06/G07, G15 and G17 apply `01_CHANNEL/PERFORMANCE_CORRECTION_PROTOCOL.md`. Historical scores cannot approve a revised artifact. Record independent current-version review, exact issues and acceptance. Keep technical/factual/creative verdicts distinct from measured audience performance. Pending corrective recheck blocks downstream production while preserving historical owner approvals.

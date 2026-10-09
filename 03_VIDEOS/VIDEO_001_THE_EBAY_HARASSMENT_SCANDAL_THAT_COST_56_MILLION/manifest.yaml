@@ -4,12 +4,12 @@ slug: "THE_EBAY_HARASSMENT_SCANDAL_THAT_COST_56_MILLION"
 title: "The eBay Harassment Scandal That Cost $56 Million"
 pillar: "CORPORATE_SCANDAL"
 priority: "1"
-status: "RELEASE_READY"
+status: "PUBLISHED"
 created: "2026-09-20"
-last_updated: "2026-09-25"
+last_updated: "2026-10-08"
 last_case_status_refresh: "2026-09-24"
-current_stage: "18_UPLOAD_PREPUBLICATION"
-next_action: "Release package ready; await explicit owner instruction to upload/publish on YouTube"
+current_stage: "19_POST_PUBLISH_ANALYTICS"
+next_action: "Stage19: record comparable 24h/48h/72h/7d observations; no intervention based on tiny samples"
 blockers: []
 
 stages:
@@ -32,7 +32,7 @@ stages:
   stage_16_final_fact_legal_refresh: "PASS"
   stage_17_packaging: "PASS"
   stage_18_upload_prepublication: "PASS"
-  stage_19_post_publish_analytics: "NOT_STARTED"
+  stage_19_post_publish_analytics: "IN_PROGRESS"
 
 locks:
   topic_qualified: true
@@ -81,8 +81,15 @@ qa:
 
 publish:
   scheduled_at: ""
-  published_at: ""
-  youtube_url: ""
+  published_at: "2026-10-04"
+  youtube_url: "https://www.youtube.com/watch?v=TQRCYnsLYn4"
+  published_at_precision: "DATE_ONLY_STUDIO"
+  observed_title: "They Criticized eBay. Then the Harassment Started."
+  observed_public: true
+  no_notices_observed: true
+  ab_test_observed: "RUNNING_NO_WINNER"
+  analytics_report: "19_ANALYTICS.md"
+  analytics_snapshot_date: "2026-10-08"
 
 shorts:
   required: true
