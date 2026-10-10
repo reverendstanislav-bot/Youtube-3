@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   actions: read
-  contents: read
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -59,3 +59,26 @@ jobs:
           path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_RESOLVE_EDITABLE_PACK_V1
           if-no-files-found: error
           compression-level: 6
+
+      - name: Record build status and artifact receipt
+        if: always()
+        shell: bash
+        env:
+          PACKAGE_PRESENT: "${{ steps.build.outcome }}"
+        run: |
+          python - <<'PY'
+          import json, pathlib, os
+          d=pathlib.Path('03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION')
+          path=d/'12_RESOLVE_EDITABLE_PACK_V1/BUILD_QC.json'
+          ok=path.exists()
+          result={'run_id':int(os.environ['GITHUB_RUN_ID']),'status':'STATIC_PACK_BUILT__RESOLVE_IMPORT_NOT_VERIFIED' if ok else 'BUILD_INCOMPLETE',
+             'manifest_present':ok,'candidate_settings':len(list((d/'12_RESOLVE_EDITABLE_PACK_V1/Fusion_Comps').glob('*.setting')))}
+          (d/'12_RESOLVE_PACK_BUILD_RECEIPT.json').write_text(json.dumps(result,indent=2)+'\n')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_RESOLVE_PACK_BUILD_RECEIPT.json
+          git commit -m "video004 Fusion import candidates build receipt" || true
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
