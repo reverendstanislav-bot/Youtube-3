@@ -81,15 +81,15 @@ def intent(p):
     hit = [b for b in beats if b["section"]==p["section"] and b["paragraph_start"]<=p["paragraph"]<=b["paragraph_end"]]
     assert len(hit)==1, p
     return hit[0]
-def frame(t): return round(t*30)
-boundaries = [0] + [frame((a["speech_end"]+b["speech_start"])/2) for a,b in zip(paras,paras[1:])] + [24240]
+def frame(t): return round(t*25)
+boundaries = [0] + [frame((a["speech_end"]+b["speech_start"])/2) for a,b in zip(paras,paras[1:])] + [20200]
 assert all(a<b for a,b in zip(boundaries,boundaries[1:]))
 rows = []
 for i,p in enumerate(paras):
     b=intent(p)
     sources=sorted({s for c in b["claim_ids"].split(";") for s in claims[c]["source_ids"].split(";")})
-    rows.append({"scene_id":f"SC{i+1:03}","start_sec":round(boundaries[i]/30,6),
-                 "end_sec":round(boundaries[i+1]/30,6),"script_ref":f"{p['section']}:p{p['paragraph']}",
+    rows.append({"scene_id":f"SC{i+1:03}","start_sec":round(boundaries[i]/25,6),
+                 "end_sec":round(boundaries[i+1]/25,6),"script_ref":f"{p['section']}:p{p['paragraph']}",
                  "purpose":b["purpose"],"entity_or_event":p["canonical_text"],
                  "evidence_class":b["evidence_class"],"visual_plan":b["visual_plan"],
                  "source_ids":";".join(sources),"notes":"Cue boundary, not a mandatory picture cut; ASR only; rights/crop verification Stage12/16.",
@@ -133,7 +133,7 @@ rows.append({"scene_id":"SC124","start_sec":808,"end_sec":828,"script_ref":"NO_N
              "purpose":"20-second native YouTube end screen after narration ends.","entity_or_event":"WHAT IT COST",
              "evidence_class":"EDITOR_GRAPHIC","visual_plan":"Stable 16:9 design with empty space for one native video element and Subscribe; verify sizes in Studio, no painted fake buttons.",
              "source_ids":"","notes":"PLANNED_ONLY; silence after master; not present in current808s WAV; no stretching narration.",
-             "beat_id":"ENDSCREEN","claim_ids":"","start_frame":24240,"end_frame":24840,
+             "beat_id":"ENDSCREEN","claim_ids":"","start_frame":20200,"end_frame":20700,
              "first_word_id":"","last_word_id":"","short_ids":""})
 table("SCENE_TIMELINE.csv", rows)
 table("11_SHORTS_CUT_MAP.csv", shorts)
@@ -147,7 +147,7 @@ save("11_ALIGNMENT_QC.json", {"status":"PROVISIONAL_NOT_STAGE10_OR_STAGE11_PASS"
      "word_count":len(words),"short_word_spans":[w for w in words if w["end"]-w["start"]<0.05],
      "low_confidence_words":[w for w in words if w["probability"]<0.6],
      "paragraphs":len(paras),"paragraph_boundary_mismatches":[p["section"]+":p"+str(p["paragraph"]) for p in paras if not p["boundary_tokens_matched"]],
-     "scene_rows":len(rows),"authored_macro_beats":len(beats),"coverage_frames":24840,
+     "scene_rows":len(rows),"authored_macro_beats":len(beats),"coverage_frames":20700,
      "audio_locked":False,"auditory_review":"NOT_PERFORMED", "short_exports_measured":False,
      "input_hashes":{n:sha(n) for n in ["07_SCRIPT_FINAL.md","08_VOICE_SCRIPT.md","07_SHORTS_LOCK.csv","11_ASR_RAW.json","11_BEAT_INTENTS.json"]}})
 print(json.dumps({"words":len(words),"match":equal_tokens/len(expected),"differences":len(differences),
