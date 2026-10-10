@@ -41,3 +41,5 @@ jobs:
             git commit -m "video004 verified document source layer artifact receipt"
             git push origin HEAD:main
           fi
+
+# CSV field binding fix and source-layer preflight v1.1
