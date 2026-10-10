@@ -42,3 +42,5 @@ Reproduce: Python3.12 plus faster-whisper1.2.1 and av16.1.0; run11_TRANSCRIBE_LO
 review_correction: PASS_PROVISIONAL_STAGE11_PREPARATION / NOT_STAGE11_LOCK. All5inputhashes checked; coverage and8legalstandalone extracts accepted provisionally. See11_STAGE_QC.md for exact hashes and open auditory/anchor/cut-edge acceptance criteria. Medium.en recheck supports source wording at8first-model lexical flags; no genuine hearing claim.
 
 Owner revision 2026-10-10: exactly four production Shorts (SH01, SH02, SH04, SH08); former SH03, SH05, SH06, SH07 are archived candidates only. All four cut edges and full audio still require actual auditory QA before final lock. No export yet.
+
+Owner 2026-10-10: production Shorts are SH01, SH02, SH04, SH08 only. Other historical candidates are inactive. Audio audition and Shorts boundary verification remain pending.
