@@ -23,3 +23,5 @@ Every range is reviewed independently of neighboring paragraphs: identifiable su
 Independent retention and precision critics:4/4 selected text PASS. See06_V11_OWNER90_REVIEW.md. Audio, picture/edit and conversion QC remain NOT_RUN. Historical V09 estimates are superseded.
 
 Owner revision 2026-10-10: exactly four production Shorts (SH01, SH02, SH04, SH08); former SH03, SH05, SH06, SH07 are archived candidates only. All four cut edges and full audio still require actual auditory QA before final lock. No export yet.
+
+Owner correction 2026-10-10: exactly 4 production Shorts SH01/SH02/SH04/SH08. Other old candidates inactive; no extra exports.
