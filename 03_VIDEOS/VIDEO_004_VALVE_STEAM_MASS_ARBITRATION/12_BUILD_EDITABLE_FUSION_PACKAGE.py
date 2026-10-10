@@ -56,8 +56,28 @@ def subtext(row):
     if x=="EVIDENCE_STACK":return ["RECORD","RESPONSE"]
     if x=="EDITORIAL_QUESTION":return ["THE QUESTION","THE EVIDENCE"]
     return ["CLAIM","RESPONSE"]
+BEAT_TITLES={
+"B001":"ACCOUNT ACCESS","B002":"CLAIMANTS BECOME DEFENDANTS","B003":"THE ACCEPT BUTTON",
+"B004":"TWO SEPARATE DISPUTES","B005":"TWO CONTRACTS","B006":"THE FIRST ALLEGATIONS",
+"B007":"WHY ARBITRATION?","B008":"INDIVIDUAL-ONLY PROCEDURE","B009":"ONE FILE BECOMES MANY",
+"B010":"DATED CLAIMANT COUNTS","B011":"FILINGS ARE NOT VICTORIES","B012":"THE COST OF REPETITION",
+"B013":"THE MONEY QUESTION","B014":"$20M? UNVERIFIED","B015":"WHAT THE FEES COVER",
+"B016":"THE PUBLISHED SCHEDULE","B017":"THE FOUR-CLAIMANT TURN","B018":"FOUR CLAIMANTS",
+"B019":"CLAUSE CHALLENGED","B020":"DIFFERENT COHORTS","B021":"ALREADY IN PROCESS",
+"B022":"THE CASES DID NOT VANISH","B023":"SEPTEMBER 2024","B024":"CAN NEW TERMS APPLY?",
+"B025":"WHAT DID THEY ACCEPT?","B026":"ACCESS VERSUS LICENSE","B027":"LICENSES / ACCOUNT USE",
+"B028":"ACCEPTANCE EVIDENCE","B029":"THE CLICK'S TWO SIDES","B030":"WHO DECIDES?",
+"B031":"AAA DID NOT CLOSE THEM","B032":"THE LEGAL DECISION","B033":"SEPTEMBER / OCTOBER",
+"B034":"VALVE REQUESTS A STOP","B035":"FIRST FILING STRUCK","B036":"LAWSUIT IS NOT RELIEF",
+"B037":"COUNTS CHANGE","B038":"THE REVERSAL","B039":"AN EMERGENCY STANDARD",
+"B040":"PRELIMINARY INJUNCTION","B041":"WORK ALREADY DONE","B042":"THE ACTIVE CASES",
+"B043":"OLD TERMS / NEW TERMS","B044":"PRELIMINARY DENIAL","B045":"AS APPLIED","B046":"THE FAIRNESS QUESTION",
+"B047":"EMERGENCY STANDARD","B048":"THE CLICK DID NOT SETTLE IT","B049":"CERTIFIED APPEAL",
+"B050":"TWO DIFFERENT QUESTIONS","B051":"APPEAL IS NOT REVERSAL","B052":"A DOCKET SNAPSHOT",
+"B053":"THE OPEN CONTRACT FIGHT","B054":"WHAT REMAINS OPEN"
+}
 info={"status":"175_EDITABLE_FUSION_COMPS_BUILT_NOT_RENDER_QC","frame_rate":25,"frame_width":1920,"frame_height":1080,
-      "subtitle_safe_y_start":864,"source_artifact_run":38057742171,"master_sha256":"8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7",
+      "subtitle_safe_y_start":918,"source_artifact_run":38057742171,"master_sha256":"8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7",
       "active_shorts":["SH01","SH02","SH04","SH08"],"shots":[],"source_assets":len(source["source_crops"])}
 Image.new("RGB",(1920,1080),(31,31,31)).save(MEDIA/"EDIT_BASE.png")
 for row in shotlist:
@@ -89,7 +109,7 @@ for row in shotlist:
         last="BrandMerge"
         section_id=chapter
         # Avoid unsourced quotations. Editor-native story labels are not narration captions.
-        title=label(chapter)
+        title=BEAT_TITLES.get(row["beat_id"],label(chapter))
         # The source shot table omits script_ref; refer to canonical mapping in shot metadata below.
         if title=="WHAT IT COST":title="VALVE / STEAM"
         if not isdoc:
@@ -109,6 +129,14 @@ for row in shotlist:
                 nodes+=merge("MergeRight",last,"PanelRight","CounterpositionIn")
                 last="MergeRight"
                 left,right=subtext(row)
+                if chapter=="S03":left,right="DATED DEMANDS","DATED CLAIMANTS"
+                elif chapter=="S04":left,right="$20M? UNVERIFIED","VERIFIED FEE SCHEDULE"
+                elif chapter=="S06":left,right="OLDER TERMS","UPDATED TERMS"
+                elif chapter=="S07":left,right="ACCESS CONCERN","VALVE RESPONSE"
+                elif chapter=="S08":left,right="AAA REQUEST","AAA RESPONSE"
+                elif chapter=="S09":left,right="VALVE FILING","COURT PROCESS"
+                elif chapter=="S11":left,right="PRELIMINARY","AS APPLIED"
+                elif chapter=="S12":left,right="CERTIFIED ISSUE","DISTRICT STAY"
                 nodes+=textbox("LeftLabel",left,.275,.48,.037)
                 nodes+=merge("MergeLeftLabel",last,"LeftLabel")
                 last="MergeLeftLabel"
