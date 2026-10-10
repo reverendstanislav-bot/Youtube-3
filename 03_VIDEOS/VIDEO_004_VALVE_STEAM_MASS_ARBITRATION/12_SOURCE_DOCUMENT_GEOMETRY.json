@@ -1,0 +1,1480 @@
+{
+  "status": "SOURCE_PDF_GEOMETRY_PREFLIGHT",
+  "source_count": 4,
+  "sources": {
+    "S004": {
+      "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+      "status": "PDF_FETCHED_AND_PARSED",
+      "matches": [
+        {
+          "purpose": "2023 contract contextual reference",
+          "query": "April 25, 2023",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                418.32,
+                511.79,
+                496.75,
+                529.88
+              ],
+              "line_rect_normalized": [
+                0.68353,
+                0.6462,
+                0.81169,
+                0.66905
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "2012 arbitration origin",
+          "query": "individual binding arbitration",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                330.12,
+                454.07,
+                496.57,
+                472.16
+              ],
+              "line_rect_normalized": [
+                0.53941,
+                0.57332,
+                0.81139,
+                0.59617
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "first claims count",
+          "query": "997",
+          "match_count": 2,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                244.44,
+                627.23,
+                264.55,
+                645.32
+              ],
+              "line_rect_normalized": [
+                0.39941,
+                0.79195,
+                0.43227,
+                0.8148
+              ]
+            },
+            {
+              "page_index_zero_based": 14,
+              "printed_page_number": 15,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                488.04,
+                69.47,
+                508.03,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.79745,
+                0.08771,
+                0.83012,
+                0.11056
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "claimant total",
+          "query": "4,991 claimants",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 3,
+              "printed_page_number": 4,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                305.64,
+                69.47,
+                393.52,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.49941,
+                0.08771,
+                0.643,
+                0.11056
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "defendants count",
+          "query": "572 Defendants",
+          "match_count": 4,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 3,
+              "printed_page_number": 4,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                374.4,
+                98.27,
+                461.56,
+                116.36
+              ],
+              "line_rect_normalized": [
+                0.61176,
+                0.12408,
+                0.75418,
+                0.14692
+              ]
+            },
+            {
+              "page_index_zero_based": 8,
+              "printed_page_number": 9,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                253.44,
+                329.15,
+                340.6,
+                347.24
+              ],
+              "line_rect_normalized": [
+                0.41412,
+                0.41559,
+                0.55653,
+                0.43844
+              ]
+            },
+            {
+              "page_index_zero_based": 10,
+              "printed_page_number": 11,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                334.68,
+                281.03,
+                421.84,
+                299.12
+              ],
+              "line_rect_normalized": [
+                0.54686,
+                0.35483,
+                0.68928,
+                0.37768
+              ]
+            },
+            {
+              "page_index_zero_based": 10,
+              "printed_page_number": 11,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                327.12,
+                482.99,
+                414.28,
+                501.08
+              ],
+              "line_rect_normalized": [
+                0.53451,
+                0.60983,
+                0.67692,
+                0.63268
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "four claimant turning point",
+          "query": "four of the twenty-five",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 3,
+              "printed_page_number": 4,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                209.28,
+                155.99,
+                332.52,
+                174.08
+              ],
+              "line_rect_normalized": [
+                0.34196,
+                0.19695,
+                0.54333,
+                0.2198
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "Steam contract change date",
+          "query": "September 26, 2024",
+          "match_count": 6,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 3,
+              "printed_page_number": 4,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                128.04,
+                526.31,
+                237.91,
+                544.4
+              ],
+              "line_rect_normalized": [
+                0.20922,
+                0.66453,
+                0.38875,
+                0.68738
+              ]
+            },
+            {
+              "page_index_zero_based": 5,
+              "printed_page_number": 6,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                212.4,
+                98.27,
+                322.15,
+                116.36
+              ],
+              "line_rect_normalized": [
+                0.34706,
+                0.12408,
+                0.52639,
+                0.14692
+              ]
+            },
+            {
+              "page_index_zero_based": 5,
+              "printed_page_number": 6,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                229.8,
+                534.83,
+                339.67,
+                552.92
+              ],
+              "line_rect_normalized": [
+                0.37549,
+                0.67529,
+                0.55502,
+                0.69814
+              ]
+            },
+            {
+              "page_index_zero_based": 6,
+              "printed_page_number": 7,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                468.96,
+                410.15,
+                532.06,
+                428.24
+              ],
+              "line_rect_normalized": [
+                0.76627,
+                0.51786,
+                0.86937,
+                0.54071
+              ]
+            },
+            {
+              "page_index_zero_based": 6,
+              "printed_page_number": 7,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                72.0,
+                438.95,
+                118.75,
+                457.04
+              ],
+              "line_rect_normalized": [
+                0.11765,
+                0.55423,
+                0.19404,
+                0.57708
+              ]
+            },
+            {
+              "page_index_zero_based": 7,
+              "printed_page_number": 8,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                233.16,
+                69.47,
+                343.03,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.38098,
+                0.08771,
+                0.56051,
+                0.11056
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "retroactive rule",
+          "query": "retroactive forum",
+          "match_count": 8,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                152.16,
+                155.99,
+                248.99,
+                174.08
+              ],
+              "line_rect_normalized": [
+                0.24863,
+                0.19695,
+                0.40684,
+                0.2198
+              ]
+            },
+            {
+              "page_index_zero_based": 4,
+              "printed_page_number": 5,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                239.76,
+                69.47,
+                336.47,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.39176,
+                0.08771,
+                0.54978,
+                0.11056
+              ]
+            },
+            {
+              "page_index_zero_based": 16,
+              "printed_page_number": 17,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                438.96,
+                127.19,
+                535.79,
+                145.28
+              ],
+              "line_rect_normalized": [
+                0.71725,
+                0.16059,
+                0.87547,
+                0.18344
+              ]
+            },
+            {
+              "page_index_zero_based": 18,
+              "printed_page_number": 19,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                202.08,
+                69.47,
+                298.91,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.3302,
+                0.08771,
+                0.48841,
+                0.11056
+              ]
+            },
+            {
+              "page_index_zero_based": 22,
+              "printed_page_number": 23,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                173.52,
+                300.23,
+                270.23,
+                318.32
+              ],
+              "line_rect_normalized": [
+                0.28353,
+                0.37908,
+                0.44155,
+                0.40192
+              ]
+            },
+            {
+              "page_index_zero_based": 26,
+              "printed_page_number": 27,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                132.72,
+                69.47,
+                229.55,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.21686,
+                0.08771,
+                0.37508,
+                0.11056
+              ]
+            },
+            {
+              "page_index_zero_based": 26,
+              "printed_page_number": 27,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                179.64,
+                381.95,
+                276.47,
+                400.04
+              ],
+              "line_rect_normalized": [
+                0.29353,
+                0.48226,
+                0.45175,
+                0.50511
+              ]
+            },
+            {
+              "page_index_zero_based": 30,
+              "printed_page_number": 31,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                332.64,
+                456.59,
+                429.47,
+                474.68
+              ],
+              "line_rect_normalized": [
+                0.54353,
+                0.5765,
+                0.70174,
+                0.59935
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "AAA refusal",
+          "query": "AAA declined",
+          "match_count": 2,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 8,
+              "printed_page_number": 9,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                272.16,
+                598.43,
+                347.45,
+                616.52
+              ],
+              "line_rect_normalized": [
+                0.44471,
+                0.75559,
+                0.56773,
+                0.77844
+              ]
+            },
+            {
+              "page_index_zero_based": 10,
+              "printed_page_number": 11,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                165.12,
+                165.59,
+                240.41,
+                183.68
+              ],
+              "line_rect_normalized": [
+                0.2698,
+                0.20908,
+                0.39282,
+                0.23192
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "Valve civil case procedural filing",
+          "query": "struck the petition",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 10,
+              "printed_page_number": 11,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                433.69,
+                223.31,
+                536.78,
+                241.4
+              ],
+              "line_rect_normalized": [
+                0.70864,
+                0.28195,
+                0.87709,
+                0.3048
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "ruling qualification",
+          "query": "unconscionable as applied",
+          "match_count": 8,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 16,
+              "printed_page_number": 17,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                206.04,
+                155.99,
+                350.21,
+                174.08
+              ],
+              "line_rect_normalized": [
+                0.33667,
+                0.19695,
+                0.57224,
+                0.2198
+              ]
+            },
+            {
+              "page_index_zero_based": 22,
+              "printed_page_number": 23,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                443.76,
+                300.23,
+                531.57,
+                318.32
+              ],
+              "line_rect_normalized": [
+                0.7251,
+                0.37908,
+                0.86859,
+                0.40192
+              ]
+            },
+            {
+              "page_index_zero_based": 22,
+              "printed_page_number": 23,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                72.0,
+                329.15,
+                128.57,
+                347.24
+              ],
+              "line_rect_normalized": [
+                0.11765,
+                0.41559,
+                0.21008,
+                0.43844
+              ]
+            },
+            {
+              "page_index_zero_based": 22,
+              "printed_page_number": 23,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                410.88,
+                370.6,
+                528.68,
+                388.07
+              ],
+              "line_rect_normalized": [
+                0.67137,
+                0.46792,
+                0.86386,
+                0.48998
+              ]
+            },
+            {
+              "page_index_zero_based": 22,
+              "printed_page_number": 23,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                158.4,
+                385.24,
+                205.28,
+                402.71
+              ],
+              "line_rect_normalized": [
+                0.25882,
+                0.48641,
+                0.33543,
+                0.50847
+              ]
+            },
+            {
+              "page_index_zero_based": 26,
+              "printed_page_number": 27,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                396.24,
+                69.47,
+                499.54,
+                87.56
+              ],
+              "line_rect_normalized": [
+                0.64745,
+                0.08771,
+                0.81624,
+                0.11056
+              ]
+            },
+            {
+              "page_index_zero_based": 26,
+              "printed_page_number": 27,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                72.0,
+                98.27,
+                112.97,
+                116.36
+              ],
+              "line_rect_normalized": [
+                0.11765,
+                0.12408,
+                0.18459,
+                0.14692
+              ]
+            },
+            {
+              "page_index_zero_based": 30,
+              "printed_page_number": 31,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                72.0,
+                485.39,
+                216.29,
+                503.48
+              ],
+              "line_rect_normalized": [
+                0.11765,
+                0.61286,
+                0.35342,
+                0.63571
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "preliminary conclusion",
+          "query": "motion fails",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 30,
+              "printed_page_number": 31,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                379.68,
+                514.19,
+                445.24,
+                532.28
+              ],
+              "line_rect_normalized": [
+                0.62039,
+                0.64923,
+                0.72751,
+                0.67208
+              ]
+            }
+          ]
+        }
+      ],
+      "errors": [],
+      "sha256": "ae27eece128a32bf7619a32e6394163e59858d9d3b117469e49176e8a6b837aa",
+      "bytes": 566527,
+      "page_count": 32
+    },
+    "S005": {
+      "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/0.pdf",
+      "status": "PDF_FETCHED_AND_PARSED",
+      "matches": [
+        {
+          "purpose": "appellate certification",
+          "query": "CERTIFIES",
+          "match_count": 1,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 5,
+              "printed_page_number": 6,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                433.2,
+                98.27,
+                501.24,
+                116.36
+              ],
+              "line_rect_normalized": [
+                0.70784,
+                0.12408,
+                0.81902,
+                0.14692
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "appeal stay",
+          "query": "STAYED pending",
+          "match_count": 2,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 4,
+              "printed_page_number": 5,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                72.0,
+                309.83,
+                170.6,
+                327.92
+              ],
+              "line_rect_normalized": [
+                0.11765,
+                0.3912,
+                0.27876,
+                0.41405
+              ]
+            },
+            {
+              "page_index_zero_based": 5,
+              "printed_page_number": 6,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                318.36,
+                155.99,
+                416.96,
+                174.08
+              ],
+              "line_rect_normalized": [
+                0.52019,
+                0.19695,
+                0.68131,
+                0.2198
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "court grant",
+          "query": "GRANTS the motion",
+          "match_count": 2,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                188.52,
+                543.83,
+                303.73,
+                561.92
+              ],
+              "line_rect_normalized": [
+                0.30804,
+                0.68665,
+                0.49629,
+                0.7095
+              ]
+            },
+            {
+              "page_index_zero_based": 4,
+              "printed_page_number": 5,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                391.08,
+                127.19,
+                506.29,
+                145.28
+              ],
+              "line_rect_normalized": [
+                0.63902,
+                0.16059,
+                0.82727,
+                0.18344
+              ]
+            }
+          ]
+        }
+      ],
+      "errors": [],
+      "sha256": "0869aa0738e4d93a3f494b194e89eac749742b434effa864126e4158424a55d8",
+      "bytes": 166681,
+      "page_count": 6
+    },
+    "S006": {
+      "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+      "status": "PDF_FETCHED_AND_PARSED",
+      "matches": [
+        {
+          "purpose": "fee mechanism",
+          "query": "Initiation Fee",
+          "match_count": 8,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                36.0,
+                329.63,
+                84.45,
+                340.53
+              ],
+              "line_rect_normalized": [
+                0.04545,
+                0.53861,
+                0.10662,
+                0.55642
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                46.61,
+                423.28,
+                100.09,
+                434.27
+              ],
+              "line_rect_normalized": [
+                0.05885,
+                0.69164,
+                0.12637,
+                0.7096
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                52.88,
+                446.65,
+                103.86,
+                457.55
+              ],
+              "line_rect_normalized": [
+                0.06677,
+                0.72982,
+                0.13114,
+                0.74763
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                210.11,
+                457.65,
+                261.09,
+                468.55
+              ],
+              "line_rect_normalized": [
+                0.26529,
+                0.74779,
+                0.32965,
+                0.7656
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                488.92,
+                468.64,
+                539.9,
+                479.54
+              ],
+              "line_rect_normalized": [
+                0.61732,
+                0.76576,
+                0.68169,
+                0.78357
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                80.08,
+                479.64,
+                128.79,
+                490.54
+              ],
+              "line_rect_normalized": [
+                0.10111,
+                0.78373,
+                0.16261,
+                0.80154
+              ]
+            },
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                582.86,
+                128.64,
+                633.84,
+                139.54
+              ],
+              "line_rect_normalized": [
+                0.73594,
+                0.21019,
+                0.8003,
+                0.228
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                653.54,
+                223.05,
+                704.52,
+                233.95
+              ],
+              "line_rect_normalized": [
+                0.82518,
+                0.36447,
+                0.88954,
+                0.38228
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "fee administration",
+          "query": "Administrative Fees",
+          "match_count": 8,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                59.61,
+                293.24,
+                159.31,
+                306.67
+              ],
+              "line_rect_normalized": [
+                0.07526,
+                0.47916,
+                0.20115,
+                0.5011
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                594.29,
+                318.63,
+                669.12,
+                329.53
+              ],
+              "line_rect_normalized": [
+                0.75036,
+                0.52064,
+                0.84485,
+                0.53845
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                334.81,
+                375.64,
+                409.64,
+                386.54
+              ],
+              "line_rect_normalized": [
+                0.42274,
+                0.61379,
+                0.51723,
+                0.6316
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                162.74,
+                398.64,
+                237.57,
+                409.54
+              ],
+              "line_rect_normalized": [
+                0.20548,
+                0.65138,
+                0.29996,
+                0.66919
+              ]
+            },
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                303.72,
+                528.03,
+                378.56,
+                538.93
+              ],
+              "line_rect_normalized": [
+                0.38349,
+                0.8628,
+                0.47798,
+                0.88061
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                267.04,
+                127.67,
+                366.75,
+                141.1
+              ],
+              "line_rect_normalized": [
+                0.33718,
+                0.20861,
+                0.46307,
+                0.23055
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                195.53,
+                153.06,
+                270.37,
+                163.96
+              ],
+              "line_rect_normalized": [
+                0.24688,
+                0.25009,
+                0.34137,
+                0.2679
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                223.66,
+                491.06,
+                298.49,
+                501.96
+              ],
+              "line_rect_normalized": [
+                0.2824,
+                0.80238,
+                0.37688,
+                0.82019
+              ]
+            }
+          ]
+        },
+        {
+          "purpose": "mass arbitration",
+          "query": "CONSUMER MASS ARBITRATION",
+          "match_count": 5,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                36.0,
+                51.75,
+                236.9,
+                75.67
+              ],
+              "line_rect_normalized": [
+                0.04545,
+                0.08456,
+                0.29912,
+                0.12364
+              ]
+            },
+            {
+              "page_index_zero_based": 0,
+              "printed_page_number": 1,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                54.83,
+                129.63,
+                163.83,
+                140.53
+              ],
+              "line_rect_normalized": [
+                0.06923,
+                0.21182,
+                0.20685,
+                0.22963
+              ]
+            },
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                493.73,
+                25.43,
+                612.3,
+                38.18
+              ],
+              "line_rect_normalized": [
+                0.6234,
+                0.04156,
+                0.77311,
+                0.06239
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                493.73,
+                25.43,
+                612.3,
+                38.18
+              ],
+              "line_rect_normalized": [
+                0.6234,
+                0.04156,
+                0.77311,
+                0.06239
+              ]
+            },
+            {
+              "page_index_zero_based": 3,
+              "printed_page_number": 4,
+              "page_size_pdf_pt": [
+                792.0,
+                612.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                493.73,
+                25.43,
+                612.3,
+                38.18
+              ],
+              "line_rect_normalized": [
+                0.6234,
+                0.04156,
+                0.77311,
+                0.06239
+              ]
+            }
+          ]
+        }
+      ],
+      "errors": [],
+      "sha256": "d95797aabf9519191058ce9e70615c512c47ab02f627f98cee80fb8b69f2f9ec",
+      "bytes": 471719,
+      "page_count": 4
+    },
+    "S007": {
+      "url": "https://www.courts.wa.gov/opinions/pdf/865854.pdf",
+      "status": "PDF_FETCHED_AND_PARSED",
+      "matches": [
+        {
+          "purpose": "separate Bucher litigation",
+          "query": "Bucher Law",
+          "match_count": 2,
+          "exact_pdf_geometry": true,
+          "hits": [
+            {
+              "page_index_zero_based": 1,
+              "printed_page_number": 2,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                83.64,
+                307.68,
+                163.49,
+                324.06
+              ],
+              "line_rect_normalized": [
+                0.13667,
+                0.38848,
+                0.26714,
+                0.40917
+              ]
+            },
+            {
+              "page_index_zero_based": 2,
+              "printed_page_number": 3,
+              "page_size_pdf_pt": [
+                612.0,
+                792.0
+              ],
+              "line_rect_pdf_pt_top_left": [
+                400.68,
+                153.6,
+                464.42,
+                169.98
+              ],
+              "line_rect_normalized": [
+                0.65471,
+                0.19394,
+                0.75886,
+                0.21462
+              ]
+            }
+          ]
+        }
+      ],
+      "errors": [],
+      "sha256": "60db617047148538cc0f929a957166c2844e715c8e5372ae44a52c422ed5f951",
+      "bytes": 395061,
+      "page_count": 18
+    }
+  },
+  "coordinate_convention": "PDF points from PyMuPDF, origin top-left, 0-based page number, source page width/height, not timeline pixels. Revalidate after choosing actual source crop/transform.",
+  "no_document_replica": true
+}
