@@ -1,0 +1,47 @@
+name: VIDEO004 Harrison V11 Audio Master
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_audio_master.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Download locked Harrison audio A B C
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p audio
+          curl --fail --location --retry 2 --connect-timeout 10 --max-time 120 'https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261010_085330_d72c01ce-3a67-4e9a-92b9-3333a609921c.mp3' -o audio/A.mp3
+          curl --fail --location --retry 2 --connect-timeout 10 --max-time 120 'https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261010_085340_7ad513f0-00a1-4360-b8bf-8faf1717a348.mp3' -o audio/B.mp3
+          curl --fail --location --retry 2 --connect-timeout 10 --max-time 120 'https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261010_085342_1216264c-c198-4667-91e4-7c0a38a6527a.mp3' -o audio/C.mp3
+          test -s audio/A.mp3 && test -s audio/B.mp3 && test -s audio/C.mp3
+      - name: Verify inputs and assemble lossless PCM
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          printf "file 'A.mp3'\nfile 'B.mp3'\nfile 'C.mp3'\n" > audio/concat.txt
+          for x in A B C; do
+            ffprobe -v error -show_entries format=duration,size -of default=nw=1 "audio/$x.mp3" | tee "audio/${x}_probe.txt"
+            ffmpeg -v error -xerror -i "audio/$x.mp3" -f null -
+          done
+          ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i audio/concat.txt -ar 48000 -ac 2 -c:a pcm_s24le audio/VIDEO004_HARRISON_V11_MASTER.wav
+          ffmpeg -v error -xerror -i audio/VIDEO004_HARRISON_V11_MASTER.wav -f null -
+          ffprobe -v error -show_entries stream=codec_name,sample_rate,channels -show_entries format=duration,size -of default=nw=1 audio/VIDEO004_HARRISON_V11_MASTER.wav | tee audio/MASTER_PROBE.txt
+          sha256sum audio/*.mp3 audio/*.wav | tee audio/SHA256SUMS.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO004_HARRISON_V11_MASTER_AND_SOURCES
+          path: |
+            audio/*.mp3
+            audio/*.wav
+            audio/*_probe.txt
+            audio/MASTER_PROBE.txt
+            audio/SHA256SUMS.txt
+          if-no-files-found: error
