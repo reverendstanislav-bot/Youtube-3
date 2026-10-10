@@ -9,8 +9,8 @@ created: "2026-10-05"
 last_updated: "2026-10-10"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Render/check representative DaVinci Resolve motion comps and remaining HTML/real-source visuals; complete Stage10/11 auditory lock; no paid generation"
-blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL"]
+next_action: "Start in-app resolve_bridge; save current project then test repaired canary8 runtime/motion; genuine auditory QC; full175 HOLD; no spend"
+blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "RESOLVE_SCRIPTING_BRIDGE_UNAVAILABLE"]
 
 stages:
   stage_00_topic_qualification: "PASS"

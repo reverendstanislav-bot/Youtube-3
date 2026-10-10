@@ -1,0 +1,57 @@
+{
+  "run_kind": "VIDEO004_CANARY_8",
+  "status": "PRECHECK_PASS",
+  "resolve_runtime_tested": false,
+  "real_time_visual_qc": "NOT_RUN",
+  "audio_listening_qc": "NOT_RUN",
+  "report_generated_utc": "2026-10-10T22:03:19.799410+00:00",
+  "source_artifact": "VIDEO004_RESOLVE_EDITABLE_COMPS_V1_LATEST.zip",
+  "checks": [],
+  "static_fusion_checks": [
+    {
+      "shot": "SH-001",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-002",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-003",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-004",
+      "sourceop_refs": 10,
+      "declared_tools": 11
+    },
+    {
+      "shot": "SH-005",
+      "sourceop_refs": 10,
+      "declared_tools": 11
+    },
+    {
+      "shot": "SH-006",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-007",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-008",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    }
+  ],
+  "first_shot_frame": 0,
+  "last_shot_frame": 765,
+  "expected_duration_seconds": 30.6,
+  "video_plate_sha256": "7e80414890df36a28426c54c0bf687f6b0520822576199e79a10c27ac5035733",
+  "audio_canary_sha256": "54d74f990c46c716f63311190e426634845afa322bf7c30033cf6b5d69666510"
+}

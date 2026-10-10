@@ -66,3 +66,7 @@ Owner authorized verify existing audio and immediately start11. ExistingActions3
 LocalPythonfallback afterHyperFrameswhisper_unavailable; faster-whisper1.2.1/small.en full1951words, medium.en8flaggedwindows supports sourcewording. Rawrecognizerfilesretained; no ASRscore presentedasmeaningaccuracy/actualhearing.54authoredbeats/123paragraphanchors/124cue rows cover0–828plannedseconds;808–828isfuture20ssilentend screen.8contiguoussame-audioShortcuts plus3CTAplanned18.18–21.66s, noexports.
 
 Independentv08_precision PASS_PROVENANCE/PASS_ASR_COVERAGE_WITH_REVIEW_FLAGS; review_correction PASS_PROVISIONAL_STAGE11_PREPARATION. Full auditoryQC/cut-edgeauditions pending; audio_master/visual_timeline locksfalse. Manifest/index/STATE reconciled atcurrent10, Stage11PROVISIONAL, noStage12. Dirty originalcheckoutV2/V3andstaged09preserved; cleanworktreebasedorigin67b940a used for thisboundedcommit.07canonical/08payloads/07Shortlockunmodified. See10_AUDIO_MASTER.md/11_VISUAL_TIMELINE.md/11_STAGE_QC.md.
+
+## 2026-10-10 - Actual Windows execution attempt
+
+Master/canary hashes and local preflight verified; installed Resolve scripting disconnected. Added exact errors/remediation and preflight JSON. No real import/render/listening or new lock. SSA/Dkt192/mirror revisited; official fresh appellate record unresolved. No generation/spend.

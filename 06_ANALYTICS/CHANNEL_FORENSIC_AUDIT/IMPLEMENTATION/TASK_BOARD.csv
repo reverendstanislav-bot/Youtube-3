@@ -1,18 +1,18 @@
-"id","horizon","status","action","depends_on","acceptance","evidence"
-"R01","48h","DONE","Создать операционные реестры","none","README+tracking files committed","IMPLEMENTATION/README_RU.md"
-"R02","48h","READY","Выгрузить Studio по3long/26Shorts","R01","CSV periods,source,timezone,availability; historical baseline preserved",""
-"R03","48h","READY","Проверить release receipts без повторного скачивания","R01","current exact masters mapped to hash/source/technical/auditory limits",""
-"R04","48h","READY","004 слуховой QC текущего808sмастера","currentmanifest","full listening plus8flags and2joins; recordedreviewer/time/version",""
-"R05","48h","READY","004 реальный Resolve canary8","currentmanifest,12_CANARY8_WINDOWS_HANDOFF_V2","actual import/runtime/motion/readability verdict, no staticPASS substitute",""
-"R06","48h","READY","eBay хвост и DK timestamps","R03","actual playback last10s andDK988–1008s; binduploadedcandidate",""
-"R07","48h","READY","Зафиксировать текущие3nativeA/B","R02","variants/start/end/result orINCONCLUSIVE; noreset",""
-"R08","48h","READY","Проверить Home/playlists/end screens","R02","datedactualconfig, issue-specific remedy; nohistoricalassumption",""
-"R09","14d","WAITING","004/005 opening/promise review","R04,R05","5/15/30/60map+legalaccuracy+coldcomprehension; canonicalchangeonlyreviewed",""
-"R10","14d","WAITING","Запустить один packagingfactor","R07","existingABfinished; E01orE02 actuallydated, fixedotherfactor",""
-"R11","14d","WAITING","ПодготовитьShorts hook-pairs","R02,R09","6pairs<=30scontiguousaudio, nohardfail; APV/feeddenominator available",""
-"R12","14d","WAITING","НаблюдатьT24/72/T7Shorts","R11","actualtimedexports; finalT7Day21/28, inadequateNINCONCLUSIVE",""
-"R13","30d","WAITING","Проверитьlayoutотдельно","R12","E12samecontent/audio; nojointnewhook",""
-"R14","30d","WAITING","CTAотдельно","R13","E08attributionexportelseUNKNOWN",""
-"R15","30d","READY","Собиратьвремя/credits/rework","R01","perstagehours/quotedvsdebited/retryjobIDs, nofabricatedaverages",""
-"R16","30d","WAITING","Решение cadence поcapacity","R15,2fullPASS","actualhours+oneverifiedbacklog; noautomaticreschedule",""
-"R17","30d","WAITING","Решениеtopicпосле005","locked004→005","currentprimarysources+matrix+budget; noautomaticbroadpivot",""
+id,horizon,status,action,depends_on,acceptance,evidence
+R01,48h,DONE,Создать операционные реестры,none,README+tracking files committed,IMPLEMENTATION/README_RU.md
+R02,48h,READY,Выгрузить Studio по3long/26Shorts,R01,"CSV periods,source,timezone,availability; historical baseline preserved",IMPLEMENTATION/EXECUTION_20261010.md
+R03,48h,READY,Проверить release receipts без повторного скачивания,R01,current exact masters mapped to hash/source/technical/auditory limits,
+R04,48h,BLOCKED,004 слуховой QC текущего808sмастера,currentmanifest,full listening plus8flags and2joins; recordedreviewer/time/version,../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_WINDOWS_EXECUTION_20261010.md
+R05,48h,BLOCKED,004 реальный Resolve canary8,"currentmanifest,12_CANARY8_WINDOWS_HANDOFF_V2","actual import/runtime/motion/readability verdict, no staticPASS substitute",../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_WINDOWS_EXECUTION_20261010.md
+R06,48h,READY,eBay хвост и DK timestamps,R03,actual playback last10s andDK988–1008s; binduploadedcandidate,
+R07,48h,DONE,Зафиксировать текущие3nativeA/B,R02,variants/start/end/result orINCONCLUSIVE; noreset,evidence/studio_refresh_20261010_2209Z.json
+R08,48h,READY,Проверить Home/playlists/end screens,R02,"datedactualconfig, issue-specific remedy; nohistoricalassumption",IMPLEMENTATION/EXECUTION_20261010.md
+R09,14d,WAITING,004/005 opening/promise review,"R04,R05",5/15/30/60map+legalaccuracy+coldcomprehension; canonicalchangeonlyreviewed,
+R10,14d,WAITING,Запустить один packagingfactor,R07,"existingABfinished; E01orE02 actuallydated, fixedotherfactor",
+R11,14d,WAITING,ПодготовитьShorts hook-pairs,"R02,R09","6pairs<=30scontiguousaudio, nohardfail; APV/feeddenominator available",
+R12,14d,WAITING,НаблюдатьT24/72/T7Shorts,R11,"actualtimedexports; finalT7Day21/28, inadequateNINCONCLUSIVE",
+R13,30d,WAITING,Проверитьlayoutотдельно,R12,E12samecontent/audio; nojointnewhook,
+R14,30d,WAITING,CTAотдельно,R13,E08attributionexportelseUNKNOWN,
+R15,30d,READY,Собиратьвремя/credits/rework,R01,"perstagehours/quotedvsdebited/retryjobIDs, nofabricatedaverages",
+R16,30d,WAITING,Решение cadence поcapacity,"R15,2fullPASS",actualhours+oneverifiedbacklog; noautomaticreschedule,
+R17,30d,WAITING,Решениеtopicпосле005,locked004→005,currentprimarysources+matrix+budget; noautomaticbroadpivot,
