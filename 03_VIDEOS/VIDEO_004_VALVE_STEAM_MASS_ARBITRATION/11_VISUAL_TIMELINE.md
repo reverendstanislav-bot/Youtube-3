@@ -18,17 +18,13 @@ Evidence-first, no generated filings/signatures/SteamUI/acceptance pop-ups passe
 
 Picture remains stable: no shake, jumping crops, universal drift or alternating zoom directions. Default straight cuts at evidence/idea changes; hold through explanatory paragraphs where the same evidence continues. Use a named source detail for any deliberate move, and land/hold before reading. Split long evidence passages into useful detail views later, not decorative timer cuts. English visible editorial text only; no burned speech captions.
 
-## Eight Shorts — actual-master ASR anchored, NOT exported
+## Four selected Shorts — ASR anchored, NOT exported
 
 |Short|Master in|Master out|Audio cut(s)|+3s CTA planned(s)|
 |---|---|---|---:|---:|
 |SH01|00:00:00.000|00:00:18.660|18.66|21.66|
 |SH02|00:01:58.200|00:02:15.820|17.62|20.62|
-|SH03|00:02:57.220|00:03:14.920|17.7|20.7|
 |SH04|00:04:45.260|00:05:00.440|15.18|18.18|
-|SH05|00:05:44.180|00:05:59.960|15.78|18.78|
-|SH06|00:06:55.300|00:07:10.980|15.68|18.68|
-|SH07|00:07:47.600|00:08:03.840|16.24|19.24|
 |SH08|00:10:27.640|00:10:45.960|18.32|21.32|
 
 One contiguous source range each. No rewrite, reorder, speedup or separateShortsTTS. Start/end padding never borrows adjacent narration; boundaries still need audition against the waveform, particularly no-gapSH05/06/07/08 edges. Some spoken extracts are below preferred20s: do not add filler or stretch delivery to hit that preference. Owner hard maximum30s takes precedence.
@@ -44,3 +40,5 @@ Reproduce: Python3.12 plus faster-whisper1.2.1 and av16.1.0; run11_TRANSCRIBE_LO
 ## Independent preparation verdict
 
 review_correction: PASS_PROVISIONAL_STAGE11_PREPARATION / NOT_STAGE11_LOCK. All5inputhashes checked; coverage and8legalstandalone extracts accepted provisionally. See11_STAGE_QC.md for exact hashes and open auditory/anchor/cut-edge acceptance criteria. Medium.en recheck supports source wording at8first-model lexical flags; no genuine hearing claim.
+
+Owner revision 2026-10-10: exactly four production Shorts (SH01, SH02, SH04, SH08); former SH03, SH05, SH06, SH07 are archived candidates only. All four cut edges and full audio still require actual auditory QA before final lock. No export yet.
