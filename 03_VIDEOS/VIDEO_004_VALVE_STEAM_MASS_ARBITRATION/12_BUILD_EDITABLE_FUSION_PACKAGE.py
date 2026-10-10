@@ -31,7 +31,7 @@ def bg(name,hexcolor,alpha=1.0,mask=None):
     return node(name,"Background",x)
 def textbox(name,txt,x,y,size,font="Inter",color="#EDEDED"):
     rr=[int(color[i:i+2],16)/255 for i in (1,3,5)]
-    ins=inp("StyledText",'StyledText { Value = "'+esc(txt)+'" }')
+    ins=inp("StyledText",'"'+esc(txt)+'"')
     ins+=inp("Font",'"'+font+'"')+inp("Size",size)
     ins+=inp("Center",'{ '+str(round(x,4))+', '+str(round(y,4))+' }')
     ins+=inp("Red1",round(rr[0],5))+inp("Green1",round(rr[1],5))+inp("Blue1",round(rr[2],5))
