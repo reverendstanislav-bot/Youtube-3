@@ -27,7 +27,8 @@ def run(root,master,canary=8,all_shots=False):
     resolve=connect_resolve()
     pm=resolve.GetProjectManager()
     name="VIDEO004_FUSION_EDIT_REVIEW_"+("FULL" if all_shots else "CANARY_%02d"%canary)
-    if pm.LoadProject(name):raise RuntimeError("Project already exists. No overwrite; choose a new name.")
+    existing=pm.GetProjectListInCurrentFolder() or []
+    if name in existing:raise RuntimeError("Project already exists. No overwrite; choose a new name.")
     project=pm.CreateProject(name)
     if not project:raise RuntimeError("Cannot create Resolve project")
     for k,v in (("timelineFrameRate","25"),("timelineResolutionWidth","1920"),
@@ -70,6 +71,7 @@ def run(root,master,canary=8,all_shots=False):
             "result":result,"audio_added":all_shots,"audio_sha256":audio_hash}
     (root/"RESOLVE_IMPORT_REPORT.json").write_text(json.dumps(report,indent=2)+"\n")
     # Export only when every clip and Fusion comp has been imported and placement passed.
+    pm.SaveProject()
     if not pm.ExportProject(name,str(root/(name+".drp"))):
         report["drp_export"]="FAILED"
     else:report["drp_export"]="OK"
