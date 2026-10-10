@@ -22,3 +22,6 @@ Genuine full auditory QC of the delivered13:28master, especially8flaggedregions 
 
 ## Shorts owner count lock (2026-10-10)
 Exactly four production Shorts: SH01, SH02, SH04, SH08. Four other historical Shorts candidates are inactive. Updated07_SHORTS_LOCK.csv,03_SHORTS_MAP.csv,11_SHORTS_CUT_MAP.csv and manifest. Audio full listening is still NOT_PERFORMED; word/ASR-based cuts remain PROVISIONAL, no Stage10/11 final PASS, no further spending.
+
+## Owner Shorts count — 2026-10-10
+Exactly four production Shorts: SH01, SH02, SH04, SH08. Four other historical candidates are inactive. Real full auditory QC and Short-edge listening NOT PERFORMED; Stage10 audio lock and Stage11 final lock remain false. No generation or spend.
