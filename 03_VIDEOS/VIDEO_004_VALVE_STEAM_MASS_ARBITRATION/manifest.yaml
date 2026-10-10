@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-10"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Auditory QC plus 4 selected Shorts cut-edge checks; Stage11 lock only after hearing; no Stage12"
+next_action: "Finish genuine auditory QC and 4 short cut auditions; Stage12 primary source visual preflight (54 beats; zero paid jobs)"
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL"]
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "V1_54_BEATS_SOURCE_LINKED_PREFLIGHT_PENDING"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
