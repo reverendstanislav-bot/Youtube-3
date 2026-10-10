@@ -1,0 +1,1163 @@
+{
+  "model": "medium.en",
+  "engine": "faster-whisper 1.2.1",
+  "status": "ASR_RECHECK_NOT_AUDITORY_REVIEW",
+  "regions": [
+    {
+      "region": 1,
+      "start_sec": 0,
+      "end_sec": 7,
+      "text": "Steam claimants said rejecting new terms threatened access to purchased games. Valve said stopping account use.",
+      "words": [
+        {
+          "text": "Steam",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.9711508750915527
+        },
+        {
+          "text": "claimants",
+          "start": 0.36,
+          "end": 0.88,
+          "probability": 0.9662196636199951
+        },
+        {
+          "text": "said",
+          "start": 0.88,
+          "end": 1.26,
+          "probability": 0.9836727976799011
+        },
+        {
+          "text": "rejecting",
+          "start": 1.26,
+          "end": 1.78,
+          "probability": 0.9302404522895813
+        },
+        {
+          "text": "new",
+          "start": 1.78,
+          "end": 2.02,
+          "probability": 0.9973700046539307
+        },
+        {
+          "text": "terms",
+          "start": 2.02,
+          "end": 2.52,
+          "probability": 0.9948432445526123
+        },
+        {
+          "text": "threatened",
+          "start": 2.52,
+          "end": 3.02,
+          "probability": 0.9441782236099243
+        },
+        {
+          "text": "access",
+          "start": 3.02,
+          "end": 3.6,
+          "probability": 0.9981096982955933
+        },
+        {
+          "text": "to",
+          "start": 3.6,
+          "end": 3.9,
+          "probability": 0.9995068311691284
+        },
+        {
+          "text": "purchased",
+          "start": 3.9,
+          "end": 4.22,
+          "probability": 0.834869384765625
+        },
+        {
+          "text": "games.",
+          "start": 4.22,
+          "end": 4.76,
+          "probability": 0.9992479681968689
+        },
+        {
+          "text": "Valve",
+          "start": 5.52,
+          "end": 5.74,
+          "probability": 0.9847789406776428
+        },
+        {
+          "text": "said",
+          "start": 5.74,
+          "end": 6.04,
+          "probability": 0.9716800451278687
+        },
+        {
+          "text": "stopping",
+          "start": 6.04,
+          "end": 6.48,
+          "probability": 0.9463295936584473
+        },
+        {
+          "text": "account",
+          "start": 6.48,
+          "end": 6.82,
+          "probability": 0.9851890802383423
+        },
+        {
+          "text": "use.",
+          "start": 6.82,
+          "end": 6.98,
+          "probability": 0.32256457209587097
+        }
+      ]
+    },
+    {
+      "region": 2,
+      "start_sec": 138,
+      "end_sec": 149,
+      "text": "began in October 2023. More demands followed in November and December. The American Arbitration Association administered the cases. A response? Scheduling?",
+      "words": [
+        {
+          "text": "began",
+          "start": 138.0,
+          "end": 138.2,
+          "probability": 0.4831775724887848
+        },
+        {
+          "text": "in",
+          "start": 138.2,
+          "end": 138.4,
+          "probability": 0.9947498440742493
+        },
+        {
+          "text": "October",
+          "start": 138.4,
+          "end": 138.78,
+          "probability": 0.9972409009933472
+        },
+        {
+          "text": "2023.",
+          "start": 138.78,
+          "end": 139.76,
+          "probability": 0.9561189115047455
+        },
+        {
+          "text": "More",
+          "start": 140.56,
+          "end": 140.7,
+          "probability": 0.9924760460853577
+        },
+        {
+          "text": "demands",
+          "start": 140.7,
+          "end": 141.14,
+          "probability": 0.9952844977378845
+        },
+        {
+          "text": "followed",
+          "start": 141.14,
+          "end": 141.5,
+          "probability": 0.9945830702781677
+        },
+        {
+          "text": "in",
+          "start": 141.5,
+          "end": 141.68,
+          "probability": 0.9975445866584778
+        },
+        {
+          "text": "November",
+          "start": 141.68,
+          "end": 142.06,
+          "probability": 0.999042809009552
+        },
+        {
+          "text": "and",
+          "start": 142.06,
+          "end": 142.4,
+          "probability": 0.9971750974655151
+        },
+        {
+          "text": "December.",
+          "start": 142.4,
+          "end": 142.8,
+          "probability": 0.9980227947235107
+        },
+        {
+          "text": "The",
+          "start": 143.48,
+          "end": 143.58,
+          "probability": 0.9941501617431641
+        },
+        {
+          "text": "American",
+          "start": 143.58,
+          "end": 143.98,
+          "probability": 0.9950616955757141
+        },
+        {
+          "text": "Arbitration",
+          "start": 143.98,
+          "end": 144.6,
+          "probability": 0.9928491115570068
+        },
+        {
+          "text": "Association",
+          "start": 144.6,
+          "end": 145.3,
+          "probability": 0.9973457455635071
+        },
+        {
+          "text": "administered",
+          "start": 145.3,
+          "end": 145.82,
+          "probability": 0.9971502423286438
+        },
+        {
+          "text": "the",
+          "start": 145.82,
+          "end": 146.06,
+          "probability": 0.9978412389755249
+        },
+        {
+          "text": "cases.",
+          "start": 146.06,
+          "end": 146.48,
+          "probability": 0.9958421587944031
+        },
+        {
+          "text": "A",
+          "start": 147.34,
+          "end": 147.48,
+          "probability": 0.9868539571762085
+        },
+        {
+          "text": "response?",
+          "start": 147.48,
+          "end": 148.0,
+          "probability": 0.961126446723938
+        },
+        {
+          "text": "Scheduling?",
+          "start": 148.4,
+          "end": 148.88,
+          "probability": 0.9860520362854004
+        }
+      ]
+    },
+    {
+      "region": 3,
+      "start_sec": 193,
+      "end_sec": 203,
+      "text": "proving a single global debt. The fee schedule charges at different stages, with arbitrator compensation separate. A case ending early need not incur every",
+      "words": [
+        {
+          "text": "proving",
+          "start": 193.0,
+          "end": 193.38,
+          "probability": 0.719980776309967
+        },
+        {
+          "text": "a",
+          "start": 193.38,
+          "end": 193.64,
+          "probability": 0.9984135627746582
+        },
+        {
+          "text": "single",
+          "start": 193.64,
+          "end": 193.92,
+          "probability": 0.9981498718261719
+        },
+        {
+          "text": "global",
+          "start": 193.92,
+          "end": 194.34,
+          "probability": 0.9357505440711975
+        },
+        {
+          "text": "debt.",
+          "start": 194.34,
+          "end": 194.78,
+          "probability": 0.9984086155891418
+        },
+        {
+          "text": "The",
+          "start": 195.46,
+          "end": 195.56,
+          "probability": 0.9686155915260315
+        },
+        {
+          "text": "fee",
+          "start": 195.56,
+          "end": 195.78,
+          "probability": 0.9781769514083862
+        },
+        {
+          "text": "schedule",
+          "start": 195.78,
+          "end": 196.14,
+          "probability": 0.9930000305175781
+        },
+        {
+          "text": "charges",
+          "start": 196.14,
+          "end": 196.62,
+          "probability": 0.9980576634407043
+        },
+        {
+          "text": "at",
+          "start": 196.62,
+          "end": 196.84,
+          "probability": 0.9974617958068848
+        },
+        {
+          "text": "different",
+          "start": 196.84,
+          "end": 197.14,
+          "probability": 0.999009370803833
+        },
+        {
+          "text": "stages,",
+          "start": 197.14,
+          "end": 197.68,
+          "probability": 0.9988833069801331
+        },
+        {
+          "text": "with",
+          "start": 198.02,
+          "end": 198.22,
+          "probability": 0.9981404542922974
+        },
+        {
+          "text": "arbitrator",
+          "start": 198.22,
+          "end": 198.74,
+          "probability": 0.9940934777259827
+        },
+        {
+          "text": "compensation",
+          "start": 198.74,
+          "end": 199.42,
+          "probability": 0.801580011844635
+        },
+        {
+          "text": "separate.",
+          "start": 199.42,
+          "end": 199.96,
+          "probability": 0.9938675761222839
+        },
+        {
+          "text": "A",
+          "start": 200.58,
+          "end": 200.7,
+          "probability": 0.981857419013977
+        },
+        {
+          "text": "case",
+          "start": 200.7,
+          "end": 200.98,
+          "probability": 0.9882651567459106
+        },
+        {
+          "text": "ending",
+          "start": 200.98,
+          "end": 201.28,
+          "probability": 0.9841527342796326
+        },
+        {
+          "text": "early",
+          "start": 201.28,
+          "end": 201.68,
+          "probability": 0.9976990818977356
+        },
+        {
+          "text": "need",
+          "start": 201.68,
+          "end": 202.08,
+          "probability": 0.9749552011489868
+        },
+        {
+          "text": "not",
+          "start": 202.08,
+          "end": 202.32,
+          "probability": 0.9976348876953125
+        },
+        {
+          "text": "incur",
+          "start": 202.32,
+          "end": 202.7,
+          "probability": 0.9937677383422852
+        },
+        {
+          "text": "every",
+          "start": 202.7,
+          "end": 202.98,
+          "probability": 0.7972763180732727
+        }
+      ]
+    },
+    {
+      "region": 4,
+      "start_sec": 221,
+      "end_sec": 230,
+      "text": "applicants asked to leave their arbitrations. An arbitrator allowed those claims to move toward court. Valve later said that finding prompted it to remove arbitr-",
+      "words": [
+        {
+          "text": "applicants",
+          "start": 221.0,
+          "end": 221.14,
+          "probability": 0.02459588274359703
+        },
+        {
+          "text": "asked",
+          "start": 221.14,
+          "end": 221.46,
+          "probability": 0.9723612070083618
+        },
+        {
+          "text": "to",
+          "start": 221.46,
+          "end": 221.68,
+          "probability": 0.9989826083183289
+        },
+        {
+          "text": "leave",
+          "start": 221.68,
+          "end": 221.88,
+          "probability": 0.9973602890968323
+        },
+        {
+          "text": "their",
+          "start": 221.88,
+          "end": 222.08,
+          "probability": 0.9917329549789429
+        },
+        {
+          "text": "arbitrations.",
+          "start": 222.08,
+          "end": 222.8,
+          "probability": 0.9849333167076111
+        },
+        {
+          "text": "An",
+          "start": 223.54,
+          "end": 223.62,
+          "probability": 0.9916662573814392
+        },
+        {
+          "text": "arbitrator",
+          "start": 223.62,
+          "end": 224.16,
+          "probability": 0.9983020722866058
+        },
+        {
+          "text": "allowed",
+          "start": 224.16,
+          "end": 224.58,
+          "probability": 0.9978957176208496
+        },
+        {
+          "text": "those",
+          "start": 224.58,
+          "end": 224.8,
+          "probability": 0.9979769587516785
+        },
+        {
+          "text": "claims",
+          "start": 224.8,
+          "end": 225.14,
+          "probability": 0.9989400506019592
+        },
+        {
+          "text": "to",
+          "start": 225.14,
+          "end": 225.4,
+          "probability": 0.9987114667892456
+        },
+        {
+          "text": "move",
+          "start": 225.4,
+          "end": 225.58,
+          "probability": 0.9992855191230774
+        },
+        {
+          "text": "toward",
+          "start": 225.58,
+          "end": 225.84,
+          "probability": 0.9900608062744141
+        },
+        {
+          "text": "court.",
+          "start": 225.84,
+          "end": 226.28,
+          "probability": 0.9892359375953674
+        },
+        {
+          "text": "Valve",
+          "start": 227.06,
+          "end": 227.28,
+          "probability": 0.6971901655197144
+        },
+        {
+          "text": "later",
+          "start": 227.28,
+          "end": 227.54,
+          "probability": 0.9978187084197998
+        },
+        {
+          "text": "said",
+          "start": 227.54,
+          "end": 227.86,
+          "probability": 0.9991418123245239
+        },
+        {
+          "text": "that",
+          "start": 227.86,
+          "end": 228.06,
+          "probability": 0.9978594183921814
+        },
+        {
+          "text": "finding",
+          "start": 228.06,
+          "end": 228.46,
+          "probability": 0.577509343624115
+        },
+        {
+          "text": "prompted",
+          "start": 228.46,
+          "end": 228.94,
+          "probability": 0.9943934679031372
+        },
+        {
+          "text": "it",
+          "start": 228.94,
+          "end": 229.12,
+          "probability": 0.996987521648407
+        },
+        {
+          "text": "to",
+          "start": 229.12,
+          "end": 229.28,
+          "probability": 0.9954209923744202
+        },
+        {
+          "text": "remove",
+          "start": 229.28,
+          "end": 229.62,
+          "probability": 0.9889935851097107
+        },
+        {
+          "text": "arbitr",
+          "start": 229.62,
+          "end": 229.98,
+          "probability": 0.605332151055336
+        },
+        {
+          "text": "-",
+          "start": 229.98,
+          "end": 229.98,
+          "probability": 0.19354039430618286
+        }
+      ]
+    },
+    {
+      "region": 5,
+      "start_sec": 247,
+      "end_sec": 257,
+      "text": "their arbitrator agreed. Do not merge them with the people Valve later named as defendants. These four matters moved into separate litigation. Nor does this rule.",
+      "words": [
+        {
+          "text": "their",
+          "start": 247.0,
+          "end": 247.16,
+          "probability": 0.47656145691871643
+        },
+        {
+          "text": "arbitrator",
+          "start": 247.16,
+          "end": 247.72,
+          "probability": 0.9970509707927704
+        },
+        {
+          "text": "agreed.",
+          "start": 247.72,
+          "end": 248.24,
+          "probability": 0.99068683385849
+        },
+        {
+          "text": "Do",
+          "start": 248.98,
+          "end": 249.06,
+          "probability": 0.9405145049095154
+        },
+        {
+          "text": "not",
+          "start": 249.06,
+          "end": 249.3,
+          "probability": 0.997116208076477
+        },
+        {
+          "text": "merge",
+          "start": 249.3,
+          "end": 249.66,
+          "probability": 0.9987291693687439
+        },
+        {
+          "text": "them",
+          "start": 249.66,
+          "end": 249.84,
+          "probability": 0.9976418018341064
+        },
+        {
+          "text": "with",
+          "start": 249.84,
+          "end": 250.02,
+          "probability": 0.998741090297699
+        },
+        {
+          "text": "the",
+          "start": 250.02,
+          "end": 250.18,
+          "probability": 0.9971640706062317
+        },
+        {
+          "text": "people",
+          "start": 250.18,
+          "end": 250.44,
+          "probability": 0.9977355003356934
+        },
+        {
+          "text": "Valve",
+          "start": 250.44,
+          "end": 250.8,
+          "probability": 0.833930253982544
+        },
+        {
+          "text": "later",
+          "start": 250.8,
+          "end": 251.12,
+          "probability": 0.9992218017578125
+        },
+        {
+          "text": "named",
+          "start": 251.12,
+          "end": 251.44,
+          "probability": 0.9985153079032898
+        },
+        {
+          "text": "as",
+          "start": 251.44,
+          "end": 251.66,
+          "probability": 0.9983312487602234
+        },
+        {
+          "text": "defendants.",
+          "start": 251.66,
+          "end": 252.06,
+          "probability": 0.9197586178779602
+        },
+        {
+          "text": "These",
+          "start": 252.94,
+          "end": 253.14,
+          "probability": 0.9936825037002563
+        },
+        {
+          "text": "four",
+          "start": 253.14,
+          "end": 253.4,
+          "probability": 0.9698099493980408
+        },
+        {
+          "text": "matters",
+          "start": 253.4,
+          "end": 253.74,
+          "probability": 0.9983553290367126
+        },
+        {
+          "text": "moved",
+          "start": 253.74,
+          "end": 254.14,
+          "probability": 0.9984373450279236
+        },
+        {
+          "text": "into",
+          "start": 254.14,
+          "end": 254.34,
+          "probability": 0.993607759475708
+        },
+        {
+          "text": "separate",
+          "start": 254.34,
+          "end": 254.72,
+          "probability": 0.9981781244277954
+        },
+        {
+          "text": "litigation.",
+          "start": 254.72,
+          "end": 255.4,
+          "probability": 0.9978931546211243
+        },
+        {
+          "text": "Nor",
+          "start": 256.04,
+          "end": 256.26,
+          "probability": 0.9834592938423157
+        },
+        {
+          "text": "does",
+          "start": 256.26,
+          "end": 256.48,
+          "probability": 0.9947953820228577
+        },
+        {
+          "text": "this",
+          "start": 256.48,
+          "end": 256.7,
+          "probability": 0.9958694577217102
+        },
+        {
+          "text": "rule.",
+          "start": 256.7,
+          "end": 256.92,
+          "probability": 0.628272294998169
+        }
+      ]
+    },
+    {
+      "region": 6,
+      "start_sec": 423,
+      "end_sec": 433,
+      "text": "It did not decide that Valve was legally wrong. It left the contract question to courts or arbitrators. The cases stayed open.",
+      "words": [
+        {
+          "text": "It",
+          "start": 423.0,
+          "end": 423.4,
+          "probability": 0.846272885799408
+        },
+        {
+          "text": "did",
+          "start": 423.4,
+          "end": 423.54,
+          "probability": 0.9957613348960876
+        },
+        {
+          "text": "not",
+          "start": 423.54,
+          "end": 423.74,
+          "probability": 0.9989219903945923
+        },
+        {
+          "text": "decide",
+          "start": 423.74,
+          "end": 424.2,
+          "probability": 0.996422290802002
+        },
+        {
+          "text": "that",
+          "start": 424.2,
+          "end": 424.44,
+          "probability": 0.9953627586364746
+        },
+        {
+          "text": "Valve",
+          "start": 424.44,
+          "end": 424.7,
+          "probability": 0.708770751953125
+        },
+        {
+          "text": "was",
+          "start": 424.7,
+          "end": 425.0,
+          "probability": 0.9988975524902344
+        },
+        {
+          "text": "legally",
+          "start": 425.0,
+          "end": 425.36,
+          "probability": 0.9725373387336731
+        },
+        {
+          "text": "wrong.",
+          "start": 425.36,
+          "end": 425.8,
+          "probability": 0.9992343187332153
+        },
+        {
+          "text": "It",
+          "start": 426.34,
+          "end": 426.46,
+          "probability": 0.9935510158538818
+        },
+        {
+          "text": "left",
+          "start": 426.46,
+          "end": 426.64,
+          "probability": 0.9991255402565002
+        },
+        {
+          "text": "the",
+          "start": 426.64,
+          "end": 426.84,
+          "probability": 0.9989069700241089
+        },
+        {
+          "text": "contract",
+          "start": 426.84,
+          "end": 427.26,
+          "probability": 0.9930182695388794
+        },
+        {
+          "text": "question",
+          "start": 427.26,
+          "end": 427.64,
+          "probability": 0.7368527054786682
+        },
+        {
+          "text": "to",
+          "start": 427.64,
+          "end": 427.88,
+          "probability": 0.9978348612785339
+        },
+        {
+          "text": "courts",
+          "start": 427.88,
+          "end": 428.22,
+          "probability": 0.957024097442627
+        },
+        {
+          "text": "or",
+          "start": 428.22,
+          "end": 428.48,
+          "probability": 0.9944660067558289
+        },
+        {
+          "text": "arbitrators.",
+          "start": 428.48,
+          "end": 429.1,
+          "probability": 0.99698606133461
+        },
+        {
+          "text": "The",
+          "start": 429.66,
+          "end": 429.76,
+          "probability": 0.9955759048461914
+        },
+        {
+          "text": "cases",
+          "start": 429.76,
+          "end": 430.1,
+          "probability": 0.9603655934333801
+        },
+        {
+          "text": "stayed",
+          "start": 430.1,
+          "end": 430.46,
+          "probability": 0.9961802959442139
+        },
+        {
+          "text": "open.",
+          "start": 430.46,
+          "end": 430.84,
+          "probability": 0.9993104934692383
+        }
+      ]
+    },
+    {
+      "region": 7,
+      "start_sec": 484,
+      "end_sec": 495,
+      "text": "The initial petition on October 18, 2024, named 624 respondents. The civil complaint on August 21, 2025, named",
+      "words": [
+        {
+          "text": "The",
+          "start": 484.0,
+          "end": 484.72,
+          "probability": 0.7900104522705078
+        },
+        {
+          "text": "initial",
+          "start": 484.72,
+          "end": 485.04,
+          "probability": 0.9829794764518738
+        },
+        {
+          "text": "petition",
+          "start": 485.04,
+          "end": 485.52,
+          "probability": 0.9836090207099915
+        },
+        {
+          "text": "on",
+          "start": 485.52,
+          "end": 485.88,
+          "probability": 0.8765507340431213
+        },
+        {
+          "text": "October",
+          "start": 485.88,
+          "end": 486.28,
+          "probability": 0.9581118226051331
+        },
+        {
+          "text": "18,",
+          "start": 486.28,
+          "end": 486.74,
+          "probability": 0.9952440857887268
+        },
+        {
+          "text": "2024,",
+          "start": 486.98,
+          "end": 487.68,
+          "probability": 0.9964535236358643
+        },
+        {
+          "text": "named",
+          "start": 488.36,
+          "end": 488.56,
+          "probability": 0.9955667853355408
+        },
+        {
+          "text": "624",
+          "start": 488.56,
+          "end": 489.72,
+          "probability": 0.9939866065979004
+        },
+        {
+          "text": "respondents.",
+          "start": 489.72,
+          "end": 490.38,
+          "probability": 0.9839788675308228
+        },
+        {
+          "text": "The",
+          "start": 491.16,
+          "end": 491.3,
+          "probability": 0.9958305954933167
+        },
+        {
+          "text": "civil",
+          "start": 491.3,
+          "end": 491.54,
+          "probability": 0.910603940486908
+        },
+        {
+          "text": "complaint",
+          "start": 491.54,
+          "end": 492.04,
+          "probability": 0.9961284399032593
+        },
+        {
+          "text": "on",
+          "start": 492.04,
+          "end": 492.38,
+          "probability": 0.9242539405822754
+        },
+        {
+          "text": "August",
+          "start": 492.38,
+          "end": 492.64,
+          "probability": 0.9908532500267029
+        },
+        {
+          "text": "21,",
+          "start": 492.64,
+          "end": 493.18,
+          "probability": 0.9974205493927002
+        },
+        {
+          "text": "2025,",
+          "start": 493.4,
+          "end": 494.24,
+          "probability": 0.9987517595291138
+        },
+        {
+          "text": "named",
+          "start": 494.82,
+          "end": 494.98,
+          "probability": 0.994490385055542
+        }
+      ]
+    },
+    {
+      "region": 8,
+      "start_sec": 730,
+      "end_sec": 741,
+      "text": "The two decisions answered different questions. Had Valve shown enough to stop the arbitrations immediately? And should a higher court have an opportunity to address the disputed contract issue?",
+      "words": [
+        {
+          "text": "The",
+          "start": 730.0,
+          "end": 730.96,
+          "probability": 0.8105625510215759
+        },
+        {
+          "text": "two",
+          "start": 730.96,
+          "end": 731.14,
+          "probability": 0.979978621006012
+        },
+        {
+          "text": "decisions",
+          "start": 731.14,
+          "end": 731.66,
+          "probability": 0.9932448267936707
+        },
+        {
+          "text": "answered",
+          "start": 731.66,
+          "end": 732.06,
+          "probability": 0.9508147835731506
+        },
+        {
+          "text": "different",
+          "start": 732.06,
+          "end": 732.44,
+          "probability": 0.9979780316352844
+        },
+        {
+          "text": "questions.",
+          "start": 732.44,
+          "end": 733.04,
+          "probability": 0.9983553290367126
+        },
+        {
+          "text": "Had",
+          "start": 733.72,
+          "end": 733.84,
+          "probability": 0.9572533965110779
+        },
+        {
+          "text": "Valve",
+          "start": 733.84,
+          "end": 734.18,
+          "probability": 0.8172457218170166
+        },
+        {
+          "text": "shown",
+          "start": 734.18,
+          "end": 734.42,
+          "probability": 0.9959433674812317
+        },
+        {
+          "text": "enough",
+          "start": 734.42,
+          "end": 734.68,
+          "probability": 0.9992749094963074
+        },
+        {
+          "text": "to",
+          "start": 734.68,
+          "end": 734.88,
+          "probability": 0.9991970658302307
+        },
+        {
+          "text": "stop",
+          "start": 734.88,
+          "end": 735.12,
+          "probability": 0.9989444613456726
+        },
+        {
+          "text": "the",
+          "start": 735.12,
+          "end": 735.32,
+          "probability": 0.9987725615501404
+        },
+        {
+          "text": "arbitrations",
+          "start": 735.32,
+          "end": 735.88,
+          "probability": 0.9673645198345184
+        },
+        {
+          "text": "immediately?",
+          "start": 735.88,
+          "end": 736.4,
+          "probability": 0.9984304308891296
+        },
+        {
+          "text": "And",
+          "start": 737.04,
+          "end": 737.18,
+          "probability": 0.9697144627571106
+        },
+        {
+          "text": "should",
+          "start": 737.18,
+          "end": 737.3,
+          "probability": 0.9226917028427124
+        },
+        {
+          "text": "a",
+          "start": 737.3,
+          "end": 737.44,
+          "probability": 0.9966698288917542
+        },
+        {
+          "text": "higher",
+          "start": 737.44,
+          "end": 737.64,
+          "probability": 0.9931835532188416
+        },
+        {
+          "text": "court",
+          "start": 737.64,
+          "end": 737.98,
+          "probability": 0.9940693378448486
+        },
+        {
+          "text": "have",
+          "start": 737.98,
+          "end": 738.16,
+          "probability": 0.9983609318733215
+        },
+        {
+          "text": "an",
+          "start": 738.16,
+          "end": 738.3,
+          "probability": 0.9973313808441162
+        },
+        {
+          "text": "opportunity",
+          "start": 738.3,
+          "end": 738.74,
+          "probability": 0.9994219541549683
+        },
+        {
+          "text": "to",
+          "start": 738.74,
+          "end": 739.06,
+          "probability": 0.9988130331039429
+        },
+        {
+          "text": "address",
+          "start": 739.06,
+          "end": 739.36,
+          "probability": 0.9994736313819885
+        },
+        {
+          "text": "the",
+          "start": 739.36,
+          "end": 739.58,
+          "probability": 0.9986043572425842
+        },
+        {
+          "text": "disputed",
+          "start": 739.58,
+          "end": 739.98,
+          "probability": 0.996073842048645
+        },
+        {
+          "text": "contract",
+          "start": 739.98,
+          "end": 740.54,
+          "probability": 0.9971373081207275
+        },
+        {
+          "text": "issue?",
+          "start": 740.54,
+          "end": 740.92,
+          "probability": 0.9963894486427307
+        }
+      ]
+    }
+  ]
+}

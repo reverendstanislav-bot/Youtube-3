@@ -1,0 +1,542 @@
+[
+  {
+    "beat_id": "B001",
+    "section": "S01",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Establish the library-access conflict before explaining procedure.",
+    "visual_plan": "Editorial Steam library context, then two opposed positions: claimants versus Valve. No invented pop-up or game deletion.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C012"
+  },
+  {
+    "beat_id": "B002",
+    "section": "S01",
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "purpose": "Reveal that the users became defendants under the forum Valve required.",
+    "visual_plan": "Invert a simple users-to-arbitration path into Valve-to-users lawsuit; keep pending cases visibly open.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C001;C015"
+  },
+  {
+    "beat_id": "B003",
+    "section": "S01",
+    "paragraph_start": 6,
+    "paragraph_end": 6,
+    "purpose": "Open the accept-button question without answering early.",
+    "visual_plan": "Hold a deliberately abstract acceptance control; show a question, not a replica of Steam UI.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C010;C012"
+  },
+  {
+    "beat_id": "B004",
+    "section": "S01",
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "purpose": "Distinguish price allegations from the contract dispute.",
+    "visual_plan": "Two separate tracks: alleged game prices versus pending-forum dispute. Do not show guilt or damages.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C003;C010"
+  },
+  {
+    "beat_id": "B005",
+    "section": "S01",
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "purpose": "Set up two contracts and one unresolved proceeding.",
+    "visual_plan": "Old arbitration clause and replacement court clause on opposite sides of the same open case.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C001;C010"
+  },
+  {
+    "beat_id": "B006",
+    "section": "S02",
+    "paragraph_start": 1,
+    "paragraph_end": 1,
+    "purpose": "Date the origin and identify the allegations.",
+    "visual_plan": "2021 marker with separate publisher and consumer lanes; allegation label stays readable.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C002;C003"
+  },
+  {
+    "beat_id": "B007",
+    "section": "S02",
+    "paragraph_start": 2,
+    "paragraph_end": 4,
+    "purpose": "Explain why consumers went to arbitration, not why Valve won on merits.",
+    "visual_plan": "S004 procedural-history crop with distinct court/arbitrator lanes; keep publisher case separate.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C002;C023"
+  },
+  {
+    "beat_id": "B008",
+    "section": "S02",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Make individual-only procedure legible.",
+    "visual_plan": "Old contract callout: separate files, no single class; 2012 origin marker, covered disputes only.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C001"
+  },
+  {
+    "beat_id": "B009",
+    "section": "S02",
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "purpose": "Turn individual procedure into a scale reveal.",
+    "visual_plan": "One consumer file becomes multiple distinct demands; do not count animations as actual claim totals.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C004;C022"
+  },
+  {
+    "beat_id": "B010",
+    "section": "S03",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Reveal the two dated counts without conflating cohorts.",
+    "visual_plan": "997 demands, then 4,991 claimants with May 2026 date; separate cards, not a growth chart of active cases.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C004;C005"
+  },
+  {
+    "beat_id": "B011",
+    "section": "S03",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Land the distinction between filings and proven wins.",
+    "visual_plan": "Keep SEPARATE CASES / NOT PROVEN WINS beside the count; no victory icons.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C005;C022"
+  },
+  {
+    "beat_id": "B012",
+    "section": "S03",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Show why coordinated filing creates repeated work.",
+    "visual_plan": "October-November-December 2023 timeline; repeat procedural stages across separate file rows.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C004;C006;C022"
+  },
+  {
+    "beat_id": "B013",
+    "section": "S03",
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "purpose": "Close the count boundary and open the money question.",
+    "visual_plan": "Fence the May 2026 snapshot; replace the count with an unresolved invoice outline, never a fabricated bill.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C005;C007"
+  },
+  {
+    "beat_id": "B014",
+    "section": "S04",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Disarm the unsupported $20M headline immediately.",
+    "visual_plan": "Keep $20M and UNVERIFIED in one inseparable composition; no fake invoice or debt counter.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C007"
+  },
+  {
+    "beat_id": "B015",
+    "section": "S04",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Replace the viral total with the documented mechanism.",
+    "visual_plan": "Distinct proceeding rows repeat fees/work; no multiplication into an alleged Valve total.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C005;C006;C022"
+  },
+  {
+    "beat_id": "B016",
+    "section": "S04",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Explain the limits of a published fee schedule.",
+    "visual_plan": "Authentic S006 fee-stage crop; separate arbitrator compensation; no computed global obligation.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C006;C007"
+  },
+  {
+    "beat_id": "B017",
+    "section": "S04",
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "purpose": "Interrupt scale with the four-claimant turning point.",
+    "visual_plan": "Reduce visual field to FOUR; retain explicit Valve-stated explanation rather than asserting motive.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C008;C009"
+  },
+  {
+    "beat_id": "B018",
+    "section": "S05",
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "purpose": "Introduce the four claimants and Valve-stated response.",
+    "visual_plan": "Four-file diagram exits arbitration toward court; attribute the explanation to Valve.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C008;C009"
+  },
+  {
+    "beat_id": "B019",
+    "section": "S05",
+    "paragraph_start": 4,
+    "paragraph_end": 5,
+    "purpose": "Reveal how the clause was challenged.",
+    "visual_plan": "May 2024 request / July ruling timeline anchored to S004; no fabricated ruling screenshot.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C008"
+  },
+  {
+    "beat_id": "B020",
+    "section": "S05",
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "purpose": "Prevent mistaken cohort and outcome merging.",
+    "visual_plan": "Keep four matters separate from later defendants and other arbitrators.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C008;C023"
+  },
+  {
+    "beat_id": "B021",
+    "section": "S05",
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "purpose": "Bridge from exit challenge to people already inside.",
+    "visual_plan": "Reverse the entrance/exit path, then leave existing files inside arbitration as new contract arrives.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C008;C009;C010"
+  },
+  {
+    "beat_id": "B022",
+    "section": "S06",
+    "paragraph_start": 1,
+    "paragraph_end": 4,
+    "purpose": "Answer whether a rewrite automatically ended pending cases.",
+    "visual_plan": "Clause removed while existing case rows remain open; reserve the controlling-contract question.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C009;C010;C013"
+  },
+  {
+    "beat_id": "B023",
+    "section": "S06",
+    "paragraph_start": 5,
+    "paragraph_end": 5,
+    "purpose": "Date the change and locate the replacement forum.",
+    "visual_plan": "S001 announcement and S002 court-forum clause; September 26, 2024 / King County.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C009"
+  },
+  {
+    "beat_id": "B024",
+    "section": "S06",
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "purpose": "Make retroactivity and both arguments visible.",
+    "visual_plan": "Authentic new-agreement provisions beside earlier-process timeline; distinguish text from enforceability.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C010"
+  },
+  {
+    "beat_id": "B025",
+    "section": "S06",
+    "paragraph_start": 8,
+    "paragraph_end": 9,
+    "purpose": "Introduce acceptance as the next evidence, not the answer.",
+    "visual_plan": "Two opposing timelines meet at a clearly editorial acceptance symbol.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C010;C011"
+  },
+  {
+    "beat_id": "B026",
+    "section": "S07",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "State the library-access concern and Valve response together.",
+    "visual_plan": "Parallel attributed positions: access concern versus retained licenses. No actual confiscation imagery.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C012"
+  },
+  {
+    "beat_id": "B027",
+    "section": "S07",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Expose the license/use distinction.",
+    "visual_plan": "Two labels, LICENSE and PLAYING, separated within the same library context.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C012"
+  },
+  {
+    "beat_id": "B028",
+    "section": "S07",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Introduce the acceptance evidence with proper attribution.",
+    "visual_plan": "S004 summary of emails/pop-up and 454 / 118 split of 572; label Valve said.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C011;C012"
+  },
+  {
+    "beat_id": "B029",
+    "section": "S07",
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "purpose": "Show the competing values attached to the click.",
+    "visual_plan": "Claimants claimed average over $3,000; Valve disputed; keep disputed value off a factual total counter.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C011;C012"
+  },
+  {
+    "beat_id": "B030",
+    "section": "S07",
+    "paragraph_start": 10,
+    "paragraph_end": 12,
+    "purpose": "Keep enforceability unresolved and motivate the next action.",
+    "visual_plan": "Acceptance evidence enters an unresolved contract node; cut to administrator request only at the final line.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C010;C013;C018"
+  },
+  {
+    "beat_id": "B031",
+    "section": "S08",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Show request then refusal without a merits victory.",
+    "visual_plan": "Request arrow reaches AAA; files remain open, no gavel/verdict treatment.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C013"
+  },
+  {
+    "beat_id": "B032",
+    "section": "S08",
+    "paragraph_start": 3,
+    "paragraph_end": 5,
+    "purpose": "Clarify who would decide the legal question.",
+    "visual_plan": "AAA administrative role separated from courts/arbitrators; preserve the non-merits qualification.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C013"
+  },
+  {
+    "beat_id": "B033",
+    "section": "S08",
+    "paragraph_start": 6,
+    "paragraph_end": 7,
+    "purpose": "Date the response and show diverging individual proceedings.",
+    "visual_plan": "September 27 request / October 7 letter; separate branches for original terms and pauses with attribution.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C013;C014"
+  },
+  {
+    "beat_id": "B034",
+    "section": "S08",
+    "paragraph_start": 8,
+    "paragraph_end": 10,
+    "purpose": "Escalate from mixed files to a federal stop request.",
+    "visual_plan": "Many separate open files converge on a requested stop order; no closure animation yet.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C014;C015;C017"
+  },
+  {
+    "beat_id": "B035",
+    "section": "S09",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Land the first procedural setback and the later complaint.",
+    "visual_plan": "First filing marked PROCEDURALLY IMPROPER; then new civil complaint, not a merits defeat label.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C015"
+  },
+  {
+    "beat_id": "B036",
+    "section": "S09",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Keep the lawsuit distinct from granted relief.",
+    "visual_plan": "Complaint and requested judge order are separate steps; cases remain open.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C015;C017"
+  },
+  {
+    "beat_id": "B037",
+    "section": "S09",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Explain changing counts without inventing one global cohort.",
+    "visual_plan": "624 October 2024 / 572 August 2025; visually separate both from recorded 4,991 claimants.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C005;C015"
+  },
+  {
+    "beat_id": "B038",
+    "section": "S09",
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "purpose": "Pay off the opening reversal and show stakes on both sides.",
+    "visual_plan": "Claimants become defendants; opposing requested consequences share one contract question.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C015;C017"
+  },
+  {
+    "beat_id": "B039",
+    "section": "S09",
+    "paragraph_start": 9,
+    "paragraph_end": 10,
+    "purpose": "Open the emergency-relief hurdle.",
+    "visual_plan": "Return to the opening case map, then introduce preliminary relief as a separate threshold.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C017"
+  },
+  {
+    "beat_id": "B040",
+    "section": "S10",
+    "paragraph_start": 1,
+    "paragraph_end": 3,
+    "purpose": "Define the requested preliminary injunction and positions.",
+    "visual_plan": "Before-final-judgment timeline; Valve argument and defendants opposition remain attributed.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C003;C017"
+  },
+  {
+    "beat_id": "B041",
+    "section": "S10",
+    "paragraph_start": 4,
+    "paragraph_end": 6,
+    "purpose": "Show completed work and mixed outcomes without a scoreboard.",
+    "visual_plan": "Separate hearings, stays, rulings and awards; label mixed results and keep them non-additive.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C014"
+  },
+  {
+    "beat_id": "B042",
+    "section": "S10",
+    "paragraph_start": 7,
+    "paragraph_end": 9,
+    "purpose": "Narrow the live request and the disputed active count.",
+    "visual_plan": "Roughly 400 per Valve at May 2026 hearing, disputed; focus on interruption of these proceedings.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C016;C017"
+  },
+  {
+    "beat_id": "B043",
+    "section": "S10",
+    "paragraph_start": 10,
+    "paragraph_end": 11,
+    "purpose": "Bring both contract arguments to the dated decision.",
+    "visual_plan": "Two contracts, clicks and completed work approach S004 May 27, 2026 ruling; withhold result until S11.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C010;C017;C018"
+  },
+  {
+    "beat_id": "B044",
+    "section": "S11",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Reveal denial while immediately preserving preliminary scope.",
+    "visual_plan": "Motion DENIED paired with PRELIMINARY / NOT ANTITRUST VERDICT in the same readable field.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C017"
+  },
+  {
+    "beat_id": "B045",
+    "section": "S11",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Explain the as-applied contract finding.",
+    "visual_plan": "Replacement clause and THESE DEFENDANTS qualification; never all Steam users or final invalidity.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C018"
+  },
+  {
+    "beat_id": "B046",
+    "section": "S11",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "Explain the preliminary fairness reasoning.",
+    "visual_plan": "S004 reasoning crop with balanced benefit/burden comparison; no invented judicial quote.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C018"
+  },
+  {
+    "beat_id": "B047",
+    "section": "S11",
+    "paragraph_start": 7,
+    "paragraph_end": 8,
+    "purpose": "Show why the emergency standard and completed work mattered.",
+    "visual_plan": "Chosen forum / delay / financial burden on one side; completed claimant work on the other.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C014;C017;C018"
+  },
+  {
+    "beat_id": "B048",
+    "section": "S11",
+    "paragraph_start": 9,
+    "paragraph_end": 11,
+    "purpose": "Pay off the accept-button question and reopen the route.",
+    "visual_plan": "Acceptance is evidence, not final answer; 64-day dated bridge to certification, no reversal.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C018;C019;C024"
+  },
+  {
+    "beat_id": "B049",
+    "section": "S12",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "Reveal certification without undoing the earlier view.",
+    "visual_plan": "Authentic S005 order July 30, 2026; stayed district case and possible appeal shown separately.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C019"
+  },
+  {
+    "beat_id": "B050",
+    "section": "S12",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Distinguish the two questions answered by the judge.",
+    "visual_plan": "Two-stage timeline: immediate stop request versus opportunity for appellate review.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C017;C019"
+  },
+  {
+    "beat_id": "B051",
+    "section": "S12",
+    "paragraph_start": 5,
+    "paragraph_end": 7,
+    "purpose": "Bound the possible appellate consequence.",
+    "visual_plan": "Conditional Ninth Circuit branch, not guaranteed review or reversal; district-case stay remains separate.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C019"
+  },
+  {
+    "beat_id": "B052",
+    "section": "S13",
+    "paragraph_start": 1,
+    "paragraph_end": 2,
+    "purpose": "State exactly what the reviewed appellate snapshot supports.",
+    "visual_plan": "S008 public snapshot and appeal 26-6269; label snapshot, not current official docket; refresh at Stage16.",
+    "evidence_class": "AUTHENTIC_DOCUMENT",
+    "claim_ids": "C020"
+  },
+  {
+    "beat_id": "B053",
+    "section": "S13",
+    "paragraph_start": 3,
+    "paragraph_end": 4,
+    "purpose": "Resolve the contract-update promise without a false final verdict.",
+    "visual_plan": "New contract beside still-open old-case question; return to the abstract accept button once.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C009;C010;C017;C020"
+  },
+  {
+    "beat_id": "B054",
+    "section": "S13",
+    "paragraph_start": 5,
+    "paragraph_end": 6,
+    "purpose": "End on the concrete contrast, not a generic summary.",
+    "visual_plan": "Contract changes; existing-case files remain. Clean sustained composition; no new narration or claims.",
+    "evidence_class": "EDITOR_GRAPHIC",
+    "claim_ids": "C009;C013;C020"
+  }
+]

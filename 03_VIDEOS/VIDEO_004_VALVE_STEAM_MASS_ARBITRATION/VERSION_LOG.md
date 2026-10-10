@@ -58,3 +58,11 @@ Current08_VOICE_SCRIPT; Stage09NOT_RUN_V11; voice_input=false/settingslocked=fal
 
 
 Stage08 finalverification: strict episodeaudit PASS/0warnings, repositorycontract PASS/4videos, scoped diff--check PASS. Final08fileSHA2566c9e5b81bc8420c9092e332d83bbb1a92e5bdf7cf9403d9dba7b6008dae9c9ab; exactpayloads match independent review after metadata update; canonical07/07Shorts unchanged. CSV widths, currentjobplan counts/blankprices and manifest08/voicefalse lockfalse verified.
+
+## 2026-10-10 — Existing master verified; Stage11 started provisionally
+
+Owner authorized verify existing audio and immediately start11. ExistingActions38039673597 SUCCESS/artifact11665053402 downloaded; ZIP178117046B SHA201f98...54f and all4mediahashes verified. Master808.000s/48kHz/24bit/stereo, deliveryC:/YOUTUBE/Youtube3/Video4 (actualspacedpathin10doc), SHA8c11be...65d7. Full source/masterdecode clean; sourceorderA→B→C checked, decodedseams284.960/535.760. No newHiggsfieldjobs/paidAPI. Earlier0jobs/NOT_QUOTED notes are historical;3existing completedjobs/budget39.45 preserved, actualdebitnotreverified.
+
+LocalPythonfallback afterHyperFrameswhisper_unavailable; faster-whisper1.2.1/small.en full1951words, medium.en8flaggedwindows supports sourcewording. Rawrecognizerfilesretained; no ASRscore presentedasmeaningaccuracy/actualhearing.54authoredbeats/123paragraphanchors/124cue rows cover0–828plannedseconds;808–828isfuture20ssilentend screen.8contiguoussame-audioShortcuts plus3CTAplanned18.18–21.66s, noexports.
+
+Independentv08_precision PASS_PROVENANCE/PASS_ASR_COVERAGE_WITH_REVIEW_FLAGS; review_correction PASS_PROVISIONAL_STAGE11_PREPARATION. Full auditoryQC/cut-edgeauditions pending; audio_master/visual_timeline locksfalse. Manifest/index/STATE reconciled atcurrent10, Stage11PROVISIONAL, noStage12. Dirty originalcheckoutV2/V3andstaged09preserved; cleanworktreebasedorigin67b940a used for thisboundedcommit.07canonical/08payloads/07Shortlockunmodified. See10_AUDIO_MASTER.md/11_VISUAL_TIMELINE.md/11_STAGE_QC.md.

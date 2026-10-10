@@ -1,0 +1,827 @@
+{
+  "status": "PROVISIONAL_NOT_STAGE10_OR_STAGE11_PASS",
+  "expected_tokens": 2014,
+  "asr_normalized_tokens": 2008,
+  "equal_tokens": 1989,
+  "exact_token_coverage": 0.9875868917576961,
+  "differences": [
+    {
+      "operation": "replace",
+      "expected": "purchased",
+      "recognized": "purchase",
+      "near_sec": 3.86,
+      "canonical_token_start": 9,
+      "canonical_token_end": 10,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "anticompetitive",
+      "recognized": "anti competitive",
+      "near_sec": 62.2,
+      "canonical_token_start": 160,
+      "canonical_token_end": 161,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "consumers",
+      "recognized": "consumer's",
+      "near_sec": 67.36,
+      "canonical_token_start": 170,
+      "canonical_token_end": 171,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "thousand nine hundred ninety one",
+      "recognized": "991",
+      "near_sec": 126.52,
+      "canonical_token_start": 319,
+      "canonical_token_end": 324,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "recognized": "however",
+      "near_sec": 142.76,
+      "canonical_token_start": 355,
+      "canonical_token_end": 355,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "delete",
+      "expected": "dollars",
+      "recognized": "",
+      "near_sec": 178.04,
+      "canonical_token_start": 439,
+      "canonical_token_end": 440,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "valve's",
+      "recognized": "valve",
+      "near_sec": 178.64,
+      "canonical_token_start": 441,
+      "canonical_token_end": 442,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "recognized": "cases",
+      "near_sec": 197.6,
+      "canonical_token_start": 486,
+      "canonical_token_end": 486,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "recognized": "court",
+      "near_sec": 225.82,
+      "canonical_token_start": 551,
+      "canonical_token_end": 551,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "recognized": "instance",
+      "near_sec": 251.98,
+      "canonical_token_start": 622,
+      "canonical_token_end": 622,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "valve's",
+      "recognized": "valve",
+      "near_sec": 271.24,
+      "canonical_token_start": 670,
+      "canonical_token_end": 671,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "sixth",
+      "recognized": "six",
+      "near_sec": 302.56,
+      "canonical_token_start": 752,
+      "canonical_token_end": 753,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "three thousand dollars",
+      "recognized": "3 000",
+      "near_sec": 389.98,
+      "canonical_token_start": 973,
+      "canonical_token_end": 976,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "question",
+      "recognized": "questioned",
+      "near_sec": 427.22,
+      "canonical_token_start": 1067,
+      "canonical_token_end": 1068,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "defendants",
+      "recognized": "defendant's",
+      "near_sec": 459.84,
+      "canonical_token_start": 1145,
+      "canonical_token_end": 1146,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "insert",
+      "expected": "",
+      "recognized": "defendants",
+      "near_sec": 490.24,
+      "canonical_token_start": 1218,
+      "canonical_token_end": 1218,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "thousand nine hundred ninety one",
+      "recognized": "991",
+      "near_sec": 499.12,
+      "canonical_token_start": 1239,
+      "canonical_token_end": 1244,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "delete",
+      "expected": "stop",
+      "recognized": "",
+      "near_sec": 735.04,
+      "canonical_token_start": 1829,
+      "canonical_token_end": 1830,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "delete",
+      "expected": "dash",
+      "recognized": "",
+      "near_sec": 775.0,
+      "canonical_token_start": 1933,
+      "canonical_token_end": 1934,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    },
+    {
+      "operation": "replace",
+      "expected": "versus",
+      "recognized": "vs",
+      "near_sec": 778.38,
+      "canonical_token_start": 1940,
+      "canonical_token_end": 1941,
+      "status": "REQUIRES_LISTEN_NOT_CONFIRMED_AUDIO_ERROR"
+    }
+  ],
+  "word_count": 1951,
+  "short_word_spans": [
+    {
+      "id": "w11",
+      "text": "Valve",
+      "start": 5.68,
+      "end": 5.68,
+      "probability": 0.9878707528114319
+    },
+    {
+      "id": "w72",
+      "text": "Valve",
+      "start": 31.06,
+      "end": 31.06,
+      "probability": 0.9639903903007507
+    },
+    {
+      "id": "w83",
+      "text": "The",
+      "start": 35.6,
+      "end": 35.62,
+      "probability": 0.9592999219894409
+    },
+    {
+      "id": "w165",
+      "text": "Valve",
+      "start": 66.66,
+      "end": 66.7,
+      "probability": 0.9865556955337524
+    },
+    {
+      "id": "w174",
+      "text": "it",
+      "start": 70.44,
+      "end": 70.44,
+      "probability": 0.9769307971000671
+    },
+    {
+      "id": "w245",
+      "text": "Customers",
+      "start": 99.26,
+      "end": 99.26,
+      "probability": 0.992348313331604
+    },
+    {
+      "id": "w289",
+      "text": "It",
+      "start": 115.38,
+      "end": 115.4,
+      "probability": 0.9808343052864075
+    },
+    {
+      "id": "w410",
+      "text": "What",
+      "start": 173.3,
+      "end": 173.34,
+      "probability": 0.9835826754570007
+    },
+    {
+      "id": "w537",
+      "text": "Valve",
+      "start": 227.26,
+      "end": 227.26,
+      "probability": 0.9389504790306091
+    },
+    {
+      "id": "w550",
+      "text": "The",
+      "start": 232.22,
+      "end": 232.26,
+      "probability": 0.9518372416496277
+    },
+    {
+      "id": "w578",
+      "text": "Their",
+      "start": 241.8,
+      "end": 241.84,
+      "probability": 0.9908871650695801
+    },
+    {
+      "id": "w635",
+      "text": "Valve",
+      "start": 264.32,
+      "end": 264.34,
+      "probability": 0.9844714999198914
+    },
+    {
+      "id": "w695",
+      "text": "Valve",
+      "start": 285.38,
+      "end": 285.38,
+      "probability": 0.5233045816421509
+    },
+    {
+      "id": "w717",
+      "text": "Valve",
+      "start": 295.98,
+      "end": 295.98,
+      "probability": 0.996856689453125
+    },
+    {
+      "id": "w786",
+      "text": "Valve",
+      "start": 325.94,
+      "end": 325.94,
+      "probability": 0.9734064936637878
+    },
+    {
+      "id": "w821",
+      "text": "Then,",
+      "start": 338.62,
+      "end": 338.62,
+      "probability": 0.9787039756774902
+    },
+    {
+      "id": "w822",
+      "text": "Valve",
+      "start": 339.14,
+      "end": 339.16,
+      "probability": 0.9672443866729736
+    },
+    {
+      "id": "w831",
+      "text": "Customers",
+      "start": 342.2,
+      "end": 342.2,
+      "probability": 0.9175124168395996
+    },
+    {
+      "id": "w848",
+      "text": "Valve",
+      "start": 350.26,
+      "end": 350.26,
+      "probability": 0.9975932240486145
+    },
+    {
+      "id": "w883",
+      "text": "Valve",
+      "start": 363.66,
+      "end": 363.66,
+      "probability": 0.8946071863174438
+    },
+    {
+      "id": "w886",
+      "text": "a",
+      "start": 365.04,
+      "end": 365.08,
+      "probability": 0.8223299384117126
+    },
+    {
+      "id": "w950",
+      "text": "Valve",
+      "start": 392.94,
+      "end": 392.94,
+      "probability": 0.903516411781311
+    },
+    {
+      "id": "w1004",
+      "text": "Valve",
+      "start": 413.18,
+      "end": 413.22,
+      "probability": 0.9885335564613342
+    },
+    {
+      "id": "w1023",
+      "text": "The",
+      "start": 421.38,
+      "end": 421.38,
+      "probability": 0.9764400124549866
+    },
+    {
+      "id": "w1026",
+      "text": "It",
+      "start": 423.34,
+      "end": 423.36,
+      "probability": 0.8162605166435242
+    },
+    {
+      "id": "w1077",
+      "text": "Some",
+      "start": 444.4,
+      "end": 444.4,
+      "probability": 0.9821838140487671
+    },
+    {
+      "id": "w1082",
+      "text": "Valve",
+      "start": 446.86,
+      "end": 446.86,
+      "probability": 0.9409782886505127
+    },
+    {
+      "id": "w1089",
+      "text": "Valve",
+      "start": 450.0,
+      "end": 450.0,
+      "probability": 0.9914597272872925
+    },
+    {
+      "id": "w1164",
+      "text": "Valve",
+      "start": 481.68,
+      "end": 481.72,
+      "probability": 0.9959315657615662
+    },
+    {
+      "id": "w1290",
+      "text": "Valve",
+      "start": 536.1,
+      "end": 536.14,
+      "probability": 0.9968834519386292
+    },
+    {
+      "id": "w1324",
+      "text": "Continuing",
+      "start": 549.84,
+      "end": 549.84,
+      "probability": 0.5003945231437683
+    },
+    {
+      "id": "w1333",
+      "text": "Valve",
+      "start": 553.34,
+      "end": 553.38,
+      "probability": 0.8804128766059875
+    },
+    {
+      "id": "w1335",
+      "text": "caused",
+      "start": 554.4,
+      "end": 554.4,
+      "probability": 0.979042649269104
+    },
+    {
+      "id": "w1338",
+      "text": "The",
+      "start": 556.54,
+      "end": 556.56,
+      "probability": 0.7823706865310669
+    },
+    {
+      "id": "w1449",
+      "text": "The",
+      "start": 603.0,
+      "end": 603.0,
+      "probability": 0.8795522451400757
+    },
+    {
+      "id": "w1467",
+      "text": "He",
+      "start": 609.68,
+      "end": 609.68,
+      "probability": 0.9496646523475647
+    },
+    {
+      "id": "w1523",
+      "text": "The",
+      "start": 632.38,
+      "end": 632.4,
+      "probability": 0.9757469892501831
+    },
+    {
+      "id": "w1588",
+      "text": "The",
+      "start": 659.02,
+      "end": 659.04,
+      "probability": 0.9723056554794312
+    },
+    {
+      "id": "w1601",
+      "text": "Valve,",
+      "start": 664.52,
+      "end": 664.52,
+      "probability": 0.9258947968482971
+    },
+    {
+      "id": "w1693",
+      "text": "Valve",
+      "start": 701.32,
+      "end": 701.32,
+      "probability": 0.9657681584358215
+    },
+    {
+      "id": "w1721",
+      "text": "the",
+      "start": 712.6,
+      "end": 712.6,
+      "probability": 0.985114336013794
+    },
+    {
+      "id": "w1832",
+      "text": "Certification",
+      "start": 757.14,
+      "end": 757.14,
+      "probability": 0.9488533139228821
+    },
+    {
+      "id": "w1908",
+      "text": "The",
+      "start": 793.34,
+      "end": 793.36,
+      "probability": 0.9895319938659668
+    },
+    {
+      "id": "w1938",
+      "text": "Valve",
+      "start": 804.08,
+      "end": 804.08,
+      "probability": 0.9835748672485352
+    }
+  ],
+  "low_confidence_words": [
+    {
+      "id": "w67",
+      "text": "by",
+      "start": 28.2,
+      "end": 28.4,
+      "probability": 0.47600945830345154
+    },
+    {
+      "id": "w131",
+      "text": "and",
+      "start": 52.04,
+      "end": 52.84,
+      "probability": 0.5114741921424866
+    },
+    {
+      "id": "w146",
+      "text": "and",
+      "start": 57.78,
+      "end": 58.06,
+      "probability": 0.5324848294258118
+    },
+    {
+      "id": "w171",
+      "text": "For",
+      "start": 68.9,
+      "end": 69.0,
+      "probability": 0.5723339915275574
+    },
+    {
+      "id": "w213",
+      "text": "Valve",
+      "start": 86.14,
+      "end": 86.7,
+      "probability": 0.21238397061824799
+    },
+    {
+      "id": "w288",
+      "text": "complaint.",
+      "start": 114.24,
+      "end": 114.68,
+      "probability": 0.39992043375968933
+    },
+    {
+      "id": "w342",
+      "text": "However,",
+      "start": 142.76,
+      "end": 142.86,
+      "probability": 0.29135459661483765
+    },
+    {
+      "id": "w402",
+      "text": "It",
+      "start": 169.36,
+      "end": 170.24,
+      "probability": 0.22183185815811157
+    },
+    {
+      "id": "w449",
+      "text": "that",
+      "start": 189.68,
+      "end": 190.52,
+      "probability": 0.4537447690963745
+    },
+    {
+      "id": "w469",
+      "text": "cases,",
+      "start": 197.6,
+      "end": 197.74,
+      "probability": 0.004140892531722784
+    },
+    {
+      "id": "w518",
+      "text": "4.",
+      "start": 219.06,
+      "end": 219.28,
+      "probability": 0.3301751911640167
+    },
+    {
+      "id": "w520",
+      "text": "Steam",
+      "start": 220.28,
+      "end": 220.62,
+      "probability": 0.356546014547348
+    },
+    {
+      "id": "w536",
+      "text": "court.",
+      "start": 226.16,
+      "end": 226.34,
+      "probability": 0.0012898016721010208
+    },
+    {
+      "id": "w605",
+      "text": "instance.",
+      "start": 251.98,
+      "end": 252.14,
+      "probability": 0.00032094429479911923
+    },
+    {
+      "id": "w655",
+      "text": "stated",
+      "start": 271.42,
+      "end": 271.78,
+      "probability": 0.5166919231414795
+    },
+    {
+      "id": "w668",
+      "text": "four",
+      "start": 275.88,
+      "end": 276.16,
+      "probability": 0.5819985866546631
+    },
+    {
+      "id": "w678",
+      "text": "What",
+      "start": 278.8,
+      "end": 279.66,
+      "probability": 0.153032585978508
+    },
+    {
+      "id": "w695",
+      "text": "Valve",
+      "start": 285.38,
+      "end": 285.38,
+      "probability": 0.5233045816421509
+    },
+    {
+      "id": "w743",
+      "text": "too.",
+      "start": 306.9,
+      "end": 307.28,
+      "probability": 0.5765133500099182
+    },
+    {
+      "id": "w744",
+      "text": "Under",
+      "start": 307.28,
+      "end": 308.18,
+      "probability": 0.26013410091400146
+    },
+    {
+      "id": "w809",
+      "text": "One",
+      "start": 333.34,
+      "end": 334.1,
+      "probability": 0.08086136728525162
+    },
+    {
+      "id": "w876",
+      "text": "According",
+      "start": 359.96,
+      "end": 360.98,
+      "probability": 0.558659553527832
+    },
+    {
+      "id": "w885",
+      "text": "emails,",
+      "start": 364.06,
+      "end": 364.58,
+      "probability": 0.5667610168457031
+    },
+    {
+      "id": "w887",
+      "text": "steam",
+      "start": 365.08,
+      "end": 365.42,
+      "probability": 0.5762086510658264
+    },
+    {
+      "id": "w937",
+      "text": "The",
+      "start": 386.92,
+      "end": 387.58,
+      "probability": 0.41027727723121643
+    },
+    {
+      "id": "w965",
+      "text": "click",
+      "start": 397.92,
+      "end": 398.2,
+      "probability": 0.36657118797302246
+    },
+    {
+      "id": "w1012",
+      "text": "Valve",
+      "start": 415.3,
+      "end": 416.38,
+      "probability": 0.07684247940778732
+    },
+    {
+      "id": "w1039",
+      "text": "questioned",
+      "start": 427.22,
+      "end": 427.66,
+      "probability": 0.599518358707428
+    },
+    {
+      "id": "w1073",
+      "text": "had",
+      "start": 442.24,
+      "end": 442.42,
+      "probability": 0.4239702820777893
+    },
+    {
+      "id": "w1182",
+      "text": "defendants.",
+      "start": 490.24,
+      "end": 490.5,
+      "probability": 0.023290596902370453
+    },
+    {
+      "id": "w1320",
+      "text": "new",
+      "start": 547.3,
+      "end": 547.46,
+      "probability": 0.025936977937817574
+    },
+    {
+      "id": "w1324",
+      "text": "Continuing",
+      "start": 549.84,
+      "end": 549.84,
+      "probability": 0.5003945231437683
+    },
+    {
+      "id": "w1386",
+      "text": "were",
+      "start": 575.26,
+      "end": 575.52,
+      "probability": 0.07133714854717255
+    },
+    {
+      "id": "w1443",
+      "text": "active.",
+      "start": 599.42,
+      "end": 599.84,
+      "probability": 0.2645682692527771
+    },
+    {
+      "id": "w1514",
+      "text": "Valve",
+      "start": 627.64,
+      "end": 628.54,
+      "probability": 0.061212435364723206
+    },
+    {
+      "id": "w1521",
+      "text": "steam",
+      "start": 630.48,
+      "end": 630.84,
+      "probability": 0.40543127059936523
+    },
+    {
+      "id": "w1584",
+      "text": "enforce",
+      "start": 656.84,
+      "end": 657.2,
+      "probability": 0.0009945564670488238
+    },
+    {
+      "id": "w1643",
+      "text": "automatically",
+      "start": 681.28,
+      "end": 681.76,
+      "probability": 0.4502531886100769
+    },
+    {
+      "id": "w1717",
+      "text": "On",
+      "start": 709.08,
+      "end": 710.08,
+      "probability": 0.2592248320579529
+    },
+    {
+      "id": "w1843",
+      "text": "merits",
+      "start": 760.58,
+      "end": 760.92,
+      "probability": 0.5773328542709351
+    },
+    {
+      "id": "w1872",
+      "text": "number",
+      "start": 773.92,
+      "end": 774.26,
+      "probability": 0.5492042303085327
+    },
+    {
+      "id": "w1877",
+      "text": "vs.",
+      "start": 778.38,
+      "end": 778.9,
+      "probability": 0.38366276025772095
+    },
+    {
+      "id": "w1904",
+      "text": "Steam",
+      "start": 790.88,
+      "end": 791.38,
+      "probability": 0.34198272228240967
+    },
+    {
+      "id": "w1932",
+      "text": "accept",
+      "start": 801.26,
+      "end": 801.58,
+      "probability": 0.3888018727302551
+    }
+  ],
+  "paragraphs": 123,
+  "paragraph_boundary_mismatches": [
+    "S05:p9"
+  ],
+  "scene_rows": 124,
+  "authored_macro_beats": 54,
+  "coverage_frames": 24840,
+  "audio_locked": false,
+  "auditory_review": "NOT_PERFORMED",
+  "short_exports_measured": false,
+  "input_hashes": {
+    "07_SCRIPT_FINAL.md": "84d6e6335a6b60dadf755797524fc2386965b5f2f8eade8a45ed3898797980c4",
+    "08_VOICE_SCRIPT.md": "79976f41811d9bb4b210c42886eb7754d53caad762d0ad63663c1ebf7bddde2c",
+    "07_SHORTS_LOCK.csv": "b6158f35592d7e985224e3412767a21a1b6608e8acada63078ad5f3f501920da",
+    "11_ASR_RAW.json": "d1faef4cdc63be4197845aecb2ce2752b379f9d250d06c3aa4a040d067be71ba",
+    "11_BEAT_INTENTS.json": "14b1810e07494befc6682a3b6290c1660ea75d0344ac605c5e841a7ef75d9ca6"
+  }
+}
