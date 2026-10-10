@@ -1,48 +1,48 @@
 {
-  "status": "STRUCTURAL_AND_SOURCE_GEOMETRY_QC_PASS__VISUAL_AUDITORY_QC_PENDING",
-  "checked_on": "2026-10-10",
-  "source": "12_RESOLVE_COMPOSITIONS_V3.csv",
-  "shots": 175,
-  "last_frame": 20700,
-  "frame_gaps": [],
-  "source_ids_used": [
-    "S001",
-    "S002",
-    "S003",
-    "S004",
-    "S005",
-    "S006",
-    "S007",
-    "S008",
-    "S009"
-  ],
-  "compositions": {
-    "TWO_POSITION_COMPARE": 16,
-    "EVIDENCE_STACK": 15,
-    "CHRONOLOGY": 14,
-    "NUMBER_CONTEXT": 13,
-    "EDITORIAL_QUESTION": 15,
-    "MECHANISM_MAP": 15,
-    "EVIDENCE_INSERT_OR_COMPARE": 26,
-    "DOCUMENT_ESTABLISH": 35,
-    "DOCUMENT_DETAIL_HIGHLIGHT": 25,
-    "NATIVE_END_SCREEN": 1
-  },
-  "PDF_matched_crops": 56,
-  "document_states_missing_PDF_geometry": [
+  "status": "STAGE12_V3_SOURCE_AND_STRUCTURAL_QC_PASS__FINAL_VISUAL_QC_PENDING",
+  "checked_at": "2026-10-10",
+  "picture_states": 175,
+  "grid_fps": 25,
+  "grid_frames": 20700,
+  "grid_gaps": [],
+  "subsafe_violations": [],
+  "document_states": 60,
+  "verified_PDF_shot_geometry": 56,
+  "PDF_without_exact_bbox": [
     "SH-166",
     "SH-167",
     "SH-168",
     "SH-169"
   ],
-  "marker_provisional_on_word": 0,
-  "marker_reference_rows": 19,
-  "marker_disabled": 15,
-  "marker_word_matches": 3,
-  "subtitle_safe_bottom_rect_violations": [],
-  "source_reference_status": "PDF text, hashes and bbox verified for S004/S005/S006/S007, not final 16:9 crop preview",
-  "final_picture_preview": "NOT_PERFORMED",
-  "audio_master_listening": "NOT_PERFORMED",
-  "paid_generation": "NOT_AUTHORIZED",
-  "release_ready": false
+  "PDF_sources": {
+    "S004": {
+      "status": "PDF_FETCHED_AND_PARSED",
+      "sha256": "ae27eece128a32bf7619a32e6394163e59858d9d3b117469e49176e8a6b837aa",
+      "pages": 32
+    },
+    "S005": {
+      "status": "PDF_FETCHED_AND_PARSED",
+      "sha256": "0869aa0738e4d93a3f494b194e89eac749742b434effa864126e4158424a55d8",
+      "pages": 6
+    },
+    "S006": {
+      "status": "PDF_FETCHED_AND_PARSED",
+      "sha256": "d95797aabf9519191058ce9e70615c512c47ab02f627f98cee80fb8b69f2f9ec",
+      "pages": 4
+    },
+    "S007": {
+      "status": "PDF_FETCHED_AND_PARSED",
+      "sha256": "60db617047148538cc0f929a957166c2844e715c8e5372ae44a52c422ed5f951",
+      "pages": 18
+    }
+  },
+  "asr_marker_candidates": 19,
+  "markers_enabled_pending_listen": 4,
+  "markers_disabled": 15,
+  "layer_artifact_build_receipt": "12_SOURCE_LAYER_BUILD_RECEIPT.json (verify current run; older asset packages superseded)",
+  "source_rights": "NOT_APPROVED",
+  "recorded_visual_preview": "NEW FULL_WIDTH REBUILD PENDING",
+  "auditory_QC": "NOT_PERFORMED",
+  "stage12_status": "PRODUCTION_BLUEPRINT_COMPLETE_LAYER_RENDER_QC_PENDING",
+  "stage13_allowed": false
 }
