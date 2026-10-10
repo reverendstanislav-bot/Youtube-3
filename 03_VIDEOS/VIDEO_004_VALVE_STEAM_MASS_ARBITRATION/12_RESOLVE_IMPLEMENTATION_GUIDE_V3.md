@@ -53,7 +53,7 @@ All keyframe offsets in `12_RESOLVE_COMPOSITIONS_V3.csv` are **local integer fra
 
 ## Sample fully traceable documentary crop
 
-A real S004 / Dkt.169 PDF line ("retroactive forum") on printed page 2 has PDF native rect **[152.16, 155.99, 248.99, 174.08] pt** from a source file whose SHA256 is recorded in the geometry report. For shot SH-011 the planned page-crop is **[0, 31.735, 430, 298.335] pt**, displayed at **[245, 105, 1250, 775] pixels** in the 1920×1080 canvas; its fitted source marker rectangle computes to **[687.326, 466.206, 281.483, 52.587] px**. This is an exact computational mapping in the planned crop coordinate system, **not proof the source screenshot was visually approved at edit quality**. A subsequent local preview must confirm the row is actually legible and the intended phrase is in view.
+A real S004 / Dkt.169 PDF line ("retroactive forum") on printed page 2 has PDF native rect **[152.16, 155.99, 248.99, 174.08] pt** from a source file whose SHA256 is recorded in the geometry report. For shot SH-011 the planned page-crop is **[0, 1.876, 612, 381.316] pt**, displayed at **[245, 105, 1250, 775] pixels** in the 1920×1080 canvas; its fitted source marker rectangle computes to **[555.784, 419.776, 197.774, 36.949] px**. This is an exact computational mapping in the planned crop coordinate system, **not proof the source screenshot was visually approved at edit quality**. A subsequent local preview must confirm the row is actually legible and the intended phrase is in view.
 
 ## Real source / rights gate
 
@@ -77,3 +77,6 @@ No sourced image or document automatically receives copyright/rights clearance t
 **PASS:** source-linked, frame-continuous 175-shot editor blueprint; 56 source-crop/marker geometries verified numerically from actual PDFs; 4/19 provisional word-triggered marker candidates.
 
 **HOLD:** real picture preview in Resolve; asset-license and screenshot QC; final marker listening; full audio & four Shorts auditions; all non-native source and image generation preflight. Stage12 planning is advanced but **not FINAL ASSET LOCK**.
+
+## Full-width source-crop repair (2026-10-10)
+The initial narrow cropped PDF layer cut off the left/right portions of surrounding document lines. This version uses source **full-page width** in the crop and retains vertical evidence focus, with source-native pixel marker coordinates recalculated. Importable source layers remain genuine PDF pixels; the alpha-mask layer is independent. Soft vertical edge feathering in the latest source-layer renderer avoids half-glyphs exactly at crop boundaries without adding black bands or changing the central cited text. QC evidence from the final rebuilt artifact, not the earlier 11-crop run, must determine final visual PASS.
