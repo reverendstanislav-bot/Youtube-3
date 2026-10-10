@@ -4,11 +4,11 @@ Status: PROVISIONAL_ASR_TIMELINE / AUDIO_LOCK_PENDING. Owner explicitly requeste
 
 ## Inputs and measured coverage
 
-Unchanged V11 canonical07 and normalized08 payloads; exact8Shorts text lock retained. Source master8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7,808seconds. Local faster-whisper1.2.1 / small.en, English explicit, CPU int8; no external ASR/TTS API. HyperFrames0.8.145 returned whisper_unavailable on this Windows host; local fallback used av16.1.0 because av19 is incompatible.
+Unchanged V11 canonical07 and normalized08 payloads; owner-selected4Shorts current production lock. Source master8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7,808seconds. Local faster-whisper1.2.1 / small.en, English explicit, CPU int8; no external ASR/TTS API. HyperFrames0.8.145 returned whisper_unavailable on this Windows host; local fallback used av16.1.0 because av19 is incompatible.
 
 11_ASR_RAW.json retains recognition verbatim;11_WORD_LEVEL_TRANSCRIPT.json retains1951observedword rows, not script text assigned invented timings.11_PARAGRAPH_ALIGNMENT.json maps123canonical paragraphs to observed anchors.11_ALIGNMENT_QC.json preserves differences, low-confidence words and44sub-50ms spans. Short/zero word spans are flagged, not silently interpolated or approved for captions. Do not use these provisional words for burned subtitles.
 
-54authored macrobeats in11_BEAT_INTENTS.json cover all123paragraphs. SCENE_TIMELINE.csv has123narration cue spans plus1planned end screen; contiguous0–828seconds at30fps (24840frames), no overlaps/gaps. Narration0–808s; planned no-narration end screen808–828s. Endscreen is not yet in the WAV/video. Scene rows are semantic cues, NOT123mandatory picture cuts or54static-slide holds.
+54authored macrobeats in11_BEAT_INTENTS.json cover all123paragraphs. SCENE_TIMELINE.csv has123narration cue spans plus1planned end screen; contiguous0–828seconds at25fps (20700frames), no overlaps/gaps. Narration0–808s; planned no-narration end screen808–828s. Endscreen is not yet in the WAV/video. Scene rows are semantic cues, NOT123mandatory picture cuts or54static-slide holds.
 
 ## Directorial contract
 
@@ -44,3 +44,6 @@ review_correction: PASS_PROVISIONAL_STAGE11_PREPARATION / NOT_STAGE11_LOCK. All5
 Owner revision 2026-10-10: exactly four production Shorts (SH01, SH02, SH04, SH08); former SH03, SH05, SH06, SH07 are archived candidates only. All four cut edges and full audio still require actual auditory QA before final lock. No export yet.
 
 Owner 2026-10-10: production Shorts are SH01, SH02, SH04, SH08 only. Other historical candidates are inactive. Audio audition and Shorts boundary verification remain pending.
+
+## 2026-10-10 frame-standard repair and four-Short scope
+SCENE_TIMELINE.csv rebuilt for 25fps: 124 contiguous cues (123 narration + planned20s end screen), total20700frames, no frame gaps/overlaps; 0–808s narration,808–828s planned endscreen. Generator11_BUILD_TIMELINE.py updated to25fps. Exactly four current cuts: SH01/SH02/SH04/SH08. Four MP3 audio-only cut previews independently exported and decoded for timing inspection; these are NOT final Shorts videos, and start/end audio listening remains pending. Technical QC does not substitute for audible pronunciation/prosody approval.
