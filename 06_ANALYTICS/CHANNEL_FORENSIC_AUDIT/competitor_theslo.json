@@ -1,0 +1,34 @@
+{
+  "name": "theslo",
+  "url": "https://www.youtube.com/channel/UCbWjpMZNdFhEnMeIB-bMYIQ/videos",
+  "capture_date": "2026-10-10",
+  "title": "theslo",
+  "description": "Theslo makes investigative documentaries about corporate scandals, startup lawsuits, and business fraud. Real court cases. Real company secrets. New documentary every",
+  "header": [
+    "@theslo-v8o",
+    "4 subscribers",
+    "2 videos"
+  ],
+  "videos": [
+    {
+      "id": "4DB1k0G4sRU",
+      "title": "Yahoo Had One Chance to Own Google. They Blew It.",
+      "metadata": [
+        "7 views",
+        "3 weeks ago"
+      ],
+      "runtime": "3:41",
+      "thumbnail": "https://i.ytimg.com/vi/4DB1k0G4sRU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA3ITHJ6AfjHtMdLUvsp7-Cl5TAzg"
+    },
+    {
+      "id": "Traqn06FkRs",
+      "title": "He Sued Zuckerberg Over Facebook. Here's What Happened.",
+      "metadata": [
+        "131 views",
+        "1 month ago"
+      ],
+      "runtime": "12:10",
+      "thumbnail": "https://i.ytimg.com/vi/Traqn06FkRs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA64TYXE7Y7P81qOFHln8wTCAP4gg"
+    }
+  ]
+}

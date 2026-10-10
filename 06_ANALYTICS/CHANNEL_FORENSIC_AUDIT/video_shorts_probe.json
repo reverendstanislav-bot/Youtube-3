@@ -1,0 +1,574 @@
+[
+  {
+    "episode": 1,
+    "filename": "EBAY-S01 - HOW IT STARTED.mp4",
+    "duration": 65.08,
+    "sha256": "d4695de02bf87e7a0d827bd1001bbe7595ff4261553a33afd593748708f31a76",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S02 - THE INTERNAL MESSAGES.mp4",
+    "duration": 40.44,
+    "sha256": "97f0b41a327c0c92580dd58efc1369d51e7b02dd5bd052a478c745f5dfbf0395",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S03 - CRITICISM TO SECURITY.mp4",
+    "duration": 47.04,
+    "sha256": "7970badca5f6a1bce3c87e42e6e8a6c89e34aaf3201f09d54c64396f3025dc18",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S04 - GPS ATTEMPT.mp4",
+    "duration": 36.68,
+    "sha256": "6ace756a0722f42dd678dc97efc0ea4a2dbe75dfd7a4b1803e6214c3909a433f",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S05 - SEVEN GUILTY PLEAS.mp4",
+    "duration": 62.88,
+    "sha256": "c08013b727aa8b058a134b5734988be7e0329d556484f4a235667a0e24970d4d",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S06 - DPA IS NOT A CONVICTION.mp4",
+    "duration": 70.32,
+    "sha256": "800821a941e4c52ea3b10f7c183933c25d58c2dd28ed3c78d903fe5db83288a5",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S07 - NOT A VERDICT.mp4",
+    "duration": 41.56,
+    "sha256": "2a5099d5adce6633f645e6cdf14ff2a92e4f876198818a681c68f40d91b19514",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S08 - $55.7M EXPLAINED.mp4",
+    "duration": 61.4,
+    "sha256": "b8815d912563d3a00beae5cc386d97e9a506df4d5784f6825453d03adbb74598",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S09 - NO $58.7M AWARD.mp4",
+    "duration": 30.6,
+    "sha256": "8f1d3c7fc6c6afd6d512663f60dcf53689ff133c31ba535adf16d9133e38304b",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 1,
+    "filename": "EBAY-S10 - WHAT IT COST.mp4",
+    "duration": 33.04,
+    "sha256": "e1ba4fb8da55fed2c01805501dc84c5573954f2c27b2c96340fabd478fe52a0f",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S01 - 1 BILLION FOR A DEAL THAT NEVER CLOSED.mp4",
+    "duration": 52.92,
+    "sha256": "eb561577cd2ab9b4adb16c5b7daa4beef1c59fd54b65cf7a63f64a47a1eb37c1",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S02 - THE CLAUSE CAME BEFORE THE DEAL.mp4",
+    "duration": 99.28,
+    "sha256": "82628d3a97e7a09a227d03f71ebd0e6ca77da00177f4ae78448d39c07bc32599",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S03 - NOT A PENALTY.mp4",
+    "duration": 55.84,
+    "sha256": "edbe7dccb58dcd49562923d30c387cf727708abf3853def34e3bd04baced67ce",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S04 - NO FINAL NO YET.mp4",
+    "duration": 81.4,
+    "sha256": "6fff5d9f673fa4aaf08c2a955fa78366771d74453ef63fd32f1af93907c4f32c",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S05 - HOW THE DEAL ACTUALLY ENDED.mp4",
+    "duration": 80.44,
+    "sha256": "5569b4e6083b75c2a7abe93bdb05d507cdd3c124f7a867a8c24324861674cf19",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S06 - 3 DAYS LATER 1 BILLION.mp4",
+    "duration": 66.16,
+    "sha256": "4a0fe724e904047f80c39a982018a28f6fa0eb1847210f457c3b4f1a3974e39c",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S07 - 20 BILLION IS NOT 1 BILLION.mp4",
+    "duration": 65.16,
+    "sha256": "5f1e82c1cf191f3874e3c71f37d999535609c97b296ba12f31c4884fe970fc58",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 2,
+    "filename": "AF-S08 - FIGMA AFTER ADOBE.mp4",
+    "duration": 73.12,
+    "sha256": "2807325ba9bb33aa7b3ca1b263448cb51adb97774521874e1b9bca7a9dd7211d",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S01 - ONE ACCOUNT 4562 TRACKS.mp4",
+    "duration": 57.6,
+    "sha256": "96da5f846bcf9070e2715f7c46095d1a3d1bd11e7413ef734c68cde8454dd06d",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S02 - THE DISTRIBUTOR IN THE MIDDLE.mp4",
+    "duration": 55.44,
+    "sha256": "880902ef66e22e1059f6ac439380bbc71f2f74686034fab5003fae28b13c38a2",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S03 - THIS IS NOT AN AI MUSIC CASE.mp4",
+    "duration": 57.24,
+    "sha256": "46d418dae594987ed3da031eb261573216d12c30bf7ed5661bb608c9023c0c0f",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S04 - 1000 EXAMPLES.mp4",
+    "duration": 48.76,
+    "sha256": "737dec4dc90aacfb74876ce587d6864ce011b5b000c4872a6bf4db9b87c25ec9",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S05 - WHAT AN ISRC ACTUALLY DOES.mp4",
+    "duration": 51.4,
+    "sha256": "c22a010bebdce7a4abce20f0e722448cbdde31936d586d66a8901741aa93b535",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S06 - WHAT HAPPENS AFTER NOTICE.mp4",
+    "duration": 49.8,
+    "sha256": "a45f4d7b960e11891d99160f637d7e5a9f28086a71fde51e36d5ac3d1893fcc7",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S07 - DISTROKID DISPUTES THE STORY.mp4",
+    "duration": 47.96,
+    "sha256": "949aade72b62db1fc4e072dedfae0e2e0759cbb626cbb75dd0dee0f9367dca1c",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  },
+  {
+    "episode": 3,
+    "filename": "DK-S08 - 150000 PER WORK.mp4",
+    "duration": 55.44,
+    "sha256": "fa205bf6767687ce841d727e7172ca62853f933b192b43f61ad0a20f9daa765d",
+    "streams": [
+      {
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "codec_name": "h264",
+        "r_frame_rate": "25/1"
+      },
+      {
+        "codec_type": "audio",
+        "width": null,
+        "height": null,
+        "codec_name": "aac",
+        "r_frame_rate": "0/0"
+      }
+    ]
+  }
+]

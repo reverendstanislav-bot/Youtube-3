@@ -1,0 +1,33 @@
+{
+  "name": "BizVaultMedia",
+  "url": "https://www.youtube.com/channel/UCpzZuNqMuOPmXcja3jBPixQ/videos",
+  "capture_date": "2026-10-10",
+  "title": "BizVaultMedia",
+  "description": "Welcome to BizVault Media — your weekly deep-dive into the wildest business drama, internet controversies, startup failures, and corporate scandals shaping today’s world.\n\nEvery week, we uncover:\n\n✅ The rise & fall of billion-dollar companies\n✅ Internet drama summary & influencer scandals explained\n✅ Corporate frauds, lawsuits & controversies\n✅ Startup failures & business mistakes\n✅ Tech giants, marketing disasters & viral brand stories\n\nOur mission is simple:\nBreak down complex business stories into powerful, entertaining 15–20 minute documentaries — with zero fluff.\n\nIf you love:\n💼 Business case studies\n🔥 Internet drama breakdowns\n📉 Corporate collapses\n💰 Wild startup stories\n📊 Business exposés\n\n…then hit subscribe and step into the vault.\n\nNew videos every week.\nBusiness. Drama. Truth.\n",
+  "header": [
+    "@BizVaultMedia",
+    "2 videos"
+  ],
+  "videos": [
+    {
+      "id": "XPecTePloxM",
+      "title": "“India’s Solar Bubble: About to Burst?",
+      "metadata": [
+        "2 views",
+        "9 months ago"
+      ],
+      "runtime": "2:33",
+      "thumbnail": "https://i.ytimg.com/vi/XPecTePloxM/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYEyBPKH8wDw==&rs=AOn4CLCyICQdMCC2lYk1K-bafSuchH6maw"
+    },
+    {
+      "id": "K9lWMH94JBc",
+      "title": "“IndiGo Meltdown Explained in 60 Seconds | Aviation Documentary”",
+      "metadata": [
+        "9 views",
+        "9 months ago"
+      ],
+      "runtime": "0:57",
+      "thumbnail": "https://i.ytimg.com/vi/K9lWMH94JBc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDxxio4V9b8RRRKNV0VjDuclogddQ"
+    }
+  ]
+}

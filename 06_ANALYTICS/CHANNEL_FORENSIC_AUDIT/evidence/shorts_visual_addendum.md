@@ -1,0 +1,5 @@
+
+## Дополнение: непосредственная проверка всех26 локальныхShorts
+Проверены кадры0s,3s,end−1.5s, media probe и SHA-256 каждого. Источники: evidence/video_shorts_probe.json и video_shorts_001_contact.png, video_shorts_002_contact.png, video_shorts_003_contact.png; подробности06. Это выборка кадров, не полное слуховое прослушивание.
+
+26/26 используют горизонтальную16:9картинку в узкой средней полосе9:16 с большими чёрными/размытыми областями. У eBay10 мелкие burnedcaptions внутриполосы и крупные genericlabels; Adobe8/DK8 на проверенныхкадрах безburnedcaptions. eBay10+DK8 заканчиваютсяполноэкраннойCTAкарточкой; уAdobe8 наend−1.5s ещёstorypicture, CTAнеобнаружена ввыборке. Adobe0sчастоblack/fade, заголовоквиденк3s; точнаядлительностьfadeнеизмерена. DKчасто начинаетабстрактными “THE STORY CHANGES”, “ISRC”, “THIS IS WHERE IT CHANGES”. ЭтидизайнерскиесвойстваHIGHverified; причиннаясвязьс79.7%swipesLOW. Предложение: meaningfulfirstframe+смысловаявертикальнаякомпоновка изимеющихсяassets, безплатнойгенерации; отдельныйvertical-layouttestпослеhooktest, чтобы не смешиватьфакторы.

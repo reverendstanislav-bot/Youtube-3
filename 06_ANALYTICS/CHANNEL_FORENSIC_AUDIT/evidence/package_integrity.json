@@ -1,0 +1,25 @@
+{
+  "required_count": 15,
+  "broken_local_links": [],
+  "csv_rows": {
+    "09_ROOT_CAUSE_MATRIX.csv": 10,
+    "10_EXPERIMENT_BACKLOG.csv": 12
+  },
+  "owner_answers": 18,
+  "HQ_decoded_frames": 25210,
+  "HQ_nonincreasing_decoded_timestamps": [
+    {
+      "frame": 24710,
+      "previous": 988.502031,
+      "current": 988.462031
+    },
+    {
+      "frame": 25207,
+      "previous": 1008.302031,
+      "current": 1008.302031
+    }
+  ],
+  "broken_local_links_final": [],
+  "git_final_source": "0bc1e6f",
+  "independent_review": "conducted; lead resolutions documented, no blanket audio or motion PASS"
+}

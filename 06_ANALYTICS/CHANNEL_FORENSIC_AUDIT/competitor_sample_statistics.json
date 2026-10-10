@@ -1,0 +1,1221 @@
+{
+  "age_reference_utc": "2026-10-10T09:35:00Z",
+  "summaries": [
+    {
+      "name": "ColdFusion",
+      "sample": 10,
+      "n7to30": 2,
+      "median_views": 1397790.5,
+      "median_vpd": 112971.27764647736,
+      "runtime_median": 17.975,
+      "median_gap_days": 9.807928240740742,
+      "min_views": 1325706,
+      "max_views": 1469875
+    },
+    {
+      "name": "ModernMBA",
+      "sample": 10,
+      "n7to30": 1,
+      "median_views": 800838,
+      "median_vpd": 40563.521534735744,
+      "runtime_median": 40.166666666666664,
+      "median_gap_days": 13.99974537037037,
+      "min_views": 800838,
+      "max_views": 800838
+    },
+    {
+      "name": "HowMoneyWorks",
+      "sample": 10,
+      "n7to30": 3,
+      "median_views": 1185816,
+      "median_vpd": 72333.98955884112,
+      "runtime_median": 18.475,
+      "median_gap_days": 6.838738425925926,
+      "min_views": 586569,
+      "max_views": 1512564
+    },
+    {
+      "name": "Asianometry",
+      "sample": 10,
+      "n7to30": 7,
+      "median_views": 269246,
+      "median_vpd": 16191.183144427296,
+      "runtime_median": 20.966666666666665,
+      "median_gap_days": 3.999884259259259,
+      "min_views": 156427,
+      "max_views": 404930,
+      "high": {
+        "channel": "Asianometry",
+        "id": "3nTpW52nioI",
+        "title": "High Bandwidth Flash Is Coming",
+        "views": "404930",
+        "duration_seconds": "1253",
+        "publish_date": "2026-09-24T16:00:30-07:00",
+        "upload_date": "2026-09-24T16:00:30-07:00",
+        "description": "Links:\n- Patreon (Support the channel directly!): https://www.patreon.com/Asianometry\n- X: https://twitter.com/asianometry\n- Newsletter & Podcast (available through Stratechery Plus): https://asianometry.passport.online/\n- LinkedIn (feel free to connect): www.linkedin.com/in/jon-y-asianometry",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=3nTpW52nioI&ei=eAbKar68Gbf0sfIPnNDKqQE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650024&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=BB57529709CB4F3C40E0534C1383E8B6D9A9E9D8.25FD4CC0AF96A8961D5C994709A509D2B4A1313E&key=yt8&lang=en",
+            "name": {
+              "simpleText": "English"
+            },
+            "vssId": ".en",
+            "languageCode": "en",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=3nTpW52nioI&ei=eAbKar68Gbf0sfIPnNDKqQE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650024&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=BB57529709CB4F3C40E0534C1383E8B6D9A9E9D8.25FD4CC0AF96A8961D5C994709A509D2B4A1313E&key=yt8&kind=asr&lang=en&variant=gemini",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 15.440625,
+        "lifetime_views_per_day": 26224.974701477433
+      },
+      "low": {
+        "channel": "Asianometry",
+        "id": "Qeunu8YkuOk",
+        "title": "Exxon’s Office Fling",
+        "views": "156427",
+        "duration_seconds": "1539",
+        "publish_date": "2026-09-17T16:00:39-07:00",
+        "upload_date": "2026-09-17T16:00:39-07:00",
+        "description": "Links:\n- Patreon (Support the channel directly!): https://www.patreon.com/Asianometry\n- X: https://twitter.com/asianometry\n- Newsletter & Podcast (available through Stratechery Plus): https://asianometry.passport.online/\n- LinkedIn (feel free to connect): www.linkedin.com/in/jon-y-asianometry",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=Qeunu8YkuOk&ei=egbKap_RIdKjt7EPuoy-iQ4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650026&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=395B9992B4CE1F53C0BA93D1D539A6FA2D4D4744.BAEFA5E75BE82AD3139FB6D326BCD82609B1103D&key=yt8&lang=en",
+            "name": {
+              "simpleText": "English"
+            },
+            "vssId": ".en",
+            "languageCode": "en",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=Qeunu8YkuOk&ei=egbKap_RIdKjt7EPuoy-iQ4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650026&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=395B9992B4CE1F53C0BA93D1D539A6FA2D4D4744.BAEFA5E75BE82AD3139FB6D326BCD82609B1103D&key=yt8&kind=asr&lang=en",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 22.440520833333334,
+        "lifetime_views_per_day": 6970.738387125224
+      }
+    },
+    {
+      "name": "fern-tv",
+      "sample": 10,
+      "n7to30": 3,
+      "median_views": 7958121,
+      "median_vpd": 353612.1746446928,
+      "runtime_median": 29.633333333333333,
+      "median_gap_days": 6.999884259259259,
+      "min_views": 2685046,
+      "max_views": 8119750
+    },
+    {
+      "name": "LogicallyAnswered",
+      "sample": 10,
+      "n7to30": 6,
+      "median_views": 127752.5,
+      "median_vpd": 8392.836030948618,
+      "runtime_median": 15.441666666666666,
+      "median_gap_days": 3.145775462962963,
+      "min_views": 105264,
+      "max_views": 283555,
+      "high": {
+        "channel": "LogicallyAnswered",
+        "id": "g_OahdHNtjM",
+        "title": "The Fiverr Situation Gets Worse...",
+        "views": "283555",
+        "duration_seconds": "839",
+        "publish_date": "2026-10-02T12:00:25-07:00",
+        "upload_date": "2026-10-02T12:00:25-07:00",
+        "description": "Fiverr built its business on cheap freelance jobs. But what happens when AI can do more of that work in seconds? This video looks at how Fiverr went from a pandemic boom to a shrinking marketplace, with fewer buyers, falling revenue, and repeated cuts to its 2026 forecast. Back in 2020 and 2021, remote work sent demand soaring and pushed Fiverr’s stock to highs. Then offices reopened, growth slowed, and AI changed the economics of small gigs. Fiverr responded with AI categories, Fiverr Go, ads, subscriptions, and a workforce reduction. For a while, higher spending per buyer helped soften the damage. But as more customers left, that cushion started to wear thin. Now Fiverr is betting on larger, more complex projects and businesses willing to spend thousands of dollars. That means changing its search system, raising quality expectations, and convincing clients to see Fiverr as a place for serious work. Established sellers are feeling the disruption, while investors are asking whether the shift can happen fast enough. With the transformation expected to take at least six quarters, Fiverr’s future comes down to one question: can bigger projects replace the small jobs AI is taking away?\n\nLinkedIn: https://www.linkedin.com/in/hariharan-jayakumar-silo\nInstagram: https://www.instagram.com/hariharan.jayakumar/\n\nTimeStamps:\n0:00 - Fiverr’s Collapse Introduction\n0:48 - Pandemic Boom\n3:37 - AI Takeover\n8:33 - Upmarket Gamble\n\nSources: https://pastebin.com/xw6GA5zg",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ar&variant=timing-optimized",
+            "name": {
+              "simpleText": "Arabic (auto-generated)"
+            },
+            "vssId": "a.ar",
+            "languageCode": "ar",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=bn&variant=timing-optimized",
+            "name": {
+              "simpleText": "Bangla (auto-generated)"
+            },
+            "vssId": "a.bn",
+            "languageCode": "bn",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=nl&variant=timing-optimized",
+            "name": {
+              "simpleText": "Dutch (auto-generated)"
+            },
+            "vssId": "a.nl",
+            "languageCode": "nl",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&lang=en",
+            "name": {
+              "simpleText": "English"
+            },
+            "vssId": ".en",
+            "languageCode": "en",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=en",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=fr&variant=timing-optimized",
+            "name": {
+              "simpleText": "French (auto-generated)"
+            },
+            "vssId": "a.fr",
+            "languageCode": "fr",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=de&variant=timing-optimized",
+            "name": {
+              "simpleText": "German (auto-generated)"
+            },
+            "vssId": "a.de",
+            "languageCode": "de",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=iw&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hebrew (auto-generated)"
+            },
+            "vssId": "a.iw",
+            "languageCode": "iw",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=hi&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hindi (auto-generated)"
+            },
+            "vssId": "a.hi",
+            "languageCode": "hi",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=id&variant=timing-optimized",
+            "name": {
+              "simpleText": "Indonesian (auto-generated)"
+            },
+            "vssId": "a.id",
+            "languageCode": "id",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=it&variant=timing-optimized",
+            "name": {
+              "simpleText": "Italian (auto-generated)"
+            },
+            "vssId": "a.it",
+            "languageCode": "it",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ja&variant=timing-optimized",
+            "name": {
+              "simpleText": "Japanese (auto-generated)"
+            },
+            "vssId": "a.ja",
+            "languageCode": "ja",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+            "name": {
+              "simpleText": "Korean (auto-generated)"
+            },
+            "vssId": "a.ko",
+            "languageCode": "ko",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ml&variant=timing-optimized",
+            "name": {
+              "simpleText": "Malayalam (auto-generated)"
+            },
+            "vssId": "a.ml",
+            "languageCode": "ml",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=pl&variant=timing-optimized",
+            "name": {
+              "simpleText": "Polish (auto-generated)"
+            },
+            "vssId": "a.pl",
+            "languageCode": "pl",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=pt&variant=timing-optimized",
+            "name": {
+              "simpleText": "Portuguese (auto-generated)"
+            },
+            "vssId": "a.pt",
+            "languageCode": "pt",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=pa&variant=timing-optimized",
+            "name": {
+              "simpleText": "Punjabi (auto-generated)"
+            },
+            "vssId": "a.pa",
+            "languageCode": "pa",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ru&variant=timing-optimized",
+            "name": {
+              "simpleText": "Russian (auto-generated)"
+            },
+            "vssId": "a.ru",
+            "languageCode": "ru",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=es&variant=timing-optimized",
+            "name": {
+              "simpleText": "Spanish (auto-generated)"
+            },
+            "vssId": "a.es",
+            "languageCode": "es",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=ta&variant=timing-optimized",
+            "name": {
+              "simpleText": "Tamil (auto-generated)"
+            },
+            "vssId": "a.ta",
+            "languageCode": "ta",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=te&variant=timing-optimized",
+            "name": {
+              "simpleText": "Telugu (auto-generated)"
+            },
+            "vssId": "a.te",
+            "languageCode": "te",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=g_OahdHNtjM&ei=gQbKaqHeOtSQsfIPlqv26Q4&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650033&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=A4ACF3789103DFD988007351D9C86D4E8212BA84.9A9047759AD4300159C649AFD08C5FD61F21075E&key=yt8&kind=asr&lang=uk&variant=timing-optimized",
+            "name": {
+              "simpleText": "Ukrainian (auto-generated)"
+            },
+            "vssId": "a.uk",
+            "languageCode": "uk",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 7.607349537037037,
+        "lifetime_views_per_day": 37273.82298124833
+      },
+      "low": {
+        "channel": "LogicallyAnswered",
+        "id": "tFGU5FlrnXw",
+        "title": "Apple Won…By Ignoring AI",
+        "views": "131647",
+        "duration_seconds": "926",
+        "publish_date": "2026-09-16T10:00:36-07:00",
+        "upload_date": "2026-09-16T10:00:36-07:00",
+        "description": "Try Mammouth now at http://mammouth.ai\n\nFor years, Apple was mocked for falling behind in AI. Siri was delayed, Apple Intelligence struggled to live up to the hype, competitors were spending hundreds of billions on data centers and GPUs, and some people were even questioning whether Apple still belonged in the Magnificent 7. Then something strange happened. Apple surged back toward the top of the market while spending a fraction of what companies like Amazon, Microsoft, Meta, and Google are pouring into AI. Instead of building massive AI infrastructure itself, Apple has taken a completely different approach: run as much AI as possible directly on its devices, use existing infrastructure for heavier workloads, and rent outside compute when necessary. That strategy looks even more powerful when you consider Apple already controls more than 2.5 billion active devices. While everyone else is fighting to build the best model and the biggest data centers, Apple may have realized that the most valuable part of AI is not the model at all. It is owning the customers, the hardware, and the ecosystem where AI actually gets used.\n\nLinkedIn: https://www.linkedin.com/in/hariharan-jayakumar-silo\nInstagram: https://www.instagram.com/hariharan.jayakumar/\n\nTimeStamps:\n0:00 - Apple AI\n0:31 - The Mag 6 Part\n6:13 - Capex\n11:24 - The Moat\n\nSources: https://pastebin.com/j3nKSTZt",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ar&variant=timing-optimized",
+            "name": {
+              "simpleText": "Arabic (auto-generated)"
+            },
+            "vssId": "a.ar",
+            "languageCode": "ar",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=bn&variant=timing-optimized",
+            "name": {
+              "simpleText": "Bangla (auto-generated)"
+            },
+            "vssId": "a.bn",
+            "languageCode": "bn",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=nl-NL&variant=timing-optimized",
+            "name": {
+              "simpleText": "Dutch (Netherlands) (auto-generated)"
+            },
+            "vssId": "a.nl-NL",
+            "languageCode": "nl-NL",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&lang=en",
+            "name": {
+              "simpleText": "English"
+            },
+            "vssId": ".en",
+            "languageCode": "en",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=en&variant=gemini",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=fr-FR&variant=timing-optimized",
+            "name": {
+              "simpleText": "French (France) (auto-generated)"
+            },
+            "vssId": "a.fr-FR",
+            "languageCode": "fr-FR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=de-DE&variant=timing-optimized",
+            "name": {
+              "simpleText": "German (Germany) (auto-generated)"
+            },
+            "vssId": "a.de-DE",
+            "languageCode": "de-DE",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=iw&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hebrew (auto-generated)"
+            },
+            "vssId": "a.iw",
+            "languageCode": "iw",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=hi&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hindi (auto-generated)"
+            },
+            "vssId": "a.hi",
+            "languageCode": "hi",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=id&variant=timing-optimized",
+            "name": {
+              "simpleText": "Indonesian (auto-generated)"
+            },
+            "vssId": "a.id",
+            "languageCode": "id",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=it&variant=timing-optimized",
+            "name": {
+              "simpleText": "Italian (auto-generated)"
+            },
+            "vssId": "a.it",
+            "languageCode": "it",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ja&variant=timing-optimized",
+            "name": {
+              "simpleText": "Japanese (auto-generated)"
+            },
+            "vssId": "a.ja",
+            "languageCode": "ja",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+            "name": {
+              "simpleText": "Korean (auto-generated)"
+            },
+            "vssId": "a.ko",
+            "languageCode": "ko",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ml&variant=timing-optimized",
+            "name": {
+              "simpleText": "Malayalam (auto-generated)"
+            },
+            "vssId": "a.ml",
+            "languageCode": "ml",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=pl&variant=timing-optimized",
+            "name": {
+              "simpleText": "Polish (auto-generated)"
+            },
+            "vssId": "a.pl",
+            "languageCode": "pl",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=pt-BR&variant=timing-optimized",
+            "name": {
+              "simpleText": "Portuguese (Brazil) (auto-generated)"
+            },
+            "vssId": "a.pt-BR",
+            "languageCode": "pt-BR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=pa&variant=timing-optimized",
+            "name": {
+              "simpleText": "Punjabi (auto-generated)"
+            },
+            "vssId": "a.pa",
+            "languageCode": "pa",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ru&variant=timing-optimized",
+            "name": {
+              "simpleText": "Russian (auto-generated)"
+            },
+            "vssId": "a.ru",
+            "languageCode": "ru",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=es-US&variant=timing-optimized",
+            "name": {
+              "simpleText": "Spanish (United States) (auto-generated)"
+            },
+            "vssId": "a.es-US",
+            "languageCode": "es-US",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=ta&variant=timing-optimized",
+            "name": {
+              "simpleText": "Tamil (auto-generated)"
+            },
+            "vssId": "a.ta",
+            "languageCode": "ta",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=te&variant=timing-optimized",
+            "name": {
+              "simpleText": "Telugu (auto-generated)"
+            },
+            "vssId": "a.te",
+            "languageCode": "te",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=tFGU5FlrnXw&ei=hAbKasvOD4eUsfIPpKWo8AE&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650036&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=60D0F6519B54B5060F22B65851A92F4BE2C66ACA.4E2833FD0F565E5E1143A294BF76FCA6B1EF92DF&key=yt8&kind=asr&lang=uk&variant=timing-optimized",
+            "name": {
+              "simpleText": "Ukrainian (auto-generated)"
+            },
+            "vssId": "a.uk",
+            "languageCode": "uk",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 23.690555555555555,
+        "lifetime_views_per_day": 5556.940177754848
+      }
+    },
+    {
+      "name": "WallStreetMillennial",
+      "sample": 10,
+      "n7to30": 4,
+      "median_views": 209460.0,
+      "median_vpd": 8634.707551331481,
+      "runtime_median": 15.933333333333334,
+      "median_gap_days": 4.748865740740741,
+      "min_views": 125211,
+      "max_views": 313725,
+      "high": {
+        "channel": "WallStreetMillennial",
+        "id": "KmZDcyxJaWg",
+        "title": "Musk's Boring Company Is Even Dumber Than You Think",
+        "views": "313725",
+        "duration_seconds": "1136",
+        "publish_date": "2026-09-28T18:26:12-07:00",
+        "upload_date": "2026-09-28T18:26:12-07:00",
+        "description": "Get started with Templafy's MCP:\nChatGPT: https://link.omane.media/wsm2-templafy-september-gs-chatgpt\nClaude: https://link.omane.media/wsm2-templafy-september-gs-claude\nMicrosoft Copilot: https://link.omane.media/wsm2-templafy-september-gs-copilot\n\nIn this video we analyze Elon Musk's Boring Company\n\nSponsorship Inquiries: mary@creatormanager.co\n\nFor inquires related to Differentiated Analytics email us at: founder@differentiatedanalytics.com\n\nFor other inquiries: Wallstreetmillennial@gmail.com\n \nAll materials in these videos are used for educational purposes and fall within the guidelines of fair use. No copyright infringement intended. If you are or represent the copyright owner of materials used in this video and have a problem with the use of said material, please send me an email, wallstreetmillennial.com, and we can sort it out.\n\n––––––––––––––––––––––––––––––\nBuddha by Kontekst   / kontekstmusic  \nCreative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/2Pe7mBN\nMusic promoted by Audio Library    • Buddha – Kontekst (No Copyright Music)  \n––––––––––––––––––––––––––––––\n\n#wallstreetmillennial\n\n0:00 - 2:18 Intro\n2:19 - 8:14 The Original Promise\n8:15 - 10:30 Las Vegas Loop\n10:31 - 16:07 Tunnel Boring Machines\n16:08 Raking In The Dumb Money",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ar&variant=timing-optimized",
+            "name": {
+              "simpleText": "Arabic (auto-generated)"
+            },
+            "vssId": "a.ar",
+            "languageCode": "ar",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=bn&variant=timing-optimized",
+            "name": {
+              "simpleText": "Bangla (auto-generated)"
+            },
+            "vssId": "a.bn",
+            "languageCode": "bn",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=nl-NL&variant=timing-optimized",
+            "name": {
+              "simpleText": "Dutch (Netherlands) (auto-generated)"
+            },
+            "vssId": "a.nl-NL",
+            "languageCode": "nl-NL",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=en&variant=gemini",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=fr-FR&variant=timing-optimized",
+            "name": {
+              "simpleText": "French (France) (auto-generated)"
+            },
+            "vssId": "a.fr-FR",
+            "languageCode": "fr-FR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=de-DE&variant=timing-optimized",
+            "name": {
+              "simpleText": "German (Germany) (auto-generated)"
+            },
+            "vssId": "a.de-DE",
+            "languageCode": "de-DE",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=iw&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hebrew (auto-generated)"
+            },
+            "vssId": "a.iw",
+            "languageCode": "iw",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=hi&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hindi (auto-generated)"
+            },
+            "vssId": "a.hi",
+            "languageCode": "hi",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=id&variant=timing-optimized",
+            "name": {
+              "simpleText": "Indonesian (auto-generated)"
+            },
+            "vssId": "a.id",
+            "languageCode": "id",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=it&variant=timing-optimized",
+            "name": {
+              "simpleText": "Italian (auto-generated)"
+            },
+            "vssId": "a.it",
+            "languageCode": "it",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ja&variant=timing-optimized",
+            "name": {
+              "simpleText": "Japanese (auto-generated)"
+            },
+            "vssId": "a.ja",
+            "languageCode": "ja",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+            "name": {
+              "simpleText": "Korean (auto-generated)"
+            },
+            "vssId": "a.ko",
+            "languageCode": "ko",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ml&variant=timing-optimized",
+            "name": {
+              "simpleText": "Malayalam (auto-generated)"
+            },
+            "vssId": "a.ml",
+            "languageCode": "ml",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=pl&variant=timing-optimized",
+            "name": {
+              "simpleText": "Polish (auto-generated)"
+            },
+            "vssId": "a.pl",
+            "languageCode": "pl",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=pt-BR&variant=timing-optimized",
+            "name": {
+              "simpleText": "Portuguese (Brazil) (auto-generated)"
+            },
+            "vssId": "a.pt-BR",
+            "languageCode": "pt-BR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=pa&variant=timing-optimized",
+            "name": {
+              "simpleText": "Punjabi (auto-generated)"
+            },
+            "vssId": "a.pa",
+            "languageCode": "pa",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ru&variant=timing-optimized",
+            "name": {
+              "simpleText": "Russian (auto-generated)"
+            },
+            "vssId": "a.ru",
+            "languageCode": "ru",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=es-US&variant=timing-optimized",
+            "name": {
+              "simpleText": "Spanish (United States) (auto-generated)"
+            },
+            "vssId": "a.es-US",
+            "languageCode": "es-US",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=ta&variant=timing-optimized",
+            "name": {
+              "simpleText": "Tamil (auto-generated)"
+            },
+            "vssId": "a.ta",
+            "languageCode": "ta",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=te&variant=timing-optimized",
+            "name": {
+              "simpleText": "Telugu (auto-generated)"
+            },
+            "vssId": "a.te",
+            "languageCode": "te",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=KmZDcyxJaWg&ei=hgbKauPWOJ6WybgPwPzOkAc&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650038&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=D4CA5400398CC8EA8D4A609FB73EA8ACA11F2CCA.C162E47D3D2FBDE2D02A8664C89C3230D25CC62A&key=yt8&kind=asr&lang=uk&variant=timing-optimized",
+            "name": {
+              "simpleText": "Ukrainian (auto-generated)"
+            },
+            "vssId": "a.uk",
+            "languageCode": "uk",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 11.339444444444444,
+        "lifetime_views_per_day": 27666.6993287933
+      },
+      "low": {
+        "channel": "WallStreetMillennial",
+        "id": "b_4JMWP6Yq8",
+        "title": "The GAP-ification of Lululemon",
+        "views": "125211",
+        "duration_seconds": "777",
+        "publish_date": "2026-09-22T16:11:48-07:00",
+        "upload_date": "2026-09-22T16:11:48-07:00",
+        "description": "Get started with Templafy for free with the PowerPoint extension: https://link.omane.media/wsm-templafy-september-agent\n\nIn this video we analyze the recent poor performance of Lululemon.\n\nSponsorship Inquiries: mary@creatormanager.co\n\nFor inquires related to Differentiated Analytics email us at: founder@differentiatedanalytics.com\n\nFor other inquiries: Wallstreetmillennial@gmail.com\n \nAll materials in these videos are used for educational purposes and fall within the guidelines of fair use. No copyright infringement intended. If you are or represent the copyright owner of materials used in this video and have a problem with the use of said material, please send me an email, wallstreetmillennial.com, and we can sort it out.\n\n––––––––––––––––––––––––––––––\nBuddha by Kontekst   / kontekstmusic  \nCreative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0\nFree Download / Stream: http://bit.ly/2Pe7mBN\nMusic promoted by Audio Library    • Buddha – Kontekst (No Copyright Music)  \n––––––––––––––––––––––––––––––\n\n#wallstreetmillennial\n\n0:00 - 3:00 Intro\n3:01 - 7:38 Decline of Lululemon\n7:39 - 12:19 Chip Wilson Criticism\n12:20 New CEO",
+        "captions": [
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ar&variant=timing-optimized",
+            "name": {
+              "simpleText": "Arabic (auto-generated)"
+            },
+            "vssId": "a.ar",
+            "languageCode": "ar",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=bn&variant=timing-optimized",
+            "name": {
+              "simpleText": "Bangla (auto-generated)"
+            },
+            "vssId": "a.bn",
+            "languageCode": "bn",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=nl-NL&variant=timing-optimized",
+            "name": {
+              "simpleText": "Dutch (Netherlands) (auto-generated)"
+            },
+            "vssId": "a.nl-NL",
+            "languageCode": "nl-NL",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=en&variant=gemini",
+            "name": {
+              "simpleText": "English (auto-generated)"
+            },
+            "vssId": "a.en",
+            "languageCode": "en",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=fr-FR&variant=timing-optimized",
+            "name": {
+              "simpleText": "French (France) (auto-generated)"
+            },
+            "vssId": "a.fr-FR",
+            "languageCode": "fr-FR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=de-DE&variant=timing-optimized",
+            "name": {
+              "simpleText": "German (Germany) (auto-generated)"
+            },
+            "vssId": "a.de-DE",
+            "languageCode": "de-DE",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=iw&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hebrew (auto-generated)"
+            },
+            "vssId": "a.iw",
+            "languageCode": "iw",
+            "kind": "asr",
+            "rtl": true,
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=hi&variant=timing-optimized",
+            "name": {
+              "simpleText": "Hindi (auto-generated)"
+            },
+            "vssId": "a.hi",
+            "languageCode": "hi",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=id&variant=timing-optimized",
+            "name": {
+              "simpleText": "Indonesian (auto-generated)"
+            },
+            "vssId": "a.id",
+            "languageCode": "id",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=it&variant=timing-optimized",
+            "name": {
+              "simpleText": "Italian (auto-generated)"
+            },
+            "vssId": "a.it",
+            "languageCode": "it",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ja&variant=timing-optimized",
+            "name": {
+              "simpleText": "Japanese (auto-generated)"
+            },
+            "vssId": "a.ja",
+            "languageCode": "ja",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ko&variant=timing-optimized",
+            "name": {
+              "simpleText": "Korean (auto-generated)"
+            },
+            "vssId": "a.ko",
+            "languageCode": "ko",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ml&variant=timing-optimized",
+            "name": {
+              "simpleText": "Malayalam (auto-generated)"
+            },
+            "vssId": "a.ml",
+            "languageCode": "ml",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=pl&variant=timing-optimized",
+            "name": {
+              "simpleText": "Polish (auto-generated)"
+            },
+            "vssId": "a.pl",
+            "languageCode": "pl",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=pt-BR&variant=timing-optimized",
+            "name": {
+              "simpleText": "Portuguese (Brazil) (auto-generated)"
+            },
+            "vssId": "a.pt-BR",
+            "languageCode": "pt-BR",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=pa&variant=timing-optimized",
+            "name": {
+              "simpleText": "Punjabi (auto-generated)"
+            },
+            "vssId": "a.pa",
+            "languageCode": "pa",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ru&variant=timing-optimized",
+            "name": {
+              "simpleText": "Russian (auto-generated)"
+            },
+            "vssId": "a.ru",
+            "languageCode": "ru",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=es-US&variant=timing-optimized",
+            "name": {
+              "simpleText": "Spanish (United States) (auto-generated)"
+            },
+            "vssId": "a.es-US",
+            "languageCode": "es-US",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=ta&variant=timing-optimized",
+            "name": {
+              "simpleText": "Tamil (auto-generated)"
+            },
+            "vssId": "a.ta",
+            "languageCode": "ta",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=te&variant=timing-optimized",
+            "name": {
+              "simpleText": "Telugu (auto-generated)"
+            },
+            "vssId": "a.te",
+            "languageCode": "te",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          },
+          {
+            "baseUrl": "https://www.youtube.com/api/timedtext?v=b_4JMWP6Yq8&ei=hwbKasyaCdTOir4Ps9_ngQ0&caps=asr&opi=112496729&exp=xpe&xoaf=5&xowf=1&xospf=1&hl=en&ip=0.0.0.0&ipbits=0&expire=1791650039&sparams=ip,ipbits,expire,v,ei,caps,opi,exp,xoaf&signature=1C20356E011F3541A2C087887A698919AC4E60D5.E614A623154B6ADBC1DC6822868768C8D3D0217A&key=yt8&kind=asr&lang=uk&variant=timing-optimized",
+            "name": {
+              "simpleText": "Ukrainian (auto-generated)"
+            },
+            "vssId": "a.uk",
+            "languageCode": "uk",
+            "kind": "asr",
+            "isTranslatable": true,
+            "trackName": ""
+          }
+        ],
+        "playability": "OK",
+        "age_days": 17.432777777777776,
+        "lifetime_views_per_day": 7182.504222569235
+      }
+    },
+    {
+      "name": "CompanyMan",
+      "sample": 10,
+      "n7to30": 3,
+      "median_views": 314615,
+      "median_vpd": 21171.030773893774,
+      "runtime_median": 11.775,
+      "median_gap_days": 7.000011574074074,
+      "min_views": 290976,
+      "max_views": 352481
+    },
+    {
+      "name": "MagnatesMedia",
+      "sample": 10,
+      "n7to30": 0,
+      "median_views": null,
+      "median_vpd": null,
+      "runtime_median": 39.6,
+      "median_gap_days": 25.32991898148148,
+      "min_views": null,
+      "max_views": null
+    },
+    {
+      "name": "LawsuitFiles",
+      "sample": 2,
+      "n7to30": 1,
+      "median_views": 6,
+      "median_vpd": 0.33717621424738614,
+      "runtime_median": 45.083333333333336,
+      "median_gap_days": 19.812743055555554,
+      "min_views": 6,
+      "max_views": 6
+    },
+    {
+      "name": "theslo",
+      "sample": 2,
+      "n7to30": 1,
+      "median_views": 7,
+      "median_vpd": 0.2898556281259645,
+      "runtime_median": 7.925,
+      "median_gap_days": 26.115613425925925,
+      "min_views": 7,
+      "max_views": 7
+    },
+    {
+      "name": "Verdict101",
+      "sample": 6,
+      "n7to30": 0,
+      "median_views": null,
+      "median_vpd": null,
+      "runtime_median": 6.808333333333334,
+      "median_gap_days": 7.958587962962963,
+      "min_views": null,
+      "max_views": null
+    }
+  ]
+}
