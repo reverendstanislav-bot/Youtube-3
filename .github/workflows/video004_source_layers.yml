@@ -58,3 +58,5 @@ jobs:
 # v1.3 validated crop CSV schema and gated ASR marker masks
 
 # v1.4 full-PDF-width crops to prevent clipped documentary lines
+
+# v1.5 PDF source crop edge feather verified source-layer export
