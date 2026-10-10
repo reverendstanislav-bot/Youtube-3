@@ -48,3 +48,17 @@ The old54 rows are story-level macrobeats, **not final visual-shot count**. A 13
 **These are shot *states* rather than 175 paid still images.** Reframe/detail/insert/highlight states may share one genuine documentary source. Movement is not compulsory; no transitions or accents are auto-applied. Each non-native treatment is an editorial proposal to be approved against the exact spoken cue and verified source. Exact source line polygon/tilt and marker thickness remain UNRESOLVED until authentic page assets are ingested; do not invent coordinates or claim these designs are production-ready approved frames. Export status NONE; DaVinci Resolve is final edit system. The four Shorts use their locked narration excerpts and can reframe approved landscape layers after scene-picture QC.
 
 **Current V2 gate:** SHOT_ARCHITECTURE_PASS / SOURCE_CROP_AND_MOTION_KEYFRAME_PREFLIGHT_PENDING. To approve Stage12 final frame specifications: first download/rights-check17 document source families; extract true line bounds and make exact layered shot references; inspect source readability, 15% bottom subtitle-safe, per-shot choreography and cross-boundary variety; then identify actual paid-generation needs and quote/seek owner approval. Do not create unapproved images or fabricate document callouts.
+
+## V3 completed deliverables — verified 2026-10-10
+
+The owner editing-canon correction is now represented by the following canonical artifacts:
+
+- `12_RESOLVE_COMPOSITIONS_V3.csv` — **175/175** shot states, exact global25fps frames, Fusion composition layers and local keyframes; no gaps through frame20700.
+- `12_SOURCE_DOCUMENT_GEOMETRY.json` — verified original hashes/page coordinates for PDF source classes S004/S005/S006/S007.
+- `12_RESOLVE_PDF_CROPS_V3.csv` — 56 documentary-state mappings, original text bbox and full-width PDF source-crop-to-1920 canvas mapping.
+- `12_RESOLVE_MARKER_WORD_SYNC_V3.csv` — 19 candidate highlights; **4 provisional ASR word-linked /15 DISABLED** until genuine audible review.
+- `12_RESOLVE_IMPLEMENTATION_GUIDE_V3.md` — DaVinci Resolve/Fusion node layering, per-scene legal/story constraints and style QC.
+- `12_SOURCE_LAYER_FINAL_QC.md` — actual GitHub run38057742171 artifact11671183129 validated after download:22 PNG dimensions and11 document source hashes pass; 56 linked shot states;4 active marker masks.
+- `12_V3_INDEPENDENT_QC.json` — structural and source geometry audit, with unresolved creative gates.
+
+These outputs are *not* 175 generated images. Original authentic PDF pixels are now delivered in a reusable transparent layer artifact, but document and editor-native composite animations have NOT been assembled and previewed in Resolve. S008 docket HTML screenshot capture, user approval of on-screen text, rights/source screen capture QC, genuine audio/Shorts audition and end-to-end render remain pending. No Stage13 assets, renders, videos or credit-consuming generation started.
