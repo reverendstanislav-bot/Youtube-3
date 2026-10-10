@@ -1,0 +1,61 @@
+name: VIDEO004 Resolve editable composition package
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_resolve_editable_pack.yml'
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3
+          run-id: 38057742171
+          github-token: \${{ secrets.GITHUB_TOKEN }}
+          path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_VERIFIED_SOURCE_LAYERS
+      - run: python -m pip install --quiet pillow
+      - name: Build 175 separate editable Fusion compositions
+        run: python 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_BUILD_EDITABLE_FUSION_PACKAGE.py
+      - name: Attach timeline importer and validate package
+        run: |
+          python - <<'PY'
+          import json, pathlib, shutil
+          d=pathlib.Path('03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION')
+          root=d/'12_RESOLVE_EDITABLE_PACK_V1'
+          shutil.copy2(d/'12_IMPORT_EDITABLE_RESOLVE_PROJECT.py',root/'IMPORT_IN_DAVINCI_RESOLVE.py')
+          manifest=json.loads((root/'RESOLVE_SHOT_MANIFEST.json').read_text())
+          rows=manifest['shots']
+          assert len(rows)==175
+          assert rows[0]['start_frame']==0 and rows[-1]['end_frame']==20700
+          assert all(a['end_frame']==b['start_frame'] for a,b in zip(rows,rows[1:]))
+          settings=sorted((root/'Fusion_Comps').glob('SH-*.setting'))
+          assert len(settings)==175
+          for s in settings:
+              t=s.read_text(encoding='utf8')
+              assert 'Tools = ordered()' in t and 'MediaOut1' in t
+              assert t.count('{')==t.count('}') and t.count('"')%2==0, s
+          assert any('AuthenticPDF' in s.read_text() for s in settings)
+          (root/'README_RU.md').write_text("""# VIDEO004 — Resolve review package
+          175 редактируемых Fusion-композиций, источники и отдельные маски, канонический 25fps shot manifest.
+          Статус: STATIC BUILD, не подтверждённый рендер внутри Resolve.
+          Сначала запустить canary 8 клипов, проверить Fusion-граф и реальные переходы.
+          Master WAV: C:/YOUTUBE/Youtube 3/Video 4/VIDEO004_HARRISON_V11_MASTER.wav.
+          Запуск в Python окружении Resolve:
+          python IMPORT_IN_DAVINCI_RESOLVE.py --pack <ПАПКА_ПАКЕТА> --master <MASTER.wav> --canary 8
+          После проверки создать новый проект с --all.
+          Не публиковать без полного аудио/визуального QC.
+          """,encoding='utf8')
+          (root/'BUILD_QC.json').write_text(json.dumps({'status':'STATIC_BUILD_PASS_NOT_RESOLVE_RENDER','settings':175,'last_frame':20700,'master_included':False,'render_tested':False},indent=2)+'\n')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO004_RESOLVE_EDITABLE_COMPS_V1
+          path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_RESOLVE_EDITABLE_PACK_V1
+          if-no-files-found: error
+          compression-level: 6
