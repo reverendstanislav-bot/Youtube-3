@@ -28,3 +28,6 @@ Exactly four production Shorts: SH01, SH02, SH04, SH08. Four other historical ca
 
 ## 2026-10-10 current execution outcome
 Retrieved completed GitHub Actions artifact and verified actual A/B/C MP3 and 808s master WAV against SHA256. Four 3s-CTA-tail audio QC previews rendered: SH01/SH02/SH04/SH08, all under30s measured. Fixed Stage11 main cue grid and its regeneration script to25fps;124 contiguous cues20700frames/828s. Stage11 structural/timing QA PASS, but source word alignments, Shorts syllable cuts and audible QC remain provisional until actual listening. A/B and B/C seams flagged for hearing; technical checks passed, audio lock false. Stage12 remains unopened and no generation/spend occurred.
+
+## 2026-10-10 Stage12 V1 preparation
+Completed 54/54 beat→cue→claim→known source-ID mapping in12_VISUAL_ASSET_PLAN.csv, with37 editor-native graphic plans and17 authentic-document-based frames. No asset generation, downloads/crop rights approval, or new credits. See12_VISUAL_PRODUCTION_PLAN.md. Audio WAV was technically verified in the execution container (SHA256 and signal at all eight ASR issue windows), but no human-equivalent hearing of full narration or four Short boundaries occurred, so Stage10/11 remain un-locked and edits cannot assume final timing. 25fps cue grid and4-Short owner rule remain authoritative. Stage12 V1 PREPARATION only.
