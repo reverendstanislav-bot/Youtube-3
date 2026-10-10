@@ -1,9 +1,9 @@
 {
-  "run_id": 38056981934,
+  "run_id": 38057222383,
   "artifact_name": "VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3",
-  "upload_outcome": "skipped",
-  "shots": 0,
-  "unique_documents": 0,
-  "marker_enabled": 0,
-  "status": "BUILD_FAILED_OR_ARTIFACT_NOT_UPLOADED"
+  "upload_outcome": "success",
+  "shots": 56,
+  "unique_documents": 11,
+  "marker_enabled": 4,
+  "status": "BUILT_SOURCE_LAYERS__NOT_HUMAN_VISUAL_QC"
 }
