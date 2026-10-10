@@ -28,3 +28,6 @@ HIGH | ANCHORS | S05:p9 around271.24–273.76s and all meaningful ASR discrepanc
 MEDIUM | SHORT_EDGES | SH05out359.960; SH06in415.300; SH07in467.600; SH08in627.640 | No ASR silence budget at adjacent-word edge | Audition all8fullcuts plus3sCTA; avoid clipped syllables/borrowed adjacent speech; revise within natural silence and recheck. No speedup/rewrite.
 
 No Stage10audio lock, Stage11lock, Stage12asset/provenance PASS, export-duration PASS, picture/edit QC or release PASS. Lead accepts only the provisional preparation verdict and retains bothlocksfalse.
+
+## 2026-10-10 owner count override
+Production is exactly four Shorts: SH01, SH02, SH04, SH08. Former SH03/SH05/SH06/SH07 are archived candidates; old eight-Short preparation stats are historical only. Selected ASR cut edges remain provisional; genuine audible QA not conducted and cannot be claimed from recognizer confidence. Existing 808-second master technical PASS remains valid. Stage10 audio and Stage11 cut locks remain open until actual audition, no paid retry.
