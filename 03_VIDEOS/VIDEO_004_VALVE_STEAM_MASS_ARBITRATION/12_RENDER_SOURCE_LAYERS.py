@@ -12,6 +12,7 @@ OUT.mkdir(exist_ok=True)
 geo=json.loads((D/"12_SOURCE_DOCUMENT_GEOMETRY.json").read_text("utf8"))
 rows=list(csv.DictReader((D/"12_RESOLVE_PDF_CROPS_V3.csv").open(newline="",encoding="utf8")))
 blue={r["shot_id"]:r for r in csv.DictReader((D/"12_RESOLVE_COMPOSITIONS_V3.csv").open(newline="",encoding="utf8"))}
+sync={r["shot_id"]:r for r in csv.DictReader((D/"12_RESOLVE_MARKER_WORD_SYNC_V3.csv").open(newline="",encoding="utf8"))}
 index={"status":"DOCUMENT_LAYERS_BUILT_PENDING_VISUAL_QC","canvas":[1920,1080],"fps":25,"source_crops":{},"shots":{},"notes":"Authentic original PDF crop + independent transparent rectangle mask. Match original and source ID; mask uses Fusion multiply as separate layer. Not a final rendered frame."}
 def sha(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 for r in rows:
@@ -47,9 +48,9 @@ for r in rows:
         draw.rectangle((round(mx),round(my),round(mx+mw),round(my+mh)),fill=(214,180,74,110))
         mask.save(ms,optimize=True)
     plan=blue[r["shot_id"]]
-    mark_allowed=not plan["local_marker_keyframes"].startswith("NONE")
+    mark_allowed=sync.get(r["shot_id"],{}).get("status","").startswith("ASR_WORD_ANCHORED")
     index["shots"][r["shot_id"]]={"source_key":name,"document_layer":dest.name,"marker_layer":ms.name if mark_allowed else None,
-      "marker_allowed":mark_allowed,"marker_keyframes_local":plan["local_marker_keyframes"] if mark_allowed else "NONE",
+      "marker_allowed":mark_allowed,"marker_keyframes_local":("F"+sync[r["shot_id"]]["marker_start_local_frame"]+"..F"+sync[r["shot_id"]]["marker_end_local_frame"]+" ASR word provisional; needs human audition") if mark_allowed else "NONE",
       "source_line_pt":r["native_rect_pdf_pt"],"marker_rect_px":target,"status":"SOURCE_DERIVED__NOT_HUMAN_VISUAL_QC"}
 with (OUT/"12_LAYER_ASSET_MANIFEST.json").open("w",encoding="utf8") as f:json.dump(index,f,indent=2,ensure_ascii=False)
 print(json.dumps({"mapped_shots":len(index["shots"]),"unique_documents":len(index["source_crops"]),"marker_enabled":sum(x["marker_allowed"] for x in index["shots"].values())}))
