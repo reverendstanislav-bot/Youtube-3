@@ -11,6 +11,7 @@ MEDIA=OUT/"Media"
 COMP.mkdir(parents=True,exist_ok=True)
 MEDIA.mkdir(parents=True,exist_ok=True)
 shotlist=list(csv.DictReader((D/"12_RESOLVE_COMPOSITIONS_V3.csv").open(encoding="utf8",newline="")))
+scene_by_id={r["scene_id"]:r for r in csv.DictReader((D/"SCENE_TIMELINE.csv").open(encoding="utf8",newline=""))}
 sync={r["shot_id"]:r for r in csv.DictReader((D/"12_RESOLVE_MARKER_WORD_SYNC_V3.csv").open(encoding="utf8",newline=""))}
 asset_root=D/"12_VERIFIED_SOURCE_LAYERS"
 source=json.loads((asset_root/"12_LAYER_ASSET_MANIFEST.json").read_text(encoding="utf8"))
@@ -63,7 +64,7 @@ for row in shotlist:
     sid=row["shot_id"];frames=int(row["duration_frames"])
     assert int(row["end_frame"])-int(row["start_frame"])==frames and frames>0
     section=row["scene_id"]
-    chapter=re.search(r"S\d{2}",row["visual_focus"])
+    chapter=scene_by_id.get(row["scene_id"],{}).get("script_ref","").split(":")[0]
     # Actual section comes from canonical scene map, not a guessed court claim.
     scene_id=row["scene_id"]
     isdoc=row["style"].startswith("DOCUMENT")
@@ -86,9 +87,9 @@ for row in shotlist:
         nodes+=textbox("TopBrand","WHAT IT COST",.12,.09,.028,"Bebas Neue")
         nodes+=merge("BrandMerge",last,"TopBrand")
         last="BrandMerge"
-        section_id=next((s for s in range(1,14) if row["beat_id"].startswith("B") and False),None)
+        section_id=chapter
         # Avoid unsourced quotations. Editor-native story labels are not narration captions.
-        title=label(row.get("script_ref","").split(":")[0])
+        title=label(chapter)
         # The source shot table omits script_ref; refer to canonical mapping in shot metadata below.
         if title=="WHAT IT COST":title="VALVE / STEAM"
         if not isdoc:
@@ -145,7 +146,7 @@ for row in shotlist:
     contents="{\n  Tools = ordered() {\n"+nodes+"  },\n  ActiveTool = \"MediaOut1\"\n}\n"
     (COMP/(sid+".setting")).write_text(contents,encoding="utf8")
     info["shots"].append({"shot_id":sid,"start_frame":int(row["start_frame"]),"end_frame":int(row["end_frame"]),
-        "duration_frames":frames,"composition":row["style"],"source_ids":row["source_ids"],"claim_ids":"", "editable_setting":"Fusion_Comps/"+sid+".setting",
+        "duration_frames":frames,"composition":row["style"],"source_ids":row["source_ids"],"claim_ids":scene_by_id.get(row["scene_id"],{}).get("claim_ids",""), "editable_setting":"Fusion_Comps/"+sid+".setting",
         "authentic_doc":isdoc and sid in source["shots"],"marker_active_after_listen":bool(marker)})
 for name in sorted(set(v["document_layer"] for v in source["shots"].values())|set(v["marker_layer"] for v in source["shots"].values() if v["marker_layer"])):
     shutil.copy2(asset_root/name,MEDIA/name)
