@@ -37,7 +37,16 @@ for r in rows:
         layer=Image.new("RGBA",(1920,1080),(0,0,0,0))
         im=Image.frombytes("RGB",(pix.width,pix.height),pix.samples).convert("RGBA")
         if im.size!=(w,h):im=im.resize((w,h),Image.Resampling.LANCZOS)
-        layer.paste(im,(x,y))
+        # Feather just the crop boundary; the verified central PDF line remains untouched.
+        edge=min(24,max(0,h//15))
+        alpha=Image.new("L",(w,h),255)
+        pen=ImageDraw.Draw(alpha)
+        for py in range(edge):
+            strength=round(255*(py/edge)**1.8)
+            pen.line([(0,py),(w-1,py)],fill=strength)
+            pen.line([(0,h-1-py),(w-1,h-1-py)],fill=strength)
+        im.putalpha(alpha)
+        layer.alpha_composite(im,(x,y))
         layer.save(dest,optimize=True)
         index["source_crops"][name]={"source_sha256":sha(src),"original_pdf":r["source"],"page0":page,"crop_pdf_pt":rect,"image_sha256":sha(dest),"file":dest.name,"dest_rect_px":[x,y,w,h]}
     ms=OUT/(name+"_MARKER_ALPHA.png")
