@@ -1,0 +1,11 @@
+{
+  "tracking_validation": "PASS",
+  "errors": [],
+  "measurements": 29,
+  "future_checkpoints": 8,
+  "QC_entries": 28,
+  "experiments_prepared": 12,
+  "experiments_launched_by_this_task": 0,
+  "negative_controls_passed": 2,
+  "limits": "Validates records only. No auditory/visual/legal/release/experiment-effectiveness PASS."
+}

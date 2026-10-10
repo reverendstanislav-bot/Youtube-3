@@ -1,3 +1,5 @@
+> Исполнение поручено владельцем 2026-10-10. Рабочий статус, реестры и проверка: [IMPLEMENTATION](IMPLEMENTATION/README_RU.md). Перечень ниже остаётся планом; фактическое выполнение отмечается отдельно, без ретроспективного PASS.
+
 > Final production-state refresh: **0bc1e6f**. Initial findings at67b940a are historical where superseded. Valve audio technical verification is now complete; full listening/Resolve runtime/final release gates remain open. Four production Shorts. See [final source reconciliation](evidence/repo_refresh_0bc1e6f.md).
 
 # План на 48 часов,14 дней и 30 дней

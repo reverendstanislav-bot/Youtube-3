@@ -1,0 +1,29 @@
+episode,gate,status,review_date,reviewer,artifact_sha256,evidence,notes
+001,PROVENANCE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+001,DECODE,PASS,2026-10-10,audit,512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25,03_VIDEO_BY_VIDEO_AUDIT.md,Audited local candidate decode only; not serveruploadidentity
+001,TIMESTAMPS,REVIEW,2026-10-10,audit,512bb6c804ef68d314ba13909fec0c0c84d723dc595148b90ecce88f71351c25,03_VIDEO_BY_VIDEO_AUDIT.md,5.022s video/audio durationdifference; onlineplaybacknotverified
+001,AUDITORY,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+001,CONTINUOUS_VISUAL,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+001,LEGAL_REFRESH,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+001,PLATFORM_PACKAGE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,PROVENANCE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,DECODE,PASS,2026-10-10,audit,fb6e79a32d3f205d75912324de2f11efd309f7a99186c4e80ebb72669fe20b45,03_VIDEO_BY_VIDEO_AUDIT.md,Audited local candidate decode only; not serveruploadidentity
+002,TIMESTAMPS,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,AUDITORY,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,CONTINUOUS_VISUAL,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,LEGAL_REFRESH,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+002,PLATFORM_PACKAGE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+003,PROVENANCE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+003,DECODE,REVIEW,2026-10-10,audit,f2b4a827a1feb78e54e9766952b34d25c713b6236e046667921c23203b3ea037,video_003_actual_hq_probe.json,ExactStudio-namecandidate fullydecoded25210frames but non-increasingtimestamps near988/1008s; no blanketcleanPASS
+003,TIMESTAMPS,REVIEW,2026-10-10,audit,f2b4a827a1feb78e54e9766952b34d25c713b6236e046667921c23203b3ea037,video_003_actual_hq_probe.json,ExactStudio-namecandidate fullydecoded25210frames but non-increasingtimestamps near988/1008s; no blanketcleanPASS
+003,AUDITORY,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+003,CONTINUOUS_VISUAL,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+003,LEGAL_REFRESH,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+003,PLATFORM_PACKAGE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+004,PROVENANCE,PASS,2026-10-10,repository_receipt,8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7,../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/10_AUDIO_MASTER.md,Repository technical receipt at815a224; source/master bound; not listeningPASS
+004,DECODE,PASS,2026-10-10,repository_receipt,8c11be2619a6a84b7e1a6cbe0cb8c708d72dff556d1d737dd46f596ea21f65d7,../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/10_AUDIO_MASTER.md,Repository technical receipt at815a224; source/master bound; not listeningPASS
+004,TIMESTAMPS,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+004,AUDITORY,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+004,CONTINUOUS_VISUAL,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+004,LEGAL_REFRESH,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
+004,PLATFORM_PACKAGE,NOT_VERIFIED,,,,,Audit ledger only; never changes canonical published/status or locks
