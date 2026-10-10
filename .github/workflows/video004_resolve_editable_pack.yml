@@ -82,3 +82,5 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
+
+# v1.1 54 beat-specific headings and locked 15% subtitle-safe zone
