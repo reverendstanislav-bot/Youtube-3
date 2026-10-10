@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-10"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "QC final Stage12 source PNG layer artifact; verify edited Resolve previews; finish Stage10/11 genuine auditory gate; no paid generation"
+next_action: "Render/check representative DaVinci Resolve motion comps and remaining HTML/real-source visuals; complete Stage10/11 auditory lock; no paid generation"
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL"]
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V3_175_RESOLVE_STATES_56_PDF_GEOMETRY_LAYER_QC_PENDING"
+  stage_12_visual_source_generation_plan: "V3_175_RESOLVE_STATES_SOURCE_LAYER_TECH_PASS_PICTURE_QC_PENDING"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
