@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-10"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Genuine auditory QC of existing master; finalize provisional Stage11 only after audio lock; no Stage12"
+next_action: "Auditory QC plus 4 selected Shorts cut-edge checks; Stage11 lock only after hearing; no Stage12"
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL"]
 
 stages:
@@ -95,8 +95,8 @@ voice:
 
 shorts:
   required: true
-  architecture_status: "LOCKED_V11_TEXT_PROVISIONAL_ASR_RANGES_NOT_EXPORTED"
-  target_count: "8"
+  architecture_status: "OWNER_SELECTED_4_PROVISIONAL_CUTS"
+  target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
   stage_03_map: "03_SHORTS_MAP.csv"
@@ -139,10 +139,10 @@ performance_correction:
   intermediate_v10_score: 86.8
   owner_minimum_score: 90
   score82_accepts_this_episode: false
-  shorts_reviewed: 8
+  shorts_reviewed: 4
   shorts_fail: 0
   shorts_warn: 0
-  shorts_text_pass: 8
+  shorts_text_pass: 4
   historical_review: "06_V08_DIRECTORIAL_REVIEW.md"
   measured_short_durations: false
   plan: "06_CORRECTIVE_ACTION_PLAN.md"
