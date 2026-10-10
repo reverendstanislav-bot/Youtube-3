@@ -1,0 +1,43 @@
+name: VIDEO004 verified source layer pack
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_source_layers.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install source rendering tools
+        run: python -m pip install --quiet pymupdf pillow
+      - name: Verify PDFs again and regenerate geometry receipt
+        run: python 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_EXTRACT_SOURCE_GEOMETRY.py
+      - name: Render original PDF crops and separate alpha masks
+        run: python 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_RENDER_SOURCE_LAYERS.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3
+          path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_VERIFIED_SOURCE_LAYERS/
+          compression-level: 6
+          if-no-files-found: error
+      - name: Record workflow run and source layer manifest
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os, pathlib
+          d=pathlib.Path('03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION')
+          m=json.loads((d/'12_VERIFIED_SOURCE_LAYERS/12_LAYER_ASSET_MANIFEST.json').read_text())
+          receipt={'run_id':int(os.environ['GITHUB_RUN_ID']),'artifact_name':'VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3','shots':len(m['shots']),'unique_documents':len(m['source_crops']),'marker_enabled':sum(x['marker_allowed'] for x in m['shots'].values()),'status':'BUILT_SOURCE_LAYERS__NOT_HUMAN_VISUAL_QC'}
+          (d/'12_SOURCE_LAYER_BUILD_RECEIPT.json').write_text(json.dumps(receipt,indent=2)+'\n')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_SOURCE_LAYER_BUILD_RECEIPT.json
+          if ! git diff --cached --quiet; then
+            git commit -m "video004 verified document source layer artifact receipt"
+            git push origin HEAD:main
+          fi
