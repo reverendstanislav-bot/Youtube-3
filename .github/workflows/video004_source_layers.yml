@@ -56,3 +56,5 @@ jobs:
 # v1.2 always write build receipt and rebase prior to push
 
 # v1.3 validated crop CSV schema and gated ASR marker masks
+
+# v1.4 full-PDF-width crops to prevent clipped documentary lines
