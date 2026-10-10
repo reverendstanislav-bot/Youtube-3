@@ -18,7 +18,7 @@ for r in rows:
     sid=r["source_pdf"].replace(".pdf","")
     src=D/"12_SOURCE_PDF_DOWNLOADS"/r["source_pdf"]
     if not src.exists():raise FileNotFoundError(src)
-    if sha(src)!=r["source_pdf_sha256"]:raise ValueError("Original source SHA mismatch: "+sid)
+    if sha(src)!=r["sha256"]:raise ValueError("Original source SHA mismatch: "+sid)
     page=int(r["page0"])
     rect=[float(v) for v in (r["crop_x0_pt"]+"|"+r["crop_y0_pt"]+"|"+r["crop_x1_pt"]+"|"+r["crop_y1_pt"]).split("|")] if "crop_x0_pt" in r else None
     # Current CSV stores crop as pipe-separated vector.
@@ -50,6 +50,6 @@ for r in rows:
     mark_allowed=not plan["local_marker_keyframes"].startswith("NONE")
     index["shots"][r["shot_id"]]={"source_key":name,"document_layer":dest.name,"marker_layer":ms.name if mark_allowed else None,
       "marker_allowed":mark_allowed,"marker_keyframes_local":plan["local_marker_keyframes"] if mark_allowed else "NONE",
-      "source_line_pt":r["source_exact_rect_pt"],"marker_rect_px":target,"status":"SOURCE_DERIVED__NOT_HUMAN_VISUAL_QC"}
+      "source_line_pt":r["native_rect_pdf_pt"],"marker_rect_px":target,"status":"SOURCE_DERIVED__NOT_HUMAN_VISUAL_QC"}
 with (OUT/"12_LAYER_ASSET_MANIFEST.json").open("w",encoding="utf8") as f:json.dump(index,f,indent=2,ensure_ascii=False)
 print(json.dumps({"mapped_shots":len(index["shots"]),"unique_documents":len(index["source_crops"]),"marker_enabled":sum(x["marker_allowed"] for x in index["shots"].values())}))
