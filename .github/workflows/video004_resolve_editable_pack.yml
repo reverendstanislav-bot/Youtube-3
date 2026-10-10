@@ -17,7 +17,7 @@ jobs:
         with:
           name: VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3
           run-id: 38057742171
-          github-token: \${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_VERIFIED_SOURCE_LAYERS
       - run: python -m pip install --quiet pillow
       - name: Build 175 separate editable Fusion compositions
