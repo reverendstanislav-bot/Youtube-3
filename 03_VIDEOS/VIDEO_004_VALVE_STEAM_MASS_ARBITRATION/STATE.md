@@ -50,3 +50,7 @@ A repaired self-contained CANARY8 package was created and validated in the curre
 ## Actual Windows host verification -2026-10-10
 
 Resolve21.0.3.7 IS installed and running here; earlier container-only availability statements are historical. Master/ZIP hashes and repaired8-shot STATIC preflight PASS. MCP timeout, direct Python3.12 API None and unavailable native helper block actual import. Start in-app resolve_bridge; save current project first. Runtime/motion/audio NOT_RUN; full175 HOLD; locks remain false. Bounded legal check: appeal mirror only throughSeptember28; official Stage16 refresh open. See12_WINDOWS_EXECUTION_20261010.md.
+
+## Real Resolve canary after owner enabled bridge -2026-10-10
+
+Bridge connected; original project saved;8actualFusion imports and30.6s1080p25fps765-frame preview rendered. MissingBebasBold defect corrected with explicitRegular in16nodes and generator. Runtime/technical render PASS; contact-sheet visual FAIL:generic empty/repeated panels, source IDs without substantive evidence. True full-speed motion/audio approval not performed. Full175 HOLD; all audio/visual/release locks remain false. See12_CANARY8_ACTUAL_RESULT_20261010.md and12_CANARY_QC receipts.

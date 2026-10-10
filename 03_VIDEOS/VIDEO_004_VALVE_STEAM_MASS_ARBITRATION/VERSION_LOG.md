@@ -70,3 +70,7 @@ Independentv08_precision PASS_PROVENANCE/PASS_ASR_COVERAGE_WITH_REVIEW_FLAGS; re
 ## 2026-10-10 - Actual Windows execution attempt
 
 Master/canary hashes and local preflight verified; installed Resolve scripting disconnected. Added exact errors/remediation and preflight JSON. No real import/render/listening or new lock. SSA/Dkt192/mirror revisited; official fresh appellate record unresolved. No generation/spend.
+
+##2026-10-10 - Real canary import/render, font defect fixed
+
+Owner enabled bridge. Saved original project; created canary,8realcomps+audio,DRP. First render failed missingBebasNeueBold; explicitRegular fixed16nodes and canonical generator. Second preview765frames30.6s1080p25fps+AAC,decodePASS. Contact-sheet pictureFAIL; real-time/audio still pending; full175 HOLD. No release/stage advance/spend.

@@ -2,7 +2,7 @@
 
 Date: 2026-10-10.
 
-**Authoritative status: STATIC_PREFLIGHT_PASS / MOCK_API_TEST_PASS / ACTUAL_RESOLVE_CANARY_NOT_RUN / MOTION_QC_PENDING.**
+**Current status: ACTUAL_IMPORT_AND_TECH_RENDER_PASS / CONTACT_SHEET_VISUAL_FAIL / FULL175_HOLD. See12_CANARY8_ACTUAL_RESULT_20261010.md. The preparation notes below are historical.**
 
 ## What was corrected before Windows import
 

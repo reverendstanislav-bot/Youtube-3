@@ -9,8 +9,8 @@ created: "2026-10-05"
 last_updated: "2026-10-10"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Start in-app resolve_bridge; save current project then test repaired canary8 runtime/motion; genuine auditory QC; full175 HOLD; no spend"
-blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "RESOLVE_SCRIPTING_BRIDGE_UNAVAILABLE"]
+next_action: "Revise canary8 generic picture layouts against narration and source evidence; re-review actual motion; genuine full auditory QC; full175 HOLD; no spend"
+blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "CANARY8_VISUAL_QC_FAILED"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V3_175_RESOLVE_STATES_SOURCE_LAYER_TECH_PASS_PICTURE_QC_PENDING"
+  stage_12_visual_source_generation_plan: "CANARY8_IMPORT_RENDER_TECH_PASS_PICTURE_QC_FAIL"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -112,7 +112,7 @@ qa:
   performance: "PASS_V11_90.4_OWNER_MIN90"
   voice_input: "PASS_INPUT_LOCK_V11"
   generated_audio: "TECHNICAL_PASS_ASR_RECHECK_NOT_AUDITORY_APPROVAL"
-  visual: "NOT_RUN"
+  visual: "CANARY8_CONTACT_SHEET_FAIL_FULLSPEED_REVIEW_PENDING"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"

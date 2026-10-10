@@ -25,3 +25,7 @@ Strict episode audit FAIL, correctly retaining unresolved HIGH gates:Q_STAGE10_A
 Repository contract FAIL:pre-existing tools/validate_repo.py ALLOWED_TOP excludes the already committed06_ANALYTICS directory. Confirmed same whitelist in HEAD before this change; no new top-level directory created here. Not silently weakened in this task.
 
 Independent read-only critic execution_check reviewed diff/new evidence: no material issues. Confirmed fresh reach values, distinct older DK funnel, static/runtime/audio/legal separation, preserved locks, and R07 current-state capture semantics. Nonblocking raw-text punctuation encoding issues observed; IDs/numbers readable. No critical artifact approved by maker alone; runtime/audio/legal gates remain open.
+
+## Bridge enabled: actual canary completed to technical render
+
+Previous scripting blocker resolved.8actualFusion imports and765-frame previewPASS; font-style defect fixed. Contact-sheet visualFAIL due generic repeated panels; R05 remainsBLOCKED on picture/motion acceptance, not connection. Full175 HOLD. See episode12_CANARY8_ACTUAL_RESULT_20261010.md.

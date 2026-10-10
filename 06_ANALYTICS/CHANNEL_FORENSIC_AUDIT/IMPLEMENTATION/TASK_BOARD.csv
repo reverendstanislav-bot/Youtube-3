@@ -3,7 +3,7 @@ R01,48h,DONE,Создать операционные реестры,none,README+
 R02,48h,READY,Выгрузить Studio по3long/26Shorts,R01,"CSV periods,source,timezone,availability; historical baseline preserved",IMPLEMENTATION/EXECUTION_20261010.md
 R03,48h,READY,Проверить release receipts без повторного скачивания,R01,current exact masters mapped to hash/source/technical/auditory limits,
 R04,48h,BLOCKED,004 слуховой QC текущего808sмастера,currentmanifest,full listening plus8flags and2joins; recordedreviewer/time/version,../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_WINDOWS_EXECUTION_20261010.md
-R05,48h,BLOCKED,004 реальный Resolve canary8,"currentmanifest,12_CANARY8_WINDOWS_HANDOFF_V2","actual import/runtime/motion/readability verdict, no staticPASS substitute",../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_WINDOWS_EXECUTION_20261010.md
+R05,48h,BLOCKED,004 реальный Resolve canary8,"currentmanifest,12_CANARY8_WINDOWS_HANDOFF_V2","actual import/runtime/motion/readability verdict, no staticPASS substitute",../../03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_CANARY8_ACTUAL_RESULT_20261010.md
 R06,48h,READY,eBay хвост и DK timestamps,R03,actual playback last10s andDK988–1008s; binduploadedcandidate,
 R07,48h,DONE,Зафиксировать текущие3nativeA/B,R02,variants/start/end/result orINCONCLUSIVE; noreset,evidence/studio_refresh_20261010_2209Z.json
 R08,48h,READY,Проверить Home/playlists/end screens,R02,"datedactualconfig, issue-specific remedy; nohistoricalassumption",IMPLEMENTATION/EXECUTION_20261010.md

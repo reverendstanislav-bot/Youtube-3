@@ -1,0 +1,61 @@
+{
+  "run_kind": "VIDEO004_CANARY_8",
+  "status": "FAILED",
+  "resolve_runtime_tested": true,
+  "real_time_visual_qc": "NOT_RUN",
+  "audio_listening_qc": "NOT_RUN",
+  "report_generated_utc": "2026-10-10T22:19:44.259742+00:00",
+  "source_artifact": "VIDEO004_RESOLVE_EDITABLE_COMPS_V1_LATEST.zip",
+  "checks": [],
+  "static_fusion_checks": [
+    {
+      "shot": "SH-001",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-002",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-003",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-004",
+      "sourceop_refs": 10,
+      "declared_tools": 11
+    },
+    {
+      "shot": "SH-005",
+      "sourceop_refs": 10,
+      "declared_tools": 11
+    },
+    {
+      "shot": "SH-006",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-007",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    },
+    {
+      "shot": "SH-008",
+      "sourceop_refs": 19,
+      "declared_tools": 20
+    }
+  ],
+  "first_shot_frame": 0,
+  "last_shot_frame": 765,
+  "expected_duration_seconds": 30.6,
+  "video_plate_sha256": "7e80414890df36a28426c54c0bf687f6b0520822576199e79a10c27ac5035733",
+  "audio_canary_sha256": "54d74f990c46c716f63311190e426634845afa322bf7c30033cf6b5d69666510",
+  "previous_project": "Новый проект 2",
+  "new_project_name": "VIDEO004_CANARY8_20261010_151944_f8dd",
+  "error": "bridge_timeout: Resolve did not answer in time — check for an open modal dialog, which blocks its scripting API entirely",
+  "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\KK\\.codex\\mcp\\davinci-resolve\\src\\utils\\resolve_bridge_client.py\", line 177, in request\n    raw = sock.makefile(\"rb\").readline(_bridge.MAX_REQUEST_BYTES + 1)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\KK\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py\", line 720, in readinto\n    return self._sock.recv_into(b)\n           ^^^^^^^^^^^^^^^^^^^^^^^\nTimeoutError: timed out\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\KK\\Downloads\\VIDEO004_CANARY8_QC_20261010\\RUN_CANARY8_IN_RESOLVE.py\", line 102, in main\n    video_item=import_one(pool,plate);audio_item=import_one(pool,audio)\n                                                 ^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\KK\\Downloads\\VIDEO004_CANARY8_QC_20261010\\RUN_CANARY8_IN_RESOLVE.py\", line 66, in import_one\n    objects=pool.ImportMedia([str(filepath)])\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\KK\\.codex\\mcp\\davinci-resolve\\src\\utils\\resolve_bridge_client.py\", line 286, in __call__\n    result = self._transport.request(\n             ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\KK\\.codex\\mcp\\davinci-resolve\\src\\utils\\resolve_bridge_client.py\", line 179, in request\n    raise BridgeCallError(\nsrc.utils.resolve_bridge_client.BridgeCallError: bridge_timeout: Resolve did not answer in time — check for an open modal dialog, which blocks its scripting API entirely\n"
+}
