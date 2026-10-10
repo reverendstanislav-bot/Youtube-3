@@ -18,28 +18,39 @@ jobs:
         run: python 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_EXTRACT_SOURCE_GEOMETRY.py
       - name: Render original PDF crops and separate alpha masks
         run: python 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_RENDER_SOURCE_LAYERS.py
-      - uses: actions/upload-artifact@v4
+      - id: upload
+        uses: actions/upload-artifact@v4
         with:
           name: VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3
           path: 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_VERIFIED_SOURCE_LAYERS/
           compression-level: 6
           if-no-files-found: error
-      - name: Record workflow run and source layer manifest
+      - name: Record build diagnosis and artifact receipt
+        if: always()
+        env:
+          UPLOAD_OUTCOME: ${{ steps.upload.outcome }}
         shell: bash
         run: |
           python - <<'PY'
           import json, os, pathlib
           d=pathlib.Path('03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION')
-          m=json.loads((d/'12_VERIFIED_SOURCE_LAYERS/12_LAYER_ASSET_MANIFEST.json').read_text())
-          receipt={'run_id':int(os.environ['GITHUB_RUN_ID']),'artifact_name':'VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3','shots':len(m['shots']),'unique_documents':len(m['source_crops']),'marker_enabled':sum(x['marker_allowed'] for x in m['shots'].values()),'status':'BUILT_SOURCE_LAYERS__NOT_HUMAN_VISUAL_QC'}
+          f=d/'12_VERIFIED_SOURCE_LAYERS/12_LAYER_ASSET_MANIFEST.json'
+          m=json.loads(f.read_text()) if f.exists() else None
+          ok=bool(m and os.environ.get('UPLOAD_OUTCOME')=='success')
+          receipt={'run_id':int(os.environ['GITHUB_RUN_ID']),'artifact_name':'VIDEO004_STAGE12_VERIFIED_DOCUMENT_LAYERS_V3',
+            'upload_outcome':os.environ.get('UPLOAD_OUTCOME'),'shots':len(m['shots']) if m else 0,
+            'unique_documents':len(m['source_crops']) if m else 0,
+            'marker_enabled':sum(v['marker_allowed'] for v in m['shots'].values()) if m else 0,
+            'status':'BUILT_SOURCE_LAYERS__NOT_HUMAN_VISUAL_QC' if ok else 'BUILD_FAILED_OR_ARTIFACT_NOT_UPLOADED'}
           (d/'12_SOURCE_LAYER_BUILD_RECEIPT.json').write_text(json.dumps(receipt,indent=2)+'\n')
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_SOURCE_LAYER_BUILD_RECEIPT.json
           if ! git diff --cached --quiet; then
-            git commit -m "video004 verified document source layer artifact receipt"
+            git commit -m "video004 source layer build audited receipt"
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
           fi
-
-# CSV field binding fix and source-layer preflight v1.1
+# v1.2 always write build receipt and rebase prior to push
