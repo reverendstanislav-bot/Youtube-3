@@ -54,3 +54,5 @@ jobs:
             git push origin HEAD:main
           fi
 # v1.2 always write build receipt and rebase prior to push
+
+# v1.3 validated crop CSV schema and gated ASR marker masks
