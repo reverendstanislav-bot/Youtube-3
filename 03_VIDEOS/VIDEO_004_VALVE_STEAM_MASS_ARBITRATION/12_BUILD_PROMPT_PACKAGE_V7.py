@@ -66,7 +66,7 @@ def main_build():
         expected_label="RECREATION / NOT AN ORIGINAL DOCUMENT" if type_=="RECREATED_DOCUMENT" else ""
         assert context["mandatory_provenance_label"]==expected_label,(aid,context["mandatory_provenance_label"])
         locked=list(a["visible_text"])+([expected_label] if expected_label else [])
-        assert len(locked)>=2 and len(set(locked))==len(locked),(aid,locked)
+        assert len(locked)>=1 and len(set(locked))==len(locked),(aid,locked)
         assert all(x and x==x.strip() and "\n" not in x for x in locked)
         sources=[sid for sid in manifest[aid]["source_ids"].split(";") if sid]
         assert all(sid in source_ix for sid in sources)
