@@ -178,8 +178,8 @@ prompt_package:
   explicit_spend_approval_required: true
   new_imports_authorized: 0
   new_imports_submitted: 0
-  new_paid_jobs_authorized: 0
-  new_paid_jobs_submitted: 0
+  new_paid_jobs_authorized: 60
+  new_paid_jobs_submitted: 5
   media_or_release_acceptance: "STAGE13_WAVE01_GENERATION_RECEIVED_NOT_VISUALLY_ACCEPTED"
 
 film_breakdown:
