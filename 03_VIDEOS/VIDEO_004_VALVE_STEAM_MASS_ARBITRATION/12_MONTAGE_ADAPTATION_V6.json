@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "document_id": "VIDEO004_MONTAGE_ADAPTATION_V6",
-  "status": "INDEPENDENT_PREPARATION_REVIEW_PASS_NOT_MEDIA_QC",
+  "status": "V6_60_ASSETS_OWNER_NO_ILLUSTRATION_LABEL_9_RECREATION_LABELS_VERIFIED_TIMING_UNCHANGED",
   "date": "2026-10-11",
   "scope": "Authorized prompt/reference/montage preparation only. No generation, render, timeline mutation, audio change, push or paid submission.",
   "authoritative_inputs": {
@@ -162,11 +162,11 @@
           "VALVE: LICENSES PRESERVED BY STOPPING ACCOUNT USE",
           "A LICENSE IS NOT THE SAME AS ACCESS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Both party attributions and the stopping-account-use condition must stay readable together; never show removed or locked-out games as an established event."
       },
       "motion_target_en": "STATIC: library and paired attributed positions; no isolated push toward one side.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF002",
@@ -177,11 +177,11 @@
           "THEN NAMED AS DEFENDANTS",
           "VALVE SOUGHT TO STOP THEIR PENDING CASES"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Keep users, defendants and Valve's requested stop legible as one relationship; no granted closure or liability stamp."
       },
       "motion_target_en": "STATIC: the complete two-route reversal.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF003",
@@ -192,11 +192,11 @@
           "WHAT DOES A CLICK SETTLE?",
           "VALVE'S POSITION: ACCEPTANCE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "ACCEPT is an editorial object, not an authentic Steam interface; preserve the question and attribution in every reuse."
       },
       "motion_target_en": "STATIC: conceptual key and its surrounding question.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF004",
@@ -206,11 +206,11 @@
           "GAME-PRICE ALLEGATIONS",
           "NOT DECIDED BY THE EMERGENCY REQUEST"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "The allegations label and not-decided qualification are inseparable; no damages tally or guilt symbol."
       },
       "motion_target_en": "STATIC: separation between underlying allegations and procedural request.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF005",
@@ -221,11 +221,11 @@
           "USERS: PRESERVE THE EXISTING FORUM",
           "OLD CASES STILL PENDING"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Both positions and still-pending status remain visible; no closed-file icon or implied final enforceability answer."
       },
       "motion_target_en": "STATIC: central pending-file junction and both arguments.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF006",
@@ -235,11 +235,11 @@
           "OLD TERMS: INTO ARBITRATION",
           "NEW TERMS: VALVE'S ARGUMENT TO STOP IT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Protect both old/new labels, Valve's-argument qualification and the existing file; do not turn a planned detail into a one-sided contract crop."
       },
       "motion_target_en": "CONDITIONAL: shared junction of the two contracts and existing file, only PL006; PL029 remains STATIC.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF007",
@@ -250,11 +250,11 @@
           "A PUBLISHER + TWO STEAM USERS",
           "ALLEGED INFLATED GAME PRICES"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Retain the allegation wording and participant distinction; do not fabricate portraits or a contemporary archive photograph."
       },
       "motion_target_en": "STATIC: dated three-part participant grouping.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF008",
@@ -265,11 +265,11 @@
           "INDIVIDUAL ARBITRATION",
           "ARBITRATOR, NOT AN ORDINARY JUDGE OR JURY"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Covered-consumer limitation and arbitrator-versus-judge/jury explanation stay together; no secret-court or universal-jurisdiction implication."
       },
       "motion_target_en": "STATIC: one covered individual dispute at the hearing desk.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF009",
@@ -280,11 +280,11 @@
           "PUBLISHER: SEPARATE COURT CASE",
           "FORUM DECISION, NOT A PRICE VERDICT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Protect separate tracks and the no-price-verdict qualification; do not connect them into one docket."
       },
       "motion_target_en": "STATIC: the complete consumer/publisher fork.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF010",
@@ -310,11 +310,11 @@
           "SEPARATE DEMANDS",
           "INDIVIDUAL DID NOT MEAN ONLY ONE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Individual does not mean only one; keep separate-demands meaning, not a merged class-action folder."
       },
       "motion_target_en": "STATIC: individual-design root and distinct file branches.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF012",
@@ -325,11 +325,11 @@
           "4,991 CLAIMANTS RECORDED: MAY 2026",
           "NOT WINS. NOT A CURRENT ACTIVE TOTAL."
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Date, not-wins and not-current-active-total caveats cannot become tiny footnotes or be cropped away."
       },
       "motion_target_en": "STATIC: both dated/scoped counts in one full composition.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF013",
@@ -340,11 +340,11 @@
           "NOVEMBER + DECEMBER: MORE DEMANDS",
           "ADMINISTERED BY AAA"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No invented monthly totals, receipts or documentary stamps; the dates describe recorded filing chronology."
       },
       "motion_target_en": "STATIC: the complete three-stage filing chronology.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF014",
@@ -355,11 +355,11 @@
           "RESPONSE / SCHEDULING / DECISIONS",
           "NOT EVERY CASE REACHES A HEARING"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "All named stations and the hearing limitation remain legible through any proposed framing; never imply each case completed every stage."
       },
       "motion_target_en": "CONDITIONAL: the named file-by-file work station while retaining all process caveats, only PL016; PL019 remains STATIC.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF015",
@@ -370,11 +370,11 @@
           "UNVERIFIED",
           "NO AUTHENTICATED SINGLE BILL IN REVIEWED RECORDS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "UNVERIFIED and the reviewed-record boundary must be as readable as the amount; no debt/payment assertion."
       },
       "motion_target_en": "STATIC: inseparable questioned amount and verification boundary.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF016",
@@ -385,11 +385,11 @@
           "ARBITRATOR COMPENSATION SEPARATE",
           "A FEE SCHEDULE IS NOT A PAYMENT RECORD"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Do not invent dollar totals or let the schedule become proof of what Valve owed or paid."
       },
       "motion_target_en": "STATIC: stage-dependent path and its records limitation.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF017",
@@ -400,11 +400,11 @@
           "NOT THOUSANDS",
           "FOUR CLAIMANTS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "The number FOUR and four-tab reveal first appear at SC037, not in the preceding setup; attribution stays prominent."
       },
       "motion_target_en": "STATIC: four-tab reveal with its attribution.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF018",
@@ -413,11 +413,11 @@
         "exact_visible_text": [
           "ARBITRATOR ALLOWED FOUR TOWARD COURT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Do not imply all claimants won or all arbitration agreements failed; no actual order or judge representation."
       },
       "motion_target_en": "STATIC: the specific four-claimant exit event.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF019",
@@ -427,11 +427,11 @@
           "VALVE SAID THIS PROMPTED REMOVAL",
           "THE CLAUSE WAS CHALLENGED AS A WAY OUT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No FOUR reveal in PL021; this is an attributed explanation, not narrator proof of corporate intent or a universal invalidity ruling."
       },
       "motion_target_en": "STATIC: contract-as-exit mechanism and attribution.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF020",
@@ -442,11 +442,11 @@
           "JULY 2024: THEIR ARBITRATOR AGREES",
           "ARGUMENT: AGREEMENT UNENFORCEABLE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Keep request, argument and arbitrator response distinct; no forged dismissal order or quotation."
       },
       "motion_target_en": "STATIC: the dated two-stage four-matter sequence.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF021",
@@ -457,11 +457,11 @@
           "NOT THE LATER 572 DEFENDANTS",
           "NOT EVERY ARBITRATOR'S RULING"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Both cohort and one-arbitrator scope limits must stay readable; do not merge the proceedings or generalize the ruling."
       },
       "motion_target_en": "STATIC: cohort and ruling-scope separation.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF022",
@@ -471,11 +471,11 @@
           "VALVE USED THE CONTRACT TO SEND USERS IN",
           "FOUR CLAIMANTS ATTACKED IT TO GET OUT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Opposed strategies are demonstrated actions, not invented mental states; the four-specific scope remains visible."
       },
       "motion_target_en": "STATIC: the complete entry/exit strategic contrast.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF023",
@@ -485,11 +485,11 @@
           "VALVE REMOVED THE CLAUSE",
           "WHAT ABOUT CASES ALREADY INSIDE?"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Retain clause-removal wording and the pending-process question; no prison/lockout metaphor or premature automatic-closure answer."
       },
       "motion_target_en": "CONDITIONAL: changed entrance sign in relation to existing interior files, only PL028, with both labels retained.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF024",
@@ -499,11 +499,11 @@
           "ARBITRATION CLAUSE REMOVED",
           "PENDING CASES NOT AUTOMATICALLY CLOSED"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "The explicit not-automatically-closed answer first appears at SC050; no disappearing case files."
       },
       "motion_target_en": "STATIC: removed clause and intact pending files together.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF025",
@@ -544,11 +544,11 @@
           "EMAIL / POP-UP / PURCHASES / WALLET",
           "ACCEPTANCE REQUIREMENTS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No invented messages or branded screenshots; court-summary qualification and acceptance-requirement context stay readable."
       },
       "motion_target_en": "STATIC: the four evidence channels within library context.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF028",
@@ -559,11 +559,11 @@
           "454 CLICKED ACCEPTANCE",
           "118 LOGGED IN WITHOUT CLICKING"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Valve attribution and without-clicking wording are mandatory; 118 never becomes rejected, refused or opted out."
       },
       "motion_target_en": "STATIC: total and behavior-specific split.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF029",
@@ -573,11 +573,11 @@
           "DEFENDANTS CLAIMED >$3,000 AVERAGE LIBRARY VALUE",
           "VALVE DISPUTED THE FIGURE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Average, defendants-claimed and Valve-disputed caveats cannot be separated from the figure; no damages or confiscation imagery."
       },
       "motion_target_en": "STATIC: qualified average-value stake.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF030",
@@ -588,11 +588,11 @@
           "NOT THE END OF THE INQUIRY",
           "CHOICE + ENFORCEABILITY"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Acceptance is evidence, not the end of inquiry; keep both limiting propositions readable."
       },
       "motion_target_en": "STATIC: click evidence within the unresolved inquiry.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF031",
@@ -602,11 +602,11 @@
           "VALVE ASKED AAA TO CLOSE THE FILES",
           "AAA REFUSED ADMINISTRATIVE CLOSURE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Refusal first appears at SC070 and is administrative, not a determination of legal wrongness."
       },
       "motion_target_en": "STATIC: the administrative refusal and its limited meaning.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF032",
@@ -617,11 +617,11 @@
           "CONTRACT QUESTION: COURTS OR ARBITRATORS",
           "FILES REMAINED OPEN"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "The non-merits qualification and who-decides-contract-question line stay together; no implied AAA merits ruling."
       },
       "motion_target_en": "STATIC: institutional-role separation and open files.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF033",
@@ -631,11 +631,11 @@
           "SEPTEMBER 27, 2024: VALVE REQUEST",
           "OCTOBER 7, 2024: AAA RESPONSE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No original letter recreation, invented addressee, quotations or same-day response implication."
       },
       "motion_target_en": "STATIC: the request/response chronology.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF034",
@@ -646,11 +646,11 @@
           "VALVE SAID MANY PAUSED",
           "DIFFERENT FILES, DIFFERENT DECISIONS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "All branches, attribution and differing-decisions context must survive any detail framing; no uniform stay or exact proportions."
       },
       "motion_target_en": "CONDITIONAL: the relationship of original-agreement and paused file branches, only PL047.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF035",
@@ -661,11 +661,11 @@
           "ACROSS THE DEFENDANTS' PENDING CASES",
           "FEDERAL COURT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Keep requested remedy and defendant-pending-case scope visible; no granted stop order or worldwide closure."
       },
       "motion_target_en": "STATIC: the change from file-by-file decisions to a federal request.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF036",
@@ -704,11 +704,11 @@
           "OCTOBER 18, 2024: PETITION / 624 RESPONDENTS",
           "AUGUST 21, 2025: COMPLAINT / 572 DEFENDANTS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "October 2024/624 respondents and August 2025/572 defendants remain separately readable; no subtraction or inferred outcomes."
       },
       "motion_target_en": "STATIC: two filings, dates and procedural roles.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF039",
@@ -719,11 +719,11 @@
           "572: DEFENDANTS IN LATER COMPLAINT",
           "NOT THE SAME COHORT OR STATUS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "May 2026, later complaint and different-cohort/status qualifications stay readable with both figures."
       },
       "motion_target_en": "STATIC: recorded wave versus defendant subset.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF040",
@@ -734,11 +734,11 @@
           "PRELIMINARY INJUNCTION",
           "BEFORE FINAL JUDGMENT"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "This is a preliminary request before final judgment, not an established emergency or a granted interruption."
       },
       "motion_target_en": "STATIC: immediate relief question versus distant final judgment.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF041",
@@ -749,11 +749,11 @@
           "NEW TERMS ACCEPTED",
           "IRREPARABLE HARM CLAIMED"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Every proposition remains Valve's argument; do not turn acceptance or claimed harm into adjudicated conclusions."
       },
       "motion_target_en": "STATIC: the moving party's labeled preliminary-relief argument.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF042",
@@ -764,11 +764,11 @@
           "WORK ALREADY COMPLETED",
           "SOME REACHED HEARINGS OR FAVORABLE RULINGS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Some-files scope, opposition and completed-work context remain visible through any detail framing; no all-defendants victory wall."
       },
       "motion_target_en": "CONDITIONAL: named completed-work station and its milestone files, only PL058; PL071 remains STATIC.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF043",
@@ -779,11 +779,11 @@
           "SOME FOR VALVE / SOME FOR CLAIMANTS",
           "SOME INTERIM AWARDS CHALLENGED"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Retain outcomes for both sides and challenged-interim caveat; no aggregate winner or scoreboard."
       },
       "motion_target_en": "STATIC: heterogeneous outcome/status groups.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF044",
@@ -794,11 +794,11 @@
           "THREE DIFFERENT THINGS",
           "NO HONEST COMBINED SCOREBOARD"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Do not sum procedural states or introduce numbers; no-honest-scoreboard limit remains prominent."
       },
       "motion_target_en": "STATIC: three non-comparable procedural categories.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF045",
@@ -809,11 +809,11 @@
           "MAY 2026 HEARING",
           "EXACT COUNT DISPUTED"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Roughly, May 2026 and disputed count are mandatory; no exact 400-file grid or current active total."
       },
       "motion_target_en": "STATIC: dated, attributed and disputed active estimate.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF046",
@@ -823,11 +823,11 @@
           "VALVE: NEW AGREEMENT + CLICKS",
           "DEFENDANTS: OLD AGREEMENT + CHOICE + COMPLETED WORK"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Both evidence bundles remain legible during any framing; no denial, ruling text or final outcome before SC100."
       },
       "motion_target_en": "CONDITIONAL: central preliminary-relief question between both complete evidence desks, only PL064.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF047",
@@ -868,11 +868,11 @@
           "HOW THE NEW TERMS WERE IMPOSED",
           "COURT'S PRELIMINARY AS-APPLIED VIEW"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "All timing, affected-group and preliminary-context caveats remain visible through any detail; no final coercion verdict."
       },
       "motion_target_en": "CONDITIONAL: contact between older ongoing work and arriving new terms, only PL067.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF050",
@@ -883,11 +883,11 @@
           "DEFENDANTS: NO NEW BENEFIT FOR LEAVING",
           "VALVE: ESCAPE PENDING-PROCEEDING BURDEN"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Preserve court-reasoning attribution and the conditional benefit/burden comparison; no subjective malicious-intent illustration."
       },
       "motion_target_en": "STATIC: the asymmetric exchange reasoning.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF051",
@@ -898,11 +898,11 @@
           "VALVE CHOSE ARBITRATION",
           "PARTICIPATION FOR MORE THAN A YEAR"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "More-than-a-year participation is the point; do not fabricate exact dates, hearings or proof of a present emergency."
       },
       "motion_target_en": "STATIC: duration of participation relative to emergency request.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF052",
@@ -912,11 +912,11 @@
           "COURT'S REASONING: LARGELY FINANCIAL BURDEN",
           "NOT AUTOMATICALLY IRREPARABLE INJURY"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Largely and not-automatically are essential; never convert the reasoning into money-can-never-support-relief."
       },
       "motion_target_en": "STATIC: financial burden versus legal injury threshold.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF053",
@@ -926,11 +926,11 @@
           "64 DAYS LATER",
           "ANOTHER ROUTE TO THE CONTRACT QUESTION"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No reversal, merits victory or guaranteed appellate review; do not invent intermediate events."
       },
       "motion_target_en": "STATIC: the genuine 64-day procedural bridge.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF054",
@@ -956,11 +956,11 @@
           "CONTROLLING QUESTION",
           "REASONABLE JUDGES COULD DISAGREE"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Keep prior-view-retained and reasonable-disagreement ideas together; no judge admitting error or changing his mind."
       },
       "motion_target_en": "STATIC: compatibility of retained view and disputed controlling question.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF056",
@@ -971,11 +971,11 @@
           "ALLOW POSSIBLE REVIEW BEFORE FINAL JUDGMENT?",
           "DIFFERENT QUESTIONS"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Protect possible-review language and distinct questions; no fictional yes/no appellate answer."
       },
       "motion_target_en": "STATIC: the complete two-question contrast.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF057",
@@ -986,11 +986,11 @@
           "IF IT SIDES WITH VALVE",
           "CONTRACT QUESTION COULD BE RESOLVED"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "Both if conditions and could-be-resolved result stay visible; no universal arbitration stay or guaranteed outcome."
       },
       "motion_target_en": "STATIC: both conditional gates and their limited consequence.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF058",
@@ -1017,11 +1017,11 @@
           "NO MERITS RULING IDENTIFIED",
           "WHICH AGREEMENT CONTROLS: UNRESOLVED IN THAT RECORD"
         ],
-        "mandatory_provenance_label": "ILLUSTRATION",
+        "mandatory_provenance_label": "",
         "constraints_en": "No-merits-ruling is limited to that reviewed record; never remove the through-date or imply current official completeness."
       },
       "motion_target_en": "STATIC: bounded record and unresolved question.",
-      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
+      "layer_policy_en": "One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image."
     },
     {
       "asset_id": "GF060",
@@ -1092,7 +1092,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1148,7 +1148,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1204,7 +1204,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1260,7 +1260,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1316,7 +1316,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1428,7 +1428,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1484,7 +1484,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1540,7 +1540,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1596,7 +1596,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1652,7 +1652,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1708,7 +1708,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1764,7 +1764,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1820,7 +1820,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1876,7 +1876,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -1988,7 +1988,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2044,7 +2044,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2100,7 +2100,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2156,7 +2156,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2212,7 +2212,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2268,7 +2268,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2324,7 +2324,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2380,7 +2380,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2436,7 +2436,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2492,7 +2492,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2548,7 +2548,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2660,7 +2660,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2716,7 +2716,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2772,7 +2772,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2828,7 +2828,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2884,7 +2884,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2940,7 +2940,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -2996,7 +2996,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3052,7 +3052,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3108,7 +3108,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3164,7 +3164,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3220,7 +3220,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3276,7 +3276,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3332,7 +3332,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3388,7 +3388,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3444,7 +3444,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3500,7 +3500,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3556,7 +3556,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3612,7 +3612,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3724,7 +3724,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3780,7 +3780,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3836,7 +3836,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3892,7 +3892,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -3948,7 +3948,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4004,7 +4004,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4060,7 +4060,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4116,7 +4116,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4172,7 +4172,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4228,7 +4228,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4340,7 +4340,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4396,7 +4396,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4452,7 +4452,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4508,7 +4508,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4564,7 +4564,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4676,7 +4676,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4732,7 +4732,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4844,7 +4844,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4900,7 +4900,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -4956,7 +4956,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5012,7 +5012,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5068,7 +5068,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5124,7 +5124,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5180,7 +5180,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5236,7 +5236,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5292,7 +5292,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5348,7 +5348,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5404,7 +5404,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5460,7 +5460,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5516,7 +5516,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5572,7 +5572,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5628,7 +5628,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5684,7 +5684,7 @@
       },
       "pixel_gate": {
         "status": "NOT_PERFORMED",
-        "before_execution": "Verify actual lettering exactly matches protected V4 copy and label, mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
+        "before_execution": "Verify actual lettering exactly matches protected V4 copy and mobile legibility, safe area, source/provenance honesty and boundary meaning before accepting this static image.",
         "audio_and_final_timing_gate": "AUDITORY_QC_PENDING; V5 frames remain provisional and are not measured render approval."
       }
     },
@@ -5745,5 +5745,203 @@
       }
     }
   ],
-  "handoff": "Maker preparation only; lead must obtain independent current-artifact critique before accepting the package. No actual assets, crops, keyframes, audio audition or finished edit have been accepted."
+  "handoff": {
+    "0": "M",
+    "1": "a",
+    "2": "k",
+    "3": "e",
+    "4": "r",
+    "5": " ",
+    "6": "p",
+    "7": "r",
+    "8": "e",
+    "9": "p",
+    "10": "a",
+    "11": "r",
+    "12": "a",
+    "13": "t",
+    "14": "i",
+    "15": "o",
+    "16": "n",
+    "17": " ",
+    "18": "o",
+    "19": "n",
+    "20": "l",
+    "21": "y",
+    "22": ";",
+    "23": " ",
+    "24": "l",
+    "25": "e",
+    "26": "a",
+    "27": "d",
+    "28": " ",
+    "29": "m",
+    "30": "u",
+    "31": "s",
+    "32": "t",
+    "33": " ",
+    "34": "o",
+    "35": "b",
+    "36": "t",
+    "37": "a",
+    "38": "i",
+    "39": "n",
+    "40": " ",
+    "41": "i",
+    "42": "n",
+    "43": "d",
+    "44": "e",
+    "45": "p",
+    "46": "e",
+    "47": "n",
+    "48": "d",
+    "49": "e",
+    "50": "n",
+    "51": "t",
+    "52": " ",
+    "53": "c",
+    "54": "u",
+    "55": "r",
+    "56": "r",
+    "57": "e",
+    "58": "n",
+    "59": "t",
+    "60": "-",
+    "61": "a",
+    "62": "r",
+    "63": "t",
+    "64": "i",
+    "65": "f",
+    "66": "a",
+    "67": "c",
+    "68": "t",
+    "69": " ",
+    "70": "c",
+    "71": "r",
+    "72": "i",
+    "73": "t",
+    "74": "i",
+    "75": "q",
+    "76": "u",
+    "77": "e",
+    "78": " ",
+    "79": "b",
+    "80": "e",
+    "81": "f",
+    "82": "o",
+    "83": "r",
+    "84": "e",
+    "85": " ",
+    "86": "a",
+    "87": "c",
+    "88": "c",
+    "89": "e",
+    "90": "p",
+    "91": "t",
+    "92": "i",
+    "93": "n",
+    "94": "g",
+    "95": " ",
+    "96": "t",
+    "97": "h",
+    "98": "e",
+    "99": " ",
+    "100": "p",
+    "101": "a",
+    "102": "c",
+    "103": "k",
+    "104": "a",
+    "105": "g",
+    "106": "e",
+    "107": ".",
+    "108": " ",
+    "109": "N",
+    "110": "o",
+    "111": " ",
+    "112": "a",
+    "113": "c",
+    "114": "t",
+    "115": "u",
+    "116": "a",
+    "117": "l",
+    "118": " ",
+    "119": "a",
+    "120": "s",
+    "121": "s",
+    "122": "e",
+    "123": "t",
+    "124": "s",
+    "125": ",",
+    "126": " ",
+    "127": "c",
+    "128": "r",
+    "129": "o",
+    "130": "p",
+    "131": "s",
+    "132": ",",
+    "133": " ",
+    "134": "k",
+    "135": "e",
+    "136": "y",
+    "137": "f",
+    "138": "r",
+    "139": "a",
+    "140": "m",
+    "141": "e",
+    "142": "s",
+    "143": ",",
+    "144": " ",
+    "145": "a",
+    "146": "u",
+    "147": "d",
+    "148": "i",
+    "149": "o",
+    "150": " ",
+    "151": "a",
+    "152": "u",
+    "153": "d",
+    "154": "i",
+    "155": "t",
+    "156": "i",
+    "157": "o",
+    "158": "n",
+    "159": " ",
+    "160": "o",
+    "161": "r",
+    "162": " ",
+    "163": "f",
+    "164": "i",
+    "165": "n",
+    "166": "i",
+    "167": "s",
+    "168": "h",
+    "169": "e",
+    "170": "d",
+    "171": " ",
+    "172": "e",
+    "173": "d",
+    "174": "i",
+    "175": "t",
+    "176": " ",
+    "177": "h",
+    "178": "a",
+    "179": "v",
+    "180": "e",
+    "181": " ",
+    "182": "b",
+    "183": "e",
+    "184": "e",
+    "185": "n",
+    "186": " ",
+    "187": "a",
+    "188": "c",
+    "189": "c",
+    "190": "e",
+    "191": "p",
+    "192": "t",
+    "193": "e",
+    "194": "d",
+    "195": ".",
+    "owner_illustration_label_override": "2026-10-11: no printed ILLUSTRATION on 50 ordinary narrative assets; nine recreated documents keep RECREATION / NOT AN ORIGINAL DOCUMENT; endscreen blank as planned. Previous historical V4 provenance was NOT an owner instruction."
+  }
 }
