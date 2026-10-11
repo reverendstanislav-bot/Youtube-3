@@ -1,0 +1,62 @@
+{
+  "status": "FIVE_ORIGINAL_PNG_ARCHIVED_NO_MEDIA_GENERATION",
+  "assets": [
+    {
+      "asset_id": "GF001",
+      "path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF001.png",
+      "job_id": "6bb79fd2-594a-4055-b4a3-795d9f48fee0",
+      "sha256": "07116bbc73d5629cb6b94a4eb00cc9752df57923cfdaae8725316df9dd004b84",
+      "bytes": 1534587,
+      "width": 1344,
+      "height": 752,
+      "visual_qc": "HOLD_NOT_NATIVE_PIXEL_QC",
+      "source": "original Higgsfield completed generation"
+    },
+    {
+      "asset_id": "GF002",
+      "path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF002.png",
+      "job_id": "4e99bdf7-2e00-4f1e-a2a6-aec4a074fedb",
+      "sha256": "c3af85515976668bd1cb4d3163cec2738b7c74bba54a93823a0be6068bb2dc01",
+      "bytes": 1446835,
+      "width": 1344,
+      "height": 752,
+      "visual_qc": "HOLD_NOT_NATIVE_PIXEL_QC",
+      "source": "original Higgsfield completed generation"
+    },
+    {
+      "asset_id": "GF004",
+      "path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF004.png",
+      "job_id": "c69e8404-b2b1-4d3e-a2ae-0db6ef36162d",
+      "sha256": "988488f77363588643f6688a10b649d128618da5c260307b767af86b6bc1f52b",
+      "bytes": 1463854,
+      "width": 1344,
+      "height": 752,
+      "visual_qc": "HOLD_NOT_NATIVE_PIXEL_QC",
+      "source": "original Higgsfield completed generation"
+    },
+    {
+      "asset_id": "GF005",
+      "path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF005.png",
+      "job_id": "6bc32fc2-8328-4504-b7d8-f75f243ee33a",
+      "sha256": "95894f9b6e17f819e809ef8eb91a41bca475434c2153dfb8ae33089ae81fbbbe",
+      "bytes": 1656691,
+      "width": 1344,
+      "height": 752,
+      "visual_qc": "HOLD_NOT_NATIVE_PIXEL_QC",
+      "source": "original Higgsfield completed generation"
+    },
+    {
+      "asset_id": "GF006",
+      "path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF006.png",
+      "job_id": "81853b97-1210-43c2-84a4-10b0a1995883",
+      "sha256": "8fae574de2b7e2e9ce4309177d8a59d30ac248d95a59994dd674de5fe60d3f10",
+      "bytes": 1779291,
+      "width": 1344,
+      "height": 752,
+      "visual_qc": "HOLD_NOT_NATIVE_PIXEL_QC",
+      "source": "original Higgsfield completed generation"
+    }
+  ],
+  "new_paid_jobs": 0,
+  "visual_acceptance": "HOLD"
+}
