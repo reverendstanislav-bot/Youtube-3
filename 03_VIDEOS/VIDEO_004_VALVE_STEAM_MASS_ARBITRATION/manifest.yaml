@@ -9,8 +9,8 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "GPT Image 2/1k/low profile: 60 requests 2 STYLE_ONLY refs each; 0.5 exact config-only credit, 30 base. Structural QC PASS; actual 2-ref backend acceptance and text legibility untested. Audio and timing locks pending; obtain explicit spend approval before any Higgsfield import/job."
-blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "VISUAL_ASSETS_NOT_GENERATED", "IMAGE_GENERATION_SPEND_NOT_AUTHORIZED"]
+next_action: "Wave01 actual: GF001,GF002,GF004,GF005,GF006 completed, original PNGs SHA-verified in Git; GF003 rejected on daily grace-period quota before submission; GF007-GF060 not submitted; stop all further jobs and retries until quota clears and explicit next authorization. Full pixel/word QC HOLD. Stage10/11 locks remain open."
+blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "ONLY_5_OF_60_IMAGE_ASSETS_GENERATED", "GF003_DAILY_GRACE_PERIOD_LIMIT", "REAL_IMAGE_NATIVE_PIXEL_TEXT_QC_HOLD"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -26,7 +26,7 @@ stages:
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
   stage_12_visual_source_generation_plan: "V6_60_GPT_IMAGE_2_1K_LOW_STRUCTURAL_QC_PASS_NO_GENERATION"
-  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_13_visual_asset_qc: "WAVE01_5_COMPLETE_SOURCE_PNG_SHA_ARCHIVED_VISUAL_QC_HOLD"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -131,13 +131,13 @@ generation_plan:
   generated_documents_are_original_evidence: false
   legacy_175_montage_states_are_generation_jobs: false
   shorts_vertical_cta_and_thumbnails_included: false
-  new_paid_jobs_authorized: 0
-  new_paid_jobs_submitted: 0
+  new_paid_jobs_authorized: 60
+  new_paid_jobs_submitted: 5
   provider_requested: "Higgsfield"
   model: "gpt_image_2"
   cost: "GPT_IMAGE_2_1K_LOW_0.5_EXACT_CONFIG_CREDITS_PER_IMAGE_30_BASE_REQUOTE_WITH_REFERENCES"
   historical_v4_model_cost: "NOT_SELECTED/NOT_QUOTED snapshot retained in immutable V4 inputs; superseded for request preparation only by V6"
-  media_acceptance: "NOT_RUN"
+  media_acceptance: "5_NATIVE_IMAGE_OUTPUTS_RECEIVED_PIXEL_TEXT_QC_HOLD"
 
 prompt_package:
   current: "12_PROMPT_PACKAGE_V6.json"
@@ -151,7 +151,7 @@ prompt_package:
   builder: "12_BUILD_PROMPT_PACKAGE_V6.py"
   validation: "12_PROMPT_VALIDATION_V6.json"
   review: "12_PROMPT_REVIEW_V6.md"
-  status: "PREPARATION_REVIEW_PASS_NOT_GENERATED"
+  status: "60_PREPARED_5_GENERATED_1_SUBMISSION_REJECTED_54_UNTRIED"
   editing_canon: "00_FOUNDATION/EDITING_CANON.md"
   editing_canon_sha256: "41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5"
   editing_canon_rules_changed: false
@@ -180,7 +180,7 @@ prompt_package:
   new_imports_submitted: 0
   new_paid_jobs_authorized: 0
   new_paid_jobs_submitted: 0
-  media_or_release_acceptance: "NOT_RUN"
+  media_or_release_acceptance: "STAGE13_WAVE01_GENERATION_RECEIVED_NOT_VISUALLY_ACCEPTED"
 
 film_breakdown:
   current: "12_FILM_STRUCTURE_V5.json"
@@ -233,3 +233,26 @@ performance_correction:
   new_current_artifact_score_issued: true
   downstream_production_on_hold: true # Audio auditory gate and provisionalStage11; script90.4 accepted
   stage_advanced: true # Historical audio/provisionalStage11 work; V4 image planning only, current_stage stays10
+
+# Actual Stage13 media produced on 2026-10-11; current status supersedes old preparation-only notes.
+stage13_wave01_actual:
+  date: '2026-10-11'
+  model: 'gpt_image_2'
+  resolution: '1k'
+  quality: 'low'
+  input_style_references: 2
+  accepted_completed_jobs: 5
+  completed_assets: ['GF001','GF002','GF004','GF005','GF006']
+  refused_on_submit: ['GF003']
+  refused_reason: 'Higgsfield grace-period daily generation limit'
+  paid_credits_observed: 2.5
+  credits_before: 1127.22
+  credits_after: 1124.72
+  retries: 0
+  original_png_archive: '13_GENERATED_IMAGES/WAVE01/'
+  archive_sha_receipt: '13_WAVE01_IMPORTED_SOURCE_PNGS.json'
+  generation_ledger: '13_WAVE01_HIGGSFIELD_JOB_LEDGER.json'
+  remaining_not_generated: 55
+  visual_qc_status: 'HOLD_EXACT_TEXT_AND_LEGAL_FACT_QC'
+  audio_stage10_lock: false
+  timing_stage11_lock: false
