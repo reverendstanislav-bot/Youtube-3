@@ -79,7 +79,7 @@ assets:
     - "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg"
     - "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg"
 x_higgsfield:
-  model: "gpt_image_2_5"
+  model: "gpt_image_2"
   media_role: "image"
   purpose: "STYLE_ONLY"
   reference_registry: "12_PROMPT_PACKAGE_V6.json"
@@ -99,3 +99,8 @@ invented inference that a still image proves playback timing or smoothness.
 The current episode intentionally generates whole labelled illustrations.
 Do not import Video002's source-pixel compositing workflow or its 15% safe
 margin. VIDEO004 locked V4 copy and the Foundation 20% rule take priority.
+
+
+## Production-model correction — 2026-10-11
+
+The active output profile is **Higgsfield GPT Image 2 / 1k / low / 16:9** (two style-only image references). This style specification is not an authorization to generate, import, upscale or spend. The composition language stays WHAT IT COST; endscreen and all legal text require native-1k pixel QC before approval. Full backend two-image acceptance untested without imports; exact model catalog accepts image reference role. 60 jobs one-attempt base estimate 30.0 credits, excluding retries.
