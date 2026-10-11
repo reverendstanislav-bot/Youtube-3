@@ -1,5 +1,7 @@
 # VIDEO 004 — Resolve V3 Composition & Source Execution Guide
 
+**HISTORICAL / SUPERSEDED — 2026-10-11.** This175-state editor-native/Fusion route is not the current production method. Do not execute its generator/importer or treat statuses below as current approval. Current image source: `12_GENERATION_PLAN_V4.json` (60complete generated frames, with visible reconstruction/provenance limits). Current whole-film direction: [12_FILM_BREAKDOWN_V5.md](12_FILM_BREAKDOWN_V5.md) and84-placement V5 edit map. No new jobs, edit or media QC approved by the planning task. Original technical results and picture failure remain history, not a retroactive PASS.
+
 Status: **FRAME-ACCURATE EDITOR BLUEPRINT PASS / FINAL PICTURE & AUDITORY QC HOLD** (2026-10-10). Authoritative edit rules: `EDITING_CANON.md` owner-locked 2026-10-09. No paid generation or production of new footage authorized.
 
 ## What exists, concretely

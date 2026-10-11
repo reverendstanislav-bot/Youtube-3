@@ -1,5 +1,11 @@
 # VIDEO004 — Stage11 transcript and visual timeline
 
+## Current production routing — 2026-10-11
+
+Stage11 remains provisional; audio final lockfalse. Current full-film plan is [12_FILM_BREAKDOWN_V5.md](12_FILM_BREAKDOWN_V5.md):808s voice +20s without voice,5acts/13storychapters +endscreen,84image placements using60unique V4 full-frame generation slots. `12_FILM_EDIT_MAP_V5.csv` maps every placement back to the unchanged cue/script/source grid; `12_FILM_SHORTS_MAP_V5.csv` covers onlySH01/SH02/SH04/SH08.
+
+This supersedes historical editor-native/8Shorts directions below, not the underlying word/cue timing files. `AUTHENTIC_DOCUMENT` in the old semantic source grid means a source intent; it does not describe provenance of a generated image. All current generated documentary frames are visibly labelled recreations; sourceIDs point to genuine evidence separately. Display text/graphics are inside generated images; no Fusion replacement, burned narration captions, shake or jumpy crops. Stage12 planning exists, but no new image jobs/assets/render started.
+
 Status: PROVISIONAL_ASR_TIMELINE / AUDIO_LOCK_PENDING. Owner explicitly requested Stage11 start. This preparation does not advance the authoritative current stage beyond10 or waive its auditory gate. No Stage12 generation/assets/render started.
 
 ## Inputs and measured coverage
@@ -27,7 +33,7 @@ Picture remains stable: no shake, jumping crops, universal drift or alternating 
 |SH04|00:04:45.260|00:05:00.440|15.18|18.18|
 |SH08|00:10:27.640|00:10:45.960|18.32|21.32|
 
-One contiguous source range each. No rewrite, reorder, speedup or separateShortsTTS. Start/end padding never borrows adjacent narration; boundaries still need audition against the waveform, particularly no-gapSH05/06/07/08 edges. Some spoken extracts are below preferred20s: do not add filler or stretch delivery to hit that preference. Owner hard maximum30s takes precedence.
+One contiguous source range each. No rewrite, reorder, speedup or separateShortsTTS. Start/end padding never borrows adjacent narration; all four active cut edges require audition against the waveform. HistoricalSH05/06/07 are inactive, not additional required cuts. Some spoken extracts are below preferred20s: do not add filler or stretch delivery to hit that preference. Owner hard maximum30s takes precedence.
 
 CTA plan:3.00seconds including0.35second transition; finish speech before it, no cut-off last syllable. Maintain coherent evidence behind the bridge; use each locked Short-specific unresolved long-form question from07_SHORTS_LOCK, with a restrained WHAT IT COST subscribe/link cue. This is a plan, not a generated endcard. Vertical alternate layout preserves both disputed positions, dates and legal caveats; never rely on a centre crop that deletes them. Final9:16export duration<=30s must be measured separately atStage15.
 

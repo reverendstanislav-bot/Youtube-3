@@ -1,0 +1,41 @@
+{
+  "status": "WHOLE_FILM_PLAN_STRUCTURAL_PASS_NOT_RENDER_QC",
+  "voice_sec": 808,
+  "tail_no_voice_sec": 20,
+  "planned_film_sec": 828,
+  "planned_film_clock": "13:48",
+  "fps": 25,
+  "covered_frames": 20700,
+  "chapters_including_endscreen": 14,
+  "acts_excluding_tail": 5,
+  "placements": 84,
+  "unique_full_frame_images": 60,
+  "repeat_placements": 24,
+  "cue_segments_preserved": 125,
+  "scene_cues_covered": 124,
+  "narrative_beats": 54,
+  "treatments": {
+    "STATIC": 77,
+    "CONDITIONAL_DETAIL": 7
+  },
+  "max_narration_placement_sec": 17.0,
+  "average_narration_placement_sec": 9.735,
+  "chapter_crossings_are_not_extra_cuts": [
+    "PL018",
+    "PL022",
+    "PL043",
+    "PL056"
+  ],
+  "short_count": 4,
+  "paid_jobs": 0,
+  "audio_or_script_changed": false,
+  "input_sha256_scheme": "UTF8_LF_NORMALIZED",
+  "input_sha256": {
+    "12_FILM_STRUCTURE_V5.json": "06b6e88543e53f39999ba0599641a84b989155dc94b9fd6b72d5398d2cb0bce8",
+    "12_GENERATION_PLAN_V4.json": "99a7138f0a2e4a3e1249425dfbf6f276645110c6237f2318bd33fd4b5e2fba7a",
+    "12_GENERATION_CUE_MAP_V4.csv": "b42538f9a34ea9959fb4a2f57e9a17d4a23b87d59f2bf957b784bcad0476a11b",
+    "07_SCRIPT_FINAL.md": "50cf94f42018fecb112e083afd5ca2f4069914171b5fe5db9fbd86498f156a43",
+    "SCENE_TIMELINE.csv": "8d7801bf9975e5f3bb60bd5b1b98093190b5f155f2dda17a3f8fa0139a80b050",
+    "11_SHORTS_CUT_MAP.csv": "e054588164a8adac4ced1261f8f8816b2dfcbd6e69654d704932105d81144874"
+  }
+}

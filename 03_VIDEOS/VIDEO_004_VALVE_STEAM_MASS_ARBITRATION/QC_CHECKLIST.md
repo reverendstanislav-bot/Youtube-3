@@ -1,5 +1,18 @@
 # VIDEO 004 — QC Checklist
 
+## Current planning scope — 2026-10-11
+
+- [x] Actual voice metadata reconfirmed808.000s; future20s tail → planned13:48, not a finished render.
+- [x] V4 unique inventory and V5 whole-film structure agree:60images/84placements/24reuses;5acts/14chapters; all124cues/125segments covered.
+- [x] Stage12 mandatory source/image/reconstruction entrypoints route to the same current plan.
+- [x] Four active Shorts only; vertical source strategy mapped, no claim of pixel acceptance or generated CTA.
+- [ ] Genuine full auditory QC, final-timeline/cut-edge lock.
+- [ ] Actual generated lettering, mobile/9:16 readability and provenance approval.
+- [ ] Real-time full edit/pacing/audio review and native YouTube endscreen geometry.
+- [ ] Stage16 freshness and Stage18 release approval.
+
+Older checked items below are historical stage records, not proof of final picture/audio acceptance.
+
 ## State
 - [x] manifest is authoritative and updated through current stage
 - [x] STATE matches manifest
@@ -28,15 +41,15 @@
 - [ ] authentic vs recreated visuals are distinguishable
 - [ ] document excerpts preserve context
 - [ ] graphics/status labels are current
-- [ ] captions match final audio
+- [ ] any separately delivered caption file matches final audio; no burned narration captions
 
 ## Shorts architecture
-- [x] 6–10 contiguous short-ready units identified at Stage 02
+- [x] historical candidates identified at Stage02; owner-selected production count exactly4
 - [x] `03_SHORTS_MAP.csv` exists and uses long-form wording only
 - [x] every proposed Short passed standalone fact/legal review
 - [x] `07_SHORTS_LOCK.csv` locked with final script unless owner waived requirement
 - [ ] `11_SHORTS_CUT_MAP.csv` uses exact final-master timestamps
-- [ ] Short-used Stage 12 beats carry `short_ids` and 9:16-safe strategy
+- [x] Short-used Stage12 planning carries `short_ids` and conditional9:16 strategy; actual pixels/verticals NOT_APPROVED
 - [x] canonical Shorts require no rewritten/reordered VO or distant-line stitching
 - [ ] Stage 16 refresh reviewed each Short independently
 

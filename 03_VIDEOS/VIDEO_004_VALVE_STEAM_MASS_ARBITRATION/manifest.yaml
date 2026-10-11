@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Requested V4 unique-frame plan complete: 60 longform images (59 story +1 endscreen); no generation submitted. Before image jobs select model, quote exact spend and obtain approval; full auditory QC remains open. Do not resume rejected Fusion/175-state strategy."
+next_action: "Requested whole-film V5 breakdown complete: planned13:48,5acts,14chapters,84placements/60unique V4 images. Stop at plan handoff; no jobs/render/stage advancement. Audio auditory QC and final timeline remain open; any image spend requires model/quote/explicit approval. Do not resume rejected175-state Fusion route."
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "VISUAL_ASSETS_NOT_GENERATED", "IMAGE_GENERATION_SPEND_NOT_AUTHORIZED"]
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V4_EXACT_60_FRAME_PLAN_COMPLETE_NOT_GENERATED"
+  stage_12_visual_source_generation_plan: "V4_60_IMAGES_V5_WHOLE_FILM_BREAKDOWN_COMPLETE_NOT_GENERATED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -112,7 +112,7 @@ qa:
   performance: "PASS_V11_90.4_OWNER_MIN90"
   voice_input: "PASS_INPUT_LOCK_V11"
   generated_audio: "TECHNICAL_PASS_ASR_RECHECK_NOT_AUDITORY_APPROVAL"
-  visual: "V4_INDEPENDENT_PLAN_REVIEW_PASS_IMAGE_QC_NOT_RUN"
+  visual: "V4_V5_INDEPENDENT_PLAN_REVIEW_PASS_IMAGE_AND_EDIT_QC_NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
@@ -137,6 +137,23 @@ generation_plan:
   model: "NOT_SELECTED"
   cost: "NOT_QUOTED"
   media_acceptance: "NOT_RUN"
+
+film_breakdown:
+  current: "12_FILM_STRUCTURE_V5.json"
+  summary: "12_FILM_BREAKDOWN_V5.md"
+  chapter_map: "12_FILM_CHAPTERS_V5.csv"
+  edit_map: "12_FILM_EDIT_MAP_V5.csv"
+  shorts_map: "12_FILM_SHORTS_MAP_V5.csv"
+  validation: "12_FILM_VALIDATION_V5.json"
+  review: "12_FILM_REVIEW_V5.md"
+  stage12_entrypoint: "12_VISUAL_SOURCE_PLAN.md"
+  acts: 5
+  chapters_including_endscreen: 14
+  image_placements: 84
+  same_image_reuses: 24
+  planned_runtime_sec: 828
+  runtime_is_rendered_film_verification: false
+  production_started_by_this_task: false
 
 script:
   canonical: "07_SCRIPT_FINAL.md"

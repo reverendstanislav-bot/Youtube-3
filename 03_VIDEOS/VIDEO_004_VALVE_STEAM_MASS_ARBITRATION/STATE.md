@@ -2,9 +2,13 @@
 
 Status: IN_PREPARATION
 Current stage: **10_AUDIO_MASTER — TECHNICAL_PASS; AUDITORY_QC_PENDING**
-Updated:2026-10-11. Current owner task: exact unique-frame plan and GitHub upload only.
+Updated:2026-10-11. Current owner task: runtime answer and whole-film breakdown aligned with production Git; planning only.
 
-## Current authoritative handoff — V4 generated-frame plan
+## Current authoritative handoff — V4 image inventory + V5 complete film map
+
+- **Planned film13:48 =13:28 existing narration +20s without narration.** Local ffprobe reconfirmed actual WAV808.000s, pcm_s24le/48kHz/stereo/24bit on2026-10-11. Not a rendered film verification.
+- Start at `12_VISUAL_SOURCE_PLAN.md` → `12_FILM_BREAKDOWN_V5.md`. V5 has5acts,13storychapters +1endscreen and84authored placements with exactframes/source/script/asset links and focus/cut reasons. V4's60unique images remain unchanged;24return placements do not create jobs. Four Shorts mapped separately. Stage12 mandatory spec entrypoints now exist; no duplicate image plan.
+- `12_FILM_STRUCTURE_V5.json` is authoring source; chapter/edit/Shorts CSV and validation are reproducible. `12_BUILD_FILM_BREAKDOWN_V5.py` checks the full map without writing or network by default. Actual pixels/crops/audio/pacing/vertical/endcard Studio checks remain unperformed.
 
 - **60 unique long-form images:59 narrative +1 silent20s endscreen.** All are full-frame generated compositions, including English text, charts and recreated documents. `12_GENERATION_PLAN_V4.md`/`.json`, asset manifest, cue map and count receipt are authoritative.
 - Covers123 spoken cues +1 endscreen,54 story beats,125 mapped segments,20700frames/828s at25fps.84 continuous image placements include24 reuses, not84 new images.175 legacy montage states are not generation jobs.
@@ -12,9 +16,9 @@ Updated:2026-10-11. Current owner task: exact unique-frame plan and GitHub uploa
 - Original V11/voice payloads/audio files/Shorts cut map unchanged. Exactly4Shorts SH01/SH02/SH04/SH08; landscape source reuse mapped, separate vertical assets/CTA/thumbnails not included or declared ready.
 - Previous editor-native/Fusion strategy is rejected and superseded for this episode. Do not revise/import/render its175states as the production path. Historical canary failure remains true, not converted to PASS.
 - Stage10 full auditory QC NOT_PERFORMED; Stage11 final lockfalse. Current stage stays10. No image jobs, spend, accepted generated-image claims, montage/release PASS or stage advancement from this task. Model NOT_SELECTED, cost NOT_QUOTED; separate explicit spend approval required.
-- Planning structural check and independent review recorded in `12_GENERATION_REVIEW_V4.md`. Media QC, legal freshness Stage16 and release gates remain open. Working media root remains `C:/YOUTUBE/Youtube 3/Video 4`; Git stores the control plane, not bulk images.
+- Planning structural/independent reviews: `12_GENERATION_REVIEW_V4.md` and `12_FILM_REVIEW_V5.md`. Media QC, legal freshness Stage16 and release gates remain open. Working media root remains `C:/YOUTUBE/Youtube 3/Video 4`; Git stores the control plane, not bulk images.
 
-## Historical handoffs below — superseded where conflicting with V4 above
+## Historical handoffs below — superseded where conflicting with V4/V5 above
 
 - V11 canonical script unchanged; current Shorts target corrected to exactly four by owner; independent text score90.4/100 meets owner minimum90. Harrison identity and episode ElevenLabs settings retained. No new generations this task.
 - Existing3/3Harrison jobs completed; historical approved quote39.45credits, actual debit not re-verified. Existing GitHub run38039673597 succeeded. Prior0jobs/NOT_QUOTED/master-not-generated notes were historical and are superseded here.

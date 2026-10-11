@@ -1,7 +1,7 @@
 # VIDEO004 — Story map / V11
 
 Status: **PASS — V11 DOCUMENTARY STRUCTURE; TEXT LOCK ONLY**
-Updated2026-10-09. Script and eight exact extracts are canonical in07_SCRIPT_FINAL.md and07_SHORTS_LOCK.csv. Narrative beats are not measured timestamps.
+Updated2026-10-11. Canonical V11 spoken body is unchanged. Exactly four active extracts: SH01/SH02/SH04/SH08 in07_SHORTS_LOCK.csv; eight candidates are historical. Measured voice808s, planned film828s including20s without narration. Complete provisional chapter/placement breakdown: [12_FILM_BREAKDOWN_V5.md](12_FILM_BREAKDOWN_V5.md), with14chapters and84placements using60unique generated-frame slots. Narrative beats are not separate paid jobs.
 
 ## Promise and narrative order
 
@@ -33,4 +33,4 @@ Use existing24claims/13events/9sources. Contract positions and disputed library 
 
 ## Ending and handoff
 
-Resolve the opening click question through the court reasoning, then introduce the genuine limited appeal route and finish on what already changed versus what did not disappear. No padded legal recap, generic moral or automatic production handoff. Estimated14:27 narration before real pauses; actual duration unknown. Official current docket/release refresh remains NOT_RUN, last recorded refresh2026-10-07. Later media must preserve no burned captions/shake/crop jumps and smooth endings.
+Resolve the opening click question through the court reasoning, then introduce the genuine limited appeal route and finish on what already changed versus what did not disappear. No padded legal recap, generic moral or automatic production handoff. Historical14:27 estimate is superseded by the real808.000s voice master (13:28), with future20s tail (planned13:48film). No slowing or padding to meet the channel's approximate15–22minute target; no runtime change authorized. Official current docket/release refresh remains NOT_RUN, last recorded refresh2026-10-07. Later media must preserve no burned captions/shake/crop jumps and smooth endings.
