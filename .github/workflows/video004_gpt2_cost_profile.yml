@@ -1,0 +1,65 @@
+name: VIDEO004 GPT Image 2 cheap-profile regeneration
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_gpt2_cost_profile.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  prepare_only:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Produce derived V6 files without sending any generation request
+        run: |
+          python "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_BUILD_PROMPT_PACKAGE_V6.py" --write-derived
+          python "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_BUILD_PROMPT_PACKAGE_V6.py"
+      - name: Verify 60 jobs, exact role count, cost, unchanged text and high-risk copy
+        run: |
+          python - <<'PY'
+          import csv, hashlib, json, pathlib, re
+          d=pathlib.Path("03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION")
+          pkg=json.loads((d/"12_PROMPT_PACKAGE_V6.json").read_text())
+          inv=json.loads((d/"12_GENERATION_PLAN_V4.json").read_text())
+          a={x["id"]:x for x in inv["assets"]}
+          req=[json.loads(x) for x in (d/"12_HIGGSFIELD_REQUESTS_V6.jsonl").read_text().splitlines() if x.strip()]
+          rows=list(csv.DictReader((d/"12_REFERENCE_BINDINGS_V6.csv").open(encoding="utf8")))
+          assert len(req)==len(rows)==len(a)==60
+          assert {r["asset_id"] for r in req}==set(a)
+          assert pkg["request_parameters"]=={"model":"gpt_image_2","resolution":"1k","quality":"low","aspect_ratio":"16:9","count":1}
+          assert pkg["cost_preflight"]["cost_per_image_credits"]==0.5
+          assert pkg["cost_preflight"]["one_attempt_each_estimated_credits"]==30
+          assert not pkg["cost_preflight"]["spend_authorized"] and pkg["cost_preflight"]["submitted_jobs"]==0
+          problems=[];risks=[]
+          for r in req:
+              p=r["generate_image_arguments"]["params"]
+              meta={k:p[k] for k in ("model","resolution","quality","aspect_ratio","count")}
+              assert meta==pkg["request_parameters"],r["asset_id"]
+              assert set(p)==set(meta)|{"prompt","medias"},r["asset_id"]
+              assert len(p["medias"])==len(r["reference_ids"])==2,r["asset_id"]
+              assert p["medias"][0]["role"]==p["medias"][1]["role"]=="image",r["asset_id"]
+              assert p["medias"][0]["value"]!=p["medias"][1]["value"],r["asset_id"]
+              assert all(m["value"].startswith("https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/") for m in p["medias"])
+              assert r["status"]=="PREPARED_NOT_SUBMITTED" and r["spend_authorized"] is False
+              txt=p["prompt"]
+              assert "gpt_image_2 / 1k / low" in txt and "GPT Image 2 / 1k / low preflight" in txt
+              assert "for 3840x2160" not in txt and "at exactly double scale" not in txt
+              for line in a[r["asset_id"]]["visible_text"]:
+                  assert json.dumps(line,ensure_ascii=False) in txt,(r["asset_id"],line)
+              if sum(len(x) for x in a[r["asset_id"]]["visible_text"])>100:risks.append(r["asset_id"])
+          assert risks==["GF001","GF058","GF059"],risks
+          report={"status":"STRUCTURAL_COMPATIBILITY_PASS_OUTPUT_PIXELS_NOT_TESTED","catalog_model":"gpt_image_2","model_resolution":"1k","model_quality":"low","aspect_ratio":"16:9","prompt_count":len(req),"style_reference_bindings":len(req)*2,"two_distinct_refs_per_prompt":True,"two_ref_backend_execution_test":"NOT_PERFORMED_NO_IMPORTS","quote":{"source":"Higgsfield estimate_image_cost 2026-10-11 WITHOUT medias","credits_exact_per_image":0.5,"credits_rounded_per_request":1,"total_first_attempt_estimate_credits":30.0,"retry_budget":0,"not_actual_complete_two_reference_quote":True},"1k_text_density_followup_QC":risks,"generated":0,"new_paid_imports":0,"audio_final_lock":False,"timeline_final_lock":False,"spend_approved":False,"all_60_text_and_source_ids_unchanged":True,"upstream_v4_and_v5_unchanged":True}
+          (d/"12_GPT2_1K_LOW_COMPATIBILITY_QC.json").write_text(json.dumps(report,indent=2)+"\n")
+          print(json.dumps(report,indent=2))
+          PY
+      - name: Commit only derived current profile outputs and QC receipt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_HIGGSFIELD_REQUESTS_V6.jsonl" "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_HIGGSFIELD_PROMPTS_V6.md" "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_REFERENCE_BINDINGS_V6.csv" "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_FACTUAL_CONTEXT_V6.json" "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_PROMPT_VALIDATION_V6.json" "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_GPT2_1K_LOW_COMPATIBILITY_QC.json"
+          git commit -m "VIDEO004 regenerate 60 cheap-profile prepared requests and preflight" || true
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
