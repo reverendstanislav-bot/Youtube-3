@@ -63,9 +63,9 @@
       "y_min": 108,
       "y_max": 820
     },
-    "bottom_safe_region": "No essential copy, caveat, source/provenance label or mechanism endpoint at y>=864.",
+    "bottom_safe_region": "No essential narrative copy, reconstruction warning, or mechanism endpoint at y>=864. Do not print channel branding or SOURCES footers anywhere.",
     "vertical_scope": "Four same-audio Shorts remain SH01/SH02/SH04/SH08. 16:9 plan does not establish a valid 9:16 crop. Preserve all caveats or use a separately authorized alternative layout; no extra assets counted or ordered here.",
-    "text_policy": "Use V4 visible_text exactly as stored in each asset's protected_content_en.exact_visible_text, plus its mandatory provenance label. No generated source-native legal body, new quote, fake official interface or post-added substitute. These are English editorial labels, not narration captions.",
+    "text_policy": "Use V4 visible_text exactly as stored in each asset's protected_content_en.exact_visible_text, plus mandatory reconstruction warning ONLY for RECREATED_DOCUMENT assets; all narrative frames have NO on-image ILLUSTRATION stamp. No generated source-native legal body, new quote, fake official interface or post-added substitute. These are English editorial labels, not narration captions.",
     "generation_layout_not_media_acceptance": "Layouts and empty-space targets are proposals. Do not infer actual lettering, layer separation, crop geometry, font size or image QC from this document.",
     "motion_geometry": null,
     "keyframes": null
