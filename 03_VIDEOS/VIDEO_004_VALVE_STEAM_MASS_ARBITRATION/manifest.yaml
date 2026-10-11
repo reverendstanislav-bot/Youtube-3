@@ -9,8 +9,8 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "User explicitly directed generate ALL 60 before creative QC. Higgsfield batch GF007-GF012 rejected 0/6 on daily grace-period quota. 5 generated, 55 missing. Wait until provider limit resets, then resume unique missing frames without duplicate jobs. No per-wave visual QC; run full artistic QC only at 60/60. Audio/timing locks still open."
-blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "ONLY_5_OF_60_IMAGE_ASSETS_GENERATED", "GF003_DAILY_GRACE_PERIOD_LIMIT", "REAL_IMAGE_NATIVE_PIXEL_TEXT_QC_HOLD"]
+next_action: "Use ONLY V7 60 pass-oriented prompts and 2 style refs per GF from 12_HIGGSFIELD_REQUESTS_V7.jsonl. GitHub Actions V7 preflight success 60/60; no generation/job/import launched during V7 repairs. V4 exact English copy and V5 84 timeline placements locked. 5 Higgsfield image jobs historically generated; 55 missing. Do not relaunch duplicate jobs or claim pixel PASS from structural checks. Connector submission gate historically refused later paid requests; no verified account daily quota. Owner preference: generate all then visual QC. Stage10/11 gates remain open."
+blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "ONLY_5_OF_60_IMAGE_ASSETS_GENERATED", "CONNECTOR_SUBMISSION_REFUSED_ROOT_CAUSE_NOT_VERIFIED", "REAL_IMAGE_NATIVE_PIXEL_TEXT_QC_HOLD"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V6_60_GPT_IMAGE_2_1K_LOW_STRUCTURAL_QC_PASS_NO_GENERATION"
+  stage_12_visual_source_generation_plan: "V7_60_PASS_ORIENTED_PROMPTS_REFERENCE_REPAIRS_STRUCTURAL_QC_PASS_NOT_PIXEL_QC"
   stage_13_visual_asset_qc: "5_OF_60_GENERATED_55_QUOTA_BLOCKED_ALL_FRAMES_BEFORE_CREATIVE_QC"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -261,3 +261,29 @@ stage13_wave01_actual:
   timing_stage11_lock: false
 
 # 2026-10-11 clarification: the Ultra account has credits and an inactive trial. A connector error mentioning a grace-period daily limit does NOT establish a real account-level limit.
+
+# Stage12 V7 production prompt and reference repair, verified by GitHub Actions success. No paid jobs.
+stage12_v7_prompt_reference_repair:
+  date: '2026-10-11'
+  status: 'STRUCTURAL_60_OF_60_PASS_PIXEL_OUTPUT_NOT_TESTED'
+  active_prompt_file: '12_HIGGSFIELD_REQUESTS_V7.jsonl'
+  human_prompt_file: '12_HIGGSFIELD_PROMPTS_V7.md'
+  reference_binding_manifest: '12_REFERENCE_BINDINGS_V7.csv'
+  per_frame_rules: '12_PASS_REPAIR_RULES_V7.json'
+  compiler: '12_BUILD_PROMPT_PACKAGE_V7.py'
+  structural_validation: '12_PASS_VALIDATION_V7.json'
+  independent_qc: '12_QC_PREFLIGHT_60_V7.csv'
+  visual_qc_contract: '12_V7_QC_LOCK_AND_GENERATION_SOP.md'
+  pipeline_run_id: 38143408562
+  unique_frame_prompts: 60
+  old_v6_prepared_requests_status: 'ARCHIVED_NOT_LAUNCH_QUEUE'
+  reference_bindings: 120
+  reference_pairs_changed: 12
+  reconstructed_document_legal_disclaimers: 9
+  model: 'gpt_image_2'
+  resolution: '1k'
+  quality: 'low'
+  aspect_ratio: '16:9'
+  generator_output_qc_pass: false
+  paid_generations_launched_during_v7_repair: 0
+  v4_v5_unchanged: true
