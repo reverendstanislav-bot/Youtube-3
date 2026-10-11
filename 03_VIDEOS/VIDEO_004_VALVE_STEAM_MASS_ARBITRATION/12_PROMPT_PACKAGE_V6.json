@@ -1,8 +1,8 @@
 {
-  "version": "V6_PROMPT_REFERENCE_MONTAGE_PREPARATION",
+  "version": "V6_COST_CORRECTED_GPT_IMAGE_2_1K_LOW",
   "date": "2026-10-11",
   "scope": "SAME_60_LONGFORM_FULL_FRAME_SLOTS_ONLY",
-  "status": "INDEPENDENT_PREPARATION_REVIEW_PASS_NOT_MEDIA_QC",
+  "status": "PREPARATION_PASS_STRUCTURAL_60_REFERENCE_2_COST_PROFILE_FIXED_OUTPUT_NOT_TESTED",
   "inventory_source": "12_GENERATION_PLAN_V4.json",
   "film_map": "12_FILM_STRUCTURE_V5.json",
   "montage_adaptation": "12_MONTAGE_ADAPTATION_V6.json",
@@ -13,42 +13,16 @@
     "rule_change": false
   },
   "model": {
-    "id": "gpt_image_2_5",
-    "name": "GPT Image 2.5",
+    "id": "gpt_image_2",
+    "name": "GPT Image 2",
     "provider_name": "OpenAI",
-    "description": "GPT Image 2.5 generation and editing with Flare and Sunburst variants",
+    "description": "GPT Image generation with 1k/2k/4k resolution and low/medium/high quality. Live Higgsfield models_get 2026-10-11.",
     "output_type": "image",
     "parameters": [
-      {
-        "name": "variant",
-        "required": "optional",
-        "type": "string",
-        "description": "Model variant.",
-        "options": [
-          "flare",
-          "sunburst"
-        ],
-        "default": "flare"
-      },
-      {
-        "name": "quality",
-        "required": "optional",
-        "type": "string",
-        "description": "Rendering quality.",
-        "options": [
-          "low",
-          "medium",
-          "high",
-          "xhigh",
-          "max"
-        ],
-        "default": "low"
-      },
       {
         "name": "resolution",
         "required": "optional",
         "type": "string",
-        "description": "Output resolution.",
         "options": [
           "1k",
           "2k",
@@ -57,16 +31,15 @@
         "default": "1k"
       },
       {
-        "name": "background",
+        "name": "quality",
         "required": "optional",
         "type": "string",
-        "description": "Background handling. Omit to keep the model default.",
         "options": [
-          "auto",
-          "opaque",
-          "transparent"
+          "low",
+          "medium",
+          "high"
         ],
-        "nullable": true
+        "default": "low"
       }
     ],
     "medias": [
@@ -74,57 +47,53 @@
         "name": "medias",
         "type": "image",
         "roles": [
-          "image_references"
+          "image"
         ]
       }
     ],
     "aspect_ratios": [
-      "auto",
       "1:1",
-      "3:2",
-      "2:3",
       "4:3",
       "3:4",
       "16:9",
-      "9:16",
       "21:9",
-      "27:16",
-      "16:27",
-      "9:8",
-      "8:9",
-      "4:5",
-      "5:4"
+      "9:16",
+      "3:2",
+      "2:3"
     ],
     "tags": [
-      "image-generation",
+      "text-rendering",
       "editing",
-      "reference-images",
-      "4k",
-      "text-rendering"
+      "typography"
     ]
   },
   "request_parameters": {
-    "model": "gpt_image_2_5",
-    "variant": "flare",
-    "quality": "high",
-    "resolution": "4k",
-    "background": "opaque",
+    "model": "gpt_image_2",
+    "resolution": "1k",
+    "quality": "low",
     "aspect_ratio": "16:9",
     "count": 1
   },
-  "catalog_check": "LIVE_MODELS_GET_2026_10_11_NOT_MODEL_OUTPUT_QC",
+  "catalog_check": "LIVE_MODELS_GET_2026_10_11_GPT_IMAGE_2_ACCEPTS_IMAGE_ROLE_AND_16_9; TWO_REFERENCE_COUNT_MODEL_CAPABILITY_NOT_END_TO_END_PROVEN",
   "cost_preflight": {
     "tool": "estimate_image_cost",
     "date": "2026-10-11",
     "configuration_only": true,
     "reference_uploads_performed": 0,
-    "cost_per_image_credits": 4.25,
+    "model": "gpt_image_2",
+    "resolution": "1k",
+    "quality": "low",
+    "aspect_ratio": "16:9",
+    "cost_per_image_credits": 0.5,
     "planned_successful_slots": 60,
-    "one_attempt_each_estimated_credits": 255,
+    "one_attempt_each_estimated_credits": 30,
     "includes_retries": false,
     "execution_quote_must_be_refreshed": true,
     "submitted_jobs": 0,
-    "spend_authorized": false
+    "spend_authorized": false,
+    "preflight_credits_exact": 0.5,
+    "preflight_credits_rounded": 1,
+    "notes": "Fresh no-media estimate 0.5 exact credit for one image. Two URLs per request structurally bound but no backend imports or full two-reference execution quote; no generation approval."
   },
   "references": [
     {
@@ -723,6 +692,10 @@
     "Reference images are not evidence for Valve facts; source URLs and verified locked text are separate factual context, not image attachments.",
     "Full-frame generated letters cannot move independently; compound handoffs and source-native highlights require real layers and are not promised.",
     "Shorts vertical variants/CTA/thumbnails/retries are not part of the 60; no added jobs or paid tests.",
-    "Catalogue compatibility and live reference bytes are verified; no generation submission or backend output review performed."
+    "Catalogue compatibility and live reference bytes are verified; no generation submission or backend output review performed.",
+    "GPT Image 2 / 1k / low text precision, tiny legal caveats and exact end-screen spacing require REAL OUTPUT QC; structural prompt compatibility does not certify pixel/word accuracy.",
+    "Two refs per request are structurally confirmed; catalogue media image role supports images, but provider did not publish max-count; zero paid or unpaid reference URL imports were performed.",
+    "Historical V4/V5 source assets/placements and exact English visible copy are not altered; their former 4k format directions are superseded only when compiling V6 output.",
+    "All 60 outputs are NOT GENERATED; audio/timing and owner spend locks remain false."
   ]
 }
