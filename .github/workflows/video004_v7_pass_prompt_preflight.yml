@@ -52,8 +52,8 @@ jobs:
               actual=[json.loads(line.split(". ",1)[1]) for line in lines]
               assert actual==locked,(aid,actual,locked)
               assert ("RECREATION / NOT AN ORIGINAL DOCUMENT" in actual)==(src["type"]=="RECREATED_DOCUMENT")
-              assert "PRINT EXACTLY THESE " in prompt and "No other legible letters" not in prompt or True
-              assert "Do NOT print SOURCES" in prompt and "Do NOT print ILLUSTRATION" in prompt
+              assert "PRINT EXACTLY THESE " in prompt,aid
+              assert (aid=="GF060" and "No illustration stamp or SOURCES footer" in prompt) or ("Do NOT print SOURCES" in prompt and "Do NOT print ILLUSTRATION" in prompt),aid
               assert "No" in prompt and len(prompt)<5900
           assert sorted(x["asset_id"] for x in rows)==sorted(assets)
           assert all(x["preflight"]=="PASS" for x in gating)
