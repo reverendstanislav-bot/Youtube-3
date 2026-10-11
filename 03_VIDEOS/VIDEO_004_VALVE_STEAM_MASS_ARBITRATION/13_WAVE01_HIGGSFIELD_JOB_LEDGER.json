@@ -1,0 +1,126 @@
+{
+  "version": "WAVE01_PARTIAL_STOPPED",
+  "date": "2026-10-11",
+  "production_profile": {
+    "model": "gpt_image_2",
+    "resolution": "1k",
+    "quality": "low",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "style_only_refs": 2
+  },
+  "wave_range": [
+    "GF001",
+    "GF010"
+  ],
+  "submissions": 6,
+  "submitted_jobs": 5,
+  "completed_jobs": 5,
+  "submit_rejected": 1,
+  "not_attempted": [
+    "GF007",
+    "GF008",
+    "GF009",
+    "GF010"
+  ],
+  "image_credit_spend_exact": 2.5,
+  "balance_before": 1127.22,
+  "balance_after": 1124.72,
+  "reason_for_stop": "GF003 submission_failed: You've reached the daily generation limit for your grace period. Try again after the limit resets or update your plan to continue generating.",
+  "automatic_retries": 0,
+  "frames": [
+    {
+      "asset_id": "GF001",
+      "index": 1,
+      "job_id": "6bb79fd2-594a-4055-b4a3-795d9f48fee0",
+      "status": "completed",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261011_105832_6bb79fd2-594a-4055-b4a3-795d9f48fee0.png",
+      "git_asset_path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF001.png",
+      "resolution_pixels": [
+        1344,
+        752
+      ],
+      "estimated_exact_credit": 0.5,
+      "visual_qc": "HOLD_NOT_FULL_PIXELS_REVIEWED",
+      "note": "Preliminary contact-sheet view shows incomplete dense text. Likely REJECT; do not accept before pixel validation."
+    },
+    {
+      "asset_id": "GF002",
+      "index": 2,
+      "job_id": "4e99bdf7-2e00-4f1e-a2a6-aec4a074fedb",
+      "status": "completed",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261011_105831_4e99bdf7-2e00-4f1e-a2a6-aec4a074fedb.png",
+      "git_asset_path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF002.png",
+      "resolution_pixels": [
+        1344,
+        752
+      ],
+      "estimated_exact_credit": 0.5,
+      "visual_qc": "HOLD_NOT_FULL_PIXELS_REVIEWED",
+      "note": "No native pixel-level legal copy QC yet."
+    },
+    {
+      "asset_id": "GF004",
+      "index": 4,
+      "job_id": "c69e8404-b2b1-4d3e-a2ae-0db6ef36162d",
+      "status": "completed",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261011_105832_c69e8404-b2b1-4d3e-a2ae-0db6ef36162d.png",
+      "git_asset_path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF004.png",
+      "resolution_pixels": [
+        1344,
+        752
+      ],
+      "estimated_exact_credit": 0.5,
+      "visual_qc": "HOLD_NOT_FULL_PIXELS_REVIEWED",
+      "note": "No native pixel-level legal copy QC yet."
+    },
+    {
+      "asset_id": "GF005",
+      "index": 5,
+      "job_id": "6bc32fc2-8328-4504-b7d8-f75f243ee33a",
+      "status": "completed",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261011_105832_6bc32fc2-8328-4504-b7d8-f75f243ee33a.png",
+      "git_asset_path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF005.png",
+      "resolution_pixels": [
+        1344,
+        752
+      ],
+      "estimated_exact_credit": 0.5,
+      "visual_qc": "HOLD_NOT_FULL_PIXELS_REVIEWED",
+      "note": "No native pixel-level legal copy QC yet."
+    },
+    {
+      "asset_id": "GF006",
+      "index": 6,
+      "job_id": "81853b97-1210-43c2-84a4-10b0a1995883",
+      "status": "completed",
+      "result_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3J3zfwu7kpgllQvPySWoLtXHwdR/hf_20261011_105832_81853b97-1210-43c2-84a4-10b0a1995883.png",
+      "git_asset_path": "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/GF006.png",
+      "resolution_pixels": [
+        1344,
+        752
+      ],
+      "estimated_exact_credit": 0.5,
+      "visual_qc": "HOLD_NOT_FULL_PIXELS_REVIEWED",
+      "note": "No native pixel-level legal copy QC yet."
+    },
+    {
+      "asset_id": "GF003",
+      "index": 3,
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Higgsfield daily grace-period generation limit",
+      "charged_credits": 0,
+      "automatic_retry": false,
+      "visual_qc": "NOT_GENERATED"
+    }
+  ],
+  "hard_gates": {
+    "approved_to_generate": true,
+    "auto_retry_after_rejection": false,
+    "audio_stage10_final": false,
+    "timing_stage11_final": false,
+    "no_video_jobs": true,
+    "retries_not_allowed_without_owner_permission": true
+  }
+}
