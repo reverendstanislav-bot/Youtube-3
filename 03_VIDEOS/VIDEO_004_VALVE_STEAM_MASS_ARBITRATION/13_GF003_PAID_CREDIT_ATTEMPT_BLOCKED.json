@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-11",
+  "asset": "GF003",
+  "model": "gpt_image_2",
+  "resolution": "1k",
+  "quality": "low",
+  "aspect_ratio": "16:9",
+  "count": 1,
+  "two_reference_images": true,
+  "use_unlim": false,
+  "account_plan": "ultra",
+  "free_trial_available": false,
+  "submission_status": "REJECTED_BEFORE_JOB_CREATION",
+  "provider_error": "You've reached the daily generation limit for your grace period. Try again after the limit resets or update your plan to continue generating.",
+  "new_job_id": null,
+  "new_jobs": 0,
+  "additional_credits_spent": 0,
+  "credits_at_check": 1124.72,
+  "completed_images": 5,
+  "remaining_images": 55,
+  "visual_qc": "DEFERRED_UNTIL_60_OF_60_PER_OWNER",
+  "policy": "DO_NOT_CHANGE_LOCKED_MODEL_OR_SUBMIT_REPEATED_RETRIES_AGAINST_HARD_LIMIT"
+}
