@@ -1,6 +1,6 @@
-# VIDEO004 GF001–GF043 — EXECUTABLE PROMPT PACK (GIT CANONICAL)
+# VIDEO004 GF001–GF060 — EXECUTABLE PROMPT PACK (GIT CANONICAL)
 
-43 separate slots. Work from this file, not chat memory. **No image generation or paid credits without explicit user approval.**
+60 separate slots. Work from this file, not chat memory. **No image generation or paid credits without explicit user approval.**
 
 ## COMMAND PROTOCOL
 When user says “генерируй следующие 5 кадров по промтам”: take five slots in numerical order starting at user-specified number (or ask if starting slot cannot be inferred); for each slot retrieve attached source *pixels* and listed style-reference URLs, render **one image per slot**, do strict image-by-image QC, and report exact IDs and outcomes. Never assume a file ID from an older conversation is accessible. If actual source image pixels are unavailable, stop that slot rather than fabricate document prose. No automatic retry or regeneration. Never use video generation.
@@ -1964,3 +1964,925 @@ Match Video003 production grammar: charcoal near-black, textured warm ivory orig
 PASS GATE:
 Exact headings all present in order and only once; no other generated legible text; authentic supplied source content pixel-preserved and genuinely readable, with full attribution and legal qualifiers; zero early reveal leakage; bottom safe zone protected; no watermarks or faux archival material. Any corrupted source lettering = REJECT. One completed frame, no variants.
 ```
+
+---
+
+## GF044 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Style reference 2: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PAUSE / ORIGINAL TERMS / AWARD"
+ 2. "THREE DIFFERENT THINGS"
+ 3. "NO HONEST COMBINED SCOREBOARD"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF044 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PAUSE / ORIGINAL TERMS / AWARD"
+ 2. "THREE DIFFERENT THINGS"
+ 3. "NO HONEST COMBINED SCOREBOARD"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Three separate incompatible conceptual measurement objects for pause, old terms, and award; no scores, metrics or totals.
+
+LOCKED NARRATIVE BOUNDARY: Do not sum procedural states or introduce numbers; no-honest-scoreboard limit remains prominent.
+
+EDITORIAL COMPOSITION: Place pause, original terms and award as three unlike measuring objects, with the incompatibility statement tying them together.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+REFERENCE IMAGE 2 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF045 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R05** — SHA256 `a7dcc70d5bdad84b8a57aa569bee319f5db0e35e2a104d84e985b821e2502d6e` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg
+- Style reference 2: **R02** — SHA256 `c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "VALVE: ROUGHLY 400 ACTIVE MATTERS"
+ 2. "MAY 2026 HEARING"
+ 3. "EXACT COUNT DISPUTED"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF045 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "VALVE: ROUGHLY 400 ACTIVE MATTERS"
+ 2. "MAY 2026 HEARING"
+ 3. "EXACT COUNT DISPUTED"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Deliberately rough stack-size estimate icon next to an empty open ledger; date and Valve attribution visually connected; no precise count claim.
+
+LOCKED NARRATIVE BOUNDARY: Roughly, May 2026 and disputed count are mandatory; no exact 400-file grid or current active total.
+
+EDITORIAL COMPOSITION: Use a rough file estimate with the hearing date and Valve attribution in the same main reading group.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R05) STYLE ONLY — borrow short high-contrast typographic block against matte paper and controlled gold texture. IGNORE merger legal paragraph, citation-style markings, yellow factual highlighter, original headline.
+
+REFERENCE IMAGE 2 (R02) STYLE ONLY — borrow dimensional hero object, warm light, dramatic negative space and material framing. IGNORE company logos, merger icons, Adobe/Figma names, any visible lettering.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF046 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **S002, S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "VALVE: NEW AGREEMENT + CLICKS"
+ 2. "DEFENDANTS: OLD AGREEMENT + CHOICE + COMPLETED WORK"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF046 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "VALVE: NEW AGREEMENT + CLICKS"
+ 2. "DEFENDANTS: OLD AGREEMENT + CHOICE + COMPLETED WORK"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Two facing separate evidence desks: one new contract/click symbols, other old contract/choice/work performed; no merged evidence.
+
+LOCKED NARRATIVE BOUNDARY: Both evidence bundles remain legible during any framing; no denial, ruling text or final outcome before SC100.
+
+EDITORIAL COMPOSITION: Stage two facing evidence desks, keeping newer agreement/clicks on one side and older agreement/choice/completed work on the other. A shared question holds the composition.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF047 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R01** — SHA256 `c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "MAY 27, 2026"
+ 2. "REQUEST TO STOP PENDING ARBITRATIONS DENIED"
+ 3. "PRELIMINARY / NOT AN ANTITRUST VERDICT"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF047 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "MAY 27, 2026"
+ 2. "REQUEST TO STOP PENDING ARBITRATIONS DENIED"
+ 3. "PRELIMINARY / NOT AN ANTITRUST VERDICT"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Recreated editorial court result CARD floating above blank court paper, denoting denied emergency stop only; no forged document wording.
+
+LOCKED NARRATIVE BOUNDARY: First appear at SC100; denial, preliminary scope and recreation label remain together, including SH08.
+
+EDITORIAL COMPOSITION: Build an openly recreated result card with date, denial and preliminary/not-antitrust limitation as one legible result group.
+
+This is a DOCUMENT RECREATION, NOT A REAL SOURCE PAGE. Display the exact warning from the whitelist. The document has no readable body paragraphs, real letterhead, citations, signatures, seals or authentic-looking UI.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R01) STYLE ONLY — borrow warm cream paper material, editorial title contrast and grounded physical pages. IGNORE Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF048 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R01** — SHA256 `c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "REPLACEMENT CLAUSE LIKELY UNENFORCEABLE"
+ 2. "AS APPLIED TO THESE DEFENDANTS"
+ 3. "PRELIMINARY VIEW"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF048 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "REPLACEMENT CLAUSE LIKELY UNENFORCEABLE"
+ 2. "AS APPLIED TO THESE DEFENDANTS"
+ 3. "PRELIMINARY VIEW"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Editorial ruling summary consisting of layered blank cream blocks and one central exact preliminary as-applied message; no simulated quote.
+
+LOCKED NARRATIVE BOUNDARY: Likely is essential; never suggest final invalidity for all Steam users; recreation label cannot be isolated or removed.
+
+EDITORIAL COMPOSITION: Make the replacement-clause finding prominent with as-applied-to-these-defendants and preliminary scope in the same hierarchy.
+
+This is a DOCUMENT RECREATION, NOT A REAL SOURCE PAGE. Display the exact warning from the whitelist. The document has no readable body paragraphs, real letterhead, citations, signatures, seals or authentic-looking UI.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R01) STYLE ONLY — borrow warm cream paper material, editorial title contrast and grounded physical pages. IGNORE Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF049 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R02** — SHA256 `c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg
+- Style reference 2: **R01** — SHA256 `c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "DISPUTES ALREADY UNDERWAY"
+ 2. "HOW THE NEW TERMS WERE IMPOSED"
+ 3. "COURT'S PRELIMINARY AS-APPLIED VIEW"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF049 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "DISPUTES ALREADY UNDERWAY"
+ 2. "HOW THE NEW TERMS WERE IMPOSED"
+ 3. "COURT'S PRELIMINARY AS-APPLIED VIEW"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Already active case folders beneath an arriving new contract sheet; foreground the affected group and timing, no forced closure.
+
+LOCKED NARRATIVE BOUNDARY: All timing, affected-group and preliminary-context caveats remain visible through any detail; no final coercion verdict.
+
+EDITORIAL COMPOSITION: Place already-underway case work beneath arriving replacement-contract paper. Preserve space around the context and preliminary-as-applied statements.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R02) STYLE ONLY — borrow dimensional hero object, warm light, dramatic negative space and material framing. IGNORE company logos, merger icons, Adobe/Figma names, any visible lettering.
+
+REFERENCE IMAGE 2 (R01) STYLE ONLY — borrow warm cream paper material, editorial title contrast and grounded physical pages. IGNORE Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF050 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Style reference 2: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S REASONING"
+ 2. "DEFENDANTS: NO NEW BENEFIT FOR LEAVING"
+ 3. "VALVE: ESCAPE PENDING-PROCEEDING BURDEN"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF050 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S REASONING"
+ 2. "DEFENDANTS: NO NEW BENEFIT FOR LEAVING"
+ 3. "VALVE: ESCAPE PENDING-PROCEEDING BURDEN"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Asymmetric two-side bargain diagram: defendants' empty-benefit side vs Valve relief-from-pending-work side; no numbers or law quotes.
+
+LOCKED NARRATIVE BOUNDARY: Preserve court-reasoning attribution and the conditional benefit/burden comparison; no subjective malicious-intent illustration.
+
+EDITORIAL COMPOSITION: Compose a clearly labeled court-reasoning exchange table contrasting no new benefit with relief from pending-case burden.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+REFERENCE IMAGE 2 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF051 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Style reference 2: **R05** — SHA256 `a7dcc70d5bdad84b8a57aa569bee319f5db0e35e2a104d84e985b821e2502d6e` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S EMERGENCY ANALYSIS"
+ 2. "VALVE CHOSE ARBITRATION"
+ 3. "PARTICIPATION FOR MORE THAN A YEAR"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF051 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S EMERGENCY ANALYSIS"
+ 2. "VALVE CHOSE ARBITRATION"
+ 3. "PARTICIPATION FOR MORE THAN A YEAR"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): A long neutral procedural timeline showing more than a year of arbitration participation leading to later emergency request; no invented dates.
+
+LOCKED NARRATIVE BOUNDARY: More-than-a-year participation is the point; do not fabricate exact dates, hearings or proof of a present emergency.
+
+EDITORIAL COMPOSITION: Use an extended participation timeline beside an emergency request, with qualitative duration rather than invented calendar endpoints.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+REFERENCE IMAGE 2 (R05) STYLE ONLY — borrow short high-contrast typographic block against matte paper and controlled gold texture. IGNORE merger legal paragraph, citation-style markings, yellow factual highlighter, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF052 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Style reference 2: **R05** — SHA256 `a7dcc70d5bdad84b8a57aa569bee319f5db0e35e2a104d84e985b821e2502d6e` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg
+- Source ledger factual document IDs: **S004**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S REASONING: LARGELY FINANCIAL BURDEN"
+ 2. "NOT AUTOMATICALLY IRREPARABLE INJURY"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF052 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "COURT'S REASONING: LARGELY FINANCIAL BURDEN"
+ 2. "NOT AUTOMATICALLY IRREPARABLE INJURY"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Financial-expense work ledger visually separate from a legal irreparable-harm threshold; never equate cost with legal conclusion.
+
+LOCKED NARRATIVE BOUNDARY: Largely and not-automatically are essential; never convert the reasoning into money-can-never-support-relief.
+
+EDITORIAL COMPOSITION: Use a financial-work ledger concept separated from an irreparable-injury threshold, with no money totals.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+REFERENCE IMAGE 2 (R05) STYLE ONLY — borrow short high-contrast typographic block against matte paper and controlled gold texture. IGNORE merger legal paragraph, citation-style markings, yellow factual highlighter, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF053 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Style reference 2: **R06** — SHA256 `d0d447dfd48445ac8cace7f47a1f483f24b18c2081a2fa8f86ce26c7081f17d4` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg
+- Source ledger factual document IDs: **S004, S005**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "64 DAYS LATER"
+ 2. "ANOTHER ROUTE TO THE CONTRACT QUESTION"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF053 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 2 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "64 DAYS LATER"
+ 2. "ANOTHER ROUTE TO THE CONTRACT QUESTION"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Simple two-date calendar bridge of exactly 64 days between May 27 and July 30 2026; no reversal icon.
+
+LOCKED NARRATIVE BOUNDARY: No reversal, merits victory or guaranteed appellate review; do not invent intermediate events.
+
+EDITORIAL COMPOSITION: Use a restrained 64-day bridge between the recorded decision dates. Keep the next-route wording distinct from a result.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+REFERENCE IMAGE 2 (R06) STYLE ONLY — borrow low-key black/warm editorial lighting, restrained architectural distance, strong group separation. IGNORE DOJ building identity, courtroom implication, all copied heading or logos.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF054 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R01** — SHA256 `c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **S005**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "JULY 30, 2026"
+ 2. "POSSIBLE IMMEDIATE APPEAL CERTIFIED"
+ 3. "DISTRICT CASE STAYED / NOT A REVERSAL"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF054 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 4 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "JULY 30, 2026"
+ 2. "POSSIBLE IMMEDIATE APPEAL CERTIFIED"
+ 3. "DISTRICT CASE STAYED / NOT A REVERSAL"
+ 4. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Editorial court certification summary card with district file paused, appellate route potential; no fake appellate decision.
+
+LOCKED NARRATIVE BOUNDARY: Possible appeal, district-only stay and not-a-reversal qualification are inseparable from the date and recreation label.
+
+EDITORIAL COMPOSITION: Use a recreated certification/stay editorial card with a visibly distinct district-case file and a possible-review branch.
+
+This is a DOCUMENT RECREATION, NOT A REAL SOURCE PAGE. Display the exact warning from the whitelist. The document has no readable body paragraphs, real letterhead, citations, signatures, seals or authentic-looking UI.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R01) STYLE ONLY — borrow warm cream paper material, editorial title contrast and grounded physical pages. IGNORE Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF055 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R06** — SHA256 `d0d447dfd48445ac8cace7f47a1f483f24b18c2081a2fa8f86ce26c7081f17d4` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg
+- Style reference 2: **R02** — SHA256 `c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg
+- Source ledger factual document IDs: **S005**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PRIOR PRELIMINARY VIEW RETAINED"
+ 2. "CONTROLLING QUESTION"
+ 3. "REASONABLE JUDGES COULD DISAGREE"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF055 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PRIOR PRELIMINARY VIEW RETAINED"
+ 2. "CONTROLLING QUESTION"
+ 3. "REASONABLE JUDGES COULD DISAGREE"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): One intact folder labeled by locked preliminary-view text beside a separate undecided controlling-question route; no changed outcome.
+
+LOCKED NARRATIVE BOUNDARY: Keep prior-view-retained and reasonable-disagreement ideas together; no judge admitting error or changing his mind.
+
+EDITORIAL COMPOSITION: Place a retained preliminary-view file beside a separate controlling-question branch, avoiding a portrait or reaction image of the judge.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R06) STYLE ONLY — borrow low-key black/warm editorial lighting, restrained architectural distance, strong group separation. IGNORE DOJ building identity, courtroom implication, all copied heading or logos.
+
+REFERENCE IMAGE 2 (R02) STYLE ONLY — borrow dimensional hero object, warm light, dramatic negative space and material framing. IGNORE company logos, merger icons, Adobe/Figma names, any visible lettering.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF056 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Style reference 2: **R06** — SHA256 `d0d447dfd48445ac8cace7f47a1f483f24b18c2081a2fa8f86ce26c7081f17d4` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg
+- Source ledger factual document IDs: **S004, S005**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "STOP ARBITRATIONS IMMEDIATELY?"
+ 2. "ALLOW POSSIBLE REVIEW BEFORE FINAL JUDGMENT?"
+ 3. "DIFFERENT QUESTIONS"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF056 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "STOP ARBITRATIONS IMMEDIATELY?"
+ 2. "ALLOW POSSIBLE REVIEW BEFORE FINAL JUDGMENT?"
+ 3. "DIFFERENT QUESTIONS"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Two visibly separate judicial questions represented as two unjoined portals; one immediate stop vs one potential early review.
+
+LOCKED NARRATIVE BOUNDARY: Protect possible-review language and distinct questions; no fictional yes/no appellate answer.
+
+EDITORIAL COMPOSITION: Use two separate doorways with the two actual questions, one for immediate interruption and one for possible pre-final review.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+REFERENCE IMAGE 2 (R06) STYLE ONLY — borrow low-key black/warm editorial lighting, restrained architectural distance, strong group separation. IGNORE DOJ building identity, courtroom implication, all copied heading or logos.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF057 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Style reference 2: **R03** — SHA256 `26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg
+- Source ledger factual document IDs: **S005**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "IF THE NINTH CIRCUIT ACCEPTS REVIEW"
+ 2. "IF IT SIDES WITH VALVE"
+ 3. "CONTRACT QUESTION COULD BE RESOLVED"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF057 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "IF THE NINTH CIRCUIT ACCEPTS REVIEW"
+ 2. "IF IT SIDES WITH VALVE"
+ 3. "CONTRACT QUESTION COULD BE RESOLVED"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Exactly TWO serial conditional gates representing accepting review THEN siding with Valve; route ends at possible contract answer, never actual win.
+
+LOCKED NARRATIVE BOUNDARY: Both if conditions and could-be-resolved result stay visible; no universal arbitration stay or guaranteed outcome.
+
+EDITORIAL COMPOSITION: Build a conditional two-gate route, acceptance of review then siding with Valve, before a possible contract answer.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+REFERENCE IMAGE 2 (R03) STYLE ONLY — borrow clear separation of multiple visual groups and warm/cool spatial contrast. IGNORE photographs, logos, company names, page layout, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF058 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R01** — SHA256 `c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **S008**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 5 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "SEPTEMBER 25, 2026"
+ 2. "NINTH CIRCUIT / 26-6269"
+ 3. "VALVE CORPORATION v. FISH ET AL."
+ 4. "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
+ 5. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF058 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 5 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "SEPTEMBER 25, 2026"
+ 2. "NINTH CIRCUIT / 26-6269"
+ 3. "VALVE CORPORATION v. FISH ET AL."
+ 4. "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
+ 5. "RECREATION / NOT AN ORIGINAL DOCUMENT"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Editorial court docket-summary CARD with no authentic PACER interface; retain the September date, Ninth Circuit case number and mirror-snapshot qualifier.
+
+LOCKED NARRATIVE BOUNDARY: Protect public-mirror through-September-28 boundary and recreation label; no official-live-status claim, seals or fabricated rows.
+
+EDITORIAL COMPOSITION: Compose a clearly recreated docket-summary card with date, case identifier, parties and snapshot boundary, not a PACER screen.
+
+This is a DOCUMENT RECREATION, NOT A REAL SOURCE PAGE. Display the exact warning from the whitelist. The document has no readable body paragraphs, real letterhead, citations, signatures, seals or authentic-looking UI.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R01) STYLE ONLY — borrow warm cream paper material, editorial title contrast and grounded physical pages. IGNORE Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF059 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R02** — SHA256 `c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg
+- Style reference 2: **R05** — SHA256 `a7dcc70d5bdad84b8a57aa569bee319f5db0e35e2a104d84e985b821e2502d6e` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg
+- Source ledger factual document IDs: **S008**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
+ 2. "NO MERITS RULING IDENTIFIED"
+ 3. "WHICH AGREEMENT CONTROLS: UNRESOLVED IN THAT RECORD"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF059 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
+ 2. "NO MERITS RULING IDENTIFIED"
+ 3. "WHICH AGREEMENT CONTROLS: UNRESOLVED IN THAT RECORD"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): Open contract question file beside dated public-record snapshot, not live dashboard; do not claim merits ruling.
+
+LOCKED NARRATIVE BOUNDARY: No-merits-ruling is limited to that reviewed record; never remove the through-date or imply current official completeness.
+
+EDITORIAL COMPOSITION: Keep an unresolved contract-question file at the edge of a dated record snapshot. Make the snapshot boundary part of the main reading hierarchy.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+SPACE & SIZE: final image opaque 16:9. All allowed essential lettering and qualifiers well inside 8–92% horizontal and 9–76% vertical. Bottom 20% uncluttered, reserved for external narration subtitles. Prefer stable complete-frame reading at phone size. If 1k cannot legibly fit exact copy, output requires QC REJECT, not guessed abbreviation.
+
+REFERENCE IMAGE 1 (R02) STYLE ONLY — borrow dimensional hero object, warm light, dramatic negative space and material framing. IGNORE company logos, merger icons, Adobe/Figma names, any visible lettering.
+
+REFERENCE IMAGE 2 (R05) STYLE ONLY — borrow short high-contrast typographic block against matte paper and controlled gold texture. IGNORE merger legal paragraph, citation-style markings, yellow factual highlighter, original headline.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK BEFORE DELIVERING: visually verify every EXACT quoted string is fully present and no other characters appear; protected propositions and parties remain together, prop surfaces blank, good spacing above subtitle safe zone. Never invent outcomes, totals, legal citations or source text. This is an illustration, but do NOT print ILLUSTRATION. Do NOT print the channel name except the locked GF060 endscreen string. Do NOT print SOURCES or source IDs.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
+
+---
+
+## GF060 — V7 SOURCE-LOCKED GENERATION PROMPT
+
+### INPUT REFERENCES — REAL URL + SHA256
+- Style reference 1: **R02** — SHA256 `c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg
+- Style reference 2: **R04** — SHA256 `3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee` — https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg
+- Source ledger factual document IDs: **NONE — EDITORIAL ENDSCREEN**
+- Reference mode: **STYLE_ONLY**. Style images must NOT be mistaken for factual source crops. For any factual-looking material, resolve real native source pixels using source ledger and per-beat crop geometry before generation.
+- Original request status: **PREPARED_NOT_SUBMITTED**; spend authorization: **false**.
+
+### EXACT LOCKED COPY (FROM CANONICAL V7)
+```text
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "WATCH NEXT"
+ 2. "SUBSCRIBE"
+ 3. "WHAT IT COST"
+
+TYPESETTING CONTRACT:
+```
+
+### INDIVIDUAL PRODUCTION PROMPT — ORIGINAL V7 UNMODIFIED
+```text
+GF060 — ONE FINISHED 16:9 ENGLISH INVESTIGATIVE DOCUMENTARY STILL. ONE COMPOSITION ONLY. NO VARIANTS.
+
+PRINT EXACTLY THESE 3 ENGLISH STRINGS — THIS IS THE COMPLETE LETTERING WHITELIST (punctuation, plurality, apostrophes, case and dates must be identical):
+ 1. "WATCH NEXT"
+ 2. "SUBSCRIBE"
+ 3. "WHAT IT COST"
+
+TYPESETTING CONTRACT: each quoted item must be legible in full and appear ONCE, as a designed editorial text group, in the same numbered order. Different font color/line wraps are OK, but no omission, paraphrase, word substitution, extra caption, object sticker, icon text, label, book spine or date. Print no other legible letters ANYWHERE. Avoid extra lettering on all props. If a phrase is long, split only at SPACE boundaries; preserve its exact characters and its distinct attribution/qualification. Use large condensed ivory text, restrained red for semantic emphasis, simple backing and ample line spacing; NEVER shrink into tiny type.
+
+SCENE (VISUAL FACTS, NOT ADDITIONAL ON-IMAGE WORDS): A finished 16:9 charcoal-paper-red endscreen with only locked WATCH NEXT, SUBSCRIBE, WHAT IT COST lettering and entirely empty clickable overlay slots; no graphics crossing the slots.
+
+LOCKED NARRATIVE BOUNDARY: No fake thumbnail, painted clickable button or logo inside native slots; maintain slot aspect ratios, blank areas and all labels above y864. Studio alignment is pending.
+
+EDITORIAL COMPOSITION: Plan one 16:9 background. At 1920x1080 leave video slot x240..912/y248..626 and subscribe square x1244..1436/y341..533 empty; labels above; wordmark near y700..780. These are design targets, not verified pixels.
+
+This is a NEW AUTHOR-CREATED EDITORIAL IMAGE, not a screenshot, official document or photograph of identified litigants. Avoid any fake legal prose.
+
+ENDSCREEN SPACE: Video-overlay areas must remain COMPLETELY BLANK per montage placement; keep exactly the three allowed endscreen strings, no supplementary copy. Studio overlay and 1080p placement require later QC. Do not put a faux subscribe button into a clickable overlay slot.
+
+REFERENCE IMAGE 1 (R02) STYLE ONLY — borrow dimensional hero object, warm light, dramatic negative space and material framing. IGNORE company logos, merger icons, Adobe/Figma names, any visible lettering.
+
+REFERENCE IMAGE 2 (R04) STYLE ONLY — borrow tactile matte depth, object relationship and left/right compositional hierarchy. IGNORE cube, Adobe and Figma emblems, source title, other words.
+
+COLOR/CRAFT: premium matte evidence-photo/editorial illustration; charcoal #1F1F1F, near-black #0B0B0B, warm ivory #EDEDED, rare red #D32222 and quiet warm gold #B69B68. Tangible paper/metal/glass, controlled low-key studio light, mild grain, coherent single hero scene. No excessive collage, stock icons, courtroom clichés, sensational fires, celebrity faces, logos copied from references, or repetitive generic split-screen headline templates.
+
+FINAL CHECK: exact three endscreen strings only; video link and subscribe overlay boxes remain unobstructed and unlettered. No illustration stamp or SOURCES footer.
+```
+
+### OUTPUT GATE
+One distinct finished 16:9 frame, no variants. Exact locked text; no extra lettering. No invented documents, sources or outcomes. Lower 20% quiet. No automated retries or paid execution. If a legal source is required but real source pixels are not available, mark BLOCKED, do not manufacture it.
