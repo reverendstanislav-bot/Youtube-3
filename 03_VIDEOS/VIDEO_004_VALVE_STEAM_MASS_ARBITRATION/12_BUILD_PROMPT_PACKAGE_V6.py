@@ -116,13 +116,13 @@ def build():
             # Historical V4 inventory remains immutable for source/beat hashes. Override only
             # the stale 4K sizing requirement for NEW V6 prepared requests.
             if key=="format":
-                value="One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible."
+                value="One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible."
             parts.append("Locked "+key+" requirement: "+value)
         parts.append("GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.")
         if asset["type"]=="RECREATED_DOCUMENT":
             parts.append("Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.")
         if aid=="GF060":
-            parts.append("Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; DO NOT request 3840x2160 or claim exact pixel-safe geometry. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.")
+            parts.append("Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim an exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.")
         parts.append("Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.")
         prompt="\n\n".join(parts)
         for text in copy:
