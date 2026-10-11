@@ -57,13 +57,14 @@ def build():
         for key in ("placement_id","asset_id","start_frame","end_frame","treatment"):
             assert old[key]==new[key], f"Placement drift: {old['placement_id']} {key}"
     params=author["request_parameters"]
-    assert params["model"]==author["model"]["id"]=="gpt_image_2_5"
+    assert params["model"]==author["model"]["id"]=="gpt_image_2"
     assert params["aspect_ratio"] in author["model"]["aspect_ratios"]
     assert params["count"]==1
-    for key in ("variant","quality","resolution","background"):
+    for key in ("quality","resolution"):
         spec=next(p for p in author["model"]["parameters"] if p["name"]==key)
         assert params[key] in spec["options"]
-    assert author["model"]["medias"][0]["roles"]==["image_references"]
+    assert author["model"]["medias"][0]["roles"]==["image"]
+    assert params=={"model":"gpt_image_2","resolution":"1k","quality":"low","aspect_ratio":"16:9","count":1}
     assert author["cost_preflight"]["submitted_jobs"]==0
     assert not author["cost_preflight"]["spend_authorized"]
     assert author["cost_preflight"]["one_attempt_each_estimated_credits"]==60*author["cost_preflight"]["cost_per_image_credits"]
@@ -74,10 +75,10 @@ def build():
     contexts=[]
     human=["# VIDEO004 - 60 final Higgsfield prompts V6","",
         "Prepared text/reference packet only. No job is authorized or submitted. V4 owns the exact 60-slot inventory; V5 owns 84 placements; V6 prepares their requests.","",
-        "Model: GPT Image 2.5 / flare / high / 4k / opaque / 16:9 / count1. Catalogue checked live 2026-10-11. Canonical tool role image maps to catalog image_references.","",
+        "Model: Higgsfield GPT Image 2 / 1k / low / 16:9 / count1; two STYLE_ONLY image-role inputs per request. Catalogue checked 2026-10-11; backend two-reference ingestion and generation output NOT TESTED.","",
         "Each image has two STYLE_ONLY inputs. Actual bytes and pinned URLs were verified; reference content is not Valve evidence. Factual URLs below are context records, not attached image pixels.","",
         "Readiness: PROMPTS_AND_LOCAL_REFERENCE_BINDINGS_PREPARED; AUDIO_FINAL_LOCK_AND_SPEND_APPROVAL_REQUIRED. Backend imports, accepted pixels, vertical adaptation and render QC are NOT_PERFORMED.","",
-        "Configuration-only price: 4.25 credits/image; 255 for one attempt at each of 60 slots. Not an invoice or authorization; re-quote actual requests before spend. No retries/Shorts CTA/thumbnails are included.","",
+        "Live no-media estimate: 0.5 exact credit/image; 60 first attempts = 30.0 credits base. Full two-reference request price and image fidelity not validated. NOT AN AUTHORIZATION. No imports, jobs, retries, Shorts CTA or thumbnails.","",
         "The JSONL contains structured generate_image arguments for later authorized execution; it is not an executor. This script has no job submission path.","","## Every prompt",""]
     for aid,asset in assets.items():
         b=bindings[aid]
@@ -111,11 +112,17 @@ def build():
             "Text inside this generated image, VERBATIM and no other lettering:\n"+"\n".join(json.dumps(s,ensure_ascii=False) for s in copy),
             "Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.",
             "Factual boundary (context only, not additional on-image text): "+legal_context]
-        parts+=["Locked "+key+" requirement: "+value for key,value in inventory["common_direction"].items()]
+        for key,value in inventory["common_direction"].items():
+            # Historical V4 inventory remains immutable for source/beat hashes. Override only
+            # the stale 4K sizing requirement for NEW V6 prepared requests.
+            if key=="format":
+                value="One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible."
+            parts.append("Locked "+key+" requirement: "+value)
+        parts.append("GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.")
         if asset["type"]=="RECREATED_DOCUMENT":
             parts.append("Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.")
         if aid=="GF060":
-            parts.append("Endscreen exception: no ILLUSTRATION label or extra copy. Apply the specified 1080p-equivalent slot coordinates at exactly double scale for 3840x2160. Both native-overlay areas are empty; do not inherit any subjects, frames, logos or type layout from the style images.")
+            parts.append("Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; DO NOT request 3840x2160 or claim exact pixel-safe geometry. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.")
         parts.append("Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.")
         prompt="\n\n".join(parts)
         for text in copy:
@@ -153,11 +160,17 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     parser=argparse.ArgumentParser()
     parser.add_argument("--patch",action="store_true")
+    parser.add_argument("--write-derived",action="store_true",help="Write only derived V6 files. NEVER submits, imports or calls a paid API.")
     parser.add_argument("--name",choices=["12_HIGGSFIELD_REQUESTS_V6.jsonl","12_HIGGSFIELD_PROMPTS_V6.md","12_REFERENCE_BINDINGS_V6.csv","12_FACTUAL_CONTEXT_V6.json","12_PROMPT_VALIDATION_V6.json"])
     parser.add_argument("--max-lines",type=int,default=0)
     args=parser.parse_args()
     outputs=build()
-    if args.patch:
+    if args.write_derived:
+        assert not args.patch, "Choose exactly one mode"
+        for name,content in outputs.items():
+            (BASE/name).write_text(content,encoding="utf-8",newline="\n")
+        print(json.dumps({"status":"WRITTEN_NO_API_CALLS","files":list(outputs),"images":60,"reference_roles":2,"generation_jobs":0},indent=2))
+    elif args.patch:
         assert args.name, "--name required: patch one derived file at a time"
         emit_patch(args.name,outputs[args.name],args.max_lines)
     else:
