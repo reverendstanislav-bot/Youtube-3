@@ -63,3 +63,5 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
+
+# 2026-10-11 final cheap-profile/style-input hash reconciliation: no-paid prompt regeneration
