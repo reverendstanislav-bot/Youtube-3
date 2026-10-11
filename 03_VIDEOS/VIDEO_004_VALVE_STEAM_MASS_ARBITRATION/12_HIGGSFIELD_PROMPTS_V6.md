@@ -35,7 +35,7 @@ Composition for the edit: Keep game-library cases as the recognizable central ob
 
 Protected readable meaning: Both party attributions and the stopping-account-use condition must stay readable together; never show removed or locked-out games as an established event.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: library and paired attributed positions; no isolated push toward one side.
 
@@ -45,25 +45,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "CLAIMANTS: ACCESS AT RISK"
 "VALVE: LICENSES PRESERVED BY STOPPING ACCOUNT USE"
 "A LICENSE IS NOT THE SAME AS ACCESS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -91,7 +90,7 @@ Composition for the edit: Stage the users-to-arbitration route and returning civ
 
 Protected readable meaning: Keep users, defendants and Valve's requested stop legible as one relationship; no granted closure or liability stamp.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the complete two-route reversal.
 
@@ -101,25 +100,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "USERS SENT TO ARBITRATION"
 "THEN NAMED AS DEFENDANTS"
 "VALVE SOUGHT TO STOP THEIR PENDING CASES"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -147,7 +145,7 @@ Composition for the edit: Use one unbranded ACCEPT key with restrained contract-
 
 Protected readable meaning: ACCEPT is an editorial object, not an authentic Steam interface; preserve the question and attribution in every reuse.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: conceptual key and its surrounding question.
 
@@ -157,25 +155,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "ACCEPT"
 "WHAT DOES A CLICK SETTLE?"
 "VALVE'S POSITION: ACCEPTANCE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -203,7 +200,7 @@ Composition for the edit: Separate the unresolved game-price motif from the fore
 
 Protected readable meaning: The allegations label and not-decided qualification are inseparable; no damages tally or guilt symbol.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: separation between underlying allegations and procedural request.
 
@@ -212,25 +209,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "GAME-PRICE ALLEGATIONS"
 "NOT DECIDED BY THE EMERGENCY REQUEST"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -258,7 +254,7 @@ Composition for the edit: Place the older open file at the junction between two 
 
 Protected readable meaning: Both positions and still-pending status remain visible; no closed-file icon or implied final enforceability answer.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: central pending-file junction and both arguments.
 
@@ -268,25 +264,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE: NEW TERMS SHOULD CONTROL"
 "USERS: PRESERVE THE EXISTING FORUM"
 "OLD CASES STILL PENDING"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -314,7 +309,7 @@ Composition for the edit: Compose two distinct contract volumes around one exist
 
 Protected readable meaning: Protect both old/new labels, Valve's-argument qualification and the existing file; do not turn a planned detail into a one-sided contract crop.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: shared junction of the two contracts and existing file, only PL006; PL029 remains STATIC.
 
@@ -323,25 +318,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "OLD TERMS: INTO ARBITRATION"
 "NEW TERMS: VALVE'S ARGUMENT TO STOP IT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -369,7 +363,7 @@ Composition for the edit: Make three anonymous case folders the main grouping: o
 
 Protected readable meaning: Retain the allegation wording and participant distinction; do not fabricate portraits or a contemporary archive photograph.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: dated three-part participant grouping.
 
@@ -379,25 +373,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "2021"
 "A PUBLISHER + TWO STEAM USERS"
 "ALLEGED INFLATED GAME PRICES"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -425,7 +418,7 @@ Composition for the edit: Keep one individual file at a private hearing desk; pu
 
 Protected readable meaning: Covered-consumer limitation and arbitrator-versus-judge/jury explanation stay together; no secret-court or universal-jurisdiction implication.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: one covered individual dispute at the hearing desk.
 
@@ -435,25 +428,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "COVERED CONSUMER DISPUTES"
 "INDIVIDUAL ARBITRATION"
 "ARBITRATOR, NOT AN ORDINARY JUDGE OR JURY"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -481,7 +473,7 @@ Composition for the edit: Build two clean, separate routes for consumers and pub
 
 Protected readable meaning: Protect separate tracks and the no-price-verdict qualification; do not connect them into one docket.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the complete consumer/publisher fork.
 
@@ -491,25 +483,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "CONSUMERS: ARBITRATION"
 "PUBLISHER: SEPARATE COURT CASE"
 "FORUM DECISION, NOT A PRICE VERDICT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -553,19 +544,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): S003 is an older background agreement, not an archived 2023 agreement. S004 describes the original agreement and class/combination restrictions. Render only the locked editorial paraphrase, not a source quotation.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -595,7 +586,7 @@ Composition for the edit: Use a dated 2012 root that opens into many visibly ind
 
 Protected readable meaning: Individual does not mean only one; keep separate-demands meaning, not a merged class-action folder.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: individual-design root and distinct file branches.
 
@@ -605,25 +596,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "2012: INDIVIDUAL-ARBITRATION DESIGN"
 "SEPARATE DEMANDS"
 "INDIVIDUAL DID NOT MEAN ONLY ONE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -651,7 +641,7 @@ Composition for the edit: Give 997 and 4,991 separate data anchors, with May 202
 
 Protected readable meaning: Date, not-wins and not-current-active-total caveats cannot become tiny footnotes or be cropped away.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: both dated/scoped counts in one full composition.
 
@@ -661,25 +651,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "997 INITIAL DEMANDS"
 "4,991 CLAIMANTS RECORDED: MAY 2026"
 "NOT WINS. NOT A CURRENT ACTIVE TOTAL."
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -707,7 +696,7 @@ Composition for the edit: Arrange October, November and December 2023 archive tr
 
 Protected readable meaning: No invented monthly totals, receipts or documentary stamps; the dates describe recorded filing chronology.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the complete three-stage filing chronology.
 
@@ -717,25 +706,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "OCTOBER 2023: COORDINATED FILING"
 "NOVEMBER + DECEMBER: MORE DEMANDS"
 "ADMINISTERED BY AAA"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -763,7 +751,7 @@ Composition for the edit: Make response, scheduling and decisions distinct stati
 
 Protected readable meaning: All named stations and the hearing limitation remain legible through any proposed framing; never imply each case completed every stage.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: the named file-by-file work station while retaining all process caveats, only PL016; PL019 remains STATIC.
 
@@ -773,25 +761,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "REPEATED FILE-BY-FILE WORK"
 "RESPONSE / SCHEDULING / DECISIONS"
 "NOT EVERY CASE REACHES A HEARING"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -819,7 +806,7 @@ Composition for the edit: Place the questioned amount and UNVERIFIED as one domi
 
 Protected readable meaning: UNVERIFIED and the reviewed-record boundary must be as readable as the amount; no debt/payment assertion.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: inseparable questioned amount and verification boundary.
 
@@ -829,25 +816,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "$20 MILLION?"
 "UNVERIFIED"
 "NO AUTHENTICATED SINGLE BILL IN REVIEWED RECORDS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -875,7 +861,7 @@ Composition for the edit: Use a branching fee-stage path, an early-exit branch a
 
 Protected readable meaning: Do not invent dollar totals or let the schedule become proof of what Valve owed or paid.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: stage-dependent path and its records limitation.
 
@@ -885,25 +871,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "FEES DEPEND ON STAGE"
 "ARBITRATOR COMPENSATION SEPARATE"
 "A FEE SCHEDULE IS NOT A PAYMENT RECORD"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -931,7 +916,7 @@ Composition for the edit: Use four illuminated anonymous tabs against a receding
 
 Protected readable meaning: The number FOUR and four-tab reveal first appear at SC037, not in the preceding setup; attribution stays prominent.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: four-tab reveal with its attribution.
 
@@ -941,25 +926,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE'S STATED REASON"
 "NOT THOUSANDS"
 "FOUR CLAIMANTS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -987,7 +971,7 @@ Composition for the edit: Use four tabs taking one allowed route toward court; t
 
 Protected readable meaning: Do not imply all claimants won or all arbitration agreements failed; no actual order or judge representation.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the specific four-claimant exit event.
 
@@ -995,25 +979,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 
 Text inside this generated image, VERBATIM and no other lettering:
 "ARBITRATOR ALLOWED FOUR TOWARD COURT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1041,7 +1024,7 @@ Composition for the edit: Use a contract object as an exit lever, with Valve's s
 
 Protected readable meaning: No FOUR reveal in PL021; this is an attributed explanation, not narrator proof of corporate intent or a universal invalidity ruling.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: contract-as-exit mechanism and attribution.
 
@@ -1050,25 +1033,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "VALVE SAID THIS PROMPTED REMOVAL"
 "THE CLAUSE WAS CHALLENGED AS A WAY OUT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1096,7 +1078,7 @@ Composition for the edit: Make two editorial date cards, May and July 2024, with
 
 Protected readable meaning: Keep request, argument and arbitrator response distinct; no forged dismissal order or quotation.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the dated two-stage four-matter sequence.
 
@@ -1106,25 +1088,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "MAY 2024: FOUR SEEK DISMISSAL"
 "JULY 2024: THEIR ARBITRATOR AGREES"
 "ARGUMENT: AGREEMENT UNENFORCEABLE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1152,7 +1133,7 @@ Composition for the edit: Separate four isolated matter tabs from the later-defe
 
 Protected readable meaning: Both cohort and one-arbitrator scope limits must stay readable; do not merge the proceedings or generalize the ruling.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: cohort and ruling-scope separation.
 
@@ -1162,25 +1143,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "FOUR CLAIMANTS: SEPARATE LITIGATION"
 "NOT THE LATER 572 DEFENDANTS"
 "NOT EVERY ARBITRATOR'S RULING"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1208,7 +1188,7 @@ Composition for the edit: Use one contract bridge with opposite directed paths; 
 
 Protected readable meaning: Opposed strategies are demonstrated actions, not invented mental states; the four-specific scope remains visible.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the complete entry/exit strategic contrast.
 
@@ -1217,25 +1197,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "VALVE USED THE CONTRACT TO SEND USERS IN"
 "FOUR CLAIMANTS ATTACKED IT TO GET OUT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1263,7 +1242,7 @@ Composition for the edit: Place a changed entrance sign outside a room of existi
 
 Protected readable meaning: Retain clause-removal wording and the pending-process question; no prison/lockout metaphor or premature automatic-closure answer.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: changed entrance sign in relation to existing interior files, only PL028, with both labels retained.
 
@@ -1272,25 +1251,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "VALVE REMOVED THE CLAUSE"
 "WHAT ABOUT CASES ALREADY INSIDE?"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1318,7 +1296,7 @@ Composition for the edit: Use a removed clause strip beside intact open file dra
 
 Protected readable meaning: The explicit not-automatically-closed answer first appears at SC050; no disappearing case files.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: removed clause and intact pending files together.
 
@@ -1327,25 +1305,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "ARBITRATION CLAUSE REMOVED"
 "PENDING CASES NOT AUTOMATICALLY CLOSED"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1389,19 +1366,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): September 26, 2024 update; replacement court forum concerns disputes unresolved through support. Do not imply universal jurisdiction or reproduce Steam UI.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1447,19 +1424,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Retroactive reach and supersession are agreement mechanisms; control of pending proceedings remains disputed. Do not show final enforceability as established.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1489,7 +1466,7 @@ Composition for the edit: Use four unbranded channel objects, email, pop-up, pur
 
 Protected readable meaning: No invented messages or branded screenshots; court-summary qualification and acceptance-requirement context stay readable.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the four evidence channels within library context.
 
@@ -1499,25 +1476,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "COURT-SUMMARIZED EVIDENCE"
 "EMAIL / POP-UP / PURCHASES / WALLET"
 "ACCEPTANCE REQUIREMENTS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1545,7 +1521,7 @@ Composition for the edit: Make 572 a total bracket with two clear branches, 454 
 
 Protected readable meaning: Valve attribution and without-clicking wording are mandatory; 118 never becomes rejected, refused or opted out.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: total and behavior-specific split.
 
@@ -1555,25 +1531,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE'S ACCOUNT: 572 LATER DEFENDANTS"
 "454 CLICKED ACCEPTANCE"
 "118 LOGGED IN WITHOUT CLICKING"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1601,7 +1576,7 @@ Composition for the edit: Use a library-value tag beside familiar game cases, wi
 
 Protected readable meaning: Average, defendants-claimed and Valve-disputed caveats cannot be separated from the figure; no damages or confiscation imagery.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: qualified average-value stake.
 
@@ -1610,25 +1585,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "DEFENDANTS CLAIMED >$3,000 AVERAGE LIBRARY VALUE"
 "VALVE DISPUTED THE FIGURE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1656,7 +1630,7 @@ Composition for the edit: Treat the ACCEPT key as one item on an inquiry desk, w
 
 Protected readable meaning: Acceptance is evidence, not the end of inquiry; keep both limiting propositions readable.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: click evidence within the unresolved inquiry.
 
@@ -1666,25 +1640,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "EVIDENCE OF ACCEPTANCE"
 "NOT THE END OF THE INQUIRY"
 "CHOICE + ENFORCEABILITY"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1712,7 +1685,7 @@ Composition for the edit: Use a request arrow meeting an administrator intake de
 
 Protected readable meaning: Refusal first appears at SC070 and is administrative, not a determination of legal wrongness.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the administrative refusal and its limited meaning.
 
@@ -1721,25 +1694,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "VALVE ASKED AAA TO CLOSE THE FILES"
 "AAA REFUSED ADMINISTRATIVE CLOSURE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1767,7 +1739,7 @@ Composition for the edit: Keep administrator, courts and arbitrators as distinct
 
 Protected readable meaning: The non-merits qualification and who-decides-contract-question line stay together; no implied AAA merits ruling.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: institutional-role separation and open files.
 
@@ -1777,25 +1749,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "ADMINISTRATION IS NOT A MERITS DECISION"
 "CONTRACT QUESTION: COURTS OR ARBITRATORS"
 "FILES REMAINED OPEN"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1823,7 +1794,7 @@ Composition for the edit: Use two restrained editorial date cards, request then 
 
 Protected readable meaning: No original letter recreation, invented addressee, quotations or same-day response implication.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the request/response chronology.
 
@@ -1832,25 +1803,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "SEPTEMBER 27, 2024: VALVE REQUEST"
 "OCTOBER 7, 2024: AAA RESPONSE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1878,7 +1848,7 @@ Composition for the edit: Compose separate original-agreement and paused branche
 
 Protected readable meaning: All branches, attribution and differing-decisions context must survive any detail framing; no uniform stay or exact proportions.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: the relationship of original-agreement and paused file branches, only PL047.
 
@@ -1888,25 +1858,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "SOME APPLIED THE ORIGINAL AGREEMENT"
 "VALVE SAID MANY PAUSED"
 "DIFFERENT FILES, DIFFERENT DECISIONS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -1934,7 +1903,7 @@ Composition for the edit: Have multiple separate pending-case routes converge on
 
 Protected readable meaning: Keep requested remedy and defendant-pending-case scope visible; no granted stop order or worldwide closure.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the change from file-by-file decisions to a federal request.
 
@@ -1944,25 +1913,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE REQUESTED A STOP ORDER"
 "ACROSS THE DEFENDANTS' PENDING CASES"
 "FEDERAL COURT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2006,19 +1974,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): The first petition was struck on procedural grounds. This is not adjudication of the contract merits.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2063,19 +2031,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): A separate civil complaint sought judicial relief against users. New contract wording did not itself supply the requested relief.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2105,7 +2073,7 @@ Composition for the edit: Arrange two dated case-stage trays with their role-spe
 
 Protected readable meaning: October 2024/624 respondents and August 2025/572 defendants remain separately readable; no subtraction or inferred outcomes.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: two filings, dates and procedural roles.
 
@@ -2114,25 +2082,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "OCTOBER 18, 2024: PETITION / 624 RESPONDENTS"
 "AUGUST 21, 2025: COMPLAINT / 572 DEFENDANTS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2160,7 +2127,7 @@ Composition for the edit: Use a dated broad-wave archive beside a separate later
 
 Protected readable meaning: May 2026, later complaint and different-cohort/status qualifications stay readable with both figures.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: recorded wave versus defendant subset.
 
@@ -2170,25 +2137,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "4,991: MAY 2026 RECORDED WAVE"
 "572: DEFENDANTS IN LATER COMPLAINT"
 "NOT THE SAME COHORT OR STATUS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2216,7 +2182,7 @@ Composition for the edit: Put an emergency-request file in the foreground and a 
 
 Protected readable meaning: This is a preliminary request before final judgment, not an established emergency or a granted interruption.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: immediate relief question versus distant final judgment.
 
@@ -2226,25 +2192,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "STOP PENDING CASES NOW?"
 "PRELIMINARY INJUNCTION"
 "BEFORE FINAL JUDGMENT"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2272,7 +2237,7 @@ Composition for the edit: Use a clearly labeled Valve argument desk linking acce
 
 Protected readable meaning: Every proposition remains Valve's argument; do not turn acceptance or claimed harm into adjudicated conclusions.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the moving party's labeled preliminary-relief argument.
 
@@ -2282,25 +2247,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE'S ARGUMENT"
 "NEW TERMS ACCEPTED"
 "IRREPARABLE HARM CLAIMED"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2328,7 +2292,7 @@ Composition for the edit: Use a partly completed procedural-work station with so
 
 Protected readable meaning: Some-files scope, opposition and completed-work context remain visible through any detail framing; no all-defendants victory wall.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: named completed-work station and its milestone files, only PL058; PL071 remains STATIC.
 
@@ -2338,25 +2302,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "DEFENDANTS OPPOSED INTERRUPTION"
 "WORK ALREADY COMPLETED"
 "SOME REACHED HEARINGS OR FAVORABLE RULINGS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2384,7 +2347,7 @@ Composition for the edit: Use uneven anonymous case groups with distinguishable 
 
 Protected readable meaning: Retain outcomes for both sides and challenged-interim caveat; no aggregate winner or scoreboard.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: heterogeneous outcome/status groups.
 
@@ -2394,25 +2357,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "MIXED OUTCOMES"
 "SOME FOR VALVE / SOME FOR CLAIMANTS"
 "SOME INTERIM AWARDS CHALLENGED"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2440,7 +2402,7 @@ Composition for the edit: Place pause, original terms and award as three unlike 
 
 Protected readable meaning: Do not sum procedural states or introduce numbers; no-honest-scoreboard limit remains prominent.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: three non-comparable procedural categories.
 
@@ -2450,25 +2412,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "PAUSE / ORIGINAL TERMS / AWARD"
 "THREE DIFFERENT THINGS"
 "NO HONEST COMBINED SCOREBOARD"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2496,7 +2457,7 @@ Composition for the edit: Use a rough file estimate with the hearing date and Va
 
 Protected readable meaning: Roughly, May 2026 and disputed count are mandatory; no exact 400-file grid or current active total.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: dated, attributed and disputed active estimate.
 
@@ -2506,25 +2467,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "VALVE: ROUGHLY 400 ACTIVE MATTERS"
 "MAY 2026 HEARING"
 "EXACT COUNT DISPUTED"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2552,7 +2512,7 @@ Composition for the edit: Stage two facing evidence desks, keeping newer agreeme
 
 Protected readable meaning: Both evidence bundles remain legible during any framing; no denial, ruling text or final outcome before SC100.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: central preliminary-relief question between both complete evidence desks, only PL064.
 
@@ -2561,25 +2521,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "VALVE: NEW AGREEMENT + CLICKS"
 "DEFENDANTS: OLD AGREEMENT + CHOICE + COMPLETED WORK"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2623,19 +2582,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): May 27, 2026 preliminary-injunction denial. Not an antitrust verdict or final merits judgment.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2681,19 +2640,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preliminary likely unenforceability as applied to these defendants. Not a general final invalidation of all agreements.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2723,7 +2682,7 @@ Composition for the edit: Place already-underway case work beneath arriving repl
 
 Protected readable meaning: All timing, affected-group and preliminary-context caveats remain visible through any detail; no final coercion verdict.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: CONDITIONAL: contact between older ongoing work and arriving new terms, only PL067.
 
@@ -2733,25 +2692,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "DISPUTES ALREADY UNDERWAY"
 "HOW THE NEW TERMS WERE IMPOSED"
 "COURT'S PRELIMINARY AS-APPLIED VIEW"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2779,7 +2737,7 @@ Composition for the edit: Compose a clearly labeled court-reasoning exchange tab
 
 Protected readable meaning: Preserve court-reasoning attribution and the conditional benefit/burden comparison; no subjective malicious-intent illustration.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the asymmetric exchange reasoning.
 
@@ -2789,25 +2747,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "COURT'S REASONING"
 "DEFENDANTS: NO NEW BENEFIT FOR LEAVING"
 "VALVE: ESCAPE PENDING-PROCEEDING BURDEN"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2835,7 +2792,7 @@ Composition for the edit: Use an extended participation timeline beside an emerg
 
 Protected readable meaning: More-than-a-year participation is the point; do not fabricate exact dates, hearings or proof of a present emergency.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: duration of participation relative to emergency request.
 
@@ -2845,25 +2802,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "COURT'S EMERGENCY ANALYSIS"
 "VALVE CHOSE ARBITRATION"
 "PARTICIPATION FOR MORE THAN A YEAR"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2891,7 +2847,7 @@ Composition for the edit: Use a financial-work ledger concept separated from an 
 
 Protected readable meaning: Largely and not-automatically are essential; never convert the reasoning into money-can-never-support-relief.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: financial burden versus legal injury threshold.
 
@@ -2900,25 +2856,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "COURT'S REASONING: LARGELY FINANCIAL BURDEN"
 "NOT AUTOMATICALLY IRREPARABLE INJURY"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -2946,7 +2901,7 @@ Composition for the edit: Use a restrained 64-day bridge between the recorded de
 
 Protected readable meaning: No reversal, merits victory or guaranteed appellate review; do not invent intermediate events.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the genuine 64-day procedural bridge.
 
@@ -2955,25 +2910,24 @@ Style: premium investigative editorial composition; charcoal #1F1F1F / deep blac
 Text inside this generated image, VERBATIM and no other lettering:
 "64 DAYS LATER"
 "ANOTHER ROUTE TO THE CONTRACT QUESTION"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3017,19 +2971,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): July 30, 2026 certification and stay of the district case; not reversal and not a universal stay of arbitrations.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3059,7 +3013,7 @@ Composition for the edit: Place a retained preliminary-view file beside a separa
 
 Protected readable meaning: Keep prior-view-retained and reasonable-disagreement ideas together; no judge admitting error or changing his mind.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: compatibility of retained view and disputed controlling question.
 
@@ -3069,25 +3023,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "PRIOR PRELIMINARY VIEW RETAINED"
 "CONTROLLING QUESTION"
 "REASONABLE JUDGES COULD DISAGREE"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3115,7 +3068,7 @@ Composition for the edit: Use two separate doorways with the two actual question
 
 Protected readable meaning: Protect possible-review language and distinct questions; no fictional yes/no appellate answer.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: the complete two-question contrast.
 
@@ -3125,25 +3078,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "STOP ARBITRATIONS IMMEDIATELY?"
 "ALLOW POSSIBLE REVIEW BEFORE FINAL JUDGMENT?"
 "DIFFERENT QUESTIONS"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3171,7 +3123,7 @@ Composition for the edit: Build a conditional two-gate route, acceptance of revi
 
 Protected readable meaning: Both if conditions and could-be-resolved result stay visible; no universal arbitration stay or guaranteed outcome.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: both conditional gates and their limited consequence.
 
@@ -3181,25 +3133,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "IF THE NINTH CIRCUIT ACCEPTS REVIEW"
 "IF IT SIDES WITH VALVE"
 "CONTRACT QUESTION COULD BE RESOLVED"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3244,19 +3195,19 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Public mirror record of Ninth Circuit 26-6269 through September 28, 2026 only; not a live official docket or an appellate merits result.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3286,7 +3237,7 @@ Composition for the edit: Keep an unresolved contract-question file at the edge 
 
 Protected readable meaning: No-merits-ruling is limited to that reviewed record; never remove the through-date or imply current official completeness.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, provenance label, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
 
 Potential attention target: STATIC: bounded record and unresolved question.
 
@@ -3296,25 +3247,24 @@ Text inside this generated image, VERBATIM and no other lettering:
 "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
 "NO MERITS RULING IDENTIFIED"
 "WHICH AGREEMENT CONTROLS: UNRESOLVED IN THAT RECORD"
-"ILLUSTRATION"
 
 Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
 
 Factual boundary (context only, not additional on-image text): Absence of an identified merits ruling is bounded to the reviewed mirror through September 28, 2026. Official Stage16 refresh remains open.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
@@ -3357,23 +3307,23 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
-Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
+Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
-Locked text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
+Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
 
-Locked provenance requirement: All frames are illustrations. RECREATED_DOCUMENT frames must visibly include RECREATION / NOT AN ORIGINAL DOCUMENT. Other narrative frames must visibly include ILLUSTRATION. These labels are additional mandatory English display copy. No image is evidence; source_ids and claim_ids in the derived manifest point to the real evidence.
+Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
 
-Locked safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
+Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
 
-Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
+Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
-Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
-Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim an exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.
+Endscreen exception: no extra visible text or labels. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
