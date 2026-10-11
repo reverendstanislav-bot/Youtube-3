@@ -1671,270 +1671,170 @@ Image 1: [R04](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3
 Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
 
 ```text
-Primary request: Generate one finished GF031 English-language full-frame documentary illustration. New composition, not an edit of either style image.
+Primary request: Generate EXACTLY ONE finished GF031 16:9 editorial documentary illustration for WHAT IT COST, frame-specific to Valve/AAA administrative arbitration history. Treat this as a distinct frame; not a Steam lawsuit stock image and not a reference-image edit.
 
-Input image 1: R04 STYLE_ONLY. One tangible mechanism, matte material and clear relational hierarchy. Do not borrow the cube, split ownership graphic, brands or copy literally.
+STYLE REFERENCE 1 — R04 (G017.jpg): use ONLY the existing channel's restrained typography hierarchy, tactile matte surface, light quality and spatial clarity. Do not reproduce its logos, original case, subjects, objects or visible words.
+STYLE REFERENCE 2 — R03 (G004.jpg): use ONLY the existing channel's cinematic warm/cool separation and legible editorial negative space. Do not reproduce its logos, other lawsuit, photos or wording.
+Both pinned images are STYLE_ONLY; they are NOT legal evidence. Never use them to choose the story content.
 
-Input image 2: R03 STYLE_ONLY. Readable juxtaposition, spatial separation and warm/cool depth. Do not borrow photographs, buildings, people, logos or thread details.
+SCENE — MANDATORY: A physical stack of individual case folders, visibly OPEN in cabinet drawers. A single request-to-close routing arrow reaches a plain administrative intake barrier and STOPS. The drawers do not close. The AAA response is an administrative refusal, not a judge's legal ruling.
 
-Reference invariants: borrow only typography feel, hierarchy, tactile materials, controlled light and polish. Never copy any reference headline, company logo, face, source text, case fact, subject, layout or safe margin.
+COMPOSITION — MANDATORY: Foreground left: several unbranded paper folders still inside visibly open filing drawers. Center: one matte red routing arrow terminates abruptly at the intake edge; no stamped approval or rejection paper. Right: plain administrator intake fixture. Dominant title in upper-left and second message in a readable upper-right zone. Clearly separated headline groups; no third fabricated piece of paperwork.
 
-Scene and subject: A closure-request arrow stops at an administrator's intake desk while case drawers remain open. Avoid a fabricated AAA letter or a legal-merits verdict stamp.
+ONLY PERMITTED ENGLISH VISIBLE TEXT, exact characters and word order:
+1. "VALVE ASKED AAA TO CLOSE THE FILES"
+2. "AAA REFUSED ADMINISTRATIVE CLOSURE"
+3. "ILLUSTRATION"
+Do not omit, truncate, rephrase, extend or misspell any of these lines. The mandatory small, readable word ILLUSTRATION is an editorial provenance mark, not evidence. No other words anywhere in the image: no imagined paper text, numbers, labels, brands or stock UI. Use separate intentional line wrapping inside each exact string as necessary.
 
-Composition for the edit: Use a request arrow meeting an administrator intake desk, with open case drawers clearly visible. Avoid seals, letterhead or a court verdict stamp.
+STYLE LOCK: professional premium investigative editorial illustration with dimensional, content-specific physical objects rather than generic document piles. Deep black #0B0B0B, charcoal #1F1F1F, warm paper white #EDEDED; only restrained semantic signal red #D32222 and sparing material gold #B69B68. Strong condensed Bebas Neue-like ivory display lettering, Inter-like clean supporting text, natural directional warm light and cool shadows, quiet matte paper texture, fine film grain. Every frame must have a different visual geometry rather than repeating a desk, courtroom, or title card.
 
-Protected readable meaning: Refusal first appears at SC070 and is administrative, not a determination of legal wrongness.
+SAFE AREA: output one opaque horizontal 16:9 frame. Keep all important story and exact text in x=8%-92%, y=10%-76%; absolutely no essential text in bottom20% (captions). Maintain readable font size at native 1k; if text cannot be legible, it must fail QC rather than be removed. No invented clean plates, overlays, storyboards, inset frames or multi-panel sets.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+FACT LOCK: This is a dramatized ILLUSTRATION, never a recreated original administrative or judicial document. An administrative refusal to close AAA files is not a decision on underlying legal merits; requests are not granted court orders; courts or arbitrators decide distinct legal questions and individual cases can have different status. Preserve attribution and scoped conditionals. Grounding: court order S004; no invented subsequent result.
 
-Potential attention target: STATIC: the administrative refusal and its limited meaning.
+STRICT NEGATIVE: NO giant AAA REFUSED sign, NO pretend official AAA stamp, NO CLOSURE REQUEST letter, NO fabricated documents, NO Steam storefront, NO courtroom, NO gavel, NO brand marks, NO new words. Absolutely no unrelated Adobe/Figma merger iconography, fabricated filings, videogame art, generic laptop or judge iconography. No extra paragraphs or filler textures that resemble fake writing, no watermark, no burnt captions, no subtitles, no black caption bar, no repeated angle, no mechanical or decorative random arrows, no gavel or Lady Justice.
 
-Style: premium investigative editorial composition; charcoal #1F1F1F / deep black #0B0B0B / paper white #EDEDED; restrained semantic red #D32222, rare warm material gold #B69B68. Directional warm light, controlled cool shadows, matte tactile depth and fine grain. Crisp Bebas Neue-like condensed headline, Inter-like supporting copy. Do not add a decorative desk or a separate banner just to imitate the references.
-
-Text inside this generated image, VERBATIM and no other lettering:
-"VALVE ASKED AAA TO CLOSE THE FILES"
-"AAA REFUSED ADMINISTRATIVE CLOSURE"
-
-Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
-
-Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
-
-Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
-
-Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
-
-Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
-
-Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
-
-Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
-
-Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
-
-Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
-
-GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
-
-Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
+One finished, legible, factual-scoped illustration. Exact display copy is the top acceptance criterion.
 ```
 
 ### GF032 - EDITORIAL_DIAGRAM
+
+Image 1: [R04](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg); image 2: [R06](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg). Both STYLE_ONLY.
+
+Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
+
+```text
+Primary request: Generate EXACTLY ONE finished GF032 16:9 editorial documentary illustration for WHAT IT COST, frame-specific to Valve/AAA administrative arbitration history. Treat this as a distinct frame; not a Steam lawsuit stock image and not a reference-image edit.
+
+STYLE REFERENCE 1 — R04 (G017.jpg): use ONLY the existing channel's restrained typography hierarchy, tactile matte surface, light quality and spatial clarity. Do not reproduce its logos, original case, subjects, objects or visible words.
+STYLE REFERENCE 2 — R06 (G033.jpg): use ONLY the existing channel's cinematic warm/cool separation and legible editorial negative space. Do not reproduce its logos, other lawsuit, photos or wording.
+Both pinned images are STYLE_ONLY; they are NOT legal evidence. Never use them to choose the story content.
+
+SCENE — MANDATORY: A precise three-zone institutional distinction around a central OPEN stack of case folders: an administrative paper tray at left, an abstract neutral court decision chamber behind the stack, a separate arbitrator decision surface at right. A physical gap prevents the administrator tray from becoming a judicial verdict. Nothing indicates which institution ultimately wins or decides.
+
+COMPOSITION — MANDATORY: Editorial architectural diorama, not a fake Steam news photograph. Central open file drawers and file edges are the dominant evidence mechanism. At upper left the full non-merits qualifier is highly legible; upper right the entire court-or-arbitrator contract question is equally readable; 'FILES REMAINED OPEN' aligns directly with physical open drawers. Use muted cool shadow vs restrained warm tungsten highlights.
+
+ONLY PERMITTED ENGLISH VISIBLE TEXT, exact characters and word order:
+1. "ADMINISTRATION IS NOT A MERITS DECISION"
+2. "CONTRACT QUESTION: COURTS OR ARBITRATORS"
+3. "FILES REMAINED OPEN"
+4. "ILLUSTRATION"
+Do not omit, truncate, rephrase, extend or misspell any of these lines. The mandatory small, readable word ILLUSTRATION is an editorial provenance mark, not evidence. No other words anywhere in the image: no imagined paper text, numbers, labels, brands or stock UI. Use separate intentional line wrapping inside each exact string as necessary.
+
+STYLE LOCK: professional premium investigative editorial illustration with dimensional, content-specific physical objects rather than generic document piles. Deep black #0B0B0B, charcoal #1F1F1F, warm paper white #EDEDED; only restrained semantic signal red #D32222 and sparing material gold #B69B68. Strong condensed Bebas Neue-like ivory display lettering, Inter-like clean supporting text, natural directional warm light and cool shadows, quiet matte paper texture, fine film grain. Every frame must have a different visual geometry rather than repeating a desk, courtroom, or title card.
+
+SAFE AREA: output one opaque horizontal 16:9 frame. Keep all important story and exact text in x=8%-92%, y=10%-76%; absolutely no essential text in bottom20% (captions). Maintain readable font size at native 1k; if text cannot be legible, it must fail QC rather than be removed. No invented clean plates, overlays, storyboards, inset frames or multi-panel sets.
+
+FACT LOCK: This is a dramatized ILLUSTRATION, never a recreated original administrative or judicial document. An administrative refusal to close AAA files is not a decision on underlying legal merits; requests are not granted court orders; courts or arbitrators decide distinct legal questions and individual cases can have different status. Preserve attribution and scoped conditionals. Grounding: court order S004; no invented subsequent result.
+
+STRICT NEGATIVE: NO Steam screen or logo, NO video game tiles, NO class-action lawsuit fake document, NO Lady Justice, NO flags, NO stock courthouse façade, NO judgement stamp, NO legal outcome inferred, NO other wording. Absolutely no unrelated Adobe/Figma merger iconography, fabricated filings, videogame art, generic laptop or judge iconography. No extra paragraphs or filler textures that resemble fake writing, no watermark, no burnt captions, no subtitles, no black caption bar, no repeated angle, no mechanical or decorative random arrows, no gavel or Lady Justice.
+
+One finished, legible, factual-scoped illustration. Exact display copy is the top acceptance criterion.
+```
+
+### GF033 - EDITORIAL_TIMELINE
+
+Image 1: [R01](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg); image 2: [R03](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg). Both STYLE_ONLY.
+
+Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
+
+```text
+Primary request: Generate EXACTLY ONE finished GF033 16:9 editorial documentary illustration for WHAT IT COST, frame-specific to Valve/AAA administrative arbitration history. Treat this as a distinct frame; not a Steam lawsuit stock image and not a reference-image edit.
+
+STYLE REFERENCE 1 — R01 (G001.jpg): use ONLY the existing channel's restrained typography hierarchy, tactile matte surface, light quality and spatial clarity. Do not reproduce its logos, original case, subjects, objects or visible words.
+STYLE REFERENCE 2 — R03 (G004.jpg): use ONLY the existing channel's cinematic warm/cool separation and legible editorial negative space. Do not reproduce its logos, other lawsuit, photos or wording.
+Both pinned images are STYLE_ONLY; they are NOT legal evidence. Never use them to choose the story content.
+
+SCENE — MANDATORY: ONE continuous cinematic date-to-date chronology for the Valve and AAA administrative exchange in 2024. Exactly two anonymous editorial chronology tablets, neither represented as an actual letter, laid out in sequence with a restrained hairline timeline between them. Two separate dated events; no same-day implication.
+
+COMPOSITION — MANDATORY: The earlier date card in left-center, later date card in right-center; dates dominant, entire exact text fully legible. Use distressed ivory display type, subtle red accent exclusively on the temporal gap, tactile warm paper blocks against charcoal. The left and right cards must be clearly part of ONE single 16:9 shot rather than a multi-scene storyboard. Large negative lower margin for subtitles.
+
+ONLY PERMITTED ENGLISH VISIBLE TEXT, exact characters and word order:
+1. "SEPTEMBER 27, 2024: VALVE REQUEST"
+2. "OCTOBER 7, 2024: AAA RESPONSE"
+3. "ILLUSTRATION"
+Do not omit, truncate, rephrase, extend or misspell any of these lines. The mandatory small, readable word ILLUSTRATION is an editorial provenance mark, not evidence. No other words anywhere in the image: no imagined paper text, numbers, labels, brands or stock UI. Use separate intentional line wrapping inside each exact string as necessary.
+
+STYLE LOCK: professional premium investigative editorial illustration with dimensional, content-specific physical objects rather than generic document piles. Deep black #0B0B0B, charcoal #1F1F1F, warm paper white #EDEDED; only restrained semantic signal red #D32222 and sparing material gold #B69B68. Strong condensed Bebas Neue-like ivory display lettering, Inter-like clean supporting text, natural directional warm light and cool shadows, quiet matte paper texture, fine film grain. Every frame must have a different visual geometry rather than repeating a desk, courtroom, or title card.
+
+SAFE AREA: output one opaque horizontal 16:9 frame. Keep all important story and exact text in x=8%-92%, y=10%-76%; absolutely no essential text in bottom20% (captions). Maintain readable font size at native 1k; if text cannot be legible, it must fail QC rather than be removed. No invented clean plates, overlays, storyboards, inset frames or multi-panel sets.
+
+FACT LOCK: This is a dramatized ILLUSTRATION, never a recreated original administrative or judicial document. An administrative refusal to close AAA files is not a decision on underlying legal merits; requests are not granted court orders; courts or arbitrators decide distinct legal questions and individual cases can have different status. Preserve attribution and scoped conditionals. Grounding: court order S004; no invented subsequent result.
+
+STRICT NEGATIVE: NO Adobe, Figma, FTC, Financial Times, merger agreement, people, business logos, screenshots, press headlines, made-up document contents, SC numbers, small unreadable text, collage grids, other lettering. Absolutely no unrelated Adobe/Figma merger iconography, fabricated filings, videogame art, generic laptop or judge iconography. No extra paragraphs or filler textures that resemble fake writing, no watermark, no burnt captions, no subtitles, no black caption bar, no repeated angle, no mechanical or decorative random arrows, no gavel or Lady Justice.
+
+One finished, legible, factual-scoped illustration. Exact display copy is the top acceptance criterion.
+```
+
+### GF034 - EDITORIAL_SCENE
+
+Image 1: [R02](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg); image 2: [R04](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg). Both STYLE_ONLY.
+
+Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
+
+```text
+Primary request: Generate EXACTLY ONE finished GF034 16:9 editorial documentary illustration for WHAT IT COST, frame-specific to Valve/AAA administrative arbitration history. Treat this as a distinct frame; not a Steam lawsuit stock image and not a reference-image edit.
+
+STYLE REFERENCE 1 — R02 (G002.jpg): use ONLY the existing channel's restrained typography hierarchy, tactile matte surface, light quality and spatial clarity. Do not reproduce its logos, original case, subjects, objects or visible words.
+STYLE REFERENCE 2 — R04 (G017.jpg): use ONLY the existing channel's cinematic warm/cool separation and legible editorial negative space. Do not reproduce its logos, other lawsuit, photos or wording.
+Both pinned images are STYLE_ONLY; they are NOT legal evidence. Never use them to choose the story content.
+
+SCENE — MANDATORY: One oblique, realistically constructed archive room revealing visibly DIFFERENT treatments of INDIVIDUAL case files. One branch of cabinet shelves has several old-agreement folders; another separate branch has temporarily halted case folders. Neither branch visually implies a numeric share. A small neutral physical Valve-attribution tag belongs ONLY to the paused branch, with no additional legible wording.
+
+COMPOSITION — MANDATORY: Deep editorial diagonal composition with diverging file-cabinet paths, physical rails or shelf divisions, not a fake lawsuit or branded monitor. Position exact first headline over old-agreement branch, exact second headline over paused branch, exact third line tying the separate branches together. Place each phrase high enough for lower20% caption-safe zone. Visually convey varied file-specific decisions.
+
+ONLY PERMITTED ENGLISH VISIBLE TEXT, exact characters and word order:
+1. "SOME APPLIED THE ORIGINAL AGREEMENT"
+2. "VALVE SAID MANY PAUSED"
+3. "DIFFERENT FILES, DIFFERENT DECISIONS"
+4. "ILLUSTRATION"
+Do not omit, truncate, rephrase, extend or misspell any of these lines. The mandatory small, readable word ILLUSTRATION is an editorial provenance mark, not evidence. No other words anywhere in the image: no imagined paper text, numbers, labels, brands or stock UI. Use separate intentional line wrapping inside each exact string as necessary.
+
+STYLE LOCK: professional premium investigative editorial illustration with dimensional, content-specific physical objects rather than generic document piles. Deep black #0B0B0B, charcoal #1F1F1F, warm paper white #EDEDED; only restrained semantic signal red #D32222 and sparing material gold #B69B68. Strong condensed Bebas Neue-like ivory display lettering, Inter-like clean supporting text, natural directional warm light and cool shadows, quiet matte paper texture, fine film grain. Every frame must have a different visual geometry rather than repeating a desk, courtroom, or title card.
+
+SAFE AREA: output one opaque horizontal 16:9 frame. Keep all important story and exact text in x=8%-92%, y=10%-76%; absolutely no essential text in bottom20% (captions). Maintain readable font size at native 1k; if text cannot be legible, it must fail QC rather than be removed. No invented clean plates, overlays, storyboards, inset frames or multi-panel sets.
+
+FACT LOCK: This is a dramatized ILLUSTRATION, never a recreated original administrative or judicial document. An administrative refusal to close AAA files is not a decision on underlying legal merits; requests are not granted court orders; courts or arbitrators decide distinct legal questions and individual cases can have different status. Preserve attribution and scoped conditionals. Grounding: court order S004; no invented subsequent result.
+
+STRICT NEGATIVE: NO Steam UI, NO fake class action suit, NO gavel, NO courthouse, NO all-files-stopped graphic, NO 50/50 splits, NO quantified proportions, NO universal stay, NO verdict, NO other lettering. Absolutely no unrelated Adobe/Figma merger iconography, fabricated filings, videogame art, generic laptop or judge iconography. No extra paragraphs or filler textures that resemble fake writing, no watermark, no burnt captions, no subtitles, no black caption bar, no repeated angle, no mechanical or decorative random arrows, no gavel or Lady Justice.
+
+One finished, legible, factual-scoped illustration. Exact display copy is the top acceptance criterion.
+```
+
+### GF035 - EDITORIAL_DIAGRAM
 
 Image 1: [R06](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg); image 2: [R04](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg). Both STYLE_ONLY.
 
 Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
 
 ```text
-Primary request: Generate one finished GF032 English-language full-frame documentary illustration. New composition, not an edit of either style image.
+Primary request: Generate EXACTLY ONE finished GF035 16:9 editorial documentary illustration for WHAT IT COST, frame-specific to Valve/AAA administrative arbitration history. Treat this as a distinct frame; not a Steam lawsuit stock image and not a reference-image edit.
 
-Input image 1: R06 STYLE_ONLY. Strong distinction, spatial depth and tonal separation. Do not copy the DOJ building, agencies, people, case, headline or equality symbol.
+STYLE REFERENCE 1 — R06 (G033.jpg): use ONLY the existing channel's restrained typography hierarchy, tactile matte surface, light quality and spatial clarity. Do not reproduce its logos, original case, subjects, objects or visible words.
+STYLE REFERENCE 2 — R04 (G017.jpg): use ONLY the existing channel's cinematic warm/cool separation and legible editorial negative space. Do not reproduce its logos, other lawsuit, photos or wording.
+Both pinned images are STYLE_ONLY; they are NOT legal evidence. Never use them to choose the story content.
 
-Input image 2: R04 STYLE_ONLY. One tangible mechanism, matte material and clear relational hierarchy. Do not borrow the cube, split ownership graphic, brands or copy literally.
+SCENE — MANDATORY: Multiple SEPARATE unresolved individual case pathways converge toward a single federal court application folder. Every route remains a distinct file up to the application. The court request is visibly PENDING; there is no order already granted, no global closure, and no suggestion of collective arbitration.
 
-Reference invariants: borrow only typography feel, hierarchy, tactile materials, controlled light and polish. Never copy any reference headline, company logo, face, source text, case fact, subject, layout or safe margin.
+COMPOSITION — MANDATORY: Low cinematic perspective looking along several parallel charcoal case channels towards one paper application volume at upper center-right. Convergent lines are physical file rails, not generic arrows. Strong title area upper-left and precisely attached limitation line below; 'FEDERAL COURT' on a neutral editorial destination plaque. The distinct pending routes must remain evident; clean warm/cool depth, modest signal red to indicate REQUESTED status only.
 
-Scene and subject: Administrator desk separated from court/arbitrator decision desks. Open files remain at the center; no suggestion that AAA decided Valve legally wrong.
+ONLY PERMITTED ENGLISH VISIBLE TEXT, exact characters and word order:
+1. "VALVE REQUESTED A STOP ORDER"
+2. "ACROSS THE DEFENDANTS' PENDING CASES"
+3. "FEDERAL COURT"
+4. "ILLUSTRATION"
+Do not omit, truncate, rephrase, extend or misspell any of these lines. The mandatory small, readable word ILLUSTRATION is an editorial provenance mark, not evidence. No other words anywhere in the image: no imagined paper text, numbers, labels, brands or stock UI. Use separate intentional line wrapping inside each exact string as necessary.
 
-Composition for the edit: Keep administrator, courts and arbitrators as distinct decision spaces around open files. Avoid a symmetrical winner/loser composition.
+STYLE LOCK: professional premium investigative editorial illustration with dimensional, content-specific physical objects rather than generic document piles. Deep black #0B0B0B, charcoal #1F1F1F, warm paper white #EDEDED; only restrained semantic signal red #D32222 and sparing material gold #B69B68. Strong condensed Bebas Neue-like ivory display lettering, Inter-like clean supporting text, natural directional warm light and cool shadows, quiet matte paper texture, fine film grain. Every frame must have a different visual geometry rather than repeating a desk, courtroom, or title card.
 
-Protected readable meaning: The non-merits qualification and who-decides-contract-question line stay together; no implied AAA merits ruling.
+SAFE AREA: output one opaque horizontal 16:9 frame. Keep all important story and exact text in x=8%-92%, y=10%-76%; absolutely no essential text in bottom20% (captions). Maintain readable font size at native 1k; if text cannot be legible, it must fail QC rather than be removed. No invented clean plates, overlays, storyboards, inset frames or multi-panel sets.
 
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
+FACT LOCK: This is a dramatized ILLUSTRATION, never a recreated original administrative or judicial document. An administrative refusal to close AAA files is not a decision on underlying legal merits; requests are not granted court orders; courts or arbitrators decide distinct legal questions and individual cases can have different status. Preserve attribution and scoped conditionals. Grounding: court order S004; no invented subsequent result.
 
-Potential attention target: STATIC: institutional-role separation and open files.
+STRICT NEGATIVE: NO Steam interface or logo, NO market share chart, NO invented percentages, NO antitrust allegations, NO gavel, NO class-action counterfeit, NO US flag, NO fictional issued injunction, NO other wording. Absolutely no unrelated Adobe/Figma merger iconography, fabricated filings, videogame art, generic laptop or judge iconography. No extra paragraphs or filler textures that resemble fake writing, no watermark, no burnt captions, no subtitles, no black caption bar, no repeated angle, no mechanical or decorative random arrows, no gavel or Lady Justice.
 
-Style: premium investigative editorial composition; charcoal #1F1F1F / deep black #0B0B0B / paper white #EDEDED; restrained semantic red #D32222, rare warm material gold #B69B68. Directional warm light, controlled cool shadows, matte tactile depth and fine grain. Crisp Bebas Neue-like condensed headline, Inter-like supporting copy. Do not add a decorative desk or a separate banner just to imitate the references.
-
-Text inside this generated image, VERBATIM and no other lettering:
-"ADMINISTRATION IS NOT A MERITS DECISION"
-"CONTRACT QUESTION: COURTS OR ARBITRATORS"
-"FILES REMAINED OPEN"
-
-Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
-
-Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
-
-Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
-
-Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
-
-Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
-
-Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
-
-Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
-
-Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
-
-Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
-
-GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
-
-Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
-```
-
-### GF033 - EDITORIAL_CHRONOLOGY
-
-Image 1: [R03](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg); image 2: [R01](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg). Both STYLE_ONLY.
-
-Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
-
-```text
-Primary request: Generate one finished GF033 English-language full-frame documentary illustration. New composition, not an edit of either style image.
-
-Input image 1: R03 STYLE_ONLY. Readable juxtaposition, spatial separation and warm/cool depth. Do not borrow photographs, buildings, people, logos or thread details.
-
-Input image 2: R01 STYLE_ONLY. Ivory condensed type against charcoal and tactile paper hierarchy. Do not borrow the merger document, fee, wording or marker target.
-
-Reference invariants: borrow only typography feel, hierarchy, tactile materials, controlled light and polish. Never copy any reference headline, company logo, face, source text, case fact, subject, layout or safe margin.
-
-Scene and subject: Two dated administrative event cards, visibly editorial rather than a recreated authentic letter. No invented addressee, letterhead or response quotation.
-
-Composition for the edit: Use two restrained editorial date cards, request then response, with room for the full dates to read.
-
-Protected readable meaning: No original letter recreation, invented addressee, quotations or same-day response implication.
-
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
-
-Potential attention target: STATIC: the request/response chronology.
-
-Style: premium investigative editorial composition; charcoal #1F1F1F / deep black #0B0B0B / paper white #EDEDED; restrained semantic red #D32222, rare warm material gold #B69B68. Directional warm light, controlled cool shadows, matte tactile depth and fine grain. Crisp Bebas Neue-like condensed headline, Inter-like supporting copy. Do not add a decorative desk or a separate banner just to imitate the references.
-
-Text inside this generated image, VERBATIM and no other lettering:
-"SEPTEMBER 27, 2024: VALVE REQUEST"
-"OCTOBER 7, 2024: AAA RESPONSE"
-
-Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
-
-Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
-
-Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
-
-Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
-
-Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
-
-Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
-
-Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
-
-Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
-
-Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
-
-GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
-
-Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
-```
-
-### GF034 - EDITORIAL_SCENE
-
-Image 1: [R02](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg); image 2: [R06](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg). Both STYLE_ONLY.
-
-Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
-
-```text
-Primary request: Generate one finished GF034 English-language full-frame documentary illustration. New composition, not an edit of either style image.
-
-Input image 1: R02 STYLE_ONLY. Dimensional hero object, framed material and clean negative space. Do not borrow logos, brands, heading or the merger story.
-
-Input image 2: R06 STYLE_ONLY. Strong distinction, spatial depth and tonal separation. Do not copy the DOJ building, agencies, people, case, headline or equality symbol.
-
-Reference invariants: borrow only typography feel, hierarchy, tactile materials, controlled light and polish. Never copy any reference headline, company logo, face, source text, case fact, subject, layout or safe margin.
-
-Scene and subject: A varied file-room composition with distinct old-agreement and paused branches; a participating-under-objection tag on Valve's side. Do not imply universal pause or equal exact proportions.
-
-Composition for the edit: Compose separate original-agreement and paused branches in a varied file room. Keep the Valve-said label bound to the paused branch and objections in the overall scene.
-
-Protected readable meaning: All branches, attribution and differing-decisions context must survive any detail framing; no uniform stay or exact proportions.
-
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
-
-Potential attention target: CONDITIONAL: the relationship of original-agreement and paused file branches, only PL047.
-
-Style: premium investigative editorial composition; charcoal #1F1F1F / deep black #0B0B0B / paper white #EDEDED; restrained semantic red #D32222, rare warm material gold #B69B68. Directional warm light, controlled cool shadows, matte tactile depth and fine grain. Crisp Bebas Neue-like condensed headline, Inter-like supporting copy. Do not add a decorative desk or a separate banner just to imitate the references.
-
-Text inside this generated image, VERBATIM and no other lettering:
-"SOME APPLIED THE ORIGINAL AGREEMENT"
-"VALVE SAID MANY PAUSED"
-"DIFFERENT FILES, DIFFERENT DECISIONS"
-
-Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
-
-Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
-
-Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
-
-Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
-
-Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
-
-Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
-
-Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
-
-Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
-
-Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
-
-GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
-
-Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
-```
-
-### GF035 - EDITORIAL_SCENE
-
-Image 1: [R06](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg); image 2: [R02](https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg). Both STYLE_ONLY.
-
-Factual context: [S004](https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf).
-
-```text
-Primary request: Generate one finished GF035 English-language full-frame documentary illustration. New composition, not an edit of either style image.
-
-Input image 1: R06 STYLE_ONLY. Strong distinction, spatial depth and tonal separation. Do not copy the DOJ building, agencies, people, case, headline or equality symbol.
-
-Input image 2: R02 STYLE_ONLY. Dimensional hero object, framed material and clean negative space. Do not borrow logos, brands, heading or the merger story.
-
-Reference invariants: borrow only typography feel, hierarchy, tactile materials, controlled light and polish. Never copy any reference headline, company logo, face, source text, case fact, subject, layout or safe margin.
-
-Scene and subject: Many separate case routes converge on a federal-court application, not a single collective arbitration. Closure is visibly requested, never granted here.
-
-Composition for the edit: Have multiple separate pending-case routes converge on a federal-court application, not a combined arbitration proceeding.
-
-Protected readable meaning: Keep requested remedy and defendant-pending-case scope visible; no granted stop order or worldwide closure.
-
-Layer and motion contract: One flattened full-frame image only: English headline, supporting copy, objects and background are baked together. No independent text/card/background transforms, cutout, matte, invented clean plate, parallax layer or replacement overlay is available. Reuse means the identical existing image.
-
-Potential attention target: STATIC: the change from file-by-file decisions to a federal request.
-
-Style: premium investigative editorial composition; charcoal #1F1F1F / deep black #0B0B0B / paper white #EDEDED; restrained semantic red #D32222, rare warm material gold #B69B68. Directional warm light, controlled cool shadows, matte tactile depth and fine grain. Crisp Bebas Neue-like condensed headline, Inter-like supporting copy. Do not add a decorative desk or a separate banner just to imitate the references.
-
-Text inside this generated image, VERBATIM and no other lettering:
-"VALVE REQUESTED A STOP ORDER"
-"ACROSS THE DEFENDANTS' PENDING CASES"
-"FEDERAL COURT"
-
-Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.
-
-Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
-
-Current format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
-
-Current identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
-
-Current text requirement: visible_text is the exact allowed display copy, not a quotation from a source. Render all lettering inside the generated frame. No invented quotes, unreadable fake legal body copy, signatures, seals, judges, branded screenshots or fabricated Steam messages. Text is editorial, not narration subtitles.
-
-Current provenance requirement: Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.
-
-Current safe_area requirement: At 1920x1080 keep all essential narrative text and labels inside x=154..1766,y=108..820; lower20% (y>=864) contains no essential content. Keep critical subject in central9:16 crop where feasible, but do not promise automatic vertical usability.
-
-Current editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
-
-Current legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
-
-GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
-
-Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
+One finished, legible, factual-scoped illustration. Exact display copy is the top acceptance criterion.
 ```
 
 ### GF036 - RECREATED_DOCUMENT
