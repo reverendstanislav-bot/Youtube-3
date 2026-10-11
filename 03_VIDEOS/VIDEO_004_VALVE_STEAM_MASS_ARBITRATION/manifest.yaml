@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "V6 preparation independently reviewed PASS for60 prompts/reference bindings/montage adaptation; stop at handoff. Close audio/final-timing gates before execution. Requote actual requests and obtain explicit spend approval before imports/jobs. No rendering/stage advancement; audio/final timeline/media QC remain open. V4 inventory and V5 timing unchanged."
+next_action: "GPT Image 2/1k/low profile: 60 requests 2 STYLE_ONLY refs each; 0.5 exact config-only credit, 30 base. Structural QC PASS; actual 2-ref backend acceptance and text legibility untested. Audio and timing locks pending; obtain explicit spend approval before any Higgsfield import/job."
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "VISUAL_ASSETS_NOT_GENERATED", "IMAGE_GENERATION_SPEND_NOT_AUTHORIZED"]
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V6_60_PROMPT_REFERENCE_MONTAGE_PREPARATION_REVIEW_PASS_NOT_GENERATED"
+  stage_12_visual_source_generation_plan: "V6_60_GPT_IMAGE_2_1K_LOW_STRUCTURAL_QC_PASS_NO_GENERATION"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -134,8 +134,8 @@ generation_plan:
   new_paid_jobs_authorized: 0
   new_paid_jobs_submitted: 0
   provider_requested: "Higgsfield"
-  model: "gpt_image_2_5"
-  cost: "V6_CONFIG_ONLY_4.25_CREDITS_PER_FIRST_ATTEMPT_REQUOTE_ACTUAL_REQUESTS"
+  model: "gpt_image_2"
+  cost: "GPT_IMAGE_2_1K_LOW_0.5_EXACT_CONFIG_CREDITS_PER_IMAGE_30_BASE_REQUOTE_WITH_REFERENCES"
   historical_v4_model_cost: "NOT_SELECTED/NOT_QUOTED snapshot retained in immutable V4 inputs; superseded for request preparation only by V6"
   media_acceptance: "NOT_RUN"
 
@@ -161,17 +161,19 @@ prompt_package:
   factual_context_story_frames: 59
   recreated_document_frames: 9
   provider: "Higgsfield"
-  model: "gpt_image_2_5"
-  variant: "flare"
-  quality: "high"
-  resolution: "4k"
-  background: "opaque"
+  model: "gpt_image_2"
+  quality: "low"
+  resolution: "1k"
   aspect_ratio: "16:9"
   count_per_request: 1
   media_role: "image"
-  quoted_credits_per_first_attempt_config_only: 4.25
+  quoted_credits_per_first_attempt_config_only: 0.5
   first_attempts_config_only: 60
-  quoted_credits_config_only_total: 255
+  quoted_credits_config_only_total: 30
+  quote_exact_credits: 0.5
+  reference_count_per_request: 2
+  actual_two_reference_backend_acceptance: "NOT_TESTED_NO_IMPORT"
+  one_k_text_fidelity_risk: ["GF001", "GF058", "GF059"]
   actual_complete_request_requote_required: true
   explicit_spend_approval_required: true
   new_imports_authorized: 0
