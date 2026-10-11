@@ -2,9 +2,15 @@
 
 Status: IN_PREPARATION
 Current stage: **10_AUDIO_MASTER — TECHNICAL_PASS; AUDITORY_QC_PENDING**
-Updated:2026-10-11. Current owner task: runtime answer and whole-film breakdown aligned with production Git; planning only.
+Updated:2026-10-11. Current owner task: complete the same60 prompts, reference bindings and montage-canon adaptation; preparation only, no paid jobs.
 
-## Current authoritative handoff — V4 image inventory + V5 complete film map
+## Current authoritative handoff — V6 prompts/references/montage over unchanged V4/V5
+
+- Current request preparation: `12_PROMPT_PACKAGE_V6.json` → `12_HIGGSFIELD_PROMPTS_V6.md`, `12_HIGGSFIELD_REQUESTS_V6.jsonl`, `12_REFERENCE_BINDINGS_V6.csv` and `12_FACTUAL_CONTEXT_V6.json`. Independent preparation review PASS in `12_PROMPT_REVIEW_V6.md`; this is not image or edit approval.
+- Six existing owner-approved V2 style JPGs were visually inspected and their local/HTTPS bytes checked. Each of60 requests binds two STYLE_ONLY image references; factual context for59 story frames is separate. The nine documentary compositions remain labelled recreations, not original evidence. GF060 is an endscreen, not a factual-document frame.
+- The actual owner-locked `00_FOUNDATION/EDITING_CANON.md` is restored unchanged (SHA256 `41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5`). `12_MONTAGE_ADAPTATION_V6.json`/`.md` and `12_visual-style_V6.md` adapt the existing84 placements without altering V4 display copy, V5 timing or narration. Actual pixel geometry, motion and hearing acceptance remain open.
+- Live-checked request profile: Higgsfield `gpt_image_2_5`, flare/high/4k/opaque/16:9/count1, two media items with role=image. Config-only quote4.25 credits per first attempt,60×4.25=255 credits; NOT an approved budget or quote of the actual complete requests. Requote those requests and obtain explicit spend authorization before any import/job. New imports/jobs/spend authorized or submitted by this preparation:0.
+- V4/V5 model NOT_SELECTED/cost NOT_QUOTED statements are preserved historical planning snapshots, superseded only for request preparation by the V6 profile. They do not authorize execution. V4 remains the60-slot/copy source; V5 remains the whole-film timing map.
 
 - **Planned film13:48 =13:28 existing narration +20s without narration.** Local ffprobe reconfirmed actual WAV808.000s, pcm_s24le/48kHz/stereo/24bit on2026-10-11. Not a rendered film verification.
 - Start at `12_VISUAL_SOURCE_PLAN.md` → `12_FILM_BREAKDOWN_V5.md`. V5 has5acts,13storychapters +1endscreen and84authored placements with exactframes/source/script/asset links and focus/cut reasons. V4's60unique images remain unchanged;24return placements do not create jobs. Four Shorts mapped separately. Stage12 mandatory spec entrypoints now exist; no duplicate image plan.
@@ -15,10 +21,10 @@ Updated:2026-10-11. Current owner task: runtime answer and whole-film breakdown 
 - Recreated documents are visibly labelled and source-faithful, never authentic evidence. Same-image reuse requires no text replacement. No burned narration subtitles, shake or crop jumps.
 - Original V11/voice payloads/audio files/Shorts cut map unchanged. Exactly4Shorts SH01/SH02/SH04/SH08; landscape source reuse mapped, separate vertical assets/CTA/thumbnails not included or declared ready.
 - Previous editor-native/Fusion strategy is rejected and superseded for this episode. Do not revise/import/render its175states as the production path. Historical canary failure remains true, not converted to PASS.
-- Stage10 full auditory QC NOT_PERFORMED; Stage11 final lockfalse. Current stage stays10. No image jobs, spend, accepted generated-image claims, montage/release PASS or stage advancement from this task. Model NOT_SELECTED, cost NOT_QUOTED; separate explicit spend approval required.
+- Stage10 full auditory QC NOT_PERFORMED; Stage11 final lockfalse. Current stage stays10. No image jobs, spend, accepted generated-image claims, montage/release PASS or stage advancement from this task. V6 preparation review passed; actual-request quote and separate explicit spend approval remain required.
 - Planning structural/independent reviews: `12_GENERATION_REVIEW_V4.md` and `12_FILM_REVIEW_V5.md`. Media QC, legal freshness Stage16 and release gates remain open. Working media root remains `C:/YOUTUBE/Youtube 3/Video 4`; Git stores the control plane, not bulk images.
 
-## Historical handoffs below — superseded where conflicting with V4/V5 above
+## Historical handoffs below — superseded where conflicting with V4/V5/V6 above
 
 - V11 canonical script unchanged; current Shorts target corrected to exactly four by owner; independent text score90.4/100 meets owner minimum90. Harrison identity and episode ElevenLabs settings retained. No new generations this task.
 - Existing3/3Harrison jobs completed; historical approved quote39.45credits, actual debit not re-verified. Existing GitHub run38039673597 succeeded. Prior0jobs/NOT_QUOTED/master-not-generated notes were historical and are superseded here.

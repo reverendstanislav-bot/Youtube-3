@@ -17,5 +17,6 @@ Forbidden: episode research, filings, script text, screenshots, generated assets
 - `REVIEW_METRICS.md` — canonical quality thresholds.
 - `BRAND_LOCK.md` — public brand lock state.
 - `VOICE_LOCK.md` — narrator lock state.
+- `EDITING_CANON.md` — owner-locked channel-wide editing behavior.
 
 Foundation wins over more detailed channel bibles until the owner explicitly changes a lock.

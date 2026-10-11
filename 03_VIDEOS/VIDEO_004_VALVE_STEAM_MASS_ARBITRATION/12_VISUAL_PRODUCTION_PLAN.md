@@ -1,5 +1,7 @@
 # VIDEO004 — Stage 12 Visual Production Plan V1
 
+Current V6 prompt/reference/montage preparation: `12_HIGGSFIELD_PROMPTS_V6.md`, `12_HIGGSFIELD_REQUESTS_V6.jsonl`, `12_REFERENCE_BINDINGS_V6.csv`, `12_FACTUAL_CONTEXT_V6.json`, `12_MONTAGE_ADAPTATION_V6.md`, `12_visual-style_V6.md`; unchanged V4 inventory/copy and V5 timing remain authoritative inputs. Two verified STYLE_ONLY references per request are separate from factual context. Restored owner editing canon unchanged; independent V6 preparation review PASS (12_PROMPT_REVIEW_V6.md). V4/V5 NOT_SELECTED/NOT_QUOTED statements are historical snapshots superseded by live-checked V6gpt_image_2_5/flare/high/4k/opaque/16:9/count1/twoimage media. Config-only4.25credits/first attempt,255for60, requires actual-request requote and explicit spend approval.0imports/jobs/spend, no stage/media/edit/releasePASS.
+
 ## Superseded production method — 2026-10-11
 
 Full film direction: [12_FILM_BREAKDOWN_V5.md](12_FILM_BREAKDOWN_V5.md),5acts/14chapters/84placements/24reuses, planned13:48. Required Stage12 routing now starts at `12_VISUAL_SOURCE_PLAN.md`; do not follow old next-action instructions below.

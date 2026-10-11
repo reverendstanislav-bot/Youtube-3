@@ -1,0 +1,48 @@
+{
+  "status": "STRUCTURAL_PROMPT_REFERENCE_MONTAGE_PASS_NOT_GENERATION_OR_MEDIA_QC",
+  "unique_longform_prompts": 60,
+  "unique_existing_style_files": 6,
+  "style_bindings": 60,
+  "image_inputs_per_request": 2,
+  "factual_context_rows": 60,
+  "story_frames_with_source_links": 59,
+  "document_recreations": 9,
+  "placements": 84,
+  "placement_treatments": {
+    "STATIC": 77,
+    "CONDITIONAL_DETAIL": 7
+  },
+  "runtime_sec": 828,
+  "canonical_voice_and_scene_inputs_unchanged": true,
+  "paid_jobs": 0,
+  "new_raster_assets": 0,
+  "higgsfield_imports_performed": 0,
+  "spend_authorized": false,
+  "stage_advanced": false,
+  "input_sha256_scheme": "UTF8_LF_NORMALIZED",
+  "input_sha256": {
+    "12_PROMPT_PACKAGE_V6.json": "4db167721a2494f0a2830ebb01fd3a2d6134a11f9fb8143b9ce5cd33cef595dc",
+    "12_MONTAGE_ADAPTATION_V6.json": "9fae856486448618b63079857149d5735d0e90fd327eac8668a8511fc0233d2e",
+    "12_visual-style_V6.md": "faa0f7597ade98b1430a1f9d87a3587c59f09a982606132672532ca439377b67",
+    "12_GENERATION_PLAN_V4.json": "99a7138f0a2e4a3e1249425dfbf6f276645110c6237f2318bd33fd4b5e2fba7a",
+    "12_FILM_STRUCTURE_V5.json": "06b6e88543e53f39999ba0599641a84b989155dc94b9fd6b72d5398d2cb0bce8",
+    "SOURCE_INDEX.csv": "ea23cf9dd0180d5a9a0f3520b18a186529f2b083e72620883fed96acb08bc1c1"
+  },
+  "editing_canon_sha256": "41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5",
+  "output_sha256": {
+    "12_HIGGSFIELD_REQUESTS_V6.jsonl": "1743759ada652f0c54e6a8eb76a06b8bee302627cc995725e912f96e1afadf10",
+    "12_HIGGSFIELD_PROMPTS_V6.md": "31a3f6a87d54a5ae8c8b6d1aa66460b2eba7c127a1aa5133642ab6261e631710",
+    "12_REFERENCE_BINDINGS_V6.csv": "28115e15ffc92600c9f01a46bd9bedf6ce7e65c1f64b48a2abe6e6b5cafdcf9e",
+    "12_FACTUAL_CONTEXT_V6.json": "7918b4af8c19208f1782e2abb581d46c6b19b17f935f7b386766158e3a6a6f70"
+  },
+  "remaining_gates": [
+    "AUDITORY_QC",
+    "FINAL_TIMELINE",
+    "ACTUAL_GENERATION_SPEND_APPROVAL",
+    "ACTUAL_IMAGE_QC",
+    "VERTICAL_AND_NATIVE_ENDSCREEN_QC",
+    "FULL_EDIT_AV_QC",
+    "STAGE16_REFRESH",
+    "RELEASE"
+  ]
+}

@@ -2,6 +2,12 @@
 
 ## Current planning scope — 2026-10-11
 
+- [x] V6 request preparation routed to60 unchanged V4 slots and84 unchanged V5 placements; no new generation claimed.
+- [x] Two STYLE_ONLY reference bindings per request from six existing owner-approved V2 JPGs; factual context kept separate from image attachments.
+- [x] Actual owner editing canon restored unchanged; V6 montage/style adaptation is a specification, not motion/pixel acceptance.
+- [x] Live-checked model profile and config-only4.25credits/first attempt recorded;60first attempts255credits, no approved budget.
+- [x] Independent V6 preparation review and final lead synthesis: PASS_PREPARATION_NOT_MEDIA_QC, `12_PROMPT_REVIEW_V6.md`; no HIGH/BLOCKER or MEDIUM findings.
+- [ ] Actual complete-request requote and explicit spend authorization before any import/generation; zero authorized/submitted.
 - [x] Actual voice metadata reconfirmed808.000s; future20s tail → planned13:48, not a finished render.
 - [x] V4 unique inventory and V5 whole-film structure agree:60images/84placements/24reuses;5acts/14chapters; all124cues/125segments covered.
 - [x] Stage12 mandatory source/image/reconstruction entrypoints route to the same current plan.

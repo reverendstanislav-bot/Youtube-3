@@ -1,0 +1,728 @@
+{
+  "version": "V6_PROMPT_REFERENCE_MONTAGE_PREPARATION",
+  "date": "2026-10-11",
+  "scope": "SAME_60_LONGFORM_FULL_FRAME_SLOTS_ONLY",
+  "status": "INDEPENDENT_PREPARATION_REVIEW_PASS_NOT_MEDIA_QC",
+  "inventory_source": "12_GENERATION_PLAN_V4.json",
+  "film_map": "12_FILM_STRUCTURE_V5.json",
+  "montage_adaptation": "12_MONTAGE_ADAPTATION_V6.json",
+  "editing_canon": "../../00_FOUNDATION/EDITING_CANON.md",
+  "canon_restore": {
+    "source_path": "C:/Users/KK/Desktop/Youtube/Youtube-3/00_FOUNDATION/EDITING_CANON.md",
+    "raw_sha256": "41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5",
+    "rule_change": false
+  },
+  "model": {
+    "id": "gpt_image_2_5",
+    "name": "GPT Image 2.5",
+    "provider_name": "OpenAI",
+    "description": "GPT Image 2.5 generation and editing with Flare and Sunburst variants",
+    "output_type": "image",
+    "parameters": [
+      {
+        "name": "variant",
+        "required": "optional",
+        "type": "string",
+        "description": "Model variant.",
+        "options": [
+          "flare",
+          "sunburst"
+        ],
+        "default": "flare"
+      },
+      {
+        "name": "quality",
+        "required": "optional",
+        "type": "string",
+        "description": "Rendering quality.",
+        "options": [
+          "low",
+          "medium",
+          "high",
+          "xhigh",
+          "max"
+        ],
+        "default": "low"
+      },
+      {
+        "name": "resolution",
+        "required": "optional",
+        "type": "string",
+        "description": "Output resolution.",
+        "options": [
+          "1k",
+          "2k",
+          "4k"
+        ],
+        "default": "1k"
+      },
+      {
+        "name": "background",
+        "required": "optional",
+        "type": "string",
+        "description": "Background handling. Omit to keep the model default.",
+        "options": [
+          "auto",
+          "opaque",
+          "transparent"
+        ],
+        "nullable": true
+      }
+    ],
+    "medias": [
+      {
+        "name": "medias",
+        "type": "image",
+        "roles": [
+          "image_references"
+        ]
+      }
+    ],
+    "aspect_ratios": [
+      "auto",
+      "1:1",
+      "3:2",
+      "2:3",
+      "4:3",
+      "3:4",
+      "16:9",
+      "9:16",
+      "21:9",
+      "27:16",
+      "16:27",
+      "9:8",
+      "8:9",
+      "4:5",
+      "5:4"
+    ],
+    "tags": [
+      "image-generation",
+      "editing",
+      "reference-images",
+      "4k",
+      "text-rendering"
+    ]
+  },
+  "request_parameters": {
+    "model": "gpt_image_2_5",
+    "variant": "flare",
+    "quality": "high",
+    "resolution": "4k",
+    "background": "opaque",
+    "aspect_ratio": "16:9",
+    "count": 1
+  },
+  "catalog_check": "LIVE_MODELS_GET_2026_10_11_NOT_MODEL_OUTPUT_QC",
+  "cost_preflight": {
+    "tool": "estimate_image_cost",
+    "date": "2026-10-11",
+    "configuration_only": true,
+    "reference_uploads_performed": 0,
+    "cost_per_image_credits": 4.25,
+    "planned_successful_slots": 60,
+    "one_attempt_each_estimated_credits": 255,
+    "includes_retries": false,
+    "execution_quote_must_be_refreshed": true,
+    "submitted_jobs": 0,
+    "spend_authorized": false
+  },
+  "references": [
+    {
+      "reference_id": "R01",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G001.jpg",
+      "sha256": "c920e30e4d53de830729848efffa535761187096e17429dcdecb86d77434c977",
+      "bytes": 589486,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F002",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "Ivory condensed type against charcoal and tactile paper hierarchy. Do not borrow the merger document, fee, wording or marker target.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    },
+    {
+      "reference_id": "R02",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G002.jpg",
+      "sha256": "c82e736e2ef086ca8ca9ce95ace489987431202d022c5ce5f9b8c70e549ed329",
+      "bytes": 622470,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F003",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "Dimensional hero object, framed material and clean negative space. Do not borrow logos, brands, heading or the merger story.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    },
+    {
+      "reference_id": "R03",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G004.jpg",
+      "sha256": "26e24f1109a95b443cce946682b1ae56ca61a62ffdf0f37f79caa5a9c2d391df",
+      "bytes": 700196,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F005",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "Readable juxtaposition, spatial separation and warm/cool depth. Do not borrow photographs, buildings, people, logos or thread details.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    },
+    {
+      "reference_id": "R04",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G017.jpg",
+      "sha256": "3954c70ff0a6bd4c8ff826fe11340f0e15986959124edddfb3336e800eebd6ee",
+      "bytes": 651331,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F028",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "One tangible mechanism, matte material and clear relational hierarchy. Do not borrow the cube, split ownership graphic, brands or copy literally.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    },
+    {
+      "reference_id": "R05",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G019.jpg",
+      "sha256": "a7dcc70d5bdad84b8a57aa569bee319f5db0e35e2a104d84e985b821e2502d6e",
+      "bytes": 508138,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F031",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "Legible editorial distinction and controlled paper depth. Do not copy real clause text or inherit its warm-yellow highlight as an evidentiary mark.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    },
+    {
+      "reference_id": "R06",
+      "repo_path": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg",
+      "url": "https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/ba242a03d5db4e6b2aebd96b497a623a33aa8630/03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/13_CHAT_R8_FRAME_ARCHIVE/CANDIDATES/G033.jpg",
+      "sha256": "d0d447dfd48445ac8cace7f47a1f483f24b18c2081a2fa8f86ce26c7081f17d4",
+      "bytes": 630785,
+      "width": 1672,
+      "height": 941,
+      "role": "STYLE_ONLY",
+      "catalog_role": "image_references",
+      "tool_role": "image",
+      "canon_frame_id": "F047",
+      "approval_record": "03_VIDEOS/VIDEO_002_ADOBE_FIGMA_FAILED_DEAL_COST_1_BILLION/12A_R10_CANON_STYLE_FROM_PASS15.md",
+      "approval_scope": "EXISTING_OWNER_APPROVED_VIDEO002_FRAME_REUSED_AS_STYLE_REFERENCE_NOT_VIDEO004_MEDIA_APPROVAL",
+      "purpose": "Strong distinction, spatial depth and tonal separation. Do not copy the DOJ building, agencies, people, case, headline or equality symbol.",
+      "url_check": "FETCHED_BYTES_SHA256_MATCH_2026_10_11",
+      "visual_review": "ACTUALLY_VIEWED_2026_10_11"
+    }
+  ],
+  "bindings": [
+    {
+      "asset_id": "GF001",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A purchased-game library represented by unbranded cases behind glass. Two clearly attributed opposing position cards, no actual game removal or lockout shown.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF002",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An authored spatial reversal: consumer case files enter an arbitration corridor, while a separate civil-court route turns back toward those users. Pending file tabs remain open; no result or liability verdict.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF003",
+      "primary": "R02",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A single unbranded conceptual ACCEPT key reflected in contract paper and game-library glass. Clearly an illustration, not a copied Steam dialog or an invented user message.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF004",
+      "primary": "R06",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A background game-price tag remains unresolved; foreground emergency-request file is a separate layer. No dollar damages figure, guilt stamp or final winner.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF005",
+      "primary": "R04",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: New contract paper and older pending file connected by opposing red and paper-colored routes. Both positions are equally attributed; no automatic closure mechanism or court conclusion implied.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF006",
+      "primary": "R02",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two distinct contract volumes frame a small pending case file; a Steam-update concept is represented only by an unbranded update symbol becoming a piece of evidence. No fabricated contract quotations.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF007",
+      "primary": "R03",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Three anonymous case folders, one publisher and two consumers, beside a market-price motif. Period-specific date, not a fake archive photograph of identifiable plaintiffs.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF008",
+      "primary": "R06",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: One private hearing desk and one individual case file; ordinary courthouse remains a separate distant architectural silhouette. Do not portray arbitration as secret or universally mandatory.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF009",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two visibly separate lanes: individual consumer desk versus publisher courthouse. No shared docket or merged outcome.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF010",
+      "primary": "R01",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A clearly recreated editorial contract exhibit: only these paraphrase labels, separated individual tabs and a disabled combining connector. No court seal, signature, fabricated clause number or quotation marks.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "S003 is an older background agreement, not an archived 2023 agreement. S004 describes the original agreement and class/combination restrictions. Render only the locked editorial paraphrase, not a source quotation."
+    },
+    {
+      "asset_id": "GF011",
+      "primary": "R04",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: One 2012 root feeds many separate file drawers, each still independent; no merged class-action folder. Abstract multiplicity, no false exact count here.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF012",
+      "primary": "R02",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A dramatic two-scale file-wall data composition. The initial cohort and dated recorded count are distinct labels, not a time-interpolated chart.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF013",
+      "primary": "R03",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Three dated archive trays at different depths, connected in chronological order. No monthly totals or invented filing receipts.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF014",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A cinematic legal-work desk repeated into depth with distinct response, scheduling and decision stations. Avoid implying all cases completed all steps or proving a global debt.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF015",
+      "primary": "R05",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: The disputed number appears on a dark question panel with UNVERIFIED inseparable and comparably prominent. Empty evidence slot, not a fake invoice even stamped unverified.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF016",
+      "primary": "R04",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Branching fee-stage path with an early-exit branch; a separate arbitrator-compensation lane. No dollar totals, fake invoice, assumed tariff for all years or billed/paid assertion.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF017",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Thousands of muted file spines recede; four illuminated tabs dominate the foreground. Attribution remains prominent, not a narrator assertion of corporate motive.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF018",
+      "primary": "R06",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Four anonymous file tabs leave the private-hearing desk toward a court route. No broad ruling against arbitration or victory across the mass cohort.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF019",
+      "primary": "R04",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: The same contract object is now an exit lever rather than an entry gate. Clearly attributed explanatory diagram; not a statement that every arbitrator invalidated the contract.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF020",
+      "primary": "R03",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two carefully dated index cards and a four-tab case divider. Not a reconstructed original order; show only editorial chronology.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF021",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Four isolated tabs and a separate later defendant cohort divided by a clear case boundary. No connector that merges their proceedings.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF022",
+      "primary": "R04",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: One contract bridge with opposite directed paths and clearly separated actors. A specific legal strategy reversal, not arbitrary mirror movement.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF023",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A changed entrance sign outside a room of still-open case files. The interior cases do not disappear or become a literal locked prison.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF024",
+      "primary": "R04",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Removed clause strip lies outside intact open file drawers. No disappearing documents, mass dismissal or final victory.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF025",
+      "primary": "R01",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An editorial recreation of an update notice, not the Steam notice itself. Paraphrase only, no fabricated UI, exact contract quotation or forged archived page. Replacement forum applies to disputes unresolved by support, not universal court jurisdiction.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "September 26, 2024 update; replacement court forum concerns disputes unresolved through support. Do not imply universal jurisdiction or reproduce Steam UI."
+    },
+    {
+      "asset_id": "GF026",
+      "primary": "R05",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Clearly recreated contract-mechanism page with a backwards-reaching arrow toward an earlier file. No counterfeit contract text or assertion that retroactivity finally prevailed.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "Retroactive reach and supersession are agreement mechanisms; control of pending proceedings remains disputed. Do not show final enforceability as established."
+    },
+    {
+      "asset_id": "GF027",
+      "primary": "R03",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Four unbranded evidence icons placed behind purchased-game cases. No invented email body, Steam screen or account-specific message; an editorial illustration of channels described in court evidence.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF028",
+      "primary": "R04",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A 572 total bracket splits into 454 and118. The 118 branch must never say rejected, refused or opted out; no individual identities.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF029",
+      "primary": "R02",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Game-library cases carry an editorial average-value tag with both claimed and disputed qualifiers inseparable from the number. No appraised assets, lost property or damages award.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF030",
+      "primary": "R04",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An ACCEPT key is one item on an inquiry desk, not the final gate; pending file, choice and enforceability remain separately visible. No scales implying a final merits outcome.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF031",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A closure-request arrow stops at an administrator's intake desk while case drawers remain open. Avoid a fabricated AAA letter or a legal-merits verdict stamp.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF032",
+      "primary": "R06",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Administrator desk separated from court/arbitrator decision desks. Open files remain at the center; no suggestion that AAA decided Valve legally wrong.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF033",
+      "primary": "R03",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two dated administrative event cards, visibly editorial rather than a recreated authentic letter. No invented addressee, letterhead or response quotation.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF034",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A varied file-room composition with distinct old-agreement and paused branches; a participating-under-objection tag on Valve's side. Do not imply universal pause or equal exact proportions.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF035",
+      "primary": "R06",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Many separate case routes converge on a federal-court application, not a single collective arbitration. Closure is visibly requested, never granted here.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF036",
+      "primary": "R01",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An openly recreated editorial petition cover with a procedural-route detour. No authentic-looking docket seal, judge signature, reproduced filing text or claim that Valve lost on contract merits.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "The first petition was struck on procedural grounds. This is not adjudication of the contract merits."
+    },
+    {
+      "asset_id": "GF037",
+      "primary": "R01",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Recreated complaint concept beside still-open arbitration files and a court-request marker. No fake original complaint or automatic contractual closure.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "A separate civil complaint sought judicial relief against users. New contract wording did not itself supply the requested relief."
+    },
+    {
+      "asset_id": "GF038",
+      "primary": "R03",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two dated case-stage trays with role-specific cohort labels; do not animate subtraction or imply the difference represents dismissed/won cases.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF039",
+      "primary": "R04",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A dated broad-wave archive and separate complaint cohort, not a mathematically precise Venn diagram or a changing live counter.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF040",
+      "primary": "R02",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An emergency request file in front of a still-distant final-judgment doorway. A request for interruption, not a countdown or automatic legal emergency.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF041",
+      "primary": "R04",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Valve's clearly labeled argument desk connects acceptance evidence to a request for emergency relief. Both are party positions, not court findings.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF042",
+      "primary": "R02",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A partly completed procedural-work desk with some files at hearing/ruling milestones and other files earlier. No claim that all defendants won or obtained final awards.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF043",
+      "primary": "R03",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Uneven groups of anonymous case folders with different status tabs, never equal tally marks or an implied aggregate score. Separate interim and challenged labels.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF044",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Three incompatible measuring objects separated in one frame. No numbers, team scores or misleading comparison of wins.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF045",
+      "primary": "R05",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A rough, explicitly non-exact file estimate with prominent date and attribution. Not a current count or exact400-case grid.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF046",
+      "primary": "R03",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two authored evidence desks facing one central preliminary-relief question; objects correspond to contract, click and completed procedural work, without invented exhibits. Hold through SC099; do not expose the denial until SC100.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF047",
+      "primary": "R01",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An openly recreated editorial result card against court-order paper, not a forged original order. The denial and its preliminary limitation are always in the same frame. First show at SC100, never during SC099.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "May 27, 2026 preliminary-injunction denial. Not an antitrust verdict or final merits judgment."
+    },
+    {
+      "asset_id": "GF048",
+      "primary": "R05",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A clearly recreated editorial ruling excerpt without quotation marks or fake body text; focus on the replacement clause, not all Steam terms or all arbitration agreements.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "Preliminary likely unenforceability as applied to these defendants. Not a general final invalidation of all agreements."
+    },
+    {
+      "asset_id": "GF049",
+      "primary": "R02",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Older active case work lies beneath newly arriving contract paper; show imposed timing and affected group without depicting coercion as a final factual or legal verdict.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF050",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An asymmetric exchange table, one side offers no new benefit and the other would shed pending-case work. Label as court reasoning, not proof of subjective malicious intent.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF051",
+      "primary": "R03",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A long procedural timeline of participation beside the emergency request, with no invented precise start/end dates or count of hearings.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF052",
+      "primary": "R04",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Financial-work ledger concept remains distinct from the legal irreparable-injury threshold. No invented dollar amounts or statement that money can never support relief.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF053",
+      "primary": "R03",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A restrained dated bridge from May27 to July30,2026; no suggestion that the earlier decision was reversed.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF054",
+      "primary": "R01",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Clearly recreated certification/stay editorial card, not an original order. Stay attaches only to the district-case file; a possible-review route remains conditional.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "July 30, 2026 certification and stay of the district case; not reversal and not a universal stay of arbitrations."
+    },
+    {
+      "asset_id": "GF055",
+      "primary": "R06",
+      "secondary": "R02",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: One retained preliminary-view file beside a separate legal-question branch. Do not portray the judge changing his mind or admitting the earlier decision wrong.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF056",
+      "primary": "R04",
+      "secondary": "R06",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two separate doorways with different question labels, no yes/no appellate outcome or merged decision.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF057",
+      "primary": "R04",
+      "secondary": "R03",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A conditional two-gate route to a possible contract answer. A separate district-file pause is visible; no universal stop on arbitrations or guaranteed appellate decision.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    },
+    {
+      "asset_id": "GF058",
+      "primary": "R05",
+      "secondary": "R01",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A clearly recreated editorial docket-summary card based on the public mirror. No fabricated PACER screenshot, court seal, new filing rows or claimed official live verification.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "Public mirror record of Ninth Circuit 26-6269 through September 28, 2026 only; not a live official docket or an appellate merits result."
+    },
+    {
+      "asset_id": "GF059",
+      "primary": "R02",
+      "secondary": "R05",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: An open contract-question file at the edge of a dated record snapshot, not a live case-status dashboard. Do not imply the absence remains current at upload time.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": "Absence of an identified merits ruling is bounded to the reviewed mirror through September 28, 2026. Official Stage16 refresh remains open."
+    },
+    {
+      "asset_id": "GF060",
+      "primary": "R02",
+      "secondary": "R04",
+      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A cinematic charcoal/paper/red final frame. At1920x1080 leave a completely empty16:9 video slot x=240..912,y=248..626 (672x378), and empty square subscribe slot x=1244..1436,y=341..533 (192x192); no generated thumbnail, fake clickable button or logo inside either. Labels above slots; channel name centered below at y=700..780. Critical content stays above864. Generate in16:9 without later stretching. Verify native YouTube element alignment in Studio before acceptance; geometry is an explicit target, not a claim of platform validation.",
+      "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
+      "factual_context_override": ""
+    }
+  ],
+  "limitations": [
+    "Stage10 auditory and Stage11 final timing remain open; no media/release PASS.",
+    "Reference images are not evidence for Valve facts; source URLs and verified locked text are separate factual context, not image attachments.",
+    "Full-frame generated letters cannot move independently; compound handoffs and source-native highlights require real layers and are not promised.",
+    "Shorts vertical variants/CTA/thumbnails/retries are not part of the 60; no added jobs or paid tests.",
+    "Catalogue compatibility and live reference bytes are verified; no generation submission or backend output review performed."
+  ]
+}

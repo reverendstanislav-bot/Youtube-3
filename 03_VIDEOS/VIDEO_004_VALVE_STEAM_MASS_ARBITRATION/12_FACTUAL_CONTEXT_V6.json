@@ -1,0 +1,2232 @@
+[
+  {
+    "asset_id": "GF001",
+    "claim_ids": [
+      "C012"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "CLAIMANTS: ACCESS AT RISK",
+      "VALVE: LICENSES PRESERVED BY STOPPING ACCOUNT USE",
+      "A LICENSE IS NOT THE SAME AS ACCESS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF002",
+    "claim_ids": [
+      "C001",
+      "C015",
+      "C017"
+    ],
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S003",
+        "url": "https://store.steampowered.com/eula/2890140_eula_0",
+        "title": "Steam Subscriber Agreement - prior 2020 arbitration version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Footer dates this page2020-08-28; background clause only. The2023 OriginalSSA is authenticated/described inDkt169p2 citingDkt80-1; thisURL is not its archived copy. Covered-dispute and geographic exceptions apply."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "USERS SENT TO ARBITRATION",
+      "THEN NAMED AS DEFENDANTS",
+      "VALVE SOUGHT TO STOP THEIR PENDING CASES"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF003",
+    "claim_ids": [
+      "C010",
+      "C011",
+      "C012"
+    ],
+    "source_ids": [
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "ACCEPT",
+      "WHAT DOES A CLICK SETTLE?",
+      "VALVE'S POSITION: ACCEPTANCE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF004",
+    "claim_ids": [
+      "C003",
+      "C010",
+      "C016",
+      "C017"
+    ],
+    "source_ids": [
+      "S002",
+      "S004",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "GAME-PRICE ALLEGATIONS",
+      "NOT DECIDED BY THE EMERGENCY REQUEST"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF005",
+    "claim_ids": [
+      "C003",
+      "C009",
+      "C010",
+      "C011",
+      "C013",
+      "C015",
+      "C017",
+      "C018",
+      "C020"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S008",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S008",
+        "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6269",
+        "title": "Ninth Circuit docket 26-6269 - Valve Corp. v. Fish et al.",
+        "source_type": "OTHER",
+        "authority": "SECONDARY",
+        "scope_notes": "Public docket snapshot retrieved through 2026-09-28; confirms opening and initial filings but warns a newer PACER docket may exist. Exact briefing dates omitted from final narration; official refresh required at Stage 16."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE: NEW TERMS SHOULD CONTROL",
+      "USERS: PRESERVE THE EXISTING FORUM",
+      "OLD CASES STILL PENDING"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF006",
+    "claim_ids": [
+      "C001",
+      "C009",
+      "C010",
+      "C013"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S003",
+        "url": "https://store.steampowered.com/eula/2890140_eula_0",
+        "title": "Steam Subscriber Agreement - prior 2020 arbitration version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Footer dates this page2020-08-28; background clause only. The2023 OriginalSSA is authenticated/described inDkt169p2 citingDkt80-1; thisURL is not its archived copy. Covered-dispute and geographic exceptions apply."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "OLD TERMS: INTO ARBITRATION",
+      "NEW TERMS: VALVE'S ARGUMENT TO STOP IT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF007",
+    "claim_ids": [
+      "C002",
+      "C003"
+    ],
+    "source_ids": [
+      "S004",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "2021",
+      "A PUBLISHER + TWO STEAM USERS",
+      "ALLEGED INFLATED GAME PRICES"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF008",
+    "claim_ids": [
+      "C002",
+      "C023"
+    ],
+    "source_ids": [
+      "S004",
+      "S005",
+      "S007",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      },
+      {
+        "source_id": "S007",
+        "url": "https://www.courts.wa.gov/opinions/pdf/865854.pdf",
+        "title": "Valve Corp. v. Bucher Law PLLC opinion",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate law-firm litigation; context only and must not be merged with the injunction action."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "COVERED CONSUMER DISPUTES",
+      "INDIVIDUAL ARBITRATION",
+      "ARBITRATOR, NOT AN ORDINARY JUDGE OR JURY"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF009",
+    "claim_ids": [
+      "C002",
+      "C023"
+    ],
+    "source_ids": [
+      "S004",
+      "S005",
+      "S007",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      },
+      {
+        "source_id": "S007",
+        "url": "https://www.courts.wa.gov/opinions/pdf/865854.pdf",
+        "title": "Valve Corp. v. Bucher Law PLLC opinion",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate law-firm litigation; context only and must not be merged with the injunction action."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "CONSUMERS: ARBITRATION",
+      "PUBLISHER: SEPARATE COURT CASE",
+      "FORUM DECISION, NOT A PRICE VERDICT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF010",
+    "claim_ids": [
+      "C001"
+    ],
+    "source_ids": [
+      "S003",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S003",
+        "url": "https://store.steampowered.com/eula/2890140_eula_0",
+        "title": "Steam Subscriber Agreement - prior 2020 arbitration version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Footer dates this page2020-08-28; background clause only. The2023 OriginalSSA is authenticated/described inDkt169p2 citingDkt80-1; thisURL is not its archived copy. Covered-dispute and geographic exceptions apply."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "S003 is an older background agreement, not an archived 2023 agreement. S004 describes the original agreement and class/combination restrictions. Render only the locked editorial paraphrase, not a source quotation.",
+    "allowed_editorial_copy": [
+      "OLD TERMS",
+      "CLASS-ACTION WAIVER",
+      "NO COMBINING WITHOUT REQUIRED CONSENT"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF011",
+    "claim_ids": [
+      "C001",
+      "C004",
+      "C005",
+      "C022"
+    ],
+    "source_ids": [
+      "S003",
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S003",
+        "url": "https://store.steampowered.com/eula/2890140_eula_0",
+        "title": "Steam Subscriber Agreement - prior 2020 arbitration version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Footer dates this page2020-08-28; background clause only. The2023 OriginalSSA is authenticated/described inDkt169p2 citingDkt80-1; thisURL is not its archived copy. Covered-dispute and geographic exceptions apply."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "2012: INDIVIDUAL-ARBITRATION DESIGN",
+      "SEPARATE DEMANDS",
+      "INDIVIDUAL DID NOT MEAN ONLY ONE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF012",
+    "claim_ids": [
+      "C004",
+      "C005",
+      "C007",
+      "C022"
+    ],
+    "source_ids": [
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "997 INITIAL DEMANDS",
+      "4,991 CLAIMANTS RECORDED: MAY 2026",
+      "NOT WINS. NOT A CURRENT ACTIVE TOTAL."
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF013",
+    "claim_ids": [
+      "C004",
+      "C005",
+      "C006",
+      "C022"
+    ],
+    "source_ids": [
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "OCTOBER 2023: COORDINATED FILING",
+      "NOVEMBER + DECEMBER: MORE DEMANDS",
+      "ADMINISTERED BY AAA"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF014",
+    "claim_ids": [
+      "C004",
+      "C005",
+      "C006",
+      "C022"
+    ],
+    "source_ids": [
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "REPEATED FILE-BY-FILE WORK",
+      "RESPONSE / SCHEDULING / DECISIONS",
+      "NOT EVERY CASE REACHES A HEARING"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF015",
+    "claim_ids": [
+      "C005",
+      "C007"
+    ],
+    "source_ids": [
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "$20 MILLION?",
+      "UNVERIFIED",
+      "NO AUTHENTICATED SINGLE BILL IN REVIEWED RECORDS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF016",
+    "claim_ids": [
+      "C006",
+      "C007"
+    ],
+    "source_ids": [
+      "S004",
+      "S006"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S006",
+        "url": "https://www.adr.org/media/jixnnl1x/consumer_mass_arbitration_and_mediation_fee_schedule.pdf",
+        "title": "Consumer Mass Arbitration and Mediation Fee Schedule",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Fee mechanics only; does not prove a single global invoice or payment."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "FEES DEPEND ON STAGE",
+      "ARBITRATOR COMPENSATION SEPARATE",
+      "A FEE SCHEDULE IS NOT A PAYMENT RECORD"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF017",
+    "claim_ids": [
+      "C008",
+      "C009"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE'S STATED REASON",
+      "NOT THOUSANDS",
+      "FOUR CLAIMANTS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF018",
+    "claim_ids": [
+      "C008",
+      "C009"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "ARBITRATOR ALLOWED FOUR TOWARD COURT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF019",
+    "claim_ids": [
+      "C008",
+      "C009"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE SAID THIS PROMPTED REMOVAL",
+      "THE CLAUSE WAS CHALLENGED AS A WAY OUT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF020",
+    "claim_ids": [
+      "C008"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "MAY 2024: FOUR SEEK DISMISSAL",
+      "JULY 2024: THEIR ARBITRATOR AGREES",
+      "ARGUMENT: AGREEMENT UNENFORCEABLE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF021",
+    "claim_ids": [
+      "C008",
+      "C023"
+    ],
+    "source_ids": [
+      "S004",
+      "S005",
+      "S007",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      },
+      {
+        "source_id": "S007",
+        "url": "https://www.courts.wa.gov/opinions/pdf/865854.pdf",
+        "title": "Valve Corp. v. Bucher Law PLLC opinion",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate law-firm litigation; context only and must not be merged with the injunction action."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "FOUR CLAIMANTS: SEPARATE LITIGATION",
+      "NOT THE LATER 572 DEFENDANTS",
+      "NOT EVERY ARBITRATOR'S RULING"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF022",
+    "claim_ids": [
+      "C008",
+      "C009",
+      "C010"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE USED THE CONTRACT TO SEND USERS IN",
+      "FOUR CLAIMANTS ATTACKED IT TO GET OUT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF023",
+    "claim_ids": [
+      "C008",
+      "C009",
+      "C010"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE REMOVED THE CLAUSE",
+      "WHAT ABOUT CASES ALREADY INSIDE?"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF024",
+    "claim_ids": [
+      "C009",
+      "C010",
+      "C013",
+      "C018",
+      "C019",
+      "C024"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "ARBITRATION CLAUSE REMOVED",
+      "PENDING CASES NOT AUTOMATICALLY CLOSED"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF025",
+    "claim_ids": [
+      "C009"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "September 26, 2024 update; replacement court forum concerns disputes unresolved through support. Do not imply universal jurisdiction or reproduce Steam UI.",
+    "allowed_editorial_copy": [
+      "SEPTEMBER 26, 2024",
+      "ARBITRATION + CLASS WAIVER REMOVED",
+      "AFTER UNRESOLVED SUPPORT: KING COUNTY COURTS"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF026",
+    "claim_ids": [
+      "C009",
+      "C010",
+      "C017",
+      "C020"
+    ],
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S008"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S001",
+        "url": "https://store.steampowered.com/news/posts/?enddate=1727717089&feed=mygames",
+        "title": "Steam Subscriber Agreement update announcement",
+        "source_type": "COMPANY_STATEMENT",
+        "authority": "PRIMARY",
+        "scope_notes": "Valve states that mandatory individual arbitration and the class-action waiver were removed."
+      },
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S008",
+        "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6269",
+        "title": "Ninth Circuit docket 26-6269 - Valve Corp. v. Fish et al.",
+        "source_type": "OTHER",
+        "authority": "SECONDARY",
+        "scope_notes": "Public docket snapshot retrieved through 2026-09-28; confirms opening and initial filings but warns a newer PACER docket may exist. Exact briefing dates omitted from final narration; official refresh required at Stage 16."
+      }
+    ],
+    "bounded_interpretation": "Retroactive reach and supersession are agreement mechanisms; control of pending proceedings remains disputed. Do not show final enforceability as established.",
+    "allowed_editorial_copy": [
+      "NEW TERMS REACHED EARLIER CLAIMS",
+      "NEW AGREEMENT REPLACED OLD TERMS",
+      "PENDING CASES: CONTROL DISPUTED"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF027",
+    "claim_ids": [
+      "C011",
+      "C012"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "COURT-SUMMARIZED EVIDENCE",
+      "EMAIL / POP-UP / PURCHASES / WALLET",
+      "ACCEPTANCE REQUIREMENTS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF028",
+    "claim_ids": [
+      "C011",
+      "C012"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE'S ACCOUNT: 572 LATER DEFENDANTS",
+      "454 CLICKED ACCEPTANCE",
+      "118 LOGGED IN WITHOUT CLICKING"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF029",
+    "claim_ids": [
+      "C011",
+      "C012"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "DEFENDANTS CLAIMED >$3,000 AVERAGE LIBRARY VALUE",
+      "VALVE DISPUTED THE FIGURE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF030",
+    "claim_ids": [
+      "C010",
+      "C013",
+      "C018",
+      "C019",
+      "C024"
+    ],
+    "source_ids": [
+      "S002",
+      "S004",
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "EVIDENCE OF ACCEPTANCE",
+      "NOT THE END OF THE INQUIRY",
+      "CHOICE + ENFORCEABILITY"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF031",
+    "claim_ids": [
+      "C013"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE ASKED AAA TO CLOSE THE FILES",
+      "AAA REFUSED ADMINISTRATIVE CLOSURE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF032",
+    "claim_ids": [
+      "C013"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "ADMINISTRATION IS NOT A MERITS DECISION",
+      "CONTRACT QUESTION: COURTS OR ARBITRATORS",
+      "FILES REMAINED OPEN"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF033",
+    "claim_ids": [
+      "C013",
+      "C014"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "SEPTEMBER 27, 2024: VALVE REQUEST",
+      "OCTOBER 7, 2024: AAA RESPONSE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF034",
+    "claim_ids": [
+      "C013",
+      "C014",
+      "C015",
+      "C017"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "SOME APPLIED THE ORIGINAL AGREEMENT",
+      "VALVE SAID MANY PAUSED",
+      "DIFFERENT FILES, DIFFERENT DECISIONS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF035",
+    "claim_ids": [
+      "C014",
+      "C015",
+      "C017"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE REQUESTED A STOP ORDER",
+      "ACROSS THE DEFENDANTS' PENDING CASES",
+      "FEDERAL COURT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF036",
+    "claim_ids": [
+      "C015"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "The first petition was struck on procedural grounds. This is not adjudication of the contract merits.",
+    "allowed_editorial_copy": [
+      "FIRST PETITION STRUCK",
+      "PROCEDURAL ROUTE",
+      "NOT A CONTRACT MERITS RULING"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF037",
+    "claim_ids": [
+      "C015",
+      "C017"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "A separate civil complaint sought judicial relief against users. New contract wording did not itself supply the requested relief.",
+    "allowed_editorial_copy": [
+      "CIVIL COMPLAINT AGAINST USERS",
+      "JUDGE'S RELIEF STILL NEEDED"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF038",
+    "claim_ids": [
+      "C005",
+      "C015"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "OCTOBER 18, 2024: PETITION / 624 RESPONDENTS",
+      "AUGUST 21, 2025: COMPLAINT / 572 DEFENDANTS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF039",
+    "claim_ids": [
+      "C005",
+      "C015"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "4,991: MAY 2026 RECORDED WAVE",
+      "572: DEFENDANTS IN LATER COMPLAINT",
+      "NOT THE SAME COHORT OR STATUS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF040",
+    "claim_ids": [
+      "C003",
+      "C016",
+      "C017"
+    ],
+    "source_ids": [
+      "S004",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "STOP PENDING CASES NOW?",
+      "PRELIMINARY INJUNCTION",
+      "BEFORE FINAL JUDGMENT"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF041",
+    "claim_ids": [
+      "C003",
+      "C017"
+    ],
+    "source_ids": [
+      "S004",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE'S ARGUMENT",
+      "NEW TERMS ACCEPTED",
+      "IRREPARABLE HARM CLAIMED"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF042",
+    "claim_ids": [
+      "C003",
+      "C014",
+      "C017",
+      "C018"
+    ],
+    "source_ids": [
+      "S004",
+      "S009"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S009",
+        "url": "https://www.valvepublisherclassaction.com/",
+        "title": "Valve Publisher Antitrust Class Action - court-authorized case site",
+        "source_type": "OTHER",
+        "authority": "PRIMARY",
+        "scope_notes": "Separate publisher class action; used only to preserve case separation."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "DEFENDANTS OPPOSED INTERRUPTION",
+      "WORK ALREADY COMPLETED",
+      "SOME REACHED HEARINGS OR FAVORABLE RULINGS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF043",
+    "claim_ids": [
+      "C014"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "MIXED OUTCOMES",
+      "SOME FOR VALVE / SOME FOR CLAIMANTS",
+      "SOME INTERIM AWARDS CHALLENGED"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF044",
+    "claim_ids": [
+      "C014"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "PAUSE / ORIGINAL TERMS / AWARD",
+      "THREE DIFFERENT THINGS",
+      "NO HONEST COMBINED SCOREBOARD"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF045",
+    "claim_ids": [
+      "C016",
+      "C017"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE: ROUGHLY 400 ACTIVE MATTERS",
+      "MAY 2026 HEARING",
+      "EXACT COUNT DISPUTED"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF046",
+    "claim_ids": [
+      "C010",
+      "C017",
+      "C018"
+    ],
+    "source_ids": [
+      "S002",
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S002",
+        "url": "https://store.steampowered.com/subscriber_agreement/",
+        "title": "Steam Subscriber Agreement - current court forum version",
+        "source_type": "CONTRACT_EXHIBIT",
+        "authority": "PRIMARY",
+        "scope_notes": "Current forum language; refresh again at Stage 16."
+      },
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "VALVE: NEW AGREEMENT + CLICKS",
+      "DEFENDANTS: OLD AGREEMENT + CHOICE + COMPLETED WORK"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF047",
+    "claim_ids": [
+      "C017"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "May 27, 2026 preliminary-injunction denial. Not an antitrust verdict or final merits judgment.",
+    "allowed_editorial_copy": [
+      "MAY 27, 2026",
+      "REQUEST TO STOP PENDING ARBITRATIONS DENIED",
+      "PRELIMINARY / NOT AN ANTITRUST VERDICT"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF048",
+    "claim_ids": [
+      "C018"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preliminary likely unenforceability as applied to these defendants. Not a general final invalidation of all agreements.",
+    "allowed_editorial_copy": [
+      "REPLACEMENT CLAUSE LIKELY UNENFORCEABLE",
+      "AS APPLIED TO THESE DEFENDANTS",
+      "PRELIMINARY VIEW"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF049",
+    "claim_ids": [
+      "C018"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "DISPUTES ALREADY UNDERWAY",
+      "HOW THE NEW TERMS WERE IMPOSED",
+      "COURT'S PRELIMINARY AS-APPLIED VIEW"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF050",
+    "claim_ids": [
+      "C018"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "COURT'S REASONING",
+      "DEFENDANTS: NO NEW BENEFIT FOR LEAVING",
+      "VALVE: ESCAPE PENDING-PROCEEDING BURDEN"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF051",
+    "claim_ids": [
+      "C014",
+      "C017",
+      "C018"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "COURT'S EMERGENCY ANALYSIS",
+      "VALVE CHOSE ARBITRATION",
+      "PARTICIPATION FOR MORE THAN A YEAR"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF052",
+    "claim_ids": [
+      "C014",
+      "C017",
+      "C018"
+    ],
+    "source_ids": [
+      "S004"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "COURT'S REASONING: LARGELY FINANCIAL BURDEN",
+      "NOT AUTOMATICALLY IRREPARABLE INJURY"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF053",
+    "claim_ids": [
+      "C018",
+      "C019",
+      "C024"
+    ],
+    "source_ids": [
+      "S004",
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "64 DAYS LATER",
+      "ANOTHER ROUTE TO THE CONTRACT QUESTION"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF054",
+    "claim_ids": [
+      "C019"
+    ],
+    "source_ids": [
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "July 30, 2026 certification and stay of the district case; not reversal and not a universal stay of arbitrations.",
+    "allowed_editorial_copy": [
+      "JULY 30, 2026",
+      "POSSIBLE IMMEDIATE APPEAL CERTIFIED",
+      "DISTRICT CASE STAYED / NOT A REVERSAL"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF055",
+    "claim_ids": [
+      "C019"
+    ],
+    "source_ids": [
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "PRIOR PRELIMINARY VIEW RETAINED",
+      "CONTROLLING QUESTION",
+      "REASONABLE JUDGES COULD DISAGREE"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF056",
+    "claim_ids": [
+      "C017",
+      "C019"
+    ],
+    "source_ids": [
+      "S004",
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S004",
+        "url": "https://cases.justia.com/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/0.pdf",
+        "title": "Order Denying Motion for Preliminary Injunction - Dkt. 169",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Core procedural history and preliminary-injunction ruling; not a final antitrust merits judgment. Reread full primary order via HTML mirror https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/169/ ; p4 cohort/removal attribution; p9 Sep27request/Oct7response; p32 preliminary result. No new docket refresh."
+      },
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "STOP ARBITRATIONS IMMEDIATELY?",
+      "ALLOW POSSIBLE REVIEW BEFORE FINAL JUDGMENT?",
+      "DIFFERENT QUESTIONS"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF057",
+    "claim_ids": [
+      "C019"
+    ],
+    "source_ids": [
+      "S005"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S005",
+        "url": "https://law.justia.com/cases/federal/district-courts/washington/wawdce/2:2024cv01717/340613/192/",
+        "title": "Order Certifying Interlocutory Appeal and Staying Case - Dkt. 192",
+        "source_type": "COURT_ORDER",
+        "authority": "PRIMARY",
+        "scope_notes": "Certifies controlling contract question and stays the district case. p4 retains prior preliminary view while acknowledging reasonable disagreement; p6 certifies and stays pending decision whether to hear appeal. Not a reversal or guaranteed appellate merits result."
+      }
+    ],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "IF THE NINTH CIRCUIT ACCEPTS REVIEW",
+      "IF IT SIDES WITH VALVE",
+      "CONTRACT QUESTION COULD BE RESOLVED"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF058",
+    "claim_ids": [
+      "C020"
+    ],
+    "source_ids": [
+      "S008"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S008",
+        "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6269",
+        "title": "Ninth Circuit docket 26-6269 - Valve Corp. v. Fish et al.",
+        "source_type": "OTHER",
+        "authority": "SECONDARY",
+        "scope_notes": "Public docket snapshot retrieved through 2026-09-28; confirms opening and initial filings but warns a newer PACER docket may exist. Exact briefing dates omitted from final narration; official refresh required at Stage 16."
+      }
+    ],
+    "bounded_interpretation": "Public mirror record of Ninth Circuit 26-6269 through September 28, 2026 only; not a live official docket or an appellate merits result.",
+    "allowed_editorial_copy": [
+      "SEPTEMBER 25, 2026",
+      "NINTH CIRCUIT / 26-6269",
+      "VALVE CORPORATION v. FISH ET AL.",
+      "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026"
+    ],
+    "provenance_label": "RECREATION / NOT AN ORIGINAL DOCUMENT",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF059",
+    "claim_ids": [
+      "C020"
+    ],
+    "source_ids": [
+      "S008"
+    ],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [
+      {
+        "source_id": "S008",
+        "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6269",
+        "title": "Ninth Circuit docket 26-6269 - Valve Corp. v. Fish et al.",
+        "source_type": "OTHER",
+        "authority": "SECONDARY",
+        "scope_notes": "Public docket snapshot retrieved through 2026-09-28; confirms opening and initial filings but warns a newer PACER docket may exist. Exact briefing dates omitted from final narration; official refresh required at Stage 16."
+      }
+    ],
+    "bounded_interpretation": "Absence of an identified merits ruling is bounded to the reviewed mirror through September 28, 2026. Official Stage16 refresh remains open.",
+    "allowed_editorial_copy": [
+      "PUBLIC MIRROR SNAPSHOT THROUGH SEPTEMBER 28, 2026",
+      "NO MERITS RULING IDENTIFIED",
+      "WHICH AGREEMENT CONTROLS: UNRESOLVED IN THAT RECORD"
+    ],
+    "provenance_label": "ILLUSTRATION",
+    "original_document_claim": false
+  },
+  {
+    "asset_id": "GF060",
+    "claim_ids": [],
+    "source_ids": [],
+    "factual_context_mode": "TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH",
+    "sources": [],
+    "bounded_interpretation": "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.",
+    "allowed_editorial_copy": [
+      "WATCH NEXT",
+      "SUBSCRIBE",
+      "WHAT IT COST"
+    ],
+    "provenance_label": "",
+    "original_document_claim": false
+  }
+]

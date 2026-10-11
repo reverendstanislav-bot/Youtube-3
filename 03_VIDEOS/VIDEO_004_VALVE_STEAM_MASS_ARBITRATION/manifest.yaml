@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Requested whole-film V5 breakdown complete: planned13:48,5acts,14chapters,84placements/60unique V4 images. Stop at plan handoff; no jobs/render/stage advancement. Audio auditory QC and final timeline remain open; any image spend requires model/quote/explicit approval. Do not resume rejected175-state Fusion route."
+next_action: "V6 preparation independently reviewed PASS for60 prompts/reference bindings/montage adaptation; stop at handoff. Close audio/final-timing gates before execution. Requote actual requests and obtain explicit spend approval before imports/jobs. No rendering/stage advancement; audio/final timeline/media QC remain open. V4 inventory and V5 timing unchanged."
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "VISUAL_ASSETS_NOT_GENERATED", "IMAGE_GENERATION_SPEND_NOT_AUTHORIZED"]
 
 stages:
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "V4_60_IMAGES_V5_WHOLE_FILM_BREAKDOWN_COMPLETE_NOT_GENERATED"
+  stage_12_visual_source_generation_plan: "V6_60_PROMPT_REFERENCE_MONTAGE_PREPARATION_REVIEW_PASS_NOT_GENERATED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -112,7 +112,7 @@ qa:
   performance: "PASS_V11_90.4_OWNER_MIN90"
   voice_input: "PASS_INPUT_LOCK_V11"
   generated_audio: "TECHNICAL_PASS_ASR_RECHECK_NOT_AUDITORY_APPROVAL"
-  visual: "V4_V5_INDEPENDENT_PLAN_REVIEW_PASS_IMAGE_AND_EDIT_QC_NOT_RUN"
+  visual: "V6_INDEPENDENT_PREPARATION_REVIEW_PASS_IMAGE_AND_EDIT_QC_NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
@@ -134,9 +134,51 @@ generation_plan:
   new_paid_jobs_authorized: 0
   new_paid_jobs_submitted: 0
   provider_requested: "Higgsfield"
-  model: "NOT_SELECTED"
-  cost: "NOT_QUOTED"
+  model: "gpt_image_2_5"
+  cost: "V6_CONFIG_ONLY_4.25_CREDITS_PER_FIRST_ATTEMPT_REQUOTE_ACTUAL_REQUESTS"
+  historical_v4_model_cost: "NOT_SELECTED/NOT_QUOTED snapshot retained in immutable V4 inputs; superseded for request preparation only by V6"
   media_acceptance: "NOT_RUN"
+
+prompt_package:
+  current: "12_PROMPT_PACKAGE_V6.json"
+  prompts: "12_HIGGSFIELD_PROMPTS_V6.md"
+  requests: "12_HIGGSFIELD_REQUESTS_V6.jsonl"
+  reference_bindings: "12_REFERENCE_BINDINGS_V6.csv"
+  factual_context: "12_FACTUAL_CONTEXT_V6.json"
+  montage_adaptation: "12_MONTAGE_ADAPTATION_V6.json"
+  montage_summary: "12_MONTAGE_ADAPTATION_V6.md"
+  visual_style: "12_visual-style_V6.md"
+  builder: "12_BUILD_PROMPT_PACKAGE_V6.py"
+  validation: "12_PROMPT_VALIDATION_V6.json"
+  review: "12_PROMPT_REVIEW_V6.md"
+  status: "PREPARATION_REVIEW_PASS_NOT_GENERATED"
+  editing_canon: "00_FOUNDATION/EDITING_CANON.md"
+  editing_canon_sha256: "41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5"
+  editing_canon_rules_changed: false
+  unique_requests: 60
+  existing_style_reference_files: 6
+  style_only_references_per_request: 2
+  factual_context_story_frames: 59
+  recreated_document_frames: 9
+  provider: "Higgsfield"
+  model: "gpt_image_2_5"
+  variant: "flare"
+  quality: "high"
+  resolution: "4k"
+  background: "opaque"
+  aspect_ratio: "16:9"
+  count_per_request: 1
+  media_role: "image"
+  quoted_credits_per_first_attempt_config_only: 4.25
+  first_attempts_config_only: 60
+  quoted_credits_config_only_total: 255
+  actual_complete_request_requote_required: true
+  explicit_spend_approval_required: true
+  new_imports_authorized: 0
+  new_imports_submitted: 0
+  new_paid_jobs_authorized: 0
+  new_paid_jobs_submitted: 0
+  media_or_release_acceptance: "NOT_RUN"
 
 film_breakdown:
   current: "12_FILM_STRUCTURE_V5.json"

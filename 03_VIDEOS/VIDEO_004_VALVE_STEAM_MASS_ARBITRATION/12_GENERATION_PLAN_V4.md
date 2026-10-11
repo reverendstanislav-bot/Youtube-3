@@ -1,5 +1,7 @@
 # VIDEO004 — точный план уникальных генерируемых кадров V4
 
+Текущая подготовка запросов/референсов/монтажа: [12_HIGGSFIELD_PROMPTS_V6.md](12_HIGGSFIELD_PROMPTS_V6.md), `12_HIGGSFIELD_REQUESTS_V6.jsonl`, `12_REFERENCE_BINDINGS_V6.csv`, `12_FACTUAL_CONTEXT_V6.json`, `12_MONTAGE_ADAPTATION_V6.md` и `12_visual-style_V6.md`. V4 inventory/copy и V5 timing не менялись. Упоминания NOT_SELECTED/NOT_QUOTED ниже — исторический снимок до V6 live-checked профиляgpt_image_2_5/flare/high/4k/opaque/16:9/count1/twoimage media.4.25credits/first attempt,255for60 — только config quote, не цена полных запросов и не разрешение: требуются requote и явное согласование расходов. Independent V6 preparation review PASS (12_PROMPT_REVIEW_V6.md);0imports/jobs/spend, никаких media/edit/releasePASS.
+
 Полная разбивка картины по главам и монтажным появлениям теперь в [12_FILM_BREAKDOWN_V5.md](12_FILM_BREAKDOWN_V5.md). V4 остаётся единственным источником спецификаций60уникальных кадров; V5 разворачивает их использование на весь фильм, не добавляя генераций.
 
 2026-10-11. **60 уникальных полноэкранных изображений для основного V11: 59 сюжетных + 1 финальный экран.** Это точное количество выбранной режиссёрской разбивки, не математический минимум, не готовые файлы и не гарантированное число попыток генерации.
