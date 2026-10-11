@@ -9,7 +9,7 @@ created: "2026-10-05"
 last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Wave01 actual: GF001,GF002,GF004,GF005,GF006 completed, original PNGs SHA-verified in Git; GF003 rejected on daily grace-period quota before submission; GF007-GF060 not submitted; stop all further jobs and retries until quota clears and explicit next authorization. Full pixel/word QC HOLD. Stage10/11 locks remain open."
+next_action: "User explicitly directed generate ALL 60 before creative QC. Higgsfield batch GF007-GF012 rejected 0/6 on daily grace-period quota. 5 generated, 55 missing. Wait until provider limit resets, then resume unique missing frames without duplicate jobs. No per-wave visual QC; run full artistic QC only at 60/60. Audio/timing locks still open."
 blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "ONLY_5_OF_60_IMAGE_ASSETS_GENERATED", "GF003_DAILY_GRACE_PERIOD_LIMIT", "REAL_IMAGE_NATIVE_PIXEL_TEXT_QC_HOLD"]
 
 stages:
@@ -26,7 +26,7 @@ stages:
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
   stage_12_visual_source_generation_plan: "V6_60_GPT_IMAGE_2_1K_LOW_STRUCTURAL_QC_PASS_NO_GENERATION"
-  stage_13_visual_asset_qc: "WAVE01_5_COMPLETE_SOURCE_PNG_SHA_ARCHIVED_VISUAL_QC_HOLD"
+  stage_13_visual_asset_qc: "5_OF_60_GENERATED_55_QUOTA_BLOCKED_ALL_FRAMES_BEFORE_CREATIVE_QC"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -253,6 +253,9 @@ stage13_wave01_actual:
   archive_sha_receipt: '13_WAVE01_IMPORTED_SOURCE_PNGS.json'
   generation_ledger: '13_WAVE01_HIGGSFIELD_JOB_LEDGER.json'
   remaining_not_generated: 55
-  visual_qc_status: 'HOLD_EXACT_TEXT_AND_LEGAL_FACT_QC'
+  visual_qc_status: 'DEFERRED_UNTIL_ALL_60_GENERATED_PER_OWNER'
+  next_batch_observed_status: 'GF007_GF012_SUBMISSION_FAILED_QUOTA_LIMIT_0_NEW_JOBS_0_CREDITS'
+  next_batch_ledger: '13_BATCH02_HIGGSFIELD_QUOTA_BLOCK.json'
+  provider_limit: 'HIGGSFIELD_DAILY_GRACE_PERIOD_LIMIT'
   audio_stage10_lock: false
   timing_stage11_lock: false
