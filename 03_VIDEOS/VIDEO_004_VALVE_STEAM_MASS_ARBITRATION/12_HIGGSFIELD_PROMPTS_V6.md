@@ -51,7 +51,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -107,7 +107,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -163,7 +163,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -218,7 +218,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -274,7 +274,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -329,7 +329,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -385,7 +385,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -441,7 +441,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -497,7 +497,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -553,7 +553,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): S003 is an older background agreement, not an archived 2023 agreement. S004 describes the original agreement and class/combination restrictions. Render only the locked editorial paraphrase, not a source quotation.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -611,7 +611,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -667,7 +667,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -723,7 +723,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -779,7 +779,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -835,7 +835,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -891,7 +891,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -947,7 +947,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1001,7 +1001,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1056,7 +1056,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1112,7 +1112,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1168,7 +1168,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1223,7 +1223,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1278,7 +1278,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1333,7 +1333,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1389,7 +1389,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): September 26, 2024 update; replacement court forum concerns disputes unresolved through support. Do not imply universal jurisdiction or reproduce Steam UI.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1447,7 +1447,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Retroactive reach and supersession are agreement mechanisms; control of pending proceedings remains disputed. Do not show final enforceability as established.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1505,7 +1505,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1561,7 +1561,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1616,7 +1616,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1672,7 +1672,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1727,7 +1727,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1783,7 +1783,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1838,7 +1838,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1894,7 +1894,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1950,7 +1950,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2006,7 +2006,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): The first petition was struck on procedural grounds. This is not adjudication of the contract merits.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2063,7 +2063,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): A separate civil complaint sought judicial relief against users. New contract wording did not itself supply the requested relief.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2120,7 +2120,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2176,7 +2176,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2232,7 +2232,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2288,7 +2288,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2344,7 +2344,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2400,7 +2400,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2456,7 +2456,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2512,7 +2512,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2567,7 +2567,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2623,7 +2623,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): May 27, 2026 preliminary-injunction denial. Not an antitrust verdict or final merits judgment.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2681,7 +2681,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preliminary likely unenforceability as applied to these defendants. Not a general final invalidation of all agreements.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2739,7 +2739,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2795,7 +2795,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2851,7 +2851,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2906,7 +2906,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2961,7 +2961,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3017,7 +3017,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): July 30, 2026 certification and stay of the district case; not reversal and not a universal stay of arbitrations.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3075,7 +3075,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3131,7 +3131,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3187,7 +3187,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3244,7 +3244,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Public mirror record of Ninth Circuit 26-6269 through September 28, 2026 only; not a live official docket or an appellate merits result.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3302,7 +3302,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Absence of an identified merits ruling is bounded to the reviewed mirror through September 28, 2026. Official Stage16 refresh remains open.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3357,7 +3357,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3373,7 +3373,7 @@ Locked legal requirement: Maintain party attribution, dates, cohort boundaries, 
 
 GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
-Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; DO NOT request 3840x2160 or claim exact pixel-safe geometry. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.
+Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim an exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
