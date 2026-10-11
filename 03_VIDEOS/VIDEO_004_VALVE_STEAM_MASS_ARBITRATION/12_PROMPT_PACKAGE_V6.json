@@ -450,39 +450,39 @@
       "asset_id": "GF031",
       "primary": "R04",
       "secondary": "R03",
-      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A closure-request arrow stops at an administrator's intake desk while case drawers remain open. Avoid a fabricated AAA letter or a legal-merits verdict stamp.",
+      "purpose": "Frame-specific repaired visual: A physical stack of individual case folders, visibly OPEN in cabinet drawers. A single request-to-close routing arrow reaches a plain administrative intake barrier and STOPS. The drawers do not close. The AAA response is an administrative refusal, not a judge's legal ruling.",
       "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
       "factual_context_override": ""
     },
     {
       "asset_id": "GF032",
-      "primary": "R06",
-      "secondary": "R04",
-      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Administrator desk separated from court/arbitrator decision desks. Open files remain at the center; no suggestion that AAA decided Valve legally wrong.",
+      "primary": "R04",
+      "secondary": "R06",
+      "purpose": "Frame-specific repaired visual: A precise three-zone institutional distinction around a central OPEN stack of case folders: an administrative paper tray at left, an abstract neutral court decision chamber behind the stack, a separate arbitrator decision surface at right. A physical gap prevents the administrator tray from becoming a judicial verdict. Nothing indicates which institution ultimately wins or decides.",
       "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
       "factual_context_override": ""
     },
     {
       "asset_id": "GF033",
-      "primary": "R03",
-      "secondary": "R01",
-      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Two dated administrative event cards, visibly editorial rather than a recreated authentic letter. No invented addressee, letterhead or response quotation.",
+      "primary": "R01",
+      "secondary": "R03",
+      "purpose": "Frame-specific repaired visual: ONE continuous cinematic date-to-date chronology for the Valve and AAA administrative exchange in 2024. Exactly two anonymous editorial chronology tablets, neither represented as an actual letter, laid out in sequence with a restrained hairline timeline between them. Two separate dated events; no same-day implication.",
       "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
       "factual_context_override": ""
     },
     {
       "asset_id": "GF034",
       "primary": "R02",
-      "secondary": "R06",
-      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: A varied file-room composition with distinct old-agreement and paused branches; a participating-under-objection tag on Valve's side. Do not imply universal pause or equal exact proportions.",
+      "secondary": "R04",
+      "purpose": "Frame-specific repaired visual: One oblique, realistically constructed archive room revealing visibly DIFFERENT treatments of INDIVIDUAL case files. One branch of cabinet shelves has several old-agreement folders; another separate branch has temporarily halted case folders. Neither branch visually implies a numeric share. A small neutral physical Valve-attribution tag belongs ONLY to the paused branch, with no additional legible wording.",
       "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
       "factual_context_override": ""
     },
     {
       "asset_id": "GF035",
       "primary": "R06",
-      "secondary": "R02",
-      "purpose": "Match channel typography, tactile material, lighting and visual hierarchy; author a new composition for: Many separate case routes converge on a federal-court application, not a single collective arbitration. Closure is visibly requested, never granted here.",
+      "secondary": "R04",
+      "purpose": "Frame-specific repaired visual: Multiple SEPARATE unresolved individual case pathways converge toward a single federal court application folder. Every route remains a distinct file up to the application. The court request is visibly PENDING; there is no order already granted, no global closure, and no suggestion of collective arbitration.",
       "reference_content_policy": "STYLE_ONLY_NEVER_COPY_TEXT_LOGOS_PEOPLE_SOURCE_FACTS_LAYOUT_OR_SAFE_MARGINS",
       "factual_context_override": ""
     },
