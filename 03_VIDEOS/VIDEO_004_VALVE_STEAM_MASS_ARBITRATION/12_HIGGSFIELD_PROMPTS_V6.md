@@ -2,13 +2,13 @@
 
 Prepared text/reference packet only. No job is authorized or submitted. V4 owns the exact 60-slot inventory; V5 owns 84 placements; V6 prepares their requests.
 
-Model: GPT Image 2.5 / flare / high / 4k / opaque / 16:9 / count1. Catalogue checked live 2026-10-11. Canonical tool role image maps to catalog image_references.
+Model: Higgsfield GPT Image 2 / 1k / low / 16:9 / count1; two STYLE_ONLY image-role inputs per request. Catalogue checked 2026-10-11; backend two-reference ingestion and generation output NOT TESTED.
 
 Each image has two STYLE_ONLY inputs. Actual bytes and pinned URLs were verified; reference content is not Valve evidence. Factual URLs below are context records, not attached image pixels.
 
 Readiness: PROMPTS_AND_LOCAL_REFERENCE_BINDINGS_PREPARED; AUDIO_FINAL_LOCK_AND_SPEND_APPROVAL_REQUIRED. Backend imports, accepted pixels, vertical adaptation and render QC are NOT_PERFORMED.
 
-Configuration-only price: 4.25 credits/image; 255 for one attempt at each of 60 slots. Not an invoice or authorization; re-quote actual requests before spend. No retries/Shorts CTA/thumbnails are included.
+Live no-media estimate: 0.5 exact credit/image; 60 first attempts = 30.0 credits base. Full two-reference request price and image fidelity not validated. NOT AN AUTHORIZATION. No imports, jobs, retries, Shorts CTA or thumbnails.
 
 The JSONL contains structured generate_image arguments for later authorized execution; it is not an executor. This script has no job submission path.
 
@@ -51,7 +51,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -64,6 +64,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -105,7 +107,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -118,6 +120,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -159,7 +163,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -172,6 +176,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -212,7 +218,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -225,6 +231,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -266,7 +274,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -279,6 +287,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -319,7 +329,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -332,6 +342,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -373,7 +385,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -386,6 +398,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -427,7 +441,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -440,6 +454,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -481,7 +497,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -494,6 +510,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -535,7 +553,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): S003 is an older background agreement, not an archived 2023 agreement. S004 describes the original agreement and class/combination restrictions. Render only the locked editorial paraphrase, not a source quotation.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -548,6 +566,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -591,7 +611,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -604,6 +624,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -645,7 +667,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -658,6 +680,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -699,7 +723,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -712,6 +736,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -753,7 +779,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -766,6 +792,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -807,7 +835,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -820,6 +848,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -861,7 +891,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -874,6 +904,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -915,7 +947,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -928,6 +960,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -967,7 +1001,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -980,6 +1014,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1020,7 +1056,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1033,6 +1069,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1074,7 +1112,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1087,6 +1125,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1128,7 +1168,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1141,6 +1181,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1181,7 +1223,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1194,6 +1236,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1234,7 +1278,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1247,6 +1291,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1287,7 +1333,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1300,6 +1346,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1341,7 +1389,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): September 26, 2024 update; replacement court forum concerns disputes unresolved through support. Do not imply universal jurisdiction or reproduce Steam UI.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1354,6 +1402,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -1397,7 +1447,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Retroactive reach and supersession are agreement mechanisms; control of pending proceedings remains disputed. Do not show final enforceability as established.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1410,6 +1460,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -1453,7 +1505,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1466,6 +1518,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1507,7 +1561,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1520,6 +1574,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1560,7 +1616,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1573,6 +1629,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1614,7 +1672,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1627,6 +1685,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1667,7 +1727,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1680,6 +1740,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1721,7 +1783,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1734,6 +1796,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1774,7 +1838,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1787,6 +1851,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1828,7 +1894,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1841,6 +1907,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1882,7 +1950,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1895,6 +1963,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -1936,7 +2006,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): The first petition was struck on procedural grounds. This is not adjudication of the contract merits.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -1949,6 +2019,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -1991,7 +2063,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): A separate civil complaint sought judicial relief against users. New contract wording did not itself supply the requested relief.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2004,6 +2076,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -2046,7 +2120,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2059,6 +2133,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2100,7 +2176,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2113,6 +2189,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2154,7 +2232,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2167,6 +2245,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2208,7 +2288,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2221,6 +2301,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2262,7 +2344,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2275,6 +2357,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2316,7 +2400,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2329,6 +2413,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2370,7 +2456,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2383,6 +2469,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2424,7 +2512,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2437,6 +2525,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2477,7 +2567,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2490,6 +2580,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2531,7 +2623,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): May 27, 2026 preliminary-injunction denial. Not an antitrust verdict or final merits judgment.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2544,6 +2636,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -2587,7 +2681,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preliminary likely unenforceability as applied to these defendants. Not a general final invalidation of all agreements.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2600,6 +2694,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -2643,7 +2739,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2656,6 +2752,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2697,7 +2795,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2710,6 +2808,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2751,7 +2851,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2764,6 +2864,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2804,7 +2906,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2817,6 +2919,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2857,7 +2961,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2870,6 +2974,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -2911,7 +3017,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): July 30, 2026 certification and stay of the district case; not reversal and not a universal stay of arbitrations.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2924,6 +3030,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -2967,7 +3075,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -2980,6 +3088,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -3021,7 +3131,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3034,6 +3144,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -3075,7 +3187,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3088,6 +3200,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -3130,7 +3244,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Public mirror record of Ninth Circuit 26-6269 through September 28, 2026 only; not a live official docket or an appellate merits result.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3143,6 +3257,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.
 
@@ -3186,7 +3302,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Absence of an identified merits ruling is bounded to the reviewed mirror through September 28, 2026. Official Stage16 refresh remains open.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3199,6 +3315,8 @@ Locked safe_area requirement: At 1920x1080 keep all essential narrative text and
 Locked editing requirement: Reuse means the identical generated image, not a newly generated variation. A stable hold or slow single-axis detail move may expose an already present detail. No shake, alternating crop jumps, text swaps, invented highlights or mandatory motion. Timing/cuts remain provisional; no audio edits.
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
+
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```
@@ -3239,7 +3357,7 @@ Text hierarchy: every attribution, date, conditional and limitation remains read
 
 Factual boundary (context only, not additional on-image text): Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference.
 
-Locked format requirement: One complete generated 16:9 frame per asset. Target 3840x2160; delivery 1920x1080. Model capability must be checked before quoting. No editor-native replacement graphics or post-added text.
+Locked format requirement: One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not request 4K, fake 1080p/4K native resolution, or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible.
 
 Locked identity requirement: WHAT IT COST: cinematic charcoal/black, warm paper, restrained red accent, rare gold. Varied evidence-desk, spatial, architectural and diagram compositions; not a repeating title-card template. English display lettering with Bebas Neue-like condensed headline and Inter-like supporting type.
 
@@ -3253,7 +3371,9 @@ Locked editing requirement: Reuse means the identical generated image, not a new
 
 Locked legal requirement: Maintain party attribution, dates, cohort boundaries, preliminary/as-applied findings and conditional appeal posture. $20M unverified; >$3000 claimed/disputed; 118 not explicit rejection; 4991 not wins or current active cases; district stay not universal arbitration stay. Stage16 official freshness remains required.
 
-Endscreen exception: no ILLUSTRATION label or extra copy. Apply the specified 1080p-equivalent slot coordinates at exactly double scale for 3840x2160. Both native-overlay areas are empty; do not inherit any subjects, frames, logos or type layout from the style images.
+GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.
+
+Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; DO NOT request 3840x2160 or claim exact pixel-safe geometry. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.
 
 Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.
 ```

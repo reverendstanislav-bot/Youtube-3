@@ -1,5 +1,15 @@
 {
-  "status": "STRUCTURAL_PROMPT_REFERENCE_MONTAGE_PASS_NOT_GENERATION_OR_MEDIA_QC",
+  "status": "STRUCTURAL_PROFILE_60_PROMPTS_120_STYLE_REFERENCES_PASS__PIXEL_OUTPUT_HOLD",
+  "generation_profile": "gpt_image_2/1k/low/16:9",
+  "quote_credits_exact_single": 0.5,
+  "base_budget_credits": 30.0,
+  "two_references_each_structurally_validated": true,
+  "backend_two_references_import_tested": false,
+  "density_priority_qc_assets": [
+    "GF001",
+    "GF058",
+    "GF059"
+  ],
   "unique_longform_prompts": 60,
   "unique_existing_style_files": 6,
   "style_bindings": 60,
@@ -21,7 +31,7 @@
   "stage_advanced": false,
   "input_sha256_scheme": "UTF8_LF_NORMALIZED",
   "input_sha256": {
-    "12_PROMPT_PACKAGE_V6.json": "4db167721a2494f0a2830ebb01fd3a2d6134a11f9fb8143b9ce5cd33cef595dc",
+    "12_PROMPT_PACKAGE_V6.json": "4d2de82437ae76b02a1db94d715f6ea296e69dc9caa4ce177318414fdc38db41",
     "12_MONTAGE_ADAPTATION_V6.json": "9fae856486448618b63079857149d5735d0e90fd327eac8668a8511fc0233d2e",
     "12_visual-style_V6.md": "faa0f7597ade98b1430a1f9d87a3587c59f09a982606132672532ca439377b67",
     "12_GENERATION_PLAN_V4.json": "99a7138f0a2e4a3e1249425dfbf6f276645110c6237f2318bd33fd4b5e2fba7a",
@@ -30,8 +40,8 @@
   },
   "editing_canon_sha256": "41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5",
   "output_sha256": {
-    "12_HIGGSFIELD_REQUESTS_V6.jsonl": "1743759ada652f0c54e6a8eb76a06b8bee302627cc995725e912f96e1afadf10",
-    "12_HIGGSFIELD_PROMPTS_V6.md": "31a3f6a87d54a5ae8c8b6d1aa66460b2eba7c127a1aa5133642ab6261e631710",
+    "12_HIGGSFIELD_REQUESTS_V6.jsonl": "1dfafdc27833f3fddef9c980d024e8d7792406a3ae6141d2a2f0e928f556c1d3",
+    "12_HIGGSFIELD_PROMPTS_V6.md": "abe8697fb67a2ff753baadde7e7b3cdf2088999fb06334895df467d6c868be54",
     "12_REFERENCE_BINDINGS_V6.csv": "28115e15ffc92600c9f01a46bd9bedf6ce7e65c1f64b48a2abe6e6b5cafdcf9e",
     "12_FACTUAL_CONTEXT_V6.json": "7918b4af8c19208f1782e2abb581d46c6b19b17f935f7b386766158e3a6a6f70"
   },
