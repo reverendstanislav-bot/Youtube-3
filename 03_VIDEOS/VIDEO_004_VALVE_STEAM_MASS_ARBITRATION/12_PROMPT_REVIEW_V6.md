@@ -1,4 +1,10 @@
-# VIDEO004 — V6 prompt / reference / montage preparation review
+# VIDEO004 — V6 prompt/reference QC (active cheap-profile correction)
+
+**CURRENT RESULT (2026-10-11): GPT Image 2 / 1k / low / 16:9.** Read-only Higgsfield catalogue + cost check confirm correct model/roles and **0.5 exact credit/image**, 60 first attempts **30.0 credits base** (not an end-to-end two-reference request quote). Regenerated 60 JSONL requests and 60 human prompts have exactly two distinct STYLE_ONLY image references, 0 submissions; structural PASS in `12_GPT2_1K_LOW_COMPATIBILITY_QC.json`. No media import or generation; two-reference backend ingestion, visual text legibility and output fidelity are NOT VERIFIED. Native-1K dense-copy QC priorities: GF001, GF058, GF059. Stage10 audio and Stage11 timing still OPEN. The independent review reproduced below applies to the *previous V6 configuration*; its expensive model/price observations are historical only, NOT active execution instructions.
+
+---
+
+# Archived V6 preparation review — historical model/quote
 
 Date: 2026-10-11. Verdict: **PASS_PREPARATION_NOT_GENERATION_OR_MEDIA_QC**.
 
