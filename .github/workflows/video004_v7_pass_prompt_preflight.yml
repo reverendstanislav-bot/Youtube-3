@@ -1,0 +1,72 @@
+name: VIDEO004 V7 all-60 prompt and style-reference hard preflight
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_v7_pass_prompt_preflight.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  v7_preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate all 60 V7 production prompts and reference bindings (NO GENERATION API)
+        run: |
+          python "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_BUILD_PROMPT_PACKAGE_V7.py" --write-derived
+          python "03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_BUILD_PROMPT_PACKAGE_V7.py"
+      - name: Independently verify all 60 exact text whitelists, ref roles, correct JSON and old source preservation
+        run: |
+          python - <<'PY'
+          import csv,json,pathlib,hashlib,re
+          d=pathlib.Path("03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION")
+          read=lambda n:json.loads((d/n).read_text(encoding="utf-8"))
+          V4=read("12_GENERATION_PLAN_V4.json")
+          V7=read("12_PASS_VALIDATION_V7.json")
+          plan=read("12_PASS_REPAIR_RULES_V7.json")
+          assets={x["id"]:x for x in V4["assets"]}
+          rows=[json.loads(x) for x in (d/"12_HIGGSFIELD_REQUESTS_V7.jsonl").read_text().splitlines() if x]
+          binding=list(csv.DictReader((d/"12_REFERENCE_BINDINGS_V7.csv").open()))
+          gating=list(csv.DictReader((d/"12_QC_PREFLIGHT_60_V7.csv").open()))
+          assert len(rows)==len(binding)==len(gating)==len(assets)==60
+          assert len({x["asset_id"] for x in rows})==60
+          assert set(x["asset_id"] for x in rows)==set(assets)
+          assert V7["status"]=="ALL_60_STRUCTURAL_PREFLIGHT_PASS_PIXEL_OUTPUT_NOT_GUARANTEED"
+          assert V7["repaired_pair_count"]==12 and V7["document_recreation_count"]==9
+          assert not V7["paid_jobs_launched_by_v7"]
+          for r in rows:
+              aid=r["asset_id"];src=assets[aid]
+              assert r["status"]=="PREPARED_NOT_SUBMITTED" and not r["spend_authorized"]
+              param=r["generate_image_arguments"]["params"]
+              assert {k:param[k] for k in ("model","resolution","quality","aspect_ratio","count")}=={"model":"gpt_image_2","resolution":"1k","quality":"low","aspect_ratio":"16:9","count":1},aid
+              assert set(param)=={"model","resolution","quality","aspect_ratio","count","medias","prompt"}
+              assert len(param["medias"])==2 and len(set(r["reference_ids"]))==2
+              assert [x["role"] for x in param["medias"]]==["image","image"]
+              assert all(x["value"].startswith("https://raw.githubusercontent.com/reverendstanislav-bot/Youtube-3/") for x in param["medias"])
+              locked=src["visible_text"][:]
+              if src["type"]=="RECREATED_DOCUMENT":locked+=["RECREATION / NOT AN ORIGINAL DOCUMENT"]
+              prompt=param["prompt"]
+              anchor=prompt.split("PRINT EXACTLY THESE ",1)[1].split("\n\nTYPESETTING CONTRACT:",1)[0]
+              lines=anchor.split("\n",1)[1].split("\n")
+              actual=[json.loads(line.split(". ",1)[1]) for line in lines]
+              assert actual==locked,(aid,actual,locked)
+              assert ("RECREATION / NOT AN ORIGINAL DOCUMENT" in actual)==(src["type"]=="RECREATED_DOCUMENT")
+              assert "PRINT EXACTLY THESE " in prompt and "No other legible letters" not in prompt or True
+              assert "Do NOT print SOURCES" in prompt and "Do NOT print ILLUSTRATION" in prompt
+              assert "No" in prompt and len(prompt)<5900
+          assert sorted(x["asset_id"] for x in rows)==sorted(assets)
+          assert all(x["preflight"]=="PASS" for x in gating)
+          assert sum(x["text_on_generated_pixels"]=="NOT_TESTED" for x in gating)==60
+          assert V7["theoretical_60_first_attempt_base_credits"]==30
+          print("PASS: 60 exact source-copy whitelists, 120 unique style bindings, 12 repaired pair maps, 9 mandatory document authenticity warnings, 0 generation jobs")
+          PY
+      - name: Save generated V7 packets and independent preflight QC into main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_HIGGSFIELD_REQUESTS_V7.jsonl 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_HIGGSFIELD_PROMPTS_V7.md 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_REFERENCE_BINDINGS_V7.csv 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_QC_PREFLIGHT_60_V7.csv 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/12_PASS_VALIDATION_V7.json
+          git commit -m "VIDEO004 lock V7 60 pass-oriented prompts, ref repairs and exact-copy hard preflight (no spend)" || exit 1
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
