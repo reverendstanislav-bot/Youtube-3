@@ -1,15 +1,16 @@
+
 # VIDEO004 — STATE
 
 Status: IN_PREPARATION
 Current stage: **10_AUDIO_MASTER — TECHNICAL_PASS; AUDITORY_QC_PENDING**
-Updated:2026-10-11. Current owner task: complete the same60 prompts, reference bindings and montage-canon adaptation; preparation only, no paid jobs.
+Updated:2026-10-11. Active V6 production profile corrected to `gpt_image_2` / 1k / low / 16:9; 60/60 requests + 120/120 distinct style-only bindings pass structural QC; 0 jobs, 0 spend.
 
-## Current authoritative handoff — V6 prompts/references/montage over unchanged V4/V5
+## Current authoritative handoff — GPT Image 2 / 1k / low V6 requests over unchanged V4/V5
 
 - Current request preparation: `12_PROMPT_PACKAGE_V6.json` → `12_HIGGSFIELD_PROMPTS_V6.md`, `12_HIGGSFIELD_REQUESTS_V6.jsonl`, `12_REFERENCE_BINDINGS_V6.csv` and `12_FACTUAL_CONTEXT_V6.json`. Independent preparation review PASS in `12_PROMPT_REVIEW_V6.md`; this is not image or edit approval.
 - Six existing owner-approved V2 style JPGs were visually inspected and their local/HTTPS bytes checked. Each of60 requests binds two STYLE_ONLY image references; factual context for59 story frames is separate. The nine documentary compositions remain labelled recreations, not original evidence. GF060 is an endscreen, not a factual-document frame.
 - The actual owner-locked `00_FOUNDATION/EDITING_CANON.md` is restored unchanged (SHA256 `41d975bea0640fc606c12f3bfe46de3689735df6358d6cbd04e2e7524404a1e5`). `12_MONTAGE_ADAPTATION_V6.json`/`.md` and `12_visual-style_V6.md` adapt the existing84 placements without altering V4 display copy, V5 timing or narration. Actual pixel geometry, motion and hearing acceptance remain open.
-- Live-checked request profile: Higgsfield `gpt_image_2_5`, flare/high/4k/opaque/16:9/count1, two media items with role=image. Config-only quote4.25 credits per first attempt,60×4.25=255 credits; NOT an approved budget or quote of the actual complete requests. Requote those requests and obtain explicit spend authorization before any import/job. New imports/jobs/spend authorized or submitted by this preparation:0.
+- CURRENT LOW-COST PROFILE: Higgsfield `gpt_image_2` / 1k / low / 16:9 / count1, two distinct media references with role=image. Live config-only exact quote = 0.5 credits/image, 60 first attempts=30.0 credits base, not including retries. Both ref URLs structurally verified (older reference-byte checks), backend two-reference import not tested. Explicit spend approval required before ANY media import or generation. 0 imports/jobs/credits spent by profile correction.
 - V4/V5 model NOT_SELECTED/cost NOT_QUOTED statements are preserved historical planning snapshots, superseded only for request preparation by the V6 profile. They do not authorize execution. V4 remains the60-slot/copy source; V5 remains the whole-film timing map.
 
 - **Planned film13:48 =13:28 existing narration +20s without narration.** Local ffprobe reconfirmed actual WAV808.000s, pcm_s24le/48kHz/stereo/24bit on2026-10-11. Not a rendered film verification.
@@ -74,3 +75,10 @@ Resolve21.0.3.7 IS installed and running here; earlier container-only availabili
 ## Real Resolve canary after owner enabled bridge -2026-10-10
 
 Bridge connected; original project saved;8actualFusion imports and30.6s1080p25fps765-frame preview rendered. MissingBebasBold defect corrected with explicitRegular in16nodes and generator. Runtime/technical render PASS; contact-sheet visual FAIL:generic empty/repeated panels, source IDs without substantive evidence. True full-speed motion/audio approval not performed. Full175 HOLD; all audio/visual/release locks remain false. See12_CANARY8_ACTUAL_RESULT_20261010.md and12_CANARY_QC receipts.
+
+## 2026-10-11 ACTIVE GENERATION PROFILE CORRECTION
+- Authoritative preset: **GPT Image 2 (`gpt_image_2`) / 1k / low / 16:9 / count1**. Config-only live rate **0.5 exact credits/first image**, so **60 first attempts = 30.0 credits** excluding retries. The previous expensive V6 quote is superseded.
+- **60/60** JSONL job specs structural PASS; every request has two distinct STYLE_ONLY images with role=`image`; no unsupported `variant` or `background` parameters. Requests NOT SUBMITTED.
+- Backend two-reference import/acceptance and actual 1k rendered text fidelity NOT TESTED; reference URLs stay unimported. Mandatory full-request fresh quote and explicit owner credit approval before ANY import/job.
+- Three dense-copy 1k visual-QC priorities: **GF001, GF058, GF059**. No copy shortened; never mark output readability PASS before generated pixels exist.
+- Source of truth: `12_GPT2_1K_LOW_COMPATIBILITY_QC.json` and derived `12_PROMPT_VALIDATION_V6.json`; historical V4/V5 locks unchanged. Stage10 auditory and Stage11 final timing remain pending; 4 Shorts only.
