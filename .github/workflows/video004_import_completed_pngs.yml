@@ -1,0 +1,61 @@
+name: VIDEO004 import completed wave01 source PNGs
+on:
+  push:
+    paths:
+      - '.github/workflows/video004_import_completed_pngs.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download five already completed source images; NEVER generate media
+        run: |
+          python3 - <<'PY'
+          import hashlib,json,pathlib,struct,urllib.request
+          d=pathlib.Path('03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION')
+          source=json.loads((d/'13_WAVE01_HIGGSFIELD_JOB_LEDGER.json').read_text(encoding='utf-8'))
+          expected={
+            'GF001':'07116bbc73d5629c',
+            'GF002':'c3af85515976668b',
+            'GF004':'988488f773635886',
+            'GF005':'95894f9b6e17f819',
+            'GF006':'8fae574de2b7e2e9',
+          }
+          received=[]
+          for f in source['frames']:
+            if f['status']!='completed': continue
+            asset=f['asset_id']
+            assert asset in expected,asset
+            url=f['result_url']
+            assert url.startswith('https://d8j0ntlcm91z4.cloudfront.net/user_'), 'Unexpected image origin'
+            request=urllib.request.Request(url,headers={'User-Agent':'Youtube3-verified-asset-archiver/1.0'})
+            with urllib.request.urlopen(request,timeout=40) as response:
+              data=response.read(12_000_001)
+            assert 100_000<len(data)<12_000_000,(asset,len(data))
+            assert data[:8]==b'\x89PNG\r\n\x1a\n',asset
+            w,h=struct.unpack('>II',data[16:24])
+            assert (w,h)==(1344,752),(asset,w,h)
+            sha=hashlib.sha256(data).hexdigest()
+            assert sha.startswith(expected[asset]),(asset,sha)
+            out=pathlib.Path(f['git_asset_path'])
+            out.parent.mkdir(parents=True,exist_ok=True)
+            out.write_bytes(data)
+            received.append({'asset_id':asset,'path':str(out),'job_id':f['job_id'],'sha256':sha,'bytes':len(data),'width':w,'height':h,'visual_qc':'HOLD_NOT_NATIVE_PIXEL_QC','source':'original Higgsfield completed generation'})
+          assert len(received)==5,received
+          target=d/'13_WAVE01_IMPORTED_SOURCE_PNGS.json'
+          target.write_text(json.dumps({'status':'FIVE_ORIGINAL_PNG_ARCHIVED_NO_MEDIA_GENERATION','assets':received,'new_paid_jobs':0,'visual_acceptance':'HOLD'},indent=2)+'\n',encoding='utf-8')
+          print(target.read_text())
+          PY
+      - name: Commit verified binary PNGs to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_GENERATED_IMAGES/WAVE01/*.png 03_VIDEOS/VIDEO_004_VALVE_STEAM_MASS_ARBITRATION/13_WAVE01_IMPORTED_SOURCE_PNGS.json
+          git commit -m "VIDEO004 archive 5 original Higgsfield PNGs wave01 (no generation)" || true
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
