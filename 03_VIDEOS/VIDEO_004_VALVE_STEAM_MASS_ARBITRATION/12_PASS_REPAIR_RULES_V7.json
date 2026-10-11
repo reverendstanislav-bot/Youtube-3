@@ -1,0 +1,347 @@
+{
+  "schema_version": "7.0",
+  "date": "2026-10-11",
+  "scope": "60 pre-existing Video004 assets; V4 exact copy and V5 timeline remain source-lock",
+  "objective": "Maximize probability of editorial/text PASS; NEVER promise 100% generation PASS without inspecting pixels.",
+  "source_of_truth": "12_GENERATION_PLAN_V4.json exact visible_text, 12_MONTAGE_ADAPTATION_V6.json layout, 12_PROMPT_PACKAGE_V6.json validated reference URLs",
+  "output_contract": {
+    "model": "gpt_image_2",
+    "resolution": "1k",
+    "quality": "low",
+    "aspect_ratio": "16:9",
+    "count": 1,
+    "style_reference_count": 2,
+    "ready_to_spend": false,
+    "allowed_letters": "Only exact V4 visible_text strings; for RECREATED_DOCUMENT only add exact RECREATION / NOT AN ORIGINAL DOCUMENT; no ILLUSTRATION",
+    "bottom_20_percent": "NO essential text in lower 20 percent",
+    "final_output": "one flattened opaque image with all exact display copy baked in, do not add separate overlay or generate motion"
+  },
+  "reference_policies": {
+    "R01": {
+      "use": "warm cream paper material, editorial title contrast and grounded physical pages",
+      "ignore": "Adobe/Figma marks, fee amounts, document paragraphs, underline, exact title or photographed legal text"
+    },
+    "R02": {
+      "use": "dimensional hero object, warm light, dramatic negative space and material framing",
+      "ignore": "company logos, merger icons, Adobe/Figma names, any visible lettering"
+    },
+    "R03": {
+      "use": "clear separation of multiple visual groups and warm/cool spatial contrast",
+      "ignore": "photographs, logos, company names, page layout, original headline"
+    },
+    "R04": {
+      "use": "tactile matte depth, object relationship and left/right compositional hierarchy",
+      "ignore": "cube, Adobe and Figma emblems, source title, other words"
+    },
+    "R05": {
+      "use": "short high-contrast typographic block against matte paper and controlled gold texture",
+      "ignore": "merger legal paragraph, citation-style markings, yellow factual highlighter, original headline"
+    },
+    "R06": {
+      "use": "low-key black/warm editorial lighting, restrained architectural distance, strong group separation",
+      "ignore": "DOJ building identity, courtroom implication, all copied heading or logos"
+    }
+  },
+  "frame_specific_policies": {
+    "GF001": {
+      "visual_anchor": "Glass-fronted library of unlabeled game cases; two equally weighted opposed position groups; nothing visibly removed or locked.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF002": {
+      "visual_anchor": "Two separated legal routes: user files arrive in arbitration, a different court route points back toward them; leave all files pending.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF003": {
+      "visual_anchor": "One unbranded physical ACCEPT key reflected in blank contract paper and library glass; no fake Steam screen.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF004": {
+      "visual_anchor": "Small unresolved game-price tag in far background; emergency court request file alone dominates foreground; no verdict motif.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF005": {
+      "visual_anchor": "Two opposed arguments connected to one still-open file; older case paper and newly arrived contract clearly distinct.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF006": {
+      "visual_anchor": "Exactly TWO contract stacks with clean blank page surfaces, older left and newer right; ONE small pending case file in center; ONE tiny unbranded update-cycle glyph near center. No printed faux document prose.",
+      "ref_pair": [
+        "R02",
+        "R04"
+      ],
+      "reason": "R01 legal document source has dense merger prose, causing false contract body. R04 provides tactile dimensional separation while R02 supplies paper object scale; no source text should be copied.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF007": {
+      "visual_anchor": "Exactly THREE blank anonymous evidence folders: ONE visibly larger publisher production folder, TWO same-size smaller consumer case files. No people, portraits, names, stickers or words on folders; small unlabeled game-price arrow motif.",
+      "ref_pair": [
+        "R03",
+        "R01"
+      ],
+      "reason": "R06 courthouse and DOJ identity distract from pre-court 2021 publisher/consumer opening; R03 gives separated groups and R01 case-paper material.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF008": {
+      "visual_anchor": "ONE individual anonymous dispute file in foreground on private neutral hearing desk; distant ordinary courthouse only as a small blurred exterior window silhouette, less than one-quarter frame.",
+      "ref_pair": [
+        "R02",
+        "R01"
+      ],
+      "reason": "R06 large DOJ courthouse image causes wrong dominance; use neutral paper object depth and intimate legal surface.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF009": {
+      "visual_anchor": "Exactly TWO isolated non-intersecting routes: one individual hearing desk for consumers and one courthouse for publisher; neutral center space for the qualification; no joined docket.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF010": {
+      "visual_anchor": "An unmistakably EDITORIAL recreation: ONE neutral contract board, TWO separate unprinted individual tabs, visibly BROKEN connector between them; empty cream paper otherwise. The warning must say RECREATION / NOT AN ORIGINAL DOCUMENT with SLASH, never vertical bar.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Two legal-text-rich references R01/R05 promote fabricated contract prose; replace second with material/spatial R04.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF011": {
+      "visual_anchor": "A single root timeline marker for 2012 branches into multiple physically SEPARATE unlabeled file drawers; no combined class folder.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF012": {
+      "visual_anchor": "Two separately scaled archive wall sections, initial 997 and May 2026 4,991 visibly separate; no victory symbols or current-active count.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF013": {
+      "visual_anchor": "Exactly three dated archive trays from left to right for October 2023, November and December; administrative archive style, no fake invoices.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF014": {
+      "visual_anchor": "Three distinct stations at one legal-work desk: intake response, scheduling calendar without invented dates, decision-stage folder; no courtroom hearing claim.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF015": {
+      "visual_anchor": "One large question-mark number over an empty plain ledger window, separate oversized UNVERIFIED notice; no bill, invoice or fictional receipt.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF016": {
+      "visual_anchor": "Stepwise administrative fee-stage path with clearly separate early exit and arbitrator-compensation lane; no invented dollar totals.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF017": {
+      "visual_anchor": "Four well-lit distinct anonymous folders close camera with hundreds of blurred unnamed spines distant; never make the four disappear.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF018": {
+      "visual_anchor": "Exactly four anonymous case tabs moving away from an individual arbitration desk toward a distant court; no generalized ruling.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF019": {
+      "visual_anchor": "A single blank old-contract object next to an EXIT lever with a disputed-route fork; no words added to the lever.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF020": {
+      "visual_anchor": "Two event index cards with FOUR neutral tabs between, showing May and July 2024 chronology; no simulated official order.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF021": {
+      "visual_anchor": "FOUR separated front-page claimant folders, a physically DISTINCT deeper block representing later defendants; firm boundary line between cohorts.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF022": {
+      "visual_anchor": "A plain contract bridge used in opposite directions by separated actors; ensure one entering lane and one leaving lane, no labels on props.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF023": {
+      "visual_anchor": "A replaced entry sign with NO printed words sits outside a room of still-open cases; no folders close/disappear.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF024": {
+      "visual_anchor": "Removed neutral contract strip lies outside intact still-open filing drawers; absence of automatic case closure is visually obvious.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF025": {
+      "visual_anchor": "Editorial notice card on blank warm paper; show calendar milestone September 26 2024; never reproduce real Steam UI or genuine legal letter.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Avoid simultaneous long legal body text reference R01+R05",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF026": {
+      "visual_anchor": "Editorial contract mechanism diagram with one NEW blank sheet arrow reaching earlier OLD case folder; existing case still open; no invented clause.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Avoid simultaneous long legal body text reference R01+R05",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF027": {
+      "visual_anchor": "Four neutral abstract evidence symbols for email, pop-up, purchases and wallet behind blank library case spines; zero fake screens.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF028": {
+      "visual_anchor": "One 572 total brace splitting into exact 454-click and 118-login blocks; no branch labeled refusal or opt-out.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF029": {
+      "visual_anchor": "Unbranded games library with one editorial disputed-value tag; both parties' attribution adjacent and inseparable.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF030": {
+      "visual_anchor": "Neutral ACCEPT key on inquiry desk beside TWO other equally important objects: choice and enforceability; key must not look like final answer.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF031": {
+      "visual_anchor": "Closure-request paper arrow reaches administrator intake counter and visibly STOPS; numerous individual files stay open.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF032": {
+      "visual_anchor": "Three neutral desks: administrator intake, judge, arbitrator; case folders remain open and separate; no implied merits victory.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF033": {
+      "visual_anchor": "Two dated administrative event cards September 27 2024 and October 7 2024, clearly editorial, no invented AAA letter body.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF034": {
+      "visual_anchor": "File-room with three visually separate branches: older agreement, cases paused according to Valve, other decisions; no aggregate tally.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF035": {
+      "visual_anchor": "Multiple separately routed defendant case files converge near ONE federal-court emergency application; don't merge them into one giant class case.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF036": {
+      "visual_anchor": "Editorial petition concept: one procedural-routing detour beside a still-unresolved empty merits folder; no official seal or fake docket numbers.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Replace false text-heavy doc duo with one paper and one material reference",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF037": {
+      "visual_anchor": "Editorial civil-complaint concept beside still-open individual arbitration folders; no forged complaint cover or case captions.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Replace source-document-overcopy bias",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF038": {
+      "visual_anchor": "Two separate filing trays by date October 2024 and August 2025; different procedural posture and cohort size, no subtraction graphics.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF039": {
+      "visual_anchor": "Two isolated archive cabinets at very different scales: May 2026 recorded wave vs later complaint defendants; no overlap/Venn or equality.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF040": {
+      "visual_anchor": "Urgent request file in foreground with a visibly distant closed door for final judgment; no gavel and no outcome.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF041": {
+      "visual_anchor": "Valve-argument desk with blank new-contract sheet, acceptance marker and emergency relief request folder; all provisional.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF042": {
+      "visual_anchor": "Partly completed neutral work stations with a few folders advanced to hearing/ruling milestones and others still awaiting actions; no overall outcome.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF043": {
+      "visual_anchor": "Three different case-status groupings with visually unequal counts; no global scoreboard, no implied equal totals.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF044": {
+      "visual_anchor": "Three separate incompatible conceptual measurement objects for pause, old terms, and award; no scores, metrics or totals.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF045": {
+      "visual_anchor": "Deliberately rough stack-size estimate icon next to an empty open ledger; date and Valve attribution visually connected; no precise count claim.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF046": {
+      "visual_anchor": "Two facing separate evidence desks: one new contract/click symbols, other old contract/choice/work performed; no merged evidence.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF047": {
+      "visual_anchor": "Recreated editorial court result CARD floating above blank court paper, denoting denied emergency stop only; no forged document wording.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Replace source-document-overcopy bias",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF048": {
+      "visual_anchor": "Editorial ruling summary consisting of layered blank cream blocks and one central exact preliminary as-applied message; no simulated quote.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Replace source-document-overcopy bias",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF049": {
+      "visual_anchor": "Already active case folders beneath an arriving new contract sheet; foreground the affected group and timing, no forced closure.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF050": {
+      "visual_anchor": "Asymmetric two-side bargain diagram: defendants' empty-benefit side vs Valve relief-from-pending-work side; no numbers or law quotes.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF051": {
+      "visual_anchor": "A long neutral procedural timeline showing more than a year of arbitration participation leading to later emergency request; no invented dates.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF052": {
+      "visual_anchor": "Financial-expense work ledger visually separate from a legal irreparable-harm threshold; never equate cost with legal conclusion.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF053": {
+      "visual_anchor": "Simple two-date calendar bridge of exactly 64 days between May 27 and July 30 2026; no reversal icon.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF054": {
+      "visual_anchor": "Editorial court certification summary card with district file paused, appellate route potential; no fake appellate decision.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Replace source-document-overcopy bias",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF055": {
+      "visual_anchor": "One intact folder labeled by locked preliminary-view text beside a separate undecided controlling-question route; no changed outcome.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF056": {
+      "visual_anchor": "Two visibly separate judicial questions represented as two unjoined portals; one immediate stop vs one potential early review.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF057": {
+      "visual_anchor": "Exactly TWO serial conditional gates representing accepting review THEN siding with Valve; route ends at possible contract answer, never actual win.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF058": {
+      "visual_anchor": "Editorial court docket-summary CARD with no authentic PACER interface; retain the September date, Ninth Circuit case number and mirror-snapshot qualifier.",
+      "ref_pair": [
+        "R01",
+        "R04"
+      ],
+      "reason": "Avoid two false legal body text references on already dense docket card",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF059": {
+      "visual_anchor": "Open contract question file beside dated public-record snapshot, not live dashboard; do not claim merits ruling.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    },
+    "GF060": {
+      "visual_anchor": "A finished 16:9 charcoal-paper-red endscreen with only locked WATCH NEXT, SUBSCRIBE, WHAT IT COST lettering and entirely empty clickable overlay slots; no graphics crossing the slots.",
+      "prop_text_policy": "ALL object surfaces, paper spines, tabs, doors, documents and cards must be intentionally BLANK unless displaying an EXACT locked text string, as part of the deliberate designed headline."
+    }
+  }
+}
