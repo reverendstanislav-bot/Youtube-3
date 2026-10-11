@@ -1,0 +1,57 @@
+{
+  "status": "STRUCTURAL_PLAN_PASS_NOT_MEDIA_QC",
+  "unique_generated_frame_slots": 60,
+  "narrative_frame_slots": 59,
+  "silent_endscreen_frame_slots": 1,
+  "category_counts": {
+    "EDITORIAL_CHRONOLOGY": 6,
+    "EDITORIAL_DATA": 5,
+    "EDITORIAL_DIAGRAM": 19,
+    "EDITORIAL_SCENE": 20,
+    "ENDSCREEN": 1,
+    "RECREATED_DOCUMENT": 9
+  },
+  "timeline_cues_covered": 124,
+  "cue_segments": 125,
+  "narrative_macro_beats_covered": 54,
+  "endscreen_beats_covered": 1,
+  "continuous_image_placements_including_reuses": 84,
+  "repeat_placements_without_new_generation": 24,
+  "narration_placements": 83,
+  "max_narration_image_hold_sec": 17.0,
+  "average_narration_image_hold_sec": 9.735,
+  "fps": 25,
+  "covered_frames": 20700,
+  "planned_video_sec": 828.0,
+  "paid_jobs_submitted_this_task": 0,
+  "accepted_generated_files": "NOT_ESTABLISHED_BY_THIS_PLANNING_TASK",
+  "shorts": {
+    "SH01": [
+      "GF001",
+      "GF002"
+    ],
+    "SH02": [
+      "GF011",
+      "GF012",
+      "GF013"
+    ],
+    "SH04": [
+      "GF005",
+      "GF006",
+      "GF024"
+    ],
+    "SH08": [
+      "GF047",
+      "GF048"
+    ]
+  },
+  "excluded": "Shorts vertical variants/CTA, thumbnails, optional alternatives, retries and rejected Fusion states are not mandatory long-form frame slots.",
+  "locks": "Audio auditory QC, timeline final lock, generated-image QC, edit and release remain open. Count is exact for this V11 plan, not a guarantee of successful job attempts or future revisions.",
+  "input_sha256_scheme": "UTF8_TEXT_LF_NORMALIZED_FOR_CROSS_PLATFORM_REPRODUCIBILITY",
+  "input_sha256": {
+    "12_GENERATION_PLAN_V4.json": "99a7138f0a2e4a3e1249425dfbf6f276645110c6237f2318bd33fd4b5e2fba7a",
+    "07_SCRIPT_FINAL.md": "50cf94f42018fecb112e083afd5ca2f4069914171b5fe5db9fbd86498f156a43",
+    "SCENE_TIMELINE.csv": "8d7801bf9975e5f3bb60bd5b1b98093190b5f155f2dda17a3f8fa0139a80b050",
+    "11_SHORTS_CUT_MAP.csv": "e054588164a8adac4ced1261f8f8816b2dfcbd6e69654d704932105d81144874"
+  }
+}

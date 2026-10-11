@@ -6,11 +6,11 @@ pillar: "BUSINESS_LAWSUIT"
 priority: "4"
 status: "IN_PREPARATION"
 created: "2026-10-05"
-last_updated: "2026-10-10"
+last_updated: "2026-10-11"
 last_case_status_refresh: "2026-10-07"
 current_stage: "10_AUDIO_MASTER"
-next_action: "Revise canary8 generic picture layouts against narration and source evidence; re-review actual motion; genuine full auditory QC; full175 HOLD; no spend"
-blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "CANARY8_VISUAL_QC_FAILED"]
+next_action: "Requested V4 unique-frame plan complete: 60 longform images (59 story +1 endscreen); no generation submitted. Before image jobs select model, quote exact spend and obtain approval; full auditory QC remains open. Do not resume rejected Fusion/175-state strategy."
+blockers: ["AUDITORY_QC_NOT_PERFORMED", "STAGE11_DERIVATIVES_PROVISIONAL", "VISUAL_ASSETS_NOT_GENERATED", "IMAGE_GENERATION_SPEND_NOT_AUTHORIZED"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -25,7 +25,7 @@ stages:
   stage_09_voice_qa_lock: "PASS_INPUT_LOCK_V11"
   stage_10_audio_master: "TECHNICAL_PASS_AUDITORY_PENDING"
   stage_11_transcript_visual_timeline: "PROVISIONAL_ASR_TIMELINE_AUDIO_LOCK_PENDING"
-  stage_12_visual_source_generation_plan: "CANARY8_IMPORT_RENDER_TECH_PASS_PICTURE_QC_FAIL"
+  stage_12_visual_source_generation_plan: "V4_EXACT_60_FRAME_PLAN_COMPLETE_NOT_GENERATED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
@@ -112,11 +112,31 @@ qa:
   performance: "PASS_V11_90.4_OWNER_MIN90"
   voice_input: "PASS_INPUT_LOCK_V11"
   generated_audio: "TECHNICAL_PASS_ASR_RECHECK_NOT_AUDITORY_APPROVAL"
-  visual: "CANARY8_CONTACT_SHEET_FAIL_FULLSPEED_REVIEW_PENDING"
+  visual: "V4_INDEPENDENT_PLAN_REVIEW_PASS_IMAGE_QC_NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
   prepublication: "NOT_RUN"
+
+generation_plan:
+  current: "12_GENERATION_PLAN_V4.json"
+  summary: "12_GENERATION_PLAN_V4.md"
+  asset_manifest: "12_GENERATION_ASSET_MANIFEST_V4.csv"
+  cue_map: "12_GENERATION_CUE_MAP_V4.csv"
+  count_receipt: "12_GENERATION_COUNT_V4.json"
+  unique_longform_frames: 60
+  narrative_frames: 59
+  silent_endscreen_frames: 1
+  full_frame_generation_includes_graphics_documents_text: true
+  generated_documents_are_original_evidence: false
+  legacy_175_montage_states_are_generation_jobs: false
+  shorts_vertical_cta_and_thumbnails_included: false
+  new_paid_jobs_authorized: 0
+  new_paid_jobs_submitted: 0
+  provider_requested: "Higgsfield"
+  model: "NOT_SELECTED"
+  cost: "NOT_QUOTED"
+  media_acceptance: "NOT_RUN"
 
 script:
   canonical: "07_SCRIPT_FINAL.md"
@@ -151,4 +171,4 @@ performance_correction:
   canonical_script_owner_approval_preserved: true # Historical approvals only; independent V11 acceptance is current
   new_current_artifact_score_issued: true
   downstream_production_on_hold: true # Audio auditory gate and provisionalStage11; script90.4 accepted
-  stage_advanced: true # Existingaudio technicalverification and explicit provisionalStage11 start; noStage12
+  stage_advanced: true # Historical audio/provisionalStage11 work; V4 image planning only, current_stage stays10

@@ -2,9 +2,19 @@
 
 Status: IN_PREPARATION
 Current stage: **10_AUDIO_MASTER — TECHNICAL_PASS; AUDITORY_QC_PENDING**
-Updated:2026-10-10. Owner authorized master verification and immediate Stage11 preparation.
+Updated:2026-10-11. Current owner task: exact unique-frame plan and GitHub upload only.
 
-## Current truth
+## Current authoritative handoff — V4 generated-frame plan
+
+- **60 unique long-form images:59 narrative +1 silent20s endscreen.** All are full-frame generated compositions, including English text, charts and recreated documents. `12_GENERATION_PLAN_V4.md`/`.json`, asset manifest, cue map and count receipt are authoritative.
+- Covers123 spoken cues +1 endscreen,54 story beats,125 mapped segments,20700frames/828s at25fps.84 continuous image placements include24 reuses, not84 new images.175 legacy montage states are not generation jobs.
+- Recreated documents are visibly labelled and source-faithful, never authentic evidence. Same-image reuse requires no text replacement. No burned narration subtitles, shake or crop jumps.
+- Original V11/voice payloads/audio files/Shorts cut map unchanged. Exactly4Shorts SH01/SH02/SH04/SH08; landscape source reuse mapped, separate vertical assets/CTA/thumbnails not included or declared ready.
+- Previous editor-native/Fusion strategy is rejected and superseded for this episode. Do not revise/import/render its175states as the production path. Historical canary failure remains true, not converted to PASS.
+- Stage10 full auditory QC NOT_PERFORMED; Stage11 final lockfalse. Current stage stays10. No image jobs, spend, accepted generated-image claims, montage/release PASS or stage advancement from this task. Model NOT_SELECTED, cost NOT_QUOTED; separate explicit spend approval required.
+- Planning structural check and independent review recorded in `12_GENERATION_REVIEW_V4.md`. Media QC, legal freshness Stage16 and release gates remain open. Working media root remains `C:/YOUTUBE/Youtube 3/Video 4`; Git stores the control plane, not bulk images.
+
+## Historical handoffs below — superseded where conflicting with V4 above
 
 - V11 canonical script unchanged; current Shorts target corrected to exactly four by owner; independent text score90.4/100 meets owner minimum90. Harrison identity and episode ElevenLabs settings retained. No new generations this task.
 - Existing3/3Harrison jobs completed; historical approved quote39.45credits, actual debit not re-verified. Existing GitHub run38039673597 succeeded. Prior0jobs/NOT_QUOTED/master-not-generated notes were historical and are superseded here.

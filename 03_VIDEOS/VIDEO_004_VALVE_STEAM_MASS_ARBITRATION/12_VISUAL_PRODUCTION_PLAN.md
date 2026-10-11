@@ -1,5 +1,11 @@
 # VIDEO004 — Stage 12 Visual Production Plan V1
 
+## Superseded production method — 2026-10-11
+
+**Current: [V4 exact generated-frame plan](12_GENERATION_PLAN_V4.md):60 unique full-frame images =59 narrative +1 endscreen.** All graphics, documentary recreations and English display text are generated as complete compositions; source evidence stays separately traceable. This overrides the historical37/17 editor-native/source allocation below for this episode.175 montage states are not175 required generations. No new jobs/spend; no media QC or downstream gate PASS. Preserve the old artifacts for history; do not resume the rejected Fusion workflow. `12_GENERATION_PLAN_V4.json` and its derived manifest/cue map/count receipt are current.
+
+Everything below is historical, including old next-action, safe-area and approval statements; current V4 uses an empty essential-content lower20% and explicit recreation labels.
+
 Status: **SOURCE-LINKED PLAN BUILT / PREFLIGHT PENDING / NO GENERATION APPROVED** (2026-10-10).
 
 ## Source of truth and quantitative inventory

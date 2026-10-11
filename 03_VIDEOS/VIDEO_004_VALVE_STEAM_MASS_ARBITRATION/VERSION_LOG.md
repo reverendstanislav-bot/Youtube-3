@@ -1,5 +1,9 @@
 # VIDEO 004 — Version Log
 
+## 2026-10-11 — V4 exact generated-image plan, replacing rejected Fusion strategy
+
+Owner requested an exact script-derived unique-frame count and finished GitHub plan, not new paid jobs. Authored60 distinct full-frame specifications:59 narrative +1 silent endscreen; all graphics/documents/text generated within images.125 segments cover all124 cues/54 story beats plus endscreen over20700frames;84 placements include24 same-image returns. No requirement for175 unique generations. Generated documentary layouts labelled recreations with source/claim links, never authentic evidence. Added reproducible count/coverage validator, derived manifests and independent critic record; corrected early visual reveals without adding arbitrary frames. Legacy175 states retained as non-production history. Canonical V11/voice inputs/timing/Shorts source cuts unchanged. No image job/spend/model/cost quote or media QC; Stage10 auditory and Stage11 final locks remain false; current stage10 unchanged. Shorts vertical/CTA/thumbnails are outside this exact long-form count.
+
 | Date | Area | Version | Change | Reason | Gate result |
 |---|---|---|---|---|---|
 | 2026-10-05 | package | v01 | Created VIDEO 004 package for T004 Valve / Steam | Owner started production | — |
