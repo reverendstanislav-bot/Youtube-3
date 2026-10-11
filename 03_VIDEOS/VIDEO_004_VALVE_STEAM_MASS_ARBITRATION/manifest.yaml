@@ -244,7 +244,7 @@ stage13_wave01_actual:
   accepted_completed_jobs: 5
   completed_assets: ['GF001','GF002','GF004','GF005','GF006']
   refused_on_submit: ['GF003']
-  refused_reason: 'Higgsfield grace-period daily generation limit'
+  refused_reason: 'ChatGPT connector returned grace-period daily-limit error; NOT confirmed account-level quota'
   paid_credits_observed: 2.5
   credits_before: 1127.22
   credits_after: 1124.72
@@ -256,6 +256,8 @@ stage13_wave01_actual:
   visual_qc_status: 'DEFERRED_UNTIL_ALL_60_GENERATED_PER_OWNER'
   next_batch_observed_status: 'GF007_GF012_SUBMISSION_FAILED_QUOTA_LIMIT_0_NEW_JOBS_0_CREDITS'
   next_batch_ledger: '13_BATCH02_HIGGSFIELD_QUOTA_BLOCK.json'
-  provider_limit: 'HIGGSFIELD_DAILY_GRACE_PERIOD_LIMIT'
+  provider_limit: 'CONNECTOR_SUBMISSION_REFUSED_WITH_GRACE_PERIOD_MESSAGE_NOT_VERIFIED_ACCOUNT_LIMIT'
   audio_stage10_lock: false
   timing_stage11_lock: false
+
+# 2026-10-11 clarification: the Ultra account has credits and an inactive trial. A connector error mentioning a grace-period daily limit does NOT establish a real account-level limit.
