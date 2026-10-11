@@ -90,11 +90,18 @@ def build():
         assert bool(sids)==(asset["type"]!="ENDSCREEN")
         for sid in sids:
             assert sid in sources and sources[sid]["url"].startswith("https://")
-        label=row["mandatory_label"]
+        historical_label=row["mandatory_label"]
+        # Locked V4 stays archived; owner's current override forbids visible
+        # ILLUSTRATION stamps on narrative frames. Only reconstructed
+        # documents retain an explicit authenticity-warning label.
+        expected_v4_label=("" if asset["type"]=="ENDSCREEN" else
+                           "RECREATION / NOT AN ORIGINAL DOCUMENT" if asset["type"]=="RECREATED_DOCUMENT" else "ILLUSTRATION")
+        assert historical_label==expected_v4_label, aid
+        label="RECREATION / NOT AN ORIGINAL DOCUMENT" if asset["type"]=="RECREATED_DOCUMENT" else ""
         assert layout["protected_content_en"]["exact_visible_text"]==asset["visible_text"]
-        assert layout["protected_content_en"]["mandatory_provenance_label"]==label
+        assert layout["protected_content_en"]["mandatory_provenance_label"]==label, aid
         copy=list(asset["visible_text"])+([label] if label else [])
-        assert (asset["type"]=="ENDSCREEN" and not label) or label==("RECREATION / NOT AN ORIGINAL DOCUMENT" if asset["type"]=="RECREATED_DOCUMENT" else "ILLUSTRATION")
+        assert (asset["type"]=="RECREATED_DOCUMENT")==bool(label), aid
         legal_context=b["factual_context_override"] or "Preserve the attributed, dated, scoped editorial meaning in the locked display copy and scene direction. No stronger claim, invented procedural outcome or extra numerical inference."
         factual=[{"source_id":sid,"url":sources[sid]["url"],"title":sources[sid]["title"],"source_type":sources[sid]["source_type"],"authority":sources[sid]["primary_or_secondary"],"scope_notes":sources[sid]["notes"]} for sid in sids]
         contexts.append({"asset_id":aid,"claim_ids":row["claim_ids"].split(";") if row["claim_ids"] else [],"source_ids":sids,"factual_context_mode":"TEXT_CONTEXT_NOT_IMAGE_ATTACHMENT_NOT_CURRENT_DOCKET_REFRESH","sources":factual,"bounded_interpretation":legal_context,"allowed_editorial_copy":asset["visible_text"],"provenance_label":label,"original_document_claim":False})
@@ -113,16 +120,18 @@ def build():
             "Text hierarchy: every attribution, date, conditional and limitation remains readable with its proposition. Wrap long locked strings into legible lines without changing characters or wording. No tiny caveats, letter distortion, faux body copy or extra prose.",
             "Factual boundary (context only, not additional on-image text): "+legal_context]
         for key,value in inventory["common_direction"].items():
-            # Historical V4 inventory remains immutable for source/beat hashes. Override only
-            # the stale 4K sizing requirement for NEW V6 prepared requests.
+            # Historical V4 inventory remains immutable for source/beat hashes.
+            # Owner corrections below supersede stale 4K and on-image ILLUSTRATION rules.
             if key=="format":
-                value="One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep text/logos/source labels readable at native 1k. Do not falsely promise higher native resolution or invent upscale detail. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible."
-            parts.append("Locked "+key+" requirement: "+value)
+                value="One complete generated 16:9 still per asset under Higgsfield gpt_image_2 / 1k / low. Keep the exact allowed English lettering readable at native 1k. Never add a channel logo, corporate logo from references or SOURCES footer. Any 1920x1080 edit delivery requires later separately QC-verified scaling. Exact English text must not be simplified or omitted to fit: REJECT if illegible."
+            elif key=="provenance":
+                value=("Reconstructed documents only: visibly include the exact warning RECREATION / NOT AN ORIGINAL DOCUMENT. All ordinary narrative frames: DO NOT print ILLUSTRATION or any other provenance/source/footer/watermark or channel name; factual sources belong only to the external production ledger. Images remain editorial illustrations, not documentary evidence.")
+            parts.append("Current "+key+" requirement: "+value)
         parts.append("GPT Image 2 / 1k / low preflight: keep the already-locked copy exact; prioritize clear line breaks and readable attribution/caveats above decorative detail. If too much text to fit legibly at 1k, treat as a QC HOLD/REJECT, never remove words or silently shrink essential facts. Only reference images 1 and 2 are style sources.")
         if asset["type"]=="RECREATED_DOCUMENT":
             parts.append("Reconstruction: visibly editorial paraphrase only. The mandatory recreation label must be legible and integral. No original-looking page header, docket seal, signature, fake quote marks, fake body text or fabricated screenshot; do not re-create the authentic paper shown in style references.")
         if aid=="GF060":
-            parts.append("Endscreen exception: no ILLUSTRATION label or extra copy. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim an exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.")
+            parts.append("Endscreen exception: no extra visible text or labels. Translate the 1920x1080 design-space safe boxes to the actual native 1k 16:9 output by relative proportions only; Do not claim exact pixel-safe geometry before output QC. Both native YouTube overlay areas must stay empty and require post-generation Studio-safe-area pixel QC. Do not inherit subjects, frames, logos or text from style images.")
         parts.append("Deliver one opaque 16:9 still with all permitted lettering already rendered. No storyboard, collage sheet, split deliverables, narration captions, black caption strip, motion blur, watermarks, random arrows, gavels or scales of justice. No generation of variations for later reuse.")
         prompt="\n\n".join(parts)
         for text in copy:
