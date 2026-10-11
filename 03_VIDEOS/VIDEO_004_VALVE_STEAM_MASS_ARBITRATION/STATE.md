@@ -82,3 +82,7 @@ Bridge connected; original project saved;8actualFusion imports and30.6s1080p25fp
 - Backend two-reference import/acceptance and actual 1k rendered text fidelity NOT TESTED; reference URLs stay unimported. Mandatory full-request fresh quote and explicit owner credit approval before ANY import/job.
 - Three dense-copy 1k visual-QC priorities: **GF001, GF058, GF059**. No copy shortened; never mark output readability PASS before generated pixels exist.
 - Source of truth: `12_GPT2_1K_LOW_COMPATIBILITY_QC.json` and derived `12_PROMPT_VALIDATION_V6.json`; historical V4/V5 locks unchanged. Stage10 auditory and Stage11 final timing remain pending; 4 Shorts only.
+
+
+## 2026-10-11 Stage13 Wave01 - real generation status
+5/60 image jobs completed: GF001, GF002, GF004, GF005, GF006. Their original 1344x752 PNGs are committed at `13_GENERATED_IMAGES/WAVE01/` with SHA256 checksums in `13_WAVE01_IMPORTED_SOURCE_PNGS.json`. GF003 submission refused by Higgsfield daily limit before job creation, charged zero. All other images ungenerated. Five completed jobs spent 2.5 credits (balance 1127.22 -> 1124.72). No retries and no video jobs. Visual image QC is HOLD, particularly GF001 dense copy; no PASS inferred from thumbnail. Source job details in `13_WAVE01_HIGGSFIELD_JOB_LEDGER.json`. Stage10 auditory and Stage11 final timing remain unapproved.
