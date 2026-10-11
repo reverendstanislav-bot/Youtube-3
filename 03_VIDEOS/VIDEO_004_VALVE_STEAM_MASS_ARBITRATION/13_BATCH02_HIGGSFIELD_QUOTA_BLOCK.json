@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-11",
+  "scope": "GF007_GF012",
+  "status": "QUOTA_BLOCKED_NO_NEW_JOBS",
+  "generation_authorization": "ALL_60_BEFORE_QC",
+  "attempted_asset_ids": [
+    "GF007",
+    "GF008",
+    "GF009",
+    "GF010",
+    "GF011",
+    "GF012"
+  ],
+  "submission_results": [
+    {
+      "asset_id": "GF007",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    },
+    {
+      "asset_id": "GF008",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    },
+    {
+      "asset_id": "GF009",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    },
+    {
+      "asset_id": "GF010",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    },
+    {
+      "asset_id": "GF011",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    },
+    {
+      "asset_id": "GF012",
+      "status": "submission_failed",
+      "job_id": null,
+      "error": "Daily generation limit for grace period",
+      "charged_credits": 0
+    }
+  ],
+  "submitted_count": 0,
+  "failed_count": 6,
+  "retries": 0,
+  "balance_before": 1124.72,
+  "balance_after": 1124.72,
+  "completed_assets_previous": [
+    "GF001",
+    "GF002",
+    "GF004",
+    "GF005",
+    "GF006"
+  ],
+  "image_generation_completed_total": 5,
+  "images_remaining": 55,
+  "note": "STOP: do not send additional batches while provider returns hard daily generation limit; retry only after quota reset. User requests all frames BEFORE creative QC. Visual QC deliberately deferred until all 60 images exist."
+}
