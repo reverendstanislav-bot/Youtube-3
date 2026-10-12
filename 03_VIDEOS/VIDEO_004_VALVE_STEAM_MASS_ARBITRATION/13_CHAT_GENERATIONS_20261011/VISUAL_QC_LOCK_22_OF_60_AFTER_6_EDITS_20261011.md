@@ -1,8 +1,25 @@
-# VIDEO004 — second batch: six corrected visual PASS candidates (2026-10-11)
+# VIDEO004 — six edits REJECTED by owner (2026-10-11)
 
-Scope: **editorial repair of existing images, no model image generation and no paid credits.**
+**CURRENT DECISION: REJECT 6/6. This document supersedes its own prior 22/60 visual-PASS claim.** Owner reviewed and explicitly rejected all six edited frames. Do not reuse, treat as approved, upload as locked assets, or add to production manifest. They remain only as historical failed candidates.
 
-## Visual QC snapshot
+Earlier 16 separately recorded VISUAL_PASS candidates are **not changed by this decision**. Therefore the provisional count returns to **16/60 visually selected; 44/60 without accepted candidates**. Final source-pixel/production PASS remains unverified.
+
+| GF ID | Owner status | Edited candidate disposition |
+|---|---|---|
+| GF018 | REJECT | Failed editorial repair; original source crop/footnote still requires fresh approach |
+| GF020 | REJECT | Failed editorial repair |
+| GF027 | REJECT | Failed Steam UI composite repair |
+| GF035 | REJECT | Failed source continuation composite repair |
+| GF039 | REJECT | Failed cohort visual clarification |
+| GF042 | REJECT | Failed continuation/equities composite repair |
+
+**Historical record:** Prior commit `468fa74` incorrectly presented these six edits as VISUAL_PASS and stated 22/60. This is rescinded. No corrected PNGs were uploaded to GitHub. No further retries or generation authorized. Do not count B-roll alternatives as completed GF slots.
+
+User-directed scope: all six outputs of the most recent repair batch rejected. The separate earlier set of 16 has not been explicitly reversed in this request.
+
+## Prior rejected edit details (audit only)
+
+
 
 Previously frozen VISUAL_PASS: **16 GF IDs** in `VISUAL_QC_LOCK_16_OF_60_20261011.md`.
 
@@ -31,3 +48,4 @@ All six are actual **1672x941 RGB PNG** files locally produced from the user's o
 ## Outstanding
 
 38 unique planned GF positions remain visually unaccepted, independent of the illustrative B-roll alternates and other rejected/rework candidates.
+
