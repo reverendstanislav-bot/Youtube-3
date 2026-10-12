@@ -1,12 +1,15 @@
-# Chat image generation archive — 2026-10-11
+# Chat image archive — October 11, 2026
 
-**Status: ARTIFACT ARCHIVE ONLY, NOT FINAL PASS.**
+## FINAL OWNER QC DECISION: REJECT ALL 61/61
 
-This chat has 61 locally collected PNG candidates/tests (22 source-grounded latest images, 5 earlier GF031–GF035 revisions, and 34 other candidate/repair/intro images). Original image bytes and full SHA-256 manifest are packaged for user retrieval:
+Owner has rejected **every image generated in this chat** including formerly labelled visual-PASS assets, repaired versions, B-roll candidates, and intro candidates. No image from this batch is approved for use or further edits.
 
-- `YT3_VIDEO004_CHAT_GENERATIONS_20261011.zip` (125,282,626 bytes, available in ChatGPT conversation)
-- `YT3_VIDEO004_CHAT_GENERATIONS_20261011/MANIFEST.json`
+- **Video004 planned GF slots:** 60
+- **Accepted:** 0/60
+- **Remain:** 60/60
+- **Archive:** 61 generated PNG candidate/test files; different versions and non-GF tests are included.
+- **GitHub binaries:** 0/61 uploaded. Former conversation ZIP archives are historical rejected material only.
 
-**IMPORTANT:** This GitHub folder contains an inventory notice, not the PNG binaries. PNG files have *not* been uploaded to GitHub. The GitHub connector cannot read container files directly, and copying >125 MB of binary data through text arguments is not a verified upload path. Do not mark this archive as uploaded or as QC PASS.
+Any earlier review document, CSV, manifest or chat response claiming 8, 16, 22 or 31 usable/approved frames is superseded by this explicit owner REJECT. Do not restore PASS without new explicit owner instruction.
 
-After downloading ZIP, extract locally and add PNGs to this folder using an authenticated Git client or another binary-capable repository transfer. Keep canonical stage 13 assets separate until strict QC passes.
+No generation, spending, retries or further editing authorized.
