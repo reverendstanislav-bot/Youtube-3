@@ -1,0 +1,5 @@
+"issue_id","stage","version","severity","exact_locations","review_finding","suggested_polish","stage06_gate_status"
+"N076","06","V4_4_EN","LOW","A02-P02;A02-P03","Acquisition valuation setup previews the native S03 $100k/cap upside contrast","Use differentiated visuals and spoken emphasis; keep exact S03 extract","NONBLOCKING_POLISH"
+"N077","06","V4_4_EN","LOW","A04-P01;A04-P03","Wrong supplier-email incident is introduced before the frozen S05 single-paragraph recap","Differentiate source visual between first finding and lawsuit payoff; no separate VO edits","NONBLOCKING_POLISH"
+"N078","06","V4_4_EN","LOW","A08-P01;A08-P03;A08-P04;A08-P05","Some renewed legal-contract explanation repeats close to the 2022 payment climax","Separate contested 2016 promise, executed 2022 agreement, sealed amount and later legal ruling visually","NONBLOCKING_POLISH"
+"N079","06","V4_4_EN","LOW","A09-P02;A09-P04;A09-P05;01_COMPETITOR_RESEARCH.csv","Final tax/contract reflection retains abstract commentary; comparator ledger has no verified competitors","Evidence-first closing edit and genuinely sourced competitive research if later authorized","NONBLOCKING_RESEARCH_GAP"
