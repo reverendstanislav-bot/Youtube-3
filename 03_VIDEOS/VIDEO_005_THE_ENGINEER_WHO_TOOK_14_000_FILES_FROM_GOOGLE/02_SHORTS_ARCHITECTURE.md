@@ -1,33 +1,27 @@
-# VIDEO 005 — Stage 02 Shorts Architecture
-**R1 | 2026-10-13 | Architecture only: 8 CANONICAL CONTIGUOUS EXTRACT CANDIDATES**
-Source: `02_STORY_MAP.md`; `00_CORE/SHORTS_ARCHITECTURE.md`. No separate Shorts scripts, no new voice, no final cut timings yet.
+# VIDEO005 — Stage02 Shorts Architecture R2: 8 cut-ready story-zone REQUIREMENTS
+**2026-10-13 | 8 candidates | write WITHIN long-form; not voice text and not separate scripts.**
 
-## Non-negotiable design
-- **8** units; each planned as **one uninterrupted segment of the FUTURE long-form narration** with standalone opening, explicit entity context, mechanism, payoff and all necessary legal qualifiers **inside the extract**.
-- Preferred **spoken duration 20–27 seconds**, export **<=30s including ending/CTA**; words below are writing *budgets*, not completed timed narration. Approx. 45–65 spoken English words at ordinary narration speed; Stage10/11 actual timing takes precedence.
-- No extract crossing scenes to stitch disconnected audio. Put each complete 20–27s short-ready mini-story into a distinct paragraph/beat *inside* its act in Stage03.
-- 9:16 layout plan may reframe/move graphics; never change meaning, fabricate source/UI, reorder speech, or use another voice. **No burned narrative subtitles are authorized by this architecture**. All sources/brand images need later provenance.
-- The provisional *act zone* below is not an exact editing timestamp.
+Hard rules from `00_CORE/SHORTS_ARCHITECTURE.md`: one continuous narration excerpt; 20–27s preferred spoken length, **<=30s** delivered including ending; full actor/event identification, hook, mini-payoff and legal qualification BEFORE the contiguous extract ends; no stitch, alternate narration, new voice, fake UI or unauthorized burned captions. Stage03 must map *actual long-form paragraphs*, Stage04 fact-check **each extract standalone**, Stage11 derive timings from locked audio. Estimates below are zones, not final timestamps.
 
-| ID | Proposed act zone | Topic / conflict hook (concept, not VO) | One-sentence who/where context | Distinct payoff before cutoff | Necessary in-extract caveat | Legal/source links | Duration target | 9:16 approach |
+| ID | Act / approximate zone | Instant mini-hook CONCEPT (not VO) | Who/where self-contained context | Complete mini-payoff | IN-CLIP qualifier | Source and claim anchor | Future speech target | Clean 9:16 evidence idea |
 |---|---|---|---|---|---|---|---|---|
-| S01 | A01 (~01:35) | 14,000 files on an engineer's laptop | Levandowski at Google's self-driving project in Dec 2015 | He copied ~14k internal SVN files to his own device | File copying ≠ conviction that 14k documents were used by Uber; mention it inside extract | E002–E003; C002–C004; S010 | 22–26s | authentic DOJ text with cropped "approximately" and date, not invented transfer UI |
-| S02 | A02 (~03:05) | Startup existed before the engineer left | Engineer founded Ottomotto while at Google; Uber term sheet followed in Feb 2016 | Acquisition interest followed his departure | Term sheet not the completed August transaction; no implication of proven trade-secret use | E004–E010; C006–C008; S004,S008 | 21–26s | narrow continuous date path with native court source |
-| S03 | A03 (~04:40) | "$680m purchase — but $100k cash upfront?" | Uber's acquisition of Otto in 2016 | Large projected package depended on restricted stock milestones | $680m potential/conditional, not cash paid nor guaranteed | E010; C009–C011; S007,S008 | 23–27s | labeled two-column *distinct categories* (cash vs contingent) using sourced figures |
-| S04 | A04 (~06:45) | Waymo accused Uber; Uber publicly denied use | Waymo's 2017 IP lawsuit against Otto/Uber | Opposing positions in one 25s arc | "alleged" with Waymo; "Uber said" with denial; no trial verdict | E011; C013,C018–C019; S001,S009 | 22–27s | two authentic opposing statements, provenance legible |
-| S05 | A05 (~08:45) | Court had serious questions, not the verdict | Judge Alsup evaluated 2017 preliminary motion | Court restricted specific conduct before trial | Interim order, partial relief, no verdict that Uber used all copied files | E013; C014–C017; S003 | 22–27s | source line + isolated "preliminary" label, no synthetic judge stamp |
-| S06 | A06 (~10:35) | "$245m was shares, not a court fine" | Waymo and Uber ended their civil case in 2018 | Stock-settlement/dismissal replaces looming jury outcome | Reported ~$245m 2018 value; **settlement, not damages verdict** | E016; C020–C022; S005,S008,S022 | 22–27s | authentic dismissal plus value label clearly marked reported equity |
-| S07 | A07 (~12:20) | "33 counts charged. Guilty to one." | Prosecutors separately pursued engineer Levandowski in federal court | One-count plea and imposed 18-month sentence | Separate from Waymo civil Uber case; **charged vs convicted** labels required | E018,E020–E021; C024–C027; S010,S011 | 22–27s | two-step DOJ court-doc evidence, no 33 guilty icons |
-| S08 | A10 (~17:30) | The companies that fought ended up selling rides together | Uber/Waymo litigated in 2017–18; Waymo rides appeared on Uber app 2023, expanded to two cities in 2025 | Former adversaries became commercial partners | Commercial partnership does not erase the lawsuit nor prove original allegations false | E016,E025–E028; C020,C032–C034,C038; S005,S017–S020 | 23–27s | 2023 Phoenix and 2025 Austin/Atlanta source-native company announcements; no imagined app screenshot |
+| S01 | A06 (~09:00) | "An email for Uber landed at Google." | Dec 2016 Google got Uber vendor LiDAR circuit drawings accidentally | This triggered scrutiny that culminated in lawsuit | Suspicious resemblance not proof drawings came from downloaded files | E034,C041,S003,S008 | 21–26s | genuine case paragraph, highlighted *source-native* wrongly addressed email reference |
+| S02 | A02 (~02:55) | "He copied about 14,000 files." | Engineer Levandowski, Google's self-driving project, Dec 2015 | Internal SVN contents copied to personal device before leaving | No proof those **14,000** files were received/used by Uber; one-count plea was different file | E002,E003,C002–C005,S010 | 23–27s | DOJ native lines / timeline with explicit **download vs transfer** |
+| S03 | A04 (~06:05) | "Uber hired investigators—and warnings appeared." | 2016 Uber diligence on proposed Otto purchase | Shareholder pleadings described counsel reservations; board approved | This was pleaded in a later shareholder case dismissed procedurally; Stroz found no evidence transfer to Otto | E031–E033,C042,C043,C046,S007,S008 | 24–27s | independent separate court quotation on warnings AND no-transfer limit |
+| S04 | A05 (~07:55) | "A $680m acquisition started with $100k cash." | Uber's 2016 acquisition of Otto | Remaining consideration linked to milestones/equity, not $680m unconditional cash | Cash upfront not total value; actual vesting unknown | E010,C009–C011,S007,S008 | 22–27s | one 2019 court paragraph with 100k vs 680m categories |
+| S05 | A07 (~10:55) | "The judge didn't simply rule for one side." | 2017 provisional motion in Waymo v Uber | Serious questions about copied information but court found patent showing weak and granted limited relief | Interim, not verdict on all 121 secrets | E013,C014–C017,C045,S003 | 22–27s | same genuine order passage showing *both* partial-grant and limits |
+| S06 | A08 (~12:15) | "$245m—but not in cash, and not a jury award." | Waymo–Uber settlement Feb 2018 | Civil case ended with Uber stock settlement while jury had no final verdict | 0.34% from reporting; circa-2018 stock valuation, not proven damages | E016,C020–C022,S005,S008,S022,S023 | 22–27s | true dismissal order and published company response; value clearly editorial |
+| S07 | A09 (~13:40) | "Thirty-three charges. One guilty plea." | Former engineer in separate federal criminal case | One specified Google Drive secret count guilty; 18m sentence imposed | Distinct from Waymo–Uber civil settlement; not 33 convictions, not 18 months necessarily served | E018,E020,E021,C004,C024–C027,S010,S011 | 23–27s | DOJ native text with charge/plea/sentence differentiated |
+| S08 | A12 (~18:05) | "A decade later, he's back in an Uber-backed orbit." | Kalanick's Atoms acquired Levandowski's Pronto; Uber joined Atoms financing | Same former executives in new autonomy business story | TechCrunch-reported Uber ~$100m into **Atoms**, not direct Otto/Pronto purchase or proven future robotaxi deal | E036,E038,C051–C054,S027,S028,S029 | 24–27s | founder primary Atoms announcement plus attributed TC news, not fabricated logo meeting |
 
-## Stage03 writing handoff checklist for EACH of S01–S08
-1. Lead with 1-line contradiction, number, or suspense **in the segment itself** (not a pronoun referencing a preceding scene).
-2. Name at least one person/company and what event is at stake in the next sentence; no "this", "he" or "they" without antecedent.
-3. Make an actual mini-payoff inside paragraph, not "find out in the full video".
-4. Place **alleged/denied/settled/one count/conditional** qualifier next to the claim or numeric hook before extract ends; no disclaimer offscreen after cut.
-5. End on a complete voiced sentence; no stitched narration, re-recorded intros or copied image-based subtitles.
-6. Stage03 `03_SHORTS_MAP.csv` assigns script paragraph IDs, not imagined seconds; Stage04 checks in isolation; Stage07 locks; Stage11 timestamps actual master.
-7. Allow voiced normal English delivery and natural sentence rhythm. A nominal 20–27s zone can FAIL if narration exceeds 30s; then fix the **long-form** paragraph, not add another Short TTS.
+## Isolation failures to prevent (mandatory Stage03 acceptance)
+1. Every segment has **one** opening named entity or specific date in first sentence—never dangling pronouns.
+2. One payoff is complete without requiring a later paragraph.
+3. If claim is from a corporate party, pleadings, reporting or an interim judicial view, attribution must be WITHIN the future actual short.
+4. In S03 do **not** omit Stroz negative transfer finding just for shock. In S05 do not call the interim order a verdict. In S08 do not say Uber acquired Pronto.
+5. Avoid overpacking S07 (33 counts + separate case + one plea + 18 months) without confirmed readable tempo; edit long-form paragraph if needed rather than chopping off caveat in Short.
+6. Use an estimated 45–60 words for a 20–27s normal pace; measure actual Harrison later. No promised edit assets or generated footage.
+7. Shorts do not need disconnected intros/CTAs if their natural last sentence supplies a satisfying mini-conclusion.
+8. 9:16-safe source text only after rights/provenance and frame approval; no burned subtitles by assumption.
 
-## Independent planning QC (Stage02 only)
-8/8 zones have a source/claim/event relationship, self-contained conflict, an in-zone legal caveat, distinct payoff, target range and vertical plan. No exact timestamps or video assets falsely claimed as finished. Shorts extraction and approval occur only after later script/voice/production gates.
+**G02 result:** 8/8 structurally planned; Stage03/04 standalone duration and claims **NOT YET PASSED**. 
