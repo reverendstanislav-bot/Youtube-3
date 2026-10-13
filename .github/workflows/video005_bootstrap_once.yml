@@ -1,0 +1,25 @@
+name: VIDEO005 Canonical Package Bootstrap (one-time)
+on:
+  push:
+    paths:
+      - '.github/workflows/video005_bootstrap_once.yml'
+permissions:
+  contents: write
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source of truth
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Create VIDEO005 from template
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/new_video.py 5 "The Engineer Who Took 14,000 Files From Google" "TRADE_SECRETS"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_* 02_PIPELINE/VIDEO_INDEX.csv
+          git commit -m "VIDEO005 bootstrap canonical template and immutable video index"
+          git push
