@@ -1,23 +1,28 @@
-# VIDEO 005 — CURRENT STATE / 2026-10-13
-**G00 GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 DRAFT_COMPLETE | G04 FACT + LEGAL REVIEW FAIL | G05 NOT_STARTED.**
+# VIDEO 005 — Source of truth / Stage05 revised screenplay V2 (2026-10-13)
 
-### Deliverables actually inspected
-- 53/53 narration paragraphs; 8/8 exact self-contained contiguous Shorts audited.
-- `04_PARAGRAPH_AUDIT.csv`: 47 PASS / 4 WARN / 2 FAIL, with verbatim full paragraph, legal claim IDs and checked primary evidence plus correction required.
-- `04_SHORTS_ISOLATION_QC.csv`: 6 provisional PASS / S01 FAIL standalone context / S05 FAIL factual date.
-- `04_FACT_LEGAL_REVIEW.md`: detailed case distinctions, independently grounded source findings, two HIGH and four MEDIUM fixes, source URLs and Stage05 handoff.
-- Word count 2828, 53 paragraphs/8 shorts remains **untouched original Script V1**, so Stage04 failure is not masked by rewriting on the same gate.
+**G00 TOPIC GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 V1 COMPLETE | G04 V1 FAIL (HISTORICAL) | G05 V2 REVISION PASS (TEXT ONLY) | G06 NOT_STARTED**
 
-### Blocking findings
-- **Q034 A02-P06:** 'so Uber brought in a forensic investigation' implies after Otto acquisition; Stroz was retained for preclosing diligence after February2016 term sheet.
-- **Q035 A05-P04 + S05:** alleged destruction of five discs was reported circa March2016, **before** February2017 Waymo v Uber lawsuit; Jan2018 judicial order only addressed later revelation and potential jury inference.
-- **Q040 S01:** without context, audience doesn't know why Uber could possibly be liable for engineer's separate judgment. Add 2016 acquisition/indemnity inside Short's ONE canonical long-form paragraph.
-- **Q036/37/38/39 MEDIUM:** unsupported necessary-email causality, unqualified circuit drawing resemblance, unsupported no-backup assertion, inferred personal mental state.
+## Actual current screenplay
+- `05_SCRIPT_V2.md`: full **2841** spoken English words, **53** numbered narration paragraphs / ten acts.
+- **Exactly 7** passages revised from preserved V1 (`03_SCRIPT_V1.md`); other **46 are identical**.
+- `05_REVISION_DIFF.csv`: source-linked old/new copies of all changed passages.
+- `05_SCRIPT_CLAIM_TRACE_V2.csv`: 53/53 canonical paragraph/claim trace, no orphan IDs, updated S01 acquisition-indemnity scope.
+- `05_SHORTS_MAP_V2.csv`: 8/8 exact contiguous V2 one-paragraph extracts, no additional VO or stitched context.
+- `05_PARAGRAPH_RECHECK_V2.csv`: targeted primary-source check on 7 corrected paragraphs + inherited unchanged G04 passes.
+- `05_SHORTS_ISOLATION_RECHECK_V2.csv`: all 8 exact V2 Short texts re-read in isolation; no fact-check flags on these rewritten excerpts.
 
-### Verified core locked meaning
-- 14k SVN downloads ≠ all Uber trade secrets used; civil corporate case ≠ federal individual plea.
-- 2018 ~$245m value in Uber stock, not damages judgment; $179047998.64 individual civil arbitration judgment, not Uber payment.
-- Uber→Google **Main Payment 2022 occurred**, exact figure under seal, separate $2m estate funding; 2025 tax ruling did not nullify settlement.
+## Source and chronology now correct
+- Stroz engaged **after Feb2016 term sheet, before August2016 deal closing**.
+- Uber's account dates five Google-information disks and their reported destruction **to March2016**; judge's ruling about LATE DISCLOSURE came Jan2018, allowed but did not require adverse jury inference; trial ended with settlement, not verdict.
+- Resemblance of vendor circuit drawings **alleged**; email a new trigger, not certain single cause.
+- Levandowski later **argued** Uber's 2016 conditional indemnity covered his personal 2020 Google civil judgment; company contested application.
+- 2022 Uber **made** separate sealed-amount payment to Google, plus $2m for bankruptcy estate; do not claim it was exactly $179m. 2018 ~$245m company settlement was stock.
 
-### Next
-**Stage05 SCRIPT REVISION** only on new owner direction; then G04 independent recheck. No synthesized audio, images, film editing or spend. **VIDEO 004 DO NOT TOUCH**.
+## Non-completed gates
+- Rewritten text still needs **independent current V2 G04** re-audit before any downstream approved lock. Retain V1 G04 FAIL as historical.
+- Stage01 and Stage02 owner HOLD unchanged; no false claims of owner creative approval.
+- Eight Shorts not timed on actual Harrison. 20–27s design/<=30s exported limit still requires Stage11.
+- No narration/audio, videos, visuals, paid generation, editing or licensing clearance. VIDEO004 DO NOT TOUCH.
+
+## Next action
+**Independent G04 re-audit of V2**, then if approved and owner allows, separate Stage06 performance review. No Stage07 script lock or voice generation until required gates pass.

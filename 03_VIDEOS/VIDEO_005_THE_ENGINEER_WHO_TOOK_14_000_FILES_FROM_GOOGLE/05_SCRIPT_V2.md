@@ -10,7 +10,7 @@
 
 **A00-P01**
 
-In March 2020, former Google engineer Anthony Levandowski faced a civil judgment exceeding one hundred seventy-nine million dollars. He filed for bankruptcy hours later. Years earlier, Uber had agreed to buy his startup and signed a conditional indemnification agreement covering certain legal risks. The judgment was his personal liability, not a verdict against Uber. Could that agreement obligate Uber to help pay?
+In March 2020, former Google engineer Anthony Levandowski faced a civil judgment exceeding one hundred seventy-nine million dollars. Hours later, he filed for bankruptcy. Uber had agreed to buy his startup and signed a conditional indemnification agreement covering certain legal risks. The judgment was personal, not a verdict against Uber. Could that agreement make Uber help pay?
 
 **A00-P02**
 
@@ -241,7 +241,7 @@ The public record supplies an ending, but not a single clean total. A massive pe
 ---
 ## Stage05 V2 production notes — NOT SPOKEN
 
-- **Spoken word count:** 2846 across 53 source-linked paragraph IDs in ten acts. Calculated speech-time estimates: 20.33 min at 140 WPM, 18.97 min at 150 WPM, 17.79 min at 160 WPM, excluding pauses. Harrison voice has NOT been recorded.
+- **Spoken word count:** 2841 across 53 source-linked paragraph IDs in ten acts. Calculated speech-time estimates: 20.29 min at 140 WPM, 18.94 min at 150 WPM, 17.76 min at 160 WPM, excluding pauses. Harrison voice has NOT been recorded.
 - Stage05 revised exactly SEVEN V1 paragraphs: A00-P01, A02-P06, A03-P06, A04-P01, A05-P03, A05-P04, A07-P05. 46 other narration paragraphs remain byte-identical to V1.
 - Fixed all original G04 errors: A02-P06 Stroz chronology; A05-P04 five-disks event chronology; A00-P01 independent context for S01; and medium wording risks in A03-P06, A04-P01, A05-P03, A07-P05.
 - **Canonical Shorts:** eight single-paragraph uninterrupted segments of THIS V2 screenplay in `05_SHORTS_MAP_V2.csv`, no new voice, no splicing from elsewhere. Audio-based duration is NOT measured, hard export <=30s.

@@ -7,9 +7,9 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
-current_stage: "03_SCRIPT_V1"
-next_action: "Stage04 FAIL: fix A02-P06 and A05-P04 timing errors, Shorts S01 missing standalone causal link and S05 wrong date; four medium fixes; then independent G04 re-review. Stage05 NOT_STARTED."
-blockers: ["G04 HIGH A02-P06 reverses pre-close Stroz diligence chronology", "G04 HIGH A05-P04 and Short S05 incorrectly date five discs as during lawsuit rather than 2016", "Short S01 lacks acquisition/indemnity standalone context", "Stage01/02 owner creative HOLD remains", "2022 Uber Main Payment amount SEALED; do not invent dollar amount"]
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Stage05 V2 source-scoped repairs PASS: 7 paragraph fixes, 53 trace rows, 8 exact standalone text Shorts. Re-run independent G04 on 05_SCRIPT_V2.md; V1 G04 FAIL remains historical. Owner G01/G02 HOLD remains."
+blockers: ["Current V2 independent G04 full legal recheck pending (V1 G04 FAIL historical)", "Stage01/02 owner editorial HOLD remains", "All eight Shorts require actual Harrison timed <=30s verification", "Uber 2022 Main Payment amount sealed and may not be invented"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -17,7 +17,7 @@ stages:
   stage_02_case_story_map: "HOLD"
   stage_03_script_v1: "DRAFT_COMPLETE"
   stage_04_fact_legal_review: "FAIL"
-  stage_05_script_revision: "NOT_STARTED"
+  stage_05_script_revision: "PASS"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
