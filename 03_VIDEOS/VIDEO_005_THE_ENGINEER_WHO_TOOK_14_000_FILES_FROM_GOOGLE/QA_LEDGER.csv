@@ -1,1 +1,4 @@
 issue_id,stage,reviewer,lens,severity,location,problem,evidence_or_reason,recommended_fix,decision,resolution_status,resolution_note
+Q001,00,assistant,LEGAL,HIGH,Stage01,"Separate 14000 downloaded files from one criminal guilty count and Uber civil allegations","US DOJ and court records","Verify factual scope in Stage01",CARRY_TO_STAGE01,OPEN,"Not Stage00 blocker"
+Q002,00,assistant,FINANCIAL,MEDIUM,Stage01,"Authenticate 0.34 percent equity settlement estimated $245M","2018 contemporaneous reports","Obtain primary share basis before script",CARRY_TO_STAGE01,OPEN,"No jury verdict"
+Q003,00,assistant,FINANCIAL,MEDIUM,Stage01,"Verify startup transaction consideration reportedly $680M","Court record","Check deal structure",CARRY_TO_STAGE01,OPEN,"Not confirmed all-cash"

@@ -5,3 +5,4 @@ Record material changes affecting facts, legal status, story promise, script, ti
 | Date | Area | Version | Change | Reason | Gate result |
 |---|---|---|---|---|---|
 | 2026-10-13 | package | v01 | Video package created | Production start | — |
+| 2026-10-13 | Stage00 | v02 | Verified DOJ/court/pardon/corporate records; qualified T005 at 89.0/100 | Approved locked #5 topic research gate | PASS / GO |
