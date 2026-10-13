@@ -1,16 +1,11 @@
-# VIDEO 005 — independent full G04 V4 RU Fact/Legal REVIEW FAIL (2026-10-13)
-
-**SOURCE TEXT UNMODIFIED**: `05_SCRIPT_V4_RU.md` (SHA d6383b05b07fd98cef43442237b4a2f2d2206631); 55 paragraphs/10 acts/8 exact one-piece Shorts. Owner accepted V4 RU dramatic style; legal review not approved.
-
-## Complete G04 V4 result
-- 55/55 paragraphs: **48 PASS / 5 WARN / 2 FAIL**. Exact per-paragraph texts, source keys and findings: `04_V4_PARAGRAPH_AUDIT.csv`.
-- Eight Shorts separately reviewed: **5 PASS / 3 WARN (S01 S05 S08) / 0 FAIL**. Exact standalone excerpts: `04_V4_SHORTS_ISOLATION_QC.csv`.
-- Primary full report: `04_V4_FACT_LEGAL_REVIEW.md`. Issues: `04_V4_ISSUE_REGISTER.csv`.
-- Two hard blockers: **Q046 A00-P03** reversed employer/former employee obligations; **Q047 A09-P05** presents 2022 Main Uber Payment as consequence of 2016 indemnity while 2025 court expressly calls its legal basis separate 2022 GLOBAL SETTLEMENT, not that earlier contract.
-- Five precision warnings: **Q048 A00-P01/S01** 'скопировал в Google' ambiguity; **Q049 A00-P02** old contract vs settlement legal basis; **Q050 A04-P03/S05** alleged-vs-proven secrets; **Q051 A08-P04/S08** 2023 vs 2025 difference $2m payee label; **Q052 A08-P05** main payoff should explicitly identify separate settlement as payment basis.
-
-## Unchanged gates
-G00 GO; G01/G02 OWNER HOLD remain; G04 V1 FAIL, V2 FAIL, V3 PASS all historical; **CURRENT G04 V4 FAIL**; G05 V4 RU creative approved, legal repairs needed; G06 NOT_STARTED, G07 NOT_LOCKED. No English V4, paid credits, Harrison master, audio runtime, video, media assets, timing or release. VIDEO004 untouched.
-
-## Next authorized action — only after new user instruction
-Stage05 V4.1 *targeted* legal/text repairs Q046–Q052; preserve 48 unaffected paragraphs and 8 contiguous short architecture, then new independent full Stage04 re-audit. Stop here.
+# VIDEO 005 — V4.1 RU source truth (2026-10-13)
+**Stage05 V4.1 COMPLETE / independent source-based G04 V4.1 PASS_TEXT.**
+- `05_SCRIPT_V4_1_RU.md`: 55 spoken paragraphs, ten acts, 2833 Russian spoken words. Exactly seven legal corrections, 48 unchanged from V4; original V4 and its G04 FAIL preserved.
+- `05_V4_1_REVISION_DIFF.csv`: full verbatim before/after Q046–Q052.
+- `05_V4_1_SHORTS_MAP_RU.csv`: eight exact one-paragraph audio zones; S01/S05/S08 inherited revisions, other five unchanged.
+- `05_V4_1_PARAGRAPH_SOURCE_TRACE.csv`: all 55 source groups.
+- `04_V4_1_FULL_REAUDIT.md` and two CSV audits: 55/55 PASS, eight Shorts 8/8 PASS for current RU text.
+- Legal lock: Uber's Main Payment in 2022 pursuant to **2022 Global Settlement**, not the 2016 disputed indemnity; $2m separately funds bankruptcy plan (2023 vs 2025 payee descriptions differ); main amount SEALED.
+- G01/G02 formal owner HOLD retained, Stage06 NOT_STARTED, Stage07 NOT_LOCKED.
+- No English adaptation, real Harrison timing, Voice Script, paid generation, assets, editing or Stage16 final legal refresh. VIDEO004 untouched.
+Next proposed task only if instructed: **English US V4.1 adaptation + fresh G04 legal check on its exact English claims and all eight standalone Shorts**.

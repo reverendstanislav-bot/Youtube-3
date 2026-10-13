@@ -8,16 +8,16 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
 current_stage: "05_SCRIPT_REVISION"
-next_action: "Independent full G04 V4 RU FAIL: Q046 A00-P03 role inversion; Q047 A09-P05 false settlement-vs-indemnity payment basis. Q048-Q052 five MEDIUM precision issues, S01/S05/S08 isolation WARN. Stage05 V4.1 targeted legal repairs require next owner authorization; no Stage06."
-blockers: ["G04 V4 FAIL HIGH Q046: inverted Google vs ex-employee duties in A00-P03", "G04 V4 FAIL HIGH Q047: 2022 Main Uber Payment was under GLOBAL SETTLEMENT not contested 2016 indemnity", "MEDIUM Q048-Q052 and standalone S01/S05/S08 WARN", "Stage01/02 formal owner HOLD remain; creative V4 user approved", "No English V4, Harrison or <=30s exact timed Shorts; no stage06", "2022 principal amount is sealed"]
+next_action: "Stage05 V4.1 RU seven legal repairs COMPLETE; independent-source G04 V4.1 RU PASS 55/55 paragraphs and 8/8 Shorts. Await owner instruction for English US adaptation and its separate legal review. Stage06 NOT_STARTED."
+blockers: ["G01/G02 formal owner HOLD persists though V4 dramatic direction approved", "English V4.1 NOT_STARTED and needs independent factual/legal audit", "8 Shorts require actual Harrison <=30s verification later", "Stage16 prepublication legal/rights/current-status refresh mandatory", "2022 Main Uber Payment amount sealed", "Stage06 unrequested / NOT_STARTED"]
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "HOLD"
   stage_02_case_story_map: "HOLD"
   stage_03_script_v1: "DRAFT_COMPLETE"
-  stage_04_fact_legal_review: "V4_FAIL_V3_PASS_HISTORICAL"
-  stage_05_script_revision: "V4_RU_CREATIVE_APPROVED_LEGAL_FIX_REQUIRED"
+  stage_04_fact_legal_review: "PASS_V4_1_RU_TEXT"
+  stage_05_script_revision: "V4_1_RU_TARGETED_REPAIRS_COMPLETE"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
@@ -52,7 +52,7 @@ evidence:
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-13"
-  unresolved_material_claims: 2
+  unresolved_material_claims: 0
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -82,7 +82,7 @@ assets:
 qa:
   topic: "PASS"
   research: "HOLD"
-  fact_legal: "FAIL_V4"
+  fact_legal: "PASS_V4_1_RU_TEXT"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
