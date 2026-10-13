@@ -102,3 +102,25 @@ So neither easy version works. You can't say the investigators found nothing wor
 
 Uber's board approved the acquisition, and the deal closed in August 2016. Levandowski took a senior role in Uber's autonomous-driving program. The questions hadn't disappeared. They'd moved inside a much bigger story. A few months later, something happened that didn't require a whistleblower or a hack. Somebody simply sent an email to the wrong company.
 
+## A04 — THE EMAIL SENT TO THE WRONG COMPANY
+
+**A04-P01**
+
+December 2016. A supplier sends an email intended for Uber. It lands at Google instead. Attached are circuit-board drawings related to self-driving technology. According to later court accounts, the drawings allegedly resembled Google's designs. That resemblance was not a finding of theft. But an unexpected look at a rival's engineering was enough to raise a new, very specific question.
+
+**A04-P02**
+
+The email didn't contain Levandowski's entire collection of 14,000 files. And resemblance alone wasn't proof that Uber had used protected Google information. But think about the change in perspective. First, Google had a former engineer who copied confidential materials. Now it had engineering drawings intended for Uber that appeared, according to the allegations, uncomfortably familiar.
+
+**A04-P03**
+
+In December 2016, a supplier accidentally sent Google an email meant for Uber. It contained circuit-board drawings that were later alleged to resemble Google's designs. That gave Google a new reason to investigate. But the email itself did not prove Uber had used Waymo trade secrets that Waymo accused it of misappropriating.
+
+**A04-P04**
+
+In February 2017, Waymo—the company built around Google's self-driving project—sued Uber and related Otto entities in federal court. Waymo alleged that trade secrets, including information involving LiDAR, had been misappropriated. Uber denied incorporating Waymo's trade secrets into its self-driving technology. Now the question wasn't just what people suspected. It was what the evidence could support in court.
+
+**A04-P05**
+
+And the court's early response wasn't a simple win for either side. A judge found grounds for certain temporary restrictions, but that did not mean every Waymo accusation had been proved. Meanwhile, another question was developing. What if potentially important information had been stored on media nobody could now inspect?
+
