@@ -1,4 +1,4 @@
-> **OWNER OVERRIDE — 2026-10-13, VIDEO005 ONLY:** Production selects **EXACTLY FOUR SHORTS** from the V4.3 EN 8-candidate pool: **S01, S03, S05, S08**, single-paragraph extracts, IDs NOT renumbered. Current active maps `05_V4_3_SHORTS_MAP_EN.csv` and `03_SHORTS_MAP.csv` contain 4 rows. S02/S04/S06/S07 are **NOT FOR PRODUCTION**; the eight-candidate table below is historical research and does not override the current selected cut list. Owner instruction supersedes default 6–10 for **VIDEO005 ONLY**.
+> **OWNER OVERRIDE — 2026-10-13, VIDEO005 ONLY:** Production selects **EXACTLY FOUR SHORTS** from the original V4.3 EN 8-candidate pool (also present unchanged inside V4.4): **S01, S03, S05, S08**, single-paragraph extracts, IDs NOT renumbered. Current active maps `05_V4_4_SHORTS_MAP_EN.csv` and `03_SHORTS_MAP.csv` contain 4 rows; four selected paragraph texts remain verbatim unchanged from V4.3. S02/S04/S06/S07 are **NOT FOR PRODUCTION**; the eight-candidate table below is historical research and does not override the current selected cut list. Owner instruction supersedes default 6–10 for **VIDEO005 ONLY**.
 
 ---
 

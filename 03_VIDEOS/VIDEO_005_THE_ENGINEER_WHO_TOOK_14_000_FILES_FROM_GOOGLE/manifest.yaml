@@ -7,18 +7,18 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
-current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "OWNER OVERRIDE: EXACTLY FOUR V4.3 native Shorts S01/S03/S05/S08 SELECTED, ALL 4 G06 creative PASS; second cold G06 long-form V4.3 remains WARN 79/100 below PASS>=82. Owner-authorized Stage05 V4.4 long-only corrections P069/P070/P071/P072/P073/P075 suggested before Stage07, with 4 Shorts frozen until owner changes."
-blockers: ["G06 V4.3 long-form WARN 79/100 BELOW required PASS>=82, Stage07 HOLD", "Six long-form editorial issues P069,P070,P071,P072,P073,P075 still open; Short-only P074 closed by exclusion", "G01/G02 formal owner editorial HOLD persists", "Owner selected exactly 4 Shorts S01,S03,S05,S08; Stage07 cut/VO lock NOT_CREATED", "Actual Harrison voice and <=30sec Shorts inclusive ending NOT_MEASURED; voice/generation not authorized", "Stage16 prepublication case-status, fact/legal and rights refresh pending", "2022 main Uber settlement payment amount is sealed"]
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Stage05 V4.4 targeted English retention rewrite DONE in one 2551-word 55-paragraph script. 23 focused paragraph edits for P069-P073 and partial P075, four locked Shorts S01/S03/S05/S08 verbatim. Fresh Stage04 V4.4 Fact/Legal full re-audit REQUIRED, then fresh Stage06 V4.4 (79/100 WARN belongs to V4.3 only). No Stage07 or voice."
+blockers: ["V4.4 changed 23 narration paragraphs: full independent Stage04 V4.4 legal/fact re-audit NOT_RUN", "Stage06 V4.4 NOT_RUN; historical V4.3 WARN 79/100 is NOT a current score or PASS", "P069-P073 rewritten but unverified; P075 intro/ending rewritten but competitor research rows remain missing", "Stage01/Stage02 formal owner HOLD unchanged", "Owner selects EXACTLY FOUR Shorts S01/S03/S05/S08; verbatim preserved and audio <=30s incl ending NOT_MEASURED", "Stage07 NOT_STARTED; Harrison paid voice/media not authorized", "2022 main payment sealed, Stage16 final legal/rights/current-status refresh pending"]
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "HOLD"
   stage_02_case_story_map: "HOLD"
   stage_03_script_v1: "DRAFT_COMPLETE"
-  stage_04_fact_legal_review: "PASS_V4_3_EN_TEXT"
-  stage_05_script_revision: "V4_3_EN_FOUR_TARGETED_LEGAL_FIXES_COMPLETE"
-  stage_06_performance_review: "V4_3_EN_WARN_79_OF_100_ACTIVE_4_SHORTS_PASS"
+  stage_04_fact_legal_review: "V4_4_REAUDIT_PENDING_V4_3_EN_PASS_HISTORICAL"
+  stage_05_script_revision: "V4_4_EN_TARGETED_RETENTION_REWRITE_COMPLETE"
+  stage_06_performance_review: "V4_3_WARN_79_HISTORICAL_V4_4_NOT_RUN"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
@@ -65,7 +65,7 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "OWNER_4_SELECTED_G06_SHORTS_PASS_STAGE07_PENDING"
+  architecture_status: "OWNER_FOUR_SHORTS_VERBATIM_IN_V4_4_STAGE07_NOT_LOCKED"
   target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -82,8 +82,8 @@ assets:
 qa:
   topic: "PASS"
   research: "HOLD"
-  fact_legal: "PASS_V4_3_EN_55_OF_55_8_OF_8"
-  performance: "WARN_V4_3_EN_79_100_SHORTS_4_OF_4_PASS"
+  fact_legal: "V4_4_NEW_FULL_REAUDIT_REQUIRED"
+  performance: "V4_3_WARN_79_HISTORICAL_V4_4_NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
