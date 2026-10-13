@@ -1,27 +1,29 @@
-# VIDEO005 — STATE after independent Stage00/01/02 AUDIT R2 (2026-10-13)
-## Current locks
-- **G00 topic GO remains valid**. Earlier 89/100 is historical subjective qualification, NOT observed audience success; old first-minute hook superseded by R2.
-- **G01 Evidence Research R2: PASS WITH GUARDRAILS for story mapping**; **30** unique catalogued source records; **56** source-linked claims; **40** source-linked events. *One unresolved precise date* C047 (Otto formed January 14 **or** 15) -> use month only. No claims of exhaustive 2026 PACER access.
-- **G02 Case/Story Map R2: STRUCTURAL PASS**; rewritten **14** drama-led acts (20:00 projected continuous), all **40/40** events in 02_TIMELINE.csv, **8/8** short-zone requirements. Actual narration, 20–27s Short spoken runtimes and audience retention **NOT TESTED**.
-- **G03 Script V1 NOT_STARTED**; absolutely no downstream authorization transferred.
+# VIDEO005 — State as of 2026-10-13 (R3)
+**TOPIC GO / STAGE01 HOLD / STAGE02 HOLD / STAGE03 NOT_STARTED**
 
-## Original false/weak emphases repaired
-1. 2016 email sent to wrong recipient is the investigative ignition [C041].
-2. Uber governance/forensic diligence and opposing evidence together [C042,C043,C046,C056].
-3. May2017 court's limitations as well as interim concerns [C045].
-4. 2018 civil company settlement separate from engineer's one-count personal criminal outcome [C020,C025].
-5. 2026 Phoenix pilot definitively ended; Austin and Atlanta remain active, further split only **reported and disputed** [C048–C050,C055].
-6. 2026 Kalanick/Atoms and Levandowski/Pronto indirect Uber investor link clarified [C051–C054].
-7. Exact Otto incorporation founding date disputed across Delaware opinions; **date HOLD** [C047].
-8. 2016 $100k cash upfront vs potential $680m stock consideration, 2018 ~$245m equity settlement, 2020/21 $400m Aurora investment and *reported* 2026 $100m Uber–Atoms investment each separate.
+## Why prior PASS revoked
+The owner called Stage01/02 weak twice. Previous R1/R2 wrongly used count of sources / chronology coverage as evidence of creative readiness and missed the 2019–22 Google arbitration → personal $179,047,998.64 judgment → bankruptcy hours later → conditional indemnity dispute → **confirmed 2022 Uber-to-Google payment whose amount was sealed**. It also missed five-disc/late-disclosure jury issue from 2018. **Do not reuse R1/R2 story endings as canon.**
 
-## QC and provenance limits
-- Every referenced S/C/E ID resolves to existing Stage01 CSV row; 40/40 Stage02 timeline mapping, 14 contiguous act time budgets, 8 short-zone plans, all CSV schema dimensions valid.
-- Source index URLs are source citations, NOT rights clearance to reproduce court exhibits, blogs, photographs or footage.
-- Current legal opinions, public DOJ and company statements checked; **related 2026 news often SECONDARY**, always attributed.
-- `00_02_INDEPENDENT_QC_R2.md` records rejected R1 assumptions and traceable R2 repairs.
-- No voice, image, render, production spend, additional stages or publishing.
+## Verified R3 artifacts
+- `SOURCE_INDEX.csv`: **36** source records; actual primary S031–S034 include court rulings and SEC, not counterfeit media.
+- `CLAIMS_LEDGER.csv`: **70** claims; C057–C070 added, preserving civil vs criminal, user defendant vs corporate liability and unknown sealed payment amount.
+- `CASE_EVENT_LEDGER.csv`: **49** distinct chronological events, E041–E049 new.
+- `01_COST_AFTERLIFE_EVIDENCE_R3.md`: critical new direct-source research.
+- `02_STORY_MAP.md`: **10 acts, 17:40 editorial estimate**; opening starts with personal $179m judgment; payoff is 2022 sealed payment, **not** Atoms 2026.
+- `02_TIMELINE.csv`: all 49 events mapped to the revised story.
+- `02_HOOK_LAB_R3.md`: three hooks with evidence and risks, judgment opener provisionally preferred.
+- `02_SHORTS_ARCHITECTURE.md`: eight self-contained prospective long-form-excerpt topics. No actually locked audio.
+- `00_02_INDEPENDENT_QC_R3.md`: previous creative reasons for HOLD.
+
+## What was mechanically tested
+36/70/49 CSV rows, references and schema validated; 49/49 event traceability; ten 17:40 act windows contiguous; 8 shortlist Short topics. **This is mechanical QC only, not proof good hook/retention or a publishable script.**
+
+## Remaining blockers
+1. Owner evaluates and approves or changes new spine/hook (do not mark PASS on own).
+2. Subsequent Stage03 Script V1 not yet written; after approval must validate natural English VO tempo.
+3. Stage04 legal sentence review and 8 Shorts in isolation; Stage06 independent audience-hook/performance re-evaluation.
+4. Original source exhibit bytes/rights still unarchived; 2022 direct Uber payment exact amount sealed.
+5. Stage16 refresh fast-changing 2026 events before upload.
 
 ## Next action
-**Stage03 Script V1 only after owner instructs.** Narration must pass claim-by-claim Stage04 review and Short isolation QC. Do not guess future VO duration from 20:00 scene budgets.
-**VIDEO004 owner instruction DO NOT TOUCH** continues.
+**Await owner feedback on R3; Stage03 remains NOT_STARTED.** No paid jobs, music/SFX, images, voice or rendering. Do not touch VIDEO004.
