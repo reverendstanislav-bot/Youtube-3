@@ -1,3 +1,5 @@
+> **SUPERSEDED LOW-QUALITY EXPORT:** This document records the older 77MB / 0.55Mbps video. Do not publish or identify it as the high-quality master. The corrected CRF8 639MB export is documented in [14_R8_HIGH_QUALITY_MP4_TECHNICAL_QC_20261012.md](14_R8_HIGH_QUALITY_MP4_TECHNICAL_QC_20261012.md).
+
 # VIDEO004 — Actual full MP4 render + technical QC (2026-10-12 user local date)
 
 ## Actual output: exists and decoded PASS
