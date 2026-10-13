@@ -40,7 +40,7 @@ Was it the missing link? Not by itself. The drawings were not a copy of Levandow
 
 **A04-P03**
 
-One wrong email helped move a tech rivalry toward court. In December 2016, a supplier sent Google circuit-board drawings intended for Uber. Google suspected similarities to its designs. The email didn't prove Uber used stolen secrets—but it helped prompt further investigation. By February 2017, Waymo had filed a federal lawsuit against Uber and Otto.
+One wrong email helped move a tech rivalry toward court. In December 2016, a supplier sent Google circuit-board drawings intended for Uber. Google suspected similarities to its designs. The email didn't prove Uber used Waymo's trade secrets—but it helped prompt further investigation. By February 2017, Waymo had filed a federal lawsuit against Uber and Otto.
 
 **A04-P04**
 
