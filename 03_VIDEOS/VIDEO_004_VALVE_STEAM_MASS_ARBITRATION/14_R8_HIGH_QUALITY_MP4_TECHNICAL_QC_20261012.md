@@ -1,3 +1,5 @@
+> **OWNER REJECT — 2026-10-13:** This rendered MP4 contains unauthorized burned-in narration subtitles (white with orange word highlighting) copied from another project's conventions. `Youtube-3/00_FOUNDATION/EDITING_CANON.md` does not authorize this style. **DO NOT PUBLISH / DO NOT MARK RELEASE PASS.** Technical decode and bitrate checks do not override owner's rejection. The correct replacement must be built from native R8 assets with NO generated/burned narrative captions unless separately authorized; do not edit the encoded pixels to mask them.
+
 # VIDEO004 — R8 corrected high-quality MP4 export technical QC
 
 **Status: HQ TECHNICAL EXPORT PASS; CREATIVE/FULL SOURCE-PIXEL QC NOT CLAIMED.**
