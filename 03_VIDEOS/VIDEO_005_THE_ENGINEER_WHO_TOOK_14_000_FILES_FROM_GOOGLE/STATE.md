@@ -1,28 +1,26 @@
-# VIDEO 005 — Source of truth / Stage05 revised screenplay V2 (2026-10-13)
+# VIDEO 005 — Current source of truth | Stage04 independent V2 re-audit (2026-10-13)
 
-**G00 TOPIC GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 V1 COMPLETE | G04 V1 FAIL (HISTORICAL) | G05 V2 REVISION PASS (TEXT ONLY) | G06 NOT_STARTED**
+**G00 TOPIC GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 V1 DRAFT_COMPLETE | G04 V1 FAIL (historical) | G05 V2 REVISION PASS (text only) | G04 V2 FAIL (CURRENT) | G06 NOT_STARTED**
 
-## Actual current screenplay
-- `05_SCRIPT_V2.md`: full **2841** spoken English words, **53** numbered narration paragraphs / ten acts.
-- **Exactly 7** passages revised from preserved V1 (`03_SCRIPT_V1.md`); other **46 are identical**.
-- `05_REVISION_DIFF.csv`: source-linked old/new copies of all changed passages.
-- `05_SCRIPT_CLAIM_TRACE_V2.csv`: 53/53 canonical paragraph/claim trace, no orphan IDs, updated S01 acquisition-indemnity scope.
-- `05_SHORTS_MAP_V2.csv`: 8/8 exact contiguous V2 one-paragraph extracts, no additional VO or stitched context.
-- `05_PARAGRAPH_RECHECK_V2.csv`: targeted primary-source check on 7 corrected paragraphs + inherited unchanged G04 passes.
-- `05_SHORTS_ISOLATION_RECHECK_V2.csv`: all 8 exact V2 Short texts re-read in isolation; no fact-check flags on these rewritten excerpts.
+## Actual assets
+- `05_SCRIPT_V2.md` remains the current unchanged 2841-spoken-word screenplay, 53 paragraphs / 10 acts.
+- `05_SHORTS_MAP_V2.csv`: all eight verbatim one-paragraph long-form extracts unchanged.
+- **Independent** fresh full-script report: `04_V2_INDEPENDENT_REAUDIT.md`.
+- **53/53 full verbatim paragraph audits**: `04_V2_PARAGRAPH_AUDIT.csv` — 49 PASS, 2 WARN, 2 FAIL.
+- **8/8 exact independent Short isolation audits**: `04_V2_SHORTS_ISOLATION_QC.csv` — 7 PASS_TEXT, S04 WARN_TEXT; runtime NOT_MEASURED.
 
-## Source and chronology now correct
-- Stroz engaged **after Feb2016 term sheet, before August2016 deal closing**.
-- Uber's account dates five Google-information disks and their reported destruction **to March2016**; judge's ruling about LATE DISCLOSURE came Jan2018, allowed but did not require adverse jury inference; trial ended with settlement, not verdict.
-- Resemblance of vendor circuit drawings **alleged**; email a new trigger, not certain single cause.
-- Levandowski later **argued** Uber's 2016 conditional indemnity covered his personal 2020 Google civil judgment; company contested application.
-- 2022 Uber **made** separate sealed-amount payment to Google, plus $2m for bankruptcy estate; do not claim it was exactly $179m. 2018 ~$245m company settlement was stock.
+## Newly detected blockers in Stage04 V2
+- **Q043 HIGH — A06-P05**: $179m personal judgment mistakenly described as **larger than** ~$245m Uber/Waymo equity settlement.
+- **Q044 HIGH — A08-P04**: $2m payment mistakenly described as provided **to Levandowski** instead of bankruptcy **estate**, while sealed Main Uber Payment called **larger** without disclosed amount.
+- **Q045 MEDIUM — A03-P03 / A03-P04 / S04**: Stroz's no-evidence-transfer finding not tightly scoped to **Levandowski's** retained Google data.
+- Correct original V1 Stage04 issues in V2 preserved and separately verified: S01 conditional indemnity context; Stroz before close; 2016 disks vs 2018 court; permissive inference; qualified vendor resemblance and parties' positions.
 
-## Non-completed gates
-- Rewritten text still needs **independent current V2 G04** re-audit before any downstream approved lock. Retain V1 G04 FAIL as historical.
-- Stage01 and Stage02 owner HOLD unchanged; no false claims of owner creative approval.
-- Eight Shorts not timed on actual Harrison. 20–27s design/<=30s exported limit still requires Stage11.
-- No narration/audio, videos, visuals, paid generation, editing or licensing clearance. VIDEO004 DO NOT TOUCH.
+## Unchanged prohibitions / open gates
+- G04 V2 **FAIL**; do not label script legally cleared or lock Stage07; Stage06 NOT_STARTED.
+- G01 and G02 **OWNER HOLD** stay in force.
+- Uber-to-Google 2022 payment occurred, principal amount **sealed**, separate $2m **to estate** for plan; no public numeric estimate allowed.
+- Shorts timings unverified against Harrison and must be tested later in Stage11, not inferred from word counts.
+- No spending, TTS, visuals, music, media, or edits. VIDEO004 DO NOT TOUCH.
 
-## Next action
-**Independent G04 re-audit of V2**, then if approved and owner allows, separate Stage06 performance review. No Stage07 script lock or voice generation until required gates pass.
+## Next action — requires fresh user authorization
+**Stage05 V3 narrow repair of Q043/Q044/Q045 inside canonical long-form** with 8 contiguous Shorts re-extracted and new fact/legal independent G04 check. Stop at this boundary.

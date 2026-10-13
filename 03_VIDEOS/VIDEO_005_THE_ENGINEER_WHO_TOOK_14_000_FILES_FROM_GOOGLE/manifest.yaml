@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
 current_stage: "05_SCRIPT_REVISION"
-next_action: "Stage05 V2 source-scoped repairs PASS: 7 paragraph fixes, 53 trace rows, 8 exact standalone text Shorts. Re-run independent G04 on 05_SCRIPT_V2.md; V1 G04 FAIL remains historical. Owner G01/G02 HOLD remains."
-blockers: ["Current V2 independent G04 full legal recheck pending (V1 G04 FAIL historical)", "Stage01/02 owner editorial HOLD remains", "All eight Shorts require actual Harrison timed <=30s verification", "Uber 2022 Main Payment amount sealed and may not be invented"]
+next_action: "Stage04 independent full V2 re-audit FAIL: Q043 A06-P05 $179m<$245m; Q044 A08-P04 $2m payee is estate and sealed Main Payment not proved larger; Q045 Stroz transfer scope A03-P03/P04/S04. Owner-authorized Stage05 V3 repair required; no Stage06."
+blockers: ["G04 V2 FAIL: A06-P05 false $179m > $245m comparison (Q043)", "G04 V2 FAIL: A08-P04 $2m estate payee and unproven size of sealed payment (Q044)", "S04 and A03-P03/P04 Stroz report attribution too broad (Q045 MEDIUM)", "Stage01/02 owner editorial HOLD remains", "All eight Shorts require actual Harrison <=30s verification at Stage11", "Uber 2022 Main Payment amount sealed; cannot invent"]
 
 stages:
   stage_00_topic_qualification: "PASS"
