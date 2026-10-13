@@ -1,0 +1,9 @@
+issue_id,stage,priority,exact_location,diagnosis,acceptance,source_version,status
+"P061","06","HIGH","A00-P01:A00-P04","Named protagonist and $179m stakes delayed ~75s","Make human stakes and title promise explicit inside first ~35s","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P062","06","HIGH","A00-P02:A00-P03;A08-P01:A08-P05","Mystery mechanism prematurely categorized; main earned payoff ~19min","Substantive paid-off questions ~3/~7/~12 min and final 2022 answer earlier","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P063","06","HIGH","A00-P03;A01-P01:A01-P02;A03-P03:A03-P05;A04-P01:A04-P03;A05-P03:A05-P04;A06-P01:A06-P02;A07-P06;A09-P02:A09-P03","Repeated legal qualifications and duplicated event narration","Each retained paragraph must change evidence or decision; preserve caveats compactly","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P064","06","HIGH","S01;A00-P01","Short S01 unresolved teaser instead of standalone mini-payoff","In-film paragraph must close one honest sourced tension within same continuous extract","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P065","06","MEDIUM","A07-P02;A08-P05;A09-P01:A09-P05","Personal consequence and payment resolution very late; final tax detour deflates ending","Earlier consequence and lean last payoff with explicit source-backed ending","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P066","06","MEDIUM","S02;S04;S05;S07","Standalone Shorts first lines read as legal summaries","First clause with concrete person/decision/number and earned mini-answer","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P067","06","MEDIUM","A01-P01:A01-P02;A03-P05;A09-P03","Abstract explanation lacks evolving visual evidence","Source-grounded on-screen proof and visual action without forged exhibits","V4_1_EN","OPEN_STAGE05_CORRECTION"
+"P068","06","LOW","A09-P05;01_COMPETITOR_RESEARCH.csv","Generic lesson; comparator ledger contains no records","Concrete ending and evidence-backed next-view question if appropriate","V4_1_EN","OPEN_STAGE05_CORRECTION"
