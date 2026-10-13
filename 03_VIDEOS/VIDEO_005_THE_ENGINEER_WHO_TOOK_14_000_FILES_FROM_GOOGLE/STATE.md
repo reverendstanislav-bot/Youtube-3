@@ -1,11 +1,11 @@
-# VIDEO 005 — V4.1 RU source truth (2026-10-13)
-**Stage05 V4.1 COMPLETE / independent source-based G04 V4.1 PASS_TEXT.**
-- `05_SCRIPT_V4_1_RU.md`: 55 spoken paragraphs, ten acts, 2833 Russian spoken words. Exactly seven legal corrections, 48 unchanged from V4; original V4 and its G04 FAIL preserved.
-- `05_V4_1_REVISION_DIFF.csv`: full verbatim before/after Q046–Q052.
-- `05_V4_1_SHORTS_MAP_RU.csv`: eight exact one-paragraph audio zones; S01/S05/S08 inherited revisions, other five unchanged.
-- `05_V4_1_PARAGRAPH_SOURCE_TRACE.csv`: all 55 source groups.
-- `04_V4_1_FULL_REAUDIT.md` and two CSV audits: 55/55 PASS, eight Shorts 8/8 PASS for current RU text.
-- Legal lock: Uber's Main Payment in 2022 pursuant to **2022 Global Settlement**, not the 2016 disputed indemnity; $2m separately funds bankruptcy plan (2023 vs 2025 payee descriptions differ); main amount SEALED.
-- G01/G02 formal owner HOLD retained, Stage06 NOT_STARTED, Stage07 NOT_LOCKED.
-- No English adaptation, real Harrison timing, Voice Script, paid generation, assets, editing or Stage16 final legal refresh. VIDEO004 untouched.
-Next proposed task only if instructed: **English US V4.1 adaptation + fresh G04 legal check on its exact English claims and all eight standalone Shorts**.
+# VIDEO005 — Stage06 V4.1 English performance FAIL (2026-10-13)
+
+**Current creative source:** English V4.1 US, one 55-paragraph/10-act film (3,159 words) in four storage parts indexed by `05_SCRIPT_V4_1_EN_README.md`. All 8 Shorts exact in-film paragraphs in `05_V4_1_SHORTS_MAP_EN.csv`. Russian V4.1 accepted editorially and G04 legally; separate G04 V4.1 English 55/55 PASS_TEXT and 8/8 PASS_TEXT. Both are NOT performance clearance.
+
+**CURRENT Stage06 score: 70/100 — FAIL.** Conflict hard gate 3.5/5 below required 4, total below 75. Performance report: `06_PERFORMANCE_REVIEW.md`; eight creative Shorts independently: `06_SHORTS_PERFORMANCE_QC.csv` (**3 PASS S03/S06/S08, 4 WARN S02/S04/S05/S07, 1 FAIL S01**). Performance issue register `06_ISSUE_REGISTER.csv` P061–P068.
+
+**Main defects:** engineer's name and $179m personal stakes delayed about 75sec; sealed 2022 payment truth delayed till ~19min; duplicated explanation A03/A04/A05/A06/A09; Short S01 promises but does not deliver an answer; ending abstract and repetitive. Estimated speech at 145wpm 21:47 (NOT an actual Harrison timing). Eight Shorts 47–58 words each, <=30s total NOT MEASURED.
+
+**Gates:** Stage01/02 formal owner HOLD remains; Stage04 English FACT/LEGAL PASS_TEXT; Stage05 V4.1 EN adaptation complete; **Stage06 FAIL**; Stage07 NOT_STARTED and script NOT LOCKED; Stage16 freshness required. Original V1–V4/RU preserved. No TTS, video, image, spending, mastering or VIDEO004 changes.
+
+**Next action only upon owner request:** Stage05 V4.2 focused retention/Short rewrite, then fresh English Fact/Legal and Stage06 checks on newly authored version. Do not advance automatically.
