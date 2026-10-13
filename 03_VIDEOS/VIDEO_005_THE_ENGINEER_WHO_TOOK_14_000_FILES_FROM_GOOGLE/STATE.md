@@ -1,26 +1,13 @@
-# VIDEO 005 — Current source of truth | Stage04 independent V2 re-audit (2026-10-13)
+# VIDEO005 — current Stage05 V3 + independent G04 V3 (2026-10-13)
+**G00 GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 DRAFT_COMPLETE | G04 V1 FAIL historic | G05 V2 PASS historic | G04 V2 FAIL historic | G05 V3 PASS_TEXT | G04 V3 PASS_TEXT CURRENT | G06 NOT_STARTED**
 
-**G00 TOPIC GO | G01 OWNER HOLD | G02 OWNER HOLD | G03 V1 DRAFT_COMPLETE | G04 V1 FAIL (historical) | G05 V2 REVISION PASS (text only) | G04 V2 FAIL (CURRENT) | G06 NOT_STARTED**
+- Current canonical 05_SCRIPT_V3.md: 2850 spoken words, 53 main script paragraphs, 10 acts.
+- Exactly four changed vs V2: A03-P03, A03-P04, A06-P05, A08-P04; V1/V2 preserved.
+- Updated C043/C064 claims; 53/53 trace, 8/8 contiguous Shorts, only S04 changed in long-form.
+- Independent 04_V3_INDEPENDENT_REAUDIT.md complete: 53 paragraph PASS, 8 isolated Short PASS_TEXT, no outstanding factual/legal script issues.
+- Q043 false financial ordering fixed; Q044 conflicting court descriptions expressly acknowledged and script narrower; Q045 Stroz Levandowski-specific scope fixed.
+- Stage01 and Stage02 OWNER HOLD unchanged. Stage06 NOT_STARTED; no advance or Stage07 lock without owner approval.
+- Actual Harrison timing / <=30s Shorts not measured; Main Uber Payment amount sealed; Stage16 prepublish legal refresh required.
+- No new images, voice, video, audio, paid usage or VIDEO004 edits.
 
-## Actual assets
-- `05_SCRIPT_V2.md` remains the current unchanged 2841-spoken-word screenplay, 53 paragraphs / 10 acts.
-- `05_SHORTS_MAP_V2.csv`: all eight verbatim one-paragraph long-form extracts unchanged.
-- **Independent** fresh full-script report: `04_V2_INDEPENDENT_REAUDIT.md`.
-- **53/53 full verbatim paragraph audits**: `04_V2_PARAGRAPH_AUDIT.csv` — 49 PASS, 2 WARN, 2 FAIL.
-- **8/8 exact independent Short isolation audits**: `04_V2_SHORTS_ISOLATION_QC.csv` — 7 PASS_TEXT, S04 WARN_TEXT; runtime NOT_MEASURED.
-
-## Newly detected blockers in Stage04 V2
-- **Q043 HIGH — A06-P05**: $179m personal judgment mistakenly described as **larger than** ~$245m Uber/Waymo equity settlement.
-- **Q044 HIGH — A08-P04**: $2m payment mistakenly described as provided **to Levandowski** instead of bankruptcy **estate**, while sealed Main Uber Payment called **larger** without disclosed amount.
-- **Q045 MEDIUM — A03-P03 / A03-P04 / S04**: Stroz's no-evidence-transfer finding not tightly scoped to **Levandowski's** retained Google data.
-- Correct original V1 Stage04 issues in V2 preserved and separately verified: S01 conditional indemnity context; Stroz before close; 2016 disks vs 2018 court; permissive inference; qualified vendor resemblance and parties' positions.
-
-## Unchanged prohibitions / open gates
-- G04 V2 **FAIL**; do not label script legally cleared or lock Stage07; Stage06 NOT_STARTED.
-- G01 and G02 **OWNER HOLD** stay in force.
-- Uber-to-Google 2022 payment occurred, principal amount **sealed**, separate $2m **to estate** for plan; no public numeric estimate allowed.
-- Shorts timings unverified against Harrison and must be tested later in Stage11, not inferred from word counts.
-- No spending, TTS, visuals, music, media, or edits. VIDEO004 DO NOT TOUCH.
-
-## Next action — requires fresh user authorization
-**Stage05 V3 narrow repair of Q043/Q044/Q045 inside canonical long-form** with 8 contiguous Shorts re-extracted and new fact/legal independent G04 check. Stop at this boundary.
+Next possible stage: Stage06 Performance Review, only on new owner instruction and without treating G01/G02 as approved.
