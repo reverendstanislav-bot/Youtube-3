@@ -1,29 +1,29 @@
-# VIDEO005 — State as of 2026-10-13 (R3)
-**TOPIC GO / STAGE01 HOLD / STAGE02 HOLD / STAGE03 NOT_STARTED**
+# VIDEO 005 — state after owner-authorized Stage03 Script V1 (2026-10-13)
 
-## Why prior PASS revoked
-The owner called Stage01/02 weak twice. Previous R1/R2 wrongly used count of sources / chronology coverage as evidence of creative readiness and missed the 2019–22 Google arbitration → personal $179,047,998.64 judgment → bankruptcy hours later → conditional indemnity dispute → **confirmed 2022 Uber-to-Google payment whose amount was sealed**. It also missed five-disc/late-disclosure jury issue from 2018. **Do not reuse R1/R2 story endings as canon.**
+## Stage status
+- **Stage 00: TOPIC GO** (owner-chosen title remains working title).
+- **Stage 01: HOLD** from owner rejection of R1/R2. R3 source research (36 records / 70 claims / 49 events) is available for screenplay construction; HOLD not automatically removed.
+- **Stage 02: HOLD** for editor/owner acceptance of R3 creative structure. Ten acts with tighter legal/financial payoff are an input, not automatically approved.
+- **Stage 03: DRAFT_COMPLETE** under owner's explicit instruction "делай 3". The canonical 03_SCRIPT_V1.md actually exists and is 2828 **spoken** English words in 53 identifiable paragraphs and ten chapters. At 140–160 WPM, approximate VO duration **17.7–20.2 min** with normal pause variation not yet measured.
 
-## Verified R3 artifacts
-- `SOURCE_INDEX.csv`: **36** source records; actual primary S031–S034 include court rulings and SEC, not counterfeit media.
-- `CLAIMS_LEDGER.csv`: **70** claims; C057–C070 added, preserving civil vs criminal, user defendant vs corporate liability and unknown sealed payment amount.
-- `CASE_EVENT_LEDGER.csv`: **49** distinct chronological events, E041–E049 new.
-- `01_COST_AFTERLIFE_EVIDENCE_R3.md`: critical new direct-source research.
-- `02_STORY_MAP.md`: **10 acts, 17:40 editorial estimate**; opening starts with personal $179m judgment; payoff is 2022 sealed payment, **not** Atoms 2026.
-- `02_TIMELINE.csv`: all 49 events mapped to the revised story.
-- `02_HOOK_LAB_R3.md`: three hooks with evidence and risks, judgment opener provisionally preferred.
-- `02_SHORTS_ARCHITECTURE.md`: eight self-contained prospective long-form-excerpt topics. No actually locked audio.
-- `00_02_INDEPENDENT_QC_R3.md`: previous creative reasons for HOLD.
+## Stage03 artifacts
+- `03_SCRIPT_V1.md` — **full** narration draft with 10 chapters, 53 paragraph IDs, no invented narrator quotes, zero copied music/sfx/edit presets.
+- `03_SHORTS_MAP.csv` — **8** Shorts, each EXACTLY one contiguous long-form paragraph in the SAME text; 48–55 words each, all with source/case qualifier; actual Harrison timestamps and isolated legal QC pending.
+- `03_SCRIPT_CLAIM_TRACE.csv` — every one of the 53 paragraph IDs linked to primary Stage01 claim IDs.
+- `CLAIMS_LEDGER.csv` — 47 materially used claims updated with script paragraph references; no source IDs invented.
+- `03_SCRIPT_V1_QC.md` — script structure and technical reference QC.
 
-## What was mechanically tested
-36/70/49 CSV rows, references and schema validated; 49/49 event traceability; ten 17:40 act windows contiguous; 8 shortlist Short topics. **This is mechanical QC only, not proof good hook/retention or a publishable script.**
+## Story promise
+- 0–60 sec: 2020 $179m PERSONAL civil judgment, bankruptcy within hours, 14k files, corporate STOCK settlement and separately confirmed 2022 Uber payment, unknown sealed amount.
+- Middle: former Google employee, Otto transaction/conditional deal price, disputed indemnity, Stroz's retained Google information/no evidence of transfer, accidental vendor email, limited 2017 court findings and 2018 permissive inference about 5 disks, 2018 245m share settlement.
+- Ending: separate Google arbitration vs one-count federal plea/pardon, 2022 real Uber-to-Google payment made under global settlement, distinct 2m for bankruptcy plan and not to be misquoted as exact secret value.
+- NO 2026 Atoms detour as cinematic climax; no combined fake 'total loss' figure.
 
-## Remaining blockers
-1. Owner evaluates and approves or changes new spine/hook (do not mark PASS on own).
-2. Subsequent Stage03 Script V1 not yet written; after approval must validate natural English VO tempo.
-3. Stage04 legal sentence review and 8 Shorts in isolation; Stage06 independent audience-hook/performance re-evaluation.
-4. Original source exhibit bytes/rights still unarchived; 2022 direct Uber payment exact amount sealed.
-5. Stage16 refresh fast-changing 2026 events before upload.
+## Current acceptance and blockers
+- **PASS structural checks**: 2828 spoken words, 10 acts, 53/53 claim mappings, 8 contiguous Shorts, zero malformed CSV, zero missing source/claim foreign keys.
+- **NOT PASSED / NOT ATTEMPTED**: independent Stage04 sentence-by-sentence legal review, actual delivery timing, all 8 Shorts in isolation, later Stage06 retention/performance QC, owner script lock.
+- Original footage/document licensing and final Stage16 freshness update remain future tasks.
+- Important financial category: 179047998.64 is **Levandowski individual civil** judgment; 245m is approximate stock consideration in settled Waymo–Uber civil case; 2022 Uber direct-to-Google main payment amount **sealed** and separate 2m for Levandowski reorganization. Never add or substitute them.
 
 ## Next action
-**Await owner feedback on R3; Stage03 remains NOT_STARTED.** No paid jobs, music/SFX, images, voice or rendering. Do not touch VIDEO004.
+**STOP after Stage03.** Await owner's next Stage04 instruction or revision notes. No audio generation, images, video rendering, publishing or credits. **VIDEO004 DO NOT TOUCH**.
