@@ -239,7 +239,7 @@ What began with access to Google's confidential engineering files became a probl
 The public record supplies an ending, but not a single clean total. A massive personal judgment. A bankruptcy hours later. A stock settlement. And a separate, sealed payment from Uber to Google. The real cost was not simply the number on the acquisition announcement. It was a risk written into a deal—and argued about long after the deal closed.
 
 ---
-## Stage 05 V3 production notes — NOT SPOKEN
+## Stage05 V3 production notes — NOT SPOKEN
 
 - Total spoken-word count: 2850 using project whitespace/hyphen/en/em-dash counting; 53 paragraphs across ten acts.
 - Exactly four main-film paragraph edits: A03-P03, A03-P04, A06-P05, A08-P04. Other 49 paragraphs unchanged from V2.
