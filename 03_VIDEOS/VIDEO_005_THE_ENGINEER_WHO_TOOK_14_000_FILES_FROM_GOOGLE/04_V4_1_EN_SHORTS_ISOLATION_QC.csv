@@ -1,0 +1,9 @@
+short_id,main_english_paragraph,word_count,standalone_fact_legal_verdict,factual_check,voice_duration_status
+"S01","A00-P01","58","PASS","2018 $245m equity, later executed but sealed 2022 payment, 14k FROM Google, distinct proceedings","NOT_MEASURED_HARRISON"
+"S02","A01-P03","50","PASS","DOJ download established; no claim Uber used all files","NOT_MEASURED_HARRISON"
+"S03","A02-P03","55","PASS","Up-to-$680m contingent value not $680m cash; $100k upfront","NOT_MEASURED_HARRISON"
+"S04","A03-P04","54","PASS","Stroz finding limited to Levandowski retained Google data, not universal exoneration","NOT_MEASURED_HARRISON"
+"S05","A04-P03","52","PASS","Supplier email drawings resemblance ALLEGED, no proof Uber incorporated Waymo data","NOT_MEASURED_HARRISON"
+"S06","A05-P04","49","PASS","Disks March2016, optional adverse inference January2018, contents not established","NOT_MEASURED_HARRISON"
+"S07","A06-P02","47","PASS","2018 Uber share settlement, no jury liability verdict, no criminal cash fine","NOT_MEASURED_HARRISON"
+"S08","A08-P04","52","PASS","2022 direct sealed Uber-to-Google payment, separate $2m plan funding, payee neutral","NOT_MEASURED_HARRISON"
