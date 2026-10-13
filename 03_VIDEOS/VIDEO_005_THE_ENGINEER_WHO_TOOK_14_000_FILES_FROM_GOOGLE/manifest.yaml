@@ -8,16 +8,16 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
 current_stage: "05_SCRIPT_REVISION"
-next_action: "Stage05 V3 revised exactly four paragraphs resolving Q043 Q044 Q045; independent Stage04 V3 53/53 and 8/8 factual-text PASS. Stage01 and Stage02 owner HOLD; Stage06 only on separate authorization."
-blockers: ["Stage01 and Stage02 owner editorial HOLD remains", "Stage06 not requested / NOT_STARTED", "All eight Shorts require real Harrison <=30s timing verification later in Stage11", "Stage16 final prepublication case/fact/legal freshness mandatory", "2022 Main Uber Payment amount sealed and must never be invented"]
+next_action: "V4 Russian story-first rewrite available for owner review; 55 long-form paragraphs, 8 exact short extracts, 10-act Q/A reveal map. G04 fact/legal re-audit of V4 REQUIRED; V3 English PASS is historical and does not approve V4. Do not start Stage06 or paid voice."
+blockers: ["V4 RU requires owner creative approval; 01/02 OWNER HOLD remain", "V4 is a NEW rewritten script: Stage04 V4 full independent fact/legal review PENDING", "V4 English adaptation/voice script not started", "Eight Shorts require English and actual Harrison duration <=30 sec", "Uber 2022 main payment amount is sealed"]
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "HOLD"
   stage_02_case_story_map: "HOLD"
   stage_03_script_v1: "DRAFT_COMPLETE"
-  stage_04_fact_legal_review: "PASS"
-  stage_05_script_revision: "PASS"
+  stage_04_fact_legal_review: "V3_PASS_HISTORICAL_V4_PENDING"
+  stage_05_script_revision: "V4_RU_DRAFT_FOR_OWNER"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
@@ -82,7 +82,7 @@ assets:
 qa:
   topic: "PASS"
   research: "HOLD"
-  fact_legal: "PASS"
+  fact_legal: "V4_REAUDIT_PENDING"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
