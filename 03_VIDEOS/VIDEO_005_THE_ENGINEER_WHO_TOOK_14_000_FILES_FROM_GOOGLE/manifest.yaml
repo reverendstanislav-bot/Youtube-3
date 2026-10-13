@@ -7,18 +7,18 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
-current_stage: "04_FACT_LEGAL_REVIEW"
-next_action: "Full independent-style G04 V4.2 EN FAIL: Q053 HIGH A00-P01/S01 implied false causal relationship between 14k files and $179m employment arbitration; Q054 MEDIUM Otto founding chronology; Q055 MEDIUM disks unverified source. Owner-authorized Stage05 V4.3 FOUR-PARAGRAPH repair and re-audit required. Stage06 V4.2 NOT_RUN, Stage07 NOT_STARTED."
-blockers: ["G04 V4.2 EN FAIL HIGH Q053 A00-P01/S01: $179m judgment separate employment-related arbitration not a penalty for 14k SVN downloads", "Q054 MEDIUM A01-P04: Otto founded 2016-01-15 while still Google employee, resigned Jan27", "Q055 MEDIUM A05-P01/A05-P04/S06: disks described as containing Google information without attributing unverified contents", "G01/G02 owner editorial HOLD unchanged", "G06 V4.2 NOT_RUN; historical V4.1 FAIL 70/100", "Stage07 NOT_STARTED, paid voice NOT AUTHORIZED, eight Shorts actual runtime NOT MEASURED", "Main Uber Payment 2022 amount sealed, Stage16 refresh mandatory"]
+current_stage: "05_SCRIPT_REVISION"
+next_action: "Stage05 V4.3 complete: exactly four legal paragraph corrections / 51 untouched, 2 native Shorts updated / 6 untouched; full G04 V4.3 English source-based text PASS 55/55 and 8/8. Stage06 V4.3 creative review only if owner instructs; no voice or Stage07."
+blockers: ["G01/G02 formal owner editorial HOLD persists", "Stage06 V4.3 creative Performance Review NOT_RUN; historical V4.1 FAIL 70/100 does not certify V4.3", "Stage07 script NOT_LOCKED and Harrison paid TTS not approved", "Eight Shorts real total <=30 seconds including ending UNMEASURED", "Stage16 prepublication fact/legal/rights update still required", "Uber-to-Google 2022 Main Payment amount sealed"]
 
 stages:
   stage_00_topic_qualification: "PASS"
   stage_01_evidence_research: "HOLD"
   stage_02_case_story_map: "HOLD"
   stage_03_script_v1: "DRAFT_COMPLETE"
-  stage_04_fact_legal_review: "V4_2_EN_FAIL_Q053_Q054_Q055"
-  stage_05_script_revision: "V4_2_EN_REWRITE_COMPLETE_V4_3_FIX_PENDING"
-  stage_06_performance_review: "V4_1_FAIL_HISTORICAL_V4_2_NOT_RUN"
+  stage_04_fact_legal_review: "PASS_V4_3_EN_TEXT"
+  stage_05_script_revision: "V4_3_EN_FOUR_TARGETED_LEGAL_FIXES_COMPLETE"
+  stage_06_performance_review: "V4_1_FAIL_HISTORICAL_V4_3_NOT_RUN"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
@@ -52,7 +52,7 @@ evidence:
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-13"
-  unresolved_material_claims: 1
+  unresolved_material_claims: 0
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -82,8 +82,8 @@ assets:
 qa:
   topic: "PASS"
   research: "HOLD"
-  fact_legal: "FAIL_V4_2_EN_51_PASS_3_WARN_1_FAIL"
-  performance: "V4_1_FAIL_HISTORICAL_V4_2_NOT_RUN"
+  fact_legal: "PASS_V4_3_EN_55_OF_55_8_OF_8"
+  performance: "V4_1_FAIL_HISTORICAL_V4_3_NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
