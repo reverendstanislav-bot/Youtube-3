@@ -76,3 +76,29 @@ By April 2016, Uber had agreed to acquire Otto. Alongside that deal came a separ
 
 Here comes the uncomfortable part. Uber didn't proceed without asking questions. Before the acquisition closed, it hired forensic investigators to examine concerns about information retained by former Google employees. That's not the same as proving the deal was illegal. But it means the potential problem was being examined before the purchase was complete. What did those investigators find? And why did the deal go ahead?
 
+## A03 — THE INVESTIGATION BEFORE THE DEAL
+
+**A03-P01**
+
+The firm was Stroz Friedberg, specialists in digital forensics. Their job was to look at devices and evidence of retained information. Uber brought them in after the preliminary deal terms but before closing the acquisition. That timing matters. This wasn't a surprise discovered after the fact. The buyer was trying to understand what risks might already be attached to the team it wanted.
+
+**A03-P02**
+
+Later, in a Delaware shareholder lawsuit, a plaintiff alleged that there were serious internal concerns, including questions about what company lawyers had found and what directors had been told. But those are allegations in a corporate governance case. They are not a criminal verdict against Uber's board, and they don't establish that each director knew about a particular theft.
+
+**A03-P03**
+
+Now picture the business decision. Walk away from a team that might accelerate your technology program? Or close the deal while troubling questions about the team's former employer remain? Court records describe diligence, concern, and negotiations over how certain risks would be allocated. They do not give us permission to invent private conversations or declare that everyone in the room expected a crime.
+
+**A03-P04**
+
+Before buying Otto, Uber hired Stroz Friedberg to investigate concerns about former Google employees. The review raised serious questions. But Stroz's final report found no evidence that Google's confidential information retained by Anthony Levandowski had been transferred to Otto or third parties. That's a narrow finding—not proof that every possible violation was ruled out.
+
+**A03-P05**
+
+So neither easy version works. You can't say the investigators found nothing worrying, therefore there was no risk. But you can't say retained documents automatically mean Uber received Google's technology either. What the inquiry raised, and what it failed to establish, are different things. And that uncertainty was now part of a decision with potentially enormous consequences.
+
+**A03-P06**
+
+Uber's board approved the acquisition, and the deal closed in August 2016. Levandowski took a senior role in Uber's autonomous-driving program. The questions hadn't disappeared. They'd moved inside a much bigger story. A few months later, something happened that didn't require a whistleblower or a hack. Somebody simply sent an email to the wrong company.
+
