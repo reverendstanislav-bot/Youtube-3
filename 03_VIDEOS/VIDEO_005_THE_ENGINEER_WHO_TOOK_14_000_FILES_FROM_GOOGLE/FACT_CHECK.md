@@ -38,3 +38,12 @@ Only short attributed quotations should be used, after exact context confirmatio
 
 ## Next required gate
 Stage02 narrative map and 6–10 contiguous Shorts ideas (not started). Stage04 claim-by-claim independent legal QC mandatory; no scripts, TTS, paid generation or publication started.
+
+## R2 additional verification / corrections (2026-10-13)
+- Prior archive was too old for a 2026-end narrative. Phoenix pilot ended May2026 (S024/S030); July reported breakup discussions unverified, with August Uber response (S025/S026).
+- Levandowski/Travis Kalanick/Pronto/Atoms 2026 business reconnection now supported by original reporting (S027/S028/S029) and founder's own funding statement. Uber's approx $100m participation is reported, not a primary securities filing.
+- Stroz evidence of retention and no established transfer to Otto (S008) must **both** appear. Federal interim judge's patent skepticism and limits of 121 asserted trade secrets (S003) cannot be dropped.
+- Derivative shareholder allegations and board oversight concern are not a court finding of conspiracy or bad faith (S007/S008).
+- Original Otto founding exact day contradicted by appellate/chancery opinions; revise E004 to YYYY-MM and stop any day-precise script.
+- $1.7b Atoms financing is TOTAL round, not additive to separately reported Uber contribution.
+- G01-R2 is adequate as **source-based architecture only**: no original historical PDF extraction, archival screenshots, licensing or exhaustive current legal docket verification yet.
