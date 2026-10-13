@@ -1,3 +1,5 @@
+> **CURRENT VERSION NOTE — R2 independent re-audit 2026-10-13:** The R1 status/23-source count and "Stage02 NOT STARTED" line below are **historical**. Updated current research uses **30 source records / 56 claims / 40 events**, including crucial overlooked 2016 vendor email, 2017 Stroz findings and board-risk allegations, 2026 Phoenix termination, 2026 Waymo–Uber tensions, and new Atoms/Pronto/Uber investment. See **"Stage 01 independent adversarial audit — R2"** at bottom and `00_02_INDEPENDENT_QC_R2.md`. Stage02 has now been rebuilt. Do not use the previous simplistic partnership-ending chronology.
+
 # VIDEO 005 — Stage 01 Evidence Research
 **Edition: R1 / 2026-10-13 | Owner-authorized scope: RESEARCH ONLY**
 **Gate: PASS WITH SCRIPT-WORDING GUARDRAILS**. Stage 02 is NOT STARTED.

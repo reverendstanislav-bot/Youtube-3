@@ -1,3 +1,5 @@
+> **R2 OVERRIDES R1 COUNTS:** As of 2026-10-13 this project's Stage01 evidence comprises **30 catalogued distinct source records, 56 claims and 40 events**. Older 23/40/29 totals are preserved below only as audit history. New 2026 ending has both company-confirmed Phoenix end and attributed/unconfirmed wider-split speculation. Original exact founding day in Jan2016 remains disputed; no source-page media has been licensed. Source-level story map and claim statuses updated. See `00_02_INDEPENDENT_QC_R2.md`.
+
 # VIDEO 005 — Stage01 Research Fact Check (2026-10-13)
 
 **Status:** G01 FACTUAL SOURCE CROSS-CHECK COMPLETE; Stage04 FINAL SCRIPT LEGAL REVIEW **NOT STARTED**.

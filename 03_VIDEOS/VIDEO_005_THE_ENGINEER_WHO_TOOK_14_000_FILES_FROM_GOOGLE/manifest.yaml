@@ -8,7 +8,7 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
 current_stage: "03_SCRIPT_V1"
-next_action: "Await owner authorization for Stage03 Script V1. G02 PASS: 12 acts over projected 20:00, 29/29 mapped events, 8 contiguous future 20–27-second Short units. No Stage03 work started."
+next_action: "Await owner Stage03 authorization; Stage01 R2 = 30 sources 56 claims 40 events (1 exact-day HOLD); Stage02 R2 = 14 acts/20:00 projected and eight Short zones, structural PASS only."
 blockers: []
 
 stages:

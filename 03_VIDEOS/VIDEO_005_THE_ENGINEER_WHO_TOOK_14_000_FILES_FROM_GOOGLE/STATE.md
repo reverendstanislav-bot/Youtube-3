@@ -1,29 +1,27 @@
-# VIDEO 005 — State (2026-10-13)
-**IN_PREPARATION | Stage00 PASS | Stage01 PASS | Stage02 Case / Story Map PASS | Stage03 NOT_STARTED**
+# VIDEO005 — STATE after independent Stage00/01/02 AUDIT R2 (2026-10-13)
+## Current locks
+- **G00 topic GO remains valid**. Earlier 89/100 is historical subjective qualification, NOT observed audience success; old first-minute hook superseded by R2.
+- **G01 Evidence Research R2: PASS WITH GUARDRAILS for story mapping**; **30** unique catalogued source records; **56** source-linked claims; **40** source-linked events. *One unresolved precise date* C047 (Otto formed January 14 **or** 15) -> use month only. No claims of exhaustive 2026 PACER access.
+- **G02 Case/Story Map R2: STRUCTURAL PASS**; rewritten **14** drama-led acts (20:00 projected continuous), all **40/40** events in 02_TIMELINE.csv, **8/8** short-zone requirements. Actual narration, 20–27s Short spoken runtimes and audience retention **NOT TESTED**.
+- **G03 Script V1 NOT_STARTED**; absolutely no downstream authorization transferred.
 
-## Locked production foundation
-- Topic T005: **The Engineer Who Took 14,000 Files From Google** — Stage00 GO 89.0/100.
-- Stage01: **23** distinct sources; **40** material claims; **29** ordered source-linked events. Primary court / DOJ / SEC / corporate source boundaries preserved.
-- Stage02: **12 narrative acts**, provisional 20-minute budget (1200 seconds) with no gaps; `02_STORY_MAP.md` includes character roles, complete chronological truth, narrative reveal order, four mutually separate financial buckets, opposing corporate positions, interim court result vs settlement, one-count plea, pardon, ATG sale and partnership epilogue.
-- `02_TIMELINE.csv`: **29/29** Stage01 event IDs mapped to a narrative role, keeping source event date distinct from storytelling order.
-- `02_SHORTS_ARCHITECTURE.md`: **8** future continuous 20–27s standalone Short zones S01–S08 with hook, context, payoff, caveat, source claims and 9:16 approach. These are **planning zones only**, not new VO, not scripts or final edit timestamps.
+## Original false/weak emphases repaired
+1. 2016 email sent to wrong recipient is the investigative ignition [C041].
+2. Uber governance/forensic diligence and opposing evidence together [C042,C043,C046,C056].
+3. May2017 court's limitations as well as interim concerns [C045].
+4. 2018 civil company settlement separate from engineer's one-count personal criminal outcome [C020,C025].
+5. 2026 Phoenix pilot definitively ended; Austin and Atlanta remain active, further split only **reported and disputed** [C048–C050,C055].
+6. 2026 Kalanick/Atoms and Levandowski/Pronto indirect Uber investor link clarified [C051–C054].
+7. Exact Otto incorporation founding date disputed across Delaware opinions; **date HOLD** [C047].
+8. 2016 $100k cash upfront vs potential $680m stock consideration, 2018 ~$245m equity settlement, 2020/21 $400m Aurora investment and *reported* 2026 $100m Uber–Atoms investment each separate.
 
-## G02 quality check (PASS)
-- Act time budgets coherent: A00–A11 cover 00:00–20:00 with no overlaps or gaps (estimated; not voice-locked).
-- All Stage02 C/S/E identifiers exist in Stage01 ledgers; no orphan references.
-- Stage02 timeline retains all 29 events without duplicates and has consistent CSV schema.
-- 8/8 Short zones include independent local attribution/qualifications. Extraction must remain from the SAME long-form audio with <=30sec final duration; Stage03 will create paragraph IDs and Stage04 will fact-check each Short separately.
-- Legal categories preserved in map: 14k downloaded SVN files ≠ one-count Google Drive plea; Waymo allegations + Uber denial; 2017 provisional ruling ≠ trial verdict; 2018 stock settlement ≠ damages judgment; individual pardon ≠ corporate exoneration.
-- Financial categories kept distinct: conditional ~$680m Otto consideration / $100k up-front cash; reported 0.34% of Uber stock valued ~$245m in 2018 settlement; individual criminal fine/restitution; $400m separate Aurora investment.
+## QC and provenance limits
+- Every referenced S/C/E ID resolves to existing Stage01 CSV row; 40/40 Stage02 timeline mapping, 14 contiguous act time budgets, 8 short-zone plans, all CSV schema dimensions valid.
+- Source index URLs are source citations, NOT rights clearance to reproduce court exhibits, blogs, photographs or footage.
+- Current legal opinions, public DOJ and company statements checked; **related 2026 news often SECONDARY**, always attributed.
+- `00_02_INDEPENDENT_QC_R2.md` records rejected R1 assumptions and traceable R2 repairs.
+- No voice, image, render, production spend, additional stages or publishing.
 
-## Existing evidence / production holds carry forward
-- Source/asset licensing remains unapproved; no images, footage, music, SFX or voice generated.
-- Confidential settlement's 0.34% figure must remain attributed to contemporaneous reports; court record corroborates approximate stock value.
-- Provisional findings and later SEC independent-expert interim issues cannot be overstated as final Uber liability.
-- Stage16 will recheck post-2026 case/corporate changes before publication; current Stage02 is structural approval only.
-
-## Next stage — STOP HERE
-**Stage03 SCRIPT V1 = NOT_STARTED.** Requires new owner instruction. Do not pre-write script, Shorts dialogue, generate assets, submit jobs, spend credits, edit or publish.
-
-## Explicit owner boundary
-**VIDEO 004 DO NOT TOUCH.** All planning uses only Github `Youtube-3` canon. No cross-project subtitle rules.
+## Next action
+**Stage03 Script V1 only after owner instructs.** Narration must pass claim-by-claim Stage04 review and Short isolation QC. Do not guess future VO duration from 20:00 scene budgets.
+**VIDEO004 owner instruction DO NOT TOUCH** continues.

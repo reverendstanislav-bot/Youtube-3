@@ -1,3 +1,5 @@
+> **R2 INDEPENDENT AUDIT — 2026-10-13:** The original Stage00 score **89/100 is historical, not measured audience performance**. The original hook/ending and competitor assessment were weak and have been superseded by the current R2 brief and Stage02 map. Stage00 topic choice remains **GO**, with elevated legal and fresh-news attribution requirements. See `00_02_INDEPENDENT_QC_R2.md` and `02_STORY_MAP.md` R2.
+
 # VIDEO 005 — Stage 00 Topic Qualification
 **GO / PASS — 89.0/100** | 2026-10-13 | Topic T005 | owner-locked Launch 5.
 
