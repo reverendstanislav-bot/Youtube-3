@@ -124,3 +124,29 @@ In February 2017, Waymo—the company built around Google's self-driving project
 
 And the court's early response wasn't a simple win for either side. A judge found grounds for certain temporary restrictions, but that did not mean every Waymo accusation had been proved. Meanwhile, another question was developing. What if potentially important information had been stored on media nobody could now inspect?
 
+## A05 — FIVE DISKS AND THE VERDICT THAT NEVER CAME
+
+**A05-P01**
+
+In May 2017, federal judge William Alsup issued a preliminary order. He treated evidence that Levandowski had downloaded substantial Google material as serious and imposed specified restrictions, including on his LiDAR work. But preliminary relief is not a final verdict. And the court did not accept every theory or every asserted trade secret in the same way.
+
+**A05-P02**
+
+At this point, you might expect a clean chain of proof. If documents were copied, show where they went. If a rival used them, show the result. Real litigation is messier. A file on a personal device and a trade secret used inside a competitor's vehicle are separated by evidentiary steps. And one missing step can change everything a jury may conclude.
+
+**A05-P03**
+
+Then an older conversation became important. Back in March 2016, Levandowski had told Uber executives he possessed five disks containing Google information. Uber said he later reported destroying them, and that Uber never received the disks. Their contents could not be independently verified. The fight now included a different issue: how late Uber had disclosed those facts to Waymo.
+
+**A05-P04**
+
+Five disks containing Google information. According to Uber, Anthony Levandowski told its executives about them in March 2016, then later said he'd destroyed them. In January 2018, a judge said jurors could draw an unfavorable inference from Uber's late disclosure—but they didn't have to. The disks' contents remained unverified.
+
+**A05-P05**
+
+That distinction changes the story. The judge did not declare that those disks held all 14,000 files, or a smoking-gun transfer into Uber's systems. But he also didn't wave away Uber's delayed disclosure. Jurors would have been allowed to weigh it against the company. Allowed, not required. Two words that make a major difference when the case is still unresolved.
+
+**A05-P06**
+
+In February 2018, the case reached trial. At last, it looked as if a jury might decide what had been used, what could be proved, and what liability would follow. Except the ending the courtroom was moving toward never arrived. Before there was a jury verdict, the corporate opponents made a deal.
+
