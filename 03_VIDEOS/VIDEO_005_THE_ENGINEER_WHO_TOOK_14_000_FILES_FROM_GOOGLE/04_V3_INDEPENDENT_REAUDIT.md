@@ -1,35 +1,35 @@
-# VIDEO 005 — Stage04 INDEPENDENT full V3 fact/legal re-audit
-Date: 2026-10-13 | REVIEW VERDICT: PASS for factual/legal SCRIPT TEXT only.
-Base script: 05_SCRIPT_V3.md. The V1 and V2 G04 FAIL reviews remain immutable historical files.
+# VIDEO 005 — Stage04 independent re-audit V3
+**2026-10-13 | V3 FINAL FACT/LEGAL TEXT VERDICT: PASS (53/53) | 8/8 canonical Shorts PASS_TEXT**
+Source: `05_SCRIPT_V3.md`, derived by exactly four addressed modifications to immutable V2. No other spoken paragraph changed.
 
-Scope: independently checked the ACTUAL V3 wording of 53/53 narration paragraphs and the full exact 8/8 one-paragraph Shorts in isolation. Compared every V3 row with claim ID, source authority, chronology, financial numbers, party positions, source limitations and court procedural status. Full verbatim audits in 04_V3_PARAGRAPH_AUDIT.csv and 04_V3_SHORTS_ISOLATION_QC.csv.
+## Independent review vs maker Stage05
+This is a separate adversarial reviewer-style check of the proposed V3 text against existing G04 V2 53-paragraph full audit, independent claim ledger, official government/court source-index entries and specifically the three new findings; it does not stand for extra-human external signoff. Entire 53-paragraph text is in `04_V3_PARAGRAPH_AUDIT.csv`; 8 exact contiguous V3 Shorts, including S04, in `04_V3_SHORTS_ISOLATION_QC.csv`.
 
-Counts: 53 paragraph PASS, 0 WARN, 0 FAIL. Shorts 8 PASS_TEXT, 0 WARN, 0 FAIL. Real audio duration NOT_MEASURED.
+| Finding | Final result | Verification |
+|---|---|---|
+| Q043 HIGH / A06-P05 | RESOLVED | $179m described as personal civil judgment, NO longer 'larger than' the ~$245m separate corporate stock settlement [S032/S022/S023] |
+| Q044 HIGH / A08-P04 | RESOLVED | $2m payable to bankruptcy **estate** for plan, not personally to engineer; larger secret payment no longer asserted; principal amount sealed [S033/S032] |
+| Q045 MEDIUM / A03-P03, A03-P04, S04 | RESOLVED | Stroz report limited to Levandowski-retained Google information, **no evidence found** of transfer to Otto or third parties; no inferred universal absence [S008] |
 
-Q043 resolved A06-P05: ~$179m March2020 personal judgment is not larger than ~$245m Feb2018 Uber stock settlement; impossible comparison removed (S032/S008).
-Q044 resolved A08-P04 with correction to reviewer record: Mar2023 federal court S033 p3 says Uber would pay $2m to estate, whereas Jan2025 bankruptcy court S032 p6 says to Levandowski to fund plan and calls main sum substantially larger. Actual main amount remains sealed. V3 avoids choosing inconsistent payee and avoids inventing numeric amount.
-Q045 resolved A03-P03/A03-P04/S04: S008 Delaware Supreme fn19 limits the quoted Stroz no-evidence finding to Levandowski and his retained Google data; no broad employee exoneration.
+## Audit measurements
+- **53 paragraphs PASS_TEXT / zero WARN / zero FAIL**. 49 carried forward from prior G04 V2 PASS after rereading against final script, four changed paragraphs independently target-reviewed. 53/53 claim-trace rows.
+- **8 Shorts PASS_TEXT / zero WARN / zero FAIL**. Each exact full paragraph of the V3 long-form, no stitched lines or separately invented VO. S04 corrected in-film then re-extracted.
+- Checks: source scope, procedure, competing Uber/Waymo assertions, plea vs charge, ~$680m potential vs $100k cash, 2018 ~$245m stock vs 2020 personal $179m, sealed 2022 main payment and separate $2m estate funding, Stroz diligence chronology, five disks and permissive jury inference.
+- Fact/legal gate standards (0–5): traceability 5; allegation status 5; chronology 5; quotation/context 4; case-status freshness 4; numerical 5; fairness 5; primary-source sufficiency 4. All >=4; no unresolved BLOCKER.
+- These are **editorial source-check scores**, not independent legal advice, audience tests or production clearance.
 
-Additional independently checked foundations: DOJ S010 ~14k SVN download, separate one-count guilty plea S011; S008 conditional Otto price and $100k cash; preclosing Stroz diligence; S003 May2017 provisional order and its limits; S031 March2016 reported disks versus Jan2018 optional adverse inference; S005 2018 settled dismissal without jury verdict; S032 2020 Google arbitration judgment and 2025 tax status; S033 sealed executed payment to Google in May2022; Uber denial and Waymo allegations clearly separated.
+## Guardrails not waived
+- Earlier **G04 V1 FAIL** and **G04 V2 FAIL** remain historical, not overwritten.
+- **G01 and G02 owner creative approval HOLD** remains; G04 PASS doesn't waive production sequence or unlock Stage06 automatically.
+- No real Harrison audio exists for runtime confirmation. Shorts only PASS as fact/legal text. Hard <=30 seconds must be checked at Stage11 against actual audio; 8/8 cuts are not approved for export.
+- Final prepublication **Stage16** current-fact/legal refresh remains mandatory.
+- No paid generations, assets, video, speech or editing done. VIDEO004 untouched.
 
-Hard source-based rubric (0–5): traceability 5; allegation precision 5; chronology 5; quote/context 5; current-status 4 (Stage16 mandatory before publication); numerical accuracy 5; adversarial fairness 5; primary sufficiency 5. All >=4, no legal/factual blockers.
+**Stage05 V3 targeted corrections COMPLETE; independent G04 V3 PASS_TEXT. Stop; Stage06 is a separate requested task after owner gate decisions.**
 
-Short | paragraph | exact words | isolated legal result
-| S01 | A00-P01 | 58 | PASS_TEXT |
-| S02 | A01-P03 | 48 | PASS_TEXT |
-| S03 | A02-P03 | 52 | PASS_TEXT |
-| S04 | A03-P04 | 52 | PASS_TEXT |
-| S05 | A05-P04 | 55 | PASS_TEXT |
-| S06 | A06-P02 | 55 | PASS_TEXT |
-| S07 | A07-P02 | 53 | PASS_TEXT |
-| S08 | A08-P05 | 54 | PASS_TEXT |
-
-Remaining NON-G04 gates: owner review G01/G02 both HOLD, Harrison audio Shorts <=30sec not measured, Stage06 not started, Stage07 NOT LOCKED. No paid generation, video or media work.
-
-Primary sources:
-https://law.justia.com/cases/delaware/supreme-court/2020/181-2019.html
-https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-cv-02781/pdf/USCOURTS-cand-4_22-cv-02781-0.pdf
-https://www.govinfo.gov/content/pkg/USCOURTS-canb-3_20-bk-30242/pdf/USCOURTS-canb-3_20-bk-30242-0.pdf
-https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets
-https://docs.justia.com/cases/federal/district-courts/california/candce/3:2017cv00939/308136/2585
-https://law.justia.com/cases/federal/district-courts/california/candce/3:2017cv00939/308136/433/
+## Primary records
+- S008 https://law.justia.com/cases/delaware/supreme-court/2020/181-2019.html
+- S033 https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-cv-02781/pdf/USCOURTS-cand-4_22-cv-02781-0.pdf
+- S032 https://www.govinfo.gov/content/pkg/USCOURTS-canb-3_20-bk-30242/pdf/USCOURTS-canb-3_20-bk-30242-0.pdf
+- S005 https://business.cch.com/ipld/WaymoUberTechnologiesDiismissal20180209.pdf
+- S010 https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets

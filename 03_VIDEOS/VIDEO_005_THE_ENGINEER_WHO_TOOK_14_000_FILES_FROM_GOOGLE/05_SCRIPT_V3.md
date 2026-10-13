@@ -1,7 +1,7 @@
-# VIDEO 005 — STAGE 05 / SCRIPT V3 — CORRECTED COMPLETE NARRATION
+# VIDEO 005 — STAGE 05 / SCRIPT V3 — TARGETED SOURCE-SCOPED REPAIR
 **The Engineer Who Took 14,000 Files From Google**
 **Channel:** WHAT IT COST | **Narration:** English (US), Harrison when later authorized
-**Revised date:** 2026-10-13 | **Status:** STAGE05_V3_PASS / G04_V3_PASS_TEXT / G01_G02_OWNER_HOLD
+**Revised date:** 2026-10-13 | **Status:** STAGE05_V3_REVISED / G04 V1 AND V2 FAIL HISTORICAL / V3 G04 REVIEW DOCUMENTED SEPARATELY
 
 > Only the paragraphs marked `Axx-Pyy` are spoken. Headings, paragraph IDs and all tables/notes below are **production metadata**, NOT narration. Shorts use exact one-paragraph continuous selections from this SAME long-form text. No narration has been synthesized and no runtime has been measured.
 
@@ -80,11 +80,11 @@ Later shareholder litigation in Delaware described concerns inside Uber during t
 
 **A03-P03**
 
-According to the Delaware court's account, investigators found that some former Google employees kept confidential information after leaving. But the final Stroz report drew a narrower conclusion about Anthony Levandowski. It said investigators found no evidence that he transferred the Google data he had retained to Otto or third parties. That limitation matters: it did not establish what every other employee did.
+According to the Delaware court's account, the investigation raised concerns about Google information retained by people around the deal. But the final Stroz report also contained a limitation that makes the story harder—and more credible—than a simple accusation. The report found no evidence that Levandowski's retained Google confidential information had been transferred to Otto or to third parties.
 
 **A03-P04**
 
-Before Uber bought Otto in 2016, forensic investigators examined confidential Google material retained by former employees. Stroz's final report found no evidence that Anthony Levandowski transferred the Google data he kept to Otto or third parties. That narrow finding did not establish what happened to every document or what every employee did.
+Uber hired forensic investigators before buying Otto in 2016. Later shareholder allegations raised concerns about former Google employees retaining confidential information. But Stroz's final report found no evidence that Levandowski's retained Google information had been transferred to Otto or third parties. The risk was serious. The proof of transfer was limited.
 
 **A03-P05**
 
@@ -162,7 +162,7 @@ For viewers of a documentary, this might look like the ending. One side accused,
 
 **A06-P05**
 
-A separate dispute had been unfolding between Google and its former employee. It asked different legal questions about obligations Levandowski owed while he worked at Google, including recruiting and loyalty. That dispute would produce a personal judgment against him, separate from Uber's earlier stock settlement. And the deal Uber signed to buy his startup would raise another financial question.
+A separate dispute had been unfolding between Google and its former employee. It asked different legal questions, about obligations owed while Levandowski worked at Google and about recruiting and loyalty. That case would produce a personal civil judgment exceeding one hundred seventy-nine million dollars. And Uber's earlier Otto acquisition would bring a contested indemnification agreement back into focus.
 
 ## A07 — One engineer, two different kinds of liability
 
@@ -206,7 +206,7 @@ By early 2022, the parties were trying to end the remaining conflict. The bankru
 
 **A08-P04**
 
-Under the settlement, Uber agreed to make a principal payment directly to Google. That amount was sealed. A separate two-million-dollar payment was designated to fund Levandowski's Chapter Eleven bankruptcy plan. The two payments served different purposes. And the sealed payment should not be treated as equal to the full amount of Levandowski's earlier personal judgment.
+Under the settlement, Uber was to make a principal payment directly to Google. The amount was sealed. Uber was also to pay two million dollars to Levandowski's bankruptcy estate to fund the bankruptcy plan. These were separate payments. The confidential amount cannot be inferred from the earlier personal judgment or from the estate payment.
 
 **A08-P05**
 
@@ -241,10 +241,10 @@ The public record supplies an ending, but not a single clean total. A massive pe
 ---
 ## Stage05 V3 production notes — NOT SPOKEN
 
-- Total spoken-word count: 2850 using project whitespace/hyphen/en/em-dash counting; 53 paragraphs across ten acts.
-- Exactly four main-film paragraph edits: A03-P03, A03-P04, A06-P05, A08-P04. Other 49 paragraphs unchanged from V2.
-- Seven original Shorts untouched; S04 equals revised A03-P04 without any stitched lines. All eight remain one uninterrupted paragraph.
-- G04 V3 independently rechecked 53 narration paragraphs and 8 isolated Shorts, all PASS_TEXT.
-- Sources S033 (2023 district) and S032 (2025 bankruptcy) use different $2m payee wording; V3 uses common plan funding purpose and does not invent sealed main payment amount.
-- Previous rejected V1 and V2 reports preserved, and G01/G02 owner holds remain unchanged.
-- No Harrison recording, timing, rights clearance, music, paid generations, rendering or Stage06.
+- **Spoken word count:** 2788 across 53 source-linked paragraph IDs in ten acts. Calculated speech-time estimates: 20.29 min at 140 WPM, 18.94 min at 150 WPM, 17.76 min at 160 WPM, excluding pauses. Harrison voice has NOT been recorded.
+- V2 revised seven V1 paragraphs; V3 revised exactly FOUR additional V2 paragraphs: A03-P03, A03-P04, A06-P05, A08-P04. Preserved V2 stays immutable. Earlier V2 revisions were: A00-P01, A02-P06, A03-P06, A04-P01, A05-P03, A05-P04, A07-P05. 46 other narration paragraphs remain byte-identical to V1.
+- V2 previously fixed original G04 errors: A02-P06 Stroz chronology; A05-P04 five-disks event chronology; A00-P01 independent context for S01; and medium wording risks in A03-P06, A04-P01, A05-P03, A07-P05.
+- **Canonical Shorts:** eight single-paragraph uninterrupted segments of THIS V2 screenplay in `05_SHORTS_MAP_V3.csv`, no new voice, no splicing from elsewhere. Audio-based duration is NOT measured, hard export <=30s.
+- **Canonical trace:** `05_SCRIPT_CLAIM_TRACE_V2.csv` associates every revised paragraph with the substantive claim IDs; `CLAIMS_LEDGER.csv` continues to hold source IDs. Two new claim links C008 and C069 attached to revised S01 contextual acquisition/indemnity language.
+- **Historical accuracy gate:** original Stage04 V1 FAIL and V2 FAIL are preserved; G04 V3 result belongs in `04_V3_INDEPENDENT_REAUDIT.md`, owner-approved source/media rights or a final locked voice script.
+- **No** assets, recording, paid generations, editing or publication. VIDEO004 remains untouched.
