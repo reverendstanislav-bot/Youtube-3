@@ -1,3 +1,5 @@
+> **OWNER REJECT — 2026-10-13:** This rendered MP4 contains unauthorized burned-in narration subtitles (white with orange word highlighting) copied from another project's conventions. `Youtube-3/00_FOUNDATION/EDITING_CANON.md` does not authorize this style. **DO NOT PUBLISH / DO NOT MARK RELEASE PASS.** Technical decode and bitrate checks do not override owner's rejection. The correct replacement must be built from native R8 assets with NO generated/burned narrative captions unless separately authorized; do not edit the encoded pixels to mask them.
+
 > **SUPERSEDED LOW-QUALITY EXPORT:** This document records the older 77MB / 0.55Mbps video. Do not publish or identify it as the high-quality master. The corrected CRF8 639MB export is documented in [14_R8_HIGH_QUALITY_MP4_TECHNICAL_QC_20261012.md](14_R8_HIGH_QUALITY_MP4_TECHNICAL_QC_20261012.md).
 
 # VIDEO004 — Actual full MP4 render + technical QC (2026-10-12 user local date)
