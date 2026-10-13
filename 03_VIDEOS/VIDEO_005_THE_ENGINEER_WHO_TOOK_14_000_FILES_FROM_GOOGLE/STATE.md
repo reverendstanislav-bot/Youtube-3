@@ -1,25 +1,16 @@
-# VIDEO 005 — V4 RU full editorial rewrite (2026-10-13)
+# VIDEO 005 — independent full G04 V4 RU Fact/Legal REVIEW FAIL (2026-10-13)
 
-**CURRENT CREATIVE DRAFT:** `05_SCRIPT_V4_RU.md` — 55 numbered spoken paragraphs / 2951 Russian words / 10-act conflict–reveal architecture / 8 direct contiguous short extracts.
-**CURRENT GATES:** G00 TOPIC GO; G01/G02 OWNER HOLD; V3 English Stage04 PASS (historical for V3 only); **V4 Russian NEW DRAFT — owner approval and fresh Stage04 full legal/fact review REQUIRED**; Stage06 NOT_STARTED; Stage07 NOT_LOCKED.
+**SOURCE TEXT UNMODIFIED**: `05_SCRIPT_V4_RU.md` (SHA d6383b05b07fd98cef43442237b4a2f2d2206631); 55 paragraphs/10 acts/8 exact one-piece Shorts. Owner accepted V4 RU dramatic style; legal review not approved.
 
-## Why V4 exists
-Owner rejected V3 as dry audiobook with weak intrigue/hook/no question-answer rhythm. V4 is **full structural rewrite**, not a translation, not partial intro repair and not legal rewrite-only.
+## Complete G04 V4 result
+- 55/55 paragraphs: **48 PASS / 5 WARN / 2 FAIL**. Exact per-paragraph texts, source keys and findings: `04_V4_PARAGRAPH_AUDIT.csv`.
+- Eight Shorts separately reviewed: **5 PASS / 3 WARN (S01 S05 S08) / 0 FAIL**. Exact standalone excerpts: `04_V4_SHORTS_ISOLATION_QC.csv`.
+- Primary full report: `04_V4_FACT_LEGAL_REVIEW.md`. Issues: `04_V4_ISSUE_REGISTER.csv`.
+- Two hard blockers: **Q046 A00-P03** reversed employer/former employee obligations; **Q047 A09-P05** presents 2022 Main Uber Payment as consequence of 2016 indemnity while 2025 court expressly calls its legal basis separate 2022 GLOBAL SETTLEMENT, not that earlier contract.
+- Five precision warnings: **Q048 A00-P01/S01** 'скопировал в Google' ambiguity; **Q049 A00-P02** old contract vs settlement legal basis; **Q050 A04-P03/S05** alleged-vs-proven secrets; **Q051 A08-P04/S08** 2023 vs 2025 difference $2m payee label; **Q052 A08-P05** main payoff should explicitly identify separate settlement as payment basis.
 
-## Contents
-- `05_SCRIPT_V4_RU.md` — entire Russian spoken screenplay;
-- `05_V4_SHORTS_MAP_RU.csv` — eight exact one-paragraph uninterrupted excerpts;
-- `05_V4_REVEAL_MAP.csv` — all ten acts with concrete question and earned answer;
-- `05_V4_PARAGRAPH_SOURCE_TRACE.csv` — full 55-paragraph source-area trace; does NOT claim G04 PASS;
-- `05_V4_CREATIVE_QC.md` — story architecture review and unresolved production/legal gates.
+## Unchanged gates
+G00 GO; G01/G02 OWNER HOLD remain; G04 V1 FAIL, V2 FAIL, V3 PASS all historical; **CURRENT G04 V4 FAIL**; G05 V4 RU creative approved, legal repairs needed; G06 NOT_STARTED, G07 NOT_LOCKED. No English V4, paid credits, Harrison master, audio runtime, video, media assets, timing or release. VIDEO004 untouched.
 
-## Non-negotiable facts
-14k copies != proof Uber received all. Stroz report no evidence that retained Levandowski Google data transferred to Otto/third parties. Vendor resemblance alleged. March2016 five-disk reported destruction vs Jan2018 discretionary inference; no jury verdict. 2018 ~$245m STOCK settlement; 2020 ~$179m PERSONAL civil judgment and hours-later bankruptcy; 2022 Uber paid Google amount SEALED plus separate $2m bankruptcy estate support. 2025 tax ruling limited.
-
-## What is explicitly NOT complete
-- No producer/owner PASS on new dramatic structure, G01/G02 prior HOLD remain.
-- No G04 V4 independent line-by-line fact/legal PASS. Do not inherit G04 V3 PASS for a new script.
-- No English adaptation of V4, no Harrison master, no real <=30sec Shorts check, no graphics/media assets, no paid generations, no edits.
-- VIDEO004 NEVER TOUCHED.
-
-**Next available action only on owner instruction:** read and approve/criticize Russian V4; then prepare English US V4 and run separate Stage04 before Stage06/07.
+## Next authorized action — only after new user instruction
+Stage05 V4.1 *targeted* legal/text repairs Q046–Q052; preserve 48 unaffected paragraphs and 8 contiguous short architecture, then new independent full Stage04 re-audit. Stop here.
