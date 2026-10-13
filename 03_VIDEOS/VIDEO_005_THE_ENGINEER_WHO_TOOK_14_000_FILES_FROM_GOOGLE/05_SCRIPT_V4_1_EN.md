@@ -50,3 +50,29 @@ There's our first answer. The download happened. But downloading information, tr
 
 In January 2016, Levandowski leaves Google. A young company called Otto is taking shape, focused on autonomous trucks. The business pitch practically writes itself: take expertise developed in self-driving vehicles and apply it to the massive trucks hauling America's freight. To a buyer in a technology race, Otto offers more than an idea. It offers people who might help close a gap quickly.
 
+## A02 — THE $680 MILLION HEADLINE
+
+**A02-P01**
+
+Enter Uber. It isn't merely calling an engineer with a job offer. In February 2016, Uber and Otto have preliminary acquisition terms. Suddenly, the central question isn't just what this team might build. It's what a buyer might inherit along with that promise. Talent can move from company to company. Unresolved legal exposure can follow.
+
+**A02-P02**
+
+The purchase makes a spectacular headline. Otto's potential deal value is reported at around $680 million. That sounds like Uber showed up with nearly three-quarters of a billion dollars in cash. But the Delaware court record includes a detail that changes the entire picture. What was actually paid up front was nowhere near that headline number.
+
+**A02-P03**
+
+Uber's 2016 Otto acquisition was described as potentially worth up to $680 million. But Delaware court records put the initial cash payment at just $100,000. Much of the potential consideration involved equity tied to future conditions. So the claim that Uber handed this engineer $680 million in cash is simply not what the records say.
+
+**A02-P04**
+
+That's the difference between an acquisition's possible future value and cash paid on day one. Uber was betting on what a young team might accomplish. Some of the upside still had to be earned. But the team's past was already real. So while the potential reward depended on the future, the legal risks didn't wait for anyone to hit a milestone.
+
+**A02-P05**
+
+By April 2016, Uber had agreed to acquire Otto. Alongside that deal came a separate indemnification agreement covering certain employees who had left Google. Put simply, it addressed when one party might have to cover certain legal costs or liabilities faced by another. Not every bill. Not automatically. But years later, the exact limits of this agreement would matter far more than the flashy acquisition figure.
+
+**A02-P06**
+
+Here comes the uncomfortable part. Uber didn't proceed without asking questions. Before the acquisition closed, it hired forensic investigators to examine concerns about information retained by former Google employees. That's not the same as proving the deal was illegal. But it means the potential problem was being examined before the purchase was complete. What did those investigators find? And why did the deal go ahead?
+
