@@ -1,3 +1,7 @@
+> **OWNER OVERRIDE — 2026-10-13, VIDEO005 ONLY:** Production selects **EXACTLY FOUR SHORTS** from the V4.3 EN 8-candidate pool: **S01, S03, S05, S08**, single-paragraph extracts, IDs NOT renumbered. Current active maps `05_V4_3_SHORTS_MAP_EN.csv` and `03_SHORTS_MAP.csv` contain 4 rows. S02/S04/S06/S07 are **NOT FOR PRODUCTION**; the eight-candidate table below is historical research and does not override the current selected cut list. Owner instruction supersedes default 6–10 for **VIDEO005 ONLY**.
+
+---
+
 # VIDEO005 — Stage02 R3: 8 CONTIGUOUS SHORT-WORTHY BEATS
 **Planning only / no cuts rendered, 20–27s voice targets pending actual delivery.**
 All snippets must be a single contiguous long-form narration excerpt with standalone identity, evidence qualification and payoff. Never stitch, rerecord alternate Short intro, import outside channel styles or generate unauthorized captions. Stage03 writes paragraphs; Stage04 must validate isolated truth; Stage11 binds real audio timings.

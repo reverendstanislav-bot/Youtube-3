@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
 current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "Stage06 V4.3 EN independent cold editor WARN 79/100 (PASS >=82, all hard gates >=4/5). Seven concrete P069-P075 issues incl. duplicated email/disks/settlement and weak S02/S04. Stage05 V4.4 creative corrections only on owner instruction, then fresh G04 and G06; Stage07 not authorized."
-blockers: ["G06 V4.3 WARN 79/100 BELOW PASS >=82; Stage07 SCRIPT LOCK HELD", "P069-P074 medium density/Shorts and P075 low issue remain open; no HIGH hard performance blocker", "G01/G02 formal owner editorial HOLD persists", "Harrison audio not authorized; eight Shorts real <=30sec including final ending NOT MEASURED", "Stage16 prepublication fact/legal/rights current-status refresh still required", "2022 Main Uber Payment amount is sealed"]
+next_action: "OWNER OVERRIDE: EXACTLY FOUR V4.3 native Shorts S01/S03/S05/S08 SELECTED, ALL 4 G06 creative PASS; second cold G06 long-form V4.3 remains WARN 79/100 below PASS>=82. Owner-authorized Stage05 V4.4 long-only corrections P069/P070/P071/P072/P073/P075 suggested before Stage07, with 4 Shorts frozen until owner changes."
+blockers: ["G06 V4.3 long-form WARN 79/100 BELOW required PASS>=82, Stage07 HOLD", "Six long-form editorial issues P069,P070,P071,P072,P073,P075 still open; Short-only P074 closed by exclusion", "G01/G02 formal owner editorial HOLD persists", "Owner selected exactly 4 Shorts S01,S03,S05,S08; Stage07 cut/VO lock NOT_CREATED", "Actual Harrison voice and <=30sec Shorts inclusive ending NOT_MEASURED; voice/generation not authorized", "Stage16 prepublication case-status, fact/legal and rights refresh pending", "2022 main Uber settlement payment amount is sealed"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -18,7 +18,7 @@ stages:
   stage_03_script_v1: "DRAFT_COMPLETE"
   stage_04_fact_legal_review: "PASS_V4_3_EN_TEXT"
   stage_05_script_revision: "V4_3_EN_FOUR_TARGETED_LEGAL_FIXES_COMPLETE"
-  stage_06_performance_review: "V4_3_EN_WARN_79_OF_100"
+  stage_06_performance_review: "V4_3_EN_WARN_79_OF_100_ACTIVE_4_SHORTS_PASS"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
@@ -65,8 +65,8 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "HOLD"
-  target_count: "6-10"
+  architecture_status: "OWNER_4_SELECTED_G06_SHORTS_PASS_STAGE07_PENDING"
+  target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
   stage_03_map: "03_SHORTS_MAP.csv"
@@ -83,7 +83,7 @@ qa:
   topic: "PASS"
   research: "HOLD"
   fact_legal: "PASS_V4_3_EN_55_OF_55_8_OF_8"
-  performance: "WARN_V4_3_EN_79_100"
+  performance: "WARN_V4_3_EN_79_100_SHORTS_4_OF_4_PASS"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
