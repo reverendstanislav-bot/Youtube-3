@@ -150,3 +150,9 @@ That distinction changes the story. The judge did not declare that those disks h
 
 In February 2018, the case reached trial. At last, it looked as if a jury might decide what had been used, what could be proved, and what liability would follow. Except the ending the courtroom was moving toward never arrived. Before there was a jury verdict, the corporate opponents made a deal.
 
+## A06 — THE STOCK SETTLEMENT THAT WASN'T THE END
+
+**A06-P01**
+
+On February 9, 2018, Waymo and Uber settled. The lawsuit was dismissed with prejudice, ending those claims in that case. But a settlement isn't a jury ruling that every allegation in the complaint was true. There was no jury verdict on liability before the parties agreed to end the fight. And other disputes were still alive.
+
