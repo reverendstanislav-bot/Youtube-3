@@ -17,3 +17,6 @@ Human listening has not yet confirmed canonical Harrison timbre, proper names, j
 ## Next action
 
 Listen to all five release WAVs, record exact defect timestamps, compare against the canonical Harrison reference, and either pass Stage09 or regenerate only failed spans after explicit authorization.
+
+## Additional Stage09 independent file audit (2026-10-14)
+All fourteen GitHub Release assets obtained, five WAV SHA256 matches; independent signal inspection PASS: 16:34.55, 24kHz PCM mono, peaks −2.00..−2.75 dBFS, no hard clipping, no >1.2s silence or digital jumps at >0.58FS. Additional ASR word timestamp estimates for same-master Shorts S01 21.32s, S03 22.42s, S05 22.52s, S08 20.22s speech only. These are automatic, not final cut times incl CTA. **G09 still HOLD auditory Harrison identity/name/joins/artifacts; G10 NOT_STARTED.** See `09_VOICE_AUDIO_INDEPENDENT_QC.md`.

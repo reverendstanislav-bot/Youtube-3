@@ -1,0 +1,5 @@
+"short_id","parent_paragraph","audio_asset","chunk","word_start_s","word_end_s","speech_window_s","global_word_start_s","global_word_end_s","matched_expected_tokens","expected_tokens","precision_note","total_short_incl_CTA_30s"
+"S01","A00-P01","VIDEO005_HARRISON_QWEN06_CHUNK_01.wav","1","0","21.32","21.32","0","21.32","46","60","ASR-word-aligned / number and name normalization","NOT_VERIFIED"
+"S03","A02-P03","VIDEO005_HARRISON_QWEN06_CHUNK_02.wav","2","37.1","59.52","22.42","229.22","251.64","52","66","ASR-word-aligned / verbalized money","NOT_VERIFIED"
+"S05","A04-P03","VIDEO005_HARRISON_QWEN06_CHUNK_03.wav","3","37.42","59.94","22.52","457.13","479.65","56","61","ASR-last-word Otto/Auto may extend end ~0.3-0.6sec","NOT_VERIFIED"
+"S08","A08-P04","VIDEO005_HARRISON_QWEN06_CHUNK_05.wav","5","50.66","70.88","20.22","857.89","878.11","53","58","ASR-word-aligned / year normalization","NOT_VERIFIED"
