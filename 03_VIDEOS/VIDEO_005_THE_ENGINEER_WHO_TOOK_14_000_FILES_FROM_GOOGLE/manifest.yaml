@@ -7,19 +7,19 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-13"
-current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "Stage06 V4.4 EN fresh cold Performance Review PASS 82/100 at Foundation threshold >=82, all four hard gates >=4/5. Exactly four chosen native Shorts S01 S03 S05 S08 G06 creative PASS 4/4. Stage01/02 formal owner HOLDs still block automatic Stage07, which remains NOT_STARTED. Owner direction required before lock or paid Harrison."
-blockers: ["Stage01 and Stage02 formal owner editorial HOLDs unresolved despite Stage06 V4.4 creative PASS", "Stage07 script lock NOT_STARTED; owner instruction needed", "Four selected Shorts actual Harrison <=30sec INCLUDING ending and CTA not measured", "Comparator CSV lacks evidence (nonblocking performance qualification); four LOW optional N076-N079 density/next-view notes", "Stage16 prepublication current-status/fact/legal/rights refresh pending", "No voice/generation credits authorized; sealed 2022 Uber Main Payment amount remains undisclosed"]
+current_stage: "07_SCRIPT_LOCK"
+next_action: "Stage07 V4.4 final 55-paragraph script and exactly four Shorts locked. Stage08 Voice Script NOT_STARTED, separate owner instruction required. No paid TTS approved."
+blockers: ["Harrison audio not generated; exact four Shorts <=30 seconds including CTA/end screen unmeasured", "Stage08 voice preparation requires separate instruction and paid TTS separate budget approval", "Stage16 final fact/legal and copyright/rights refresh pending", "2022 Uber Main Payment amount sealed; competitor comparisons unverified"]
 
 stages:
   stage_00_topic_qualification: "PASS"
-  stage_01_evidence_research: "HOLD"
-  stage_02_case_story_map: "HOLD"
+  stage_01_evidence_research: "PASS_OWNER_ACCEPTED_CURRENT_V4_4_AT_STAGE07"
+  stage_02_case_story_map: "PASS_OWNER_ACCEPTED_CURRENT_V4_4_AT_STAGE07"
   stage_03_script_v1: "DRAFT_COMPLETE"
   stage_04_fact_legal_review: "PASS_V4_4_EN_TEXT_55_OF_55_4_OF_4"
   stage_05_script_revision: "V4_4_EN_TARGETED_RETENTION_REWRITE_COMPLETE"
   stage_06_performance_review: "PASS_V4_4_EN_82_OF_100_FOUR_SHORTS_PASS"
-  stage_07_script_lock: "NOT_STARTED"
+  stage_07_script_lock: "PASS_V4_4_EN_FINAL_55_PARAGRAPHS_FOUR_SHORTS_LOCKED"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -37,7 +37,7 @@ locks:
   topic_qualified: true
   evidence_research: true
   case_story_map: true
-  final_script: false
+  final_script: true
   voice_input: false
   audio_master: false
   visual_timeline: false
@@ -65,7 +65,7 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "OWNER_FOUR_SHORTS_VERBATIM_IN_V4_4_STAGE07_NOT_LOCKED"
+  architecture_status: "LOCKED_FOUR_NATIVE_SHORTS_V4_4"
   target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
@@ -81,7 +81,7 @@ assets:
 
 qa:
   topic: "PASS"
-  research: "HOLD"
+  research: "PASS_CURRENT_V4_4_OWNER_EDITORIAL_ACCEPTANCE"
   fact_legal: "PASS_V4_4_EN_55_OF_55_4_OF_4"
   performance: "PASS_V4_4_EN_82_100_SHORTS_4_4"
   visual: "NOT_RUN"
