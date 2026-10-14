@@ -6,10 +6,10 @@ pillar: "TRADE_SECRETS"
 priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
-last_updated: "2026-10-13"
+last_updated: "2026-10-14"
 current_stage: "09_VOICE_QA_LOCK"
-next_action: "Owner reports five local Voicebox/Qwen3-TTS 0.6B/CUDA WAV pieces totaling 16:34.55. Audio bytes and QC report NOT ACCESSIBLE here. Request ZIP of five WAV plus VOICEBOX_GENERATION_QC.md, inspect actual audio and confirm canonical Harrison voice identity before Stage09 PASS or Stage10 master."
-blockers: ["Five locally reported WAV and VOICEBOX_GENERATION_QC.md NOT ATTACHED/ACCESSIBLE to audio QC", "Qwen3-TTS generated voice may not match channel-locked Higgsfield Harrison; timbre/reference unverified", "Listening QC Levandowski Stroz Friedberg segment joins and audible artifacts NOT_RUN", "Actual native Shorts S01 S03 S05 S08 duration including CTA/endcard UNMEASURED", "Stage09 must PASS before Stage10; no master exists", "Stage16 prepublication legal/current-status/rights refresh remains due"]
+next_action: "Five Voicebox/Qwen3-TTS 0.6B WAVs and QC evidence uploaded as GitHub Release assets; file decode, hashes and automated ASR checked. Perform human listening and canonical Harrison comparison before Stage09 PASS or Stage10 master."
+blockers: ["Qwen3-TTS candidate voice may not match channel-locked Higgsfield Harrison; human timbre/reference comparison pending", "Listening QC for Levandowski Stroz Friedberg LiDAR Waymo Otto joins and audible artifacts NOT_RUN", "Actual native Shorts S01 S03 S05 S08 duration including CTA/endcard UNMEASURED", "Stage09 must PASS before Stage10; no master exists", "Stage16 prepublication legal/current-status/rights refresh remains due"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -21,7 +21,7 @@ stages:
   stage_06_performance_review: "PASS_V4_4_EN_82_OF_100_FOUR_SHORTS_PASS"
   stage_07_script_lock: "PASS_V4_4_EN_FINAL_55_PARAGRAPHS_FOUR_SHORTS_LOCKED"
   stage_08_voice_script: "PASS_TEXT_PREPARED_V4_4_HARRISON_55_OF_55_FIVE_CONTIGUOUS_CHUNKS"
-  stage_09_voice_qa_lock: "HOLD_LOCAL_VOICEBOX_WAV_5_OF_5_REPORTED_NOT_AUDIO_AUDITED"
+  stage_09_voice_qa_lock: "HOLD_RELEASE_ASSETS_TECHNICAL_PASS_AUDITORY_QC_PENDING"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -57,11 +57,12 @@ evidence:
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
   voice_id_or_preset: "HIGGSFIELD_PRESET_573e5163-59b3-4926-aab1-951ef2985f81"
+  candidate_generation: "VOICEBOX_0.5.0_QWEN3_TTS_0.6B_PROFILE_228d3d8a-096f-461b-bf11-4f9415e2dafc_SEED_20261014"
 
 audio:
-  runtime_sec: ""
-  file_or_uri: ""
-  checksum: ""
+  runtime_sec: "994.55"
+  file_or_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video005-harrison-qwen06-20261014"
+  checksum: "SHA256SUMS.txt in release; per-file hashes in ASSET_MANIFEST.csv"
 
 shorts:
   required: true
@@ -77,7 +78,7 @@ shorts:
 
 assets:
   manifest: "ASSET_MANIFEST.csv"
-  external_storage_root: ""
+  external_storage_root: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video005-harrison-qwen06-20261014"
 
 qa:
   topic: "PASS"
