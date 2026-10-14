@@ -7,9 +7,9 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-14"
-current_stage: "09_VOICE_QA_LOCK"
-next_action: "Stage09 independent SHA256/PCM/signal and ASR-Short timing technical QC PASS for 5 real GitHub Release WAV. HUMAN A/B listening vs approved Harrison master, names and joins still required before Stage09 PASS/Stage10. Shorts auto word windows S01~21.32 S03~22.42 S05~22.52 S08~20.22 speech-only, final <=30sec incl CTA NOT VERIFIED."
-blockers: ["Harrison timbre vs locked VIDEO004/Higgsfield master NOT COMPARED BY HUMAN LISTENING", "Pronunciation Levandowski Stroz Friedberg Otto and Waymo, segment joins and subjective glitches require listening", "Automatic source speech Short durations estimated but four final under-30s incl CTA/endcard NOT_VERIFIED", "Stage09 voice_input LOCK remains false and Stage10 master NOT_STARTED", "Stage16 prepublication legal/current-status/rights refresh remains due"]
+current_stage: "10_AUDIO_MASTER"
+next_action: "Stage10 final Audio Master PASS 995.03s PCM16 mono 48kHz -16.2LUFS/-1.5dBTP, ZIP and SHA256 in 10_AUDIO_MASTER.md. Stage11 transcript and visual timeline NOT_STARTED."
+blockers: ["Stage11 word-level transcript and visual timeline NOT_STARTED", "Four native Short final cuts <=30 seconds including CTA/endcard NOT_VERIFIED", "Manual pronunciation listening not independently documented, owner accepted Qwen Harrison voice", "Stage16 final current-case/legal/rights refresh pending"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -21,8 +21,8 @@ stages:
   stage_06_performance_review: "PASS_V4_4_EN_82_OF_100_FOUR_SHORTS_PASS"
   stage_07_script_lock: "PASS_V4_4_EN_FINAL_55_PARAGRAPHS_FOUR_SHORTS_LOCKED"
   stage_08_voice_script: "PASS_TEXT_PREPARED_V4_4_HARRISON_55_OF_55_FIVE_CONTIGUOUS_CHUNKS"
-  stage_09_voice_qa_lock: "HOLD_INDEPENDENT_SHA_SIGNAL_ASR_TIMING_PASS_HARRISON_LISTEN_PENDING"
-  stage_10_audio_master: "NOT_STARTED"
+  stage_09_voice_qa_lock: "PASS_OWNER_APPROVED_HARRISON_QWEN_WITH_TECH_QC"
+  stage_10_audio_master: "PASS_MASTER_PCM16_48KHZ_995_03S"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
@@ -38,8 +38,8 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
-  audio_master: false
+  voice_input: true
+  audio_master: true
   visual_timeline: false
   visual_assets: false
   edit_master: false
@@ -60,9 +60,9 @@ voice:
   candidate_generation: "VOICEBOX_0.5.0_QWEN3_TTS_0.6B_PROFILE_228d3d8a-096f-461b-bf11-4f9415e2dafc_SEED_20261014"
 
 audio:
-  runtime_sec: "994.55"
-  file_or_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video005-harrison-qwen06-20261014"
-  checksum: "SHA256SUMS.txt in release; per-file hashes in ASSET_MANIFEST.csv"
+  runtime_sec: "995.03"
+  file_or_uri: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/c6d78c43-e56d-40de-9c93-c4289cf5d248.zip"
+  checksum: "SHA256:0db92584d7eddd70914b800cb981250463d222cc4db1245444a8153c782847a0"
 
 shorts:
   required: true

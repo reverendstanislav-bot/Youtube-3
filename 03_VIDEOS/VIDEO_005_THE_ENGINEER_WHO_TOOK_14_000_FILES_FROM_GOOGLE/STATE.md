@@ -1,22 +1,11 @@
-# VIDEO005 — Stage09 release assets uploaded (2026-10-14)
+# VIDEO005 — Stage10 Audio Master READY (2026-10-14)
 
-**Stage09: HOLD — TECHNICAL FILE QC PASSED; HUMAN HARRISON LISTENING LOCK PENDING.** Five Voicebox/Qwen3-TTS 0.6B candidate WAV chunks and their QC evidence are available in GitHub Release `video005-harrison-qwen06-20261014`.
+**Stage09:** Owner explicitly approved the Qwen narration as Harrison. Voice acceptance is owner's decision; no independent human audition certification. Original five source WAV file checks passed.
 
-## Verified boundary
+**Stage10:** FINAL MASTER TECH PASS — 16:35.03 / 995.03sec, PCM 16-bit 48kHz mono, -16.2 LUFS, -1.5 dBTP. Five source blocks assembled in order with 4x120ms pauses and 12ms fades at boundaries. All spoken paragraphs unchanged. SHA256 0db92584d7eddd70914b800cb981250463d222cc4db1245444a8153c782847a0.
 
-- Five WAVs; PCM s16le mono 24 kHz.
-- Total measured runtime: **994.55 seconds / 16:34.55**.
-- Five of five clean ffmpeg decodes and matching SHA-256 hashes.
-- ASR comparison retained as supporting evidence; no missing multiword narrative passage found.
-- Zero paid credits and no retries.
+ZIP download: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/c6d78c43-e56d-40de-9c93-c4289cf5d248.zip
 
-## Still blocked
+Stage10 report: `10_AUDIO_MASTER.md`. Four locked Shorts only: S01,S03,S05,S08. Estimated master word timings: S01 0-21.32s, S03 229.34-251.76s, S05 457.37-479.89s, S08 858.37-878.59s. These are ASR approximations; completed Shorts with CTA not yet QCed.
 
-Human listening has not yet confirmed canonical Harrison timbre, proper names, joins, artifacts or continuity. S01/S03/S05/S08 final cut durations remain unmeasured. Therefore `locks.voice_input=false`, `locks.audio_master=false`, and Stage10 is NOT_STARTED.
-
-## Next action
-
-Listen to all five release WAVs, record exact defect timestamps, compare against the canonical Harrison reference, and either pass Stage09 or regenerate only failed spans after explicit authorization.
-
-## Additional Stage09 independent file audit (2026-10-14)
-All fourteen GitHub Release assets obtained, five WAV SHA256 matches; independent signal inspection PASS: 16:34.55, 24kHz PCM mono, peaks −2.00..−2.75 dBFS, no hard clipping, no >1.2s silence or digital jumps at >0.58FS. Additional ASR word timestamp estimates for same-master Shorts S01 21.32s, S03 22.42s, S05 22.52s, S08 20.22s speech only. These are automatic, not final cut times incl CTA. **G09 still HOLD auditory Harrison identity/name/joins/artifacts; G10 NOT_STARTED.** See `09_VOICE_AUDIO_INDEPENDENT_QC.md`.
+**Stage11 NOT_STARTED.** No new paid generations. Manual pronunciation review remains a production reminder. Stage16 refresh later mandatory.
