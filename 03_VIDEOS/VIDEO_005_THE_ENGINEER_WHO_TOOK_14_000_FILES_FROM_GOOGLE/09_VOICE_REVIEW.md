@@ -1,18 +1,11 @@
-# VIDEO 005 — 09 Voice QA + Lock
+# VIDEO005 — Stage09 Voice QA + Lock
 
-Status: NOT_STARTED
+**Status: HOLD — LOCAL AUDIO GENERATED ACCORDING TO OWNER/CODEX, NOT YET LISTENED TO OR LOCKED (2026-10-14).**
 
-Check the exact voice-generation input against `07_SCRIPT_FINAL.md`:
-- semantic fidelity;
-- no omissions/duplications;
-- names and pronunciation;
-- numbers, currency and dates;
-- legal terms;
-- attribution language;
-- chunking and pauses;
-- consistent delivery;
-- editability.
+See `09_VOICEBOX_QWEN3_06B_EXTERNAL_QC_HANDOFF.md` for input, reported QC and exact gates.
 
-Result: PASS / WARN / FAIL.
+Five locally generated Voicebox/Qwen3-TTS 0.6B/CUDA WAV files reported. Total reported runtime **16:34.55**; all reportedly decode; levels −2.0…−2.7 dBFS; ASR allegedly confirms chronological coverage. This information comes only from owner/Codex, not independent file inspection. Local folder `C:\YOUTUBE\Youtube 3\Video 5\AUDIO\VOICEBOX_QWEN3_06B\` cannot be accessed from current ChatGPT/GitHub environment.
 
-On PASS, lock the exact input/settings in manifest. Do not change factual wording during performance polishing.
+**Blocking:** Real audio and `VOICEBOX_GENERATION_QC.md` not available here. Can't audit Levandowski/Stroz Friedberg, five joins, artifacts, true Harrison voice identity relative to channel's Higgsfield Harrison lock, or actual four Short durations. Stage10 master does not exist.
+
+**Next:** attach the 5 WAV and report (one ZIP). No paid generation, no script edits, no automatic retries. Lock only after actual listening QC.
