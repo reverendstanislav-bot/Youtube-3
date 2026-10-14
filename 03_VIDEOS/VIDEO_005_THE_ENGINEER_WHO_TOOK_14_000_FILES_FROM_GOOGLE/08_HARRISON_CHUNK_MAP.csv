@@ -1,0 +1,6 @@
+"job_draft_id","from_act","to_act","from_paragraph","to_paragraph","paragraphs","locked_written_words","spoken_normalized_words","estimated_pure_speech_sec_145wpm","estimated_pure_speech_sec_120wpm","narration_input_filename","short_ids_wholly_inside","paid_job_status"
+"01","A00","A01","A00-P01","A01-P05","10","487","506","209.4","253.0","08_HARRISON_TTS_CHUNK_01.txt","S01","NOT_SUBMITTED_OWNER_APPROVAL_REQUIRED"
+"02","A02","A03","A02-P01","A03-P06","12","573","588","243.3","294.0","08_HARRISON_TTS_CHUNK_02.txt","S03","NOT_SUBMITTED_OWNER_APPROVAL_REQUIRED"
+"03","A04","A05","A04-P01","A05-P06","11","499","505","209.0","252.5","08_HARRISON_TTS_CHUNK_03.txt","S05","NOT_SUBMITTED_OWNER_APPROVAL_REQUIRED"
+"04","A06","A07","A06-P01","A07-P06","11","484","511","211.4","255.5","08_HARRISON_TTS_CHUNK_04.txt","","NOT_SUBMITTED_OWNER_APPROVAL_REQUIRED"
+"05","A08","A09","A08-P01","A09-P05","11","508","517","213.9","258.5","08_HARRISON_TTS_CHUNK_05.txt","S08","NOT_SUBMITTED_OWNER_APPROVAL_REQUIRED"

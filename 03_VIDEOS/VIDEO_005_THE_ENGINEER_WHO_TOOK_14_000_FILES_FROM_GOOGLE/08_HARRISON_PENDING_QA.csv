@@ -1,0 +1,5 @@
+"id","future_stage","priority","observation","acceptance","status"
+"V081","Stage09","MEDIUM","Levandowski proper-name stress not verified with original speaker audio; do not substitute phonetic spelling without proof","KEEP_CORRECT_ORTHOGRAPHY_AND_CHECK_EXISTING_PREVIEW_OR_OWNER_APPROVED_SAMPLE","OPEN_DOWNSTREAM_QA_NOT_STAGE08_TEXT_FAIL"
+"V082","Stage09/10","HARD_SPEND_GATE","Higgsfield voice Harrison identity locked but synthesis engine/model/cost not yet fixed; no paid permission","SELECT_MODEL_ESTIMATE_JOB_COST_AND_GET_EXPLICIT_OWNER_APPROVAL_BEFORE_TTS","OPEN_PAID_JOB_BLOCKER"
+"V083","Stage11/15","HIGH_RUNTIME_RISK","S03 expanded to 63 verbalized tokens; 120wpm=31.5sec pure speech exceeds 30sec before any ending; at145 ~26.1sec leaves ~3.9sec","MEASURE_HARRISON_AUDIO_AND_CONFIRM_EXPORTED_SHORT_LE_30SEC_INCL_ENDING_NO_REMOVAL_OF_LEGAL_CAVEATS","OPEN_TIMING_QC_NOT_FACT_LEGAL"
+"V084","Stage09","LOW","Stroz Friedberg proper name has no source-confirmed stress in current Stage08 guide","VERIFY_USING_RELIABLE_AUDIO_OR_OWNER_APPROVED_HARRISON_TEST_NO_GUESSED_REPLACEMENT","OPEN_DOWNSTREAM_PRONUNCIATION_QA"

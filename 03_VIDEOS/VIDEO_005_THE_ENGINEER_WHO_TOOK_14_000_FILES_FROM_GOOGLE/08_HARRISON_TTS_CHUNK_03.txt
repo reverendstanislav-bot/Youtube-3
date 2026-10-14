@@ -1,0 +1,21 @@
+December twenty sixteen. Google receives a supplier email that was supposed to go to Uber. Attached are circuit-board drawings connected to autonomous vehicles. According to later court accounts, Google saw similarities to its own designs. Suddenly, suspicions about what an engineer had copied were accompanied by a glimpse of engineering work intended for the buyer.
+
+Google now had two different things to examine: the earlier record of copied files and technical drawings meant for Uber. They raised related questions, but neither alone traced those files into Uber's product. That evidentiary gap would matter when the accusations reached court.
+
+One wrong email helped move a tech rivalry toward court. In December twenty sixteen, a supplier sent Google circuit-board drawings intended for Uber. Google suspected similarities to its designs. The email didn't prove Uber used Waymo's trade secrets—but it helped prompt further investigation. By February twenty seventeen, Waymo had filed a federal lawsuit against Uber and Otto.
+
+Waymo, which grew out of Google's self-driving project, alleged theft and misuse of confidential technology, including LiDAR-related trade secrets. Uber denied incorporating Waymo's trade secrets into its own systems. These were opposing positions, and the courtroom had to decide what the evidence could support.
+
+In May twenty seventeen, Judge William Alsup imposed limited preliminary restrictions, including measures affecting Levandowski's LiDAR work. That was not a final verdict proving every allegation. More importantly for the next turn, attention shifted to information that had once existed on physical storage devices—but could no longer be examined.
+
+Months before the acquisition closed, Levandowski told Uber executives about five disks he said held Google information. Uber later reported that he said the disks were destroyed and insisted it never received them. By the time this became a trial issue, nobody could independently inspect their contents.
+
+The critical detail was when Uber learned of this claim, compared with when it disclosed that knowledge in litigation. The problem wasn't that missing disks automatically proved misappropriation. It was whether the delay could change how jurors assessed Uber's account.
+
+Without the disks to examine, the judge faced a procedural question: could jurors treat Uber's late disclosure as a reason to doubt its position? The answer would shape the evidence presented at trial, even without proving what any disk had contained.
+
+In January twenty eighteen, the judge permitted jurors to draw an unfavorable inference from Uber's delayed disclosure if they thought it warranted. They were not required to do so, and the order did not establish the missing disks' contents or prove that Uber used Waymo's trade secrets.
+
+That prospect put credibility in play, not an automatic verdict. The parties could still argue over what the delay meant. It was a question jurors might have weighed—if the trial reached a decision.
+
+In February twenty eighteen, the Waymo–Uber trial began. It looked as though a jury might finally answer what had been used and what could be proved. Instead, before the jury reached a verdict, the companies made a deal. Its headline value was massive. Its legal meaning was much narrower.

@@ -1,0 +1,23 @@
+In February twenty sixteen, Uber and Otto signed preliminary acquisition terms. Uber wanted engineers and the chance to speed up its self-driving efforts. Otto offered both. But buying a startup also meant confronting questions about what its newly recruited employees might still owe the employers they'd left behind.
+
+The reported possible deal value reached approximately six hundred eighty million dollars. That is a spectacular number for a young company. It is also easy to misunderstand. The Delaware court record described a structure involving future conditions and equity. The money delivered at the beginning was strikingly smaller.
+
+Uber's Otto acquisition could have been worth up to six hundred eighty million dollars. But the initial cash payment, according to Delaware court records, was only one hundred thousand dollars. Much of the potential value depended on conditions and future equity. So 'Uber handed Levandowski six hundred eighty million dollars in cash' is the wrong story. The headline price wasn't the day-one payout.
+
+Here's why that distinction matters. Uber was buying a possible future advantage. But one part of the acquisition concerned the past: potential claims tied to former Google employees. A big valuation wouldn't make those liabilities disappear. Somebody had to negotiate which risks might be covered and under what conditions.
+
+By April twenty sixteen, the deal included a separate indemnification agreement dealing with certain legal liabilities. It was conditional; it wasn't a blank check. Years later, Levandowski would say Uber had to cover a personal judgment. Uber would dispute that. For now, the agreement was only one part of a deal that had not yet closed.
+
+Before completing the purchase, Uber did something revealing: it hired outside digital-forensics specialists to examine whether former Google employees had retained confidential information. This investigation happened before the closing, not afterward. What did the specialists find? Enough to worry about—but not the simple answer either side wanted.
+
+The firm Uber hired was Stroz Friedberg. Its specialists examined digital devices and the possibility that former Google employees had retained sensitive materials. The timing is the important part: the review came after the preliminary acquisition terms but before Otto officially became part of Uber.
+
+The inquiry raised concerns. Later, a shareholder lawsuit alleged that company lawyers had expressed reservations and that directors might not have received every warning. Those were the plaintiff's allegations about the acquisition process, not a court finding that the entire Uber board knowingly participated in stealing trade secrets.
+
+Now the business decision had real stakes. A promising engineering team could help Uber compete faster. But a purchase might also import claims over confidential files. Due diligence couldn't give the board a guarantee about every future lawsuit. It could identify evidence and the limits of what investigators had actually established.
+
+Uber investigated Google-data concerns before buying Otto. Its forensic firm, Stroz Friedberg, reported serious issues—but found no evidence that confidential Google information retained by Anthony Levandowski had been transferred to Otto or third parties. That didn't clear every possible violation. Uber nevertheless completed the acquisition. The warning existed; proof of that specific transfer did not.
+
+Uber's board approved the deal. Otto became part of Uber in August twenty sixteen, and Levandowski entered its self-driving program. An important question remained unresolved: if the files had been copied, could anyone show that Uber's technology actually contained Google's protected work?
+
+The next lead wasn't a new download or a confession. It came from technical material prepared for Uber, delivered somewhere it was never meant to go. A mundane supplier mistake was about to change the stakes.
