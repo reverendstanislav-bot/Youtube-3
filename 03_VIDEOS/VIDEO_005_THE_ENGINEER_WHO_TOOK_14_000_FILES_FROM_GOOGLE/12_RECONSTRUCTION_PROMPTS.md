@@ -1,14 +1,5 @@
-# VIDEO 005 — 12 Reconstruction Prompts
+# VIDEO005 — Stage12 Illustrative Reconstruction Prompt Decision
 
-Status: NOT_STARTED
+**Result: ZERO planned ILLUSTRATIVE_RECONSTRUCTION jobs.** The 2015 download, December 2016 supplier email, Stroz investigation, meetings, disks, legal filings, 2022 payment and courtroom events are deliberately NOT reenacted as if captured. Their claims are served by authentic documents, original explanatory graphics, context footage (rights-gated), or clearly abstract editorial illustrations.
 
-Use only for clearly illustrative reconstructions.
-
-Each reconstruction must state:
-- source facts it is based on;
-- unsupported details that must not be invented;
-- whether faces/locations/products must be genericized;
-- how the edit will signal illustration where needed;
-- prohibited fake text/logos/documents.
-
-Reconstruction is storytelling support, not evidence.
+**Not authorized:** fictional historical actor likenesses, Google/Uber branded offices, screenshots of internal repositories, fake email inboxes, copied circuit drawings, manufactured court papers, signatures, or physical evidence photographs. Any future reconstruction requires a new owner-approved Stage12 revision with source facts, invented-detail boundary and labeling/counterfeit risk QC. NO credits or generation jobs launched here.

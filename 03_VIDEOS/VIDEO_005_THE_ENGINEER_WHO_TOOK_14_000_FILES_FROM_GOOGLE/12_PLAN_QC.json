@@ -1,0 +1,74 @@
+{
+  "canonical_55_scenes": 55,
+  "stage11_placements": 110,
+  "stage12_planned": 110,
+  "all_placements_unique": true,
+  "complete_no_undeclared_source_ids": true,
+  "frame_partition_preserved": true,
+  "story_unique_directions": true,
+  "classes": {
+    "EDITOR_GRAPHIC": 60,
+    "AUTHENTIC_SOURCE": 37,
+    "LICENSED_OR_USABLE_CONTEXT": 3,
+    "GENERATED_ILLUSTRATION": 10,
+    "EDITOR_RECREATION": 0,
+    "ILLUSTRATIVE_RECONSTRUCTION": 0
+  },
+  "source_families_used": 13,
+  "authentic_documents_to_acquire": 37,
+  "original_editor_graphics": 60,
+  "context_assets_rights_pending": 3,
+  "generated_still_prompts_not_submitted": 10,
+  "reconstructions": 0,
+  "shorts": [
+    {
+      "id": "S01",
+      "source_paragraph_id": "A00-P01",
+      "scene": "SC001",
+      "planned_assets": [
+        "V005-VP001",
+        "V005-VP002"
+      ],
+      "vertical_recompose": true,
+      "source_master_only": true
+    },
+    {
+      "id": "S03",
+      "source_paragraph_id": "A02-P03",
+      "scene": "SC013",
+      "planned_assets": [
+        "V005-VP025",
+        "V005-VP026"
+      ],
+      "vertical_recompose": true,
+      "source_master_only": true
+    },
+    {
+      "id": "S05",
+      "source_paragraph_id": "A04-P03",
+      "scene": "SC025",
+      "planned_assets": [
+        "V005-VP049",
+        "V005-VP050"
+      ],
+      "vertical_recompose": true,
+      "source_master_only": true
+    },
+    {
+      "id": "S08",
+      "source_paragraph_id": "A08-P04",
+      "scene": "SC048",
+      "planned_assets": [
+        "V005-VP095",
+        "V005-VP096"
+      ],
+      "vertical_recompose": true,
+      "source_master_only": true
+    }
+  ],
+  "source_rights_cleared_count": 0,
+  "image_generations_submitted": 0,
+  "paid_spend_authorized": false,
+  "source_url_validity": "URLS_FROM_REPO_SOURCE_INDEX_ONLY_NOT_NEW_FETCH_VERIFIED",
+  "stage13_inputs_not_existing": "Document crops, source downloads, rights/visual QC and generated images do not exist yet"
+}

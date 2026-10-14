@@ -1,16 +1,83 @@
-# VIDEO 005 — 12 Image Prompts
+# VIDEO005 — Stage12 GENERATED_ILLUSTRATION Prompt Pack
 
-Status: NOT_STARTED
+**Status:** prompts prepared, NO images generated. **Number:** 10. Each below is a distinct illustrative still tied to one of the 110 editorial placements. No provider selected, no credits approved, no video generation. Editor-native graphics and authentic source scans MUST NOT be sent to image generation. Channel visual lock in `00_FOUNDATION/VISUAL_LOCK.md` controls all stills.
 
-Scene-level prompts for generated illustrative assets only.
+### V005-VP010 — SC005 / A00-P05 (87.64–94.08s)
 
-Each prompt must include:
-- scene ID/time;
-- narrative purpose;
-- what is factual vs illustrative;
-- composition;
-- continuity requirements;
-- text/document restrictions;
-- negative constraints.
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S010;S003; **not generated**.
 
-Do not ask the image model to generate a fake legal document, quote or signature for presentation as evidence.
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Illustrate a generic autonomous-sensing research object seen through glass and light (no identifiable employee, lab, vehicle branding or supposed December 2015 event). Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP012 — SC006 / A01-P01 (104.28–115.88s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S003;S032; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Use a clearly illustrative macro of an unbranded roof-mounted sensor seen against natural road depth; exclude technical drawings that resemble Waymo protected designs. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP028 — SC014 / A02-P04 (262.24–270.04s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S007;S008;S032; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Unbranded engineering prototype table seen with multiple separated future-looking component shapes, illustrative not an actual Uber acquisition room or contract. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP032 — SC016 / A02-P06 (301.12–310.12s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S004;S008; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Generic illustrative sterile forensic hardware desk with closed computer, no screen, visible data, invented case notes, investigator face or branded service. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP038 — SC019 / A03-P03 (355.96–365.76s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S008; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Generic abstract close-up of metallic sensing hardware on a neutral workstation, no imagined Uber boardroom or actual Stroz document. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP043 — SC022 / A03-P06 (407.52–414.4s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S003;S008; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Illustrative macro photo of generic etched circuit board trace under raking neutral light, no email UI, fake recipient name, actual proof document or logos. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP046 — SC023 / A04-P01 (429.88–441.76s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S003;S008; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Generic illustrative circuit-board artwork shot on a laboratory table with no authentic drawing fabrication, email screenshot, recipient or source-like annotation. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP076 — SC038 / A06-P05 (689.2–694.44s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S032; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Illustrative abstract interlocking glass and steel components under tension, generic and without signed contract/court document. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP090 — SC045 / A08-P01 (817.44–825.08s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S032; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Generic illustrative neutral contract negotiations motif: abstract unsigned clean paper without any readable false contract terms or signatures. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
+
+### V005-VP100 — SC050 / A08-P06 (905.8–912.32s)
+
+**Class:** GENERATED_ILLUSTRATION (NOT EVIDENCE); **Shorts:** none; **source-backed story basis:** S032;S033; **not generated**.
+
+**Image-generation prompt:** Create ONE complete still documentary-support illustration, 16:9 1920x1080, high-detail realistic editorial photography without any implied captured historical event. Composition specifically: Illustrative generic calculator with neutral abstract blank receipt on desk, no dollar amount or simulated bankruptcy record. Premium WHAT IT COST treatment: natural but controlled lighting, deep black #0B0B0B and charcoal #1F1F1F depth, restrained paper-white #EDEDED highlights, signal-red #D32222 only as a rare semantic accent. Subject-centric frame with genuine depth and ample editable negative space for typography and 9:16 reframing where relevant. No famous person's recognizable face, no Google/Uber/Waymo/Otto branded logo, no actual office/location or re-created employee, no readable email, text, date, currency, courtroom record, contract, signature, logo, fake case exhibit, chart, user interface or document. No neon, comic style, horror, sci-fi holograms, oversized fake redaction bars, disembodied hands, generative gibberish, artificial bloom or stock watermark. This object is a conceptual illustration only, never a proof image. No subtitles burned into image. Avoid repeating the subject/composition of any other generated asset in this pack.
+
+**Editorial post-treatment:** add any factual English label only as native editor typography, with case source attribution. If a viewer could mistake the visual for 2015–2022 actual case evidence, crop/relabel as illustrative instead of asserting authenticity. No paid job until owner approves number/provider/credits.
