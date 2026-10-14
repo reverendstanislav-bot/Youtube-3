@@ -7,9 +7,9 @@ priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-14"
-current_stage: "10_AUDIO_MASTER"
-next_action: "Stage10 final Audio Master PASS 995.03s PCM16 mono 48kHz -16.2LUFS/-1.5dBTP, ZIP and SHA256 in 10_AUDIO_MASTER.md. Stage11 transcript and visual timeline NOT_STARTED."
-blockers: ["Stage11 word-level transcript and visual timeline NOT_STARTED", "Four native Short final cuts <=30 seconds including CTA/endcard NOT_VERIFIED", "Manual pronunciation listening not independently documented, owner accepted Qwen Harrison voice", "Stage16 final current-case/legal/rights refresh pending"]
+current_stage: "11_TRANSCRIPT_VISUAL_TIMELINE"
+next_action: "Stage11 structural PASS: 55/55 paragraph scenes, 2627 script-aligned word positions (2451 ASR anchors, 176 flagged interpolations), 110 prospective visual placements, four source-native Short cuts projected +3sec end <=30; exact 25fps 24876 frames and 995.04s visual canvas. Proceed only on owner request to Stage12 provenance-aware visual source plan. Seven paragraph edges and real Short exports/captions need downstream listen/QC."
+blockers: ["ASR word timings provisional: 176 interpolated positions, 7 paragraph boundary-review flags A04-P01 A04-P03 A06-P03 A07-P02 A07-P05 A07-P06 A08-P06; not publish-caption timing", "Four selected Shorts S01 S03 S05 S08 actual edited exports <=30sec including CTA/endcard NOT VERIFIED", "Stage12 actual sourced/legal/rights-cleared visual assets NOT_STARTED; 110 placement intents are proposals only", "Stage16 prepublication legal/current-status/rights refresh pending"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -23,7 +23,7 @@ stages:
   stage_08_voice_script: "PASS_TEXT_PREPARED_V4_4_HARRISON_55_OF_55_FIVE_CONTIGUOUS_CHUNKS"
   stage_09_voice_qa_lock: "PASS_OWNER_APPROVED_HARRISON_QWEN_WITH_TECH_QC"
   stage_10_audio_master: "PASS_MASTER_PCM16_48KHZ_995_03S"
-  stage_11_transcript_visual_timeline: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "PASS_STRUCTURAL_55_SCENES_110_VISUAL_PLACEMENTS_ASR_WORD_TIMINGS_PROVISIONAL"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
@@ -40,7 +40,7 @@ locks:
   final_script: true
   voice_input: true
   audio_master: true
-  visual_timeline: false
+  visual_timeline: true
   visual_assets: false
   edit_master: false
   final_fact_legal_refresh: false

@@ -1,0 +1,135 @@
+{
+  "source_master_sha256": "0db92584d7eddd70914b800cb981250463d222cc4db1245444a8153c782847a0",
+  "actual_master_duration_sec": 995.03,
+  "video_timeline_fps": 25,
+  "end_frame_exclusive": 24876,
+  "render_video_runtime_sec": 995.04,
+  "audio_tail_padding_on_video_sec": 0.01,
+  "script_paragraphs": 55,
+  "scene_rows": 55,
+  "act_rows": 10,
+  "word_rows": 2627,
+  "word_exact_asr_anchors": 2451,
+  "word_interpolated_unmatched": 176,
+  "paragraphs_requiring_boundary_review": [
+    "A04-P01",
+    "A04-P03",
+    "A06-P03",
+    "A07-P02",
+    "A07-P05",
+    "A07-P06",
+    "A08-P06"
+  ],
+  "contiguous_timeline_0_995_04sec": true,
+  "no_overlapping_scene_frames": true,
+  "four_owner_shorts_only": [
+    "S01",
+    "S03",
+    "S05",
+    "S08"
+  ],
+  "shorts_provisional": [
+    [
+      "S01",
+      0.8,
+      0,
+      21.44,
+      21.44
+    ],
+    [
+      "S03",
+      0.778,
+      229.28,
+      251.88,
+      22.6
+    ],
+    [
+      "S05",
+      0.912,
+      457.31,
+      480.01,
+      22.76
+    ],
+    [
+      "S08",
+      0.927,
+      858.3100000000001,
+      878.71,
+      20.44
+    ]
+  ],
+  "timings_are_not_hand_listened": true,
+  "captions_status": "DRAFT_PARAGRAPH_SRT_NOT_WORD_ACCURATE",
+  "stage12_source_permissions": "NOT_REVIEWED",
+  "stage15_final_short_under_30s": "NOT_YET_EXPORTED_OR_MEASURED",
+  "chunk_alignment": [
+    {
+      "chunk": 1,
+      "paragraphs": 10,
+      "spoken_words": 506,
+      "script_lexical_tokens": 533,
+      "recognized_lexical_tokens": 512,
+      "exact_token_matches": 480,
+      "script_exact_match_fraction": 0.9006,
+      "nonexact_tokens": 53,
+      "source_start_sec": 0.0,
+      "source_end_sec": 192.12,
+      "note": "ASR forced-word timestamps; unmatched script words interpolated and explicitly flagged"
+    },
+    {
+      "chunk": 2,
+      "paragraphs": 12,
+      "spoken_words": 588,
+      "script_lexical_tokens": 608,
+      "recognized_lexical_tokens": 597,
+      "exact_token_matches": 573,
+      "script_exact_match_fraction": 0.9424,
+      "nonexact_tokens": 35,
+      "source_start_sec": 192.24,
+      "source_end_sec": 419.83,
+      "note": "ASR forced-word timestamps; unmatched script words interpolated and explicitly flagged"
+    },
+    {
+      "chunk": 3,
+      "paragraphs": 11,
+      "spoken_words": 505,
+      "script_lexical_tokens": 524,
+      "recognized_lexical_tokens": 520,
+      "exact_token_matches": 498,
+      "script_exact_match_fraction": 0.9504,
+      "nonexact_tokens": 26,
+      "source_start_sec": 419.95,
+      "source_end_sec": 609.27,
+      "note": "ASR forced-word timestamps; unmatched script words interpolated and explicitly flagged"
+    },
+    {
+      "chunk": 4,
+      "paragraphs": 11,
+      "spoken_words": 511,
+      "script_lexical_tokens": 544,
+      "recognized_lexical_tokens": 521,
+      "exact_token_matches": 481,
+      "script_exact_match_fraction": 0.8842,
+      "nonexact_tokens": 63,
+      "source_start_sec": 609.39,
+      "source_end_sec": 807.59,
+      "note": "ASR forced-word timestamps; unmatched script words interpolated and explicitly flagged"
+    },
+    {
+      "chunk": 5,
+      "paragraphs": 11,
+      "spoken_words": 517,
+      "script_lexical_tokens": 538,
+      "recognized_lexical_tokens": 525,
+      "exact_token_matches": 506,
+      "script_exact_match_fraction": 0.9405,
+      "nonexact_tokens": 32,
+      "source_start_sec": 807.71,
+      "source_end_sec": 995.03,
+      "note": "ASR forced-word timestamps; unmatched script words interpolated and explicitly flagged"
+    }
+  ],
+  "generation_spend": "NONE",
+  "editorial_visual_placements_planned": 110,
+  "picture_placements_full_coverage_25fps": true
+}

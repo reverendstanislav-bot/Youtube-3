@@ -1,5 +1,12 @@
 {
-  "status": "NOT_STARTED",
-  "runtime_sec": null,
-  "words": []
+  "format": "word-level-transcript-index",
+  "status": "full_data_in_gzip_files",
+  "source": "11_WORD_LEVEL_TRANSCRIPT.json.gz",
+  "alternative_csv": "11_WORD_TRANSCRIPT.csv.gz",
+  "word_rows": 2627,
+  "asr_matched": 2451,
+  "interpolated": 176,
+  "word_timestamps": "ASR_APPROXIMATE_NOT_MANUALLY_LOCKED",
+  "master_sha256": "0db92584d7eddd70914b800cb981250463d222cc4db1245444a8153c782847a0",
+  "decompress": "gzip -dk <filename>.gz"
 }
