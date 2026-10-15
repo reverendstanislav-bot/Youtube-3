@@ -25,12 +25,20 @@
     "target_native_phrase": "dismissed with prejudice",
     "matched_native_phrase": "dismissed with prejudice",
     "substitution_used": false,
-    "extracted_text": "IT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \ndants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \ndential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nr their own attorney’s fees and costs.  \n:  February 8, 2018 \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \nBy:   /s/ Charles K. Verhoeven \n \nCHARLES K. VERHOEVEN \n",
+    "extracted_text": "1\n2\n3\n4\n5\n6\nIT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \nDefendants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \nconfidential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nto bear their own attorney’s fees and costs.  \nDated:  February 8, 2018 \n \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP003__S005__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "c04a7a182986b1c970a5f32a57706fd320513fdacd7353170248be691fc946e4",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "5a8c37cc0c34e19dcd352abd7185636c5aa599180f315c4a6bcccc5080a90e5a",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -58,12 +66,26 @@
     "target_native_phrase": "GRANTED IN PART",
     "matched_native_phrase": "GRANTED IN PART",
     "substitution_used": false,
-    "extracted_text": "                                                            /\nINTRODUCTION\nIn this action for trade secret misappropriation, patent infringement, and unfair\netition, plaintiff moves for provisional relief.  The motion is GRANTED IN PART and\nED IN PART.\nSTATEMENT\nBy way of summary, this order finds plaintiff Waymo LLC has shown compelling\nnce that its former star engineer, Anthony Levandowski, downloaded over 14,000\ndential files from Waymo immediately before leaving his employment there The evidence\n",
+    "extracted_text": "15\n16\n17\n18\n19\n20\nINTRODUCTION\nIn this action for trade secret misappropriation, patent infringement, and unfair\ncompetition, plaintiff moves for provisional relief.  The motion is GRANTED IN PART and\nDENIED IN PART.\nSTATEMENT\nBy way of summary, this order finds plaintiff Waymo LLC has shown compelling\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP008__S003__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "7537c2b01e8a12b489539daa43f31d10681fdd38fcf03d44658e328155536851",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "b9db3a77211e10cce6fd81cd699023f8bb5de3da4b1df86a1206fbd7e511dbe2",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "United",
+      "States",
+      "For",
+      "the",
+      "Northern"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -98,7 +120,11 @@
     "viewport_px": [
       1700,
       1000
-    ]
+    ],
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -133,7 +159,11 @@
     "viewport_px": [
       1700,
       1000
-    ]
+    ],
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -161,12 +191,20 @@
     "target_native_phrase": "February 22, 2016",
     "matched_native_phrase": "February 22, 2016",
     "substitution_used": false,
-    "extracted_text": "2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10\nLevandowski formed Ottomotto (“Otto”) on January 15, 2016.  Twelve \nresigned from Waymo.  On February 1, 2016, he formed Otto Trucking. \nA. \nThe Uber/Otto Term Sheet \nOn February 22, 2016, Uber and Otto signed a Term Sheet.  Uber was re\nby Morrison and Foerster (“MoFo”) and Otto by O’Melveny and Myers (“OMM\nSheet created a process for Uber to potentially acquire 100% ownership of Otto\nexecution of a Put Call Agreement.  (Dkt. No. 510-3 at 3.1).  Exhibit C to the Te\nUber to complete certain “Pre-signing Due Diligence” on Otto and certain of its\nd\nith Att\nh\nt A t E hibit C (Id\nt 50 55 56 ) S\nh d\ndili\n",
+    "extracted_text": "3 \n4 \n5 \n6 \n7 \n8 \nresigned from Waymo.  On February 1, 2016, he formed Otto Trucking. \nA. \nThe Uber/Otto Term Sheet \nOn February 22, 2016, Uber and Otto signed a Term Sheet.  Uber was represented, in part, \nby Morrison and Foerster (“MoFo”) and Otto by O’Melveny and Myers (“OMM”).  The Term \nSheet created a process for Uber to potentially acquire 100% ownership of Otto through the \nexecution of a Put Call Agreement.  (Dkt. No. 510-3 at 3.1).  Exhibit C to the Term Sheet required \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP021__S004__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "11cee334ea15bb279ca97748770eae5fc22bf3bce2a1713fbf923f2e4c4b070b",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "cb14bf976dbd167a93836e7c5451190ac27342d98a50da5a0cd1305f17afd408",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -194,12 +232,20 @@
     "target_native_phrase": "conditional on milestones",
     "matched_native_phrase": "conditional on milestones",
     "substitution_used": false,
-    "extracted_text": " To the extent that the Plaintiff argues that the Board must have known of a plan\nappropriate Google technology via the Otto merger, given the sales price, I find tha\nunpersuasive.  The Plaintiff suggests that Uber would not have paid $680 million for \nstart-up in Otto’s condition; therefore, it must have been apparent to the directors at t\nOtto was a vehicle for theft.  The Defendants aver (and the Plaintiff acknowledges), ho\nthe up-front cash payment by Uber to acquire Otto was a modest $100,000.  The addi\nwas conditional on milestones being met by 2030.  See Pl.’s Omnibus Answering Br\nThe Plaintiff argues vehemently that the earn-outs are scams, presumably meant to ma\nthat the terms of the Otto acquisition are reasonable.  Per the Plaintiff, the earn-outs ar\nsuch that they are “virtually asur[ed to] vest,” thus ultimately compensating Levandow\ncohorts for the stolen Google technology. Id.  The Plaintiff also points out, correctly, \nnature of the earn-outs in any event is not in the record, and must not be considered o\nto dismiss.  I agree that, to the extent the Defendants argue that the transaction should \nunder $680 million, such argument is unavailing on this record.  But assuming it is true\nPlaintiff argues, the conditional nature of the payments above $100,000 is illusory,\n",
+    "extracted_text": "unpersuasive.  The Plaintiff suggests that Uber would not have paid $680 million for a legitimate \nstart-up in Otto’s condition; therefore, it must have been apparent to the directors at the time that \nOtto was a vehicle for theft.  The Defendants aver (and the Plaintiff acknowledges), however, that \nthe up-front cash payment by Uber to acquire Otto was a modest $100,000.  The additional value \nwas conditional on milestones being met by 2030.  See Pl.’s Omnibus Answering Br., at 21–22.  \nThe Plaintiff argues vehemently that the earn-outs are scams, presumably meant to make it appear \nthat the terms of the Otto acquisition are reasonable.  Per the Plaintiff, the earn-outs are structured \nsuch that they are “virtually asur[ed to] vest,” thus ultimately compensating Levandowski and his \ncohorts for the stolen Google technology. Id.  The Plaintiff also points out, correctly, that the true \nnature of the earn-outs in any event is not in the record, and must not be considered on a motion \ndi\ni\nI\nh\nh\nh D f\nd\nh\nh\ni\nh\nld b\nl\nd\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP024__S007__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "294e586c51cc5101958e7219e08d21e84a8b5056ea68c67f7aea07108dd0499c",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "993ef07b705a0e94a206580576342d29f91f20c79468e332a5439b39383ce893",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -227,12 +273,20 @@
     "target_native_phrase": "up-front cash payment",
     "matched_native_phrase": "up-front cash payment",
     "substitution_used": false,
-    "extracted_text": "                                         \n174 To the extent that the Plaintiff argues that the Board must have known of a plan\nappropriate Google technology via the Otto merger, given the sales price, I find tha\nunpersuasive.  The Plaintiff suggests that Uber would not have paid $680 million for \nstart-up in Otto’s condition; therefore, it must have been apparent to the directors at t\nOtto was a vehicle for theft.  The Defendants aver (and the Plaintiff acknowledges), ho\nthe up-front cash payment by Uber to acquire Otto was a modest $100,000.  The addi\nwas conditional on milestones being met by 2030.  See Pl.’s Omnibus Answering Br\nThe Plaintiff argues vehemently that the earn-outs are scams, presumably meant to ma\nthat the terms of the Otto acquisition are reasonable.  Per the Plaintiff, the earn-outs ar\nsuch that they are “virtually asur[ed to] vest,” thus ultimately compensating Levandow\ncohorts for the stolen Google technology. Id.  The Plaintiff also points out, correctly, \nnature of the earn-outs in any event is not in the record, and must not be considered o\nto dismiss.  I agree that, to the extent the Defendants argue that the transaction should \nunder $680 million, such argument is unavailing on this record.  But assuming it is true\n",
+    "extracted_text": "appropriate Google technology via the Otto merger, given the sales price, I find that argument \nunpersuasive.  The Plaintiff suggests that Uber would not have paid $680 million for a legitimate \nstart-up in Otto’s condition; therefore, it must have been apparent to the directors at the time that \nOtto was a vehicle for theft.  The Defendants aver (and the Plaintiff acknowledges), however, that \nthe up-front cash payment by Uber to acquire Otto was a modest $100,000.  The additional value \nwas conditional on milestones being met by 2030.  See Pl.’s Omnibus Answering Br., at 21–22.  \nThe Plaintiff argues vehemently that the earn-outs are scams, presumably meant to make it appear \nthat the terms of the Otto acquisition are reasonable.  Per the Plaintiff, the earn-outs are structured \nsuch that they are “virtually asur[ed to] vest,” thus ultimately compensating Levandowski and his \ncohorts for the stolen Google technology. Id.  The Plaintiff also points out, correctly, that the true \nf h\ni\ni\ni\nh\nd\nd\nb\nid\nd\ni\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP026__S007__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "294e586c51cc5101958e7219e08d21e84a8b5056ea68c67f7aea07108dd0499c",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "4a7160f825f0eec1ad01f3499494660e4413252baaeab3fdeeb0b0f97b77f150",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -260,12 +314,20 @@
     "target_native_phrase": "$100,000",
     "matched_native_phrase": "$100,000",
     "substitution_used": false,
-    "extracted_text": "2016, Uber Technologies, Inc. acquired Ottomotto LLC to gain more \n the autonomous vehicle space.  The acquisition was high risk from the \nough Uber ostensibly bought a company, and paid only $100,000 up front, \ney employees from Google’s more mature autonomous vehicle program.  \nk some steps to ensure the former Google employees did not misuse \nconfidential information, but the transaction ended in embarrassment.  \n",
+    "extracted_text": "traction in the autonomous vehicle space.  The acquisition was high risk from the \nstart.  Although Uber ostensibly bought a company, and paid only $100,000 up front, \nit hired key employees from Google’s more mature autonomous vehicle program.  \nUber took some steps to ensure the former Google employees did not misuse \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP026__S008__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "33203516ba3fe8c10f2150fe65cb37efb0c7070690521de747134430bd5a7628",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "41f9e9492f5b9cd0f137496837cfeb2715f2360466d4f517ca11af6818cc05c1",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -293,12 +355,20 @@
     "target_native_phrase": "Indemnification Agreement",
     "matched_native_phrase": "Indemnification Agreement",
     "substitution_used": false,
-    "extracted_text": "Google. \n \nMr. Levandowski resigned from Google on January 27, 2016.  \nOn April 11, 2016, Uber finalized its agreement to acquire Otto \nand entered into an indemnification agreement with Mr. \nLevandowski and other employees who left Google to join Otto.16  \nWhile employed by Google, Mr. Levandowski received salary and \nbonuses totaling approximately $134,000,000. \n \nApproximately two months after Uber publicly announced its \nacquisition of Otto, Google commenced the Google Arbitration.\n",
+    "extracted_text": "13\n14\n15\n16\n17\n18\n \nMr. Levandowski resigned from Google on January 27, 2016.  \nOn April 11, 2016, Uber finalized its agreement to acquire Otto \nand entered into an indemnification agreement with Mr. \nLevandowski and other employees who left Google to join Otto.16  \nWhile employed by Google, Mr. Levandowski received salary and \nbonuses totaling approximately $134,000,000. \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP029__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "7018b69226ec9fa634cad22c8bbe619ca0b244d63e04c7a884ffc63a521f1eab",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -326,12 +396,24 @@
     "target_native_phrase": "Stroz",
     "matched_native_phrase": "Stroz",
     "substitution_used": false,
-    "extracted_text": "8 \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16\nates District Court \nistrict of California \nexecution of a Put Call Agreement.  (Dkt. No. 510-3 at 3.1).  Exhibit C to the Te\nUber to complete certain “Pre-signing Due Diligence” on Otto and certain of its\naccordance with Attachment A to Exhibit C.  (Id. at 50, 55-56.)  Such due dilige\nconducted by Stroz, identified in the Term Sheet as “an independent third party \nexpert,” and included Stroz’s completion of a Third Party Report.  (Id. at 50, 53\ndefines the Third Party Report as: \n \nthe written report(s) produced by the Outside Expert summarizin\ndetail all of the facts, circumstances, activities or events obtaine\nthe Outside Expert from any Diligenced Employee that the Out\nExpert deems reasonably related to any Bad Act of such Diligen\n",
+    "extracted_text": "9 \n10 \n11 \n12 \n13 \n14 \nUber to complete certain “Pre-signing Due Diligence” on Otto and certain of its employees in \naccordance with Attachment A to Exhibit C.  (Id. at 50, 55-56.)  Such due diligence was to be \nconducted by Stroz, identified in the Term Sheet as “an independent third party digital forensic \nexpert,” and included Stroz’s completion of a Third Party Report.  (Id. at 50, 53.)  The Term Sheet \ndefines the Third Party Report as: \n \nthe written report(s) produced by the Outside Expert summarizing in \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP031__S004__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "11cee334ea15bb279ca97748770eae5fc22bf3bce2a1713fbf923f2e4c4b070b",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "b90d86baa1129299e2a220b6dbf1735592d90e31678ce987dec115e8329c8833",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "District",
+      "Court",
+      "California"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -359,12 +441,20 @@
     "target_native_phrase": "Stroz",
     "matched_native_phrase": "Stroz",
     "substitution_used": false,
-    "extracted_text": "indemnification obligation excludes claims for misappropriation of trade secrets, among other \nad Acts,” committed before the signing of the Put Call Agreement if they  \n \nreasonably arise or result from any facts, circumstances, activities or \nevents that either (x) were not truthfully disclosed by [Otto] and/or \nthe Diligenced Employees to [Stroz] in response to relevant \ninquiries in connection with the due diligence performed by the \n[Stroz], or (y) were not contained or reflected in the due diligence \nmaterials provided by the Diligenced Employees to [Stroz]. \n \nat 51.)  In other words, Uber agrees to indemnify Levandowski and others for Bad Acts \nmmitted before Uber entered into the Put Call Agreement, provided the employees disclosed the \nd Acts to Stroz during its pre signing due diligence; that is the due diligence conducted before\n",
+    "extracted_text": "5 \n6 \n7 \n8 \n9 \n10 \n“Bad Acts,” committed before the signing of the Put Call Agreement if they  \n \nreasonably arise or result from any facts, circumstances, activities or \nevents that either (x) were not truthfully disclosed by [Otto] and/or \nthe Diligenced Employees to [Stroz] in response to relevant \ninquiries in connection with the due diligence performed by the \n[Stroz], or (y) were not contained or reflected in the due diligence \nmaterials provided by the Diligenced Employees to [Stroz]. \n \n(Id. at 51.)  In other words, Uber agrees to indemnify Levandowski and others for Bad Acts \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP033__S004__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "11cee334ea15bb279ca97748770eae5fc22bf3bce2a1713fbf923f2e4c4b070b",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "00b12277b7eaec1bb4b7b272fd0a3b36149388a4f7c4409f13b9ee04018f177b",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -392,12 +482,20 @@
     "target_native_phrase": "Plaintiff",
     "matched_native_phrase": "Plaintiff",
     "substitution_used": false,
-    "extracted_text": "technology.  Google sued Otto and Uber for intellectual proper\ninfringement, and Uber ultimately settled for $245 million. \nThe Plaintiff brings this suit, purportedly on behalf of Uber, against\nthe directors who approved the transaction, and others, and seeks damag\nfrom the Otto acquisition.  He argues that Kalanick’s promotion of the Ot\nin light of what he asserts is Kalanick’s essentially bad character, should \n",
+    "extracted_text": "infringement, and Uber ultimately settled for $245 million. \nThe Plaintiff brings this suit, purportedly on behalf of Uber, against Kalanick, \nthe directors who approved the transaction, and others, and seeks damages arising \nfrom the Otto acquisition.  He argues that Kalanick’s promotion of the Otto merger, \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP035__S007__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "294e586c51cc5101958e7219e08d21e84a8b5056ea68c67f7aea07108dd0499c",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "6e36fd44bd2bf077f3a3360e837d5776a9c249329dd811ff242a70639fde925f",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -425,12 +523,20 @@
     "target_native_phrase": "Stroz",
     "matched_native_phrase": "Stroz",
     "substitution_used": false,
-    "extracted_text": "indemnification obligation excludes claims for misappropriation of trade secrets, among other \nad Acts,” committed before the signing of the Put Call Agreement if they  \n \nreasonably arise or result from any facts, circumstances, activities or \nevents that either (x) were not truthfully disclosed by [Otto] and/or \nthe Diligenced Employees to [Stroz] in response to relevant \ninquiries in connection with the due diligence performed by the \n[Stroz], or (y) were not contained or reflected in the due diligence \nmaterials provided by the Diligenced Employees to [Stroz]. \n \nat 51.)  In other words, Uber agrees to indemnify Levandowski and others for Bad Acts \nmmitted before Uber entered into the Put Call Agreement, provided the employees disclosed the \nd Acts to Stroz during its pre signing due diligence; that is the due diligence conducted before\n",
+    "extracted_text": "5 \n6 \n7 \n8 \n9 \n10 \n“Bad Acts,” committed before the signing of the Put Call Agreement if they  \n \nreasonably arise or result from any facts, circumstances, activities or \nevents that either (x) were not truthfully disclosed by [Otto] and/or \nthe Diligenced Employees to [Stroz] in response to relevant \ninquiries in connection with the due diligence performed by the \n[Stroz], or (y) were not contained or reflected in the due diligence \nmaterials provided by the Diligenced Employees to [Stroz]. \n \n(Id. at 51.)  In other words, Uber agrees to indemnify Levandowski and others for Bad Acts \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP039__S004__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "11cee334ea15bb279ca97748770eae5fc22bf3bce2a1713fbf923f2e4c4b070b",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "00b12277b7eaec1bb4b7b272fd0a3b36149388a4f7c4409f13b9ee04018f177b",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -458,12 +564,20 @@
     "target_native_phrase": "Stroz",
     "matched_native_phrase": "Stroz",
     "substitution_used": false,
-    "extracted_text": "                         \nge of the proceedings, we accept as true the complaint’s well-pleaded allegations and \ndocuments referred to or incorporated by reference.  See Marchand v. Barnhill, 212 \n09 n.13 (Del. 2019).  The complaint incorporated Uber’s charter, the Stroz Friedberg \n a redacted version of the Merger Agreement between Uber and Otto, a redacted \nhe indemnification agreement between Uber and Otto that accompanied the Merger \na redacted version of a slide deck used in Uber management’s presentation to the board \nacquisition, and part of Uber director William Gurley’s testimony in another litigation \nntiff quoted in the complaint.  McElrath on behalf of Uber Techs., Inc. v. Kalanick, \n430210, at *2 n.2 (Del. Ch. Apr. 1, 2019).  \npening Br. at A172-73 (Verified Amended Stockholder Derivative Complaint 12-13 \nafter “Am. Compl.”)). \n",
+    "extracted_text": "                                          \n1 At this stage of the proceedings, we accept as true the complaint’s well-pleaded allegations and \nalso rely on documents referred to or incorporated by reference.  See Marchand v. Barnhill, 212 \nA.3d 805, 809 n.13 (Del. 2019).  The complaint incorporated Uber’s charter, the Stroz Friedberg \nfinal report, a redacted version of the Merger Agreement between Uber and Otto, a redacted \nversion of the indemnification agreement between Uber and Otto that accompanied the Merger \nAgreement, a redacted version of a slide deck used in Uber management’s presentation to the board \non the Otto acquisition, and part of Uber director William Gurley’s testimony in another litigation \nthat the plaintiff quoted in the complaint.  McElrath on behalf of Uber Techs., Inc. v. Kalanick, \n2019 WL 1430210\n*2\n2 (D l Ch A\n1 2019)\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP039__S008__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "33203516ba3fe8c10f2150fe65cb37efb0c7070690521de747134430bd5a7628",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "5e6f3387565827a0f4cd341ec09184b8cf8caccd3ab069e9c197293274bb83ea",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -491,12 +605,22 @@
     "target_native_phrase": "Gorilla",
     "matched_native_phrase": "Gorilla",
     "substitution_used": false,
-    "extracted_text": "5\n6\n7\n8\n9\n10\n11\n12\n13\nAround October 2016, Gary Brown, a forensics security engineer at Google, discovere\naforementioned downloading by Levandowski, Kshirsagar, and Raduta (see Dkt. No. 2\nOn December 13, Waymo employee William Grossman became an accidental recipien\nemail string among employees at Gorilla Circuits, one of Waymo’s LiDAR componen\nThe email concerned Otto and Uber but somehow got mis-sent to Grossman.  It was al\n“Uber@gorillacircuits.com,” featured the subject line “OTTO FILES,” and appended \ndrawings of a printed circuit board (the “Gorilla drawings”).  Waymo claims the depic\nprinted circuit board design for Uber closely resembles the design for Waymo’s own c\ngeneration LiDAR system Grizzly Bear version 3 (GBr3) (Dkt Nos 25 45; 245 3 at 3\n",
+    "extracted_text": "6\n7\n8\n9\n10\n11\naforementioned downloading by Levandowski, Kshirsagar, and Raduta (see Dkt. No. 25-3 at 9). \nOn December 13, Waymo employee William Grossman became an accidental recipient on an\nemail string among employees at Gorilla Circuits, one of Waymo’s LiDAR component vendors. \nThe email concerned Otto and Uber but somehow got mis-sent to Grossman.  It was also sent to\n“Uber@gorillacircuits.com,” featured the subject line “OTTO FILES,” and appended machine\ndrawings of a printed circuit board (the “Gorilla drawings”).  Waymo claims the depicted\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP045__S003__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "7537c2b01e8a12b489539daa43f31d10681fdd38fcf03d44658e328155536851",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "67530623961d15efa3957d33a9149a3b4090d575e2cb5b9588a71f65761d70ce",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "Court"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -524,12 +648,22 @@
     "target_native_phrase": "Gorilla",
     "matched_native_phrase": "Gorilla",
     "substitution_used": false,
-    "extracted_text": "5\n6\n7\n8\n9\n10\n11\n12\n13\nAround October 2016, Gary Brown, a forensics security engineer at Google, discovere\naforementioned downloading by Levandowski, Kshirsagar, and Raduta (see Dkt. No. 2\nOn December 13, Waymo employee William Grossman became an accidental recipien\nemail string among employees at Gorilla Circuits, one of Waymo’s LiDAR componen\nThe email concerned Otto and Uber but somehow got mis-sent to Grossman.  It was al\n“Uber@gorillacircuits.com,” featured the subject line “OTTO FILES,” and appended \ndrawings of a printed circuit board (the “Gorilla drawings”).  Waymo claims the depic\nprinted circuit board design for Uber closely resembles the design for Waymo’s own c\ngeneration LiDAR system Grizzly Bear version 3 (GBr3) (Dkt Nos 25 45; 245 3 at 3\n",
+    "extracted_text": "6\n7\n8\n9\n10\n11\naforementioned downloading by Levandowski, Kshirsagar, and Raduta (see Dkt. No. 25-3 at 9). \nOn December 13, Waymo employee William Grossman became an accidental recipient on an\nemail string among employees at Gorilla Circuits, one of Waymo’s LiDAR component vendors. \nThe email concerned Otto and Uber but somehow got mis-sent to Grossman.  It was also sent to\n“Uber@gorillacircuits.com,” featured the subject line “OTTO FILES,” and appended machine\ndrawings of a printed circuit board (the “Gorilla drawings”).  Waymo claims the depicted\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP048__S003__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "7537c2b01e8a12b489539daa43f31d10681fdd38fcf03d44658e328155536851",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "67530623961d15efa3957d33a9149a3b4090d575e2cb5b9588a71f65761d70ce",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "Court"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -557,12 +691,20 @@
     "target_native_phrase": "WAYMO LLC",
     "matched_native_phrase": "WAYMO LLC",
     "substitution_used": false,
-    "extracted_text": "6\n7\n8\n9\n10\n11\n12\n13\n14\n   Jordan Jaffe (Bar No. 254886) \n   jordanjaffe@quinnemanuel.com \n50 California Street, 22nd Floor \nSan Francisco, California 94111-4788 \nTelephone: \n(415) 875-6600 \nFacsimile: \n(415) 875-6700 \nAttorneys for WAYMO LLC \nUNITED STATES DISTRICT COURT \nNORTHERN DISTRICT OF CALIFORNIA, SAN FRANCISCO DI\nWAYMO LLC, \nPlaintiff, \nvs. \nUBER TECHNOLOGIES, INC.; \nOTTOMOTTO LLC OTTO TRUCKING\n CASE NO. ______________\nCOMPLAINT \n",
+    "extracted_text": "7\n8\n9\n10\n11\n12\nSan Francisco, California 94111-4788 \nTelephone: \n(415) 875-6600 \nFacsimile: \n(415) 875-6700 \nAttorneys for WAYMO LLC \nUNITED STATES DISTRICT COURT \nNORTHERN DISTRICT OF CALIFORNIA, SAN FRANCISCO DIVISION \nWAYMO LLC, \n CASE NO. _________________ \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP050__S001__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "2b94b6cffa906b4b743661e337fb19f590ee5bd0d16f13246f948e2c0c2da1aa",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "4d00e1139afad63f244bdf3ed900464ce2d1594d11de8858d83c7c4943b84330",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -590,12 +732,20 @@
     "target_native_phrase": "PATENT INFRINGEMENT",
     "matched_native_phrase": "PATENT INFRINGEMENT",
     "substitution_used": false,
-    "extracted_text": "OMOTTO LLC; OTTO TRUCKING \nDefendants. \n1.  VIOLATION OF DEFENSE OF \nTRADE SECRETS ACT \n2. VIOLATION OF CALIFORNIA \nUNIFORM TRADE SECRET ACT \n3. PATENT INFRINGEMENT \n4. VIOLATION OF CAL. BUS & PROF. \nCODE SECTION 17200 \nDEMAND FOR JURY TRIAL \n \n \n",
+    "extracted_text": "15\n16\n17\n18\n19\n20\nDefendants. \n \n2. VIOLATION OF CALIFORNIA \nUNIFORM TRADE SECRET ACT \n3. PATENT INFRINGEMENT \n4. VIOLATION OF CAL. BUS & PROF. \nCODE SECTION 17200 \nDEMAND FOR JURY TRIAL \n \n \n \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP051__S001__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "2b94b6cffa906b4b743661e337fb19f590ee5bd0d16f13246f948e2c0c2da1aa",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "01875be9cc08083dd1c8332346f7392b51169a9ea1a390fd81eda701d6d4b248",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -623,12 +773,26 @@
     "target_native_phrase": "GRANTED IN PART",
     "matched_native_phrase": "GRANTED IN PART",
     "substitution_used": false,
-    "extracted_text": "                                                            /\nINTRODUCTION\nIn this action for trade secret misappropriation, patent infringement, and unfair\netition, plaintiff moves for provisional relief.  The motion is GRANTED IN PART and\nED IN PART.\nSTATEMENT\nBy way of summary, this order finds plaintiff Waymo LLC has shown compelling\nnce that its former star engineer, Anthony Levandowski, downloaded over 14,000\ndential files from Waymo immediately before leaving his employment there The evidence\n",
+    "extracted_text": "15\n16\n17\n18\n19\n20\nINTRODUCTION\nIn this action for trade secret misappropriation, patent infringement, and unfair\ncompetition, plaintiff moves for provisional relief.  The motion is GRANTED IN PART and\nDENIED IN PART.\nSTATEMENT\nBy way of summary, this order finds plaintiff Waymo LLC has shown compelling\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP053__S003__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "7537c2b01e8a12b489539daa43f31d10681fdd38fcf03d44658e328155536851",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "b9db3a77211e10cce6fd81cd699023f8bb5de3da4b1df86a1206fbd7e511dbe2",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "United",
+      "States",
+      "For",
+      "the",
+      "Northern"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -656,12 +820,20 @@
     "target_native_phrase": "five discs",
     "matched_native_phrase": "five discs",
     "substitution_used": false,
-    "extracted_text": "stack but stood out as a vital element in the narrative at the core of this case, plainly bearing\nthe crucial question of whether or not Levandowski funneled Waymo’s trade secrets to Uber. \nwas and remains known to Uber’s leadership, including Travis Kalanick, Nina Qi, and\nmeron Poetzscher, who all learned about the five discs and their supposed destruction from\nvandowski himself.  Under these circumstances, Uber’s failure to timely disclose the five\ncs and their supposed destruction — even viewed through the excuse that Uber’s counsel\narently let frivolous assertions of privilege go conveniently unchecked for months —\nstituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nhese facts and will instruct the jury that it may but need not draw any adverse inference\n",
+    "extracted_text": "2\n3\n4\n5\n6\n7\non the crucial question of whether or not Levandowski funneled Waymo’s trade secrets to Uber. \nIt was and remains known to Uber’s leadership, including Travis Kalanick, Nina Qi, and\nCameron Poetzscher, who all learned about the five discs and their supposed destruction from\nLevandowski himself.  Under these circumstances, Uber’s failure to timely disclose the five\ndiscs and their supposed destruction — even viewed through the excuse that Uber’s counsel\napparently let frivolous assertions of privilege go conveniently unchecked for months —\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP056__S031__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "8098fb73722b9f0b070d3c83aaa2c4c01885b2add5f4999c04bc93a2ae382146",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "cd712e48b479089c826f2712b1da23e9024e75ec7aad3e60fd227a94584fbacf",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -689,12 +861,22 @@
     "target_native_phrase": "discovery order",
     "matched_native_phrase": "discovery order",
     "substitution_used": false,
-    "extracted_text": "Levandowski himself.  Under these circumstances, Uber’s failure to timely disclose the five\ndiscs and their supposed destruction — even viewed through the excuse that Uber’s counsel\napparently let frivolous assertions of privilege go conveniently unchecked for months —\nconstituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nof these facts and will instruct the jury that it may, but need not, draw any adverse inference\ntherefrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\nOn August 4, 2017, Uber’s in-house counsel Attorney Padilla submitted a declaration\ndescribing a meeting that took place on March 29 2017 between her Kalanick and\n",
+    "extracted_text": "6\n7\n8\n9\n10\n11\ndiscs and their supposed destruction — even viewed through the excuse that Uber’s counsel\napparently let frivolous assertions of privilege go conveniently unchecked for months —\nconstituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nof these facts and will instruct the jury that it may, but need not, draw any adverse inference\ntherefrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP058__S031__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "8098fb73722b9f0b070d3c83aaa2c4c01885b2add5f4999c04bc93a2ae382146",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "c5767f030aeffd9f10ca9f39bd900c5f0a10752ba126f1314f6783dc50394fc8",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "Court"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -722,12 +904,23 @@
     "target_native_phrase": "may, but need not",
     "matched_native_phrase": "may, but need not",
     "substitution_used": false,
-    "extracted_text": "and their supposed destruction — even viewed through the excuse that Uber’s counsel\nrently let frivolous assertions of privilege go conveniently unchecked for months —\nituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nese facts and will instruct the jury that it may, but need not, draw any adverse inference\nfrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\nOn August 4, 2017, Uber’s in-house counsel Attorney Padilla submitted a declaration\nibing a meeting that took place on March 29, 2017, between her, Kalanick, and\nndowski According to Padilla Levandowski revealed to her and Kalanick during that\n",
+    "extracted_text": "7\n8\n9\n10\n11\n12\napparently let frivolous assertions of privilege go conveniently unchecked for months —\nconstituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nof these facts and will instruct the jury that it may, but need not, draw any adverse inference\ntherefrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\nOn August 4, 2017, Uber’s in-house counsel Attorney Padilla submitted a declaration\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP061__S031__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "8098fb73722b9f0b070d3c83aaa2c4c01885b2add5f4999c04bc93a2ae382146",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "e682b1fc02a013344963401679103fb01d28789784dfeaf44cdbe61c87e1af6d",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "Court",
+      "California"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -755,12 +948,23 @@
     "target_native_phrase": "may, but need not",
     "matched_native_phrase": "may, but need not",
     "substitution_used": false,
-    "extracted_text": "and their supposed destruction — even viewed through the excuse that Uber’s counsel\nrently let frivolous assertions of privilege go conveniently unchecked for months —\nituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nese facts and will instruct the jury that it may, but need not, draw any adverse inference\nfrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\nOn August 4, 2017, Uber’s in-house counsel Attorney Padilla submitted a declaration\nibing a meeting that took place on March 29, 2017, between her, Kalanick, and\nndowski According to Padilla Levandowski revealed to her and Kalanick during that\n",
+    "extracted_text": "7\n8\n9\n10\n11\n12\napparently let frivolous assertions of privilege go conveniently unchecked for months —\nconstituted a violation of the expedited discovery order.  At trial, the Court will inform the jury\nof these facts and will instruct the jury that it may, but need not, draw any adverse inference\ntherefrom.  It will remain up to the jury to decide what inference, if any, to draw.\nB.\nWaymo’s First Supplemental Brief on Contempt Motion.\nOn August 4, 2017, Uber’s in-house counsel Attorney Padilla submitted a declaration\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP064__S031__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "8098fb73722b9f0b070d3c83aaa2c4c01885b2add5f4999c04bc93a2ae382146",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "e682b1fc02a013344963401679103fb01d28789784dfeaf44cdbe61c87e1af6d",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [
+      "Court",
+      "California"
+    ],
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_LEFT_MARGINAL_COURT_METADATA"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -788,12 +992,20 @@
     "target_native_phrase": "dismissed with prejudice",
     "matched_native_phrase": "dismissed with prejudice",
     "substitution_used": false,
-    "extracted_text": "IT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \ndants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \ndential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nr their own attorney’s fees and costs.  \n:  February 8, 2018 \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \nBy:   /s/ Charles K. Verhoeven \n \nCHARLES K. VERHOEVEN \n",
+    "extracted_text": "1\n2\n3\n4\n5\n6\nIT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \nDefendants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \nconfidential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nto bear their own attorney’s fees and costs.  \nDated:  February 8, 2018 \n \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP066__S005__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "c04a7a182986b1c970a5f32a57706fd320513fdacd7353170248be691fc946e4",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "5a8c37cc0c34e19dcd352abd7185636c5aa599180f315c4a6bcccc5080a90e5a",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -821,12 +1033,20 @@
     "target_native_phrase": "dismissed with prejudice",
     "matched_native_phrase": "dismissed with prejudice",
     "substitution_used": false,
-    "extracted_text": "IT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \ndants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \ndential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nr their own attorney’s fees and costs.  \n:  February 8, 2018 \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \nBy:   /s/ Charles K. Verhoeven \n \nCHARLES K. VERHOEVEN \n",
+    "extracted_text": "1\n2\n3\n4\n5\n6\nIT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \nDefendants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \nconfidential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nto bear their own attorney’s fees and costs.  \nDated:  February 8, 2018 \n \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP067__S005__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "c04a7a182986b1c970a5f32a57706fd320513fdacd7353170248be691fc946e4",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "5a8c37cc0c34e19dcd352abd7185636c5aa599180f315c4a6bcccc5080a90e5a",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -850,7 +1070,11 @@
       "height": 72
     },
     "publisher_title": "Uber and Waymo Reach Settlement",
-    "rights_status": "HOLD"
+    "rights_status": "HOLD",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -878,12 +1102,20 @@
     "target_native_phrase": "contracts governing",
     "matched_native_phrase": "contracts governing",
     "substitution_used": false,
-    "extracted_text": "10\n11\n12\n13\n14\n15\n16\n17\n18\nLevandowski helped found Google’s autonomous vehicle p\nwas in charge of an engineering team that developed Li\ntechnology, which was the technological backbone of th\n \nThe contracts governing Mr. Levandowski’s employm\nGoogle included provisions prohibiting him from engagi\nactivities that conflicted with his obligations to Goo\ncompeted with Google and from soliciting or recruiting\nemployees within a certain period of time following an\ntermination of his relationship with Google\nThese co\n",
+    "extracted_text": "11\n12\n13\n14\n15\n16\nwas in charge of an engineering team that developed LiDAR laser \ntechnology, which was the technological backbone of that project.   \n \nThe contracts governing Mr. Levandowski’s employment by \nGoogle included provisions prohibiting him from engaging in \nactivities that conflicted with his obligations to Google or that \ncompeted with Google and from soliciting or recruiting Google \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP074__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "afd6e4fb3d4768f066aaf278e090e18b3d9f23c43995d311aaaa426cd2297a56",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -911,12 +1143,20 @@
     "target_native_phrase": "March 4, 2020",
     "matched_native_phrase": "March 4, 2020",
     "substitution_used": false,
-    "extracted_text": " \n1\n2\n3\n4\n5\n6\n7\n8\n \nThe Google Arbitration concluded with entry of th\nFinal Award in favor of Google and against Mr. Levando\nMarch 4, 2020, the San Francisco Superior Court confir\nCorrected Final Award and entered a judgment against M\nLevandowski totaling $179,047,998.64 (the “Google Judg\nJust hours later, Mr. Levandowski sought relief in thi\nfiling a voluntary petition under Chapter 11.   \nApproximately four months after filing this case,\n",
+    "extracted_text": "1\n2\n3\n4\n5\n6\n \nThe Google Arbitration concluded with entry of the Corrected \nFinal Award in favor of Google and against Mr. Levandowski.  On \nMarch 4, 2020, the San Francisco Superior Court confirmed the \nCorrected Final Award and entered a judgment against Mr. \nLevandowski totaling $179,047,998.64 (the “Google Judgment”).18  \nJust hours later, Mr. Levandowski sought relief in this court by \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP077__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "8e552385be0e9144ba396cd531aa66b4dace976652b245da5c3e33b04964c08a",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -944,12 +1184,20 @@
     "target_native_phrase": "179,047,998.64",
     "matched_native_phrase": "179,047,998.64",
     "substitution_used": false,
-    "extracted_text": "2\n3\n4\n5\n6\n7\n8\n9\n10\nFinal Award in favor of Google and against Mr. Levandowski.  O\nMarch 4, 2020, the San Francisco Superior Court confirmed the \nCorrected Final Award and entered a judgment against Mr. \nLevandowski totaling $179,047,998.64 (the “Google Judgment”).1\nJust hours later, Mr. Levandowski sought relief in this court \nfiling a voluntary petition under Chapter 11.   \n \nApproximately four months after filing this case, Mr. \nLevandowski sued Uber in this court19 arguing, among other \nthings, that Uber should pay the Google Judgment pursuant to t\n",
+    "extracted_text": "3\n4\n5\n6\n7\n8\nMarch 4, 2020, the San Francisco Superior Court confirmed the \nCorrected Final Award and entered a judgment against Mr. \nLevandowski totaling $179,047,998.64 (the “Google Judgment”).18  \nJust hours later, Mr. Levandowski sought relief in this court by \nfiling a voluntary petition under Chapter 11.   \n \nApproximately four months after filing this case, Mr. \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP079__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "020e030789414c65f1b260c6c39c70901fc314af8514155397ef26589eca07cf",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -984,7 +1232,11 @@
     "viewport_px": [
       1700,
       1000
-    ]
+    ],
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1019,7 +1271,11 @@
     "viewport_px": [
       1700,
       1000
-    ]
+    ],
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1053,7 +1309,11 @@
     ],
     "original_page_url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
     "qc_fix": "R5_GENUINE_OFFICIAL_DOJ_TABLE_ROW_NOT_ENTIRE_TABLE",
-    "source_capture_verified": true
+    "source_capture_verified": true,
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1081,12 +1341,20 @@
     "target_native_phrase": "Indemnification Agreement",
     "matched_native_phrase": "Indemnification Agreement",
     "substitution_used": false,
-    "extracted_text": " \n1\n2\n3\n4\n5\n6\nIndemnification Agreement; or whether the alleged insu\npremiums (according to Mr. Levandowski, the value of h\nto Uber) bore any reasonable relationship to the magni\npotential exposure to litigation costs.   \n \nAs to whether the alleged insurance agreement (th\nIndemnification Agreement) could be enforced against U\n",
+    "extracted_text": " \n1\n2\n3\n4\nIndemnification Agreement; or whether the alleged insurance \npremiums (according to Mr. Levandowski, the value of his services \nto Uber) bore any reasonable relationship to the magnitude of \npotential exposure to litigation costs.   \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP086__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "f80a2072dae865b55520a073d81329dc3082cbc89ad2f20f22a31e17d6142fd9",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1114,12 +1382,20 @@
     "target_native_phrase": "Settlement Agreement",
     "matched_native_phrase": "Settlement Agreement",
     "substitution_used": false,
-    "extracted_text": "r setting a status conference at which the court will discuss \nthe parties how and when it might address those issues.  \ning in this order should be construed as impacting the \ndity or enforceability of the Settlement Agreement. \n \n. 1300. \n. 1301. \n",
+    "extracted_text": "12\n13\n14\n15\n16\n17\nintervene in the AVP.20 \n \nOn the eve of trial in the AVP, the parties settled.  The \nSettlement Agreement provided for a payment from Uber to Mr. \nLevandowski totaling $2,000,000 to fund the Plan, as well as for \nthe Uber Main Payment, which was substantially larger.  Mr. \nLevandowski moved for approval of the settlement on February 10, \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP091__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "930a6ff59fcb60f9a5a1d89669fbe940298d2a19120b5335d0e54a4c2d788509",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1147,12 +1423,20 @@
     "target_native_phrase": "May 20, 2022",
     "matched_native_phrase": "May 20, 2022",
     "substitution_used": false,
-    "extracted_text": "19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27\nlimited stay to decide the motion, it ultimately denied the request for a stay pending appea\nNos. 30 & 32.) \nSince the approval of the settlement order was not appealed, Uber made the indefe\nMain Uber Payment on or before May 20, 2022.  (Dkt. No. 48-2, Declaration of Tobias K\n[“Keller Decl.”] ¶ 4.)  Following the appeal concerning the stay, the plan became effective\nAugust 25, 2022.  (Id. ¶ 5c.)  The trust was executed and became effective, all or substanti\nof the property proposed in the plan to be transferred to the trust was transferred, the Trust\nassumed management of the property, and distributions commenced under the plan.  (Dkt\n3 D\nl\ni\nf A\nd S if [“S if D\nl ”] ¶¶ 3 4 ) A\nh\ni\nh\ndi\ni\n",
+    "extracted_text": "20 \n21 \n22 \n23 \n24 \n25 \nNos. 30 & 32.) \nSince the approval of the settlement order was not appealed, Uber made the indefeasible \nMain Uber Payment on or before May 20, 2022.  (Dkt. No. 48-2, Declaration of Tobias Keller \n[“Keller Decl.”] ¶ 4.)  Following the appeal concerning the stay, the plan became effective on \nAugust 25, 2022.  (Id. ¶ 5c.)  The trust was executed and became effective, all or substantially all \nof the property proposed in the plan to be transferred to the trust was transferred, the Trustee \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP094__S033__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "d63699cf43b95ac3f0eae7e41b69a01d05a7caafa5cd99e458a2b067dc61cfc1",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "bb7bca7a8ee0c136c37ebc572b470783935c292d8d9e5a16df451c1037766f41",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1180,12 +1464,20 @@
     "target_native_phrase": "Settlement Agreement",
     "matched_native_phrase": "Settlement Agreement",
     "substitution_used": false,
-    "extracted_text": " \n \n- 1 - \n24\n25\n26\n27\n28\n \n \n1 Dkt. 1271 (the “District Court Order”). \n \n2 Dkt. 1028 (the “Tax Order”). \n \n3 Dkt. 831-1 (Redacted Settlement Agreement); Dkt. 835 (Unredacted, Seale\nSettlement Agreement).  The court will refer to this document as the \n“Settlement Agreement”. \nCase: 20-30242    Doc# 1318    Filed: 01/24/25    Entered: 01/24/25 11:55:51    Page 1\n33\n",
+    "extracted_text": " \n \n- 1 - \n25\n26\n27\n28\n \n1 Dkt. 1271 (the “District Court Order”). \n \n2 Dkt. 1028 (the “Tax Order”). \n \n3 Dkt. 831-1 (Redacted Settlement Agreement); Dkt. 835 (Unredacted, Sealed \nSettlement Agreement).  The court will refer to this document as the \n“Settlement Agreement”. \nCase: 20-30242    Doc# 1318    Filed: 01/24/25    Entered: 01/24/25 11:55:51    Page 1 of\n33\n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP094__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "54c525d946b312549c2085876f01d6c7294f1d509ac10074dfcd551c45db39ba",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1213,12 +1505,20 @@
     "target_native_phrase": "Settlement Agreement",
     "matched_native_phrase": "Settlement Agreement",
     "substitution_used": false,
-    "extracted_text": "5\n6\n7\n8\n9\n10\n11\n12\n13\n \nAs to whether the alleged insurance agreement (th\nIndemnification Agreement) could be enforced against U\ncourt has made no such determination and never will, a\nSettlement Agreement acknowledged its termination.  Ce\nthe validity and enforceability of the Indemnification\nwas a hotly contested issue.   \n \nFinally, even if this court accepts that Mr. Leva\npaid “insurance premiums” by working for Uber, there h\nshowing that Uber paid losses under the Indemnificatio\n",
+    "extracted_text": "6\n7\n8\n9\n10\n11\nIndemnification Agreement) could be enforced against Uber, this \ncourt has made no such determination and never will, as the \nSettlement Agreement acknowledged its termination.  Certainly, \nthe validity and enforceability of the Indemnification Agreement \nwas a hotly contested issue.   \n \nFinally, even if this court accepts that Mr. Levandowski \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP097__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "149a3ed7b403f080105c0fe87f63dec07d67171582b399cfd3eb56623b83edab",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1246,12 +1546,20 @@
     "target_native_phrase": "does not liquidate",
     "matched_native_phrase": "does not liquidate",
     "substitution_used": false,
-    "extracted_text": "Mr. Levandowski’s services on Uber’s behalf. \nThis memorandum opinion and order does not address the \nparties’ setoff rights, does not vacate or modify the \nconfirmation order, and does not liquidate any of Mr. \nLevandowski’s tax liability.  The court will issue a separate \norder setting a status conference at which the court will discuss \nwith the parties how and when it might address those issues.  \nNothing in this order should be construed as impacting the \nvalidity or enforceability of the Settlement Agreement.\n",
+    "extracted_text": "16\n17\n18\n19\n20\n21\n \nThis memorandum opinion and order does not address the \nparties’ setoff rights, does not vacate or modify the \nconfirmation order, and does not liquidate any of Mr. \nLevandowski’s tax liability.  The court will issue a separate \norder setting a status conference at which the court will discuss \nwith the parties how and when it might address those issues.  \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP101__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "8cb6892cff3b9560a894ae2efade0c7f5a697e81af30278f62455fa69fad4e62",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1279,12 +1587,20 @@
     "target_native_phrase": "MEMORANDUM OPINION AND ORDER",
     "matched_native_phrase": "MEMORANDUM OPINION AND ORDER",
     "substitution_used": false,
-    "extracted_text": "In re: \n \nANTHONY SCOTT LEVANDOWSKI, \n \n \nDebtor. \n) \n) \n) \n) \n) \n) \nCase No. 20 30242 HLB \n \nChapter 11 \n \nMEMORANDUM OPINION AND ORDER \n \nThis case comes before the court following entry of an \n“Opinion Reversing and Remanding Tax Order; Affirming in Part and \nRemanding in Part Confirmation Order” by the United States \nDistrict Court for the Northern District of California.1  The \nDistrict Court Order vacated and remanded this court’s order of\n",
+    "extracted_text": "11\n12\n13\n14\n15\n16\nO\nSCO\nO S\n,\n \n \nDebtor. \n)\n) \n) \n) \nC apte\n \nMEMORANDUM OPINION AND ORDER \n \nThis case comes before the court following entry of an \n“Opinion Reversing and Remanding Tax Order; Affirming in Part and \nRemanding in Part Confirmation Order” by the United States \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP104__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "120d57e22164f9b132861ac03cac2252fc5553ccfbc0540f795d500ca5e58f2b",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1312,12 +1628,20 @@
     "target_native_phrase": "validity or enforceability",
     "matched_native_phrase": "validity or enforceability",
     "substitution_used": false,
-    "extracted_text": "20\n21\n22\n23\n24\n25\n26\n27\n28\norder setting a status conference at which the court w\nwith the parties how and when it might address those i\nNothing in this order should be construed as impacting\nvalidity or enforceability of the Settlement Agreement\n \n \n \n12 Dkt. 1300. \n \n13 Dkt. 1301. \n",
+    "extracted_text": "21\n22\n23\n24\n25\n26\nwith the parties how and when it might address those issues.  \nNothing in this order should be construed as impacting the \nvalidity or enforceability of the Settlement Agreement. \n \n \n \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP105__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "59453adcddebcc5f9a62042b9b1165497a0eb4d60dc837989b18e1976b6efc21",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1345,12 +1669,20 @@
     "target_native_phrase": "dismissed with prejudice",
     "matched_native_phrase": "dismissed with prejudice",
     "substitution_used": false,
-    "extracted_text": "IT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \ndants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \ndential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nr their own attorney’s fees and costs.  \n:  February 8, 2018 \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \nBy:   /s/ Charles K. Verhoeven \n \nCHARLES K. VERHOEVEN \n",
+    "extracted_text": "1\n2\n3\n4\n5\n6\nIT IS HEREBY STIPULATED, by the undersigned counsel for Plaintiff Waymo LLC and \nDefendants Uber Technologies, Inc. and Ottomotto LLC (collectively, “Uber”), that pursuant to a \nconfidential settlement agreement, all claims in this action are dismissed with prejudice, all parties \nto bear their own attorney’s fees and costs.  \nDated:  February 8, 2018 \n \nQUINN EMANUEL URQUHART & SULLIVAN, LLP \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP109__S005__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "c04a7a182986b1c970a5f32a57706fd320513fdacd7353170248be691fc946e4",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "5a8c37cc0c34e19dcd352abd7185636c5aa599180f315c4a6bcccc5080a90e5a",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1378,12 +1710,20 @@
     "target_native_phrase": "179,047,998.64",
     "matched_native_phrase": "179,047,998.64",
     "substitution_used": false,
-    "extracted_text": "2\n3\n4\n5\n6\n7\n8\n9\n10\nFinal Award in favor of Google and against Mr. Levandowski.  O\nMarch 4, 2020, the San Francisco Superior Court confirmed the \nCorrected Final Award and entered a judgment against Mr. \nLevandowski totaling $179,047,998.64 (the “Google Judgment”).1\nJust hours later, Mr. Levandowski sought relief in this court \nfiling a voluntary petition under Chapter 11.   \n \nApproximately four months after filing this case, Mr. \nLevandowski sued Uber in this court19 arguing, among other \nthings, that Uber should pay the Google Judgment pursuant to t\n",
+    "extracted_text": "3\n4\n5\n6\n7\n8\nMarch 4, 2020, the San Francisco Superior Court confirmed the \nCorrected Final Award and entered a judgment against Mr. \nLevandowski totaling $179,047,998.64 (the “Google Judgment”).18  \nJust hours later, Mr. Levandowski sought relief in this court by \nfiling a voluntary petition under Chapter 11.   \n \nApproximately four months after filing this case, Mr. \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP109__S032__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "020e030789414c65f1b260c6c39c70901fc314af8514155397ef26589eca07cf",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
@@ -1411,12 +1751,20 @@
     "target_native_phrase": "May 20, 2022",
     "matched_native_phrase": "May 20, 2022",
     "substitution_used": false,
-    "extracted_text": "19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27\nlimited stay to decide the motion, it ultimately denied the request for a stay pending appea\nNos. 30 & 32.) \nSince the approval of the settlement order was not appealed, Uber made the indefe\nMain Uber Payment on or before May 20, 2022.  (Dkt. No. 48-2, Declaration of Tobias K\n[“Keller Decl.”] ¶ 4.)  Following the appeal concerning the stay, the plan became effective\nAugust 25, 2022.  (Id. ¶ 5c.)  The trust was executed and became effective, all or substanti\nof the property proposed in the plan to be transferred to the trust was transferred, the Trust\nassumed management of the property, and distributions commenced under the plan.  (Dkt\n3 D\nl\ni\nf A\nd S if [“S if D\nl ”] ¶¶ 3 4 ) A\nh\ni\nh\ndi\ni\n",
+    "extracted_text": "20 \n21 \n22 \n23 \n24 \n25 \nNos. 30 & 32.) \nSince the approval of the settlement order was not appealed, Uber made the indefeasible \nMain Uber Payment on or before May 20, 2022.  (Dkt. No. 48-2, Declaration of Tobias Keller \n[“Keller Decl.”] ¶ 4.)  Following the appeal concerning the stay, the plan became effective on \nAugust 25, 2022.  (Id. ¶ 5c.)  The trust was executed and became effective, all or substantially all \nof the property proposed in the plan to be transferred to the trust was transferred, the Trustee \n",
     "qc_fullpage_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP109__S033__fullpage_QC.png",
     "font_preserved_as_source_pixels": true,
     "rights_status": "HOLD",
     "source_sha256": "d63699cf43b95ac3f0eae7e41b69a01d05a7caafa5cd99e458a2b067dc61cfc1",
-    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES"
+    "qc_fix": "NATIVE_FULL_WIDTH_NO_CLIPPED_LINES",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "historical_extracted_text_is_pre_recrop": true,
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "bb7bca7a8ee0c136c37ebc572b470783935c292d8d9e5a16df451c1037766f41",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   },
   {
     "asset_id": "V005-VP016",
@@ -1437,7 +1785,11 @@
     ],
     "crop_sha256": "15aecd34a2662cd20b9c5073db1f465cc44be926d818cb8239ea2624e6eb634d",
     "crop_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP016__S011.png",
-    "source_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google"
+    "source_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "asset_id": "V005-VP081",
@@ -1458,7 +1810,11 @@
     ],
     "crop_sha256": "15aecd34a2662cd20b9c5073db1f465cc44be926d818cb8239ea2624e6eb634d",
     "crop_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP081__S011.png",
-    "source_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google"
+    "source_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "text_extraction_basis": "PUBLISHER_NATIVE_HTML_OR_SCREENSHOT_DO_NOT_SYNTHESIZE_TEXT",
+    "source_crop_text_context": "HOLD_EDITOR_VERIFY_NATIVE_HTML_TEXT_AND_RIGHTS"
   },
   {
     "asset_id": "V005-VP091",
@@ -1474,6 +1830,14 @@
       670.8619995117188
     ],
     "crop_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP091__S033.png",
-    "crop_sha256": "1d7654db00ed87ae31db4de78dacfcdc552cfbb875454df8fbd453da75d54f0c"
+    "crop_sha256": "1d7654db00ed87ae31db4de78dacfcdc552cfbb875454df8fbd453da75d54f0c",
+    "original_media_sha256_verified_from_archived_bytes": true,
+    "crop_sha256_verified_from_archived_bytes": true,
+    "extracted_text": "20 \n21 \n22 \n23 \n24 \n25 \nNos. 30 & 32.) \nSince the approval of the settlement order was not appealed, Uber made the indefeasible \nMain Uber Payment on or before May 20, 2022.  (Dkt. No. 48-2, Declaration of Tobias Keller \n[“Keller Decl.”] ¶ 4.)  Following the appeal concerning the stay, the plan became effective on \nAugust 25, 2022.  (Id. ¶ 5c.)  The trust was executed and became effective, all or substantially all \nof the property proposed in the plan to be transferred to the trust was transferred, the Trustee \n",
+    "text_extraction_basis": "CURRENT_ARCHIVED_ORIGINAL_PDF_NATIVE_RECT",
+    "extracted_text_utf8_sha256": "bb7bca7a8ee0c136c37ebc572b470783935c292d8d9e5a16df451c1037766f41",
+    "word_crosses_crop_x_edge": [],
+    "left_margin_adjacent_original_words": [],
+    "source_crop_text_context": "NO_WORD_BOUNDARY_CROSSED"
   }
 ]

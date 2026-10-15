@@ -1,0 +1,25 @@
+{
+  "date_utc": "2026-10-15T23:52:06.903150+00:00",
+  "method": "read_only_original_media / updated_metadata_only",
+  "no_media_created_or_modified": true,
+  "original_sources_hash_verified": 13,
+  "crop_hash_verified_records": 46,
+  "individual_authentic_assets": 37,
+  "pdf_source_text_refreshed": 38,
+  "historical_pdf_text_fields_repaired": 37,
+  "eight_margin_context_flags_still_require_visual_review": [
+    "V005-VP008",
+    "V005-VP031",
+    "V005-VP045",
+    "V005-VP048",
+    "V005-VP053",
+    "V005-VP058",
+    "V005-VP061",
+    "V005-VP064"
+  ],
+  "native_pdf_words_crossing_x_edge": 0,
+  "source_index_archive_paths_updated": 13,
+  "rights_status": "HOLD_FINAL_USE_ASSESSMENT",
+  "composited_final_authentic_frames": "NOT_GENERATED_AS_ORDERED",
+  "final_stage13_status": "SOURCE_PROVENANCE_AND_TEXT_METADATA_COMPLETE / IMAGE_ASSEMBLY_OWNER_HOLD"
+}
