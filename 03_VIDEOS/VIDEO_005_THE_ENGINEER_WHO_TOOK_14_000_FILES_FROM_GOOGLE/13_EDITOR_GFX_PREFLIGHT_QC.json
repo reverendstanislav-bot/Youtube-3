@@ -1,0 +1,16 @@
+{
+  "total": 60,
+  "unique": 60,
+  "canon_count": {
+    "A": 12,
+    "B": 15,
+    "C": 33
+  },
+  "plan_verified": true,
+  "sources_resolved": true,
+  "rendered": 0,
+  "generation_paid": 0,
+  "canon_png_stored_in_github": false,
+  "reference_zip_sha256": "510171d7ea5ad902b6b30bdb3ec022aca2262c384b913c32097973b0ff4b0be3",
+  "status": "SPEC_LOCKED_MEDIA_NOT_STARTED"
+}
