@@ -1,0 +1,31 @@
+name: VIDEO005 Stage13 native-source acquisition QC
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/video005_stage13_native_sources.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  source-native-acquisition:
+    runs-on: ubuntu-latest
+    timeout-minutes: 28
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install no-generation extraction dependencies
+        run: |
+          python3 -m pip install --quiet pymupdf pillow requests playwright
+          python3 -m playwright install --with-deps chromium
+      - name: Retrieve originals, crop native pixels, prepare 3 control samples
+        continue-on-error: true
+        run: |
+          python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/acquire_native.py
+      - name: Upload provenance and source-native pixels; no automatic PASS
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: VIDEO005_STAGE13_REAL_SOURCES_CROPS_QC
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION
+          if-no-files-found: warn
+          retention-days: 7
