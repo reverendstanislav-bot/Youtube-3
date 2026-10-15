@@ -1,0 +1,33 @@
+name: VIDEO005 refresh native-source metadata without images
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_metadata_refresh.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  metadata:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install original PDF text parser only
+        run: python3 -m pip install --quiet pymupdf
+      - name: Verify native binary sha and repair outdated extracted_text fields in JSON only
+        run: python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/repair_metadata_only.py
+      - name: Commit text provenance metadata and source index, NO png/pdf updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/REAL_CROP_QC_LEDGER_FINAL.json
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_METADATA_REPAIR_QC.json
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/SOURCE_INDEX.csv
+          git diff --cached --name-only | tee /tmp/files_changed.txt
+          if grep -E '\.(png|jpg|pdf|html)$' /tmp/files_changed.txt; then echo "DENIED: binary modification"; exit 10; fi
+          git commit -m "VIDEO005 Stage13 repair final source crop text metadata, archived source index (no media)"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
