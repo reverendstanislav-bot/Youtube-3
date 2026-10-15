@@ -1,0 +1,27 @@
+name: VIDEO005 Stage13 DOJ rendered originals
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_doj_capture.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install browser
+        run: |
+          python3 -m pip install --quiet playwright
+          python3 -m playwright install --with-deps chromium
+      - name: Capture official final HTML and original DOM pixels, not interstitial
+        run: python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/doj_capture.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: VIDEO005_STAGE13_DOJ_TRUE_RENDERED_ORIGINALS
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_DOJ_ORIGINALS
+          retention-days: 7
+          if-no-files-found: warn
