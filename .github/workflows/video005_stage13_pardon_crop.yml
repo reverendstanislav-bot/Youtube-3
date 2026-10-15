@@ -1,0 +1,89 @@
+name: VIDEO005 Stage13 repair DOJ pardon table row
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_pardon_crop.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fix-pardon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install browser
+        run: |
+          python3 -m pip install --quiet playwright pillow
+          python3 -m playwright install --with-deps chromium
+      - name: Capture only original official pardon row; replace oversized full table
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from playwright.sync_api import sync_playwright
+          import json,hashlib
+          root=Path('03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE')
+          out=root/'13_SOURCE_REAL_ACQUISITION'
+          url='https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021'
+          target=out/'native_crops/V005-VP083__S012.png'
+          with sync_playwright() as pw:
+            browser=pw.chromium.launch(headless=True,args=['--no-sandbox'])
+            page=browser.new_page(viewport={'width':1920,'height':1080},device_scale_factor=1)
+            page.goto(url,wait_until='domcontentloaded',timeout=45000)
+            page.wait_for_timeout(1800)
+            tr=page.locator('tr').filter(has_text='Anthony Scott Levandowski').first
+            assert tr.count()==1,'Official pardon table row not found'
+            tr.scroll_into_view_if_needed()
+            b=tr.bounding_box();scroll=page.evaluate('({x:window.scrollX,y:window.scrollY})')
+            tr.screenshot(path=str(target),timeout=20000)
+            from PIL import Image
+            with Image.open(target) as im:
+              assert 50<im.height<1000 and im.width>=400,im.size
+            sha=hashlib.sha256(target.read_bytes()).hexdigest()
+            original=out/'original_sources/S012.html'
+            assert original.exists()
+            text=original.read_text(errors='replace')
+            assert 'Anthony Scott Levandowski' in text
+            h=hashlib.sha256(original.read_bytes()).hexdigest()
+            records=json.loads((out/'REAL_CROP_QC_LEDGER_FINAL.json').read_text())
+            found=[r for r in records if r['asset_id']=='V005-VP083' and r['source_id']=='S012']
+            assert len(found)==1,len(found)
+            obj=found[0]
+            obj.update(status='NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC',
+                       source_sha256=h,original_sha256=h,crop_sha256=sha,
+                       crop_file='13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP083__S012.png',
+                       html_dom_crop_absolute_rect_css_px=[round(b['x']+scroll['x'],2),round(b['y']+scroll['y'],2),round(b['width'],2),round(b['height'],2)],
+                       matched_native_phrase='Anthony Scott Levandowski',
+                       original_page_url=url,qc_fix='R5_GENUINE_OFFICIAL_DOJ_TABLE_ROW_NOT_ENTIRE_TABLE',
+                       source_capture_verified=True)
+            (out/'REAL_CROP_QC_LEDGER_FINAL.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n')
+            (out/'VP083_PARDON_ROW_QC.json').write_text(json.dumps({'status':'PASS_NATIVE_ROW_CROP_NOT_WHOLE_TABLE',
+              'source_id':'S012','original_sha256':h,'crop_sha256':sha,
+              'crop_bounds_abs_css_px':obj['html_dom_crop_absolute_rect_css_px'],
+              'rights_clearance':'HOLD_EDITORIAL_REVIEW',
+              'source_url':url},indent=2)+'\n')
+            browser.close()
+          print((out/'VP083_PARDON_ROW_QC.json').read_text())
+          PY
+      - name: Commit real corrected source crop and ledger
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP083__S012.png
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/REAL_CROP_QC_LEDGER_FINAL.json
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/VP083_PARDON_ROW_QC.json
+          git commit -m "VIDEO005 Stage13: replace oversized pardon table with original DOJ Levandowski row" 
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: VIDEO005_STAGE13_VP083_ORIGINAL_DOJ_PARDON_ROW_QC
+          path: |
+            03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP083__S012.png
+            03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/VP083_PARDON_ROW_QC.json
+            03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/REAL_CROP_QC_LEDGER_FINAL.json
+          retention-days: 7
