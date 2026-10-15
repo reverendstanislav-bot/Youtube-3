@@ -6,10 +6,10 @@ pillar: "TRADE_SECRETS"
 priority: "5"
 status: "IN_PREPARATION"
 created: "2026-10-13"
-last_updated: "2026-10-14"
-current_stage: "12_VISUAL_SOURCE_GENERATION_PLAN"
-next_action: "Stage12 PASS 110/110 provenance-aware placement plans: 60 EDITOR_GRAPHIC, 37 AUTHENTIC_SOURCE crop requests, 3 rights-gated context and 10 unsubmitted still-image prompts, 0 reconstructions. Four native Shorts visual-safe. Await owner authorization before Stage13 source acquisition, production and any paid image generation."
-blockers: ["Stage13 source file retrieval and exact native crop provenance/rights checks NOT_STARTED (37 original-document placements)", "Stage13 editor-native 60 graphics and media 3 rights-clear context assets NOT_CREATED", "Stage13 10 distinct generated illustration prompts PREPARED but no model/budget/user spend approval; 0 submitted", "Four Shorts final exported runtime/caption/manual word boundary checks remain outstanding for Stage15", "Stage16 prepublication case status and rights/legal refresh pending"]
+last_updated: "2026-10-15"
+current_stage: "13_VISUAL_ASSET_QC_SOURCE_PREPRODUCTION"
+next_action: "Stage13 non-generative AUTHENTIC_SOURCE preparation COMPLETE: 13 authentic originals, 37 primary source crops, individual prompts, source rights risk analysis and motion layer contracts ready. OWNER ORDER: generate no images. Actual final frames 0/37; visual/rights final-usage/render QC pending. Do not advance to Stage14 or generate assets."
+blockers: ["USER NO-GENERATION ORDER: 3 AUTHENTIC control final frame revisions and remaining 34 AUTHENTIC final composited frames NOT_AUTHORIZED; approved concept canon does not release real frames", "Eight native source-crop left-margin/header context flags require final frame readability check (VP008 VP031 VP045 VP048 VP053 VP058 VP061 VP064); old extracted_text fields in pre-recrop JSON are obsolete", "Actual final picture duration/rights/use clearance and DaVinci read-hold/motion QC NOT_RUN; rights classification complete only", "Stage13 editor-native 60 graphics and 3 independently rights-checked context assets NOT_CREATED", "Stage13 10 generated illustration prompts PREPARED but no budget/user approval; 0 submitted", "Four Shorts export and caption/readability QC remain for Stage15", "Stage16 prepublication legal/fact refresh pending"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -25,7 +25,7 @@ stages:
   stage_10_audio_master: "PASS_MASTER_PCM16_48KHZ_995_03S"
   stage_11_transcript_visual_timeline: "PASS_STRUCTURAL_55_SCENES_110_VISUAL_PLACEMENTS_ASR_WORD_TIMINGS_PROVISIONAL"
   stage_12_visual_source_generation_plan: "PASS_PLAN_110_OF_110_60_GFX_37_AUTHENTIC_3_CONTEXT_10_UNSUBMITTED_STILLS_0_RECONSTRUCTIONS"
-  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_13_visual_asset_qc: "PARTIAL_SOURCE_13_13_ORIGINALS_37_37_NATIVE_CROP_HASH_PASS_NONGENERATIVE_HANDOFF_READY_FINAL_FRAMES_NOT_AUTHORIZED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -85,7 +85,7 @@ qa:
   research: "PASS_CURRENT_V4_4_OWNER_EDITORIAL_ACCEPTANCE"
   fact_legal: "PASS_V4_4_EN_55_OF_55_4_OF_4"
   performance: "PASS_V4_4_EN_82_100_SHORTS_4_4"
-  visual: "NOT_RUN"
+  visual: "SOURCE_PROVENANCE_QC_PASS_37_OF_37_READ_ONLY_CROP_TEXT_PREFLIGHT_COMPLETE_FULL_FRAME_QC_NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"

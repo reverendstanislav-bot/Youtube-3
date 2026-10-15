@@ -1,26 +1,22 @@
-# VIDEO 005 — Stage 13 Authentic-Source Design Canons / Current QC Index
+# VIDEO 005 — Stage13 visual canon and AUTHENTIC-SOURCE reference/QC index (R6)
 
-**Status (2026-10-15): QC_R2_PROMPT_PLAN_PASS 37/37 · PHYSICAL_SOURCE_AND_RIGHTS_HOLD 37/37.**
+**Canonical art direction:** AUTH-01 EVIDENCE SPOTLIGHT (13 positions), AUTH-02 SOURCE + EDITORIAL DECODE (12), AUTH-03 PROCEDURAL TIMELINE (12). These THREE families are **owner-approved as styles**, not as final case-accurate production frames.
 
-The prior Stage13 assignment has been independently reviewed and corrected. **Use the R2 ledger and R2 report for current QC, not historical wording in the older prompts/Stage12.**
+**User directive dated 2026-10-15:** **NO GENERATION.** Do not run GPT Image, Higgsfield, video generation, crop-image regeneration, slideshow assembly or paid retries. Keep earlier pictures and source evidence unchanged. All pending frames are **not created/approved** until the owner explicitly changes this order.
 
-## Authoritative Stage13 production files
+## Current truth / superseding documents
 
-- `13_AUTHENTIC_CANON_ASSIGNMENT.csv`: all 37 unique frame placements, source URL(s), verified public-text locators, all work-status gates. Canon mapping remains **AUTH-01 13 / AUTH-02 12 / AUTH-03 12**.
-- `13_AUTHENTIC_PROMPTS_AUTH01.md`: 13 independently authored evidence spotlight prompts with direct source links and exact locator intent.
-- `13_AUTHENTIC_PROMPTS_AUTH02.md`: 12 financial/legal editorial decode prompts with differentiated captions/legal statuses.
-- `13_AUTHENTIC_PROMPTS_AUTH03.md`: 12 procedural timeline prompts with distinct event/status/source hierarchy.
-- `13_AUTHENTIC_HARD_QC_R2.csv`: 37-row independent frame-by-frame PASS/HOLD gate ledger.
-- `13_AUTHENTIC_HARD_QC_R2.md`: explicit source-level fact/legal audit, correction register and remaining physical-media blockers.
+1. `13_NO_GENERATION_PREPRODUCTION_CLOSURE.md` — owner constraint, definitive Stage13 non-generative completion and not-yet-complete release gates.
+2. `13_AUTHENTIC_37_NON_GENERATIVE_HANDOFF.csv` — current 37-row production handoff: actual original SHA256, native crop points/CSS, source URL and individual prompt, specific DaVinci layer/timing instructions and release status.
+3. `13_SOURCE_EDITORIAL_RIGHTS_PREFLIGHT.md` — all 13 source families classified for editorial-risk and minimization. Risk classification is NOT blanket rights clearance.
+4. `13_SOURCE_TEXT_ONLY_AUDIT.json` / `13_SOURCE_CROP_READ_ONLY_QC.json` — true binary source/crop SHA256 recheck 37/37 and contextual left-edge margin flags (8); earlier `extracted_text` fields in R3 JSON are stale and must not be used as final native text evidence.
+5. `13_SOURCE_REAL_ACQUISITION/SOURCE_DOWNLOAD_LEDGER_FINAL.json` and `REAL_CROP_QC_LEDGER_FINAL.json` — archival original bytes, per-source and per-crop proof, not final frame QA.
+6. `13_AUTHENTIC_PROMPTS_AUTH01.md`, `AUTH02.md`, `AUTH03.md` remain **individual historical creative briefs**. Any phrase claiming the originals were 'NOT DOWNLOADED' or native rectangle 'UNKNOWN' is superseded by the recorded SHA/crops in (2). Do not draw from obsolete data fields.
 
-## Correctness boundaries
+## Remaining explicit holds
 
-**R2 source binding fixes are only in Stage13.** Stage07 locked spoken script, Stage11 time boundaries, Stage12 canonical historical file set and 110 original asset plan remain unchanged.
+- 8 potential left-margin/source-header context issues: VP008, VP031, VP045, VP048, VP053, VP058, VP061, VP064; check at actual final 1920×1080 before claiming readable evidence. Read-only scan found **0 whole-word bbox edge intersections**, but words near left border; not enough to waive visual check.
+- Final owner accept for 3 case-accurate control frames, 34 additional final AUTHENTIC-SOURCE frames, actual compositing/typography QC, last-mile editorial source rights and DaVinci motion export. **NOT AUTHORIZED TO GENERATE** now.
+- Remaining Stage13 other classes (60 EDITOR_GRAPHIC, 3 CONTEXT, 10 GENERATED_ILLUSTRATIONS) retain their independent status. No Stage14 promotion.
 
-Style references are owner-approved **visual grammar only**. The three PNG files are carried as chat/zip references with actual checked SHA256 and size **1672×941**; the image binaries are NOT committed as GitHub source assets. AI-generated case numbers, docket text, settlement pages, emails, signatures, redactions, logos or background UI on the approved images are NOT real evidence. A later frame needs real source-native source pixels, even if visually matched to the style.
-
-**No burned-in yellow marker or red underline.** All transient emphasis, timeline line/node reveal and document zoom belongs on its own DaVinci track. Keep bottom 20% open for captions; preserve case status.
-
-## Stage13 deliverable gate
-
-`37/37 PROMPTS READY + 37/37 SOURCES REFERENCED`, **not** `37/37 AUTHENTIC-SOURCE IMAGES COMPLETE`. Actual files/crop rectangles, native pixel QA, per-source usage clearance and final motion/readability review still required. Paid or video generation not authorized.
+**Authoritative stage flag:** `STAGE13_AUTHENTIC_SOURCE_NON_GENERATIVE_PREPRODUCTION_CLOSED; STAGE13_FULL_VISUAL_RELEASE_HOLD`.
