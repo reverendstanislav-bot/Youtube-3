@@ -2,7 +2,9 @@ name: VIDEO005 Stage13 DOJ rendered originals
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/video005_stage13_doj_capture.yml']
+    paths:
+      - '.github/workflows/video005_stage13_doj_capture.yml'
+      - '03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/doj_capture.py'
   workflow_dispatch:
 permissions:
   contents: read

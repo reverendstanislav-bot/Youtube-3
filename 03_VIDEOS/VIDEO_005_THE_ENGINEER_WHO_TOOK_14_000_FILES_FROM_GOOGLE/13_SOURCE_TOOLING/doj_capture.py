@@ -38,9 +38,13 @@ with sync_playwright() as p:
     filename=sid+'_source_paragraph_'+str(j)+'.png'
     try:
       el.scroll_into_view_if_needed(timeout=8000)
+      bbox=el.bounding_box()
+      scroll=page.evaluate('({x:window.scrollX,y:window.scrollY})')
       el.screenshot(path=str(B/filename),timeout=15000)
       raw=(B/filename).read_bytes()
-      item['anchors'].append({'phrase':a,'status':'CAPTURED_ORIGINAL_DOM_PIXEL','file':filename,'sha256':hashlib.sha256(raw).hexdigest()})
+      item['anchors'].append({'phrase':a,'status':'CAPTURED_ORIGINAL_DOM_PIXEL','file':filename,'sha256':hashlib.sha256(raw).hexdigest(),
+                             'source_dom_crop_rect_css_px':[round(bbox['x']+scroll['x'],1),round(bbox['y']+scroll['y'],1),round(bbox['width'],1),round(bbox['height'],1)],
+                             'viewport_px':[1700,1000]})
     except Exception as e:item['anchors'].append({'phrase':a,'status':'HOLD_SCREENSHOT','error':str(e)[:200]})
    results.append(item)
   except Exception as e:results.append({'id':sid,'status':'HOLD_BROWSER_ACCESS','error':str(e)[:350]})
