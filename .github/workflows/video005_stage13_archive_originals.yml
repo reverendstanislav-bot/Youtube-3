@@ -1,0 +1,142 @@
+name: VIDEO005 Stage13 archive original source pixels
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_archive_originals.yml']
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch source-original and publisher-DOM artifacts from verified completed runs
+        uses: actions/download-artifact@v4
+        with:
+          name: VIDEO005_STAGE13_REAL_SOURCES_CROPS_QC
+          run-id: 38791764249
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION
+      - name: Fetch corrected DOJ DOM original and source screenshot coordinates
+        uses: actions/download-artifact@v4
+        with:
+          name: VIDEO005_STAGE13_DOJ_TRUE_RENDERED_ORIGINALS
+          run-id: 38793682649
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_DOJ_ORIGINALS
+      - name: Install PDF original cropping
+        run: python3 -m pip install --quiet pymupdf pillow
+      - name: Normalize only source-native originals and crops with exact original SHA256
+        run: |
+          python3 - <<'PY'
+          import pathlib,json,hashlib,fitz,shutil,csv,collections
+          root=pathlib.Path('03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE')
+          r=root/'13_SOURCE_REAL_ACQUISITION'; d=root/'13_SOURCE_DOJ_ORIGINALS'
+          def sha(x):return hashlib.sha256(x.read_bytes()).hexdigest()
+          original=json.loads((r/'SOURCE_DOWNLOAD_LEDGER.json').read_text())
+          crop=json.loads((r/'REAL_CROP_QC_LEDGER.json').read_text())
+          dj={x['id']:x for x in json.loads((d/'DOJ_RENDERED_ORIGINALS_QC.json').read_text())}
+          assert len(original)==13 and all(x['status'].startswith('SAVED_') for x in original)
+          assert all(dj[id]['verified_rendered_original'] for id in ('S010','S011'))
+          for sid in ('S010','S011'):
+            f=d/(sid+'_ACTUAL_RENDERED_DOM.html')
+            target=r/'original_sources'/(sid+'.html')
+            shutil.copyfile(f,target)
+            assert sha(target)==dj[sid]['sha256']
+          keep={}
+          for x in crop:
+            key=(x['asset_id'],x['source_id'])
+            if key not in keep or not keep[key].get('status','').startswith('NATIVE_'):keep[key]=x
+          crop=list(keep.values())
+          for x in crop:
+            sid=x['source_id'];asset=x['asset_id']
+            if x.get('status','').startswith('NATIVE_PDF'):
+              pdf=r/'original_sources'/(sid+'.pdf');doc=fitz.open(pdf);page=doc[x['page_1based']-1]
+              match=page.search_for(x['matched_native_phrase'])
+              if not match:raise ValueError((asset,sid,'lost native phrase'))
+              h=match[0];rect=fitz.Rect(60,max(20,h.y0-48),min(page.rect.width-12,595),min(page.rect.height-12,h.y1+73))
+              blocks=[b for b in page.get_text('blocks') if b[1]<rect.y1 and b[3]>rect.y0 and b[0]>=40 and b[2]<=page.rect.width]
+              if blocks:
+                rect.x0=max(7,min(rect.x0,min(b[0] for b in blocks)-8))
+                rect.x1=min(page.rect.width-7,max(rect.x1,max(b[2] for b in blocks)+8))
+              dest=r/'native_crops'/(asset+'__'+sid+'.png')
+              page.get_pixmap(matrix=fitz.Matrix(3,3),clip=rect,alpha=False).save(dest)
+              x.update(crop_sha256=sha(dest),crop_rect_pt=[round(v,2) for v in rect],source_sha256=sha(pdf),
+                       qc_fix='NATIVE_FULL_WIDTH_NO_CLIPPED_LINES')
+          # The previous manifest incorrectly searched 'indefeasible' in S032; use the true 2022 settlement passage instead.
+          x=next(t for t in crop if t['asset_id']=='V005-VP091' and t['source_id']=='S032')
+          pdf=r/'original_sources/S032.pdf';page=fitz.open(pdf)[5];h=page.search_for('Settlement Agreement')[0]
+          rect=fitz.Rect(60,h.y0-48,595,h.y1+73);out=r/'native_crops/V005-VP091__S032.png'
+          page.get_pixmap(matrix=fitz.Matrix(3,3),clip=rect,alpha=False).save(out)
+          x.update(status='NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC',
+                   matched_native_phrase='Settlement Agreement',page_1based=6,crop_file='13_SOURCE_REAL_ACQUISITION/native_crops/'+out.name,
+                   crop_rect_pt=list(rect),crop_sha256=sha(out),source_sha256=sha(pdf))
+          # Replace DOJ HTML challenge artifact with screenshots matched to publisher's actual rendered DOM.
+          mapping={('V005-VP013','S010'):0,('V005-VP016','S010'):1,
+                   ('V005-VP081','S010'):2,('V005-VP083','S011'):3}
+          add={('V005-VP016','S011'):2,('V005-VP081','S011'):2}
+          for (asset,sid),idx in {**mapping,**add}.items():
+            orig=dj[sid];hit=orig['anchors'][idx]
+            if hit['status']!='CAPTURED_ORIGINAL_DOM_PIXEL':raise ValueError((asset,sid,hit))
+            dest=r/'native_crops'/(asset+'__'+sid+'.png')
+            shutil.copyfile(d/hit['file'],dest)
+            x=next((z for z in crop if z['asset_id']==asset and z['source_id']==sid),None)
+            if x is None:x={'asset_id':asset,'source_id':sid};crop.append(x)
+            x.update(status='NATIVE_HTML_SCREENSHOT_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC',
+                     source_sha256=orig['sha256'],original_sha256=orig['sha256'],matched_native_phrase=hit['phrase'],
+                     html_dom_crop_absolute_rect_css_px=hit['source_dom_crop_rect_css_px'],
+                     viewport_px=hit['viewport_px'],crop_sha256=sha(dest),
+                     crop_file='13_SOURCE_REAL_ACQUISITION/native_crops/'+dest.name,source_url=orig['url'])
+          # The four-event scene requires independent 2022 S033 passage and 2025 tax passage, not a single combined court case.
+          doc=fitz.open(r/'original_sources/S033.pdf');page=doc[3];h=page.search_for('May 20, 2022')[0]
+          rect=fitz.Rect(60,h.y0-48,595,h.y1+73);dst=r/'native_crops/V005-VP091__S033.png'
+          page.get_pixmap(matrix=fitz.Matrix(3,3),clip=rect,alpha=False).save(dst)
+          crop.append({'asset_id':'V005-VP091','source_id':'S033','page_1based':4,'source_sha256':sha(r/'original_sources/S033.pdf'),
+                      'status':'NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC',
+                      'matched_native_phrase':'May 20, 2022','crop_rect_pt':list(rect),
+                      'crop_file':'13_SOURCE_REAL_ACQUISITION/native_crops/'+dst.name,'crop_sha256':sha(dst)})
+          doc=fitz.open(r/'original_sources/S032.pdf');page=doc[2];h=page.search_for('does not liquidate')[0]
+          rect=fitz.Rect(60,h.y0-48,595,h.y1+73);dst=r/'native_crops/V005-VP109__S032_2025_TAX.png'
+          page.get_pixmap(matrix=fitz.Matrix(3,3),clip=rect,alpha=False).save(dst)
+          # Verify all actual image bytes and source document records; no auto rights or design pass.
+          good={x['asset_id'] for x in crop if x.get('status','').startswith('NATIVE_')}
+          assert len(good)==37,len(good)
+          for x in crop:
+            if not x.get('crop_file'):continue
+            fp=root/x['crop_file'].replace('13_SOURCE_REAL_ACQUISITION/','13_SOURCE_REAL_ACQUISITION/',1)
+            assert fp.exists(),fp
+            assert sha(fp)==x['crop_sha256'],(x['asset_id'],x['source_id'])
+          for o in original:
+            p=r/'original_sources'/(o['source_id']+'.'+o['type'])
+            assert p.exists()
+            o['source_sha256_verified_final']=sha(p)
+            o['rights_status']='EDITORIAL_USAGE_REVIEW_REQUIRED'
+          (r/'REAL_CROP_QC_LEDGER_FINAL.json').write_text(json.dumps(crop,indent=2,ensure_ascii=False)+'\n')
+          (r/'SOURCE_DOWNLOAD_LEDGER_FINAL.json').write_text(json.dumps(original,indent=2,ensure_ascii=False)+'\n')
+          (r/'QC_RELEASE_GATES.json').write_text(json.dumps({'status':'AUTHENTIC_SOURCE_ACQUISITION_COMPLETE_PIXEL_CROP_QC_PASS',
+             'original_sources':13,'unique_authentic_assets':37,'total_source_crop_records':len(crop),
+             'source_shas_verified':True,'license_gate':'HOLD_EDITORIAL_RIGHTS_REVIEW',
+             'creative_canons':'THREE_TECHNICAL_CONTROLS_AWAIT_OWNER_QC','paid_generations':0},indent=2)+'\n')
+          print((r/'QC_RELEASE_GATES.json').read_text())
+          PY
+      - name: Save binary genuine court documents and source-native crops to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_DOJ_ORIGINALS
+          if git diff --cached --quiet; then echo "No new evidence bytes"; exit 0; fi
+          git commit -m "VIDEO005 Stage13 archive 13 native sources and 37 genuine crops with hash proof (rights HOLD)"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: VIDEO005_STAGE13_NATIVE_SOURCE_ARCHIVED_AND_CROP_QC
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION
+          retention-days: 7
