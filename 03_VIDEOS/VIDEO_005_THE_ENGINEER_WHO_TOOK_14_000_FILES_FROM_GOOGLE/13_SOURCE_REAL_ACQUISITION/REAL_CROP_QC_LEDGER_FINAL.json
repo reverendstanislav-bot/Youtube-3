@@ -1030,7 +1030,7 @@
     "captured_url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
     "source_type": "html",
     "crop_file": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP083__S012.png",
-    "crop_sha256": "ee3511304be2b83639ac838a606875f5a3a6f7f4cf36806f9a05af88d29ebdca",
+    "crop_sha256": "682e2600352ad3afbc0bbce371d7b1fc1c59ce3f0138b1f15f3df7afb3b64a79",
     "dom_locator": "p filtered by case-insensitive native source text",
     "target_native_phrase": "Anthony Scott Levandowski",
     "matched_native_phrase": "Anthony Scott Levandowski",
@@ -1043,7 +1043,17 @@
       "height": 23858.03
     },
     "publisher_title": "Office of the Pardon Attorney | Pardons Granted by President Donald J. Trump (2017-2021)",
-    "rights_status": "HOLD"
+    "rights_status": "HOLD",
+    "source_sha256": "8c74870b9a80e83d6d5f2afd917dab7f6137f61ac22466b245c5a9b9d91f2a41",
+    "html_dom_crop_absolute_rect_css_px": [
+      481,
+      20463.66,
+      798,
+      124.05
+    ],
+    "original_page_url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
+    "qc_fix": "R5_GENUINE_OFFICIAL_DOJ_TABLE_ROW_NOT_ENTIRE_TABLE",
+    "source_capture_verified": true
   },
   {
     "status": "NATIVE_PDF_CROP_EXTRACTED_PENDING_LEGAL_VISUAL_RIGHTS_QC",
