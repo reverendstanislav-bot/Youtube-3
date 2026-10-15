@@ -1,0 +1,236 @@
+[
+  {
+    "source_id": "S001",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/1/0.pdf",
+    "resolved_url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/1/0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S001.pdf",
+    "sha256": "2b94b6cffa906b4b743661e337fb19f590ee5bd0d16f13246f948e2c0c2da1aa",
+    "byte_size": 206789,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/1/0.pdf",
+        "status": 200,
+        "size": 206789,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S003",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/433/0.pdf",
+    "resolved_url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/433/0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S003.pdf",
+    "sha256": "7537c2b01e8a12b489539daa43f31d10681fdd38fcf03d44658e328155536851",
+    "byte_size": 391639,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/433/0.pdf",
+        "status": 200,
+        "size": 391639,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S004",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/566/0.pdf",
+    "resolved_url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/566/0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S004.pdf",
+    "sha256": "11cee334ea15bb279ca97748770eae5fc22bf3bce2a1713fbf923f2e4c4b070b",
+    "byte_size": 299268,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/566/0.pdf",
+        "status": 200,
+        "size": 299268,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S005",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://business.cch.com/ipld/WaymoUberTechnologiesDiismissal20180209.pdf",
+    "resolved_url": "https://business.cch.com/ipld/WaymoUberTechnologiesDiismissal20180209.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S005.pdf",
+    "sha256": "c04a7a182986b1c970a5f32a57706fd320513fdacd7353170248be691fc946e4",
+    "byte_size": 42828,
+    "attempts": [
+      {
+        "url": "https://business.cch.com/ipld/WaymoUberTechnologiesDiismissal20180209.pdf",
+        "status": 200,
+        "size": 42828,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S007",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/delaware/court-of-chancery/2019-ca-2017-0888-sg.pdf",
+    "resolved_url": "https://cases.justia.com/delaware/court-of-chancery/2019-ca-2017-0888-sg.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S007.pdf",
+    "sha256": "294e586c51cc5101958e7219e08d21e84a8b5056ea68c67f7aea07108dd0499c",
+    "byte_size": 544594,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/delaware/court-of-chancery/2019-ca-2017-0888-sg.pdf",
+        "status": 200,
+        "size": 544594,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S008",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/delaware/supreme-court/2020-181-2019.pdf",
+    "resolved_url": "https://cases.justia.com/delaware/supreme-court/2020-181-2019.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S008.pdf",
+    "sha256": "33203516ba3fe8c10f2150fe65cb37efb0c7070690521de747134430bd5a7628",
+    "byte_size": 59953,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/delaware/supreme-court/2020-181-2019.pdf",
+        "status": 200,
+        "size": 59953,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S009",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "html",
+    "url": "https://www.uber.com/en-IE/newsroom/uber-waymo-settlement/",
+    "resolved_url": "https://www.uber.com/ie/en/newsroom/uber-waymo-settlement/",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S009.html",
+    "sha256": "7e216778e02ba761421d0244e0cbdb2adc7a2b1acbbbabc97646650c7f6ea1d3",
+    "byte_size": 394246,
+    "attempts": [
+      {
+        "url": "https://www.uber.com/en-IE/newsroom/uber-waymo-settlement/",
+        "status": 200,
+        "size": 394246,
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "source_id": "S010",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "html",
+    "url": "https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets",
+    "resolved_url": "https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S010.html",
+    "sha256": "5e712c47ef67bd9bf0ae496341daa4094c49faeef7e622c8efdf7e9062bd9680",
+    "byte_size": 2555,
+    "attempts": [
+      {
+        "url": "https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets",
+        "status": 200,
+        "size": 2555,
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "source_id": "S011",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "html",
+    "url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "resolved_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S011.html",
+    "sha256": "9e793b0068d750836fef70aaa174998d2e3ef4837593dbe1f4d3addf3509d60b",
+    "byte_size": 2500,
+    "attempts": [
+      {
+        "url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+        "status": 200,
+        "size": 2500,
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "source_id": "S012",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "html",
+    "url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
+    "resolved_url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S012.html",
+    "sha256": "8c74870b9a80e83d6d5f2afd917dab7f6137f61ac22466b245c5a9b9d91f2a41",
+    "byte_size": 146992,
+    "attempts": [
+      {
+        "url": "https://www.justice.gov/pardon/pardons-granted-president-donald-j-trump-2017-2021",
+        "status": 200,
+        "size": 146992,
+        "type": "html"
+      }
+    ]
+  },
+  {
+    "source_id": "S031",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/2585/0.pdf",
+    "resolved_url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/2585/0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S031.pdf",
+    "sha256": "8098fb73722b9f0b070d3c83aaa2c4c01885b2add5f4999c04bc93a2ae382146",
+    "byte_size": 121765,
+    "attempts": [
+      {
+        "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2017cv00939/308136/2585/0.pdf",
+        "status": 200,
+        "size": 121765,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S032",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-canb-3_20-bk-30242/pdf/USCOURTS-canb-3_20-bk-30242-0.pdf",
+    "resolved_url": "https://www.govinfo.gov/content/pkg/USCOURTS-canb-3_20-bk-30242/pdf/USCOURTS-canb-3_20-bk-30242-0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S032.pdf",
+    "sha256": "a7fbad0b313165918abcf2161fb4bec6464870a609dced4debf911f6fa8470e0",
+    "byte_size": 664226,
+    "attempts": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-canb-3_20-bk-30242/pdf/USCOURTS-canb-3_20-bk-30242-0.pdf",
+        "status": 200,
+        "size": 664226,
+        "type": "pdf"
+      }
+    ]
+  },
+  {
+    "source_id": "S033",
+    "status": "SAVED_ORIGINAL_BINARY_REQUIRES_RIGHTS_QC",
+    "type": "pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-cv-02781/pdf/USCOURTS-cand-4_22-cv-02781-0.pdf",
+    "resolved_url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-cv-02781/pdf/USCOURTS-cand-4_22-cv-02781-0.pdf",
+    "path": "13_SOURCE_REAL_ACQUISITION/original_sources/S033.pdf",
+    "sha256": "d63699cf43b95ac3f0eae7e41b69a01d05a7caafa5cd99e458a2b067dc61cfc1",
+    "byte_size": 350241,
+    "attempts": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-cv-02781/pdf/USCOURTS-cand-4_22-cv-02781-0.pdf",
+        "status": 200,
+        "size": 350241,
+        "type": "pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "date_utc": "2026-10-15T19:12:04.017194+00:00",
+  "source_total": 13,
+  "original_sources_acquired": 13,
+  "main_crop_total": 37,
+  "main_crops_extracted": 37,
+  "all_crop_files": 45,
+  "control_frames_created": 3,
+  "render_or_rights_auto_pass": 0,
+  "stage13_status": "HOLD_UNTIL_VISUAL_LEGAL_RIGHTS_QC"
+}

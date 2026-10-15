@@ -1,0 +1,10 @@
+{
+  "status": "AUTHENTIC_SOURCE_ACQUISITION_COMPLETE_PIXEL_CROP_QC_PASS",
+  "original_sources": 13,
+  "unique_authentic_assets": 37,
+  "total_source_crop_records": 46,
+  "source_shas_verified": true,
+  "license_gate": "HOLD_EDITORIAL_RIGHTS_REVIEW",
+  "creative_canons": "THREE_TECHNICAL_CONTROLS_AWAIT_OWNER_QC",
+  "paid_generations": 0
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "S010",
+    "url": "https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets",
+    "resolved_url": "https://www.justice.gov/usao-ndca/pr/former-uber-self-driving-car-executive-signs-agreement-plead-guilty-theft-trade-secrets",
+    "title": "Northern District of California | Former Uber Self-Driving Car Executive Signs Agreement To Plead Guilty To Theft Of Trade Secrets From Google | United States Department of Justice",
+    "rendered_dom_path": "S010_ACTUAL_RENDERED_DOM.html",
+    "sha256": "b84ade79a974d097352259c673c250df5570b7262a26daf4027617df6f275724",
+    "body_chars": 5173,
+    "verified_rendered_original": true,
+    "capture_utc": "2026-10-15T19:25:21.416254+00:00",
+    "anchors": [
+      {
+        "phrase": "December 11, 2015",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S010_source_paragraph_0.png",
+        "sha256": "42d1e51661769bd41cfb0b7130ad14feae07eb2d08b5477a07bcad5b5d90aba8",
+        "source_dom_crop_rect_css_px": [
+          370,
+          912.0,
+          960,
+          240
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      },
+      {
+        "phrase": "weekly",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S010_source_paragraph_1.png",
+        "sha256": "2f163e964d5371709f9c33619d3b1bb49b42a950898604dd1853002198cd85fb",
+        "source_dom_crop_rect_css_px": [
+          370,
+          1168.0,
+          960,
+          168
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      },
+      {
+        "phrase": "33",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S010_source_paragraph_2.png",
+        "sha256": "f842165caefed2699cd3ca4ba3be59a32d874253e02fa46d634f21ff2cbeed92",
+        "source_dom_crop_rect_css_px": [
+          370,
+          1352.0,
+          960,
+          72
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": "S011",
+    "url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "resolved_url": "https://www.justice.gov/usao-ndca/pr/former-uber-executive-sentenced-18-months-jail-trade-secret-theft-google",
+    "title": "Northern District of California | Former Uber Executive Sentenced To 18 Months In Jail For Trade Secret Theft From Google | United States Department of Justice",
+    "rendered_dom_path": "S011_ACTUAL_RENDERED_DOM.html",
+    "sha256": "69e28f505d89e563e2587618515a02a934a310e75a6b093b93851bcbc172acd4",
+    "body_chars": 5357,
+    "verified_rendered_original": true,
+    "capture_utc": "2026-10-15T19:25:23.560523+00:00",
+    "anchors": [
+      {
+        "phrase": "one count",
+        "status": "HOLD_NOT_FOUND"
+      },
+      {
+        "phrase": "33 counts",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S011_source_paragraph_1.png",
+        "sha256": "3409cf84e01b70c0c3995d863fab1a225b1ac0f5d7359ab73da38f74aade80c0",
+        "source_dom_crop_rect_css_px": [
+          370,
+          916.5,
+          960,
+          264
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      },
+      {
+        "phrase": "pleaded guilty",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S011_source_paragraph_2.png",
+        "sha256": "15aecd34a2662cd20b9c5073db1f465cc44be926d818cb8239ea2624e6eb634d",
+        "source_dom_crop_rect_css_px": [
+          370,
+          804.5,
+          960,
+          96
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      },
+      {
+        "phrase": "18 months",
+        "status": "CAPTURED_ORIGINAL_DOM_PIXEL",
+        "file": "S011_source_paragraph_3.png",
+        "sha256": "15aecd34a2662cd20b9c5073db1f465cc44be926d818cb8239ea2624e6eb634d",
+        "source_dom_crop_rect_css_px": [
+          370,
+          804.5,
+          960,
+          96
+        ],
+        "viewport_px": [
+          1700,
+          1000
+        ]
+      }
+    ]
+  }
+]

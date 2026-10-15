@@ -1,0 +1,34 @@
+[
+  {
+    "canon": "AUTH-01",
+    "asset_id": "V005-VP101",
+    "status": "COMPOSITED_FROM_ORIGINAL_PIXELS_VISUAL_LEGAL_RIGHTS_QC_PENDING",
+    "path": "13_SOURCE_REAL_ACQUISITION/control_frames/AUTH-01__CONTROL_SOURCE_NATIVE_QC_PENDING.png",
+    "sha256": "84beeee5d5b7e070343b307c5e1c3d4e6a3e6a9f86661b21f4721172b7e4b3e5",
+    "sources": [
+      "S032"
+    ]
+  },
+  {
+    "canon": "AUTH-02",
+    "asset_id": "V005-VP026",
+    "status": "COMPOSITED_FROM_ORIGINAL_PIXELS_VISUAL_LEGAL_RIGHTS_QC_PENDING",
+    "path": "13_SOURCE_REAL_ACQUISITION/control_frames/AUTH-02__CONTROL_SOURCE_NATIVE_QC_PENDING.png",
+    "sha256": "53c15b24c57bd574d33c17b5789b5e07da57a688c985fd67a830133ba4df56bd",
+    "sources": [
+      "S007"
+    ]
+  },
+  {
+    "canon": "AUTH-03",
+    "asset_id": "V005-VP109",
+    "status": "COMPOSITED_FROM_ORIGINAL_PIXELS_VISUAL_LEGAL_RIGHTS_QC_PENDING",
+    "path": "13_SOURCE_REAL_ACQUISITION/control_frames/AUTH-03__CONTROL_SOURCE_NATIVE_QC_PENDING.png",
+    "sha256": "9270bacf1eebbb092934c7d095920a607fcddc44ad4c8ceb1ae264b575ca6186",
+    "sources": [
+      "S005",
+      "S032",
+      "S033"
+    ]
+  }
+]
