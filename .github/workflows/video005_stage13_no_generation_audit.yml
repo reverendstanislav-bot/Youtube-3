@@ -1,0 +1,30 @@
+name: VIDEO005 Stage13 no-generation provenance audit
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_no_generation_audit.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install text-only PDF validators
+        run: python3 -m pip install --quiet pymupdf pillow
+      - name: Validate original source SHA256 and PDF text crop boundaries (NO images made)
+        run: python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/audit_only.py
+      - name: Commit read-only QA reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TEXT_ONLY_AUDIT.json
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_CROP_READ_ONLY_QC.json
+          git commit -m "VIDEO005 Stage13 non-generative native-source hash and crop-text audit" || exit 0
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
