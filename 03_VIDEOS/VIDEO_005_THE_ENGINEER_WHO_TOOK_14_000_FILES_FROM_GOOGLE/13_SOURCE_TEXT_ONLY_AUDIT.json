@@ -1,0 +1,95 @@
+{
+  "audit": "VIDEO005_STAGE13_NONRENDER_QC_20261015",
+  "no_media_generated": true,
+  "no_image_generation": true,
+  "source_origins": 13,
+  "authentic_asset_count": 37,
+  "asset_source_pairs": 46,
+  "primary_source_pairs_resolved": 37,
+  "all_source_and_png_hashes_valid": true,
+  "pdf_crop_text_boundary_review": 8,
+  "pdf_crop_stale_metadata_count": 37,
+  "copyright_rights_release": "HOLD_CASE_BY_CASE",
+  "final_frame_visual_qc": "NOT_RUN_PER_USER_NO_GENERATION",
+  "motion_render_qc": "NOT_RUN_PER_USER_NO_GENERATION",
+  "stage13_source_provenance": "COMPLETE",
+  "stage13_full_final_frame_release": "HOLD",
+  "flagged_source_pairs": [
+    {
+      "asset_id": "V005-VP008",
+      "source_id": "S003",
+      "boundary": [],
+      "left_near": [
+        "United",
+        "States",
+        "For",
+        "the",
+        "Northern"
+      ]
+    },
+    {
+      "asset_id": "V005-VP031",
+      "source_id": "S004",
+      "boundary": [],
+      "left_near": [
+        "District",
+        "Court",
+        "California"
+      ]
+    },
+    {
+      "asset_id": "V005-VP045",
+      "source_id": "S003",
+      "boundary": [],
+      "left_near": [
+        "Court"
+      ]
+    },
+    {
+      "asset_id": "V005-VP048",
+      "source_id": "S003",
+      "boundary": [],
+      "left_near": [
+        "Court"
+      ]
+    },
+    {
+      "asset_id": "V005-VP053",
+      "source_id": "S003",
+      "boundary": [],
+      "left_near": [
+        "United",
+        "States",
+        "For",
+        "the",
+        "Northern"
+      ]
+    },
+    {
+      "asset_id": "V005-VP058",
+      "source_id": "S031",
+      "boundary": [],
+      "left_near": [
+        "Court"
+      ]
+    },
+    {
+      "asset_id": "V005-VP061",
+      "source_id": "S031",
+      "boundary": [],
+      "left_near": [
+        "Court",
+        "California"
+      ]
+    },
+    {
+      "asset_id": "V005-VP064",
+      "source_id": "S031",
+      "boundary": [],
+      "left_near": [
+        "Court",
+        "California"
+      ]
+    }
+  ]
+}
