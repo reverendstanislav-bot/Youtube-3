@@ -1,0 +1,35 @@
+name: VIDEO005 Stage13 assemble original source plus 110 prompts package
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_stage13_deliver_sources_prompts.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  verify_and_package:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Verify 110 production prompts and 13 source families; ZIP untouched originals
+        run: python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/package_source_prompts.py
+      - name: Commit 110/110 coverage result only (not temporary ZIP)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_PRODUCTION_HANDOFF_ASSET_PACKAGE/PROMPT_INDEX_110.csv
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_PRODUCTION_HANDOFF_ASSET_PACKAGE/PROMPTS_110_COVERAGE_QC.json
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_PRODUCTION_HANDOFF_ASSET_PACKAGE/README_RU.txt
+          git commit -m "VIDEO005 Stage13 110 of 110 prompt coverage audit, context originals archived, GFX reference binary HOLD"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: VIDEO005_ALL_SOURCE_ORIGINALS_CONTEXT_AND_110_PROMPTS
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_PRODUCTION_HANDOFF_ASSET_PACKAGE/VIDEO005_PRODUCTION_SOURCES_AND_PROMPTS.zip
+          retention-days: 7
