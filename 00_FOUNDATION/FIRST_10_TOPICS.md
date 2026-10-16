@@ -114,7 +114,8 @@ Slots 7–10 remain editable; slot 06 is now owner-locked.
 
 **VIDEO_006 — Aristocrat / Light & Wonder**
 - Stage00 topic qualification **GO — 89.1/100**, owner-approved 2026-10-16.
-- Stage01 Evidence Research **NOT_STARTED** — next production step is first-party source, claims and legal-event ledgers.
+- Stage01 Evidence Research **PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS** — 16 source records, 40 claims and 26 dated events in VIDEO006, with legal source caveats.
+- Stage02 Case / Story Map **NOT_STARTED** — next production step on owner instruction.
 - 6–10 contiguous-derived Shorts to be planned later at Stage02, not prewritten now.
 - No paid generation, sound/image/video creation, or editing authorized by Stage00.
 - First five launch slots remain locked and unchanged.
