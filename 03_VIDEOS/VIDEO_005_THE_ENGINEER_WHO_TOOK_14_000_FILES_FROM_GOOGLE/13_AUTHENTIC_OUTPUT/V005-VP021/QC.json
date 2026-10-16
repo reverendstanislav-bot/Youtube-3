@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP021",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "449d3b7ad548d518e5fbeca9f0fc23ec76e379dcda399a321e49ede72a433de8",
+  "source_crop": "03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP021__S004.png",
+  "source_crop_sha256": "c2d83e63d5548094f6d983ea2bad031674692248cc9239d871acaa84e0091f52",
+  "anchor_phrase": "February 22, 2016",
+  "canon": "AUTH-03",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI"
+}

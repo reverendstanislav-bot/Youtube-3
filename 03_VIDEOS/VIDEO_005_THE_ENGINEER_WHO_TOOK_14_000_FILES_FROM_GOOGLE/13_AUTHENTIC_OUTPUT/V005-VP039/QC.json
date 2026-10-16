@@ -1,0 +1,19 @@
+{
+  "asset_id": "V005-VP039",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "ba427737e59aa0ec268fa4572ca913db846112420f82b7a41027cecb8a653afa",
+  "source_crop": "13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP031__S004.png",
+  "source_crop_sha256": "76de174989079f3131eae7aab8cdd2294059c23137d66d8a60dbb57bc1f94e52",
+  "anchor_phrase": "Stroz",
+  "canon": "AUTH-02",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI",
+  "revision": "R3_SEMANTIC_SOURCE_FIX",
+  "title_over_source_pixels": false,
+  "semantic_fix": "Uses authentic S004 due-diligence scope text; VP039 adds S008 record-incorporation text without claiming findings."
+}

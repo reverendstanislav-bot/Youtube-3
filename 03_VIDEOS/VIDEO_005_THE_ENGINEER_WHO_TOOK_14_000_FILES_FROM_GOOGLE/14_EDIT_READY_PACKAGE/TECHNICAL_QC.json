@@ -1,0 +1,17 @@
+{
+  "status": "PASS_FOR_EDIT",
+  "asset_count": 110,
+  "class_counts": {
+    "EDITOR_GRAPHIC": 60,
+    "AUTHENTIC_SOURCE": 37,
+    "LICENSED_OR_USABLE_CONTEXT": 3,
+    "GENERATED_ILLUSTRATION": 10
+  },
+  "dimensions": "110/110 1920x1080",
+  "decode": "110/110 PASS",
+  "hashes": "110/110 INDEX MATCH",
+  "timeline_continuity": "0-24876 continuous at 25fps",
+  "duration_seconds": 995.04,
+  "release_rights": "37 AUTHENTIC_SOURCE remain HOLD_CASE_BY_CASE",
+  "motion_qc": "PENDING_DAVINCI"
+}

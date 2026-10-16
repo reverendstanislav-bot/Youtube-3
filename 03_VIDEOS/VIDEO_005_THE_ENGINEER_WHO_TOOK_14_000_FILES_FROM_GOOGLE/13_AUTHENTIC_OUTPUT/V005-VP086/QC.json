@@ -1,0 +1,18 @@
+{
+  "asset_id": "V005-VP086",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "1d20f51e16b5ee7692684d668a37f519250e686d392cef41ba5d13f8583695bf",
+  "source_crop": "03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP086__S032.png",
+  "source_crop_sha256": "606087415805ff5a5b574bdf0ec458e27d880b63a06d717d4a98d61304ca1c04",
+  "anchor_phrase": "Indemnification Agreement",
+  "canon": "AUTH-02",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI",
+  "revision": "R2_LIGHT_QC_FIX",
+  "title_over_source_pixels": false
+}

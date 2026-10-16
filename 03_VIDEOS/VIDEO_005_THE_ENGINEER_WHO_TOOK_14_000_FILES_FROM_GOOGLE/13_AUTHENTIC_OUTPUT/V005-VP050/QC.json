@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP050",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "109e8346d9d25826189c02a8b47e1d379b5bbb4b44d6a0b1dccf68a4cad78c1e",
+  "source_crop": "03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP050__S001.png",
+  "source_crop_sha256": "dcc129e7c6b8be4815bfab9b2b03c9de3d62291f549c5994ecd0aaff3d4c8742",
+  "anchor_phrase": "WAYMO LLC",
+  "canon": "AUTH-01",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI"
+}

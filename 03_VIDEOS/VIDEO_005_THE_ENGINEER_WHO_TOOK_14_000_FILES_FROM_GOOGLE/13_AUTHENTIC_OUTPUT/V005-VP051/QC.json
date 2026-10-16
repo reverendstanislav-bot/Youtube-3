@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP051",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "b887f354ae548ef495b4ab0cb3660266a0dd8b0465a1a3bb9dcd8a5cd7801330",
+  "source_crop": "03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP051__S001.png",
+  "source_crop_sha256": "503eae4a00a191cdd90e9b5fe7b044d95936fd29a56ea3d41ea83b8d3904397e",
+  "anchor_phrase": "PATENT INFRINGEMENT",
+  "canon": "AUTH-02",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI"
+}

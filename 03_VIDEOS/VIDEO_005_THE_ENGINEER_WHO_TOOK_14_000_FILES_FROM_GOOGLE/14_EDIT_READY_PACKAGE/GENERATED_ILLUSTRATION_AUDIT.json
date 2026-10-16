@@ -1,0 +1,152 @@
+[
+  {
+    "asset_id": "V005-VP010",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP010/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP010/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 0.7446,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP012",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP012/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP012/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 0.8526,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP028",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP028/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP028/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.6528,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP032",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP032/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP032/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.5587,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP038",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP038/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP038/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.2495,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP043",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP043/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP043/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      940
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.3152,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP046",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP046/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP046/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.4227,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP076",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP076/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP076/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 2.4483,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP090",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP090/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP090/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.2791,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  },
+  {
+    "asset_id": "V005-VP100",
+    "original_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP100/GENERATED_ORIGINAL.png",
+    "master_path": "13_GENERATED_ILLUSTRATION_OUTPUT/V005-VP100/MASTER_1920x1080.png",
+    "original_size": [
+      1672,
+      941
+    ],
+    "master_size": [
+      1920,
+      1080
+    ],
+    "center_cover_mae": 1.2572,
+    "status": "PASS_RESIZE_CROP_ONLY_NO_ADDED_GFX"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP009",
+  "class": "LICENSED_OR_USABLE_CONTEXT",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "b8c70a8c509e54f5809170f6cbc894b7de5e64dcec91eae44b92e082dfb15802",
+  "source_original": "V005-VP009__CONTEXT_ARCHIVE_ORIGINAL.jpg",
+  "source_sha256": "b38fb02cef7efc45de20ab557d071a4010e83aee85d86cd0ea19e6c1a389c65e",
+  "license": "Public domain",
+  "creator": "Mike1024",
+  "factual_label": "ARCHIVAL SENSOR TESTING CONTEXT — TomTom mapping van, 2012, NOT GOOGLE / WAYMO",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "not_actual_event": true,
+  "motion_qc": "PENDING_DAVINCI"
+}

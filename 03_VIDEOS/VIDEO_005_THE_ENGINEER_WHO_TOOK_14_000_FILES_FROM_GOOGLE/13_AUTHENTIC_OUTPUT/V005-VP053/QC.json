@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP053",
+  "class": "AUTHENTIC_SOURCE",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "d1ce2438c6556fd695ccb7cf8da1b2e3a405b17c8a3665e95b3c0ca3bed98043",
+  "source_crop": "03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_REAL_ACQUISITION/native_crops/V005-VP053__S003.png",
+  "source_crop_sha256": "745e759ed4f032ff222dc4c21b71c7732abf3427295f6ca7259c983cbe683ba5",
+  "anchor_phrase": "GRANTED IN PART",
+  "canon": "AUTH-01",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "source_pixels_unchanged_inside_composite": true,
+  "rights_status": "CASE_BY_CASE_EDITORIAL_EXCEPTION_NOT_SIGNED_OFF",
+  "motion_qc": "PENDING_DAVINCI"
+}

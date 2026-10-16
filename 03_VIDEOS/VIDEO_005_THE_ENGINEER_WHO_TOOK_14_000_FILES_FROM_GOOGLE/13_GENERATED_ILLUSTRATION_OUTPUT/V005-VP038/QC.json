@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP038",
+  "class": "GENERATED_ILLUSTRATION",
+  "status": "PASS_FOR_EDIT",
+  "dimensions": "1920x1080",
+  "sha256": "041a935bccad07e05317fec3a1bbecf55239955b65e3ab9e185b5c93ae7b4202",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "generated_still_count": 1,
+  "script_beat_match": "PASS",
+  "visual_lock_match": "PASS",
+  "bottom_20_safe": "PASS",
+  "no_readable_fake_evidence": "PASS",
+  "not_authentic_evidence": true,
+  "editable_layers": false,
+  "motion_qc": "PENDING_DAVINCI"
+}

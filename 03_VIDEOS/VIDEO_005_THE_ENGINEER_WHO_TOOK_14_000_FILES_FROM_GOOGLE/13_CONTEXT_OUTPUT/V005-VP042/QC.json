@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP042",
+  "class": "LICENSED_OR_USABLE_CONTEXT",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "29a04ad41d55511fb24d8850cb0f82cae48e52863bb5b573cbbc8a2b8a5912f8",
+  "source_original": "V005-VP042__CONTEXT_ARCHIVE_ORIGINAL.jpg",
+  "source_sha256": "2e201a03b291dc32eaa3b47bbbd8d0c97b6f23573b72b709bf503c358be3eefe",
+  "license": "CC BY 2.0",
+  "creator": "Steve Jurvetson",
+  "factual_label": "ARCHIVAL AUTONOMOUS TEST VEHICLE — Ford 2015, NOT UBER 2016",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "not_actual_event": true,
+  "motion_qc": "PENDING_DAVINCI"
+}

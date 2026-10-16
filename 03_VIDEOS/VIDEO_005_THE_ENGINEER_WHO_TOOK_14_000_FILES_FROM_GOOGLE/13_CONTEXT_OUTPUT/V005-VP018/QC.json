@@ -1,0 +1,16 @@
+{
+  "asset_id": "V005-VP018",
+  "class": "LICENSED_OR_USABLE_CONTEXT",
+  "status": "PASS_PRODUCTION_STILL",
+  "dimensions": "1920x1080",
+  "sha256": "73ecf1b88ecbedfbdcf7283aa5f168852a268d5b18b2b32eb42da7a5d9a808d9",
+  "source_original": "V005-VP018__CONTEXT_ARCHIVE_ORIGINAL.jpg",
+  "source_sha256": "782515bafc69aef68dae632987a8de6c1fce2ced90867ca78bddb9ac92ff3f74",
+  "license": "CC BY 2.0",
+  "creator": "Oregon Department of Transportation",
+  "factual_label": "ARCHIVAL TRUCK-TECHNOLOGY CONTEXT — 2018 publicly displayed cab, NOT OTTO 2016",
+  "editable_layers": true,
+  "bottom_20_safe": true,
+  "not_actual_event": true,
+  "motion_qc": "PENDING_DAVINCI"
+}
