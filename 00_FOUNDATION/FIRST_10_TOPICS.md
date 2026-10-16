@@ -127,7 +127,7 @@ Slots 8–10 remain editable; slots 06–07 are owner-locked.
 
 **VIDEO_006 — Aristocrat / Light & Wonder**
 - Stage00 topic qualification **GO — 89.1/100**, owner-approved 2026-10-16.
-- Stage01 Evidence Research **CORE_PASS / LEGAL_AFTERLIFE_WARN-HOLD v2** — 20 source entries, 45 claims, 29 events; important April2026 separate AztecGold Dragon Train-related investor class action confirmed and tracked. The 2026 Aristocrat IP settlement is final as to those direct claims, not an end to every Dragon Train-related lawsuit.
+- Stage01 Evidence Research **PASS_VERIFIED_SCOPE_V3_EXCLUSIONS** — 23 sources, 50 claims, 31 events and 23 QA items. AztecGold original stamped April21 class summary found; issuer says April22. Narrate April2026; shareholder case separate from settled Aristocrat IP lawsuit. Unverified unit-removal totals excluded. See VIDEO006 `01_STAGE01_FINAL_REPAIR_V3_20261016.md`.
 - Stage02 Case / Story Map **NOT_STARTED** — next production step on owner instruction.
 - 6–10 contiguous-derived Shorts to be planned later at Stage02, not prewritten now.
 - No paid generation, sound/image/video creation, or editing authorized by Stage00.
