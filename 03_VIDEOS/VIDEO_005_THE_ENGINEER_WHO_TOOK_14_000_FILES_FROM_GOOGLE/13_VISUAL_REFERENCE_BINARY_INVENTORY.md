@@ -21,3 +21,12 @@ These three were referenced in earlier owner-approved conversation; filenames an
 | C — Evidence flow | `how_the_files_moved.png` | `292f1128e331d629c39862d9a042106881ed2fe7d76b31ff677bef45a4099c71` | **HOLD** |
 
 **Reference handling and guardrails:** never copy simulated document pixels from either design group; use original S001–S033 source archive. No new AI generation, no invented GFX ref as a substitute, no falsely dated brand footage. Editorial clips are not final released frames.
+
+
+## NEW 2026-10-16 owner-approved EDITOR GFX A / B / C reference replacements
+
+- A / V005-VP017: `EDITOR_GFX_A_OTTO_TIMELINE_APPROVED.png`; 1672×941; SHA256 `49b5cf1aea5dfbb8a59369fdd3cacd217c6db4693ca0ea0617af178a5dfe8c50`; **PASS_OWNER_STYLE**; GitHub image binary **HOLD**.
+- C / V005-VP015: `EDITOR_GFX_C_COPY_NOT_USE_APPROVED.png`; 1672×941; SHA256 `fa0fe0eba73e7a6bf0e34275c36f1543719b1099ed937a83fe34565449e04bad`; **PASS_OWNER_STYLE**; GitHub image binary **HOLD**.
+- B / V005-VP025: `EDITOR_GFX_B_VALUE_CASH_NO_MARKER_APPROVED.png`; 1920×1080; SHA256 `e284a7829bf3d91e35ce15bd957a846febea42ceec8c4872d1d4425574ec144d`; **PASS_OWNER_STYLE**; GitHub image binary **HOLD**.
+
+These replace the *historically missing* A/B/C designs **as owner-approved new style references**, not as court-source pixels. See `13_EDITOR_GFX_APPROVED_REPLACEMENTS_20261016.md`.

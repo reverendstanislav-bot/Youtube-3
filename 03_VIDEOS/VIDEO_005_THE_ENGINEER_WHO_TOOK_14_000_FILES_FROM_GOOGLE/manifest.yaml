@@ -8,8 +8,8 @@ status: "IN_PREPARATION"
 created: "2026-10-13"
 last_updated: "2026-10-15"
 current_stage: "13_VISUAL_ASSET_QC_SOURCE_PREPRODUCTION"
-next_action: "VIDEO005 110/110 production briefs QC PASS; authentic documentary originals 13/13 and 37 source crops, CONTEXT original CC/PD photographs 3/3 acquired/archived in GitHub. AUTH style reference binaries 3/3 verified in chat ZIP; EDITOR GFX approved style reference binaries 0/3 physically accessible (owner historical ZIP required). Final rendered frames 0/110. OWNER NO IMAGE GENERATION order preserved. Read 13_INPUT_COMPLETENESS_QC.md before media production."
-blockers: ["USER NO-GENERATION ORDER: 3 AUTHENTIC control final frame revisions and remaining 34 AUTHENTIC final composited frames NOT_AUTHORIZED; approved concept canon does not release real frames", "Eight native source-crop left-margin/header context flags require final frame readability check (VP008 VP031 VP045 VP048 VP053 VP058 VP061 VP064); 37 pre-recrop extracted_text metadata fields repaired from actual archived native PDF rectangles, no PNG/PDF changed", "Actual final picture duration/rights/use clearance and DaVinci read-hold/motion QC NOT_RUN; rights classification complete only", "Stage13 editor-native 60 final graphics and 3 final context COMPOSITED FRAMES NOT_CREATED; all 3 original context photographs archived, license attribution instructions available; 3 previously approved EDITOR GFX STYLE REFERENCE PNG BINARIES STILL MISSING", "Stage13 10 generated illustration prompts PREPARED but no budget/user approval; 0 submitted", "Four Shorts export and caption/readability QC remain for Stage15", "Stage16 prepublication legal/fact refresh pending"]
+next_action: "3 NEW EDITOR GFX STYLE REFERENCES A/C/B approved by owner, exact PNG hashes verified in chat; GitHub binary archive remains pending. Approved reference QC=3/3, NOT final frames. Do not advance production or generate extra media automatically."
+blockers: ["USER NO-GENERATION ORDER: 3 AUTHENTIC control final frame revisions and remaining 34 AUTHENTIC final composited frames NOT_AUTHORIZED; approved concept canon does not release real frames", "Eight native source-crop left-margin/header context flags require final frame readability check (VP008 VP031 VP045 VP048 VP053 VP058 VP061 VP064); 37 pre-recrop extracted_text metadata fields repaired from actual archived native PDF rectangles, no PNG/PDF changed", "Actual final picture duration/rights/use clearance and DaVinci read-hold/motion QC NOT_RUN; rights classification complete only", "Stage13 editor-native 60 final graphics and 3 final context COMPOSITED FRAMES NOT_CREATED; all 3 original context photographs archived, license attribution instructions available; 3 NEW APPROVED EDITOR GFX PNG BINARIES EXIST IN CHAT BUT GITHUB BINARY ARCHIVE PENDING", "Stage13 10 generated illustration prompts PREPARED but no budget/user approval; 0 submitted", "Four Shorts export and caption/readability QC remain for Stage15", "Stage16 prepublication legal/fact refresh pending"]
 
 stages:
   stage_00_topic_qualification: "PASS"
@@ -25,7 +25,7 @@ stages:
   stage_10_audio_master: "PASS_MASTER_PCM16_48KHZ_995_03S"
   stage_11_transcript_visual_timeline: "PASS_STRUCTURAL_55_SCENES_110_VISUAL_PLACEMENTS_ASR_WORD_TIMINGS_PROVISIONAL"
   stage_12_visual_source_generation_plan: "PASS_PLAN_110_OF_110_60_GFX_37_AUTHENTIC_3_CONTEXT_10_UNSUBMITTED_STILLS_0_RECONSTRUCTIONS"
-  stage_13_visual_asset_qc: "PARTIAL_SOURCE_13_13_ORIGINALS_37_37_NATIVE_CROP_HASH_PASS_NONGENERATIVE_HANDOFF_READY_FINAL_FRAMES_NOT_AUTHORIZED"
+  stage_13_visual_asset_qc: "PARTIAL_STYLE_REFERENCE_QC_PASS_3_OF_3_GITHUB_BINARY_ARCHIVE_PENDING_FINAL_FRAMES_NOT_APPROVED"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
