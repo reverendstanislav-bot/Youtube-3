@@ -1,0 +1,23 @@
+{
+  "video": "005",
+  "date": "2026-10-16",
+  "count": 37,
+  "reference_asset_class": "AUTHENTIC_SOURCE",
+  "output_type": "SELF_CONTAINED_EDITABLE_SVG",
+  "frame_width": 1920,
+  "frame_height": 1080,
+  "expected_native_source_excerpts": 46,
+  "downloadable_png_count": 0,
+  "authentic_source_pixels": "ORIGINAL_PNG_BASE64_EMBEDDED",
+  "style_families": {
+    "AUTH01": 13,
+    "AUTH02": 12,
+    "AUTH03": 12
+  },
+  "owner_final_creative_accept": "PENDING",
+  "legal_source_text_and_composite_QC": "PENDING",
+  "editorial_rights": "HOLD",
+  "caption_safe_y": 865,
+  "rendering_method": "cairosvg_or_inkscape",
+  "factual_notes": "Do not conflate 2018 settlement, 2020 personal judgment, 2022 sealed payment and 2025 gross-income decision."
+}
