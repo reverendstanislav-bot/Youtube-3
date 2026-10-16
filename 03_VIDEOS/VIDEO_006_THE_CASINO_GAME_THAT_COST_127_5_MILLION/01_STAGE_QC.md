@@ -1,4 +1,6 @@
-# VIDEO006 — Stage 01 Evidence Research QC
+# VIDEO006 — Stage 01 Evidence Research QC (HISTORICAL V1)
+
+> **V3 SOURCE-OF-TRUTH (2026-10-16):** This file's old stage verdict is superseded by [01_STAGE01_FINAL_REPAIR_V3_20261016.md](01_STAGE01_FINAL_REPAIR_V3_20261016.md). Current production disposition: **Stage01 PASS FOR VERIFIED, LIMITED CLAIM SCOPE**, not a complete court-docket/asset-rights PASS. **23 source entries, 50 claims, 31 events, 23 QA issues**. C034 removal totals excluded from narration. Australian Feb2025 outcome corrected, ECF206/220 reproduced in ECF319, original stamped AztecGold plaintiff summary S023 recovered, April21/22 filing dates distinguished. Stage16 exact case status and rights refresh still mandatory.
 **Date:** 2026-10-16
 **RE-AUDIT NOTICE (2026-10-16): prior verdict below is SUPERSEDED by `01_INDEPENDENT_REAUDIT_V2_20261016.md`. Current authoritative verdict: **CORE STORY PASS / LEGAL AFTERLIFE WARN-HOLD**. Research initially omitted a separate Apr22 2026 Dragon Train-related shareholder class action and included unsupported precise dates. Do not claim all related legal consequences ended. Updated source/claim/event totals are **20 / 45 / 29**, 17 tracked QA issues.**
 

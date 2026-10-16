@@ -1,26 +1,24 @@
-# VIDEO 006 — Current State (2026-10-16 independent Stage01 re-audit)
-**The Casino Game That Cost $127.5 Million** | Aristocrat / Light & Wonder / T010
+# VIDEO006 — State: Stage01 Final Source Repair v3 (2026-10-16)
+**The Casino Game That Cost $127.5 Million** | Topic T010 | Aristocrat vs Light & Wonder.
 
-- Stage00 Topic Qualification: **GO** (owner topic lock unchanged).
-- Stage01 Evidence Research: **CORE STORY PASS / LEGAL AFTERLIFE WARN-HOLD v2**, after independently rechecking court, SEC, ASX and issuer documents.
-- Stage02 Case/Story Map: **NOT_STARTED** (can plan documented core, but only a bounded, attributed coda about shareholder proceedings; owner has not asked to start).
-- Stages03–19 NOT_STARTED. No paid generations/video/audio/image credits spent.
+**Stage00 GO / owner topic lock.**
+**Stage01 PASS_VERIFIED_SCOPE_V3_EXCLUSIONS** — the *narratable verified* facts now support writing a case/story map. This is NOT a clean bill for unretrieved documents, total worldwide machine-removal counts, licensing or changing court status.
+**Stage02 NOT_STARTED.** No script/voice/images/video/paid generations authorized or created.
 
-## Source of truth — v2 supersedes original Stage01
-- `01_INDEPENDENT_REAUDIT_V2_20261016.md` independent findings and 45-claim coverage matrix. **READ FIRST.**
-- `SOURCE_INDEX.csv`: **20** records; S017 SEC August4 2026 10-Q; S018 ASX April23 2026 corporate announcement; S019 original August2023 manufacturer expo launch; S020 secondary mirror of Australian 2025 order.
-- `CLAIMS_LEDGER.csv`: **45** traced claims (C001–C045), C034 on worldwide actual removal count remains HOLD.
-- `CASE_EVENT_LEDGER.csv`: **29** events (E001–E029), corrected 2021-late Dragon Train start, SEC May6 Q1 filing date, SEC Apr30 ARS issuer date; 2026 class action three distinct entries.
-- `QA_LEDGER.csv`: **17** tracked risk/correction issues; Q011 covers missed 2026 investor class action.
-- `01_DEEP_RESEARCH.md` and `01_STAGE_QC.md` original reports retain context but are superseded where inconsistent.
+## Source-of-truth ordering — MUST use the newest v3
+1. `01_STAGE01_FINAL_REPAIR_V3_20261016.md`: controlling corrections, claims, timeline, holds and narrowed outcome.
+2. `01_SCRIPT_LEGAL_SAFETY_LOCK.md`: binding correct and forbidden on-screen/VO assertions, including all timestamp disputes.
+3. `SOURCE_INDEX.csv`: **23** first-party/court and clearly labeled republication entries (S001–S023).
+4. `CLAIMS_LEDGER.csv`: **50** indexed claims (C001–C050). C034 global installed-unit total = UNVERIFIED_EXCLUDED_FROM_NARRATION.
+5. `CASE_EVENT_LEDGER.csv`: **31** dated/approximate events (E001–E031).
+6. `QA_LEDGER.csv`: **23** verified QA issues (Q001–Q023), with unresolved downstream tasks.
+7. Historical `01_DEEP_RESEARCH.md`, `01_INDEPENDENT_REAUDIT_V2_20261016.md`, `01_STAGE_QC.md` are superseded where inconsistent.
 
-## Hard-fact locks
-2026 USD127.5m **PAID settlement** with Aristocrat; permanent noncommercialization of Dragon Train + Jewel of the Dragon under **contract**; court temporary injunctions **VACATED**. Judicial 2024 math spreadsheet findings **PRELIMINARY**, not jury award. 2025 FY accounting expense (~USD128m) not a second sum to add. May2026 issuer reports direct Australian Aristocrat claims against specified entities dismissed March11.
+## Legal facts locked
+USD127.5m **paid** settlement, not jury award; mathematical information Aristocrat CONTENDS proprietary/confidential used in both L&W game families; permanent **contractual** game commercialization cessation; US preliminary court bans VACATED on dismissal. 2024 US spreadsheet findings = PRELIMINARY. Australia in Feb2025 **refused additional mandatory orders**, with L&W undertakings already extending core US restraints, NOT a legal clearance. Australia direct Aristocrat claims dismissed against named L&W parties Mar11 2026 according to issuer SEC; do not generalize to every named party.
 
-## New mandatory legal afterlife
-Separate **AztecGold Holdings Pty Ltd v L&W** Australian shareholder class case filed **April22 2026**, relating to allegedly unsupported statements about Dragon Train. L&W disclosed it April23 via ASX and August4 in Q2 SEC 10-Q; as of that filing matter not resolved, L&W contests. **Do not say ALL Dragon Train legal litigation/financial consequences ended.** Obtain originating Victoria pleading and latest court status before Stage16 release; this is **not the already-settled Aristocrat trade-secret claim**. No additional financial loss amount known.
+### Afterlife — separate case
+AztecGold Holdings v L&W shareholder case **S ECI 2026 02374**: original court-stamped **plaintiff Group Proceeding Summary Statement S023 filed April21 2026**, issuer SEC says shareholder action brought **April22**; spoken date **“April 2026.”** Exact allegations about Dragon Train investor disclosures from plaintiff summary, contesting defense from L&W, no adjudication or quantifiable damages. Latest directly read company quarterly status **August4 2026**, and the plaintiff legal firm displays the action; exact post-Aug court procedural status still unverified. This suit is not the settled Aristocrat corporate IP case.
 
-## Gates and remaining holds
-Original US ECF206 and ECF265 only indirectly verified from signed ECF344; original Mar11 Australia court document not secured; Feb6/7 Australia provisional order date discrepancy; exact number physically removed unknown; raw protected spreadsheet source not to be fabricated. Audio script and video sources not created. Licensing and Stage16 fresh legal QC compulsory.
-
-**Next owner-authorized stage:** 02 Case/Story Map, not yet started. Stage02 may proceed on 45-claim core with named open caveats, not retroactively convert historical v1 pass into no-reservations full research approval.
+## Next authorized step
+Stage02 Case/Story Map (ONLY when owner commands). Use approved facts and 6-10 prospective story-native contiguous Shorts. No statement with unverified C034 numbers. Before release Stage16 must refresh latest court and issuer status and rights. Paid media always owner-gated.

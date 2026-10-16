@@ -1,4 +1,6 @@
-# VIDEO 006 — Stage 01 Deep Evidence Research / v1
+# VIDEO 006 — Stage 01 Deep Evidence Research / v1 (ARCHIVED CONTEXT)
+
+> **FINAL V3 REPAIR — 2026-10-16:** The authoritative Stage01 disposition and production-safe facts are in [01_STAGE01_FINAL_REPAIR_V3_20261016.md](01_STAGE01_FINAL_REPAIR_V3_20261016.md), followed by [01_SCRIPT_LEGAL_SAFETY_LOCK.md](01_SCRIPT_LEGAL_SAFETY_LOCK.md). Current truth inventory: **23 source entries, 50 claims, 31 events, 23 QA issues**. This older text is retained solely for context; v3 supersedes all inaccurate or stale wording below.
 **Case:** Aristocrat Technologies / Aristocrat Leisure v Light & Wonder / LNW Gaming / SciPlay; “The Casino Game That Cost $127.5 Million”
 **INDEPENDENT RE-AUDIT V2 NOTICE (2026-10-16): this historical v1 write-up is SUPERSEDED wherever inconsistent with `01_INDEPENDENT_REAUDIT_V2_20261016.md`. The independent re-audit identified a separate Apr22 2026 Dragon Train-related AztecGold shareholder class action, SEC/chronology date errors and new official primary records; current ledgers have 20 sources, 45 claims, 29 events. Full legal aftermath is WARN-HOLD; core trade-secret-settlement narrative PASS with exact qualifications.**
 
@@ -50,7 +52,7 @@ These are electronic casino slot games with themed audiovisual presentation, spi
 - **Sep 20 / Sep 23 2024** — written preliminary opinion filed Sept20; court clarification says operative Sept23; Dragon Train commercialization restricted. [S001,S003]
 - **Sep 27 2024** — Court clarifies October23 installation compliance certification deadline. Does not verify universal world unit removal. [S003]
 - **Oct 4 2024** — Australian substantive litigation. [S008]
-- **Feb 6 2025** — Australian interlocutory injunction denied, illustrating US/AU courts did not reach the same interim remedy. The issuer reports this procedural date, not a permanent rejection of Aristocrat's underlying claim. [S008]
+- **February 2025** — Federal Court of Australia refused EXTRA MANDATORY withdrawal/notification interim orders after Light & Wonder undertook to apply core U.S. confidentiality/commercialization restrictions in Australia. This was NOT exoneration; judgment [2025] FCA64 is dated Feb7 in a published reproduction, while L&W's SEC retrospective says Feb6. [S020,S008] [S008]
 - **Mar 14 2025** — second amended US complaint (operative). [S007; direct filing S013 outstanding]
 - **Jul 17 2025** — parties' stipulated extension of provisional injunction to Jewel of the Dragon. [S007; ECF265 S012 outstanding]
 - **Oct 17 2025** — further US discovery concerning math models for certain other hold-and-spin games. [S008]
@@ -84,7 +86,7 @@ All dated entries tracked individually E001–E026.
 
 **2026 agreement:** L&W acknowledged *certain* Aristocrat math info used with both families and agreed to permanent product commercialization restrictions, information deletion and compensation; its CEO offered former-employee explanation. The matter did not proceed to a full jury damages verdict. Temporary judicial restrictions were VACATED with case dismissal, yet contractual restrictions remain. [S006,S007]
 
-**Australia:** Unlike the Nevada court, Australian court declined interlocutory relief in Feb2025, before settlement; L&W's public SEC later reports dismissal of Aristocrat's claims against specified L&W defendants Mar11 2026. Distinguish country, case number, and parties. [S008]
+**Australia:** Unlike the Nevada court, Australian court in February 2025 refused additional mandatory interim orders after existing L&W undertakings, before settlement; L&W's public SEC later reports dismissal of Aristocrat's claims against specified L&W defendants Mar11 2026. Distinguish country, case number, and parties. [S008]
 
 ## 8. Story opportunities for Stage02 (not yet a locked story map)
 **Best opening:** paid $127.5m and two game families retired worldwide; then a tiny graphical Excel cell border in the judge's reasoning. Audience question: why can math, something invisible to casino customers, have a nine-figure legal consequence?
@@ -114,4 +116,4 @@ SOURCE-FIDELITY: public signed ECF125 and ECF344 PDF mirrors, ECF65 and ECF136, 
 - **G01-REFRESH-007:** Reread original current filings before Stage16 release; Oct2026 continuing confidential other-title arbitration outcomes not public to this review.
 
 ## 11. Research conclusion
-**PRIMARY CASE NARRATIVE SUPPORTED:** $127.5m paid, two affected game families, original math evidence, interim rulings, company response, both country-specific terminations. Stage01 factual foundation can pass for **bounded narration**: all significant hooks must be traceable to C001–C040; any claim relying on an outstanding gap may not be asserted or illustrated as verified evidence. Formal gate is in `01_STAGE_QC.md`.
+**PRIMARY CASE NARRATIVE SUPPORTED:** $127.5m paid, two affected game families, original math evidence, interim rulings, company response, both country-specific terminations. Stage01 factual foundation can pass for **bounded narration**: all significant hooks must be traceable to current C001–C050; v3 script safety lock governs exclusions; any claim relying on an outstanding gap may not be asserted or illustrated as verified evidence. Formal gate is in `01_STAGE_QC.md`.
