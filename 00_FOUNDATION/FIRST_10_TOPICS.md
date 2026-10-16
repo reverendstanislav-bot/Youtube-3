@@ -1,14 +1,14 @@
 # First 10 Topics Lock
 
-Status: **PARTIALLY LOCKED — FIRST 6 OWNER-LOCKED / 7–10 PENDING REVIEW**
+Status: **PARTIALLY LOCKED — FIRST 7 OWNER-LOCKED / 8–10 PENDING REVIEW**
 
 Updated on: 2026-10-16
 
 This file is the canonical launch-slate record for WHAT IT COST.
 
 Important:
-- Slots 1–6 are owner-approved and locked (initial Launch 5 unchanged; VIDEO006 newly owner-approved).
-- Slots 7–10 are not final yet.
+- Slots 1–7 are owner-approved and locked (initial Launch 5 unchanged; VIDEO006 and VIDEO007 owner-approved).
+- Slots 8–10 are not final yet.
 - Every topic still has to pass Stage 00 before package creation. T007 and T008 have passed.
 - VIDEO_001 exists because T007 passed Stage 00.
 - VIDEO_002 exists because T008 passed Stage 00 on 2026-09-25 (GO — 93/100).
@@ -79,7 +79,15 @@ Guardrail:
 
 **Legal lock:** USD $127.5M is settlement compensation confirmed paid in US court filing; not jury damages or criminal fine. The settlement stops commercialization of both Dragon Train and Jewel of the Dragon; September 2024 / July 2025 preliminary injunctions were vacated when the US case was dismissed February 2026. Australian case status needs separate Stage01 review.
 
-## Slots 7–10 — not yet locked
+## Owner-locked slot 07
+
+| # | Topic ID | Companies | Working angle | Pillar | Status |
+|---|---|---|---|---|---|
+| 07 | T011 | Apple / OpenAI | **Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.** | TRADE_SECRETS_AI_HARDWARE | OWNER_LOCKED / STAGE00 GO / STAGE01 NOT_STARTED |
+
+**Legal lock:** Apple complaint July 10 ECF1; judge's limited expedited discovery Oct13 ECF175; OpenAI Oct14 case management supplement ECF176 alleges 100+ confidential file transfers by a former employee returning to Apple. ECF176 mentions *potential* counterclaims; **no actual counterclaim in ECF176**. No proven theft, judgment or dollar loss. Stage01 source research still required.
+
+## Slots 8–10 — not yet locked
 
 Current second-wave candidate pool:
 - T003 — Suno;
@@ -108,9 +116,14 @@ It can return later if:
 
 Launch 5 membership and order are locked until the owner explicitly changes them.
 
-Slots 7–10 remain editable; slot 06 is now owner-locked.
+Slots 8–10 remain editable; slots 06–07 are owner-locked.
 
-## Next gate
+## Active next gate (VIDEO007)
+
+- **Stage00 owner topic lock PASS/GO; Stage01 Evidence Research NOT_STARTED**.
+- No paid generation authorized; prior videos unchanged.
+
+## Prior VIDEO006 next gate
 
 **VIDEO_006 — Aristocrat / Light & Wonder**
 - Stage00 topic qualification **GO — 89.1/100**, owner-approved 2026-10-16.
