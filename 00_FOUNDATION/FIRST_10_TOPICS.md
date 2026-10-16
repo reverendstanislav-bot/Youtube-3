@@ -1,14 +1,14 @@
 # First 10 Topics Lock
 
-Status: **PARTIALLY LOCKED — FIRST 5 LOCKED / 6–10 PENDING REVIEW**
+Status: **PARTIALLY LOCKED — FIRST 6 OWNER-LOCKED / 7–10 PENDING REVIEW**
 
-Updated on: 2026-09-20
+Updated on: 2026-10-16
 
 This file is the canonical launch-slate record for WHAT IT COST.
 
 Important:
-- Slots 1–5 are owner-approved and locked.
-- Slots 6–10 are not final yet.
+- Slots 1–6 are owner-approved and locked (initial Launch 5 unchanged; VIDEO006 newly owner-approved).
+- Slots 7–10 are not final yet.
 - Every topic still has to pass Stage 00 before package creation. T007 and T008 have passed.
 - VIDEO_001 exists because T007 passed Stage 00.
 - VIDEO_002 exists because T008 passed Stage 00 on 2026-09-25 (GO — 93/100).
@@ -71,13 +71,21 @@ Launch role:
 Guardrail:
 - distinguish Levandowski's admitted conduct from separate allegations concerning Uber.
 
-## Slots 6–10 — not yet locked
+## Owner-locked slot 06
+
+| # | Topic ID | Company / Creator | Working angle | Pillar | Status |
+|---|---|---|---|---|---|
+| 06 | T010 | Aristocrat / Light & Wonder | **The Casino Game That Cost $127.5 Million** | TRADE_SECRETS_IP | OWNER_LOCKED / STAGE00 GO (89.1/100) |
+
+**Legal lock:** USD $127.5M is settlement compensation confirmed paid in US court filing; not jury damages or criminal fine. The settlement stops commercialization of both Dragon Train and Jewel of the Dragon; September 2024 / July 2025 preliminary injunctions were vacated when the US case was dismissed February 2026. Australian case status needs separate Stage01 review.
+
+## Slots 7–10 — not yet locked
 
 Current second-wave candidate pool:
 - T003 — Suno;
 - T009 — VideoVerse / Minute Media;
 - T002 — NautiStyles / Bering Yachts;
-- T010 — Aristocrat / Light & Wonder;
+- T010 — Aristocrat / Light & Wonder (LOCKED VIDEO006; removed from unassigned candidate pool);
 - additional topic(s) to be selected after Launch 5 is underway.
 
 These candidates are not guaranteed slots.
@@ -100,27 +108,13 @@ It can return later if:
 
 Launch 5 membership and order are locked until the owner explicitly changes them.
 
-Slots 6–10 remain editable.
+Slots 7–10 remain editable; slot 06 is now owner-locked.
 
 ## Next gate
 
-**VIDEO_003 — UMG / DistroKid**
-
-Stage 00 result: **GO — 88.5/100**  
-Stage 01 result: **PASS**  
-Stage 02 result: **PASS / 8 SHORTS UNITS LOCKED**  
-Stage 03 result: **PASS / SCRIPT V1 READY FOR FACT-LEGAL REVIEW**  
-Stage 04 result: **PASS WITH REQUIRED EDITS**  
-Stage 05 result: **PASS / SCRIPT V2 — 5/5 FIXES APPLIED / 8 SHORTS PASS**  
-Stage 06 result: **PASS — 88/100 / HARRISON RUNTIME TRIM REQUIRED**  
-Stage 07 result: **PASS / CANONICAL R3 — 2,391 SPOKEN TOKENS / FIRST-MINUTE RETENTION POLISH / 98/100 / 8 SHORTS LOCKED**  
-Stage 08 result: **PASS — EXACT HARRISON INPUT / 4 JOBS / 15,475 CHARS / LIVE QUOTE 46.65 CREDITS / 0 SPENT**  
-Stage 09 result: **PASS — 4/4 EXACT QA / 4/4 HARRISON SOURCE JOBS COMPLETE / 46.65 CREDITS / 0 RETRIES / 16:26 RAW**  
-Stage 10 result: **PASS / AUDIO MASTER LOCKED — 16:28.291 / 44.1 KHZ MONO / 192 KBPS / ASR QC PASS**  
-Stage 11 result: **PASS / LOCKED — 2,391/2,391 SPOKEN TOKENS TIMED / 120 VISUAL BEATS / 8/8 SHORTS TIMED**  
-Stage 12 result: **PASS / R2 CORRECTED CANONICAL — 120/120 SOURCE-GROUNDED FINAL-FRAME TARGETS / 120 LOCKED HEADLINES / 1–3 AUTHENTIC REFS EACH / 60.0 CREDITS BASE / 0 SPENT**
-
-Next action:
-Begin Stage 13 source-prep + pre-generation QC for the 120 unified final-frame targets only on explicit owner instruction; paid generation remains blocked.
-
-Voice remains channel-locked; no TTS/audio/image/video generation is authorized at this stage.
+**VIDEO_006 — Aristocrat / Light & Wonder**
+- Stage00 topic qualification **GO — 89.1/100**, owner-approved 2026-10-16.
+- Stage01 Evidence Research **NOT_STARTED** — next production step is first-party source, claims and legal-event ledgers.
+- 6–10 contiguous-derived Shorts to be planned later at Stage02, not prewritten now.
+- No paid generation, sound/image/video creation, or editing authorized by Stage00.
+- First five launch slots remain locked and unchanged.
