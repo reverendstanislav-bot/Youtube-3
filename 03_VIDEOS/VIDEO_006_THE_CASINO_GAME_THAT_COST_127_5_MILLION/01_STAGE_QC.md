@@ -1,6 +1,8 @@
 # VIDEO006 — Stage 01 Evidence Research QC
 **Date:** 2026-10-16
-**Verdict:** **PASS — BOUNDED PRIMARY EVIDENCE**, with exact nonblocking claim exclusions / downstream tasks. **Not a claim that every original exhibit, Australian docket or license was obtained.**
+**RE-AUDIT NOTICE (2026-10-16): prior verdict below is SUPERSEDED by `01_INDEPENDENT_REAUDIT_V2_20261016.md`. Current authoritative verdict: **CORE STORY PASS / LEGAL AFTERLIFE WARN-HOLD**. Research initially omitted a separate Apr22 2026 Dragon Train-related shareholder class action and included unsupported precise dates. Do not claim all related legal consequences ended. Updated source/claim/event totals are **20 / 45 / 29**, 17 tracked QA issues.**
+
+**Historical v1 verdict (superseded):** PASS — BOUNDED PRIMARY EVIDENCE. Do not use as final gate without v2 addendum.
 
 ## Coverage / machine checks
 - **16 indexed source entries**: courts, SEC, ASX, joint parties, public mirrors. Three US pleadings/procedural documents S012–S014 are **indirect court references**, not read originals. S015 is an Australian court order referenced in a live **issuer SEC disclosure**, not original AU order directly read. Several sources repeat the same corporate statement through different authoritative hosts.
