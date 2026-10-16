@@ -2,11 +2,17 @@
   "asset_id": "V005-VP020",
   "scene_id": "SC010",
   "canon": "B",
-  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "status": "SCRIPT_AUDIO_CANON_QC_PASS_R1",
+  "revision": "R1",
   "generator": "OPENAI_BUILTIN_IMAGEGEN",
   "dimensions": "1920x1080",
   "sha256": "18fdcc52f636676f3768213954600e8029a5b8d2a7280b105c5ee1fa3539d1a4",
   "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "timeline": {
+    "start_sec": 182.68,
+    "end_sec": 192.16,
+    "audio_map": "CHUNK_01 182.68-192.12s; CHUNK_02 0.00-0.04s"
+  },
   "legal_guardrail": "Do not reveal $100k amount before later narration",
   "source_ids": [
     "S007",
@@ -16,13 +22,28 @@
   "technical_checks": {
     "id_present": true,
     "dimensions_ok": true,
-    "png_decode_ok": true
+    "png_decode_ok": true,
+    "sha256_recorded": true
   },
   "creative_checks": {
-    "composition": "OWNER_QC_PENDING",
-    "text": "OWNER_QC_PENDING",
-    "legal_fact_check": "OWNER_QC_PENDING"
+    "script_and_audio_beat": "PASS",
+    "canon_A_B_C": "PASS",
+    "legal_guardrail": "PASS",
+    "composition_diversity": "PASS",
+    "bottom_20_percent_safe": "PASS",
+    "authentic_evidence_representation": "PASS_AS_EDITORIAL_ILLUSTRATION_ONLY"
   },
+  "initial_review": {
+    "status": "PASS",
+    "reason": "No blocking mismatch in first full review."
+  },
+  "final_review": {
+    "status": "PASS",
+    "note": "Original frame retained after full review."
+  },
+  "canon_reference_binary_verified": false,
+  "canon_lock_text_verified": true,
   "editable_layers": false,
-  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+  "owner_qc": "PENDING",
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened editor candidate. Owner and DaVinci motion/readability QC pending."
 }

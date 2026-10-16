@@ -2,11 +2,17 @@
   "asset_id": "V005-VP019",
   "scene_id": "SC010",
   "canon": "B",
-  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "status": "SCRIPT_AUDIO_CANON_QC_PASS_R2",
+  "revision": "R2",
   "generator": "OPENAI_BUILTIN_IMAGEGEN",
   "dimensions": "1920x1080",
-  "sha256": "ade99f9fc3c6bc8afec1fd4fe5fb04792c0afae98a2f2176b0038254e9edc457",
+  "sha256": "6fb23006c715c9e05cc1204feca7e15bd0b9316a6d8143276231a465c8c7ab7e",
   "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "timeline": {
+    "start_sec": 176.36,
+    "end_sec": 182.68,
+    "audio_map": "CHUNK_01 176.36-182.68s"
+  },
   "legal_guardrail": "UP TO $680m conditional, not actual cash",
   "source_ids": [
     "S007",
@@ -16,13 +22,28 @@
   "technical_checks": {
     "id_present": true,
     "dimensions_ok": true,
-    "png_decode_ok": true
+    "png_decode_ok": true,
+    "sha256_recorded": true
   },
   "creative_checks": {
-    "composition": "OWNER_QC_PENDING",
-    "text": "OWNER_QC_PENDING",
-    "legal_fact_check": "OWNER_QC_PENDING"
+    "script_and_audio_beat": "PASS",
+    "canon_A_B_C": "PASS",
+    "legal_guardrail": "PASS",
+    "composition_diversity": "PASS",
+    "bottom_20_percent_safe": "PASS",
+    "authentic_evidence_representation": "PASS_AS_EDITORIAL_ILLUSTRATION_ONLY"
   },
+  "initial_review": {
+    "status": "FAIL",
+    "reason": "Important conditional-payment qualifier crossed the bottom 20% safe zone."
+  },
+  "final_review": {
+    "status": "PASS",
+    "note": "UP TO ~$680M and CONDITIONAL - NOT ACTUAL CASH PAID are entirely above the safe zone."
+  },
+  "canon_reference_binary_verified": false,
+  "canon_lock_text_verified": true,
   "editable_layers": false,
-  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+  "owner_qc": "PENDING",
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened editor candidate. Owner and DaVinci motion/readability QC pending."
 }

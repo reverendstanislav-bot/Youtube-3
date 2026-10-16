@@ -1,13 +1,11 @@
-# VIDEO005 — Stage12 Visual Source / Generation Plan PASS (2026-10-14)
+﻿# VIDEO005 - Stage13 Editor GFX still QC PASS (2026-10-15)
 
-**G12 COMPLETE:** Every one of 55 locked Stage11 scenes has two distinct, source-aware visual treatments. **110/110 unique planned picture placements, full 25fps frame continuity 0–24875; canonical 16:35.03 Harrison Qwen audio untouched.**
+Status: IN_PREPARATION
 
-**Breakdown:** 60 editor-native custom graphics / 37 original-document crops to acquire / 3 original usable contextual shots requiring rights approval / 10 tailored generic illustration prompts NOT generated / 0 source-like recreations or historical reenactments.
+**Completed:** 60/60 editor graphic masters at 1920x1080. Full still-frame comparison against the locked script beat, Harrison audio windows, task legal guardrails, Canon A/B/C text locks, composition diversity, and bottom 20% safe zone.
 
-All 110 placements have independent detailed scene- and fact-aware editorial instructions, source IDs/URLs, legal qualifiers, stage13 rights/provenance requirements and owner Short 9:16 adaptations. **Only four Shorts S01, S03, S05, S08, fully master-derived with no independent TTS or story rewrite.**
+**Review result:** 47 first-pass frames retained. 13 first-pass failures regenerated and promoted as R2: VP017, VP019, VP023, VP034, VP036, VP044, VP049, VP070, VP082, VP088, VP089, VP099, VP110. Final result: 60/60 PASS for this still-frame gate.
 
-**Files:** `12_VISUAL_SOURCE_PLAN.md`, `12_VISUAL_ASSET_PLAN.csv`, `12_SOURCE_ACQUISITION.csv`, `12_AUTHENTIC_DOC_CROP_REQUESTS.csv`, `12_EDITOR_GRAPHIC_BRIEFS.csv`, `12_GENERATION_REQUESTS.csv`, `12_IMAGE_PROMPTS.md`, `12_RECONSTRUCTION_PROMPTS.md`, `12_STAGE_QC.md`, `12_PLAN_QC.json`, staged status rows in `ASSET_MANIFEST.csv`.
+**Evidence:** 13_EDITOR_GFX_SCRIPT_AUDIO_CANON_QC.csv, 13_EDITOR_GFX_SCRIPT_AUDIO_CANON_QC.md, per-frame QC.json / SHA256, and five final contact sheets.
 
-**G12 PASS PLAN / G13 NOT_STARTED.** No document images downloaded or certified, no source images rights-cleared; license/rights = PENDING. No still, reconstruction or video generation, no credits spent, no edit or render, no master changes. Model/provider/estimated paid credit approval required **before** any of 10 planned stills.
-
-**Next stage only if owner requests:** G13 asset acquisition/creation + authentic-crop, rights and final asset QC. Later mandatory G15 Short/caption boundary verification and G16 legal/rights refresh.
+**Boundaries:** Approved Canon A/B/C PNG binaries are absent from this checkout, so the written canon was verified but binary reference comparison remains pending. Outputs are flattened editorial illustrations, not authentic evidence or editable DaVinci layers. Owner approval and motion/readability/final-timeline QC are pending. Stage13 remains partial because non-GFX visual classes are not all final.

@@ -2,11 +2,17 @@
   "asset_id": "V005-VP089",
   "scene_id": "SC045",
   "canon": "C",
-  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "status": "SCRIPT_AUDIO_CANON_QC_PASS_R2",
+  "revision": "R2",
   "generator": "OPENAI_BUILTIN_IMAGEGEN",
   "dimensions": "1920x1080",
-  "sha256": "1a553c78e4f5b4ce3323b53104ea03925bebe3286af409e41da5df7a668de9c6",
+  "sha256": "2f6c7b1c21f317c7cecfc1016fa88aba8faa2609e5af4bb61290add056a3b175",
   "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "timeline": {
+    "start_sec": 807.44,
+    "end_sec": 817.44,
+    "audio_map": "CHUNK_05 0.21-10.21s"
+  },
   "legal_guardrail": "No claim stronger than script: ~14k files not all proved trade secrets; no Uber-use verdict; personal award not Uber fine; sealed amount stays sealed.",
   "source_ids": [
     "S032"
@@ -14,13 +20,28 @@
   "technical_checks": {
     "id_present": true,
     "dimensions_ok": true,
-    "png_decode_ok": true
+    "png_decode_ok": true,
+    "sha256_recorded": true
   },
   "creative_checks": {
-    "composition": "OWNER_QC_PENDING",
-    "text": "OWNER_QC_PENDING",
-    "legal_fact_check": "OWNER_QC_PENDING"
+    "script_and_audio_beat": "PASS",
+    "canon_A_B_C": "PASS",
+    "legal_guardrail": "PASS",
+    "composition_diversity": "PASS",
+    "bottom_20_percent_safe": "PASS",
+    "authentic_evidence_representation": "PASS_AS_EDITORIAL_ILLUSTRATION_ONLY"
   },
+  "initial_review": {
+    "status": "FAIL",
+    "reason": "Claim-for-coverage step missing."
+  },
+  "final_review": {
+    "status": "PASS",
+    "note": "Personal liability, coverage claim and disputed agreement shown separately."
+  },
+  "canon_reference_binary_verified": false,
+  "canon_lock_text_verified": true,
   "editable_layers": false,
-  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+  "owner_qc": "PENDING",
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened editor candidate. Owner and DaVinci motion/readability QC pending."
 }

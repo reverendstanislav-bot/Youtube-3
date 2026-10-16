@@ -2,11 +2,17 @@
   "asset_id": "V005-VP044",
   "scene_id": "SC022",
   "canon": "C",
-  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "status": "SCRIPT_AUDIO_CANON_QC_PASS_R2",
+  "revision": "R2",
   "generator": "OPENAI_BUILTIN_IMAGEGEN",
   "dimensions": "1920x1080",
-  "sha256": "c487a5863c7a93b293ec23a1184b036d0aff2041bb683d9fafefc27e9a107deb",
+  "sha256": "2b317569f11cb5bea4aa3c28bf110b244658f7b775686877cbbc92866c61c867",
   "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "timeline": {
+    "start_sec": 414.4,
+    "end_sec": 421.24,
+    "audio_map": "CHUNK_02 222.28-227.59s; CHUNK_03 0.00-1.53s"
+  },
   "legal_guardrail": "No claim stronger than script: ~14k files not all proved trade secrets; no Uber-use verdict; personal award not Uber fine; sealed amount stays sealed.",
   "source_ids": [
     "S003",
@@ -15,13 +21,28 @@
   "technical_checks": {
     "id_present": true,
     "dimensions_ok": true,
-    "png_decode_ok": true
+    "png_decode_ok": true,
+    "sha256_recorded": true
   },
   "creative_checks": {
-    "composition": "OWNER_QC_PENDING",
-    "text": "OWNER_QC_PENDING",
-    "legal_fact_check": "OWNER_QC_PENDING"
+    "script_and_audio_beat": "PASS",
+    "canon_A_B_C": "PASS",
+    "legal_guardrail": "PASS",
+    "composition_diversity": "PASS",
+    "bottom_20_percent_safe": "PASS",
+    "authentic_evidence_representation": "PASS_AS_EDITORIAL_ILLUSTRATION_ONLY"
   },
+  "initial_review": {
+    "status": "FAIL",
+    "reason": "Supplier-error text in safe zone."
+  },
+  "final_review": {
+    "status": "PASS",
+    "note": "Wrong-destination delivery mechanism moved above clear lower band."
+  },
+  "canon_reference_binary_verified": false,
+  "canon_lock_text_verified": true,
   "editable_layers": false,
-  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+  "owner_qc": "PENDING",
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened editor candidate. Owner and DaVinci motion/readability QC pending."
 }

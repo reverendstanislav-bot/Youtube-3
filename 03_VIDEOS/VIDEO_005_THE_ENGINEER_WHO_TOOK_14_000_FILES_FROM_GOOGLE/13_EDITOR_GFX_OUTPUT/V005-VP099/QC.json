@@ -2,11 +2,17 @@
   "asset_id": "V005-VP099",
   "scene_id": "SC050",
   "canon": "B",
-  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "status": "SCRIPT_AUDIO_CANON_QC_PASS_R2",
+  "revision": "R2",
   "generator": "OPENAI_BUILTIN_IMAGEGEN",
   "dimensions": "1920x1080",
-  "sha256": "0122d8ded18d1fc13bf777339b2dec7b1fe3be31f40595621a6b71586c683ec8",
+  "sha256": "37264d653a618f316b0dc7766d33aac498058795d6ac6f14ec33d2492106a5e3",
   "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "timeline": {
+    "start_sec": 898.64,
+    "end_sec": 905.8,
+    "audio_map": "CHUNK_05 91.41-98.57s"
+  },
   "legal_guardrail": "All-in amount not public, no invented number",
   "source_ids": [
     "S032",
@@ -15,13 +21,28 @@
   "technical_checks": {
     "id_present": true,
     "dimensions_ok": true,
-    "png_decode_ok": true
+    "png_decode_ok": true,
+    "sha256_recorded": true
   },
   "creative_checks": {
-    "composition": "OWNER_QC_PENDING",
-    "text": "OWNER_QC_PENDING",
-    "legal_fact_check": "OWNER_QC_PENDING"
+    "script_and_audio_beat": "PASS",
+    "canon_A_B_C": "PASS",
+    "legal_guardrail": "PASS",
+    "composition_diversity": "PASS",
+    "bottom_20_percent_safe": "PASS",
+    "authentic_evidence_representation": "PASS_AS_EDITORIAL_ILLUSTRATION_ONLY"
   },
+  "initial_review": {
+    "status": "FAIL",
+    "reason": "Source-like synthetic redacted ledger violated the no-fake-evidence canon."
+  },
+  "final_review": {
+    "status": "PASS",
+    "note": "Sculptural totalizer and sealed box express the missing public total without a fake document."
+  },
+  "canon_reference_binary_verified": false,
+  "canon_lock_text_verified": true,
   "editable_layers": false,
-  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+  "owner_qc": "PENDING",
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened editor candidate. Owner and DaVinci motion/readability QC pending."
 }
