@@ -1,0 +1,37 @@
+{
+  "video_id": "005",
+  "total_placements": 110,
+  "prompt_counts": {
+    "AUTHENTIC_SOURCE": 37,
+    "EDITOR_GRAPHIC": 60,
+    "LICENSED_OR_USABLE_CONTEXT": 3,
+    "GENERATED_ILLUSTRATION": 10
+  },
+  "prompt_assigned_110_of_110": true,
+  "original_document_families_archived": 13,
+  "source_crops_archived": 47,
+  "context_original_photos_archived": 3,
+  "context_licenses": [
+    {
+      "asset_id": "V005-VP009",
+      "license": "Public domain",
+      "sha256": "b38fb02cef7efc45de20ab557d071a4010e83aee85d86cd0ea19e6c1a389c65e"
+    },
+    {
+      "asset_id": "V005-VP018",
+      "license": "CC BY 2.0",
+      "sha256": "782515bafc69aef68dae632987a8de6c1fce2ced90867ca78bddb9ac92ff3f74"
+    },
+    {
+      "asset_id": "V005-VP042",
+      "license": "CC BY 2.0",
+      "sha256": "2e201a03b291dc32eaa3b47bbbd8d0c97b6f23573b72b709bf503c358be3eefe"
+    }
+  ],
+  "style_references_AUTH": "3 PNG PRESENT_IN_COMPANION_CHAT_ZIP_SHA256_VERIFIED",
+  "style_references_EDITOR_GFX": "3 PNG NOT_AVAILABLE_BINARY_OWNER_REATTACH_REQUIRED",
+  "status": "PRODUCTION_SOURCE_AND_PROMPTS_COMPLETE_WITH_3_GFX_STYLE_REFERENCE_BINARY_HOLD",
+  "images_generated": 0,
+  "credits_spent": 0,
+  "checked_at_utc": "2026-10-16T00:17:20.249973+00:00"
+}
