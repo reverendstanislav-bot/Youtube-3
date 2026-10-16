@@ -1,0 +1,35 @@
+name: VIDEO005 Acquire 3 authentic CC licensed CONTEXT source photos
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/video005_context_source_acquisition.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 16
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install verification tools (NO image generation)
+        run: python3 -m pip install --quiet requests pillow
+      - name: Acquire originals from Commons with license and SHA1 verification
+        run: python3 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_SOURCE_TOOLING/acquire_context_3.py
+      - name: Atomic GitHub archive of original files and source license metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_CONTEXT_ORIGINALS
+          git commit -m "VIDEO005 Stage13 archive 3 Wikimedia Commons original context photographs license and hashes"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: VIDEO005_THREE_AUTHENTIC_LICENSED_CONTEXT_ORIGINALS
+          path: 03_VIDEOS/VIDEO_005_THE_ENGINEER_WHO_TOOK_14_000_FILES_FROM_GOOGLE/13_CONTEXT_ORIGINALS
+          retention-days: 7
