@@ -1,0 +1,26 @@
+{
+  "asset_id": "V005-VP059",
+  "scene_id": "SC030",
+  "canon": "C",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "8252c10b877567c9014263ed74ac79859bc3451cc0110c5efbdb1caf7b853154",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "Possible adverse inference ≠ actual merits verdict",
+  "source_ids": [
+    "S031"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

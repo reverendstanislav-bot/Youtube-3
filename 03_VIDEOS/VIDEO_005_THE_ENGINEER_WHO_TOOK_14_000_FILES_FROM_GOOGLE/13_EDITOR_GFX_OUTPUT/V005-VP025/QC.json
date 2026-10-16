@@ -1,0 +1,27 @@
+{
+  "asset_id": "V005-VP025",
+  "scene_id": "SC013",
+  "canon": "B",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "2434da05820e6fd5fb76438d0ae67b946ebf5ddcb2b08724d4299ae7afa604f3",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "UP TO $680m versus $100k INITIAL CASH with both qualifiers; Short-safe",
+  "source_ids": [
+    "S007",
+    "S008"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

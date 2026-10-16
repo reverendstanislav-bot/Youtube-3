@@ -1,0 +1,26 @@
+{
+  "asset_id": "V005-VP080",
+  "scene_id": "SC040",
+  "canon": "B",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "950c79aa95297c88220ca5d4b23c855f5e7b5cd6070a21a8ca71f3e165e6dd55",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "$179,047,998.64 personal civil judgment not Uber corporate fine",
+  "source_ids": [
+    "S032"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

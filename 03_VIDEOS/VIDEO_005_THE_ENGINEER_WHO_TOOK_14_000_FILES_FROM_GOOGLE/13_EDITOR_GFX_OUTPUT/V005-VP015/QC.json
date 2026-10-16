@@ -1,0 +1,27 @@
+{
+  "asset_id": "V005-VP015",
+  "scene_id": "SC008",
+  "canon": "C",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "5992b27a76c03aae2bb7c9ebc6f4252a3e28fba0154769ea040e9998423a3db0",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "Google repository → personal laptop only, not to Uber networks",
+  "source_ids": [
+    "S010",
+    "S003"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

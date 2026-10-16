@@ -1,0 +1,28 @@
+{
+  "asset_id": "V005-VP108",
+  "scene_id": "SC054",
+  "canon": "C",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "4839104994ea17b3d73101bcff794ebaa8a90cd6d008fa5c45b3e2ee85af1229",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "Criminal, personal civil and corporate tracks must stay separate",
+  "source_ids": [
+    "S010",
+    "S008",
+    "S032"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

@@ -1,0 +1,28 @@
+{
+  "asset_id": "V005-VP107",
+  "scene_id": "SC054",
+  "canon": "A",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "4cdf967dba39c42b5989cdbe8599d880adc6f17f8f64a315e3d71ee07db615dd",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "2015 download, 2016 Otto, 2020 personal award, 2022 settlement distinct",
+  "source_ids": [
+    "S010",
+    "S008",
+    "S032"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

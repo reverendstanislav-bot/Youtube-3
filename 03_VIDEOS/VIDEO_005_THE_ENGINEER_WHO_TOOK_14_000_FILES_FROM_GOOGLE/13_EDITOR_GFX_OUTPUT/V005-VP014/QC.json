@@ -1,0 +1,27 @@
+{
+  "asset_id": "V005-VP014",
+  "scene_id": "SC007",
+  "canon": "A",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "dac5ceb415f43a052efcd5c2a8cd7374bc7acfb860c4fffae486ac609438b8aa",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "Dec 11 and Dec 14 2015, do not falsely place download in 2016",
+  "source_ids": [
+    "S010",
+    "S003"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

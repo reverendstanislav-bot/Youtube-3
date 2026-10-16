@@ -1,0 +1,28 @@
+{
+  "asset_id": "V005-VP110",
+  "scene_id": "SC055",
+  "canon": "B",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "ae3aac4fb605370978f539dec9cdcc02e162a2454f1a3e7bef00abb6f0d6b6f8",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "2018 shares known / 2022 sealed / personal award separate",
+  "source_ids": [
+    "S005",
+    "S032",
+    "S033"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

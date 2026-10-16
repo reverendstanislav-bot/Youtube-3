@@ -1,0 +1,27 @@
+{
+  "asset_id": "V005-VP096",
+  "scene_id": "SC048",
+  "canon": "B",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "ab4aa642f03fa9c37a0d1da648c0e3373c1ede7c4950cbc19a1de34b006a1366",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "Main Payment sealed; $2m is bankruptcy plan support; Short-safe",
+  "source_ids": [
+    "S032",
+    "S033"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}

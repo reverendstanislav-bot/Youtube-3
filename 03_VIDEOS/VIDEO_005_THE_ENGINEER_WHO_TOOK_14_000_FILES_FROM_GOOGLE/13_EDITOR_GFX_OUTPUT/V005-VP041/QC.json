@@ -1,0 +1,27 @@
+{
+  "asset_id": "V005-VP041",
+  "scene_id": "SC021",
+  "canon": "A",
+  "status": "GENERATED_CANDIDATE_OWNER_QC_PENDING",
+  "generator": "OPENAI_BUILTIN_IMAGEGEN",
+  "dimensions": "1920x1080",
+  "sha256": "0441f385f053b5257c12a150c877df47a9a85b6ee2b5f2d9bffa2a443c688357",
+  "source_task": "13_EDITOR_GFX_TASKS.jsonl",
+  "legal_guardrail": "No claim stronger than script: ~14k files not all proved trade secrets; no Uber-use verdict; personal award not Uber fine; sealed amount stays sealed.",
+  "source_ids": [
+    "S008",
+    "S003"
+  ],
+  "technical_checks": {
+    "id_present": true,
+    "dimensions_ok": true,
+    "png_decode_ok": true
+  },
+  "creative_checks": {
+    "composition": "OWNER_QC_PENDING",
+    "text": "OWNER_QC_PENDING",
+    "legal_fact_check": "OWNER_QC_PENDING"
+  },
+  "editable_layers": false,
+  "note": "AI-generated editorial illustration; not authentic evidence. Flattened candidate requiring owner and editor QC before timeline use."
+}
