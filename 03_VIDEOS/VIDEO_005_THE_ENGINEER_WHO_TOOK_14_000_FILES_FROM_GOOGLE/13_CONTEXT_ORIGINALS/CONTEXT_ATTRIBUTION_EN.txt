@@ -1,0 +1,7 @@
+VIDEO005 3 real archival CONTEXT photos (not the actual reported event).
+Attribution / photography:
+VP009 Mike1024, Mapping van tomtom with five lidars, public domain, https://commons.wikimedia.org/wiki/File:Mapping_van_tomtom_with_five_lidars.jpg
+VP018 Oregon Department of Transportation, Autonomous truck cab on display, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Autonomous_truck_cab_on_display_(44825419221).jpg, license https://creativecommons.org/licenses/by/2.0/
+VP042 Steve Jurvetson, Ford Autonomous Test Vehicle, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ford_Autonomous_Test_Vehicle.jpg, license https://creativecommons.org/licenses/by/2.0/
+NO CLAIM: these are not photos of 2016 Google files, Otto acquisition, or August 2016 Uber testing. Dates differ.
+Crop/retouch attribution: add if altered in later edit. Media here are unchanged original files.
