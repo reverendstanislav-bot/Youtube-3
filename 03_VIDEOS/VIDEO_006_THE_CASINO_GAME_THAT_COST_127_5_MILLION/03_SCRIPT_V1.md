@@ -228,5 +228,5 @@ In its August 2026 quarterly filing, Light & Wonder described the investor alleg
 
 **P051**
 
-The verified price is one hundred and twenty-seven point five million dollars paid, with two game families subject to permanent no-commercialization terms. Players saw dragons and jackpots. The billion-dollar industry behind them was also competing over something far less visible: the mathematics of how a game works.
+The verified price is one hundred and twenty-seven point five million dollars paid, with two game families subject to permanent no-commercialization terms. Players saw dragons and jackpots. The dispute was over something far less visible: the mathematics used to make those games work.
 
