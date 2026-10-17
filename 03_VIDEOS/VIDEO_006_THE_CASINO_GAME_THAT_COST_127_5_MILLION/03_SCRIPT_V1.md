@@ -10,11 +10,11 @@
 
 **P001**
 
-A slot machine helped trigger a one-hundred-and-twenty-seven-point-five-million-dollar payment.
+Two casino-game families. One settlement worth one hundred and twenty-seven point five million dollars.
 
 **P002**
 
-Not a jackpot. A settlement. Casino-game maker Light & Wonder paid its rival Aristocrat after a fight over the design of two competing games.
+Light & Wonder paid its rival Aristocrat. Not because somebody hit a jackpot, but after a fight over what those casino games were built from.
 
 **P003** **[SHORT S01 — exact contiguous passage, subject to Stage04]**
 
@@ -26,7 +26,7 @@ In the court record, a clue wasn't a dragon or a spinning reel. It was a spreads
 
 **P005**
 
-How could a number buried in a worksheet help explain the disappearance of games you could see on a casino floor?
+How could a date buried in a worksheet help push two casino-game families out of commercial sale?
 
 ## A01 — THE INVISIBLE PRODUCT
 
