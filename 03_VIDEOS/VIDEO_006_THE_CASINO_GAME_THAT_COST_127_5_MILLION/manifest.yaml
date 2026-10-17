@@ -8,8 +8,8 @@ topic_id: "T010"
 status: "IN_PREPARATION"
 created: "2026-10-16"
 last_updated: "2026-10-17"
-current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "Owner rule VIDEO006 exactly FOUR Shorts max 30s total: V4 S01/P003 S04/P023 S05/P027 S07/P043; Stage06 V4 text editorial 84/100 PASS, Stage07 not started; real audio Stage11 must verify every <=30s incl CTA; no paid generation."
+current_stage: "07_SCRIPT_LOCK"
+next_action: "Stage07 canonical script and exactly 4 native Shorts LOCKED; next Stage08 voice-script text prep only; NO TTS generation without separate owner approval. Stage11 final <=30s timing and Stage16 fact/legal refresh/rights still OPEN."
 blockers:
   - "AztecGold: original court-stamped plaintiff Group Proceeding Summary Statement acquired (S023), but full originating statement and post-Aug2026 court status not verified; mandatory Stage16 refresh; do NOT say all litigation ended."
   - "C034: installed-machine worldwide actual removal counts unverified; excluded from all narrated claims rather than release-blocking an evidence-based plot."
@@ -21,7 +21,7 @@ stages:
   stage_04_fact_legal_review: "PASS_FOR_STAGE05_WITH_RESTRICTED_CLAIMS"
   stage_05_script_revision: "PASS_CORRECTIVE_V4_4_NATIVE_SHORTS_SOURCE_BOUND"
   stage_06_performance_review: "PASS_84_100_V4_TEXT_EDITORIAL_4_SHORTS"
-  stage_07_script_lock: "NOT_STARTED"
+  stage_07_script_lock: "PASS_SCRIPT_LOCK_V4_FOUR_SHORTS_AUDIO_PENDING"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -38,7 +38,7 @@ locks:
   topic_qualified: true
   evidence_research: true
   case_story_map: true
-  final_script: false
+  final_script: true
   voice_input: false
   audio_master: false
   visual_timeline: false
@@ -55,14 +55,14 @@ evidence:
   unresolved_material_claims: 2
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
-  voice_id_or_preset: ""
+  voice_id_or_preset: "Harrison preset (voice identity locked; synthesis engine NOT locked)"
 audio:
   runtime_sec: ""
   file_or_uri: ""
   checksum: ""
 shorts:
   required: true
-  architecture_status: "V4_EXACTLY_4_SELECTED_NATIVE_SOURCE_SHORTS_ALL_LT47_WORDS_AUDIO_30SEC_UNVERIFIED"
+  architecture_status: "STAGE07_EXACTLY_4_SCRIPT_LOCKED_AUDIO_30SEC_UNVERIFIED"
   target_count: "4"
   maximum_total_duration_sec: 30
   selected_short_ids: "S01;S04;S05;S07"
@@ -72,6 +72,8 @@ shorts:
   stage_05_v3_archival_map: "05_V3_SHORTS_MAP.csv"
   stage_05_v4_current_map: "05_V4_SHORTS_MAP.csv"
   stage_07_lock: "07_SHORTS_LOCK.csv"
+  stage_07_current_canonical_script: "07_SCRIPT_FINAL.md"
+  stage_07_current_trace: "07_SCRIPT_LOCK_TRACE.csv"
   stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
   audio_source: "FINAL_AUDIO_MASTER"
   vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
