@@ -9,12 +9,12 @@ status: "IN_PREPARATION"
 created: "2026-10-16"
 last_updated: "2026-10-16"
 current_stage: "02_CASE_STORY_MAP"
-next_action: "Stage02 Case Story Map using 52 claim ledger entries, 25 dated events and all 12 QC gates; before Stage03 verify original Apple Oct14 response, Oct14 minute and Oct15 proposals; zero generation spend."
+next_action: "Stage03 Script V1 using Stage02 10-act 16:20 estimated narrative, 8 contiguous <=30s Short candidates; first refresh original Apple Oct14 filing, latest complete docket, Oct14 minutes and Oct15 stipulations; zero generation spend."
 blockers: ["Original Apple Oct14 responsive filing ECF not directly retrieved", "Oct14 minute and Oct15 proposed stipulations/current complete docket not primary verified", "Source original PDF bytes/SHA not locally archived; future source-acquisition stage required"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
-  stage_02_case_story_map: "NOT_STARTED"
+  stage_02_case_story_map: "PASS_PLAN_WITH_STAGE01_HOLDS"
   stage_03_script_v1: "NOT_STARTED"
   stage_04_fact_legal_review: "NOT_STARTED"
   stage_05_script_revision: "NOT_STARTED"
@@ -35,7 +35,7 @@ stages:
 locks:
   topic_qualified: true
   evidence_research: true
-  case_story_map: false
+  case_story_map: true
   final_script: false
   voice_input: false
   audio_master: false
@@ -56,7 +56,7 @@ voice:
   voice_id_or_preset: ""
 shorts:
   required: true
-  architecture_status: "NOT_STARTED"
+  architecture_status: "STAGE02_PLANNED_8_CANDIDATES"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   audio_source: "FINAL_AUDIO_MASTER"

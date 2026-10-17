@@ -1,16 +1,18 @@
-# VIDEO 007 — CURRENT STATE 2026-10-16
-Title: Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
-Case: Apple Inc. v. Liu et al, 5:26-cv-07078-EJD.
+# VIDEO 007 — STATE (2026-10-16)
+**Owner-locked topic:** Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
+**Stage00:** PASS_GO_OWNER_LOCKED.
+**Stage01:** PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS, 52 claims / 25 events / 15 source IDs.
+**Stage02:** **PASS_PLAN_WITH_STAGE01_HOLDS** — story map, 25-event story placement, 8 contiguous Short concept units, QC committed.
+**Stage03–19:** NOT_STARTED. No voice/image/video generated, no paid credits.
 
-**Stage00 PASS_GO_OWNER_LOCKED**.
-**Stage01 PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS** — 6 primary court filings/orders read; 15 source slots (3 unresolved primary); 52 verified/classified claims; 25 event records; 12 QA gates.
-**Stage02 NOT_STARTED**. Stage03–19 NOT_STARTED. No credit spent.
+## Editorial spine
+Apple's July allegations about former Apple employees and OpenAI -> defendants' alternative position and forensic dispute -> narrow Oct13 discovery order -> OpenAI Oct14 ECF176 alleges unrelated 100+ confidential files to personal accounts by an unnamed returning worker -> Reuters-reported Apple denial -> unresolved exposure, not a quantified loss/settlement/verdict.
 
-### Primary story lock
-ECF1 Apple complaints are allegations, not established wrongdoing. ECF175 granted narrow expedited discovery, not injunction/merits. ECF176 OpenAI claims 100+ files to former employee's personal accounts and possible presented device plans; not established Apple receipt/use; OpenAI *requested chance to investigate possible counterclaims*, not actual countersuit. ECF176 says trial date not set. No confirmed legal loss.
+## Story design
+10 acts, hypothetical 16:20 (NOT actual duration), opening 0–30 second hooks mapped. Eight planned Shorts <=30 seconds total each, actual final 20–27 spoken target, one contiguous long extract, 0 locked.
 
-### Material carries into Stage02/03
-HOLD latest official docket Oct14–16; Apple original Oct14 responsive filing; Oct14 minute and Oct15 proposed orders. Secondary reports must be labelled secondary. Rights and original PDF byte SHA archival not performed.
+## Legal/rights source HOLDS
+Original Apple Oct14 reply, official complete Oct14–16 docket, Oct14 minute and Oct15 proposed stipulations/order, native source asset bytes/rights remain unfinished. Oct13 ECF175 procedural only; Oct14 ECF176 not actual counterclaim; alleged personal-account transfer not established Apple receipt/use. New case outcomes must be refreshed before final narration and publishing.
 
-### Next
-Stage02 Case / Story Map 12–18min optional narrative plan with 6–10 contiguous future Shorts units. Owner approval needed to do Stage02. No images/audio/video generation allowed without explicit budget approval. All canon in `00_FOUNDATION`.
+## Next
+**Stage03 Script V1 only when requested.** Create full English US narration under canonical fact/attribution rules and reserved Shorts units. Stage04 independent legal review of every substantive line and Short. No generation spending authorized.
