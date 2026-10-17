@@ -76,15 +76,15 @@ An Aristocrat designer played Dragon Train and noticed similarities with Dragon 
 
 **P016**
 
-In February 2024, Aristocrat sued in federal court in Nevada. Its allegations included trade-secret and other intellectual-property claims. Light & Wonder contested material allegations. At that stage, the accusations were arguments in a lawsuit, not findings made after a jury trial.
+Aristocrat filed its federal lawsuit in Nevada in February 2024. It alleged trade-secret misuse and other intellectual-property violations. Light & Wonder disputed material allegations. At this point, neither side had a final jury verdict.
 
 **P017**
 
-One part of the judge's later ruling reached back to September 2022. According to the court's preliminary account, a Dragon Link base-game worksheet had been shared inside the Light & Wonder team during work described as a reverse-engineering training exercise. That mattered because the file was linked to Aristocrat's earlier game development.
+The judge's later account pointed back to September 2022. A Dragon Link base-game worksheet, the court said, had been shared inside Light & Wonder during an exercise described as reverse-engineering training. Now the questions reached beyond appearances.
 
 **P018**
 
-These weren't things a casino player could inspect. They were development materials: worksheets, calculations, and choices that could reflect how a game had been built. Aristocrat argued those private details mattered far more than surface resemblance. The judge examined their relationship, not just a single coincidental cell.
+The worksheet related to the mathematics of a game Aristocrat had developed. How it appeared in a rival's internal work mattered to the court, alongside the explanations given for using it. And the record contained clues beyond the worksheet's calculations.
 
 **P019** **[SHORT S03 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -92,17 +92,17 @@ In the Aristocrat versus Light & Wonder lawsuit, a judge described strange simil
 
 **P020**
 
-The question wasn't whether every spreadsheet contains boxes. They all do. It was why this particular collection of layouts and calculations appeared in material connected to the competing game. And one of the files came with an even stranger detail.
+Those marks were not the entire case. The court also compared the mathematical methods inside the workbooks. Then it turned to something that seemed even more ordinary: the files' history.
 
 ## A04 — THE 2013 TIMESTAMP
 
 **P021**
 
-One workbook discussed by the judge was called Inception Conception. It had been used for Sky Train, an early version of Dragon Train. The remarkable detail wasn't the workbook's name. It was the date carried in the file's history.
+An early version of Dragon Train had been called Sky Train. The preliminary order described a workbook used in that development, named Inception Conception.
 
 **P022**
 
-The court compared the early Sky Train workbook with an older Dragon Link spreadsheet. Similarities in their structure and file history raised a question more specific than whether both games featured dragons. One date in particular stood out—and it came from years before Dragon Train was released.
+When that workbook was compared with an older Dragon Link file, the question wasn't only what the cells calculated. The file history itself pointed far further back than the new game's launch.
 
 **P023** **[SHORT S04 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -110,17 +110,17 @@ A Light & Wonder development spreadsheet for an early Dragon Train version carri
 
 **P024**
 
-The opinion also discussed overlapping prize-assignment methods and jackpot-related calculations. To a casual player, two jackpots may look similar. To a mathematician, the precise logic behind their probabilities can tell a more complicated story. The point wasn't one familiar feature. It was how separate details fit together.
+The judge also examined how prizes were assigned and how certain jackpot probabilities were calculated. Those comparisons added weight to the question of where the early game's mathematics had come from.
 
 **P025**
 
-Still, a timestamp is not a confession. And a preliminary order is not the same thing as a jury weighing the entire record at trial. The judge was deciding whether immediate protection was warranted while the case continued.
+No single timestamp decided the whole lawsuit. The judge weighed it alongside the spreadsheet similarities and the competing accounts of how the games had been developed.
 
 ## A05 — THE DEFENSE
 
 **P026**
 
-Light & Wonder had an answer. Its developers, the company argued, had done independent work. Some final features differed, and some mathematical patterns could be derived from a game itself. That matters: a competitor can study a product without automatically stealing a trade secret.
+Light & Wonder challenged the inference of copying. Its team, the company argued, had developed important parts of its own math; some features differed, and some statistical patterns could be worked out from public play.
 
 **P027** **[SHORT S05 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -128,15 +128,15 @@ A federal judge agreed with Light & Wonder on part of the Dragon Train math disp
 
 **P028**
 
-Think of the difference between noticing how often a visible feature appears and opening a designer's private workbook. The first might be calculated from observation. The second can reveal choices nobody outside the development team was meant to have. The law doesn't treat those things as automatically identical.
+In other words, knowing what a game appears to do isn't necessarily the same as knowing the private calculations its designers used. The distinction helped explain why the judge treated different pieces of mathematical evidence differently.
 
 **P029**
 
-The judge examined that distinction rather than rejecting every argument from Light & Wonder. But on important combinations of game math and documentary similarities, the preliminary analysis favored Aristocrat. That was enough to change what could happen next.
+After weighing the evidence, the judge still considered Aristocrat extremely likely to succeed on key trade-secret issues at that preliminary stage. That assessment mattered immediately to the rival game.
 
 **P030**
 
-The word preliminary matters. The court was assessing the likelihood of success and the need for interim relief, not issuing a final verdict on every trade-secret, copyright, or business claim in the lawsuit.
+The case had not reached a final damages trial. But the court did not have to wait for one before considering temporary restrictions on a product.
 
 ## A06 — THE GAME IS HALTED
 
