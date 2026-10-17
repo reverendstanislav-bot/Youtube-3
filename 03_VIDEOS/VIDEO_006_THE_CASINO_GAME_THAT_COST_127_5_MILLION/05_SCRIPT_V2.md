@@ -186,11 +186,11 @@ Eventually the companies agreed to settle the direct dispute. That agreement wou
 
 **P041**
 
-On January eleventh, 2026, Aristocrat and Light & Wonder announced their settlement. It covered the direct dispute and established what Light & Wonder would pay and what would happen to the affected games. The price was one hundred and twenty-seven point five million U.S. dollars.
+They announced the deal in January 2026. Its headline figure was $127.5 million—but the restrictions on the games and the disputed mathematical information were just as important to understanding the outcome.
 
 **P042**
 
-The language matters. Light & Wonder acknowledged that certain mathematical information had been used in developing Dragon Train and Jewel of the Dragon. The court filing described that information as material Aristocrat contended was proprietary and confidential. That is more precise than saying an entire casino game, every calculation, or every visual feature was judicially proven stolen.
+Light & Wonder acknowledged that certain mathematical information had been used to develop Dragon Train and Jewel of the Dragon. The signed court document described it as information Aristocrat contended was proprietary and confidential. That's a precise contractual statement, not a jury finding on every disputed element.
 
 **P043** **[SHORT S07 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -198,21 +198,21 @@ In February 2026, a federal court vacated temporary injunctions in Aristocrat's 
 
 **P044**
 
-The agreement covered commercialization of both families in land-based and digital form. Light & Wonder also agreed to stop using the mathematical information at issue and destroy documents reflecting it. Both companies described a best-efforts commitment to remove existing installations; the reviewed records do not establish a final worldwide removal count.
+The agreement covered land-based and digital commercialization of both game families. It also required an end to use of the covered math and destruction of related documents. For existing installations, the companies described a best-efforts removal commitment—not a verified count of units taken away.
 
 **P045**
 
-The signed court papers confirmed something else: Light & Wonder had paid Aristocrat one hundred and twenty-seven point five million dollars. Light & Wonder also reported roughly one hundred and twenty-eight million dollars of settlement-related expense in its 2025 results. That accounting charge relates to the same settlement. It isn't another giant payment to add on top.
+The signed federal papers confirmed that Light & Wonder had paid Aristocrat $127.5 million. The company also reported roughly $128 million of settlement-related expense in its 2025 financial results. Those figures describe the same settlement, not two different payments to add together.
 
 **P046**
 
-In February 2026, the U.S. claims and counterclaims were dismissed. The company later reported that the direct Aristocrat claims against specified Light & Wonder entities in Australia were dismissed in March. Procedures for certain other game-math issues remained subject to the parties' agreement. The corporate IP dispute had a negotiated end; that did not make every possible consequence disappear.
+In February 2026, the U.S. claims and counterclaims were dismissed. According to Light & Wonder's SEC reporting, Aristocrat's claims against specified company entities in Australia were dismissed in March. That resolved the direct corporate dispute on agreed terms, but a different kind of lawsuit would follow.
 
 ## A09 — THE AFTERLIFE
 
 **P047**
 
-But settling the Aristocrat case did not end every dispute involving Dragon Train. A different group of claimants came next.
+The next claimants weren't Aristocrat. They were investors who said they had been misled about Dragon Train.
 
 **P048** **[SHORT S08 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -220,13 +220,13 @@ A separate investor lawsuit followed the Aristocrat settlement. In April 2026, s
 
 **P049**
 
-The proposed class involved buyers of Light & Wonder's Australian-listed depositary interests from May 2023 through September 2024.
+The proposed class covered people who bought Light & Wonder's Australian-listed depositary interests between May 2023 and September 2024. Their claim concerned investor disclosures, not ownership of the game math itself.
 
 **P050**
 
-In its August 2026 quarterly filing, Light & Wonder described the investor allegations, said it disputed them, and did not report a court verdict or quantified damages.
+In its August 2026 quarterly filing, Light & Wonder disputed the allegations. No verdict or quantified damages were reported in that filing.
 
 **P051**
 
-The verified price is one hundred and twenty-seven point five million dollars paid, with two game families subject to permanent no-commercialization terms. Players saw dragons and jackpots. The dispute was over something far less visible: the mathematics used to make those games work.
+The verified payment was $127.5 million. Dragon Train and Jewel of the Dragon remained subject to permanent no-commercialization terms. From the player's side, the games were dragons, reels, and jackpots. The dispute underneath them was about who could use the mathematics that made them work.
 
