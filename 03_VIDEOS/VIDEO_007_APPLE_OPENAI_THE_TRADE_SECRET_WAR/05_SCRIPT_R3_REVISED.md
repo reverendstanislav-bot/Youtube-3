@@ -1,10 +1,10 @@
-# VIDEO 007 — STAGE 03 FULL SCRIPT V1
-**R3 CORRECTED DRAFT — PRIMARY APPLE ECF177 VERIFIED / STAGE04 SIGNED-ORDER HOLD**
+# VIDEO007 — ACTIVE STAGE05 SCRIPT R3
+**ACTIVE WORKING R3 — ORIGINAL APPLE RESPONSE ECF177 VERIFIED / STAGE07 VOICE NOT LOCKED**
 Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
 American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence refresh October 17, 2026: original Apple reply ECF177 retrieved and read; Oct14 hearing reported by Bloomberg; original minute/Oct15 signed order not independently verified.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2248 spoken words, projected 14.5–16.7 min at 135–155 wpm. NOT Harrison recorded audio. Stage02's 16:20 is an editorial target, not a delivery guarantee.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2251 spoken words, projected 14.5–16.7 min at 135–155 wpm; NOT measured audio.
 
 **Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple original ECF177 response now VERIFIED. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. Stage04 must fact-review EVERY substantive paragraph before voice generation.
 
@@ -12,7 +12,7 @@ American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-c
 
 ### A00 — THE REVERSAL
 
-*NON-SPOKEN: primary sources S001,S005,S006; claim IDs C001,C026,C033,C035,C041,C049.*
+*NON-SPOKEN: sources S001,S005,S006,S018,S019; claim IDs C001,C026,C033,C035,C041,C049.*
 
 **A00-P01 · SHORT SH01 (EXACT ONE-PARAGRAPH EXTRACT)**
 
@@ -278,7 +278,7 @@ Legal reporting on the hearing minutes says the parties expected to submit a pro
 
 ### A09 — WHAT IT COULD COST
 
-*NON-SPOKEN: primary sources S001,S005,S006,S008; claim IDs C012,C013,C014,C041,C042,C049,C051.*
+*NON-SPOKEN: sources S001,S005,S006,S018,S019; claim IDs C012,C013,C014,C041,C042,C049,C051.*
 
 **A09-P01**
 
@@ -290,7 +290,7 @@ Apple had secured limited expedited discovery. Bloomberg reported OpenAI's non-u
 
 **A09-P03 · SHORT SH08 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-Apple accused OpenAI of taking hardware secrets. Then OpenAI alleged that a different departing employee sent over one hundred confidential files to personal accounts before returning to Apple. The judge ordered limited early discovery for Apple, and Bloomberg reported OpenAI's voluntary non-use commitment. These were serious developments, not verdicts against either company.
+OpenAI's allegation sounded like a surprise reversal. But Apple says it heard about the disputed files five days before OpenAI went to court. According to Apple's own response, it searched for the information and asked for more details. Its searches reportedly found nothing. Those statements don't prove OpenAI was wrong, but they change the chronology.
 
 **A09-P04**
 
@@ -312,5 +312,5 @@ The twist wasn't that OpenAI had defeated Apple. It was that OpenAI raised a sec
 - 8 exact contiguous Short candidates: SH01=A00-P01 | SH02=A01-P02 | SH03=A03-P02 | SH04=A04-P02 | SH05=A05-P03 | SH06=A06-P03 | SH07=A07-P03 | SH08=A09-P03. No stitched passages, new narration, or alternate TTS.
 - Each selected Short is ~20–27 spoken seconds in intent; final export MUST be <=30.0s including end card/CTA. Estimated read speeds are not measured voice timing. Rewrite the same paragraph in the long-form before Stage07 if necessary.
 - All source text must come from authentic original court pages; no invented document stills, email/chat reproductions, supplier records or unreleased device reconstructions.
-- Outstanding HOLD: original Apple Oct14 response; full Oct14–16 docket, official hearing minute and Oct15 stipulation/order texts; later rights/asset-hash QC.
-- The evidence status after Oct16 is not claimed; Stage04 and Stage16 require refreshed docket.
+- Outstanding HOLD: official Oct14 minute and original signed status of Oct15 proposed stipulations, refreshed full docket, rights/hash QC. **Apple original ECF177 reply IS VERIFIED.**
+- Original case research through Oct17; do not imply Oct15 proposed stipulations were signed. Stage07 and Stage16 require docket refresh.
