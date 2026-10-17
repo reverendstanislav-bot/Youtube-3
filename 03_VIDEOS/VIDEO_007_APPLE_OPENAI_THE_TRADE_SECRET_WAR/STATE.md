@@ -1,6 +1,5 @@
-# VIDEO007 — STATE OCTOBER 16 2026 (INDEPENDENT AUDIT)
-Owner-locked subject unchanged. **Original `03_SCRIPT_V1.md` retained untouched and REJECT for voice.**
-New `03_SCRIPT_V1_R2.md` corrects omissions, Siri partnership, repetitive blocks and news about Oct14 hearing reported by Bloomberg. **2831 spoken words / 8 full-paragraph Shorts exact R2 map**. Audio NOT produced.
-Stage00 OWNER_LOCKED; Stage01 PASS_CORE_WITH_BOUNDED_HOLDS; Stage02 PASS_PLAN_WITH_STAGE01_HOLDS; Stage03 revised R2 DRAFT; **Stage04 AUDIT PERFORMED BUT PRIMARY COURT STATUS HOLD**; no Stage05 or voice.
-Source S016 Bloomberg eyewitness hearing journalistic reporting, NOT signed judicial order. S017 official 2024 partner announcement. Three critical missing primary items: Apple Oct14 reply, Oct14 court minute, Oct15 court signed/proposed stipulation. Full docket beyond Oct13 unavailable; image/publishing source bytes/rights remain HOLD.
-Next verify originals, finalize Stage04 legal QC with complete case status, then Stage05 revision/Stage06 performance checks. No paid credit spent.
+# VIDEO007 — STATE 2026-10-17
+Topic owner locked. Stage01/02 base passes with legal holds; original Stage03 V1 and R2 untouched. Stage04: script-scoped legal fact review PASS, only October14/15 signed injunction/docket issues remain HOLD.
+**Stage05: V3 EDITORIAL PASS.** File 05_SCRIPT_V3.md, 2419 spoken words / 50 paragraphs / 10 chapters, 8 true contiguous longform Shorts with exact map. Actual voice NOT generated.
+Original Apple ECF177 obtained (S018) and p2 confirms Apple's Oct9/12 narrative as party allegation/reply; prior source S013 closed. Bloomberg report court-hearing Oct14 and 14 device commitments; secondary minute summary (S019); no original signed stipulations. Do NOT claim theft verdict or final injunction.
+**Stage06 NEXT** retention review, title options only; Stage07 voice lock HOLD until current full docket, original court outcome refresh. No spending.

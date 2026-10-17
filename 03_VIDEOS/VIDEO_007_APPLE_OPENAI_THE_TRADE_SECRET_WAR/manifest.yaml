@@ -7,17 +7,17 @@ pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
 status: "IN_PREPARATION"
 created: "2026-10-16"
-last_updated: "2026-10-16"
-current_stage: "04_FACT_LEGAL_REVIEW"
-next_action: "Verify original Apple Oct14 reply, court minute Oct14 and Oct15 stipulated signed/proposed orders, re-review R2 under Stage04 and 8 Shorts, proceed Stage05 only after fixes; no paid generation."
-blockers: ["Original Apple Oct14 responsive filing ECF not directly retrieved", "Oct14 minute and Oct15 proposed stipulations/current complete docket not primary verified", "Source original PDF bytes/SHA not locally archived; future source-acquisition stage required"]
+last_updated: "2026-10-17"
+current_stage: "06_PERFORMANCE_REVIEW"
+next_action: "Stage06: independent retention QC of Stage05 V3 and 8 Shorts; Stage07 voice lock HOLD until Oct14 official minute and Oct15 signed proposed order status and timely full docket check; no paid generation."
+blockers: ["Oct14 official hearing minute and Oct15 signed stipulations still unavailable as originals", "Complete live docket and actual injunction status not independently established", "Stage09 Harrison measured voice durations and source image rights/hash checks not done"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
   stage_02_case_story_map: "PASS_PLAN_WITH_STAGE01_HOLDS"
-  stage_03_script_v1: "R2_AUDITED_DRAFT_NO_VOICE"
-  stage_04_fact_legal_review: "REVIEW_PERFORMED_PRIMARY_ORDER_HOLD"
-  stage_05_script_revision: "NOT_STARTED"
+  stage_03_script_v1: "SUPERSEDED_BY_V3_REVISION"
+  stage_04_fact_legal_review: "PASS_SCRIPT_CLAIMS_BOUNDED_ORDER_HOLD"
+  stage_05_script_revision: "PASS_EDITORIAL_V3"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
   stage_08_voice_script: "NOT_STARTED"
@@ -49,21 +49,21 @@ evidence:
   source_index: "SOURCE_INDEX.csv"
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
-  last_case_status_refresh: "2026-10-16"
-  unresolved_material_claims: 3
+  last_case_status_refresh: "2026-10-17"
+  unresolved_material_claims: 2
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
   voice_id_or_preset: ""
 shorts:
   required: true
-  architecture_status: "R2_8_EXACT_CONTIGUOUS_PARAGRAPHS_NO_AUDIO"
+  architecture_status: "V3_8_VERBATIM_EXTRACTS_AUDIO_PENDING"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   audio_source: "FINAL_AUDIO_MASTER"
 qa:
   topic: "PASS_GO_OWNER_LOCKED"
   research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
-  fact_legal: "REVIEW_R2_PRIMARY_HOLD"
+  fact_legal: "SCRIPT_SCOPED_PASS_ORDER_HOLD"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
 publish:

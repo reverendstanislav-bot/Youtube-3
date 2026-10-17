@@ -1,0 +1,11 @@
+# VIDEO007 — Stage04 source fix and Stage05 V3 editorial QC
+**2026-10-17 | CONDITIONAL PASS FOR V3 SCRIPT-LEVEL CLAIMS + 8 SHORTS; INJUNCTION FINAL STATUS HOLD; NOT Stage07/voice authorization.**
+
+- V3 **2419 spoken words**, down from R2 2831; 50 spoken paragraphs, ten acts. **10 repetitive passages removed**, 17 precise wording updates. Estimated 15.6–17.9 minutes at 135–155 wpm, not recorded voice. No artificial padding.
+- **S018 original Apple ECF177** from CourtListener directly read; Apple says it was notified Oct9, investigated that day and told OpenAI Oct12 it couldn't find OpenAI confidential data; requested additional details. Plaintiff's written POSITION, not judicial proof absence of theft. Primary source gap now CLOSED.
+- **S019 secondary hearing-minute reporting** (Litigation Sentinel) reports Oct14 counsel committed to proposed stipulation that would moot injunction motion, and 3 proposals Oct15, without verified signed text. **Not a signed injunction.** Bloomberg hearing report S016 is journalistic eyewitness account, not original minute.
+- ECF175 signed Oct13 partial discovery remains separate from ECF38 preliminary injunction, ECF176 alleges >100 OpenAI files to PERSONAL account and only potential later counterclaims, not Apple corporate use or new filed claim.
+- Text-level per-paragraph trace in 05_SCRIPT_FACT_AUDIT_V3.csv and 8 standalone Shorts in 05_SHORTS_QC_V3.csv. All are one contiguous paragraph drawn verbatim from V3; 145 wpm estimates SH01:23.2s, SH02:22.3s, SH03:21.1s, SH04:21.1s, SH05:23.6s, SH06:22.3s, SH07:24.4s, SH08:22.3s. Real Harrison voice and <=30s export still not tested.
+- Current owner topic title remains unchanged; phrase "Then Everything Reversed" may overstate result. Stage17 safer working recommendation: "Apple Sued OpenAI. Then OpenAI Accused Apple." Not owner-approved.
+- **HOLD:** Oct14 original hearing minute; signed/stipulation orders after Oct15; live full docket and new case developments; visual source original pixels/license and Harrison measured timing. Stage16 must refresh before publication.
+**Result: Stage05 V3 editorial text PASS WITH BOUNDED PROCEDURAL HOLD. Next Stage06 performance; do NOT generate/pay for media.**
