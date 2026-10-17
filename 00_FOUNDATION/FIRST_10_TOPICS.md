@@ -128,7 +128,8 @@ Slots 8–10 remain editable; slots 06–07 are owner-locked.
 **VIDEO_006 — Aristocrat / Light & Wonder**
 - Stage00 topic qualification **GO — 89.1/100**, owner-approved 2026-10-16.
 - Stage01 Evidence Research **PASS_VERIFIED_SCOPE_V3_EXCLUSIONS** — 23 sources, 50 claims, 31 events and 23 QA items. AztecGold original stamped April21 class summary found; issuer says April22. Narrate April2026; shareholder case separate from settled Aristocrat IP lawsuit. Unverified unit-removal totals excluded. See VIDEO006 `01_STAGE01_FINAL_REPAIR_V3_20261016.md`.
-- Stage02 Case / Story Map **PASS_PLAN (2026-10-16)** — 10 acts, 51 contiguous evidence-backed beats, 31 truth events mapped, 8 source-aware Short candidates (25–26s estimated), 15:55 planning runtime, AztecGold separate shareholder coda cut to 65s. Stage03 Script V1 NOT_STARTED; no paid generation or case-status final release approval.
+- Stage02 Case / Story Map **PASS_PLAN (2026-10-16)** — 10 acts, 51 contiguous evidence-backed beats, 31 truth events mapped, 8 source-aware Short candidates (25–26s estimated), 15:55 planning runtime, AztecGold separate shareholder coda cut to 65s. Stage03 Script V1 delivered; Stage04 Fact + Legal Review NOT_STARTED; no paid generation or case-status final release approval.
+- Stage03 **PASS_DELIVERABLE_V1_PENDING_STAGE04** — 2,080 English spoken words, 51 paragraphs, 8 full-paragraph contiguous Shorts, complete P→B→C/S source trace, editorial QC complete. Script claims, eight Shorts and current legal status require Stage04 then Stage16 review; no paid generation.
 - 6–10 contiguous-derived Shorts to be planned later at Stage02, not prewritten now.
 - No paid generation, sound/image/video creation, or editing authorized by Stage00.
 - First five launch slots remain locked and unchanged.
