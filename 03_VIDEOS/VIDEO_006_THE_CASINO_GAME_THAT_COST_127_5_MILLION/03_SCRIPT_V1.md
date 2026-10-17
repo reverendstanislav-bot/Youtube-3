@@ -10,7 +10,7 @@
 
 **P001**
 
-Two casino-game families. One settlement worth one hundred and twenty-seven point five million dollars.
+Two casino-game families. A $127.5 million settlement. And a clue hiding in a spreadsheet.
 
 **P002**
 
@@ -18,7 +18,7 @@ Light & Wonder paid its rival Aristocrat. Not because somebody hit a jackpot, bu
 
 **P003** **[SHORT S01 — exact contiguous passage, subject to Stage04]**
 
-Two casino-game families were caught in the same dispute: Dragon Train and Jewel of the Dragon. Light & Wonder paid Aristocrat one hundred and twenty-seven point five million dollars, and agreed to stop commercializing both families. This was a settlement, not a jury's damages award. The federal court later confirmed the payment had been made.
+Light & Wonder paid rival Aristocrat one hundred and twenty-seven point five million dollars to settle a dispute involving Dragon Train and Jewel of the Dragon. It also agreed to stop commercializing both game families worldwide. The federal court later confirmed the payment. This was a negotiated settlement, not a jury verdict or criminal fine.
 
 **P004**
 
@@ -36,7 +36,7 @@ Look at a casino machine from the player's side. You see animated symbols, featu
 
 **P007** **[SHORT S02 — exact contiguous passage, subject to Stage04]**
 
-Aristocrat and Light & Wonder make electronic casino games. The fight over Dragon Train wasn't simply about whether two machines showed dragons. It centered on mathematical information used to build a game: how prizes and features are configured. Some outcomes can be studied from visible play. Other internal combinations may be confidential. That distinction would matter in court.
+Two casino-game makers, Aristocrat and Light & Wonder, fought over what players couldn't see: game mathematics. The dispute centered on math used to build Dragon Train, not just the dragons onscreen. Some patterns can be inferred from gameplay. Other underlying combinations may be confidential. That difference mattered in court.
 
 **P008**
 
@@ -88,7 +88,7 @@ These weren't things a casino player could inspect. They were development materi
 
 **P019** **[SHORT S03 — exact contiguous passage, subject to Stage04]**
 
-In a 2024 preliminary ruling in the Aristocrat versus Light & Wonder case, the judge described striking similarities between game-development spreadsheets. Even some empty cells, borders, and gray-filled areas looked alike. Those details mattered because they could help trace where the math came from. It was evidence considered for a temporary injunction, not a final jury verdict.
+In the Aristocrat versus Light & Wonder lawsuit, a judge described strange similarities between game-development spreadsheets: borders around empty rows, the same gray-filled cells, even matching formatting errors. Those details mattered in tracing where the math might have originated. This was a preliminary ruling, not a final jury verdict.
 
 **P020**
 
@@ -98,7 +98,7 @@ The question wasn't whether every spreadsheet contains boxes. They all do. It wa
 
 **P021**
 
-The court discussed a workbook used during the development of Dragon Train. Its name in the record included the words Inception Conception. The legal significance was not its title, but a piece of file history.
+One workbook discussed by the judge was called Inception Conception. It had been used for Sky Train, an early version of Dragon Train. The remarkable detail wasn't the workbook's name. It was the date carried in the file's history.
 
 **P022**
 
@@ -106,7 +106,7 @@ According to the judge's preliminary ruling, a development worksheet carried a c
 
 **P023** **[SHORT S04 — exact contiguous passage, subject to Stage04]**
 
-A worksheet connected to Light & Wonder's Dragon Train carried a creation date of November twelfth, 2013, according to a federal judge's preliminary ruling. That date matched an earlier Aristocrat workbook, years before Dragon Train's development. The judge considered it a clue about where the file originated—not a final finding that every part of the rival game was copied.
+A Light & Wonder development spreadsheet for an early Dragon Train version carried a creation date of November twelfth, 2013, according to a federal judge. It matched an older Aristocrat workbook's timestamp. The court treated that as a clue about origin, not a final verdict that every calculation in the rival game was copied.
 
 **P024**
 
@@ -124,7 +124,7 @@ Light & Wonder had an answer. Its developers, the company argued, had done indep
 
 **P027** **[SHORT S05 — exact contiguous passage, subject to Stage04]**
 
-A federal judge partly agreed with Light & Wonder in the Dragon Train mathematics dispute. In a 2024 preliminary ruling, the court accepted that certain SCAT2 probabilities could be inferred from publicly observable features. But the judge still saw strong evidence concerning other confidential mathematical combinations. Winning that one argument did not clear the company of the broader claim.
+A federal judge agreed with Light & Wonder on part of the Dragon Train math dispute. In a preliminary ruling, the court said certain bonus-symbol probabilities might be inferred from visible gameplay. But other mathematical combinations still raised serious trade-secret concerns. One successful defense argument didn't clear the company of the broader claim.
 
 **P028**
 
@@ -146,7 +146,7 @@ By September 2024, the dispute had reached Light & Wonder's commercial plans. A 
 
 **P032** **[SHORT S06 — exact contiguous passage, subject to Stage04]**
 
-In September 2024, a federal judge restricted the commercialization of Light & Wonder's Dragon Train while Aristocrat's trade-secret case continued. The order was preliminary, not a jury verdict. Light & Wonder disagreed with it. And when the companies later settled, that temporary court order was vacated—an important distinction from the separate restrictions in their agreement.
+A federal judge temporarily restricted Light & Wonder's Dragon Train in September 2024, while Aristocrat's trade-secret case continued. Light & Wonder disagreed with the order. When the companies settled in 2026, that preliminary injunction was vacated. But the separate settlement agreement still stopped commercialization of the affected games.
 
 **P033**
 
@@ -180,7 +180,7 @@ The case also reached questions about mathematical models in certain other Hold 
 
 **P040**
 
-Litigation could keep producing questions about files, formulas, products, and jurisdictions. A business also has to decide what continued uncertainty is worth. In early 2026, the two companies chose a negotiated resolution rather than wait for a final jury damages verdict.
+The case kept raising questions about files, formulas, games, and court orders in two countries. In early 2026, the companies agreed to resolve the direct dispute before any jury trial produced a final damages verdict.
 
 ## A08 — THE PRICE AND THE PAPER
 
@@ -194,7 +194,7 @@ The language matters. Light & Wonder acknowledged that certain mathematical info
 
 **P043** **[SHORT S07 — exact contiguous passage, subject to Stage04]**
 
-In February 2026, a federal judge vacated the temporary injunctions in Aristocrat's case against Light & Wonder. But Light & Wonder had agreed to stop commercializing Dragon Train and Jewel of the Dragon permanently. The provisional court orders were gone; the settlement's contractual restriction remained. A court case can end without those business obligations disappearing.
+In February 2026, a federal court vacated temporary injunctions in Aristocrat's case against Light & Wonder. Yet Dragon Train and Jewel of the Dragon remained subject to permanent commercial restrictions. Why? Light & Wonder had agreed to those restrictions in its settlement contract. The court orders ended; the contractual promise survived.
 
 **P044**
 
@@ -216,7 +216,7 @@ But settling the Aristocrat case did not end every dispute involving Dragon Trai
 
 **P048** **[SHORT S08 — exact contiguous passage, subject to Stage04]**
 
-In April 2026, investors filed a separate class action against Light & Wonder in Australia over allegedly misleading Dragon Train statements and omissions. Light & Wonder contested those claims. The original Aristocrat trade-secret dispute was already settled. This was a different lawsuit, brought by shareholders, and the public records reviewed here did not establish a verdict or a damages award.
+A separate investor lawsuit followed the Aristocrat settlement. In April 2026, shareholders alleged Light & Wonder had misled investors about Dragon Train. The company disputed those claims. This was not Aristocrat suing again, and the filings reviewed for this story did not establish an investor verdict or a damages award.
 
 **P049**
 

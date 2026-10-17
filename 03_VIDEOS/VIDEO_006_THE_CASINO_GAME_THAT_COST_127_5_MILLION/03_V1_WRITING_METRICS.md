@@ -1,15 +1,11 @@
-# VIDEO006 — Stage03 V1 spoken-text metrics (post-editorial pass)
+# VIDEO006 — Stage03 V1 revised narration metrics (after Stage04 review)
 
-**Script state:** DRAFT V1. **2080 spoken words**, **51 paragraphs**, eight contiguous Short candidates. No Stage04 / Stage06 pass. Stage02 planned 15:55 estimated; final Harrison timing unmeasured.
+**Spoken longform:** 2029 English words / 51 paragraphs. Ten acts; every P001–P051 still maps to exactly one Stage02 beat via `03_SCRIPT_TRACE.csv`. **8 separate self-contained contiguous Short candidates** are literal full single paragraphs. Stage04 QC report is separate; no Audio Master, no estimated word count is a timed video.
 
-**Read-rate-only estimates:** 130 wpm 16.00 min, 140 wpm 14.86 min, 150 wpm 13.87 min, before breath and source-reading pauses. First act 134 words; shortened A09 151 words. No true timecode from audio.
+Read-time estimates (no pauses): **130 wpm 15.61 min, 140 wpm 14.49 min, 150 wpm 13.53 min**. Stage02 15:55 target is editorial only.
 
-**Acts word distribution:** A00 131; A01 184; A02 205; A03 234; A04 234; A05 219; A06 208; A07 193; A08 318; A09 151. Investor afterlife capped at source-scoped 65 sec in storyboard, but actual audio timing unknown.
+Short paragraph lengths: S01 P003 54 words; S02 P007 48 words; S03 P019 48 words; S04 P023 53 words; S05 P027 52 words; S06 P032 46 words; S07 P043 49 words; S08 P048 49 words. May still exceed 30s with Harrison's real emphasis or pauses. Stage11 validates actual <=30s including CTA. Stage04 reviews standalone factual/legal meaning; do not publish before subsequent locks.
 
-**Exact Short candidates:** S01 P003=54 words; S02 P007=57 words; S03 P019=56 words; S04 P023=59 words; S05 P027=58 words; S06 P032=54 words; S07 P043=53 words; S08 P048=58 words. Stage04 isolation legal QC NOT_RUN. 20–27 seconds planned per Short; final <=30s including CTA, requires voice measurements.
+Specific Stage04 repairs: P001 immediately establishes two families, USD127.5m and spreadsheet mystery. P003 settlement vs jury/penalty clearer. P007 shorter and more standalone. P021 explicitly names **Sky Train** as early Dragon Train development per ECF125 page 13; P023 names the 2013 metadata as court-described clue, not independent downloaded Excel. P027 partial defense agreement stronger. P032 temporary ban plus later vacatur in same Short. P040 removes invented causal motive “companies chose to avoid jury.” P043 differentiates contract and vacated order in one extract. P048 separate investor allegations and no adjudicated outcome in bounded reviewed filings.
 
-**Writing controls:** First minute names payer, payee, settlement, two titles, non-jury legal nature, 2013 evidence teaser. P018/P019 intentionally split inner-material context versus Short-ready formatting proof. P031/P032 intentionally split commercial impact versus Short-ready limited injunction. P027 and P043 rewritten to have standalone identifying hooks. A09 compressed so distinct investor litigation does not replace the paid settlement payoff.
-
-**Factual exclusions:** Unknown global removed cabinet count C034; no employee criminal guilt; no jury damages; no invented gameplay odds; no original Excel reproductions; no October2026 docket outcome of AztecGold; 2025 AU narrower extra relief refusal only; 2026 $128m accounting expense not an extra payment.
-
-**Required next:** Finish Stage03 independent fresh-artifact editorial QC; keep Stage04 fact/legal and each isolated Short marked NOT_RUN until user authorizes Stage04. No paid TTS/image/video/credit use.
+No paid TTS/image/video generations. Harrison remains channel voice but unsynthesized. Authenticated proprietary Excel binary not part of production source library, no fake worksheet imagery.
