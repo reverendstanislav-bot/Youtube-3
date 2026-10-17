@@ -8,3 +8,12 @@ Base: existing ACTIVE `05_SCRIPT_R3_REVISED.md` at branch main before this commi
 - Stage06 first-minute/hook/rhythm review and 3 cold-audience title candidates; owner title not changed.
 - Legal HOLD is not cleared: Oct14 official case-management minute and Oct15 signed stipulations/new docket, plus refreshed ECF177 primary recheck.
 - No changes outside VIDEO007; no credit spend, TTS, images, video or edit.
+
+
+## R3 second corrective pass — Oct17
+- Modified 14 R3 narration paragraphs, including exact legal scope of signed ECF175 and dated-only status of ECF176 potential counterclaims.
+- Corrected one substantive prior mistake: describing ordered records as only inside OpenAI; limited discovery applies to named defendants and specific requests.
+- Eliminated duplicate access explanation in A03 and made A01/A05 beats more distinct.
+- Regenerated exact SH06 + SH07 extracts, both duplicate map files, Shorts QC, word count and durations.
+- Replaced all 60 generic audit classifications with source-specific paragraph-level findings, and recorded current document-access failures.
+- Preserved Stage07 lock and original approved title. No paid generation.

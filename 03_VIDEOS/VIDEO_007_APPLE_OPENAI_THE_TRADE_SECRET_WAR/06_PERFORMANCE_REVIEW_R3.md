@@ -1,6 +1,6 @@
 # VIDEO 007 — Stage 06 R3 YouTube Performance Review (17 Oct 2026)
 
-**Editorial status: PASS with cautions for final Harrison delivery; overall release remains LEGAL HOLD.** Active input `05_SCRIPT_R3_REVISED.md`, 2464 spoken words, 10 acts, 60 narration paragraphs, 8 continuous extracted shorts. Runtime 15.9–18.3 min at 155–135 wpm. 145 wpm prediction 17.0 min; no TTS has run.
+**Editorial status: PASS with cautions for final Harrison delivery; overall release remains LEGAL HOLD.** Active input `05_SCRIPT_R3_REVISED.md`, 2454 spoken words, 10 acts, 60 narration paragraphs, 8 continuous extracted shorts. Runtime 15.8–18.2 min at 155–135 wpm. 145 wpm prediction 16.9 min; no TTS has run.
 
 ## Retention mechanics
 - **0–5 sec estimated:** Apple brings the first accusation, not abstract legal theory. Exact 5s boundary needs recorded voice.
@@ -22,7 +22,7 @@
 Owner title **Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.** remains untouched in `manifest.yaml`. **Packaging HOLD**: 'Everything Reversed' implies reversed court outcome, which is not established. Recommend A only for owner approval, not automatic title change.
 
 ## Eight shorts
-All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 145wpm: SH01 22.3s; SH02 23.6s; SH03 20.3s; SH04 21.5s; SH05 21.1s; SH06 24.4s; SH07 24.0s; SH08 23.2s. Allow margin for real Harrison pacing, intro/outro and 30.0s cap. `04_SHORTS_QC.csv` has one independent exact check per short. No voices generated.
+All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 145wpm: SH01 22.3s; SH02 23.6s; SH03 20.3s; SH04 21.5s; SH05 21.1s; SH06 21.9s; SH07 21.5s; SH08 23.2s. Allow margin for real Harrison pacing, intro/outro and 30.0s cap. `04_SHORTS_QC.csv` has one independent exact check per short. No voices generated.
 
 ## Quality risks
 - First act still includes mandatory caveats and will depend on performance/editing, so predictions are editorial, not guaranteed retention.
@@ -30,3 +30,6 @@ All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 1
 - The short with the narrowest 30s buffer should be tested first with real Harrison audio, not assumed clear on word count alone.
 
 **Stage07 NOT AUTHORIZED. No TTS, image generation, video, or external paid credits.**
+
+
+**Oct17 corrective QC:** A06 ECF175 now gives concrete granted/denied/deferred examples and the explicitly denied fourth early deposition. SH06/SH07 updated inside main narration and extracted maps. No empirically measured audience effect. Primary Oct14/15 and fresh ECF177 still HOLD.
