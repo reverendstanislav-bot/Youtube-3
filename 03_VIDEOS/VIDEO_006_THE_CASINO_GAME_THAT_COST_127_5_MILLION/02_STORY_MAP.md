@@ -1,6 +1,6 @@
 # VIDEO 006 — Stage 02 Case / Story Map V1
 **Working title:** The Casino Game That Cost $127.5 Million
-**2026-10-16 | Stage02 production design | Target long-form: 16:20 (980 sec) PROVISIONAL, not generated/audio-verified | Language: English (US).**
+**2026-10-16 | Stage02 production design | Target long-form: 15:55 (955 sec) PROVISIONAL, not generated/audio-verified | Language: English (US).**
 **Read first:** `01_STAGE01_FINAL_REPAIR_V3_20261016.md`, `01_SCRIPT_LEGAL_SAFETY_LOCK.md`, `CLAIMS_LEDGER.csv`, `CASE_EVENT_LEDGER.csv`.
 **Stage boundary:** narrative design only. No Stage03 script approved, no TTS or visuals/generated files, no rights approvals, no marketing-performance claims.
 
@@ -18,7 +18,7 @@
 **Hold until A03–A04:** Nature of the 2022 worksheet exchange, unusual blank cells/borders, and an early development spreadsheet stamped November 12, 2013. Tease “a date that predates the rival game by almost a decade” in A00 but do not imply independently certified underlying raw Excel.
 **Hold until A05:** Surprise fairness reversal: judge **accepted** L&W's argument regarding some SCAT2 probabilities, yet preliminarily found other confidential math combinations valuable. The case is not simply “same game graphics = theft.”
 **Hold until A08:** Precise separation of 2024/2025 **provisional court** remedy and 2026 **ongoing settlement contract**. Don't spend long lecturing on procedure earlier.
-**Short coda A09:** shareholder proceeding in Australia brought April 2026 is legally **separate**; it was a pending claimant allegation and company denial in reviewed 2026 filings, not an Aristocrat verdict and not a new verified dollar penalty. [S017,S018,S023]
+**Short coda A09 (strict maximum 65s):** shareholder proceeding in Australia brought April 2026 is legally **separate**; it was a pending claimant allegation and company denial in reviewed 2026 filings, not an Aristocrat verdict and not a new verified dollar penalty. [S017,S018,S023]
 
 ## 3. First minute — editor-first retention storyboard, NOT final voice copy
 - **0:00–0:05: Result before explanation.** TWO slot game families and the verified **$127.5M paid** in one clean visual hierarchy. Oral description must name Light & Wonder paid Aristocrat; avoid suggesting one machine by itself received a fine. [S007]
@@ -29,7 +29,7 @@
 - **First transition:** “To understand the payment, first understand what a game designer actually sells.” No Stage03 VO wording locked here.
 **First-minute acceptance:** A new US viewer can identify both companies, two game families, a paid settlement, the invisible-math dilemma and one unanswered specific provenance question. No cryptic “something happened” lines.
 
-## 4. Planned film acts (16:20 editorial budget; may shrink if scripted evidence has insufficient density)
+## 4. Planned film acts (15:55 editorial budget; may shrink if scripted evidence has insufficient density)
 | Act | Projected window | Story function / specific payoff | Primary source / claims | Open loop earned by facts |
 |---|---|---|---|---|
 | **A00 — THE NUMBER** | **00:00–00:58** | Money and two game families; settlement ≠ jury damage. Tease prior-dated spreadsheet. Reveal both sides so viewer knows stakes. | S007,S006 / C001-C004,C037,C045 | What was hidden inside these games? |
@@ -41,13 +41,13 @@
 | **A06 — THE GAME IS HALTED** | **08:45–10:30** | September2024 US preliminary injunction restricting Dragon Train commercialization; order clarified pre-existing installations and compliance certificates. L&W publicly disagreed/forecast small share of 2025 target. NO unsupported actual withdrawal counts, sales loss or final verdict. | S001,S003,S004 / C010-C012,C023-C024,C034 | The conflict would not stop with one title—or one court. |
 | **A07 — A SECOND GAME, TWO JURISDICTIONS** | **10:30–12:00** | February2025 Australia **refused extra mandatory measures** after L&W undertakings mirroring US restrictions (NOT Australian exoneration); July2025 stipulated US expansion includes Jewel of the Dragon. Keep jurisdictions separately labeled, show company/product consequences. | S020,S008,S007 / C013,C028,C046 | Why would the parties settle rather than litigate every disputed title? |
 | **A08 — THE PRICE AND THE PAPER** | **12:00–14:50** | Jan2026 settlement: certain math admitted used; both series cease commercialization permanently, delete specified data, best effort remove units, process for certain other titles, $127.5M **paid** confirmed Feb26. **Key legal reversal**: court VACATED temporary injunctions and dismissed suit while settlement contract keeps stop-selling obligations. Accounting ~128m GAAP charge ≠ another payment; no total-economic-cost claim. AU direct claims against specified L&W entities later closed Mar2026. | S005,S006,S007,S008,S009 / C001-C009,C025-C033,C038-C039 | Did “case closed” mean all consequences were finished? |
-| **A09 — THE AFTERLIFE** | **14:50–16:20** | April2026 separate AztecGold group proceeding over alleged misleading Dragon Train investor statements. Court-stamped summary filed Apr21 / L&W issuer says Apr22; narration **April 2026**. Company disputes, final liability/damages unknown. Finish with the documented business lesson: when the protected product is invisible math, reusing it can retire visible products. End on “settled IP lawsuit, distinct shareholder allegations pending in last reviewed report,” not fake judicial closure. | S017,S018,S022,S023 / C041-C043,C048-C050 | Answer delivered; one bounded status uncertainty, no cliffhanger bait. |
+| **A09 — THE AFTERLIFE** | **14:50–15:55** | April2026 separate AztecGold group proceeding over alleged misleading Dragon Train investor statements. Court-stamped summary filed Apr21 / L&W issuer says Apr22; narration **April 2026**. Company disputes, final liability/damages unknown. Finish with the documented business lesson: when the protected product is invisible math, reusing it can retire visible products. End on “settled IP lawsuit, distinct shareholder allegations pending in last reviewed report,” not fake judicial closure. | S017,S018,S022,S023 / C041-C043,C048-C050 | Answer delivered; one bounded status uncertainty, no cliffhanger bait. |
 
 ### Recommended tension shape
 **Shock (A00) → Understanding (A01) → Opportunity (A02) → Suspicion (A03) → Evidence reveal (A04) → Legitimate alternative (A05) → Economic intervention (A06) → Expanded exposure (A07) → Contractual financial payoff (A08) → Separate aftermath (A09).**
 
 ### Avoid forced length
-No repeated “the math is invisible” lecture in A03–A05. A01 owns explanation; A04 owns evidence. Cap A07 legal comparison to 90s; A08 gets extra time because it's the actual title payoff. If Stage03 strong narrated material is <16:20, shorten movie; do NOT invent filler to meet this provisional budget.
+No repeated “the math is invisible” lecture in A03–A05. A01 owns explanation; A04 owns evidence. Cap A07 legal comparison to 90s; A08 gets extra time because it's the actual title payoff. **Cap A09 at 65s** so an unrelated plaintiff's allegations don't steal the Aristocrat settlement ending. If Stage03 strong narrated material is <15:55, shorten movie; do NOT invent filler to meet this provisional budget.
 
 ## 5. Real chronology is NOT the story order
 The underlying truth runs through 2014/2016 product history, 2017/2021 employee timeline, 2022 worksheet, 2023 game launch, 2024 complaint / preliminary ruling, 2025 Australia/stipulated U.S. extension, 2026 settlement and separate shareholder lawsuit. Stage02 begins at January/February2026 results then returns to background; every flashback is overtly labeled “Earlier / in 2023,” not simulated with fake documents or invented exact dates. `02_TIMELINE.csv` maps all E001–E031 to act placement. [CASE_EVENT_LEDGER.csv]
