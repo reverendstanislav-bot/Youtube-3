@@ -28,7 +28,7 @@
 
 **Prohibited:** 'Apple caught stealing,' 'OpenAI won,' 'judge reversed case,' 'OpenAI countersued,' '14,000 files,' or any dollar award absent signed evidence.
 
-**Sources:** [ECF175 original](https://law.justia.com/cases/federal/district-courts/california/candce/5%3A2026cv07078/474095/175/); [ECF176 original](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0.pdf); [ECF177 original URL (fresh read failed)](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.177.0.pdf); [Bloomberg hearing report](https://news.bloomberglaw.com/tech-and-telecom-law/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight); [secondary October docket lead](https://www.litigationsentinel.com/article/apple-openai-trade-secret-stipulation).
+**Sources:** [ECF175 original](https://law.justia.com/cases/federal/district-courts/california/candce/5%3A2026cv07078/474095/175/); [ECF176 original](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0.pdf); [ECF177 authentic filed PDF mirror rechecked Oct17](https://9to5mac.com/wp-content/uploads/sites/6/2026/10/gov.uscourts.cand_.474095.177.0.pdf); [Bloomberg hearing report](https://news.bloomberglaw.com/tech-and-telecom-law/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight); [secondary October docket lead](https://www.litigationsentinel.com/article/apple-openai-trade-secret-stipulation).
 
 
 ## Addendum — October 17, 2026 independent corrective second review

@@ -1,3 +1,5 @@
+> **HISTORICAL R2 AUDIT (2026-10-16). NOT CURRENT VIDEO007 LEGAL QC.** The current live script is `05_SCRIPT_R3_REVISED.md`; current legal findings and remaining HOLD are in `04_FACT_LEGAL_QC_R3.md` (updated 2026-10-17). Historical R2 material below is preserved for traceability.
+
 # VIDEO007 — INDEPENDENT STAGE04 AUDIT: FACTS + FRESHNESS + CLICKBAIT + PERFORMANCE
 **Date:** October 16, 2026
 **DECISION:** ORIGINAL `03_SCRIPT_V1.md` = **REJECT FOR VOICE**. Revised `03_SCRIPT_V1_R2.md` = **EDITORIAL IMPROVEMENT, WITH PRIMARY-DOCUMENT HOLDS**. NOT FINAL STAGE04 FACT/LEGAL PASS.
