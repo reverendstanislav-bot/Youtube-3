@@ -102,7 +102,7 @@ One workbook discussed by the judge was called Inception Conception. It had been
 
 **P022**
 
-According to the judge's preliminary ruling, a development worksheet carried a creation date of November twelfth, 2013. The date matched an older Aristocrat-era workbook. That was years before Charles joined Light & Wonder and years before Dragon Train reached the market. Metadata alone doesn't prove everything; here it became part of the court's larger evidence assessment.
+The court compared the early Sky Train workbook with an older Dragon Link spreadsheet. Similarities in their structure and file history raised a question more specific than whether both games featured dragons. One date in particular stood out—and it came from years before Dragon Train was released.
 
 **P023** **[SHORT S04 — exact contiguous passage, subject to Stage04]**
 
