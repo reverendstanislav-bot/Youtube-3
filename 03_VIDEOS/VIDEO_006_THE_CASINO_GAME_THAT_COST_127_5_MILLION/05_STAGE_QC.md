@@ -65,3 +65,8 @@ Do not confuse the legal effect of **U.S. preliminary injunctions being vacated*
 ## 2026-10-17 historical addendum — corrective V3 now current
 
 Original report above remains a faithful historic V2 checkpoint. Source-authorized corrective V3 (`05_SCRIPT_V3.md`, `05_V3_REVISION_TRACE.csv`, `05_V3_SHORTS_MAP.csv`) replaces V2 as the **current editorial script** with 26 revised native paragraphs and three Short rechecks. New Stage06 text-only independent editorial pass 84/100 is documented in `06_V3_PERFORMANCE_REVIEW.md`; Stage07 remains NOT_STARTED, no Harrison VO, source-rights or Stage16 release lock granted.
+
+---
+
+## Current 2026-10-17 V4 owner override (prior V2/V3 sections historical)
+Exactly four <=30.0s complete Shorts selected: **S01/P003, S04/P023, S05/P027, S07/P043**. 4 revised native paragraphs, 51 stable P/B IDs, V4 Short isolation legal text pass, Stage06 re-review 84/100. Former 8 candidate plan superseded; actual audio timing unmeasured, Stage07 not started. See `05_SCRIPT_V4.md` and `05_V4_SHORTS_MAP.csv`.
