@@ -2,9 +2,9 @@
 
 **Owner-approved topic:** Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed. Original V1 and R2 preserved as historical drafts.
 
-**Current script:** `05_SCRIPT_R3_REVISED.md` — 2,251 spoken words, 10 acts, 60 labeled paragraphs; 8 complete contiguous Shorts in `03_SHORTS_MAP.csv`. Duration projected **14.5–16.7 minutes at 135–155wpm**, not Harrison measured voice.
+**Current script:** `05_SCRIPT_R3_REVISED.md` — 2464 spoken words; 10 acts, 60 paragraphs; 8 verbatim Shorts in `03_SHORTS_MAP.csv`. 15.9–18.3 min at 155–135wpm (unmeasured Harrison).
 
-**Stages:** Stage00 owner locked; Stage01 core research bounded PASS; Stage02 story map PASS; Stage03 R3 corrective rewrite; Stage04 Apple response ECF177 PRIMARY VERIFIED but signed stipulations/latest docket HOLD; Stage05 R3 draft complete editorial, Stage06–19 NOT RUN, no audio/images/video spend.
+**Stages:** 00 owner LOCK; 01–02 historical source/story complete with bounded holds; 03 R3 active; 04 full paragraph/Short wording independently QC'd but LEGAL HOLD on missing Oct14/15 operative originals; 05 corrective active R3 text complete; 06 text-only performance QC PASS WITH WARN; 07–19 NOT STARTED. No paid output.
 
 **ONE ACTIVE SCRIPT:** `05_SCRIPT_R3_REVISED.md` + `03_SHORTS_MAP.csv`. Separate `05_SCRIPT_V3.md` (2419 words) is an ARCHIVED alternate, NOT voice input. V1/R2 are historical only.
 
@@ -12,4 +12,8 @@
 
 **Packaging alternative, NOT owner locked:** Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
 
-**Next:** obtain Oct14 original minute + Oct15 signed/proposed orders/latest docket; run final Stage04 fact/legal and Stage06 retention and independent shorts; user approval before any voice or paid creation.
+**Next:** acquire Oct14 original case-management minute + Oct15 signed/proposed operative texts and current complete docket; re-open ECF177 for fresh comparison; then decide legal final gate before Stage07/voice. Check Harrison actual lengths only after user authorization.
+
+
+## R3 October 17 corrective QC
+47/60 narrative paragraphs substantively tightened; 2464 spoken words. 8 Shorts source-locked in parent narration (script-level PASS, audio HOLD). Authoritative current artifacts: `05_SCRIPT_R3_REVISED.md`, `03_SHORTS_MAP.csv`, `04_FACT_LEGAL_QC_R3.md`, `04_SCRIPT_FACT_AUDIT.csv`, `04_SHORTS_QC.csv`, `06_PERFORMANCE_REVIEW_R3.md`. Legal overall **HOLD**. ECF177 previously read (source ledger), fresh read failed. No statement that a signed Oct15 order was entered.

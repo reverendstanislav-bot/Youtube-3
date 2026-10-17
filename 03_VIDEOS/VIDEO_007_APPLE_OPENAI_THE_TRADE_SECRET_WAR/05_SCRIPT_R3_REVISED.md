@@ -1,12 +1,12 @@
 # VIDEO007 — ACTIVE STAGE05 SCRIPT R3
-**ACTIVE WORKING R3 — ORIGINAL APPLE RESPONSE ECF177 VERIFIED / STAGE07 VOICE NOT LOCKED**
+**ACTIVE WORKING R3 — 17 OCT 2026 CORRECTIVE STORY + LEGAL QC; STAGE07 VOICE NOT LOCKED**
 Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
-American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence refresh October 17, 2026: original Apple reply ECF177 retrieved and read; Oct14 hearing reported by Bloomberg; original minute/Oct15 signed order not independently verified.
+American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026: Apple reply ECF177 was previously verified in the project source ledger, but its PDF was not freshly accessible in this review. OpenAI supplement ECF176 and signed discovery ECF175 rechecked against public originals. Oct14 hearing independently reported; original minutes/Oct15 signed instruments and complete live docket not available.
 
 **Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2251 spoken words, projected 14.5–16.7 min at 135–155 wpm; NOT measured audio.
 
-**Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple original ECF177 response now VERIFIED. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. Stage04 must fact-review EVERY substantive paragraph before voice generation.
+**Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple original ECF177 response now VERIFIED. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. This revision cross-checks all 60 paragraphs at script level; signed-order/current-docket HOLD remains before Stage07 voice authorization.
 
 ## Narration — English US
 
@@ -16,19 +16,19 @@ American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-c
 
 **A00-P01 · SHORT SH01 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-Apple sued OpenAI, accusing its former employees of taking hardware secrets. Three months later, OpenAI told the court that a different departing employee had sent over one hundred confidential OpenAI files to personal accounts before returning to Apple. But the filing didn't establish that Apple received or used those files.
+Apple sued OpenAI, accusing former employees of taking its hardware secrets. Then OpenAI alleged a different employee, on the way back to Apple, sent more than a hundred confidential OpenAI files to personal accounts. Same courtroom. Opposite accusation. But no court finding that Apple received or used those files — or that OpenAI used Apple's.
 
 **A00-P02**
 
-The accusation now ran in the opposite direction. But this was not a countersuit or a judicial finding that either company stole anything.
+One side had filed a lawsuit. The other had not filed a counterclaim. And despite the symmetry of the headlines, the accusations involved different employees, different files, and different questions of proof.
 
 **A00-P03**
 
-Just one day earlier, the judge had granted Apple limited early discovery. At a hearing the next day, Bloomberg reported that OpenAI voluntarily promised not to use the disputed Apple information and to collect forensic images from fourteen employees' devices. Those weren't admissions of theft.
+Meanwhile, the case was changing in a concrete way. The judge ordered OpenAI to produce specific records early. Bloomberg Law reported a voluntary non-use commitment and planned forensic images of fourteen employees' devices. Those were procedural developments, not admissions or findings of theft.
 
 **A00-P04**
 
-Two years before this courtroom battle, the companies had announced ChatGPT's integration with Siri. How did partners end up fighting over hardware secrets — and what could their records actually prove?
+Just two years earlier, Apple and OpenAI had announced that ChatGPT would work with Siri. How did software partners become hardware opponents? And why did the court need to examine employees' files before anyone could say what was actually taken?
 
 ---
 
@@ -38,7 +38,7 @@ Two years before this courtroom battle, the companies had announced ChatGPT's in
 
 **A01-P01**
 
-The unusual part is that these companies had publicly worked together. In June twenty twenty-four, Apple and OpenAI announced plans to bring ChatGPT to Siri and other Apple software. Now both were pursuing consumer AI hardware, where talented engineers and private manufacturing knowledge could become competitive advantages.
+The partnership was about integrating artificial intelligence into Apple's software. It did not merge the companies' engineering teams, supplier relationships or confidential hardware research. Both could work together on a voice assistant while pursuing their own plans for physical AI devices.
 
 **A01-P02 · SHORT SH02 (EXACT ONE-PARAGRAPH EXTRACT)**
 
@@ -46,7 +46,7 @@ In twenty twenty-four, Apple and OpenAI announced a partnership bringing ChatGPT
 
 **A01-P03**
 
-An engineer who knows how a coating fails or which supplier can produce a difficult component takes that experience to a new job. A confidential drawing or manufacturing file belongs to a different category. This was the boundary both sides argued about.
+An engineer may know why a coating failed, how to solve a manufacturing problem, or which kind of battery design is unreliable. That experience can travel with the engineer. An employer's confidential drawing or supplier document is a different matter. The boundary is where this case begins.
 
 **A01-P04**
 
@@ -54,7 +54,7 @@ Hiring someone from a competitor isn't proof of theft. Accessing an old system, 
 
 **A01-P05**
 
-And here, Apple didn't simply accuse a rival of hiring its engineers. It said the line between a person's expertise and Apple's confidential material had been crossed. To understand that accusation, we need to meet the people named in its complaint.
+Apple's lawsuit tried to draw that boundary with specifics: who could still reach its systems, what appeared in recruiting discussions, and which records could connect those events to protected hardware information.
 
 ---
 
@@ -68,7 +68,7 @@ On July tenth, twenty twenty-six, Apple filed a civil lawsuit in federal court i
 
 **A02-P02**
 
-The civil complaint asked for restrictions on alleged misuse and possible financial remedies. It was not a criminal case, and no damages had been awarded.
+Apple wanted more than a trial years later. It sought restrictions on alleged misuse while competing products might still be under development. The request for a preliminary injunction was separate from its request to obtain evidence early.
 
 **A02-P03**
 
@@ -76,15 +76,15 @@ Apple brought six civil claims: four trade-secret claims under federal law and t
 
 **A02-P04**
 
-Apple's theory had two main parts: an engineer's unusual access after departure and interview questions allegedly aimed at confidential hardware projects.
+In Apple's account, the warning signs were connected: access after departure, downloaded hardware records, and recruiting conversations about confidential projects. But describing a pattern in a complaint is not the same as establishing one in evidence.
 
 **A02-P05**
 
-Apple's complaint didn't establish a fixed sum lost to OpenAI; it asked the court for remedies that still needed proof.
+The complaint also requested financial remedies. It did not establish a dollar amount that OpenAI had already cost Apple, and the reviewed orders did not award damages.
 
 **A02-P06**
 
-One allegation, though, had a detail so specific that it would become central to the evidence fight. Apple said an engineer had been able to reach internal material after leaving. And it claimed that unusual access had turned into downloaded files.
+One alleged trail was particularly testable. Apple said an engineer reached internal material after leaving and downloaded dozens of Apple-origin files. That would make access logs and forensic records central to the fight.
 
 ---
 
@@ -94,19 +94,19 @@ One allegation, though, had a detail so specific that it would become central to
 
 **A03-P01**
 
-Apple alleged Chang Liu retained an Apple laptop and used a colleague's authenticated computer after leaving. It also pointed to an unusual authentication problem that, Apple claimed, made private records accessible.
+Apple alleged that former engineer Chang Liu continued reaching restricted material after his departure, including through an authentication problem Apple described as rare. A system log may record activity; it cannot, by itself, establish why someone accessed a file or whether a rival ever used it.
 
 **A03-P02 · SHORT SH03 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-Apple's complaint describes a rare access problem after engineer Chang Liu left the company. Apple alleges that he used it to reach private hardware material and download dozens of files. Dozens — not the one hundred-plus OpenAI would describe later. And at this point, these were Apple's allegations, not a judge's findings.
+Dozens of Apple files. That is what Apple's complaint said former engineer Chang Liu downloaded after an unusual access problem. Apple alleges the files concerned private hardware work. Those are not the hundred-plus OpenAI files raised later — and a complaint is not a judge's finding that Liu misused anything.
 
 **A03-P03**
 
-Apple's allegation about dozens of Apple-origin files was separate from OpenAI's later allegation about more than a hundred OpenAI-origin files linked to an unnamed returning worker.
+Those digital traces have to answer more than whether a file was opened. Investigators need to know which system it came from, whether it crossed into someone else's possession, and what evidence connects it to any subsequent product work.
 
 **A03-P04**
 
-Apple also alleges that Liu kept an Apple laptop after departure and used another machine to reach internal resources. And it says he gave advice to an employee considering OpenAI about avoiding attention when leaving Apple. These are allegations that need to be tested against what the systems recorded, the surrounding messages, and the defendants' responses.
+Apple separately accused Liu of retaining a company laptop, reaching resources through another Apple computer, and advising a job candidate about avoiding scrutiny when leaving. Each claim required its own context, messages and technical evidence. OpenAI disputed the larger picture.
 
 **A03-P05**
 
@@ -114,7 +114,7 @@ There's a second question hiding inside the first. Even if a file was downloaded
 
 **A03-P06**
 
-Apple believed the pattern was serious enough to sue. OpenAI said the story behind the records was not what Apple was claiming.
+For Apple, these allegations raised the risk of confidential product information escaping its control. For OpenAI, they illustrated how the same technical activity could be interpreted very differently.
 
 ---
 
@@ -124,15 +124,15 @@ Apple believed the pattern was serious enough to sue. OpenAI said the story behi
 
 **A04-P01**
 
-OpenAI offered another account of the access. It said Apple's offboarding process sometimes left access open, and that Apple colleagues had asked Liu for help even after he left.
+OpenAI's response was not simply a denial. It pointed to Apple colleagues who, according to its account, asked Liu for help finding work material after he left. OpenAI argued that leftover system access and those requests complicated Apple's interpretation of his activity.
 
 **A04-P02 · SHORT SH04 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-OpenAI offers a very different account of Chang Liu's access to Apple systems. It says access sometimes remained active after employees left and that Apple colleagues even asked Liu for help. That is OpenAI's defense, not a court finding. The difference matters because access, permission, and misuse are three separate questions.
+What if an employer's systems still let a former engineer in? Apple treated Chang Liu's later access as part of its trade-secret allegations. OpenAI said leftover access and requests from Apple colleagues told another story. Neither theory was established simply by the existence of access. Permission, copying and misuse are different questions.
 
 **A04-P03**
 
-OpenAI published selected messages as part of that account. Those excerpts were one party's chosen evidence, not a judicial finding about the full record.
+OpenAI published selected redacted messages to support its account. Those excerpts show what the company chose to present; they do not, on their own, resolve what was on the machines, which files were copied, or which information the law protects.
 
 **A04-P04**
 
@@ -144,7 +144,7 @@ The defendants sought dismissal and opposed an early injunction. Those motions w
 
 **A04-P06**
 
-What makes this interesting is the unusual position both sides now occupied. Apple was insisting a collection of digital traces revealed misuse. OpenAI was saying Apple had misunderstood what its own systems and people had done. The judge would have to decide what information the parties should exchange before those competing stories could be properly tested.
+That left the judge facing competing explanations of the same trail. Before deciding whether urgent restrictions were justified, the court had to determine what evidence Apple could obtain early, and how narrowly to draw the request.
 
 ---
 
@@ -158,23 +158,23 @@ There was another former Apple employee at the center of the case: Tang Yew Tan,
 
 **A05-P02**
 
-Apple quoted a recruiting request for 'Actual parts.' According to the complaint, a candidate was asked about bringing physical Apple hardware to an interview. But a request isn't proof that anything was delivered.
+One phrase in Apple's complaint stood out: 'Actual parts.' Apple alleged a candidate was asked to bring physical Apple hardware to an OpenAI interview. The complaint also described the candidate's surprise. But the alleged request was not evidence that the part ever arrived.
 
 **A05-P03 · SHORT SH05 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-Apple alleges that confidential hardware information and even physical parts were discussed during OpenAI recruiting. The employee at the center of that allegation was former Apple executive Tang Yew Tan. But asking about a part is not proof that anyone delivered it. And Apple still had to establish which information was protected and how it was used.
+'Actual parts.' That phrase appears in Apple's complaint about OpenAI recruiting. Apple alleges former Apple executive Tang Yew Tan sought physical Apple hardware at interviews with candidates. OpenAI disputes wrongdoing. A request does not prove a part was brought or used. But it helps explain why Apple wanted the interview records.
 
 **A05-P04**
 
-OpenAI disputes wrongdoing. Its position is that experienced people can bring their professional skills with them, while confidential information from another employer is off limits. Apple argues the details in its complaint show conduct that went beyond an ordinary interview or ordinary job change.
+The dispute wasn't whether engineers could change jobs. It was what an interview could legitimately ask of them. OpenAI said outside trade secrets were off limits; Apple argued that the requests described in its complaint went further than testing a candidate's experience.
 
 **A05-P05**
 
-The actual interview documents could help distinguish ordinary technical recruiting from solicitation of protected information. Apple asked to see those documents early.
+Interview guides, candidate presentations and notes could expose what was asked and recorded, rather than what either company later claimed had been asked. That is why Apple's discovery request targeted those materials.
 
 **A05-P06**
 
-And now the case reached a point where the judge would decide how much of those records Apple could see early.
+Then the court ruled on what Apple could inspect before the normal evidence-exchange process.
 
 ---
 
@@ -188,15 +188,15 @@ On October thirteenth, Judge Edward Davila issued a ten-page order. Apple had as
 
 **A06-P02**
 
-The judge allowed specified forensic records and interview materials to be produced early, with deadlines for some records as short as five days. He also permitted limited depositions.
+The order required certain already collected forensic images on a five-day timetable and set a fourteen-day window for other permitted responses. It also covered interview documents and specified conversations, with limited depositions to follow.
 
 **A06-P03 · SHORT SH06 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-On October thirteenth, a federal judge gave Apple only part of its request for early evidence from OpenAI. Some forensic records, interview materials, and limited depositions were allowed. Broad demands for research-and-development documents were not accelerated, and other requests were deferred. This was a discovery ruling — not a verdict that OpenAI stole Apple's secrets.
+Apple sought early access to records inside OpenAI. On October thirteenth, the judge gave it a narrow path, not a blank check: specified forensic images, recruiting records and depositions. Broad early demands for research on batteries and metal finishes were denied, while other requests were deferred. It was a discovery order, not a ruling that OpenAI stole Apple's secrets.
 
 **A06-P04**
 
-He did not accelerate broad access to OpenAI's research on batteries, power management and metal finishes, and deferred requests using an overbroad definition of Apple-originated information.
+The court specified material used to guide or document interviews with Apple candidates, and LINE conversations involving Liu and another witness. But it declined to accelerate sweeping research files and asked for a narrower meaning of 'Apple Originated Information' before considering other requests.
 
 **A06-P05**
 
@@ -204,11 +204,11 @@ The judge also declined, in that discovery decision, to resolve the opposing for
 
 **A06-P06**
 
-Apple had gained a narrow route to evidence. The next day OpenAI raised the allegations going in the other direction.
+This was a measurable consequence of the lawsuit: records to be produced on deadlines and people who could be questioned under oath. It still did not establish liability or resolve the separate injunction motion.
 
 **A06-P07**
 
-Then, before the next day was over, the direction of the story changed.
+The next filing introduced a second file trail — this time originating inside OpenAI.
 
 ---
 
@@ -222,11 +222,11 @@ On October fourteenth, OpenAI filed a supplement to a case-management statement.
 
 **A07-P02**
 
-The more than one hundred files, according to OpenAI, concerned unreleased hardware, engineering data, suppliers, detailed images and manufacturing standards. The actual confidential documents weren't public.
+OpenAI described engineering and manufacturing data, detailed device images, supplier information, finishing standards, and reports on component coatings and seals. These were descriptions in a litigant's filing. The underlying confidential documents were not public evidence for viewers to examine.
 
 **A07-P03 · SHORT SH07 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-OpenAI's October fourteenth filing alleged that a former employee sent more than one hundred confidential files about an unreleased device to personal accounts before returning to Apple. It did not establish that those files reached Apple's corporate systems. A transfer to someone's personal account is a serious allegation. Proof of Apple using the information would be a different question.
+The biggest file count in the case did not come from Apple. OpenAI alleged that an employee returning to Apple sent more than one hundred confidential OpenAI files about unreleased hardware to personal accounts. They were not the dozens of Apple files in the original lawsuit. And that filing did not establish that Apple received or used them.
 
 **A07-P04**
 
@@ -234,11 +234,11 @@ The chronology is easy to get wrong. OpenAI described some transfers happening a
 
 **A07-P05**
 
-OpenAI also said it understood that the former employee had made a presentation concerning its product plans to Apple leadership. But that was OpenAI's stated understanding, not something the court confirmed. And the filing did not establish that Apple engineers possessed or used OpenAI's confidential material to design any product.
+OpenAI also said it understood that this former worker had presented its product plans to Apple leaders. 'Understood' matters: the filing did not establish what was actually presented, which files Apple personnel possessed, or whether its engineers used OpenAI's work.
 
 **A07-P06**
 
-OpenAI linked its concern to Apple's new consumer AI devices. But the timing of a product announcement is not proof that it contains a competitor's intellectual property.
+OpenAI cited Apple's new AI-enabled home-device push as a reason for concern. But a product announcement, even one close to a court filing, is not evidence that a competing company's confidential design was used.
 
 **A07-P07**
 
@@ -246,7 +246,7 @@ The twist had another limit that headlines could easily bury. OpenAI did not fil
 
 **A07-P08**
 
-A new alleged file trail pointed the other way. But the legal question was still the same: what could either company prove?
+The allegation changed the direction of scrutiny. Now both companies had to answer questions about people leaving, accounts they could reach, and what the digital evidence could actually connect.
 
 ---
 
@@ -256,23 +256,23 @@ A new alleged file trail pointed the other way. But the legal question was still
 
 **A08-P01**
 
-Then Apple filed its own response, ECF one hundred seventy-seven, on October fourteenth. Apple said OpenAI first warned it on Friday, October ninth, at two in the afternoon, that a returning employee might have retained OpenAI confidential information. Apple said it began investigating that day.
+Apple's response added another twist. In a court filing dated October fourteenth, Apple said OpenAI had already warned it on Friday, October ninth, at two in the afternoon. Apple said it opened an internal investigation that same day.
 
 **A08-P02**
 
-According to Apple's court filing, on Monday, October twelfth, it told OpenAI that its searches had not located confidential OpenAI material. Apple asked for further details to run alternative searches. It said OpenAI hadn't replied before filing its October fourteenth supplement. Those were Apple's own claims about the investigation — not independent court findings.
+Apple said it reported on Monday, October twelfth, that its searches had located no confidential OpenAI material, and asked OpenAI for specifics to run additional searches. Apple said it received no answer before OpenAI filed its supplement. That was Apple's litigation account, not an independent forensic finding.
 
 **A08-P03**
 
-That narrowed the question. OpenAI alleged a transfer into personal accounts and feared that its material could circulate inside Apple. Apple said it found none. Neither assertion established that Apple engineers received or used the files.
+So the companies were addressing different pieces of the chain. OpenAI alleged transfers to private accounts and feared the material might be inside Apple. Apple said it had found none in its searches. Neither statement proved what Apple's product engineers had received or used.
 
 **A08-P04**
 
-At the same day's hearing, Bloomberg Law reported that Judge Davila said he was highly likely to issue a preliminary injunction for Apple. OpenAI voluntarily agreed not to use the disputed Apple trade secrets and to collect forensic images from fourteen employees' devices.
+That same day, Bloomberg Law reported that Judge Davila was highly likely to grant Apple a preliminary injunction. It also reported that OpenAI voluntarily promised not to use the disputed Apple information and to collect forensic images from fourteen employees' devices. A reported promise is not a judicial finding of theft.
 
 **A08-P05**
 
-Legal reporting on the hearing minutes says the parties expected to submit a proposed order that could make Apple's injunction request moot. But without an authenticated signed order, a proposed stipulation is not the same as an entered injunction, and a voluntary non-use pledge is not a guilty plea.
+A separate account of the hearing minutes described plans for a stipulated order that could moot Apple's injunction motion. Proposed documents were reportedly submitted on October fifteenth. Their operative signed status was not independently confirmed here. A proposal cannot be narrated as an entered injunction.
 
 ---
 
@@ -282,35 +282,35 @@ Legal reporting on the hearing minutes says the parties expected to submit a pro
 
 **A09-P01**
 
-The case hadn't reversed in court. Its accusations now pointed both ways, involving different employees and different files.
+The lawsuit already carried observable costs, even without a price tag: rapid evidence-production deadlines, potential depositions, forensic scrutiny and lawyers arguing over the boundary between an engineer's experience and a company's protected files. None of these was a damages award.
 
 **A09-P02**
 
-Apple had secured limited expedited discovery. Bloomberg reported OpenAI's non-use commitment and forensic collection concerning fourteen employees. None of that proved either company's underlying accusation.
+Apple obtained a limited discovery ruling. OpenAI faced requested safeguards over alleged Apple material, according to the hearing report. The second, OpenAI-origin file allegation remained disputed. Procedural pressure is real; proof of theft is a different thing.
 
 **A09-P03 · SHORT SH08 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-OpenAI's allegation sounded like a surprise reversal. But Apple says it heard about the disputed files five days before OpenAI went to court. According to Apple's own response, it searched for the information and asked for more details. Its searches reportedly found nothing. Those statements don't prove OpenAI was wrong, but they change the chronology.
+The hundred-file allegation looked like a surprise reversal. But Apple's October fourteenth court response says OpenAI warned it on October ninth. Apple says it searched, reported finding no confidential OpenAI files on October twelfth, and asked for details. That is Apple's account, not a judicial clearance — and it makes the timeline more complicated than the headline.
 
 **A09-P04**
 
-The eventual cost depended on facts not yet established: which information was protected, who had access, whether the data was actually used and what damage followed. No final damages award was shown in the reviewed record.
+The potential financial outcome is still unknown. Apple sought remedies for alleged misuse, but a court would need to evaluate protected information, conduct and proven harm. There is no verified judgment here assigning either rival a dollar cost for stolen secrets.
 
 **A09-P05**
 
-Experience can move with an engineer. An employer's confidential files are different. Proof of one step doesn't automatically establish the next.
+A download does not automatically establish delivery to a competitor. A presentation allegation does not automatically establish what an executive saw. A voluntary promise not to use information does not prove that information had been used. Every step needs its own evidence.
 
 **A09-P06**
 
-What happens next depends on actual document production, any signed court orders and whether a counterclaim is ever filed.
+The questions that could decide the dispute are specific: what the preserved devices show, what the interview records contain, whether future filings add claims, and what any signed judicial order actually requires.
 
 **A09-P07**
 
-The twist wasn't that OpenAI had defeated Apple. It was that OpenAI raised a second allegation just as the court was ordering evidence about the first. The real question — where did protected information go? — remained unresolved.
+The reversal was in who had to explain the evidence. Apple's case demanded answers from OpenAI about former Apple employees. OpenAI's filing made Apple answer questions about its own searches. Neither side had proved its larger accusation. The next turning point would come from records and rulings, not from a headline.
 
 ## NON-SPOKEN STAGE 04 / EDITOR NOTES
 - 8 exact contiguous Short candidates: SH01=A00-P01 | SH02=A01-P02 | SH03=A03-P02 | SH04=A04-P02 | SH05=A05-P03 | SH06=A06-P03 | SH07=A07-P03 | SH08=A09-P03. No stitched passages, new narration, or alternate TTS.
 - Each selected Short is ~20–27 spoken seconds in intent; final export MUST be <=30.0s including end card/CTA. Estimated read speeds are not measured voice timing. Rewrite the same paragraph in the long-form before Stage07 if necessary.
 - All source text must come from authentic original court pages; no invented document stills, email/chat reproductions, supplier records or unreleased device reconstructions.
-- Outstanding HOLD: official Oct14 minute and original signed status of Oct15 proposed stipulations, refreshed full docket, rights/hash QC. **Apple original ECF177 reply IS VERIFIED.**
-- Original case research through Oct17; do not imply Oct15 proposed stipulations were signed. Stage07 and Stage16 require docket refresh.
+- Outstanding HOLD: official Oct14 minute, original signed status of Oct15 proposed stipulations, refreshed full docket, rights/hash QC. **ECF177 was previously checked as a project primary; today's independent retrieval failed, so ECF177 factual statements remain attributed to Apple's filing, not certified as judicial truth.**
+- Research cutoff Oct17; do not imply Oct15 proposals were signed or that any later docket action has been ruled out. Stage07 and Stage16 require docket refresh. Stage06 completed text-only; voice/CTR not measured.
