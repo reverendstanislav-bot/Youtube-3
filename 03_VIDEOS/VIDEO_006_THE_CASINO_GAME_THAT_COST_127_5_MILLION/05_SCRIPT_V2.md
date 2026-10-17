@@ -10,11 +10,11 @@
 
 **P001**
 
-Two casino-game families. A $127.5 million settlement. And a clue hiding in a spreadsheet.
+A casino-game fight ended in a $127.5 million payment. The strangest evidence wasn't on a casino floor.
 
 **P002**
 
-Light & Wonder paid its rival Aristocrat. Not because somebody hit a jackpot, but after a fight over what those casino games were built from.
+Light & Wonder paid its competitor, Aristocrat. The dispute wasn't only about dragons on the screen. It was about how the games had been built.
 
 **P003** **[SHORT S01 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -22,17 +22,17 @@ Light & Wonder paid rival Aristocrat one hundred and twenty-seven point five mil
 
 **P004**
 
-In the court record, a clue wasn't a dragon or a spinning reel. It was a spreadsheet with a creation date pointing back to 2013.
+One document brought the story back to a spreadsheet created in 2013—years before the rival game reached players.
 
 **P005**
 
-How could a date buried in a worksheet help push two casino-game families out of commercial sale?
+So how did the history of a spreadsheet become part of a fight that took two game families out of future sales?
 
 ## A01 — THE INVISIBLE PRODUCT
 
 **P006**
 
-Look at a casino machine from the player's side. You see animated symbols, features, and the possibility of a prize. What you don't see is the model determining how those events are arranged.
+Watch a casino game and you'll see symbols, bonus features, and prizes. You won't see the calculations behind them: the choices that shape how those features work.
 
 **P007** **[SHORT S02 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -40,37 +40,37 @@ Two casino-game makers, Aristocrat and Light & Wonder, fought over what players 
 
 **P008**
 
-Imagine two games with similar bonus features. You can observe how they behave, but observing a game is not the same as possessing its internal worksheets: the design choices and calculations behind those features. That information may have taken time, expertise, and money to develop.
+A familiar bonus feature doesn't mean two manufacturers used the same internal design. But the private worksheets behind a game can reveal choices that players—and competitors—wouldn't see just by watching the screen.
 
 **P009**
 
-And not every probability is a secret. A player, mathematician, or rival designer might infer certain patterns from what the game publicly does. The court would later make exactly that distinction.
+That difference is central to this case. Some probabilities may be inferred by studying a game. The underlying design of other features can be a different matter entirely.
 
 **P010**
 
-So to understand the lawsuit, start with the earlier games that Aristocrat says carried its valuable mathematical work.
+To see why Aristocrat cared, go back to the games it made before Dragon Train existed.
 
 ## A02 — THE PERSON AND THE LAUNCH
 
 **P011**
 
-Aristocrat developed Lightning Link, followed by Dragon Link. Those products helped establish the company's particular approach to game mechanics, prizes, and mathematical design. A competing manufacturer had every incentive to build something successful of its own.
+Aristocrat had already developed Lightning Link and Dragon Link. Those games were built around distinctive bonus mechanics and mathematical models. When another manufacturer entered that market, the question wasn't simply whether its artwork looked familiar.
 
 **P012**
 
-One person in the court's account connected those worlds. Mathematician Emma Charles worked for Aristocrat until 2017. In July 2021, she joined Scientific Games, the business that became Light & Wonder. Those employment dates are documented; changing employers, of course, is not itself wrongdoing.
+In the court's account, one mathematician linked the two companies. Emma Charles worked for Aristocrat until 2017. In July 2021, she joined Scientific Games, which later became Light & Wonder. Changing jobs was not the allegation. The dispute concerned how the new game's math was developed.
 
 **P013**
 
-By late 2021, Charles was working on Dragon Train. Other designers and mathematicians were involved too. Light & Wonder would argue that its people developed important parts independently. For Aristocrat, the central question became whether the new team's work crossed the line from industry experience into confidential information.
+By late 2021, Charles was working on Dragon Train with other developers. Light & Wonder would later point to work done independently by its team. Aristocrat questioned whether experience from the earlier games had crossed into use of confidential mathematical material.
 
 **P014**
 
-In August 2023, Light & Wonder presented Dragon Train at the Australasian Gaming Expo. A rival title was now in public view. What customers saw could be compared. The mathematical files used to develop it could not.
+In August 2023, Light & Wonder presented Dragon Train at the Australasian Gaming Expo. The rival product was now on public display, even though the calculations behind its features remained out of view.
 
 **P015**
 
-According to the preliminary court decision, an Aristocrat designer played Dragon Train and immediately noticed similarities with Dragon Link. He could see shared-looking features, but not the math behind them. That gap between what was visible and what Aristocrat suspected would become the center of the dispute.
+An Aristocrat designer played Dragon Train and noticed similarities with Dragon Link, the preliminary court ruling recounts. Familiar-looking features could raise a question. They couldn't, on their own, reveal the source of the rival game's math.
 
 ## A03 — FROM SIMILARITY TO A FILE
 
