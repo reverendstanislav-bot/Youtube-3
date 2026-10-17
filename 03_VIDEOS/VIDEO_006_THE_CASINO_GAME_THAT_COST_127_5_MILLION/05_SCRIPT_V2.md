@@ -212,7 +212,7 @@ In February 2026, the U.S. claims and counterclaims were dismissed. According to
 
 **P047**
 
-The next claimants weren't Aristocrat. They were investors who said they had been misled about Dragon Train.
+After the settlement, a different group sued: Light & Wonder investors.
 
 **P048** **[SHORT S08 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -220,13 +220,13 @@ A separate investor lawsuit followed the Aristocrat settlement. In April 2026, s
 
 **P049**
 
-The proposed class covered people who bought Light & Wonder's Australian-listed depositary interests between May 2023 and September 2024. Their claim concerned investor disclosures, not ownership of the game math itself.
+The proposed class covered Australian-listed depositary-interest buyers from May 2023 through September 2024.
 
 **P050**
 
-In its August 2026 quarterly filing, Light & Wonder disputed the allegations. No verdict or quantified damages were reported in that filing.
+An August 2026 filing said Light & Wonder contested the claims; no verdict or quantified damages were reported.
 
 **P051**
 
-The verified payment was $127.5 million. Dragon Train and Jewel of the Dragon remained subject to permanent no-commercialization terms. From the player's side, the games were dragons, reels, and jackpots. The dispute underneath them was about who could use the mathematics that made them work.
+The verified payment was $127.5 million. Two game families remained under permanent no-commercialization terms. The dragons were visible. The math behind them was the fight.
 
