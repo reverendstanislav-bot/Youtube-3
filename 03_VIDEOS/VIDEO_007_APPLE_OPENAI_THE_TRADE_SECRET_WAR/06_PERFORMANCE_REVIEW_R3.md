@@ -1,12 +1,12 @@
 # VIDEO 007 — Stage 06 R3 YouTube Performance Review (17 Oct 2026)
 
-**Editorial status: PASS with cautions for final Harrison delivery; overall release remains LEGAL HOLD.** Active input `05_SCRIPT_R3_REVISED.md`, 2448 spoken words, 10 acts, 60 narration paragraphs, 8 continuous extracted shorts. Runtime 15.8–18.1 min at 155–135 wpm. 145 wpm prediction 16.9 min; no TTS has run.
+**Editorial status: PASS with cautions for final Harrison delivery; Stage04 legal SCRIPT PASS based on Oct16 official court docket; final release still requires Stage16 legal refresh.** Active input `05_SCRIPT_R3_REVISED.md`, 2484 spoken words, 10 acts, 60 narration paragraphs, 8 continuous extracted shorts. Runtime 16.0–18.4 min at 155–135 wpm. 145 wpm prediction 17.1 min; no TTS has run.
 
 ## Retention mechanics
 - **0–5 sec estimated:** Apple brings the first accusation, not abstract legal theory. Exact 5s boundary needs recorded voice.
 - **5–15 sec estimated:** 100+ OpenAI files and return to Apple generate a reversal of accusations, *not a reversed legal result*.
 - **15–30 sec estimated:** hook closes with 'no court finding' and the missing-proof gap; first hard payoff before the courtroom detail.
-- **30–60 sec estimated:** ECF175 records, Bloomberg-reported 14 devices, and Siri partnership put risk and surprise into a recognizable business conflict. A00 approx 69.9s at 145 wpm; not measured.
+- **30–60 sec estimated:** ECF175 records, Bloomberg-reported 14 devices, and Siri partnership put risk and surprise into a recognizable business conflict. A00 approx 71.2s at 145 wpm; not measured.
 - A01–A03: recognizable partnership, legal boundary, specific Chang Liu access claim; removed repeated teaching moments.
 - A04–A06: opposing explanation, 'Actual parts' vivid sourced phrase, then exact judge-ordered documents and depositions. Actual procedural payoff instead of generic court drama.
 - A07–A08: OpenAI-origin 100+ file allegation, June 2 / October 14 distinction, Apple Oct9/12 response. Limits on proof are integrated at each reveal.
@@ -22,11 +22,11 @@
 Owner title **Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.** remains untouched in `manifest.yaml`. **Packaging HOLD**: 'Everything Reversed' implies reversed court outcome, which is not established. Recommend A only for owner approval, not automatic title change.
 
 ## Eight shorts
-All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 145wpm: SH01 22.8s; SH02 23.6s; SH03 20.3s; SH04 21.5s; SH05 21.1s; SH06 21.9s; SH07 21.5s; SH08 23.2s. Allow margin for real Harrison pacing, intro/outro and 30.0s cap. `04_SHORTS_QC.csv` has one independent exact check per short. No voices generated.
+All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 145wpm: SH01 22.8s; SH02 23.6s; SH03 20.3s; SH04 21.5s; SH05 21.1s; SH06 21.9s; SH07 21.5s; SH08 21.5s. Allow margin for real Harrison pacing, intro/outro and 30.0s cap. `04_SHORTS_QC.csv` has one independent exact check per short. No voices generated.
 
 ## Quality risks
 - First act still includes mandatory caveats and will depend on performance/editing, so predictions are editorial, not guaranteed retention.
-- The Apple ECF177 paragraph and Oct14/15 court posture need fresh primary re-read before Script Lock.
+- ECF188/189 signed Oct16 disposition is now independently verified from official court docket; full order PDFs cannot support additional narrated stipulation details.
 - The short with the narrowest 30s buffer should be tested first with real Harrison audio, not assumed clear on word count alone.
 
 **Stage07 NOT AUTHORIZED. No TTS, image generation, video, or external paid credits.**
@@ -36,3 +36,7 @@ All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 1
 
 
 Oct17 legal-script refinement: ECF177 original now directly verified; A08-P05 anchored to ECF176/ECF177 rather than secondary proposed order and SH01 narrowed to claims about what filings do not establish. Final audio unmeasured; Stage07 blocked by latest docket.
+
+
+## October 17 final performance update
+The court's **real October16 ruling** now provides a concrete new payoff and a truthful ending. Revised A00 hooks the viewer with two allegations, then within opening act reveals the approved forensic/expedited-discovery deals and the *moot* injunction request. A08–A09 contrast Bloomberg's reported Oct14 inclination with official signed Oct16 outcome, rather than leaving an outdated hypothetical verdict hanging. SH08 now covers the authentic procedural twist, not another duplicated filing date. Editorial retention comments remain predictions, not measured audience data.

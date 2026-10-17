@@ -1,18 +1,18 @@
 # VIDEO007 — ACTIVE STAGE05 SCRIPT R3
-**ACTIVE WORKING R3 — 17 OCT 2026 CORRECTIVE STORY + LEGAL QC; STAGE07 VOICE NOT LOCKED**
+**ACTIVE WORKING R3 — OCT17 OFFICIAL DOCKET REFRESH / STAGE04 SCRIPT LEGAL PASS; STAGE07 OWNER LOCK NOT DONE**
 Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
-American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026: ECF175 verified against published original judicial text, ECF176 checked in the earlier project primary-source review, and ECF177 original filed PDF was independently reopened from the 9to5Mac source mirror and page 2 verified on October 17, 2026. The Oct14 original minute entry, Oct15 operative signed instruments and complete post-Oct13 docket were not independently accessible.
+American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026. Court's **official Northern District of California case docket** now records signed ECF188 and ECF189 on Oct16: joint preservation/forensic stipulation granted, Apple's ECF38 preliminary-injunction motion found moot, and joint expedited-discovery stipulation granted. Those docket descriptions are primary court records; full order PDFs and the October14 transcript were not retrieved and their detailed conditions must NOT be invented. Earlier primary ECF1/175/176/177 remain case facts attributed as appropriate.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2448 spoken words, projected 15.8–18.1 min at 155–135 wpm; NOT measured Harrison audio.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2484 spoken words, projected 16.0–18.4 min at 155–135 wpm; NOT measured Harrison audio.
 
-**Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple ECF177 page 2 was independently rechecked in an original filed-PDF mirror, with the 2026-10-14 court filing header preserved. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. This revision audits all 60 paragraphs against the available originals, party filings and attributed secondary reporting. Signed-order/current-docket and ECF177 fresh-source HOLD remain before Stage07 voice authorization.
+**Mandatory legal locks:** Apple ECF1 allegations and OpenAI ECF176 allegations are contested and concern distinct employees and distinct file populations. ECF176 is NOT a filed counterclaim. Apple ECF177 search claims are APPLE'S assertions, not independent forensic findings. ECF175 is an Oct13 narrow *expedited discovery* order and not a preliminary-injunction order. The court's OFFICIAL DOCKET describes ECF188 (Oct16) as granting joint document preservation/forensic inspection and finding Apple's separate preliminary-injunction motion moot, and ECF189 (Oct16) as granting joint expedited discovery. **Moot does not mean denied on the merits, exoneration, verdict, or admission.** Do not invent operative stipulation language when full order PDFs are unavailable. Bloomberg Oct14 is an attributed reporter account of that hearing, superseded on injunction posture by the Oct16 court docket. No verified award or final merits outcome in sources reviewed. Stage04 SCRIPT-SCOPED LEGAL PASS as of Oct17; Stage16 requires another current-case refresh before publishing.
 
 ## Narration — English US
 
 ### A00 — THE REVERSAL
 
-*NON-SPOKEN: sources S001,S005,S006,S018,S019; claim IDs C001,C026,C033,C035,C041,C049.*
+*NON-SPOKEN: sources S001,S005,S006,S018,S023,S024; claim IDs C001,C026,C033,C035,C041,C049,C060,C061.*
 
 **A00-P01 · SHORT SH01 (EXACT ONE-PARAGRAPH EXTRACT)**
 
@@ -24,11 +24,11 @@ Apple's lawsuit accused former employees and their new employers. OpenAI's Octob
 
 **A00-P03**
 
-Meanwhile, the court had ordered specified defendants to provide certain records early. Bloomberg Law reported that OpenAI offered a voluntary non-use commitment and forensic images from fourteen employees' devices. Those developments did not determine whether anyone stole or used protected information.
+But something more concrete happened. On October sixteenth, the judge approved a joint agreement about preserving documents and forensic inspection. He found Apple's request for a preliminary injunction moot. A second order approved expedited discovery. The court had acted — without finding either side guilty of stealing trade secrets.
 
 **A00-P04**
 
-Just two years earlier, Apple and OpenAI had announced that ChatGPT would work with Siri. How did software partners become hardware opponents? And why did the court need to examine employees' files before anyone could say what was actually taken?
+Just two years earlier, the companies had announced ChatGPT would work with Siri. How did software partners end up here? And how did an urgent demand for an injunction turn into court-approved evidence safeguards instead?
 
 ---
 
@@ -204,7 +204,7 @@ The judge also declined, in that discovery decision, to resolve the opposing for
 
 **A06-P06**
 
-This was a measurable consequence of the lawsuit: records to be produced on deadlines and people who could be questioned under oath. It still did not establish liability or resolve the separate injunction motion.
+The ruling meant specified forensic and interview evidence could be obtained earlier than normal. The injunction motion was a separate question. Three days later, another court order would change its procedural status.
 
 **A06-P07**
 
@@ -252,7 +252,7 @@ The allegation changed the direction of scrutiny. Now both companies had to answ
 
 ### A08 — APPLE'S RESPONSE — AND THE MISSING PROOF
 
-*NON-SPOKEN: S018 ORIGINAL ECF177 Apple response; S016 Bloomberg hearing; S019 independent docket reporter, original minute/Oct15 stipulation HOLD; claims C043–C046,C053–C059.*
+*NON-SPOKEN: S018 original Apple ECF177 response; S016 Bloomberg reported Oct14 hearing; S023/S024 official federal district-court docket ECF188/189 entered Oct16; claims C043–C046,C053–C061. Full Oct16 order texts not separately read.*
 
 **A08-P01**
 
@@ -268,49 +268,50 @@ So the companies were addressing different pieces of the chain. OpenAI alleged t
 
 **A08-P04**
 
-That same day, Bloomberg Law reported that Judge Davila was highly likely to grant Apple a preliminary injunction. It also reported that OpenAI voluntarily promised not to use the disputed Apple information and to collect forensic images from fourteen employees' devices. A reported promise is not a judicial finding of theft.
+At the October fourteenth hearing, Bloomberg Law reported that Judge Davila appeared highly likely to grant Apple a preliminary injunction. OpenAI reportedly pledged not to use disputed Apple information and to collect forensic images from fourteen employees' devices. Those were reported hearing developments, not a signed finding of theft. The decisive written docket entries came two days later.
 
 **A08-P05**
 
-Apple's written response also argued that OpenAI's new allegation was unrelated to Apple's existing lawsuit. That was Apple's legal position, not a ruling. OpenAI, meanwhile, had requested time to investigate possible counterclaims. Its October fourteenth supplement was not itself a counterclaim, and it did not resolve Apple's request for an injunction.
+On October sixteenth, the federal court entered two orders. ECF one hundred eighty-eight approved a joint stipulation for document preservation and forensic inspection, and found Apple's preliminary-injunction motion moot. ECF one hundred eighty-nine approved a joint stipulation on expedited discovery. Neither docket entry declared that OpenAI or Apple had stolen trade secrets.
 
 ---
 
 ### A09 — WHAT IT COULD COST
 
-*NON-SPOKEN: sources S001,S005,S006,S018,S019; claim IDs C012,C013,C014,C041,C042,C049,C051.*
+*NON-SPOKEN: sources S001,S005,S006,S018,S023,S024; claim IDs C012,C013,C014,C041,C042,C049,C051,C060,C061.*
 
 **A09-P01**
 
-The lawsuit already carried observable costs, even without a price tag: rapid evidence-production deadlines, potential depositions, forensic scrutiny and lawyers arguing over the boundary between an engineer's experience and a company's protected files. None of these was a damages award.
+That was a real cost of the conflict, although not a damages award: preservation of evidence, forensic inspection, early document production and constrained questioning of employees and corporate representatives. The court's approved process became part of the business burden of defending the case.
 
 **A09-P02**
 
-One result was confirmed by the October thirteenth order: specific early evidence could be requested on the court's timetable. The reported non-use pledge and fourteen-device forensic undertaking concerned Apple's allegations. OpenAI's separate allegation about personal-account transfers remained disputed.
+The immediate procedural result was no longer a mystery. Apple's preliminary-injunction motion was moot after the judge approved the parties' preservation-and-inspection stipulation. The separate expedited-discovery stipulation was approved too. The court's entries established those outcomes, not the truth of either side's accusations.
 
 **A09-P03 · SHORT SH08 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-The hundred-file allegation looked like a surprise reversal. But Apple's October fourteenth court response says OpenAI warned it on October ninth. Apple says it searched, reported finding no confidential OpenAI files on October twelfth, and asked for details. That is Apple's account, not a judicial clearance — and it makes the timeline more complicated than the headline.
+Apple sought a preliminary injunction against OpenAI. On October sixteenth, the judge approved a joint agreement on document preservation and forensic inspection, and found Apple's injunction motion moot. A second order approved expedited discovery. This was a real courtroom result — but it was not a ruling that OpenAI had stolen Apple's secrets.
 
 **A09-P04**
 
-The potential financial outcome is still unknown. Apple sought remedies for alleged misuse, but a court would need to evaluate protected information, conduct and proven harm. There is no verified judgment here assigning either rival a dollar cost for stolen secrets.
+The financial outcome still could not be reduced to a trustworthy dollar figure. Apple requested remedies for alleged misuse. But neither the verified complaint nor these October orders supplied a damages award, and no finding of trade-secret liability followed from the court's procedural decisions.
 
 **A09-P05**
 
-A download does not automatically establish delivery to a competitor. A presentation allegation does not automatically establish what an executive saw. A voluntary promise not to use information does not prove that information had been used. Every step needs its own evidence.
+An employee's download does not establish a rival company's use. A reported presentation does not prove which files anyone saw. And an injunction motion becoming moot after a preservation agreement is not an acquittal or a verdict. Each link in either company's accusation still needs proof.
 
 **A09-P06**
 
-The questions that could decide the dispute are specific: what the preserved devices show, what the interview records contain, whether future filings add claims, and what any signed judicial order actually requires.
+The next contested questions concern what the preserved records show, what the forensic inspections reveal, and whether OpenAI will ever formally pursue claims of its own. The signed orders fix immediate procedures; they do not resolve the underlying trade-secret dispute.
 
 **A09-P07**
 
-The story's reversal was an exchange of allegations, not a judicial reversal. Apple's complaint put former Apple employees and OpenAI under scrutiny; OpenAI's October filing prompted Apple to explain its own investigation. The next meaningful answers must come from evidence, any formally filed new claims and actual court orders.
+Apple accused OpenAI first. OpenAI then raised an allegation pointing back toward Apple. But the actual court ending of this chapter was neither side winning a theft verdict. The judge approved evidence-preservation and discovery agreements, while Apple's urgent injunction motion became moot. The price, for now, is compelled scrutiny — and a fight over what the evidence will ultimately prove.
 
 ## NON-SPOKEN STAGE 04 / EDITOR NOTES
-- 8 exact contiguous Short candidates: SH01=A00-P01 | SH02=A01-P02 | SH03=A03-P02 | SH04=A04-P02 | SH05=A05-P03 | SH06=A06-P03 | SH07=A07-P03 | SH08=A09-P03. No stitched passages, new narration, or alternate TTS.
-- Each selected Short is ~20–27 spoken seconds in intent; final export MUST be <=30.0s including end card/CTA. Estimated read speeds are not measured voice timing. Rewrite the same paragraph in the long-form before Stage07 if necessary.
-- All source text must come from authentic original court pages; no invented document stills, email/chat reproductions, supplier records or unreleased device reconstructions.
-- Outstanding legal HOLD: Oct14 case-management minute, original signed/operative status of Oct15 proposed stipulations, complete subsequent docket and formal counterclaim/injunction status. ECF177 is PRIMARY RECHECKED. Separate production-source rights/hash QC remains for later stages.
-- Evidence cutoff Oct17. All October 14 filing descriptions refer to those filings themselves, not a certified latest case status. No conclusion is claimed about an injunction or counterclaim after the verified filings. Stage07/16 require complete docket refresh. Stage06 text-only; voice/CTR not measured.
+- Active script has 60 complete narration paragraphs and eight identical one-paragraph Shorts: SH01=A00-P01, SH02=A01-P02, SH03=A03-P02, SH04=A04-P02, SH05=A05-P03, SH06=A06-P03, SH07=A07-P03, SH08=A09-P03.
+- **Verified court result (primary official docket):** On October 16, 2026, signed ECF188 approved joint preservation/forensic-inspection stipulation and FOUND MOOT Apple's ECF38 preliminary-injunction motion; ECF189 approved a joint expedited-discovery stipulation. These are NOT findings of liability. Source entries S023/S024.
+- Full PDFs of ECF188/189 and Oct14 hearing transcript not independently obtained. Only describe exact operative outcomes appearing in official docket summary; never reconstruct the contents, additional promises, devices or inspection conditions from inference.
+- Distinct file groups: Apple complaint alleged dozens of Apple files; OpenAI ECF176 alleged 100+ OpenAI-origin files sent to personal accounts. No proof Apple corporate possession/use. ECF176 alone does not file a counterclaim; do not rule out future filings.
+- Shorts are exact portions of long-form master. 20–27 s at 145 wpm is a provisional read-speed estimate, NOT measured Harrison output. Each final exported Short <=30s including tail and CTA. No TTS authorization.
+- Script-level legal QC **PASS AS OF OCTOBER 17, 2026** strictly for grounded claims. Stage07 owner script lock remains separate; Stage16 prepublish new docket refresh mandatory. Packaging title 'Then Everything Reversed' owner-approved topic but risks suggesting a court merits reversal: **NOT approved as publication title** until user selects compliant packaging.

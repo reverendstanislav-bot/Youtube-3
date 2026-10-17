@@ -5,21 +5,21 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "IN_PREPARATION"
+status: "STAGE07_SCRIPT_LOCK_PENDING_OWNER"
 created: "2026-10-16"
 last_updated: "2026-10-17"
-current_stage: "06_PERFORMANCE_REVIEW_COMPLETE_LEGAL_HOLD"
-next_action: "Stage04 legal HOLD: verify Oct14 original minute, Oct15 operative orders/current docket; use sole active R3 (2448 spoken words) for eventual Stage07 only after resolution."
-blockers: ["Official Oct14 case-management minute and Oct15 signed/proposed injunction stipulations not directly verified", "Complete post-Oct14 docket and any later counterclaim/injunction order cannot be certified from public subset", "Harrison audio and 30-second Shorts timing pending owner authorization"]
+current_stage: "07_SCRIPT_LOCK_READY_FOR_OWNER"
+next_action: "Stage07 owner review of single active R3 after Stage04 Oct17 script legal PASS. No voice/media until explicit owner authorization. Stage16 new-docket refresh required prepublication."
+blockers: ["Stage07 owner script lock not yet approved", "Stage17 packaging: working title Everything Reversed risks implying merits reversal", "Stage16 current case docket and full primary order text refresher before publication; Harrison timing not measured"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
   stage_02_case_story_map: "PASS_PLAN_WITH_STAGE01_HOLDS"
   stage_03_script_v1: "SUPERSEDED_BY_ACTIVE_R3"
-  stage_04_fact_legal_review: "HOLD_OCT14_MINUTES_OCT15_ORDERS_LIVE_DOCKET"
-  stage_05_script_revision: "PASS_EDITORIAL_R3_CORRECTIVE"
-  stage_06_performance_review: "PASS_SCRIPT_ONLY_AUDIO_AND_LEGAL_HOLD"
-  stage_07_script_lock: "NOT_STARTED"
+  stage_04_fact_legal_review: "PASS_SOURCE_SCOPED_THROUGH_2026_10_17_OFFICIAL_ECF188_189"
+  stage_05_script_revision: "PASS_CORRECTIVE_R3_OCT16_DISPOSITION_INTEGRATED"
+  stage_06_performance_review: "PASS_EDITORIAL_REVIEW_REVISED_HOOK_AND_CLIMAX"
+  stage_07_script_lock: "PENDING_OWNER_REVIEW"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -50,20 +50,20 @@ evidence:
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-17"
-  unresolved_material_claims: 2
+  unresolved_material_claims: 0
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
   voice_id_or_preset: ""
 shorts:
   required: true
-  architecture_status: "R3_8_VERBATIM_SCRIPT_QC_PASS_AUDIO_NOT_MEASURED"
+  architecture_status: "R3_EIGHT_VERBATIM_SCRIPT_QC_PASS_FINAL_AUDIO_UNMEASURED"
   target_count: "6-10"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   audio_source: "FINAL_AUDIO_MASTER"
 qa:
   topic: "PASS_GO_OWNER_LOCKED"
   research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
-  fact_legal: "HOLD_UNVERIFIED_OCT14_15_ORIGINALS_AND_LIVE_DOCKET"
+  fact_legal: "PASS_SCRIPT_SCOPE_AS_OF_OCT17_STAGE16_REFRESH_REQUIRED"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
 publish:

@@ -24,3 +24,10 @@ Base: existing ACTIVE `05_SCRIPT_R3_REVISED.md` at branch main before this commi
 - Closed original Apple response missing-primary gate. Left October14 minute and October15 operative stipulation/complete docket gate open.
 - A08-P05 now uses ECF176/177 original party positions, not unsupported proposed stipulation inference; A00-P01 short now says the filings themselves do not establish receipt or use.
 - Rebuilt 8 exact shorts, 60-row QC crossreference, word counts, state, manifest and claims/events ledgers.
+
+
+## October 17 — court-docket breakthrough / Stage04 SCRIPT LEGAL PASS
+- Official [Northern District of California case listing](https://cand.uscourts.gov/cases-e-filing/cases/526-cv-07078/apple-inc-v-liu-et-al) retrieved showing signed ECF188/189 **Oct16**. ECF188 granted ECF184 joint document-preservation/forensic-inspection stipulation and found Apple's preliminary injunction ECF38 **moot**. ECF189 granted ECF186 expedited-discovery stipulation.
+- Earlier presumed unresolved procedural posture was materially outdated; rewrote 12 actual narration paragraphs including intro, A08 turning point and A09 conclusion.
+- Updated full 60-para legal audit, source/claims/events ledgers, all 8 verbatim Shorts and SH08 as a high-value official judicial result. Old V1/R2/alternate V3 untouched.
+- Stage04 legal SCRIPT PASS as-of 2026-10-17; no claims about stipulation clauses from inaccessible complete order PDFs. Stage07 owner script lock pending; Stage16 final current-case refresh mandatory.
