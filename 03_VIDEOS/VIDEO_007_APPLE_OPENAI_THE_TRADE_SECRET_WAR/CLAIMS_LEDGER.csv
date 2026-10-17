@@ -41,7 +41,7 @@
 "C040","OPENAI_CONCERN_NOT_FACT","OpenAI concerned data may circulate inside Apple or affect products","S006","p3","PASS_ATTRIBUTED","Suspicion, NOT proof of Apple possession/use"
 "C041","NO_COUNTERCLAIM","OpenAI requested ability to investigate potential future counterclaims","S006","p3","PASS","ECF176 is not a counterclaim"
 "C042","TRIAL_STATUS","ECF176 identifies no trial date set","S006","p2","PASS","June or October 2027 were discussed targets not court-ordered trial"
-"C043","APPLE_RESPONSE_PRIMARY_PARTY_POSITION","Apple says no OpenAI data located in its searches, per filed response","S018;S008","ECF177 p2 (previous project review)","PASS_ATTRIBUTED_FRESH_SOURCE_HOLD","Apple litigation assertion not independent forensic clearance; original fresh re-open needed"
+"C043","APPLE_RESPONSE_PRIMARY_PARTY_POSITION","Apple says no OpenAI data located in its searches, per filed response","S018;S008","ECF177 p2 (previous project review)","PASS_ATTRIBUTED_PRIMARY_RECHECKED","Apple litigation assertion not independent forensic clearance; original fresh re-open needed"
 "C044","APPLE_DENIAL_REPORTED","Apple characterizes OpenAI new charge as diversion from original lawsuit","S008;S010","Reuters and docket secondary summary","PASS_REPORTED_PRIMARY_HOLD","Attribute to Apple's position"
 "C045","POST_HEARING_UNVERIFIED","On Oct14 counsel discussed proposed order potentially mooting injunction","S010;S014;S015","secondary summary Oct16","HOLD","Original minutes and proposed stipulation absent; no binding final effect asserted"
 "C046","NEW_FILING_UNVERIFIED","Oct15 multiple stipulation filings reported but operative content and status unread","S010;S014","report only","HOLD","Cannot call injunction entered vacated or moot"

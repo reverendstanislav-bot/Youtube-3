@@ -17,3 +17,10 @@ Base: existing ACTIVE `05_SCRIPT_R3_REVISED.md` at branch main before this commi
 - Regenerated exact SH06 + SH07 extracts, both duplicate map files, Shorts QC, word count and durations.
 - Replaced all 60 generic audit classifications with source-specific paragraph-level findings, and recorded current document-access failures.
 - Preserved Stage07 lock and original approved title. No paid generation.
+
+
+### Original ECF177 source recovered Oct17
+- Reopened complete official-style 4-page filed ECF177 PDF through 9to5Mac hosted mirror, checked page2 date/time/Apple party claims.
+- Closed original Apple response missing-primary gate. Left October14 minute and October15 operative stipulation/complete docket gate open.
+- A08-P05 now uses ECF176/177 original party positions, not unsupported proposed stipulation inference; A00-P01 short now says the filings themselves do not establish receipt or use.
+- Rebuilt 8 exact shorts, 60-row QC crossreference, word counts, state, manifest and claims/events ledgers.

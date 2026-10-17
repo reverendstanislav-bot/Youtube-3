@@ -2,11 +2,11 @@
 **ACTIVE WORKING R3 — 17 OCT 2026 CORRECTIVE STORY + LEGAL QC; STAGE07 VOICE NOT LOCKED**
 Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
-American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026: ECF175 verified against published original judicial text, ECF176 checked in the earlier project primary-source review, and ECF177 was previously read but its original PDF was unavailable to re-open in this review. The Oct14 original minute entry, Oct15 operative signed instruments and complete post-Oct13 docket were not independently accessible.
+American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026: ECF175 verified against published original judicial text, ECF176 checked in the earlier project primary-source review, and ECF177 original filed PDF was independently reopened from the 9to5Mac source mirror and page 2 verified on October 17, 2026. The Oct14 original minute entry, Oct15 operative signed instruments and complete post-Oct13 docket were not independently accessible.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2454 spoken words, projected 15.8–18.2 min at 155–135 wpm; NOT measured Harrison audio.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2448 spoken words, projected 15.8–18.1 min at 155–135 wpm; NOT measured Harrison audio.
 
-**Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple ECF177 page 2 was previously checked in project research, but its original was not freshly retrievable here. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. This revision audits all 60 paragraphs against the available originals, party filings and attributed secondary reporting. Signed-order/current-docket and ECF177 fresh-source HOLD remain before Stage07 voice authorization.
+**Mandatory legal locks:** Every allegation attributed; Oct13 ECF175 = limited discovery, not guilt or preliminary-injunction verdict. Oct14 ECF176 = OpenAI allegations about personal-account transfers and possible future counterclaims, NOT proof Apple received/used anything or a filed countersuit. Apple ECF177 page 2 was independently rechecked in an original filed-PDF mirror, with the 2026-10-14 court filing header preserved. Apple alleges OpenAI gave notice Oct9; Apple investigated, reported no confidential OpenAI material found Oct12, requested more specificity. This is Apple's stated position, not independently proven forensic result. Oct14 hearing remarks and voluntary commitments are **Bloomberg-reported** and must NOT be conflated with a signed injunction. Bloomberg reported Oct14 commitments. Secondary legal reporting describes proposed Oct15 stipulations, NOT verified signed injunction. Do not describe an order as entered without original. No confirmed court-awarded damages or verdict. This revision audits all 60 paragraphs against the available originals, party filings and attributed secondary reporting. Signed-order/current-docket and ECF177 fresh-source HOLD remain before Stage07 voice authorization.
 
 ## Narration — English US
 
@@ -16,7 +16,7 @@ American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-c
 
 **A00-P01 · SHORT SH01 (EXACT ONE-PARAGRAPH EXTRACT)**
 
-Apple sued OpenAI, accusing former employees of taking its hardware secrets. Then OpenAI alleged a different employee, on the way back to Apple, sent more than a hundred confidential OpenAI files to personal accounts. Same courtroom. Opposite accusation. But no court finding that Apple received or used those files — or that OpenAI used Apple's.
+Apple sued OpenAI, accusing former employees of taking its hardware secrets. Then OpenAI alleged a different employee, on the way back to Apple, sent more than a hundred confidential OpenAI files to personal accounts. Same courtroom. Opposite accusation. But those competing filings did not establish that Apple received OpenAI's files — or that OpenAI used Apple's.
 
 **A00-P02**
 
@@ -272,7 +272,7 @@ That same day, Bloomberg Law reported that Judge Davila was highly likely to gra
 
 **A08-P05**
 
-A contemporaneous account of the court's October fourteenth minute entry said the parties planned to submit a stipulation and proposed order that could moot Apple's injunction motion. It also reported three proposals filed October fifteenth. Their actual signed and operative status remains unverified here; neither the proposal nor the news account is a substitute for a court order.
+Apple's written response also argued that OpenAI's new allegation was unrelated to Apple's existing lawsuit. That was Apple's legal position, not a ruling. OpenAI, meanwhile, had requested time to investigate possible counterclaims. Its October fourteenth supplement was not itself a counterclaim, and it did not resolve Apple's request for an injunction.
 
 ---
 
@@ -312,5 +312,5 @@ The story's reversal was an exchange of allegations, not a judicial reversal. Ap
 - 8 exact contiguous Short candidates: SH01=A00-P01 | SH02=A01-P02 | SH03=A03-P02 | SH04=A04-P02 | SH05=A05-P03 | SH06=A06-P03 | SH07=A07-P03 | SH08=A09-P03. No stitched passages, new narration, or alternate TTS.
 - Each selected Short is ~20–27 spoken seconds in intent; final export MUST be <=30.0s including end card/CTA. Estimated read speeds are not measured voice timing. Rewrite the same paragraph in the long-form before Stage07 if necessary.
 - All source text must come from authentic original court pages; no invented document stills, email/chat reproductions, supplier records or unreleased device reconstructions.
-- Outstanding HOLD: official Oct14 minute, original signed status of Oct15 proposed stipulations, refreshed full docket, rights/hash QC. **ECF177 was previously checked as a project primary; today's independent retrieval failed, so ECF177 factual statements remain attributed to Apple's filing, not certified as judicial truth.**
-- Research cutoff Oct17; do not imply Oct15 proposals were signed or that any later docket action has been ruled out. Original docket access required for Stage07 and Stage16. Stage06 text-only; voice/CTR not measured.
+- Outstanding legal HOLD: Oct14 case-management minute, original signed/operative status of Oct15 proposed stipulations, complete subsequent docket and formal counterclaim/injunction status. ECF177 is PRIMARY RECHECKED. Separate production-source rights/hash QC remains for later stages.
+- Evidence cutoff Oct17. All October 14 filing descriptions refer to those filings themselves, not a certified latest case status. No conclusion is claimed about an injunction or counterclaim after the verified filings. Stage07/16 require complete docket refresh. Stage06 text-only; voice/CTR not measured.

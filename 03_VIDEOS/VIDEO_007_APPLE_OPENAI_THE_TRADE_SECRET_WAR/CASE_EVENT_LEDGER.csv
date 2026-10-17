@@ -20,7 +20,7 @@
 "E019","2026-10-13","COURT_ORDER","Oct14 hearing on ECF49 vacated","S005","COURT_ORDER","PASS","Other Oct14 proceedings separate"
 "E020","2026-10-13","PRODUCT_CONTEXT","Apple Home Collection public announcement referenced by OpenAI","S006","OPENAI_FOOTNOTE","PASS_ATTRIBUTED","Not proof of IP misuse"
 "E021","2026-10-14","PARTY_FILING","OpenAI files supplement ECF176 with reverse-direction file allegation","S006","COURT_RECORD","PASS","Potential not filed counterclaim"
-"E022","2026-10-14","APPLE_POSITION","Apple ECF177 says it did not locate OpenAI confidential info in searches","S018;S008","APPLE_FILED_PARTY_RESPONSE","PASS_ATTRIBUTED_FRESH_SOURCE_HOLD","Do not confuse negative Apple search with judicial finding"
+"E022","2026-10-14","APPLE_POSITION","Apple ECF177 says it did not locate OpenAI confidential info in searches","S018;S008","APPLE_FILED_PARTY_RESPONSE","PASS_ATTRIBUTED_PRIMARY_RECHECKED","Do not confuse negative Apple search with judicial finding"
 "E023","2026-10-14","PROCEDURE","Case management conference held per secondary court reporter","S010","SECONDARY","HOLD_PRIMARY_MINUTES","Court minute entry not obtained"
 "E024","2026-10-15","PROCEDURE","Multiple proposed stipulations reportedly filed","S010","SECONDARY","HOLD_PRIMARY_ECF","No full text/order status verified"
 "E025","2026-10-16","SNAPSHOT","Original ECF1/59/97/143/175/176 read; Apple reply and newer docket have bounds","S001;S002;S003;S004;S005;S006;S010","RESEARCH_AUDIT","PASS_BOUND","Not certify litigation unchanged into future"
