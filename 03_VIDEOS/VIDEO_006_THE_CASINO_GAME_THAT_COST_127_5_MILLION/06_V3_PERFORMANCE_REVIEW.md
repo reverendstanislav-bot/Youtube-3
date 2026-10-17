@@ -26,7 +26,7 @@ Hard metrics (0–5): **Hook 4.5**, **Promise 4.5**, **Conflict 4.5**, **source-
 
 Only narration-order projections, **145 wpm / no pauses**: first two paragraphs 50 words (~20.7s); the money is introduced at the start of P003, not redundantly in P001. In the first 5s the two companies and casino-math conflict are identifiable. By ~15s the document mystery leads to S01 and the **paid settlement + both game families**; by ~30s the Short reveals future-family restriction and settlement-not-fine. By ~60s A00 closes with the old-spreadsheet question. These boundaries are not measured Harrison timecodes.
 
-**Words:** V2 1698 (whitespace-count method), V3 1682; **26 rewritten paragraphs** of 51, of which S01/S02/S08 rewritten in native master. Ten acts preserved. 130 wpm: 12.94 min; 140 wpm: 12.01 min; 150 wpm: 11.21 min, not runtime claims.
+**Words:** prior Stage05 metadata recorded 1,688 spoken words for V2; fresh uniform whitespace-delimited recount yields **V2 1,698 → V3 1,682** (−16 on this consistent method). Those two word-count conventions are not directly interchangeable; none represent Harrison audio duration. **26 rewritten paragraphs** of 51, of which S01/S02/S08 rewritten in native master. Ten acts preserved. 130 wpm: 12.94 min; 140 wpm: 12.01 min; 150 wpm: 11.21 min, not runtime claims.
 
 **Act distribution:** A00 144; A01 155; A02 187; A03 164; A04 156; A05 171; A06 151; A07 148; A08 267; A09 139. S04 2013 timestamp appears after Sky Train is named, with reduced P020–P022 delay. A07 remains a brief qualified AU/Jewel bridge; A09 investor suit stays distinct and as-of Aug2026 bounded.
 
