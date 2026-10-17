@@ -34,7 +34,7 @@ S03/P019, S04/P023, S05/P027, S06/P032, S07/P043 remain word-for-word identical 
 
 ## Whole-film bounded claim review
 
-- **All 51 P IDs/51 B IDs and ten acts remain**, with prior sources/claims retained in the new V3 trace. P007 gains C017 for the previously established September 2022 worksheet email; P028 gains C020/C022 for court's differentiated provisional assessment. No net-new external claim needed.
+- **All 51 P IDs/51 B IDs and ten acts remain**, with prior sources/claims retained in the new V3 trace. P002 gains S001/C018 for the old spreadsheet clue; P007 gains C017 for the previously established September 2022 worksheet email; P028 gains C020/C022 for court's differentiated provisional assessment. No net-new external claim needed.
 - **S001 ECF125 (2024), pp 10–14**: September2022 training worksheet, odd formatting, Sky Train / Inception Conception, November 12 2013 metadata and limited inferability discussed as *preliminary findings*, NOT a jury verdict or individual criminal guilt. <https://www.playusa.com/wp-content/uploads/2024/09/aristocratvlightwonder.pdf>
 - **S007 ECF344 (2026), pp1–2**: the paid USD127.5m, acknowledged use of *certain* disputed math, two-family perpetual no-commercialization and future family games; vacatur of earlier provisional injunctions. Contract survives as distinct private undertaking. <https://docs.justia.com/cases/federal/district-courts/nevada/nvdce/2:2024cv00382/167218/344>
 - **S006 Jan2026 statement**: payment and best efforts to remove existing installations; does not establish completed removal count. <https://explore.lnw.com/newsroom/joint-statement-regarding-resolution-of-litigation-between-aristocrat-and-light-wonder/>

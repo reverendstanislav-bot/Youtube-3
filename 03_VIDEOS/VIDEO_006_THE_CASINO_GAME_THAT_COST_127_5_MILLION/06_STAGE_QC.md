@@ -10,4 +10,4 @@
 
 Full independent justification and CSVs in `06_V3_PERFORMANCE_REVIEW.md`, `06_V3_PARAGRAPH_PERFORMANCE_AUDIT.csv`, `06_V3_SHORTS_PERFORMANCE_QC.csv`.
 
-**Count reconciliation:** V3 1,682 whitespace-delimited narration tokens. The historical V2 Stage05 1,688 label uses a different count from V2 whitespace recount 1,698; exact audio is unknown.
+**Count reconciliation:** V3 1,662 whitespace-delimited narration tokens. The historical V2 Stage05 1,688 label uses a different count from V2 whitespace recount 1,698; exact audio is unknown.

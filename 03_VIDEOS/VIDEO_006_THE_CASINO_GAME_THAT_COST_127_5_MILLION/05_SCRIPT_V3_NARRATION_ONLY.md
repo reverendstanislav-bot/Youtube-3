@@ -4,9 +4,9 @@ US English. This is text, NOT authorized TTS. Exact audio and Short timing unkno
 
 ## A00
 
-Light & Wonder's Dragon Train brought rival Aristocrat to court over the math behind a casino game. The eventual settlement would stop commercialization of two game families.
+Light & Wonder's Dragon Train sparked a court fight with Aristocrat. Two game families would lose their commercial future.
 
-But the evidence trail didn't begin with a jackpot. It ran through development spreadsheets—and a file whose history reached years into the past.
+The crucial clue wasn't onscreen. It was an old development spreadsheet.
 
 Light & Wonder paid rival Aristocrat one hundred and twenty-seven point five million dollars. But money was only part of the settlement: it agreed to stop commercializing Dragon Train and Jewel of the Dragon worldwide, including future games in those families. Federal court papers confirmed the payment. This was not a jury damages award or criminal fine.
 

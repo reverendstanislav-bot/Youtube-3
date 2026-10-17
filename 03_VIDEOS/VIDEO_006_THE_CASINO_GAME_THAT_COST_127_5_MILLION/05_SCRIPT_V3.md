@@ -10,11 +10,11 @@
 
 **P001**
 
-Light & Wonder's Dragon Train brought rival Aristocrat to court over the math behind a casino game. The eventual settlement would stop commercialization of two game families.
+Light & Wonder's Dragon Train sparked a court fight with Aristocrat. Two game families would lose their commercial future.
 
 **P002**
 
-But the evidence trail didn't begin with a jackpot. It ran through development spreadsheets—and a file whose history reached years into the past.
+The crucial clue wasn't onscreen. It was an old development spreadsheet.
 
 **P003** **[SHORT S01 — V3 revised; source-bounded legal isolation QC pass; audio timing unverified]**
 
