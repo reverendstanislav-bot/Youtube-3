@@ -9,3 +9,5 @@
 | 2026-10-16 | Stage01 final factual repair | v3 | Found stamped ECF206 complaint + ECF220 answer in ECF319, corrected Feb2025 Australian narrow interim decision, original filed AztecGold class summary S ECI 2026 02374 (Apr21 stamp vs Apr22 issuer), blocked machine totals; indexed 23 sources / 50 claims / 31 events / 23 QA | PASS_VERIFIED_SCOPE with exclusions; Stage02 NOT_STARTED |
 
 | 2026-10-16 | Stage02 | v1 | Ten acts, 51 source/claim-backed beats, 31 mapped truth events; 8 Shorts candidates 25–26s estimated; narrowed shareholder coda to 65s; total 15:55 estimate. No audio/script generated. | PASS_PLAN; Stage03 NOT_STARTED |
+
+| 2026-10-16 | Stage03 Script V1 | v01 | Complete 2,080-word 51-paragraph US-English 10-act script, 8 canon contiguous 53–59-word Shorts passages, exact paragraph-to-claim/source trace. Editorial QC and specific improvements to Short S05/S07 and A09. No voice/timed audio; Stage04 independently pending. | PASS_DELIVERABLE_V1_PENDING_STAGE04 |

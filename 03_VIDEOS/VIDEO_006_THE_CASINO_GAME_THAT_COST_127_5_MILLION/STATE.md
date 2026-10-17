@@ -1,19 +1,26 @@
-# VIDEO006 — Production State 2026-10-16
-**Title:** The Casino Game That Cost $127.5 Million
-**Stage00:** Owner topic GO / PASS.
-**Stage01:** PASS_VERIFIED_SCOPE_V3_EXCLUSIONS; 23 source entries, 50 claims, 31 historical events; see 01_STAGE01_FINAL_REPAIR_V3_20261016.md and 01_SCRIPT_LEGAL_SAFETY_LOCK.md.
-**Stage02:** **PASS_PLAN_10_ACTS_51_BEATS_8_SHORTS**; 10 acts, **51 continuous scripted-planning beats**, 31 mapped chronology events, 8 native continuous Shorts candidates with **25–26s projected spoken lengths only**. Total editorial planning **15:55 (955 sec)**, actual duration unverified.
-**Stage03:** NOT_STARTED. Other production stages 04–19: NOT_STARTED.
+# VIDEO006 — STATE (2026-10-16, Stage03 Script V1 drafted)
 
-## Stage02 authoritative files
-- `02_STORY_MAP.md` — financial hook, 2013 spreadsheet pivot, L&W defense partial acceptance, interim court relief, paid settlement and separate short 65s investor case coda.
-- `02_TIMELINE.csv` — 31 dated events in historical order mapped to 10 narrative acts.
-- `02_BEAT_MAP.csv` — 51 source/claim-referenced contiguous editorial beats (B001–B051); no gaps or missing reference IDs.
-- `02_SHORTS_ARCHITECTURE.md` — eight S01–S08 future contiguous longform audio zones, planned 20–27s each; final Short <=30s including any CTA; not actual timed audio.
-- `02_STAGE_QC.md` — independent editorial design QC and unclosed downstream risks.
+**The Casino Game That Cost $127.5 Million** | WHAT IT COST | Topic T010
 
-## Must obey
-L&W paid **USD127.5m settlement** not verdict; two series Dragon Train/Jewel of the Dragon under permanent settlement commercialization stop; original September2024 preliminary injunctions **vacated** in 2026. Judge's math and Nov2013 metadata analysis was **preliminary**; certain SCAT2 probabilities found potentially publicly deducible. Australia Feb2025 refused **extra** mandatory interim measures after undertakings (not exoneration); March2026 dismissal pertains to named original IP litigants. Separate April2026 AztecGold investor allegations remain **unadjudicated** in last-reviewed August2026 disclosure, not the settled direct Aristocrat dispute. C034 actual global machine-removal count is excluded from narration. ~$128m FY2025 accounting charge NOT a second $128m settlement payment. Do not fake proprietary math spreadsheets, court paper, game footage or case status.
+## Production stage gates
+- **Stage00:** Owner topic qualification PASS.
+- **Stage01:** PASS_VERIFIED_SCOPE_V3_EXCLUSIONS (23 source entries, 50 claims, 31 case events; C034 actual unit removal count excluded).
+- **Stage02:** PASS_PLAN_10_ACTS_51_BEATS_8_SHORTS (10 acts; 15:55 editorial estimate; source/claim map).
+- **Stage03:** **PASS_DELIVERABLE_V1_PENDING_STAGE04**. Full **2,080 English spoken words**, **51 contiguous paragraphs P001–P051** mapped one-to-one to Stage02 beats, **8 contiguous embedded Short passages S01–S08 (53–59 words)**. All written in `03_SCRIPT_V1.md`; isolated Short spans in `03_SHORTS_MAP.csv`; claim/source attribution in `03_SCRIPT_TRACE.csv`.
+- **Stage04 Fact + Legal Review:** **NOT_STARTED**. Stage05–19 NOT_STARTED.
 
-## Next owner-authorized task
-**Stage03 — Script V1.** Produce one US English story, map all 51 beats to verified sources and 8 short-ready paragraph windows; self-contained caveat in each. Stage04 later verifies script claims and all Shorts independently. Narrator Harrison locked, **no TTS/image/video generation or credits authorized**. Source visuals and rights remain downstream; Stage16 fresh investor case status before release.
+## Stage03 read-first files
+- `03_SCRIPT_V1.md`: complete narration-only 10-act English documentary with unobtrusive nonspoken paragraph IDs and Short ID tags.
+- `03_SCRIPT_TRACE.csv`: 51 paragraph → Stage02 beat → Stage01 S/C source and claim ID reference links. Source mapping does not itself imply a Stage04 sentence-level legal PASS.
+- `03_SHORTS_MAP.csv`: 8 single continuous longform paragraph extracts with numeric estimated target seconds (not audio timecodes), no second script/audio.
+- `03_V1_WRITING_METRICS.md`: exact word counts and provisional duration estimates.
+- `03_STAGE_QC.md`: first independent editorial QC of actual V1, flags remaining legal, timing, source and rights risks.
+
+## Core legal constraints intact
+Aristocrat received **USD127.5m** paid by L&W under 2026 **settlement**, not a jury damages award. Two game families Dragon Train/Jewel of the Dragon stop commercialization under **contract**, even though preliminary US injunctions were **vacated** with court dismissal. Judge's 2013 Excel/mathematical similarity findings were **preliminary** and some L&W probability argument accepted, no criminal findings about a named engineer. AU February2025 refused **additional mandatory** orders after undertakings, not total exoneration. April2026 separate AztecGold investor action is **unresolved as of last checked August2026 SEC filing**, defendant disputes allegations. No invented cabinet count, no double count 2025 ~$128m accounting charge. Media rights and genuine court/Excel source pixels remain downstream restrictions.
+
+## Runtime / Shorts
+At ~130–150 narrated WPM, 2,080 words imply ~13:52–16:00 **before performance pauses**; Stage02 15:55 not an actual voice length. Harrison remains the approved channel voice but **no TTS and no paid generations** were performed. Each Short has one whole exact paragraph with legal qualifications and 20–27s *target*; real total <=30s and final sentence boundaries need actual measured audio in Stage11.
+
+## Next action
+**Stage04 — Fact + Legal Review**: Verify every V1 material claim against primary source and party attribution, separate settlement/decision/claim context, and independently review S01–S08 including each stand-alone extract's temporal/context/legal meaning. Next stages await owner instruction. No generation and no budget spent.
