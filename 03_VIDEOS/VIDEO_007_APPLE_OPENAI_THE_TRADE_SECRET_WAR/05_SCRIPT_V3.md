@@ -1,5 +1,5 @@
-# VIDEO007 — STAGE05 SCRIPT REVISION V3
-**Revised narration: English (US), WHAT IT COST. NOT the Stage07 script/voice lock.**
+# VIDEO007 — ARCHIVED ALTERNATE STAGE05 SCRIPT V3 (NOT ACTIVE)
+**HISTORICAL ALTERNATIVE, NOT THE ACTIVE SCRIPT OR TTS SOURCE. Read `05_SCRIPT_R3_REVISED.md` instead.**
 Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Fact research refreshed 2026-10-17.
 **2419 spoken words**, estimated 15.6–17.9 minutes at 135–155 wpm; Harrison voice NOT recorded. Chapter headings, paragraph IDs, source tags and Short labels are NOT spoken.
 **Original ECF177** Apple reply now in source registry: Oct9 OpenAI notice, Oct12 Apple unable to find confidential material and asked for additional identifying data. These are Apple's litigating assertions, not a judicial exoneration. Oct14 Bloomberg hearing report about voluntary non-use + 14 devices is independent JOURNALISTIC evidence of what was said, NOT authenticated signed injunction. Court minute/stipulations currently only summarized in secondary reporting. ECF176 is an allegation to PERSONAL accounts, not proven Apple corporate possession or actual counterclaim.
