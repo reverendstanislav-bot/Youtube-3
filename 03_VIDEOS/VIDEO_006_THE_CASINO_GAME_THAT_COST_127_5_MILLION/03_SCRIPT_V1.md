@@ -66,11 +66,11 @@ By late 2021, Charles was working on Dragon Train. Other designers and mathemati
 
 **P014**
 
-In August 2023, Light & Wonder presented Dragon Train at an Australian gaming industry expo. The game had its own cabinet and commercial identity. The manufacturer's announcement establishes that public debut; it does not establish the exact date of the first machine installed at a casino.
+In August 2023, Light & Wonder presented Dragon Train at the Australasian Gaming Expo. A rival title was now in public view. What customers saw could be compared. The mathematical files used to develop it could not.
 
 **P015**
 
-Aristocrat saw a rival in a lucrative category. What followed was more serious than an argument over who had the better graphics. The company alleged that protected material was behind some of the similarities.
+According to the preliminary court decision, an Aristocrat designer played Dragon Train and immediately noticed similarities with Dragon Link. He could see shared-looking features, but not the math behind them. That gap between what was visible and what Aristocrat suspected would become the center of the dispute.
 
 ## A03 — FROM SIMILARITY TO A FILE
 
@@ -150,7 +150,7 @@ A federal judge temporarily restricted Light & Wonder's Dragon Train in Septembe
 
 **P033**
 
-The court also addressed machines already placed with customers and required compliance information on a deadline. That does not tell us exactly how many units were ultimately removed worldwide. The public record supports the existence of the obligations, not an invented total.
+The court also addressed machines already placed with customers and set a deadline for compliance reporting. The dispute had reached casinos and operators, not just developers and attorneys. Public records reviewed here do not establish how many machines were ultimately removed worldwide.
 
 **P034**
 
@@ -198,7 +198,7 @@ In February 2026, a federal court vacated temporary injunctions in Aristocrat's 
 
 **P044**
 
-The agreement applied to commercialization of both families in land-based and digital form. It also required Light & Wonder to stop using covered mathematical information and destroy relevant materials. The companies described a best-efforts commitment to remove existing installations. Best efforts does not mean we can claim every cabinet was already removed.
+The agreement covered commercialization of both families in land-based and digital form. Light & Wonder also agreed to stop using the mathematical information at issue and destroy documents reflecting it. Both companies described a best-efforts commitment to remove existing installations; the reviewed records do not establish a final worldwide removal count.
 
 **P045**
 
@@ -224,9 +224,9 @@ The proposed class involved buyers of Light & Wonder's Australian-listed deposit
 
 **P050**
 
-Light & Wonder's August 2026 filing disclosed no verdict or quantified loss. Later court developments need checking before publication.
+In its August 2026 quarterly filing, Light & Wonder described the investor allegations, said it disputed them, and did not report a court verdict or quantified damages.
 
 **P051**
 
-The verified price remains one hundred and twenty-seven point five million dollars paid, with two game families no longer commercialized under contract. The product looked like dragons. The fight underneath was about the math used to build it.
+The verified price is one hundred and twenty-seven point five million dollars paid, with two game families subject to permanent no-commercialization terms. Players saw dragons and jackpots. The billion-dollar industry behind them was also competing over something far less visible: the mathematics of how a game works.
 
