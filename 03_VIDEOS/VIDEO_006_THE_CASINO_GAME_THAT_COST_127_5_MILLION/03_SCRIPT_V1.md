@@ -84,7 +84,7 @@ One part of the judge's later ruling reached back to September 2022. According t
 
 **P018**
 
-Then came details that had nothing to do with a dragon on the screen. The judge compared how worksheets were laid out, including blank cells, borders, and shaded areas. A formatting habit might be innocent. A combination of unusually similar artifacts, alongside mathematical parallels, raised a different question about origin.
+These weren't things a casino player could inspect. They were development materials: worksheets, calculations, and choices that could reflect how a game had been built. Aristocrat argued those private details mattered far more than surface resemblance. The judge examined their relationship, not just a single coincidental cell.
 
 **P019** **[SHORT S03 — exact contiguous passage, subject to Stage04]**
 
@@ -124,7 +124,7 @@ Light & Wonder had an answer. Its developers, the company argued, had done indep
 
 **P027** **[SHORT S05 — exact contiguous passage, subject to Stage04]**
 
-Here is the part that makes this case more than a simple copying story. In the 2024 preliminary ruling, the judge accepted Light & Wonder's point that certain SCAT2 game probabilities could be inferred from publicly observable information. But the court still saw strong evidence concerning other confidential mathematical combinations. A partial defense win was not an overall clearance.
+A federal judge partly agreed with Light & Wonder in the Dragon Train mathematics dispute. In a 2024 preliminary ruling, the court accepted that certain SCAT2 probabilities could be inferred from publicly observable features. But the judge still saw strong evidence concerning other confidential mathematical combinations. Winning that one argument did not clear the company of the broader claim.
 
 **P028**
 
@@ -142,7 +142,7 @@ The word preliminary matters. The court was assessing the likelihood of success 
 
 **P031**
 
-In September 2024, the Nevada court issued a preliminary injunction restricting further commercialization of Dragon Train. Suddenly, the dispute was not just an exchange of legal filings. It had consequences for a product Light & Wonder wanted to sell and operate.
+By September 2024, the dispute had reached Light & Wonder's commercial plans. A temporary court ruling could affect where a game went next, the agreements around it, and how the manufacturer responded to customers. A lawsuit about invisible information was becoming visible in the marketplace.
 
 **P032** **[SHORT S06 — exact contiguous passage, subject to Stage04]**
 
@@ -194,7 +194,7 @@ The language matters. Light & Wonder acknowledged that certain mathematical info
 
 **P043** **[SHORT S07 — exact contiguous passage, subject to Stage04]**
 
-Here is the unusual ending. In February 2026, the federal court vacated the earlier preliminary injunctions against Dragon Train and Jewel of the Dragon. But Light & Wonder had separately agreed to stop commercializing those game families permanently. The temporary court orders ended; the settlement contract kept the stop-selling obligation in place. Those are two different legal mechanisms.
+In February 2026, a federal judge vacated the temporary injunctions in Aristocrat's case against Light & Wonder. But Light & Wonder had agreed to stop commercializing Dragon Train and Jewel of the Dragon permanently. The provisional court orders were gone; the settlement's contractual restriction remained. A court case can end without those business obligations disappearing.
 
 **P044**
 
@@ -212,7 +212,7 @@ In February 2026, the U.S. claims and counterclaims were dismissed. The company 
 
 **P047**
 
-But this was not the last legal filing connected to Dragon Train. A separate group of investors brought different allegations after the Aristocrat settlement.
+But settling the Aristocrat case did not end every dispute involving Dragon Train. A different group of claimants came next.
 
 **P048** **[SHORT S08 — exact contiguous passage, subject to Stage04]**
 
@@ -220,13 +220,13 @@ In April 2026, investors filed a separate class action against Light & Wonder in
 
 **P049**
 
-The proposed class involved investors who acquired Australian-listed Light & Wonder depositary interests between May 2023 and September 2024. Their allegations concerned disclosures to investors.
+The proposed class involved buyers of Light & Wonder's Australian-listed depositary interests from May 2023 through September 2024.
 
 **P050**
 
-In its August 2026 quarterly filing, Light & Wonder still described the action without a confirmed verdict or quantified loss. Its later status requires a fresh check before publication.
+Light & Wonder's August 2026 filing disclosed no verdict or quantified loss. Later court developments need checking before publication.
 
 **P051**
 
-The verified price remains one hundred and twenty-seven point five million dollars paid, with two game families no longer commercialized under the agreement. What players saw were dragons. What the lawsuit exposed was the value of the math underneath.
+The verified price remains one hundred and twenty-seven point five million dollars paid, with two game families no longer commercialized under contract. The product looked like dragons. The fight underneath was about the math used to build it.
 
