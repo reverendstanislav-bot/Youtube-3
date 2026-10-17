@@ -142,7 +142,7 @@ The case had not reached a final damages trial. But the court did not have to wa
 
 **P031**
 
-By September 2024, the dispute had reached Light & Wonder's commercial plans. A temporary court ruling could affect where a game went next, the agreements around it, and how the manufacturer responded to customers. A lawsuit about invisible information was becoming visible in the marketplace.
+Aristocrat wanted protection while the lawsuit continued. That put commercial distribution—and machines already in the market—squarely in the path of the legal dispute.
 
 **P032** **[SHORT S06 — text/legal Stage04 pass; audio timing unverified]**
 
@@ -150,37 +150,37 @@ A federal judge temporarily restricted Light & Wonder's Dragon Train in Septembe
 
 **P033**
 
-The court also addressed machines already placed with customers and set a deadline for compliance reporting. The dispute had reached casinos and operators, not just developers and attorneys. Public records reviewed here do not establish how many machines were ultimately removed worldwide.
+For existing Dragon Train installations, the court also set a compliance-reporting deadline. But the available records don't establish a final number of machines physically removed around the world.
 
 **P034**
 
-Light & Wonder pushed back publicly. In a September 2024 statement filed with securities regulators, it disagreed with the ruling and discussed an appeal. It also estimated Dragon Train would account for less than five percent of a targeted earnings measure for 2025. That was a forecast, not an audited calculation of lost profit.
+Light & Wonder publicly disagreed with the order. It also estimated that Dragon Train would represent less than five percent of its targeted 2025 earnings measure. That was a forecast, not a measured figure for what the dispute eventually cost.
 
 **P035**
 
-And now the stakes widened. Because the next development did not concern Dragon Train alone.
+And the restrictions would soon involve another game family.
 
 ## A07 — TWO GAMES, TWO COURTS
 
 **P036**
 
-Aristocrat was also pursuing proceedings in Australia. Two countries were dealing with related claims, but not in precisely the same way. Saying one global court banned everything would erase that difference.
+The legal battle wasn't confined to Nevada. Aristocrat was pursuing related claims in Australia, where the specific temporary remedies under consideration were different.
 
 **P037**
 
-In February 2025, an Australian court refused additional mandatory interim orders that Aristocrat wanted. Light & Wonder had already offered undertakings that extended important U.S.-style restrictions into Australia. That refusal was not a ruling that no confidential information had been misused. It concerned whether more immediate measures were necessary.
+In February 2025, an Australian court refused additional mandatory interim orders Aristocrat sought. Light & Wonder had already offered undertakings extending key U.S.-style restrictions into Australia. Refusing those extra measures did not mean the underlying allegations had been disproved.
 
 **P038**
 
-By July 2025, a stipulated U.S. order extended provisional restrictions to another Light & Wonder family, Jewel of the Dragon. The dispute now concerned two named families, not just one successful rival product.
+In July 2025, the companies stipulated to extending the U.S. provisional restrictions to Jewel of the Dragon. What began with Dragon Train now involved two named game families.
 
 **P039**
 
-The case also reached questions about mathematical models in certain other Hold and Spin games. That did not establish that every product in the company's catalog violated Aristocrat's rights. It meant additional issues would need to be addressed.
+Disputes over mathematical models in certain other Hold and Spin titles surfaced as well. That did not establish that every Light & Wonder game used Aristocrat's secrets. It showed why the dispute could reach beyond a single cabinet.
 
 **P040**
 
-The case kept raising questions about files, formulas, games, and court orders in two countries. In early 2026, the companies agreed to resolve the direct dispute before any jury trial produced a final damages verdict.
+Eventually the companies agreed to settle the direct dispute. That agreement would define the payment, the affected products, and what could happen to the mathematical information going forward.
 
 ## A08 — THE PRICE AND THE PAPER
 
