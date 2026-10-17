@@ -1,8 +1,8 @@
 # VIDEO006 — Stage03 V1 revised narration metrics (after Stage04 review)
 
-**Spoken longform:** 2049 English words / 51 paragraphs. Ten acts; every P001–P051 still maps to exactly one Stage02 beat via `03_SCRIPT_TRACE.csv`. **8 separate self-contained contiguous Short candidates** are literal full single paragraphs. Stage04 QC report is separate; no Audio Master, no estimated word count is a timed video.
+**Spoken longform:** 2045 English words / 51 paragraphs. Ten acts; every P001–P051 still maps to exactly one Stage02 beat via `03_SCRIPT_TRACE.csv`. **8 separate self-contained contiguous Short candidates** are literal full single paragraphs. Stage04 QC report is separate; no Audio Master, no estimated word count is a timed video.
 
-Read-time estimates (no pauses): **130 wpm 15.76 min, 140 wpm 14.64 min, 150 wpm 13.66 min**. Stage02 15:55 target is editorial only.
+Read-time estimates (no pauses): **130 wpm 15.73 min, 140 wpm 14.61 min, 150 wpm 13.63 min**. Stage02 15:55 target is editorial only.
 
 Short paragraph lengths: S01 P003 54 words; S02 P007 48 words; S03 P019 48 words; S04 P023 53 words; S05 P027 52 words; S06 P032 46 words; S07 P043 49 words; S08 P048 49 words. May still exceed 30s with Harrison's real emphasis or pauses. Stage11 validates actual <=30s including CTA. Stage04 reviews standalone factual/legal meaning; do not publish before subsequent locks.
 
@@ -11,3 +11,4 @@ Specific Stage04 repairs: P001 immediately establishes two families, USD127.5m a
 No paid TTS/image/video generations. Harrison remains channel voice but unsynthesized. Authenticated proprietary Excel binary not part of production source library, no fake worksheet imagery.
 
 **Second legal-editorial cleanup:** P014 expo debut no invented first-sale details; P015 specific Aristocrat designer/public resemblance directly cited ECF125; P033 installed totals appropriately bounded; P044 contract terms no 'best efforts means we cannot claim' meta diction; P050 removes internal 'check before publication' instruction from spoken VO, now accurately as-of August 2026; P051 avoids claiming all machines globally already stopped; P001 sourced 2013 teaser also to S001.
+**Final Stage04 consistency refresh:** 2045 words after P051 correction, 51/51 paragraph-to-beat and source IDs linked, eight Shorts pass text-only standalone legal review under `04_SHORTS_INDEPENDENT_LEGAL_QC.csv`. **Voice timing unknown and final upload legal-status refresh required**. Text PASS is not a licensed attorney opinion or final release lock.
