@@ -26,9 +26,9 @@ Hard metrics (0–5): **Hook 4.5**, **Promise 4.5**, **Conflict 4.5**, **source-
 
 Only narration-order projections, **145 wpm / no pauses**: P001 + P002 total **30 words ≈ 12.4 seconds**. At about 0–5 seconds the first line names Light & Wonder, Dragon Train and Aristocrat. By approximately 15 seconds the two-family stakes and source-document mystery lead directly into native S01. The $127.5m amount starts at **~12.4 seconds**, with no prior redundant recital. By ~30 seconds the paid sum and permanent two-family restriction have been introduced; the S01 jury/fine qualification continues after this estimated boundary. The 2013 paper-trail question is set up by roughly the first minute. **These are speech-rate estimates, not measured Harrison timecodes.**
 
-**Words:** older Stage05 metadata reports 1,688 words for V2; a fresh, uniform whitespace-delimited recount gives **V2 1,698 → V3 1,662** (delta -36). These counting conventions differ, and neither is an actual audio duration.
+**Words:** older Stage05 metadata reports 1,688 words for V2; a fresh, uniform whitespace-delimited recount gives **V2 1,698 → V3 1,662** (delta -36). These counting conventions differ, and neither is an actual audio duration. Uniform V3 continuous speech projection: **12:47 @130 wpm, 11:52 @140 wpm, 11:05 @150 wpm** before pauses, edit beats or final silent end screen; not a measured voice track.
 
-**Act distribution:** A00 144; A01 155; A02 187; A03 164; A04 156; A05 171; A06 151; A07 148; A08 267; A09 139. S04 2013 timestamp appears after Sky Train is named, with reduced P020–P022 delay. A07 remains a brief qualified AU/Jewel bridge; A09 investor suit stays distinct and as-of Aug2026 bounded.
+**Act distribution:** A00 124; A01 155; A02 187; A03 164; A04 156; A05 171; A06 151; A07 148; A08 267; A09 139. S04 2013 timestamp appears after Sky Train is named, with reduced P020–P022 delay. A07 remains a brief qualified AU/Jewel bridge; A09 investor suit stays distinct and as-of Aug2026 bounded.
 
 ## 51/51 paragraph cold-read
 
