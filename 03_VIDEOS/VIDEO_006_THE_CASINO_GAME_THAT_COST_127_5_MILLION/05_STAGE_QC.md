@@ -59,3 +59,9 @@ Do not confuse the legal effect of **U.S. preliminary injunctions being vacated*
 
 ## Gate
 **Stage05: PASS_EDITORIAL_REVISION_V2_WITH_STAGE06_HOLD.** `05_SCRIPT_V2.md` is now the sole working script for Stage06; V1 remains a historical Stage03/04 source. **Stage06 YouTube Performance Review NOT_STARTED. Stage07 Script Lock NOT_STARTED.** No paid image, sound, video or TTS generation; no credit spend; no final publishing authorization.
+
+---
+
+## 2026-10-17 historical addendum — corrective V3 now current
+
+Original report above remains a faithful historic V2 checkpoint. Source-authorized corrective V3 (`05_SCRIPT_V3.md`, `05_V3_REVISION_TRACE.csv`, `05_V3_SHORTS_MAP.csv`) replaces V2 as the **current editorial script** with 26 revised native paragraphs and three Short rechecks. New Stage06 text-only independent editorial pass 84/100 is documented in `06_V3_PERFORMANCE_REVIEW.md`; Stage07 remains NOT_STARTED, no Harrison VO, source-rights or Stage16 release lock granted.
