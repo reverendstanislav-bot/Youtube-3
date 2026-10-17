@@ -24,3 +24,8 @@
 "E023","2026-10-14","PROCEDURE","Case management conference held per secondary court reporter","S010","SECONDARY","HOLD_PRIMARY_MINUTES","Court minute entry not obtained"
 "E024","2026-10-15","PROCEDURE","Multiple proposed stipulations reportedly filed","S010","SECONDARY","HOLD_PRIMARY_ECF","No full text/order status verified"
 "E025","2026-10-16","SNAPSHOT","Original ECF1/59/97/143/175/176 read; Apple reply and newer docket have bounds","S001;S002;S003;S004;S005;S006;S010","RESEARCH_AUDIT","PASS_BOUND","Not certify litigation unchanged into future"
+"E026","2026-10-09","APPLE_FILING_POSITION","Apple says OpenAI notice received at 2pm and investigation commenced","S018","APPLE_PARTY","PASS_ATTRIBUTED","Based on ECF177"
+"E027","2026-10-12","APPLE_FILING_POSITION","Apple says it informed OpenAI it did not find confidential info and requested specificity","S018","APPLE_PARTY","PASS_ATTRIBUTED","Not a judge's factual finding"
+"E028","2026-10-14","COURT_RECORD","Apple files ECF177 responding to OpenAI ECF176","S018","PRIMARY","PASS","Response not merits order"
+"E029","2026-10-14","REPORTED_HEARING","Bloomberg reports pledge and 14 forensic images","S016","JOURNALISM","PASS_REPORTED","Separate from signed order"
+"E030","2026-10-15","SECONDARY_DOCKET","Three stipulations and proposed orders reported filed","S019","SECONDARY","HOLD_PRIMARY","Signed status unverified"

@@ -37,3 +37,8 @@
 "Q036","OCT15_ORDERS","Three proposed stipulations reported; operative text unavailable","HOLD","No claim court entered or rejected injunction"
 "Q037","REVISION","Narration shortened while retaining 10 acts / 8 Shorts","STAGE05_TEXT_PASS","Stage06 retention and Stage09 actual timing needed"
 "Q038","SHORTS","All 8 Shorts exactly one full parent-script paragraph","DRAFT_LEGAL_PASS_AUDIO_HOLD","Final <=30s including ending, no independent VO"
+"Q034","MISSING_PRIMARY_APPLE_REPLY","Obtained original ECF177 response Oct14 and used in revised script","CLOSED_PRIMARY","Apple Oct9 and Oct12 statements strictly attributed"
+"Q035","HEARING_ORDER","Original Oct14 minute and Oct15 three proposals not directly inspected","HOLD_PRIMARY","Do not assert signed injunction or binding stipulated order"
+"Q036","SCRIPT_REWRITE","R3 cut legal repetition and added primary Apple response","R3_DRAFT_READY","Still requires Stage04 final and audio timing"
+"Q037","CLICKBAIT_TITLE","Original everything reversed overstates judicial outcome","ALTERNATE_PENDING_OWNER","Suggest Apple Sued OpenAI. Then OpenAI Pointed Back at Apple."
+"Q038","SHORTS","Eight contiguous paragraph extracts present, no separate audio","DRAFT_PASS","Final <=30s include CTA/end card must measure"
