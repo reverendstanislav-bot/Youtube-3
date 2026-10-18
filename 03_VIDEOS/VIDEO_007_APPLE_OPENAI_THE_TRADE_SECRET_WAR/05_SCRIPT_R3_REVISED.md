@@ -4,7 +4,7 @@ Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything 
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
 American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026. Court's **official Northern District of California case docket** now records signed ECF188 and ECF189 on Oct16: joint preservation/forensic stipulation granted, Apple's ECF38 preliminary-injunction motion found moot, and joint expedited-discovery stipulation granted. Those docket descriptions are primary court records; full order PDFs and the October14 transcript were not retrieved and their detailed conditions must NOT be invented. Earlier primary ECF1/175/176/177 remain case facts attributed as appropriate.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 1979 spoken words, projected 12.8–14.7 min at 155–135 wpm; NOT measured Harrison audio.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2150 spoken words, projected 13.9–15.9 min at 155–135 wpm; NOT measured Harrison audio.
 
 **Mandatory legal locks:** Apple ECF1 allegations and OpenAI ECF176 allegations are contested and concern distinct employees and distinct file populations. ECF176 is NOT a filed counterclaim. Apple ECF177 search claims are APPLE'S assertions, not independent forensic findings. ECF175 is an Oct13 narrow *expedited discovery* order and not a preliminary-injunction order. The court's OFFICIAL DOCKET describes ECF188 (Oct16) as granting joint document preservation/forensic inspection and finding Apple's separate preliminary-injunction motion moot, and ECF189 (Oct16) as granting joint expedited discovery. **Moot does not mean denied on the merits, exoneration, verdict, or admission.** Do not invent operative stipulation language when full order PDFs are unavailable. Bloomberg Oct14 is an attributed reporter account of that hearing, superseded on injunction posture by the Oct16 court docket. No verified award or final merits outcome in sources reviewed. Stage04 source-scoped legal PASS from confirmed records to October17; October18 retention rewrite checked for party attribution and court-source accuracy. Stage16 new docket refresh required before publishing.
 
@@ -50,7 +50,7 @@ An engineer may carry skills into a new job. A confidential drawing, manufacturi
 
 **A01-P04**
 
-Apple said this distinction mattered because it had more than a theory about where people went. Its complaint described post-departure system access and recruiting requests involving confidential hardware.
+Apple said this distinction mattered because it had more than a theory about where people went. Its complaint described post-departure system access and recruiting requests involving confidential hardware. The case therefore did not depend on the fact of hiring alone. It depended on identifying protected material and connecting that material to a specific act of access, transfer or misuse.
 
 **A01-P05**
 
@@ -68,7 +68,7 @@ On July tenth, twenty twenty-six, Apple filed a civil lawsuit in San Jose. It na
 
 **A02-P02**
 
-Apple wanted to prevent alleged misuse before trial. It sought a preliminary injunction and, separately, early access to evidence that might support its concerns.
+Apple wanted to prevent alleged misuse before trial. It sought a preliminary injunction and, separately, early access to evidence that might support its concerns. An injunction can address feared urgent harm before trial. Early discovery instead concerns when documents and testimony may be obtained. Those requests have separate procedural standards.
 
 **A02-P03**
 
@@ -76,11 +76,11 @@ The complaint contained six civil claims: four under federal trade-secret law, a
 
 **A02-P04**
 
-Apple described two trails. One was digital access after an engineer left. The other involved recruiting conversations, including an alleged request for physical Apple parts.
+Apple described two trails. One was digital access after an engineer left. The other involved recruiting conversations, including an alleged request for physical Apple parts. The allegations connected employee departures to engineering information and interview activity. But the connection described in a complaint must still be tested against records and the defendants' responses.
 
 **A02-P05**
 
-Apple also requested financial relief. But a request for damages did not prove a particular sum lost, and no reviewed court order awarded one.
+Apple also requested financial relief. But a request for damages did not prove a particular sum lost, and no reviewed court order awarded one. That distinction matters for the cost at the center of the story: a requested remedy is not money lost, money paid, or a final result.
 
 **A02-P06**
 
@@ -94,7 +94,7 @@ The first question was remarkably concrete: if Chang Liu had already left Apple,
 
 **A03-P01**
 
-Apple alleged a rare authentication problem let Liu access confidential hardware information after departure. The complaint also described access using another Apple computer. Those were Apple's accusations about the route, not court findings.
+Apple alleged a rare authentication problem let Liu access confidential hardware information after departure. The complaint also described access using another Apple computer. Those were Apple's accusations about the route, not court findings. A technical ability to log in would not by itself establish the former employee's permission to use that access, much less actual use of a protected design by his next employer.
 
 **A03-P02**
 
@@ -102,7 +102,7 @@ Apple said Liu downloaded dozens of Apple-origin hardware files. Those files wer
 
 **A03-P03**
 
-Apple further alleged he retained a company laptop and advised a job candidate about avoiding attention when leaving. In Apple's account, the details suggested more than one isolated access event.
+Apple further alleged he retained a company laptop and advised a job candidate about avoiding attention when leaving. In Apple's account, the details suggested more than one isolated access event. The laptop and other machine were separate details in Apple's version of events. Each could matter to the timeline, but neither alone proved what happened to a particular confidential file.
 
 **A03-P04**
 
