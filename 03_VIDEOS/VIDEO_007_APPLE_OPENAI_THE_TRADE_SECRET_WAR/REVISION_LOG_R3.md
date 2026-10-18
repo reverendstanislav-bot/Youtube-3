@@ -38,3 +38,7 @@ Base: existing ACTIVE `05_SCRIPT_R3_REVISED.md` at branch main before this commi
 - Moved the real ECF188/189 judicial outcome from the first-minute intro to A08, so the reveal is earned and not repeated before the underlying conflict.
 - Replaced EIGHT Shorts with **FOUR** only (A00-P01, A05-P03, A07-P03, A09-P03); all exact contiguous from main script, **complete <=35s** including tail, real voice pending.
 - Updated 60-row fact audit, 4-row Shorts QC, both maps, performance review, state, manifest and QA in the same Git commit. Stage07 owner approval pending, no generation.
+
+
+### 2026-10-18 final synchronized readback
+Active script expanded through 20 evidence-specific non-Short beats to 2517 spoken words, 17.4 min at 145WPM, preserving 4 native Shorts verbatim. Retention loops remain in 06_PERFORMANCE_REVIEW_R3.md; no voice produced; original working title unchanged.

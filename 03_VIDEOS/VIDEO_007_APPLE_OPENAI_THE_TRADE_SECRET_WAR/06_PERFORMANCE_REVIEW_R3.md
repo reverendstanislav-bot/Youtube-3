@@ -1,6 +1,6 @@
 # VIDEO007 Stage06 — retention and four Shorts QC (2026-10-18)
 
-**Editorial structure decision: PASS for script design, NOT a measured audience or audio PASS.** Active R3: 1950 spoken words, 12.6–14.4 min at 155–135 WPM, 60 paragraphs/10 acts, exactly 4 contiguous Shorts.
+**Editorial structure decision: PASS for script design, NOT a measured audience or audio PASS.** Active R3: 2517 spoken words, 16.2–18.6 min at 155–135 WPM, 60 paragraphs/10 acts, exactly 4 contiguous Shorts.
 
 **Prior weakness fixed:** Oct16 court outcome used to be exposed in A00 and repeated at the end, draining suspense. It is now withheld to A08; actual court result remains correctly sourced and distinguished from guilt.
 
@@ -32,3 +32,7 @@
 - **SH04** = `A09-P03`: 61 spoken words; 25.2s @145 WPM; 27.1s @135 WPM; 7.9s hypothetical remaining for ending. Actual Harrison still UNMEASURED.
 
 **Stage07 script lock requires owner approval.** No TTS, media, or spending. Stage16 must refresh official docket before publication. Working title remains owner topic but “Then Everything Reversed” is legally misleading if interpreted as a reversed verdict; alternative recommended: *Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.*
+
+
+## Runtime source-depth reconciliation (2026-10-18)
+Following the owner-mandated shift from 8 to 4 Shorts and ten Q→A→next-question acts, 21+ non-Short passages received additional context from pre-existing filings and judicial material rather than repeated suspense. **Final active narration: 2517 spoken words; 17.4 min at 145 WPM**. Four selected Shorts remain verbatim and unchanged. Real Harrison timing is not yet measured.

@@ -1,7 +1,7 @@
 # VIDEO007 — State | 2026-10-17 FINAL STAGE04 SCRIPT QC
 
 **OWNER-APPROVED TOPIC UNCHANGED:** Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.
-**SINGLE ACTIVE SCRIPT:** `05_SCRIPT_R3_REVISED.md`, 1950 spoken words, 10 acts, 60 source-reviewed paragraphs, estimated 12.6–14.4 minutes at 155–135 words/minute, NOT Harrison measured audio.
+**SINGLE ACTIVE SCRIPT:** `05_SCRIPT_R3_REVISED.md`, 2517 spoken words, 10 acts, 60 source-reviewed paragraphs, estimated 16.2–18.6 minutes at 155–135 words/minute, NOT Harrison measured audio.
 **ACTIVE SHORTS:** FOUR exact contiguous parent-script extracts: SH01 A00-P01; SH02 A05-P03; SH03 A07-P03; SH04 A09-P03. `03_SHORTS_MAP.csv` and mirror `05_SHORTS_MAP_R3.csv`; max **35 seconds complete incl ending**, Harrison audio QC pending.
 **HISTORIC ARCHIVE:** Original `03_SCRIPT_V1.md` and `03_SCRIPT_V1_R2.md`, plus archived alternate `05_SCRIPT_V3.md`, preserved and NOT voice input.
 
@@ -29,3 +29,6 @@ The [Northern District of California's own docket](https://cand.uscourts.gov/cas
 - Removed early Oct16 court disposition spoiler from A00; moved substantive court payoff to A08 and closing synthesis in A09.
 - Exactly FOUR Shorts and <=35s full export requirement locked at script-planning level, not audio.
 - Stage04 legal source-scoped script PASS remains; Stage06 editorial retention PASS; Stage07 still owner approval pending. No voice/media.
+
+
+**Final October18 runtime audit:** 2517 actual spoken words (17.4 min at 145WPM), unchanged 4 Short extracts, ten Q→A→next question acts and Stage07 owner-approval gate; no voice/media.

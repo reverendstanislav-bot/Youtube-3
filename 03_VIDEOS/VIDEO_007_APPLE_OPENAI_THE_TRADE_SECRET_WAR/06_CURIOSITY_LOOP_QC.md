@@ -16,3 +16,7 @@ R3 opens with Apple suing OpenAI then OpenAI alleging transfers of >100 OpenAI-o
 
 ## QC and pending
 Editorial source-bounded legal accuracy checked 60/60 against same source index and court dispositions as previous R3. Real Harrison pacing and finished 35s runtime remain HOLD. Video voice, images, SFX or editing were not generated. Owner Stage07 Script Lock pending.
+
+
+## Final runtime verified against script
+2517 spoken words, 17.4 minutes at 145 WPM. Evidence/context added only to parent non-Short narration after the retention rewrite. Four selected paragraphs unchanged. The actual exported Shorts remain unmeasured pending Harrison audio.
