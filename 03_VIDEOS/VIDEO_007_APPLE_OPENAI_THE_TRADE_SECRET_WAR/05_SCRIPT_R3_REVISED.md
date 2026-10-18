@@ -4,7 +4,7 @@ Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything 
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
 American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026. Court's **official Northern District of California case docket** now records signed ECF188 and ECF189 on Oct16: joint preservation/forensic stipulation granted, Apple's ECF38 preliminary-injunction motion found moot, and joint expedited-discovery stipulation granted. Those docket descriptions are primary court records; full order PDFs and the October14 transcript were not retrieved and their detailed conditions must NOT be invented. Earlier primary ECF1/175/176/177 remain case facts attributed as appropriate.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2150 spoken words, projected 13.9–15.9 min at 155–135 wpm; NOT measured Harrison audio.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2349 spoken words, projected 15.2–17.4 min at 155–135 wpm; NOT measured Harrison audio.
 
 **Mandatory legal locks:** Apple ECF1 allegations and OpenAI ECF176 allegations are contested and concern distinct employees and distinct file populations. ECF176 is NOT a filed counterclaim. Apple ECF177 search claims are APPLE'S assertions, not independent forensic findings. ECF175 is an Oct13 narrow *expedited discovery* order and not a preliminary-injunction order. The court's OFFICIAL DOCKET describes ECF188 (Oct16) as granting joint document preservation/forensic inspection and finding Apple's separate preliminary-injunction motion moot, and ECF189 (Oct16) as granting joint expedited discovery. **Moot does not mean denied on the merits, exoneration, verdict, or admission.** Do not invent operative stipulation language when full order PDFs are unavailable. Bloomberg Oct14 is an attributed reporter account of that hearing, superseded on injunction posture by the Oct16 court docket. No verified award or final merits outcome in sources reviewed. Stage04 source-scoped legal PASS from confirmed records to October17; October18 retention rewrite checked for party attribution and court-source accuracy. Stage16 new docket refresh required before publishing.
 
@@ -106,7 +106,7 @@ Apple further alleged he retained a company laptop and advised a job candidate a
 
 **A03-P04**
 
-But the existence of access does not answer everything. Was it permitted? Did particular files move to the next employer? Did anyone use protected information in a new product? Each link would need evidence.
+But the existence of access does not answer everything. Was it permitted? Did particular files move to the next employer? Did anyone use protected information in a new product? Each link would need evidence. A login can establish an account was used; a download can identify a file. The contested step is tracing a protected design into a rival's possession or product work.
 
 **A03-P05**
 
@@ -124,11 +124,11 @@ What if the employee could still log in because Apple had not shut off access pr
 
 **A04-P01**
 
-OpenAI argued that Apple's offboarding had sometimes left access active. It also said Apple colleagues asked Liu for help after he left. If those assertions were accurate, some activity Apple found suspicious could have a different context.
+OpenAI argued that Apple's offboarding had sometimes left access active. It also said Apple colleagues asked Liu for help after he left. If those assertions were accurate, some activity Apple found suspicious could have a different context. That directly challenged Apple's interpretation of its logs. Requests for help from former colleagues could affect how the same activity was understood without automatically making every later access lawful.
 
 **A04-P02**
 
-OpenAI published selected redacted messages to support its version. Those excerpts were a party's evidence, not a judicial ruling that every access was authorized.
+OpenAI published selected redacted messages to support its version. Those excerpts were a party's evidence, not a judicial ruling that every access was authorized. Redacted excerpts may support a defense theory, but they do not necessarily show every conversation, attachment or step in the technical chronology. That is why the fuller record mattered.
 
 **A04-P03**
 
@@ -136,7 +136,7 @@ Now there were two interpretations of the digital trail: Apple's account of unau
 
 **A04-P04**
 
-The forensic disagreement also involved files, AI tools and suspected deletion. The court's October thirteenth discovery order did not resolve whether evidence had been destroyed.
+The forensic disagreement also involved files, AI tools and suspected deletion. The court's October thirteenth discovery order did not resolve whether evidence had been destroyed. The parties differed not only about what the machines recorded, but also about the meaning of those traces. The judge left that disagreement open in the discovery ruling.
 
 **A04-P05**
 
@@ -154,7 +154,7 @@ Then came an allegation that needed no technical log to sound serious: during re
 
 **A05-P01**
 
-The recruiting part of the complaint centered on Tang Yew Tan, a former Apple executive who had spent more than two decades there. Apple alleged OpenAI's hardware recruiting went beyond ordinary questions about professional experience.
+The recruiting part of the complaint centered on Tang Yew Tan, a former Apple executive who had spent more than two decades there. Apple alleged OpenAI's hardware recruiting went beyond ordinary questions about professional experience. Under Apple's theory, the interview process mattered because it could reveal what OpenAI wanted to know about ongoing hardware projects, rather than only testing general engineering talent.
 
 **A05-P02**
 
@@ -166,7 +166,7 @@ Two words in Apple's lawsuit stand out: 'Actual parts.' Apple alleged that forme
 
 **A05-P04**
 
-OpenAI disputed wrongdoing. Asking an engineer to explain a design is different from asking them to bring protected hardware from a former employer. The actual interview materials could help distinguish what happened.
+OpenAI disputed wrongdoing. Asking an engineer to explain a design is different from asking them to bring protected hardware from a former employer. The actual interview materials could help distinguish what happened. Written guides or candidate materials could distinguish those explanations more reliably than either company's characterization. That is why the real interview documents became a concrete target for discovery.
 
 **A05-P05**
 
@@ -192,7 +192,7 @@ For certain material already collected, the order set a five-day deadline. Other
 
 **A06-P03**
 
-The judge also permitted limited depositions. But Apple did not receive everything it wanted: sweeping early requests about battery, power management and metal-finishing research were rejected, while other categories needed narrower definitions.
+The judge also permitted limited depositions. But Apple did not receive everything it wanted: sweeping early requests about battery, power management and metal-finishing research were rejected, while other categories needed narrower definitions. The permitted questioning covered named witnesses and corporate testimony on defined topics. Requests depending on the broad term Apple Originated Information were deferred until narrowed, not granted without limits.
 
 **A06-P04**
 
