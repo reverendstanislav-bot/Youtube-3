@@ -38,3 +38,7 @@ Primary source: **[Official N.D. California court case listing](https://cand.usc
 - [ECF175 full signed Oct13 order](https://law.justia.com/cases/federal/district-courts/california/candce/5%3A2026cv07078/474095/175/)
 - [ECF176 filed supplement](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.176.0.pdf)
 - [ECF177 filed primary text mirror](https://9to5mac.com/wp-content/uploads/sites/6/2026/10/gov.uscourts.cand_.474095.177.0.pdf)
+
+
+## 2026-10-18 performance rewrite legal check (current active R3)
+The October18 owner-requested edit changes **story order and style**, not the previously verified court results. Every rewritten paragraph was inspected for accurate attribution against the original Source Index; 60 updated entries are in `04_SCRIPT_FACT_AUDIT.csv`. Exactly **four** native Shorts replace the historical eight: SH01 A00-P01, SH02 A05-P03, SH03 A07-P03, SH04 A09-P03. The October16 ECF188/189 signed procedural outcome is now narrated in A08, not spoiled in the cold open. The court did not adjudicate either side's theft allegation in those entries; ECF38 was found moot. The original court docket/freshness limitations and mandatory Stage16 check remain. **Stage04 source-scoped narration PASS; Stage07 owner script lock PENDING.** Historical references to 8 Shorts above are superseded.

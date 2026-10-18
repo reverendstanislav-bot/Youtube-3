@@ -31,3 +31,10 @@ Base: existing ACTIVE `05_SCRIPT_R3_REVISED.md` at branch main before this commi
 - Earlier presumed unresolved procedural posture was materially outdated; rewrote 12 actual narration paragraphs including intro, A08 turning point and A09 conclusion.
 - Updated full 60-para legal audit, source/claims/events ledgers, all 8 verbatim Shorts and SH08 as a high-value official judicial result. Old V1/R2/alternate V3 untouched.
 - Stage04 legal SCRIPT PASS as-of 2026-10-17; no claims about stipulation clauses from inaccessible complete order PDFs. Stage07 owner script lock pending; Stage16 final current-case refresh mandatory.
+
+
+## October 18 — owner performance correction
+- Rewrote 60 active R3 paragraphs for ten linked question→answer→next-question beats, preserved court source attribution.
+- Moved the real ECF188/189 judicial outcome from the first-minute intro to A08, so the reveal is earned and not repeated before the underlying conflict.
+- Replaced EIGHT Shorts with **FOUR** only (A00-P01, A05-P03, A07-P03, A09-P03); all exact contiguous from main script, **complete <=35s** including tail, real voice pending.
+- Updated 60-row fact audit, 4-row Shorts QC, both maps, performance review, state, manifest and QA in the same Git commit. Stage07 owner approval pending, no generation.

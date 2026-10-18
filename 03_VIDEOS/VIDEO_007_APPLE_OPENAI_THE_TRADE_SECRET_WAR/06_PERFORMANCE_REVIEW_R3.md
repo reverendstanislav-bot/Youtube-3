@@ -1,42 +1,34 @@
-# VIDEO 007 — Stage 06 R3 YouTube Performance Review (17 Oct 2026)
+# VIDEO007 Stage06 — retention and four Shorts QC (2026-10-18)
 
-**Editorial status: PASS with cautions for final Harrison delivery; Stage04 legal SCRIPT PASS based on Oct16 official court docket; final release still requires Stage16 legal refresh.** Active input `05_SCRIPT_R3_REVISED.md`, 2484 spoken words, 10 acts, 60 narration paragraphs, 8 continuous extracted shorts. Runtime 16.0–18.4 min at 155–135 wpm. 145 wpm prediction 17.1 min; no TTS has run.
+**Editorial structure decision: PASS for script design, NOT a measured audience or audio PASS.** Active R3: 1950 spoken words, 12.6–14.4 min at 155–135 WPM, 60 paragraphs/10 acts, exactly 4 contiguous Shorts.
 
-## Retention mechanics
-- **0–5 sec estimated:** Apple brings the first accusation, not abstract legal theory. Exact 5s boundary needs recorded voice.
-- **5–15 sec estimated:** 100+ OpenAI files and return to Apple generate a reversal of accusations, *not a reversed legal result*.
-- **15–30 sec estimated:** hook closes with 'no court finding' and the missing-proof gap; first hard payoff before the courtroom detail.
-- **30–60 sec estimated:** ECF175 records, Bloomberg-reported 14 devices, and Siri partnership put risk and surprise into a recognizable business conflict. A00 approx 71.2s at 145 wpm; not measured.
-- A01–A03: recognizable partnership, legal boundary, specific Chang Liu access claim; removed repeated teaching moments.
-- A04–A06: opposing explanation, 'Actual parts' vivid sourced phrase, then exact judge-ordered documents and depositions. Actual procedural payoff instead of generic court drama.
-- A07–A08: OpenAI-origin 100+ file allegation, June 2 / October 14 distinction, Apple Oct9/12 response. Limits on proof are integrated at each reveal.
-- A09: visible procedural consequences and unpriced exposure; logical ending while lawsuit remains unresolved.
+**Prior weakness fixed:** Oct16 court outcome used to be exposed in A00 and repeated at the end, draining suspense. It is now withheld to A08; actual court result remains correctly sourced and distinguished from guilt.
 
-## A/B title proposals — subjective cold-US-audience packaging scores (NOT observed CTR)
-| Choice | Candidate | Cold-click clarity | Legal precision | Verdict |
-|---|---|---:|---:|---|
-| A | **Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.** | 9/10 | 9.5/10 | **Recommended**, no implication judge reversed case |
-| B | **Apple Sued OpenAI. Then Came the 100-File Allegation.** | 8.5/10 | 9.5/10 | Strong specificity; count must remain attributed in video |
-| C | **Apple vs. OpenAI: The Trade-Secret Accusation Went Both Ways.** | 7.5/10 | 9/10 | More explanatory, less punch |
+## First-minute hook checkpoints (estimates at 145WPM, not measured Harrison)
+- 0–5s: Apple sues OpenAI for alleged hardware-secrets theft; clear high-stakes recognisable conflict.
+- 5–15s: OpenAI alleges a different employee returning to Apple transferred >100 confidential OpenAI files to personal accounts.
+- 15–30s: Question answered: did the filing prove Apple got the files? No. New unresolved question: what will judge actually decide?
+- 30–60s: Siri partnership and Apple alleged continuing access establish specificity. OpenAI had a conflicting explanation.
+- No invented court finding, and no ECF188/189 spoiler within A00.
 
-Owner title **Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed.** remains untouched in `manifest.yaml`. **Packaging HOLD**: 'Everything Reversed' implies reversed court outcome, which is not established. Recommend A only for owner approval, not automatic title change.
+## Q → A → next Q ladder
+| Act | Question opened | Concrete payoff within act | New curiosity |
+|---|---|---|---|
+| A00 | Why accusations in both directions? | ECF176 alleged employee sent OpenAI files to personal accounts; not proven Apple possession | Why are software partners hardware rivals? |
+| A01 | How could partners sue? | Siri partnership covers software, not shared hardware secrets | What exactly did Apple allege? |
+| A02 | What did Apple bring to court? | Six civil counts, access and recruiting allegations, urgent relief | How did ex-engineer still access Apple? |
+| A03 | What did Apple's digital trail show? | Alleged authentication route, dozens Apple-origin files, laptop | Did offboarding leave legitimate access? |
+| A04 | What did OpenAI counter? | Residual access/Apple colleague help requests disputed | Why the phrase “Actual parts”? |
+| A05 | Was Apple hardware actually delivered? | Apple alleged request, not proven physical handoff | Will judge let Apple inspect interview documents? |
+| A06 | What did judge allow? | Narrow ECF175 early records and depositions, not theft finding | What did OpenAI allege the next day? |
+| A07 | Did 100+ OpenAI files reach Apple? | Personal-account transfers alleged; not proven corporate possession/use | What did Apple's search find? |
+| A08 | What did Apple find, then what court ruled? | Apple Oct9/12 search claim; Oct16 ECF188/189 signed outcome, injunction moot | What was the real cost? |
+| A09 | Who won and what did it cost? | Preservation/inspection/discovery process, no theft verdict or award | Unresolved merits properly framed, no fake cliffhanger |
 
-## Eight shorts
-All 8 stand alone in one unchanged parent paragraph. Target spoken estimate at 145wpm: SH01 22.8s; SH02 23.6s; SH03 20.3s; SH04 21.5s; SH05 21.1s; SH06 21.9s; SH07 21.5s; SH08 21.5s. Allow margin for real Harrison pacing, intro/outro and 30.0s cap. `04_SHORTS_QC.csv` has one independent exact check per short. No voices generated.
+## Shorts: EXACTLY FOUR, <=35 seconds total including ending
+- **SH01** = `A00-P01`: 59 spoken words; 24.4s @145 WPM; 26.2s @135 WPM; 8.8s hypothetical remaining for ending. Actual Harrison still UNMEASURED.
+- **SH02** = `A05-P03`: 63 spoken words; 26.1s @145 WPM; 28.0s @135 WPM; 7.0s hypothetical remaining for ending. Actual Harrison still UNMEASURED.
+- **SH03** = `A07-P03`: 64 spoken words; 26.5s @145 WPM; 28.4s @135 WPM; 6.6s hypothetical remaining for ending. Actual Harrison still UNMEASURED.
+- **SH04** = `A09-P03`: 61 spoken words; 25.2s @145 WPM; 27.1s @135 WPM; 7.9s hypothetical remaining for ending. Actual Harrison still UNMEASURED.
 
-## Quality risks
-- First act still includes mandatory caveats and will depend on performance/editing, so predictions are editorial, not guaranteed retention.
-- ECF188/189 signed Oct16 disposition is now independently verified from official court docket; full order PDFs cannot support additional narrated stipulation details.
-- The short with the narrowest 30s buffer should be tested first with real Harrison audio, not assumed clear on word count alone.
-
-**Stage07 NOT AUTHORIZED. No TTS, image generation, video, or external paid credits.**
-
-
-**Oct17 corrective QC:** A06 ECF175 now gives concrete granted/denied/deferred examples and the explicitly denied fourth early deposition. SH06/SH07 updated inside main narration and extracted maps. No empirically measured audience effect. Primary Oct14/15 and fresh ECF177 still HOLD.
-
-
-Oct17 legal-script refinement: ECF177 original now directly verified; A08-P05 anchored to ECF176/ECF177 rather than secondary proposed order and SH01 narrowed to claims about what filings do not establish. Final audio unmeasured; Stage07 blocked by latest docket.
-
-
-## October 17 final performance update
-The court's **real October16 ruling** now provides a concrete new payoff and a truthful ending. Revised A00 hooks the viewer with two allegations, then within opening act reveals the approved forensic/expedited-discovery deals and the *moot* injunction request. A08–A09 contrast Bloomberg's reported Oct14 inclination with official signed Oct16 outcome, rather than leaving an outdated hypothetical verdict hanging. SH08 now covers the authentic procedural twist, not another duplicated filing date. Editorial retention comments remain predictions, not measured audience data.
+**Stage07 script lock requires owner approval.** No TTS, media, or spending. Stage16 must refresh official docket before publication. Working title remains owner topic but “Then Everything Reversed” is legally misleading if interpreted as a reversed verdict; alternative recommended: *Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.*
