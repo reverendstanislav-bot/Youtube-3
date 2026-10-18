@@ -4,7 +4,7 @@ Owner-approved topic: Apple Accused OpenAI of Stealing Secrets. Then Everything 
 Alternative title suggested, not owner-locked: Apple Sued OpenAI. Then OpenAI Pointed Back at Apple.
 American English, WHAT IT COST. Case: Apple Inc. v. Liu et al., N.D. Cal. 5:26-cv-07078-EJD. Evidence cut-off October 17, 2026. Court's **official Northern District of California case docket** now records signed ECF188 and ECF189 on Oct16: joint preservation/forensic stipulation granted, Apple's ECF38 preliminary-injunction motion found moot, and joint expedited-discovery stipulation granted. Those docket descriptions are primary court records; full order PDFs and the October14 transcript were not retrieved and their detailed conditions must NOT be invented. Earlier primary ECF1/175/176/177 remain case facts attributed as appropriate.
 
-**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2349 spoken words, projected 15.2–17.4 min at 155–135 wpm; NOT measured Harrison audio.
+**Only unitalicized spoken paragraphs below are narration.** Chapter headers, paragraph IDs, [SHORT] markers, source labels and this header are not spoken. Preserve literal paragraphs for Shorts; extract from the final master, no separate VO. Narration length: 2517 spoken words, projected 16.2–18.6 min at 155–135 wpm; NOT measured Harrison audio.
 
 **Mandatory legal locks:** Apple ECF1 allegations and OpenAI ECF176 allegations are contested and concern distinct employees and distinct file populations. ECF176 is NOT a filed counterclaim. Apple ECF177 search claims are APPLE'S assertions, not independent forensic findings. ECF175 is an Oct13 narrow *expedited discovery* order and not a preliminary-injunction order. The court's OFFICIAL DOCKET describes ECF188 (Oct16) as granting joint document preservation/forensic inspection and finding Apple's separate preliminary-injunction motion moot, and ECF189 (Oct16) as granting joint expedited discovery. **Moot does not mean denied on the merits, exoneration, verdict, or admission.** Do not invent operative stipulation language when full order PDFs are unavailable. Bloomberg Oct14 is an attributed reporter account of that hearing, superseded on injunction posture by the Oct16 court docket. No verified award or final merits outcome in sources reviewed. Stage04 source-scoped legal PASS from confirmed records to October17; October18 retention rewrite checked for party attribution and court-source accuracy. Stage16 new docket refresh required before publishing.
 
@@ -188,7 +188,7 @@ On October thirteenth, Judge Edward Davila partially granted Apple's request for
 
 **A06-P02**
 
-For certain material already collected, the order set a five-day deadline. Other permitted responses had a fourteen-day window, including specified forensic, interview and LINE-message material.
+For certain material already collected, the order set a five-day deadline. Other permitted responses had a fourteen-day window, including specified forensic, interview and LINE-message material. These deadlines did not mean the files had already been produced or that their contents proved wrongdoing. They only defined an earlier schedule for specific evidence.
 
 **A06-P03**
 
@@ -218,11 +218,11 @@ And the employee in that new allegation was headed the other way: back to Apple.
 
 **A07-P01**
 
-On October fourteenth, OpenAI filed a supplement to a case-management statement. It described an unnamed employee who had moved from Apple to OpenAI, stayed for roughly six months, and then returned to Apple.
+On October fourteenth, OpenAI filed a supplement to a case-management statement. It described an unnamed employee who had moved from Apple to OpenAI, stayed for roughly six months, and then returned to Apple. This was a different employee from the people named in Apple's complaint. Mixing the workers or combining the two companies' file counts would turn separate allegations into a false single leak.
 
 **A07-P02**
 
-According to OpenAI, the files concerned an unreleased device, engineering images, manufacturing details, suppliers, finishes and coatings. Those descriptions were allegations in its filing, not public access to the confidential files themselves.
+According to OpenAI, the files concerned an unreleased device, engineering images, manufacturing details, suppliers, finishes and coatings. Those descriptions were allegations in its filing, not public access to the confidential files themselves. Those categories made OpenAI's concern concrete, but the underlying files were not released as public proof that an Apple corporate system ever received them.
 
 **A07-P03 · SHORT SH03 (EXACT ONE-PARAGRAPH EXTRACT)**
 
@@ -230,7 +230,7 @@ Then OpenAI raised its own file allegation. It said an employee returning to App
 
 **A07-P04**
 
-OpenAI said some transfers occurred around June second in Singapore, on the employee's last workday. That was before Apple's July lawsuit. October fourteenth was the date OpenAI disclosed the allegation in this case, not the alleged date of every transfer.
+OpenAI said some transfers occurred around June second in Singapore, on the employee's last workday. That was before Apple's July lawsuit. October fourteenth was the date OpenAI disclosed the allegation in this case, not the alleged date of every transfer. The distinction matters because the alleged transfers came before the public fight. The October filing revealed OpenAI's accusation in court; it did not move the alleged transfer date forward.
 
 **A07-P05**
 
@@ -260,7 +260,7 @@ In Apple's October fourteenth response, it said OpenAI first notified it on Frid
 
 **A08-P02**
 
-Apple said it told OpenAI on Monday, October twelfth, that its searches had not found confidential OpenAI material. It requested more details for additional searches, and said OpenAI had not replied before its filing.
+Apple said it told OpenAI on Monday, October twelfth, that its searches had not found confidential OpenAI material. It requested more details for additional searches, and said OpenAI had not replied before its filing. Apple's response was its own account of its investigation, not a judicial certification of the scope or completeness of a search of all possible personal destinations.
 
 **A08-P03**
 
@@ -278,7 +278,7 @@ Two days later came the actual court result. On October sixteenth, the judge app
 
 ### A09 — WHAT IT COULD COST
 
-*NON-SPOKEN: sources S001,S005,S006,S018,S023,S024; claim IDs C012,C013,C014,C041,C042,C049,C051,C060,C061.*
+*NON-SPOKEN: sources S001,S005,S006,S018,S023,S024; claim IDs C012,C013,C014,C041,C042,C049,C051,C060,C061.* Mootness was not a judgment that Apple's complaint was false, and it was not a finding of theft. It described what happened to this specific urgent motion after the evidence-related stipulation was approved.
 
 **A09-P01**
 
@@ -294,7 +294,7 @@ Apple asked a federal judge for a preliminary injunction against OpenAI. But on 
 
 **A09-P04**
 
-Apple had asked for financial relief, but the reviewed filings and procedural orders did not establish any damages award. The court's confirmed actions imposed evidence obligations, not a verified price tag.
+Apple had asked for financial relief, but the reviewed filings and procedural orders did not establish any damages award. The court's confirmed actions imposed evidence obligations, not a verified price tag. That does not mean the litigation lacked potential financial stakes. Any later award would need a legal basis and proof of protected information, misconduct and harm — none established by these procedural orders.
 
 **A09-P05**
 
