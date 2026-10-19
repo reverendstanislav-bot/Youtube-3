@@ -1,3 +1,5 @@
+> **HISTORICAL STAGE02 V1 PLANNING ONLY — SUPERSEDED OCT19.** Owner locked **FOUR** native Shorts <=**35s full export** from Stage07, see `07_SHORTS_LOCK.csv`. Old 8 candidates and 30s cap below are archived planning notes, NOT active production constraints.
+
 # VIDEO007 — STAGE 02 SHORTS ARCHITECTURE V1
 Status: **8/8 PRE-SCRIPT CONTIGUOUS CANDIDATES** | 2026-10-16
 **Canonical channel rules:** actual spoken target ~20–27 seconds; final full exported Short <=30.0s INCLUDING any CTA/ending. One uninterrupted source long-form range at sentence boundaries; **no separate Shorts narration, no stitched lines, no separately regenerated audio**. These are **writing requirements inside the long** (NOT ready-made scripts/cuts), and projected timestamps below are approximate until Stage03+audio.

@@ -1,0 +1,23 @@
+On July tenth, twenty twenty-six, Apple filed a civil lawsuit in San Jose. It named former Apple employees Chang Liu and Tang Yew Tan, along with OpenAI entities and io Products, a business connected to OpenAI's hardware effort.
+
+Apple wanted to prevent alleged misuse before trial. It sought a preliminary injunction and, separately, early access to evidence that might support its concerns. An injunction can address feared urgent harm before trial. Early discovery instead concerns when documents and testimony may be obtained. Those requests have separate procedural standards.
+
+The complaint contained six civil claims: four under federal trade-secret law, and two involving former employees' intellectual-property agreements. These were allegations, not verdicts. The case turned on the conduct beneath the legal counts.
+
+Apple described two trails. One was digital access after an engineer left. The other involved recruiting conversations, including an alleged request for physical Apple parts. The allegations connected employee departures to engineering information and interview activity. But the connection described in a complaint must still be tested against records and the defendants' responses.
+
+Apple also requested financial relief. But a request for damages did not prove a particular sum lost, and no reviewed court order awarded one. That distinction matters for the cost at the center of the story: a requested remedy is not money lost, money paid, or a final result.
+
+The first question was remarkably concrete: if Chang Liu had already left Apple, how was he allegedly still getting into its systems?
+
+Apple alleged a rare authentication problem let Liu access confidential hardware information after departure. The complaint also described access using another Apple computer. Those were Apple's accusations about the route, not court findings. A technical ability to log in would not by itself establish the former employee's permission to use that access, much less actual use of a protected design by his next employer.
+
+Apple said Liu downloaded dozens of Apple-origin hardware files. Those files were not the more than one hundred OpenAI-origin files that would later appear in a separate allegation.
+
+Apple further alleged he retained a company laptop and advised a job candidate about avoiding attention when leaving. In Apple's account, the details suggested more than one isolated access event. The laptop and other machine were separate details in Apple's version of events. Each could matter to the timeline, but neither alone proved what happened to a particular confidential file.
+
+But the existence of access does not answer everything. Was it permitted? Did particular files move to the next employer? Did anyone use protected information in a new product? Each link would need evidence. A login can establish an account was used; a download can identify a file. The contested step is tracing a protected design into a rival's possession or product work.
+
+So Apple had a story worth testing, not a verdict built from a download count. OpenAI's response supplied an alternative explanation for the same activity.
+
+What if the employee could still log in because Apple had not shut off access properly — and colleagues were still asking for help?

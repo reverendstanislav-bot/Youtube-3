@@ -1,0 +1,23 @@
+OpenAI argued that Apple's offboarding had sometimes left access active. It also said Apple colleagues asked Liu for help after he left. If those assertions were accurate, some activity Apple found suspicious could have a different context. That directly challenged Apple's interpretation of its logs. Requests for help from former colleagues could affect how the same activity was understood without automatically making every later access lawful.
+
+OpenAI published selected redacted messages to support its version. Those excerpts were a party's evidence, not a judicial ruling that every access was authorized. Redacted excerpts may support a defense theory, but they do not necessarily show every conversation, attachment or step in the technical chronology. That is why the fuller record mattered.
+
+Now there were two interpretations of the digital trail: Apple's account of unauthorized access and OpenAI's account of lingering permissions and requests from Apple colleagues. The surrounding records mattered.
+
+The forensic disagreement also involved files, AI tools and suspected deletion. The court's October thirteenth discovery order did not resolve whether evidence had been destroyed. The parties differed not only about what the machines recorded, but also about the meaning of those traces. The judge left that disagreement open in the discovery ruling.
+
+OpenAI and the other defendants moved to dismiss the suit and fought Apple's request for urgent relief. These were litigation positions, not outcomes.
+
+Then came an allegation that needed no technical log to sound serious: during recruiting, Apple said someone asked for actual physical hardware.
+
+The recruiting part of the complaint centered on Tang Yew Tan, a former Apple executive who had spent more than two decades there. Apple alleged OpenAI's hardware recruiting went beyond ordinary questions about professional experience. Under Apple's theory, the interview process mattered because it could reveal what OpenAI wanted to know about ongoing hardware projects, rather than only testing general engineering talent.
+
+Apple described a candidate's surprise at a request involving actual Apple hardware. But the allegation concerned what was asked during an interview, not evidence that a part was delivered.
+
+Two words in Apple's lawsuit stand out: 'Actual parts.' Apple alleged that former Apple executive Tang Yew Tan sought physical Apple hardware during recruiting. Did that prove someone delivered an Apple component? No. The complaint described a request, not a confirmed handoff. But it gave Apple a specific reason to demand the interview documents — and ask what candidates were really told to bring.
+
+OpenAI disputed wrongdoing. Asking an engineer to explain a design is different from asking them to bring protected hardware from a former employer. The actual interview materials could help distinguish what happened. Written guides or candidate materials could distinguish those explanations more reliably than either company's characterization. That is why the real interview documents became a concrete target for discovery.
+
+That is why Apple requested early production of interview guides, presentations and related records. The documents might provide the context that an allegation alone could not.
+
+Would the judge grant early access to those records? This was the first question a court order could actually answer.

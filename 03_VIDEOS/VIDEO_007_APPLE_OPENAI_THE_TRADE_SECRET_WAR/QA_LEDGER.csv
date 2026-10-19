@@ -57,3 +57,8 @@
 "Q055","OWNER_SHORTS_COUNT","Exactly four Shorts requested, <=35s full export","SCRIPT_QC_PASS_AUDIO_HOLD","SH01 A00-P01; SH02 A05-P03; SH03 A07-P03; SH04 A09-P03; real Harrison timing required"
 "Q056","CURIOSITY_LOOP","Old A00 spoiled judge decision too soon","EDITORIAL_CORRECTED","October16 court outcome now A08; ten acts Q-A-next-question documented in Stage06"
 "Q057","STAGE07_GATE","Owner has not approved voice script lock","OWNER_APPROVAL_PENDING","No TTS or paid media; stage16 docket refresh and title packaging separate"
+"Q058","STAGE07_OWNER_LOCK","Owner responded ok to Oct18 R3 and four-Short revision","PASS_SCRIPT_LOCK","Stage07 canonical copy identical 60/60 narration paragraphs; 2517 words; four native shorts only"
+"Q059","STAGE08_VOICE_TEXT","Harrison narration extracted from locked script without headers/notes","PASS_TEXT_ONLY","08_VOICE_SCRIPT_MASTER.txt equals Stage07 narration-only; five text chunks concatenate exactly; no generation"
+"Q060","FOUR_SHORTS_35SEC","Four full Shorts including endings <=35s","HOLD_AUDIO_NOT_MEASURED","Script passages safe under 135WPM projection; actual master and final video duration must be measured"
+"Q061","SPEND_AUTHORIZATION","Harrison preset locked but synthesis engine/model and spending not approved","HOLD_NO_SPEND","Seek explicit voice model, jobs and estimated credit permission prior to any new audio"
+"Q062","LEGACY_SOURCE_OF_TRUTH","Oct17 file still advertised 2251 words/8 Shorts","FIXED","Updated current authority to Stage07 2517 words, exactly 4 Shorts; historical architecture bannered as obsolete"

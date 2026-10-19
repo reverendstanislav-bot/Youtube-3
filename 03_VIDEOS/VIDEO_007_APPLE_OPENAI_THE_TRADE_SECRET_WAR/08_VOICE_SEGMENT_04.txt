@@ -1,0 +1,29 @@
+On October thirteenth, Judge Edward Davila partially granted Apple's request for expedited discovery. That meant specified evidence could be produced earlier than the ordinary schedule.
+
+For certain material already collected, the order set a five-day deadline. Other permitted responses had a fourteen-day window, including specified forensic, interview and LINE-message material. These deadlines did not mean the files had already been produced or that their contents proved wrongdoing. They only defined an earlier schedule for specific evidence.
+
+The judge also permitted limited depositions. But Apple did not receive everything it wanted: sweeping early requests about battery, power management and metal-finishing research were rejected, while other categories needed narrower definitions. The permitted questioning covered named witnesses and corporate testimony on defined topics. Requests depending on the broad term Apple Originated Information were deferred until narrowed, not granted without limits.
+
+The order did not decide whether evidence had been destroyed or whether Apple proved its theft allegations. It was about access to records, not the final result of the case.
+
+So the answer was specific: Apple could get certain evidence sooner, but not unrestricted access to OpenAI's research. The separate request for a preliminary injunction still had its own path.
+
+Before that evidence could settle Apple's concerns, however, OpenAI reported a different possible file transfer — involving its own confidential material.
+
+And the employee in that new allegation was headed the other way: back to Apple.
+
+On October fourteenth, OpenAI filed a supplement to a case-management statement. It described an unnamed employee who had moved from Apple to OpenAI, stayed for roughly six months, and then returned to Apple. This was a different employee from the people named in Apple's complaint. Mixing the workers or combining the two companies' file counts would turn separate allegations into a false single leak.
+
+According to OpenAI, the files concerned an unreleased device, engineering images, manufacturing details, suppliers, finishes and coatings. Those descriptions were allegations in its filing, not public access to the confidential files themselves. Those categories made OpenAI's concern concrete, but the underlying files were not released as public proof that an Apple corporate system ever received them.
+
+Then OpenAI raised its own file allegation. It said an employee returning to Apple sent more than one hundred confidential OpenAI files about unreleased hardware to personal accounts. That sounded like the Apple lawsuit in reverse. But the filing did not establish that Apple received the files or that Apple engineers used them. The alleged personal transfer and a company's use are different claims.
+
+OpenAI said some transfers occurred around June second in Singapore, on the employee's last workday. That was before Apple's July lawsuit. October fourteenth was the date OpenAI disclosed the allegation in this case, not the alleged date of every transfer. The distinction matters because the alleged transfers came before the public fight. The October filing revealed OpenAI's accusation in court; it did not move the alleged transfer date forward.
+
+OpenAI also said it understood that the employee had presented its product plans to Apple leadership. That was OpenAI's understanding, not a court finding of what Apple executives actually received.
+
+OpenAI pointed to Apple's AI home-device activity as a source of concern. But an announcement of a device is not evidence that another company's confidential design was used.
+
+The filing was not a countersuit. OpenAI requested time to investigate possible counterclaims; its October fourteenth supplement did not formally bring one.
+
+Had those files reached Apple? Apple said it had already started looking — days before OpenAI filed the allegation in court.

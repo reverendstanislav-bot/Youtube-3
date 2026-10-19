@@ -1,0 +1,5 @@
+"short_id","paragraph_id","act","words","estimated_spoken_sec_at_145wpm","estimated_spoken_sec_at_135wpm","remaining_seconds_at_135wpm_for_tail","complete_export_max_seconds","actual_duration_seconds","narration_status","export_status"
+"SH01","A00-P01","A00","59","24.4","26.2","8.8","35","UNMEASURED","LOCKED_TEXT_SHORT_FROM_LONGFORM","FINAL_DURATION_HOLD"
+"SH02","A05-P03","A05","63","26.1","28.0","7.0","35","UNMEASURED","LOCKED_TEXT_SHORT_FROM_LONGFORM","FINAL_DURATION_HOLD"
+"SH03","A07-P03","A07","64","26.5","28.4","6.6","35","UNMEASURED","LOCKED_TEXT_SHORT_FROM_LONGFORM","FINAL_DURATION_HOLD"
+"SH04","A09-P03","A09","61","25.2","27.1","7.9","35","UNMEASURED","LOCKED_TEXT_SHORT_FROM_LONGFORM","FINAL_DURATION_HOLD"

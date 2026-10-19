@@ -1,0 +1,23 @@
+In Apple's October fourteenth response, it said OpenAI first notified it on Friday, October ninth, at two in the afternoon. Apple said its investigation began that day.
+
+Apple said it told OpenAI on Monday, October twelfth, that its searches had not found confidential OpenAI material. It requested more details for additional searches, and said OpenAI had not replied before its filing. Apple's response was its own account of its investigation, not a judicial certification of the scope or completeness of a search of all possible personal destinations.
+
+That answered what Apple said its own search found. It did not prove the alleged personal-account transfers were false, nor did OpenAI's allegation establish use of those files inside Apple.
+
+At the October fourteenth hearing, Bloomberg Law reported Judge Davila appeared likely to grant Apple a preliminary injunction. It also reported OpenAI promised not to use disputed Apple material and would gather forensic images from fourteen employees' devices. But that was a hearing report, not the final signed order.
+
+Two days later came the actual court result. On October sixteenth, the judge approved a joint stipulation about document preservation and forensic inspection and found Apple's preliminary-injunction motion moot. A second signed order approved expedited discovery. The urgent request no longer required a merits ruling — but neither side's theft allegations had been decided.
+
+What did that outcome actually cost? The verified consequence was a legal process: preserving evidence, forensic inspection and earlier discovery. The court did not assign a public dollar value to those burdens.
+
+The judge did not rule that OpenAI had stolen Apple's secrets, or that Apple used OpenAI's. Instead, he approved agreements governing evidence while Apple's urgent injunction request became moot.
+
+Apple asked a federal judge for a preliminary injunction against OpenAI. But on October sixteenth, the judge approved a joint agreement on preserving evidence and forensic inspection, and found that injunction request moot. Another order approved expedited discovery. Was that a ruling that OpenAI stole Apple's secrets? No. The judge established how evidence would be handled without deciding the theft allegations.
+
+Apple had asked for financial relief, but the reviewed filings and procedural orders did not establish any damages award. The court's confirmed actions imposed evidence obligations, not a verified price tag. That does not mean the litigation lacked potential financial stakes. Any later award would need a legal basis and proof of protected information, misconduct and harm — none established by these procedural orders.
+
+A downloaded file does not automatically prove a rival used it. A presentation allegation does not establish what a manager saw. And a motion becoming moot does not decide whether an alleged secret was misused.
+
+What remains is the evidence itself: the preserved devices, interview records and any documents connecting a protected file to a new employer's activity. The court's orders set up that examination; they did not replace it.
+
+Apple and OpenAI could partner on software and compete over hardware. Apple's first alleged trail was tested against OpenAI's offboarding defense. OpenAI's second allegation ran toward Apple, which described an earlier unsuccessful search. Finally, a judge ordered preservation and discovery while Apple's injunction motion became moot. The case did not reverse into a theft verdict. It became a fight over provable evidence.

@@ -1,0 +1,17 @@
+Apple sued OpenAI over alleged stolen hardware secrets. Then OpenAI alleged a worker returning to Apple had sent more than a hundred confidential OpenAI files to personal accounts. Did that prove Apple had the files? No. OpenAI's filing did not establish that. Two rival allegations pointed in opposite directions — but the judge would end up deciding something very different.
+
+The two companies had announced a partnership that brought ChatGPT to Siri. Yet their hardware ambitions competed. This fight was not about who invented the better chatbot. It was about what confidential hardware information, if any, followed engineers to a rival.
+
+Apple claimed it had a digital trail: a departed engineer who still could reach internal systems, and dozens of hardware files. That sounds straightforward. Until you hear how OpenAI explained the same access.
+
+First, how did software partners end up fighting over physical devices? And what exactly had Apple accused its former employees of doing?
+
+In June twenty twenty-four, Apple and OpenAI announced that ChatGPT would integrate with Siri and other Apple software. The partnership did not merge their engineering teams or their separate interests in consumer hardware. That is how a software partner could become a courtroom opponent.
+
+Making an AI device involves more than a model. Engineers learn which finishes last, which battery designs fail, and which suppliers can manufacture a part. That knowledge can be valuable to a competitor. But professional experience is not the same as an employer's confidential records. The difference matters commercially. Professional expertise can help build a new device, while private specifications or supplier records may require separate protection. That is the boundary the dispute tests.
+
+An engineer may carry skills into a new job. A confidential drawing, manufacturing plan or protected supplier file is different. Hiring from another company is not, by itself, theft.
+
+Apple said this distinction mattered because it had more than a theory about where people went. Its complaint described post-departure system access and recruiting requests involving confidential hardware. The case therefore did not depend on the fact of hiring alone. It depended on identifying protected material and connecting that material to a specific act of access, transfer or misuse.
+
+That answered why the partners became rivals. The new question was whether Apple had enough specifics to bring a federal lawsuit.

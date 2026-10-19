@@ -1,9 +1,9 @@
-# VIDEO007 — SINGLE ACTIVE PRODUCTION SOURCE (2026-10-17)
-**Working script, not final voice lock:** `05_SCRIPT_R3_REVISED.md` — 2251 spoken words, ten acts, 60 labeled paragraphs.
-**Active Shorts:** `03_SHORTS_MAP.csv` — 8 single contiguous script paragraphs (same content mirrored in `05_SHORTS_MAP_R3.csv`).
-**Not active:** `05_SCRIPT_V3.md` (2,419-word alternative), `05_SHORTS_MAP_V3.csv`, original V1, R2. All preserved for history; DO NOT use for audio.
-**Authentic source S018:** Apple Oct14 ECF177, page 2, states notification Oct9, Apple unsuccessful internal search communicated Oct12, detail request, ECF176 filed Oct14. This is Apple's **party position**, not judicial exoneration.
-**Authentic source S006:** OpenAI Oct14 ECF176 alleges 100+ files to personal accounts of an employee returning to Apple, NOT judicial proof Apple received or used them.
-**Authentic source S005:** Oct13 ECF175 narrow discovery order, NOT preliminary injunction ruling. Oct14 hearing summarized independently (S016/S019), Oct15 three proposed stipulations unverified as final signed orders.
-**Remaining holds:** original minute and signed status of Oct15 stipulations; current complete docket; actual Harrison audio duration; owner authorization for media or paid work.
-**No Stage07 script lock, no TTS approval.**
+# VIDEO007 — SINGLE ACTIVE PRODUCTION SOURCE (UPDATED 2026-10-19)
+
+**Stage07 canonical final:** `07_SCRIPT_FINAL.md` (locked by owner acceptance of Oct18 R3 on Oct19). Exact spoken text from `05_SCRIPT_R3_REVISED.md` source blob `e6070a09387c514b2488561750c793785a62be3f`, 60/60 paragraphs, 10 acts, 2517 words.
+**Stage08 read-aloud input:** `08_VOICE_SCRIPT_MASTER.txt` (identical to `07_SCRIPT_FINAL_NARRATION_ONLY.txt`); optional five voice text chunks in `08_VOICE_SEGMENTS.csv`.
+**FOUR active Shorts only:** `07_SHORTS_LOCK.csv`, mirrored to exact active parent-script extracts in `03_SHORTS_MAP.csv` / `05_SHORTS_MAP_R3.csv`. Names SH01–SH04; complete exports <=35.0s including tail and ending; audio durations UNMEASURED.
+**Historical ONLY:** original V1, R2 and alternative V3, `03_SHORTS_MAP_R2.csv`, `05_SHORTS_MAP_V3.csv`, legacy 8-Short architecture. Never select old scripts for narration.
+
+Court evidence cutoff Oct17: Apple ECF1 allegations / OpenAI ECF176 supplement / Apple ECF177 response, Oct13 ECF175 limited discovery, Oct16 ECF188/189 official signed-order docket dispositions. ECF38 preliminary-injunction motion MOOT, not a court finding either rival stole trade secrets. Stage16 pre-publication refresh compulsory.
+**Narrator:** Harrison preset per `00_FOUNDATION/VOICE_LOCK.md`. No synthesis engine/model selected, no audio production authorized, no paid generation performed. Stage09 pending separate explicit approval.
