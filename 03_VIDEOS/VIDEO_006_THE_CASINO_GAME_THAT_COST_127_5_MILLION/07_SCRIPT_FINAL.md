@@ -1,32 +1,32 @@
-# VIDEO 006 — Stage 07 Final Script — LOCKED (US English)
+# VIDEO 006 — Stage 07 FINAL V5 — OWNER-APPROVED DYNAMIC INTRO, RELOCKED
 
 **The Casino Game That Cost $127.5 Million**
 
-**Status:** STAGE07 SCRIPT_LOCK_PASS / CANONICAL NARRATION. Exactly four source-contiguous native Shorts (S01/P003, S04/P023, S05/P027, S07/P043). Actual Harrison voice and <=30s total Short durations NOT measured. This script lock is NOT Stage16 release fact/legal or media-rights clearance.
+**Status:** STAGE07_RELOCK_V5 PASS: owner-approved A00 P001–P005, later 46 paragraphs preserved verbatim, 4 source-contiguous Shorts. Speech-only text is LOCKED; Stage11 real <=30.0s durations, Stage16 legal freshness and media rights remain OPEN. No TTS generation authorized.
 
-**Authority:** Locked from byte-identical V4 narration (`05_SCRIPT_V4.md`); Stage06 editorial 84/100 PASS; `04_V4_SHORTS_INDEPENDENT_LEGAL_QC.csv`, `05_V4_REVISION_TRACE.csv`, `07_SCRIPT_LOCK_TRACE.csv` and `07_SHORTS_LOCK.csv`. Historic V1–V4 source files remain preserved. Any later VO wording change must reopen Stage07 and recheck impacted sources and Short legal QC.
+**Authority:** `05_SCRIPT_V5.md`, `04_V5_OPENING_LEGAL_DELTA_QC.md`, `04_V5_SHORTS_INDEPENDENT_LEGAL_QC.csv`, `06_V5_PERFORMANCE_REVIEW.md`, `07_SCRIPT_LOCK_TRACE.csv`, `07_SHORTS_LOCK.csv`. Archived V4 available in GitHub commit history; any further VO text changes require reopening this lock.
 
 ## A00 — THE NUMBER
 
 **P001**
 
-Light & Wonder's Dragon Train sparked a court fight with Aristocrat. Two game families would lose their commercial future.
+A judge blocked Dragon Train sales. Then the court lifted its temporary ban. But the game still couldn't be sold. Why?
 
 **P002**
 
-The crucial clue wasn't onscreen. It was an old development spreadsheet.
+Light & Wonder had signed the deal keeping it off the market. The evidence trail led to Excel spreadsheets.
 
-**P003** **[SHORT S01 — SCRIPT LOCKED; FINAL <=30s AUDIO STILL UNVERIFIED]**
+**P003** **[SHORT S01 — STAGE07 V5 RELOCKED; <=30s AUDIO UNMEASURED]**
 
-Light & Wonder paid Aristocrat one hundred and twenty-seven point five million dollars to settle the Dragon Train case. Its settlement contract stopped worldwide commercialization of Dragon Train and Jewel of the Dragon, including future games in those families. This wasn't a jury award.
+Light & Wonder paid Aristocrat one hundred and twenty-seven point five million dollars to settle Dragon Train. But the deal also barred commercialization of Dragon Train and Jewel of the Dragon worldwide—including future games in both families. Not a criminal fine. Not a jury award.
 
 **P004**
 
-The judge's preliminary record would point back to a spreadsheet creation date from years before Dragon Train was shown publicly.
+In a preliminary ruling, the judge described matching spreadsheet oddities: borders around empty rows, gray-filled cells, even identical formatting errors. Then came another clue: a file creation date. November twelfth, twenty thirteen. Years before Dragon Train reached the public.
 
 **P005**
 
-How could evidence buried in a development file help end the future sales of two game families?
+How did an old timestamp become evidence? What did those files say about the game's hidden math? And why did the games stay off the market even after the court's ban vanished?
 
 ## A01 — THE INVISIBLE PRODUCT
 
@@ -104,7 +104,7 @@ The early version was called Sky Train. The workbook was named Inception Concept
 
 The judge compared that workbook's creation metadata with an older Aristocrat Dragon Link file. The recorded date raised a question that visible gameplay couldn't answer.
 
-**P023** **[SHORT S04 — SCRIPT LOCKED; FINAL <=30s AUDIO STILL UNVERIFIED]**
+**P023** **[SHORT S04 — STAGE07 V5 RELOCKED; <=30s AUDIO UNMEASURED]**
 
 In a preliminary ruling, a federal judge described a Light & Wonder Sky Train development worksheet dated November twelfth, 2013. An older Aristocrat workbook carried the same creation date. The match raised questions about origin—not a final verdict that Dragon Train copied every calculation.
 
@@ -122,7 +122,7 @@ No single timestamp decided the whole lawsuit. The judge weighed it alongside th
 
 Light & Wonder challenged the inference of copying. Its team, the company argued, had developed important parts of its own math; some features differed, and some statistical patterns could be worked out from public play.
 
-**P027** **[SHORT S05 — SCRIPT LOCKED; FINAL <=30s AUDIO STILL UNVERIFIED]**
+**P027** **[SHORT S05 — STAGE07 V5 RELOCKED; <=30s AUDIO UNMEASURED]**
 
 In a preliminary Dragon Train ruling, a federal judge partly agreed with Light & Wonder: some bonus-symbol probabilities could be inferred from visible gameplay. But other mathematical combinations still raised serious trade-secret concerns. That partial defense argument did not clear the company of the broader claim.
 
@@ -192,7 +192,7 @@ When the companies announced their deal in January 2026, it did more than establ
 
 Light & Wonder acknowledged that certain mathematical information had been used to develop Dragon Train and Jewel of the Dragon. The signed court document described it as information Aristocrat contended was proprietary and confidential. That's a precise contractual statement, not a jury finding on every disputed element.
 
-**P043** **[SHORT S07 — SCRIPT LOCKED; FINAL <=30s AUDIO STILL UNVERIFIED]**
+**P043** **[SHORT S07 — STAGE07 V5 RELOCKED; <=30s AUDIO UNMEASURED]**
 
 In February 2026, a federal court vacated temporary injunctions against Light & Wonder. So why couldn't Dragon Train and Jewel of the Dragon be commercialized? A settlement contract separately prohibited commercialization of both game families. The court orders ended, but the contractual restriction survived.
 

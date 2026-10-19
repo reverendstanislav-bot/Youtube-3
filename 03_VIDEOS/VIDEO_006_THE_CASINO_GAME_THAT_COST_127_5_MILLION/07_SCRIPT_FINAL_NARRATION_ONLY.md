@@ -1,18 +1,18 @@
-# VIDEO 006 — Stage07 LOCKED narration-only master input
+# VIDEO 006 — Stage07 V5 RELOCKED narration-only master input
 
-US English — word-for-word master narration (51 paragraphs); use as Stage08 writing input ONLY. Harrison audio requires separate user authorization, exact timings still unmeasured. Exactly four Short passages in original positions.
+US English: 51 full consecutive paragraphs from V5; exact narration-only Stage08 input. Audio/TTS NOT generated or authorized. Selected Shorts S01/S04/S05/S07 only.
 
 ## A00
 
-Light & Wonder's Dragon Train sparked a court fight with Aristocrat. Two game families would lose their commercial future.
+A judge blocked Dragon Train sales. Then the court lifted its temporary ban. But the game still couldn't be sold. Why?
 
-The crucial clue wasn't onscreen. It was an old development spreadsheet.
+Light & Wonder had signed the deal keeping it off the market. The evidence trail led to Excel spreadsheets.
 
-Light & Wonder paid Aristocrat one hundred and twenty-seven point five million dollars to settle the Dragon Train case. Its settlement contract stopped worldwide commercialization of Dragon Train and Jewel of the Dragon, including future games in those families. This wasn't a jury award.
+Light & Wonder paid Aristocrat one hundred and twenty-seven point five million dollars to settle Dragon Train. But the deal also barred commercialization of Dragon Train and Jewel of the Dragon worldwide—including future games in both families. Not a criminal fine. Not a jury award.
 
-The judge's preliminary record would point back to a spreadsheet creation date from years before Dragon Train was shown publicly.
+In a preliminary ruling, the judge described matching spreadsheet oddities: borders around empty rows, gray-filled cells, even identical formatting errors. Then came another clue: a file creation date. November twelfth, twenty thirteen. Years before Dragon Train reached the public.
 
-How could evidence buried in a development file help end the future sales of two game families?
+How did an old timestamp become evidence? What did those files say about the game's hidden math? And why did the games stay off the market even after the court's ban vanished?
 
 ## A01
 

@@ -70,3 +70,6 @@ Original report above remains a faithful historic V2 checkpoint. Source-authoriz
 
 ## Current 2026-10-17 V4 owner override (prior V2/V3 sections historical)
 Exactly four <=30.0s complete Shorts selected: **S01/P003, S04/P023, S05/P027, S07/P043**. 4 revised native paragraphs, 51 stable P/B IDs, V4 Short isolation legal text pass, Stage06 re-review 84/100. Former 8 candidate plan superseded; actual audio timing unmeasured, Stage07 not started. See `05_SCRIPT_V4.md` and `05_V4_SHORTS_MAP.csv`.
+
+## V5 owner-approved A00 correction, 2026-10-19
+P001-P005 rewritten, rest unchanged; four native Shorts S01/S04/S05/S07, Stage06 text 85/100 PASS; Stage07 relocked, real audio durations Stage11 pending.
