@@ -9,11 +9,12 @@ status: "IN_PREPARATION"
 created: "2026-10-16"
 last_updated: "2026-10-21"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Stage08 Harrison US-English text prepared from locked V5: 51/51 exact paragraphs in five Voicebox chunks, four Shorts 4/4 exact, pronunciation guide and independent text QC PASS. Await explicit owner authorization before five local Voicebox/Qwen3-TTS 0.6B jobs; no TTS submitted."
+next_action: "Stage08 PASS. Owner requested continue Stage09; exact local Codex job and QC handoff prepared in 09_CODEX_LOCAL_VOICEBOX_EXECUTION.md. Voicebox Windows CUDA is inaccessible from chat: NO generation submitted, Stage09 NOT_STARTED, Stage10 NOT_STARTED; actual 4 Short durations open."
 blockers:
   - "AztecGold: original court-stamped plaintiff Group Proceeding Summary Statement acquired (S023), but full originating statement and post-Aug2026 court status not verified; mandatory Stage16 refresh; do NOT say all litigation ended."
   - "C034: installed-machine worldwide actual removal counts unverified; excluded from all narrated claims rather than release-blocking an evidence-based plot."
   - "Stage09 actual Harrison/Qwen reading not generated or audited; voice identity, pronunciation, joins and artifacts remain open."
+  - "Execution handoff only: local Windows Voicebox/CUDA not connected to this chat; no audio jobs submitted (09_CODEX_LOCAL_VOICEBOX_EXECUTION.md)."
   - "S01/P003 S04/P023 S05/P027 S07/P043 finished duration <=30.0 seconds remains unmeasured until actual audio/edit."
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
