@@ -29,3 +29,7 @@ User requested to continue after Stage08. The current assistant environment has 
 Local Voicebox/CUDA access was established. Five accepted Harrison/Qwen3-TTS 0.6B narration chunks were generated for the exact locked V5 input. Chunk 05's initial 774.57-second runaway was rejected; after explicit owner authorization its unchanged text was split at a paragraph boundary, regenerated in two parts and recombined. All accepted WAVs pass PCM/decode/hash checks; Faster-Whisper sequence ratios are 0.948882, 0.970381, 0.969600, 0.936378 and 0.956737.
 
 The Stage10 48 kHz mono master is 653.13 seconds, -16.2 LUFS, -1.5 dBTP, SHA-256 `A42C0E6245D66F4DA25B5528BEC04047B9E7F7EBF759E412E6490D627CF8D308`, and passes full decode. Stage09 and the final Stage10 lock remain HOLD only for human Harrison/pronunciation/join/artifact listening. Stage11 has not started.
+
+
+## 2026-10-21 — Stage11 source-mapped PRELIMINARY draft / hearing HOLD
+51 exact V5 paragraphs, 51 source-traced proposed scenes and 102 picture treatments committed in `11_TRANSCRIPT_PROVISIONAL.csv` and `11_VISUAL_TIMELINE_PROVISIONAL.csv`; 25fps **model-only** timings across reported 653.13s, NOT ASR verified. Four Short parents recorded in `11_SHORTS_CUT_MAP.csv` with REAL CUT FIELDS BLANK. Release binary unavailable in current assistant tools, so human Harrison A/B and word-level alignment remain HOLD. No generated media/credits, Stage11 not PASS and Stage12 not authorized. `11_ALIGNMENT_AND_LISTENING_QC.md` identifies exact local completion.
