@@ -5,12 +5,12 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE08_VOICE_SCRIPT_TEXT_PASS_AWAITING_VOICE_APPROVAL"
+status: "STAGE09_READY_FOR_OWNER_GENERATION_APPROVAL_NO_AUDIO"
 created: "2026-10-16"
-last_updated: "2026-10-19"
-current_stage: "08_VOICE_SCRIPT_TEXT_PASS_NO_AUDIO"
-next_action: "Stage09 voice QA planning: select engine/model, scope and cost for explicit owner approval before ANY Harrison generation. Stage16 docket and Stage17 packaging later."
-blockers: ["Harrison synthesis engine/model and paid generation scope require explicit owner approval", "Four final Shorts <=35s actual audio + ending cannot be certified before audio exists", "Stage16 live docket refresh and Stage17 final accurate publishing title required"]
+last_updated: "2026-10-21"
+current_stage: "09_VOICE_QA_LOCK_READY_FOR_APPROVAL_NO_AUDIO"
+next_action: "Request explicit owner authorization for five sequential local Voicebox/Qwen3-TTS 1.7B Harrison-candidate jobs at $0/0 provider credits. Submit Job01 first and stop if canonical Harrison identity or pronunciation fails; no automatic retry/fallback."
+blockers: ["Five local Voicebox jobs are planned but NOT owner-authorized and NOT submitted", "Local Qwen Harrison clone must pass generated-audio A/B against canonical Higgsfield Harrison before Voice Lock", "Four final Shorts <=35s actual audio + ending cannot be certified before audio exists", "Stage16 live docket refresh and Stage17 final accurate publishing title required"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
@@ -21,7 +21,7 @@ stages:
   stage_06_performance_review: "PASS_EDITORIAL_QA_TEN_ACTS_FOUR_SHORTS"
   stage_07_script_lock: "PASS_OWNER_ACCEPTED_OCT19_2517W_60P_FOUR_SHORTS"
   stage_08_voice_script: "PASS_TEXT_ONLY_5_VERBATIM_SEGMENTS"
-  stage_09_voice_qa_lock: "NOT_STARTED_PENDING_ENGINE_COST_OWNER_SPEND_AUTH"
+  stage_09_voice_qa_lock: "READY_FOR_OWNER_APPROVAL_5_LOCAL_QWEN17_JOBS_NO_AUDIO"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
@@ -55,10 +55,18 @@ voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
   voice_id_or_preset: "573e5163-59b3-4926-aab1-951ef2985f81"
   voice_name: "Harrison"
-  synthesis_engine_status: "NOT_SELECTED"
+  synthesis_engine_status: "PROVISIONAL_SELECTED_VOICEBOX_QWEN3_TTS_1_7B_PENDING_OWNER_AUTH_AND_A_B"
   paid_generation_authorized: false
   narration_master: "08_VOICE_SCRIPT_MASTER.txt"
   segmented_inputs: "08_VOICE_SEGMENTS.csv"
+  candidate_local_profile_id: "228d3d8a-096f-461b-bf11-4f9415e2dafc"
+  selected_model: "Qwen3-TTS 1.7B Base via Voicebox 0.5.0 CUDA"
+  planned_jobs: 5
+  planned_seed: 20261021
+  estimated_provider_cost: "$0 / 0 credits"
+  generation_plan: "09_HARRISON_GENERATION_PLAN.csv"
+  qa_plan: "09_VOICE_QC_PLAN.md"
+  voice_identity_status: "PENDING_GENERATED_AUDIO_HUMAN_A_B"
 shorts:
   required: true
   max_complete_short_seconds: 35
@@ -67,10 +75,13 @@ shorts:
   target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   audio_source: "FINAL_AUDIO_MASTER"
+  stage09_extraction_plan: "09_SHORTS_AUDIO_EXTRACTION_PLAN.csv"
 qa:
   topic: "PASS_GO_OWNER_LOCKED"
   research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
   fact_legal: "PASS_SCRIPT_SCOPE_AS_OF_OCT17_STAGE16_REFRESH_REQUIRED"
+  voice_text_integrity: "PASS_60_OF_60_FIVE_SEGMENTS_EXACT"
+  voice_audio: "NOT_RUN_NO_AUDIO"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
 publish:
