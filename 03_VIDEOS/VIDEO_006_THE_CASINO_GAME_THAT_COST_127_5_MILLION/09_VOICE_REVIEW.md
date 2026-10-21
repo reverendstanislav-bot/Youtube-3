@@ -4,6 +4,8 @@
 
 Voicebox 0.5.0 generated the locked V5 narration locally with the canonical Harrison clone profile `228d3d8a-096f-461b-bf11-4f9415e2dafc`, Qwen3-TTS 0.6B Base, CUDA and seed `20261021`. Provider cost was **$0 / 0 credits**.
 
+Release: `https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video006-harrison-qwen06-20261021`
+
 ## Accepted audio
 
 | Chunk | Job ID | Duration | SHA-256 | ASR ratio |

@@ -65,7 +65,7 @@ voice:
   stage09_result: "Five accepted chunks / 652.65 sec / technical decode+ASR PASS / human listening pending"
 audio:
   runtime_sec: "653.13"
-  file_or_uri: "VIDEO006_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav (local artifact; GitHub Release upload pending)"
+  file_or_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video006-harrison-qwen06-20261021/VIDEO006_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav"
   checksum: "A42C0E6245D66F4DA25B5528BEC04047B9E7F7EBF759E412E6490D627CF8D308"
 shorts:
   required: true
