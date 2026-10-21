@@ -1,0 +1,19 @@
+Aristocrat introduced Lightning Link in 2014 and Dragon Link in 2016. The preliminary court order describes their complex development and Aristocrat's claim that the mathematical design was valuable—not just the artwork.
+
+In the court's account, one mathematician linked the two companies. Emma Charles worked for Aristocrat until 2017. In July 2021, she joined Scientific Games, which later became Light & Wonder. Changing jobs was not the allegation. The dispute concerned how the new game's math was developed.
+
+By late 2021, Charles was working on Dragon Train with other developers. Light & Wonder would later point to work done independently by its team. Aristocrat questioned whether experience from the earlier games had crossed into use of confidential mathematical material.
+
+In August 2023, Light & Wonder presented Dragon Train at the Australasian Gaming Expo. The rival product was now on public display, even though the calculations behind its features remained out of view.
+
+An Aristocrat designer played Dragon Train and noticed similarities with Dragon Link, the preliminary court ruling recounts. Familiar-looking features could raise a question. They couldn't, on their own, reveal the source of the rival game's math.
+
+Aristocrat filed its federal lawsuit in Nevada in February 2024. It alleged trade-secret misuse and other intellectual-property violations. Light & Wonder disputed material allegations. At this point, neither side had a final jury verdict.
+
+The September 2022 worksheet was one link in the paper trail described by the preliminary judge. The record also allowed a closer comparison between the rival development files.
+
+The court looked beyond calculated results to the choices left on the sheets themselves: the kind of tiny layout decisions that a player would never see on a cabinet.
+
+In the Aristocrat versus Light & Wonder lawsuit, a judge described strange similarities between game-development spreadsheets: borders around empty rows, the same gray-filled cells, even matching formatting errors. Those details mattered in tracing where the math might have originated. This was a preliminary ruling, not a final jury verdict.
+
+Those formatting similarities gave the judge one route through the evidence. A different workbook, used during an early version of Dragon Train, opened another.

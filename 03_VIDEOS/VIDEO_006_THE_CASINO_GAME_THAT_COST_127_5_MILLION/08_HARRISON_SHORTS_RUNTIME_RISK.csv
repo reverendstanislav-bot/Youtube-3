@@ -1,0 +1,5 @@
+short_id,paragraph_id,spoken_words,estimate_seconds_110wpm_no_pauses,estimate_seconds_130wpm_no_pauses,maximum_finished_seconds,stage08_verdict,required_future_check
+S01,P003,45,24.5,20.8,30,HIGH_TIMING_RISK_UNMEASURED,Measure exact Harrison paragraph plus any CTA/end frames and require <=30.0 seconds
+S04,P023,44,24.0,20.3,30,HIGH_TIMING_RISK_UNMEASURED,Measure exact Harrison paragraph plus any CTA/end frames and require <=30.0 seconds
+S05,P027,46,25.1,21.2,30,HIGH_TIMING_RISK_UNMEASURED,Measure exact Harrison paragraph plus any CTA/end frames and require <=30.0 seconds
+S07,P043,44,24.0,20.3,30,HIGH_TIMING_RISK_UNMEASURED,Measure exact Harrison paragraph plus any CTA/end frames and require <=30.0 seconds
