@@ -70,7 +70,8 @@ voice:
   generation_result: "5/5 sequential local jobs complete; 971.88 sec; $0/0 credits; decode and ASR technical PASS"
 audio:
   runtime_sec: "972.36"
-  file_or_uri: "VIDEO007_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav (GitHub Release upload pending)"
+  file_or_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video007-harrison-qwen17-20261022/VIDEO007_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav"
+  release_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video007-harrison-qwen17-20261022"
   checksum: "0AF812DB9D7A7CC509DCEC346D6AC9995281816F7505FC704A245867C5225B0C"
   technical_status: "PCM s16le 48kHz mono; -16.1 LUFS; -1.5 dBTP; decode PASS"
 shorts:

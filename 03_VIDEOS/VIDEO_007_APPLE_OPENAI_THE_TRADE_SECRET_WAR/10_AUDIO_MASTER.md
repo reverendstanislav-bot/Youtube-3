@@ -3,6 +3,8 @@
 **Status: MASTER TECHNICAL PASS; AUDITORY VOICE LOCK PENDING (2026-10-22).**
 
 - File: `VIDEO007_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav`
+- Download: [GitHub Release master WAV](https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video007-harrison-qwen17-20261022/VIDEO007_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav)
+- Release: [video007-harrison-qwen17-20261022](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video007-harrison-qwen17-20261022)
 - Runtime: **972.36 seconds (16:12.36)**
 - Format: PCM s16le, 48 kHz, mono
 - Integrated loudness: **-16.1 LUFS**

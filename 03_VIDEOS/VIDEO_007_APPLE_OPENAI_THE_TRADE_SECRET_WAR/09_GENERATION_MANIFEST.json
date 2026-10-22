@@ -8,6 +8,8 @@
   "seed": 20261021,
   "cost_usd": 0,
   "accepted_runtime_sec": 971.88,
+  "release_url": "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video007-harrison-qwen17-20261022",
+  "master_download_url": "https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video007-harrison-qwen17-20261022/VIDEO007_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav",
   "segments": [
     {"segment": 1, "job_id": "bbbcbe08-ff1d-4977-9714-ab86392845a5", "duration_sec": 143.77, "sha256": "FAE01F076994823BC5080C6B656A7F4DA16191D8E39497AD00D68158C1D8C13B"},
     {"segment": 2, "job_id": "53f1f9f8-84a3-4b00-aa83-595dba562bbb", "duration_sec": 191.96, "sha256": "8867512C2D51E9CA526053F6B76F4E43E14CAFE84EDA0762D4749AA0FE31F219"},
