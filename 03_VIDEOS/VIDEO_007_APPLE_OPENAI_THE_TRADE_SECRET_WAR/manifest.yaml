@@ -5,12 +5,12 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE12_PASS_DENSE_PICTURE_PLAN_WITH_RIGHTS_HOLDS"
+status: "STAGE13_PARTIAL_143_SVG_SOURCES_EXTERNAL_ORIGINALS_HOLD"
 created: "2026-10-16"
 last_updated: "2026-10-22"
-current_stage: "12_DENSE_VISUAL_PLAN_PASS_NO_ASSETS_DELIVERED"
-next_action: "Stage13 ONLY on owner instruction: acquire exact source-native documents and licensed contextual media with file hashes and rights evidence; build separate original GFX; no paid generation authorized."
-blockers: ["Stage13 asset acquisition not begun; party filings require individual editorial rights/fair-use review and page-native crop proof", "Commons attribution/sharealike and Pexels asset download/SHA and depicted rights pending", "A02-P01 82.5% ASR needs phoneme review at final edit", "Four 9x16 Shorts final export <=35 sec unrendered", "Stage16 fresh docket and Stage17 accurate title required"]
+current_stage: "13_EDITOR_GFX_SOURCE_CREATED_VISUAL_QC_PENDING"
+next_action: "Finish Stage13 actual original PDF/media acquisition, native evidence crops, rights QC and independently render/review 143 SVG graphics. Do not begin Stage14/15 or mark visual asset lock PASS."
+blockers: ["143 SVG vector drafts require rendered 1920x1080 visual QC and factual review", "96 external shots still lack original PDF/video/still binary acquisition and rights approval", "ECF188/189 full original order text unavailable; no invented source pixels", "V7 9:16 orientation cannot blindly fill 16:9", "A02-P01 ASR 82.5% phoneme review", "Four complete Shorts <=35s not rendered", "Stage16 legal docket freshness required"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
@@ -28,8 +28,12 @@ stages:
   stage_12_planned_picture_shots: 239
   stage_12_total_parent_scenes: 60
   stage_12_frames_25fps: 24309
-  stage_12_rights_state: "SOURCE_CANDIDATES_ONLY_NO_PIXELS_ACQUIRED"
-  stage_13_visual_asset_qc: "NOT_STARTED_NO_ASSETS_ACQUIRED"
+  stage_12_rights_state: "SOURCE_CANDIDATES_ONLY_NO_EXTERNAL_PIXELS_ACQUIRED"
+  stage_13_editable_svg_created: 143
+  stage_13_external_binary_acquired: 0
+  stage_13_visual_render_pass: false
+  stage_13_asset_manifest: "13_ASSET_MANIFEST.csv"
+  stage_13_visual_asset_qc: "PARTIAL_143_SVG_CREATED_96_EXTERNAL_HOLD_RENDER_QC_PENDING"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -94,7 +98,7 @@ qa:
   voice_text_integrity: "PASS_60_OF_60_FIVE_SEGMENTS_EXACT"
   voice_audio: "PASS_OWNER_ACCEPTED_2026_10_22"
   transcript_timeline: "PASS_60_OF_60_ASR_SOURCE_ANCHORED_24309_FRAMES"
-  visual: "STAGE12_PLAN_PASS_ASSET_RIGHTS_QC_PENDING"
+  visual: "STAGE13_PARTIAL_VECTORS_CREATED_NON_GRAPHIC_ASSETS_HOLD"
   edit: "NOT_RUN"
 publish:
   scheduled_at: ""

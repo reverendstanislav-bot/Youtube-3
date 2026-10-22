@@ -79,3 +79,8 @@
 "Q077","FOUR_SHORTS_VERT","Four source-linked Shorts require 9x16-safe picture design","PASS_VISUAL_PLAN_RENDER_HOLD","Exactly four locked ranges and vertical shot intent, finished exports must still measure <=35s"
 "Q078","EDITOR_VS_RECON","No unverified company secrets or screenshots as authentic","PASS_PRODUCTION_RULE","Editor graphics are clearly explanatory; all authentic source/party event photographs need original pixels/rights"
 "Q079","PRODUCTION_SPEND","Stage12 requested only visual plan","PASS_NO_GENERATION","No paid/free trial generation or image/video job was submitted"
+"Q080","STAGE13_EDITOR_SVG","143 individual planned SVG source frames","SOURCE_CREATED_RENDER_HOLD","143 committed; no output PNG or independent visual QC verified"
+"Q081","STAGE13_DOCUMENTS","True court file PDF pixel crops for ECF1/176/177","SOURCE_PAGE_READ_BINARY_HOLD","Web PDF screenshots and exact page locators verified, original binary download failed"
+"Q082","STAGE13_RIGHTS","Eight Pexels media pages and CC BY-SA Commons photo","PAGE_LICENSE_CHECK_BINARY_HOLD","No actual videos or JPEG downloaded; media content, source hashes and individual rights pending"
+"Q083","STAGE13_SHORTS","4x9:16 graphic source coverage","SOURCE_GFX_CREATED_FINAL_RENDER_HOLD","Full master cuts unchanged, 35s final export unmeasured"
+"Q084","STAGE13_COST","Higgsfield/video/AI output","PASS_ZERO_PAID_JOBS","Only original editor-owned SVG markup generated, no charged model/API generation"

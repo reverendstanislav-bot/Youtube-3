@@ -49,3 +49,10 @@ Stage11 aligned the real accepted master with local Faster-Whisper word timestam
 - Shot-level map `12_DENSE_SHOT_MAP.csv`; verified source/rights links `12_VISUAL_SOURCE_RIGHTS.csv`; acquisition requests `12_ASSET_ACQUISITION_QUEUE.csv`; 4 Short vertical map `12_SHORTS_VERTICAL_SHOT_PLAN.csv`; 6 motion/source recipes `12_MOTION_DOCUMENT_CANONS.md`; plan and QC docs `12_VISUAL_PLAN.md`, `12_STAGE_QC.md`.
 - **Stage12 PASS_PLAN_WITH_RIGHTS_HOLDS**: plan only. No source files downloaded, no true PDF crops exported, no image/video generated, no DaVinci render, no credits spent. Generic footage only labelled unrelated context. Party filing reuse rights unapproved; licensed-platform downloads and Commons credit pending individual QC.
 - Stage13 next possible: exact source acquisition and verification, edit-original diagrams; requires separate owner direction. Keep Stage16 live docket refresh mandatory, A02-P01 ASR check and four Shorts final <=35s.
+
+
+## 2026-10-22 Stage13 partial receipt
+- Generated and committed 143 individual **editable** WHAT IT COST SVG source frames (5 pattern families, 1920x1080), matching all planned EDITOR_FACT_GFX IDs. Their actual full-resolution PNG render/manual image review remains unperformed, therefore **NOT a VISUAL PASS**.
+- All 96 remaining external shots (party filings/court records/corporate sites/still/video) **HOLD**: source pages verified for core evidence, but actual binaries/crops unable to be acquired and checked. 8 Pexels URLs and license checked; 1 Wikimedia CC BY-SA 4.0 still checked, no original video/JPEG file downloaded.
+- New 239-row `13_ASSET_MANIFEST.csv`, verified excerpt locator, rights proof table, updated acquisition queue, Inkscape renderer script in repo `tools/render_video007_gfx.py`. NO paid generation, video, image TTS or audio changes.
+- `manifest.yaml` authority: Stage13 PARTIAL. No Stage14/15, Stage16 legal refresh still open.
