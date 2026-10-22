@@ -1,19 +1,40 @@
-# VIDEO006 Stage12 — visual source / generation plan
+# VIDEO006 — Stage12 R2 DENSE EDIT PLAN + RIGHTS-SCOPED REAL VIDEO LIBRARY
 
-**2026-10-22 | G12 PLAN PASS**. No media acquisition, image credits, video rendering, or changes to owner-approved V5/Harrison audio. Source-of-truth: Stage11 `11_VISUAL_TIMELINE.csv` and `11_SHORTS_CUT_MAP.csv`. Audio **653.13s**; 25fps picture grid **16,329 frames** (last 0.03s quantized). `12_SCENE_VISUAL_PRODUCTION_PLAN.csv` contains **51 scene-specific source-grounded directors' briefs** with true outer-ASR times, source and legal claim IDs, shot A/B types and separate asset and rights status. `12_SHOT_PLACEMENTS.csv` contains 102 editorial A/B intents with INNER switch points only approximated for later DaVinci adjustment. **Not 102 ready stills**.
+**2026-10-22 | G12 R2 PLAN PASS — NO MEDIA GENERATION.** Previous **102 A/B planned visual positions were insufficient**; replaced `12_SHOT_PLACEMENTS.csv` with **264 distinct time-coded visual events across 51 ASR-timed scenes** covering the original master **0–16329 frames at 25fps (10:53.13 sound; 10:53.16 quantized picture end)**. This is **2.47s per planned visual event on average**, NOT a mandate for 264 smash cuts or 264 generated stills. Native court source reading holds should remain calm, often multiple sequential emphasis events on *one* original source. Cut, focus, detail, graphic overlay and subtle static hold are different event types.
 
-### Visual budget and diversity
+## What changed from R1
 
-**23** authentic original DOCUMENT scenes; **20** in-house EDITOR_GFX scene sequences; **5** genuine REAL_PRODUCT_CONTEXT scenes; **3** OPTIONAL AI_STILL neutral transitional scenes (0 generated). 18 candidate document/image source packages are listed in `12_AUTHENTIC_SOURCE_ACQUISITION.csv`, none falsely marked downloaded/licensed. Each class follows **three distinct motion canons A, B, C** in `12_EDITOR_GFX_CANONS.md`. Three fully separated no-text optional prompt candidates are in `12_AI_STILL_CANDIDATES.md`, but **no credits or generation allowed until explicit user approval**.
+- R1: 51 scene concepts, 102 A/B placements, 18 documentary image/source leads, 3 optional AI still prompts.
+- **R2**: **264 story-specific planned picture and emphasis beats**, 40 provisional *source placements* of existing stock film across the feature, **30 distinct individually located video candidates**, original document content remains primary not random stock.
+- Stock is spread across legal, math, industry and product context, but **must never replace documentary proof** or imply that stock people are Emma Charles, Aristocrat, L&W management, plaintiff attorneys or a filmed 2024/2026 incident.
+- **No video file has been downloaded or verified frame-by-frame, and no third-party rights/model/game-screen release has been cleared**. Stock metadata and provider commercial terms verified by independent research; each actual clip requires a per-asset provenance and rights pass at Stage13. No AI video generation (prohibited).
 
-### Source lock
+## Catalogs and production files
 
-S001 p11/14/16 true court pages, S007 signed corporate dispute dismissal, S019 original 2023 AGE product release, **new** Aristocrat original 2018 investor deck p21 with both Lightning Link and Dragon Link authentic product pictures. These external real-product pictures remain copyrighted until usage is checked; do not label later 2024 photos as 2023 event. The source image itself is never replaced with invented Excel screenshot, contract, filing, casino gameplay frame, money value or fake company quote. S020 secondary Australia mirror and S012 uninspected 2025 injunction are restricted as documented.
+1. `12_SHOT_PLACEMENTS.csv`: 264 frame-complete events with scene P ID, 25fps in/out, exact role, visual concept, target authentic source or original graphic, linked stock video ID if any and explicit rights gate; supersedes 102-row V1 which remains in Git history.
+2. `12_VIDEO_FOOTAGE_CANDIDATES.csv`: 30 individual provider item URLs + human-readable creators, specific commercial-use license basis, each video's correct context and red flags.
+3. `12_VIDEO_FOOTAGE_USAGE_MAP.csv`: 40 placements using no more than 2 planned placements per source; nominal timecode in *master*, NOT a source video in/out. Real source file in/out can only be chosen after video bytes inspected.
+4. `12_VIDEO_RIGHTS_EXCLUSIONS.csv`: Mixkit free Restricted, copyrighted YouTube and company sources explicitly excluded or legal permission HOLD. Public YouTube videos are NOT automatically royalty-free.
+5. `12_COPYRIGHT_AND_PROVENANCE_QC.md`: source rights decision workflow. **No 'guaranteed copyright free' claim; monetization permitted under verified provider licenses subject to actual independent underlying rights.**
 
-### The four locked Shorts
+## Visual pacing and narrative constraints
 
-SC003/S01 P003 (15.02–30.40 speech), SC023/S04 P023 (269.14–286.62), SC027/S05 P027 (319.64–337.28), SC043/S07 P043 (520.52–539.78). Same full longform paragraph voice, no word rewrite. Special 9:16 center-safe reframes and all qualifiers; only actual exported full 9:16 clip incl transitions/tail/CTA can prove <=30.0s later.
+- Different acts have different pacing: genuine source hold/line focus under key legal claims, product/casino b-roll when discussing gameplay/commerciality, office keyboard/document b-roll only as clearly generic context when explaining worksheets, company negotiation footage only as non-party staged generic atmosphere. No 'all business drama is poker' footage.
+- Under scene-duration rule: <=6s 2 visual events, 6–9s 4, 9–13s 5, 13–19s 6, >19s 7. One visual event can be same real frame with attention movement not a hard cut. Source-original lines hold enough to read; actual boundaries can be retimed at Stage14/15 while 51 scene master ASR boundaries and overall audio remain locked.
+- Source actual gameplay from Dragon Train, Jewel of the Dragon, Dragon Link or Lightning Link official rights owner is **NOT cleared** by unrelated Pexels slot footage. Proper historical product photographs from Stage12 R1 require original media rights too. No invented workbook or confidential source pixels.
+- Candidate footage can be toned to channel charcoal / paper white if license and original content permit; **no baked yellow marker**, subtitles come from controlled subtitle layer, avoid oversaturated stock look, artificial camera motion, black masking captions and choppy slideshow.
+- Native Shorts four unchanged: S01 SC003 P003; S04 SC023 P023; S05 SC027 P027; S07 SC043 P043. For 9:16 crop obey caption-safe area; source spoken full native text from master; all finished shorts <=30s after Stage15 real export including any tail.
 
-### Next producer activity
+## Copyright rules
 
-Stage13 ONLY AFTER a new owner instruction: acquire original source documents/photos, decide rights, make editor graphics from the exact source pixels/meaning, optionally generate only individually approved stills, and independent per-frame image QC. No slideshow, collage, yellow marker baked into AI, paid image/video quota or surprise edits. Stage16 case currentness/rights refresh remains separate mandatory release gate.
+**Pexels** general site license says free commercial YouTube reuse and no attribution requirement for platform-licensed original video, but **visible third-party casino game graphics, trademarks, people, ads and signs** may require additional clearances or sensitive-use review. Save downloaded source terms and item page PDF as evidence before publishing. <https://www.pexels.com/license/>; <https://help.pexels.com/hc/en-us/articles/360042295214-Can-I-use-the-photos-and-videos-for-a-commercial-project>.
+
+**Wikimedia CC BY 3.0** aerial `V030`: credit **the Dronalist**, link original item and <https://creativecommons.org/licenses/by/3.0/>, state any changes in YouTube description and retention credits; license verified on actual file page. This is historical unrelated b-roll (2021 Vegas), no event implication.
+
+**Mixkit has BOTH Free (commercial) and Restricted (personal-only) videos.** Free 720p on two specific slot-related Mixkit items was RESTRICTED, not eligible here; do not take them simply because their category says 'Free Video'. Videos taken from YouTube creators / third-party gaming influencers under standard YouTube license are NOT reusable without permission or fact-specific legal editorial fair-use review. <https://mixkit.co/license/>.
+
+**Pixabay** could offer additional replacement sources but each concrete item must be verified in item page, origin, IP, and license. Search pages alone are not a cleared inventory. <https://pixabay.com/service/license-summary/>.
+
+## Downstream gate
+
+**R2 Stage12 = complete expanded EDIT PLAN, not a collection of finished source files.** To clear footage in Stage13, verify availability, download original at highest permitted quality, check full media decode/resolution / segment in/out and 16:9 & 9:16 crop, compare any logo/face/game art and model rights, take screenshot of current item license/date, compute SHA256, record provider creator license details and legal review, only then mark `VIDEO_SOURCE_QC_PASS`. No outside owned company/YouTube footage without license or documented legally reviewed fair use. No generation credits spent. Stage16 external case status refresh remains separate.
