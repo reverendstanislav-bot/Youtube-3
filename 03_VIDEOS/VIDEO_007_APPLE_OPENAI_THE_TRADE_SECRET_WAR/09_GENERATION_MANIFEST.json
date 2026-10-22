@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-22",
+  "profile_id": "228d3d8a-096f-461b-bf11-4f9415e2dafc",
+  "profile_name": "Harrison",
+  "engine": "qwen",
+  "model": "Qwen3-TTS 1.7B Base",
+  "backend": "CUDA",
+  "seed": 20261021,
+  "cost_usd": 0,
+  "accepted_runtime_sec": 971.88,
+  "segments": [
+    {"segment": 1, "job_id": "bbbcbe08-ff1d-4977-9714-ab86392845a5", "duration_sec": 143.77, "sha256": "FAE01F076994823BC5080C6B656A7F4DA16191D8E39497AD00D68158C1D8C13B"},
+    {"segment": 2, "job_id": "53f1f9f8-84a3-4b00-aa83-595dba562bbb", "duration_sec": 191.96, "sha256": "8867512C2D51E9CA526053F6B76F4E43E14CAFE84EDA0762D4749AA0FE31F219"},
+    {"segment": 3, "job_id": "8192bf8d-eafd-4574-9a00-78868b489a81", "duration_sec": 196.92, "sha256": "02EFCFB991B62FE429686E45E646060AD9D17A3D8C7E8DE6AD1CB80CBEE5DC45"},
+    {"segment": 4, "job_id": "7a8beb87-df01-4f46-be87-36c52ce54b54", "duration_sec": 228.39, "sha256": "887F1DF98AAEC20384E91515A004643F7A0861FD62B9EF0C2CD56EAEC2852A76"},
+    {"segment": 5, "job_id": "a251cb2c-8a30-4603-a5f8-37436d5e5c1a", "duration_sec": 210.84, "sha256": "26BA7E98218F52AD4F92F039E78432743099829348DA4D137D0D1D9E4D5F9DAE"}
+  ]
+}

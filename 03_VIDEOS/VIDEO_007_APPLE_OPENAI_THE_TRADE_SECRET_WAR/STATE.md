@@ -30,3 +30,9 @@ The channel identity remains canonical Higgsfield Harrison preset `573e5163-59b3
 ## Boundary
 
 No VIDEO007 TTS request, retry, paid credit, audio, image, video or Stage10 work was created. A read-only Voicebox history check found 0 exact matches to the five VIDEO007 inputs; unrelated older history records were left untouched. Next action requires explicit owner authorization for the five listed local Voicebox jobs. Stage16 docket freshness and later packaging title review remain separate.
+
+## 2026-10-22 — Stage09 generation and Stage10 technical master
+
+With explicit owner authorization, five locked Voicebox jobs ran sequentially with Harrison profile `228d3d8a-096f-461b-bf11-4f9415e2dafc`, Qwen3-TTS 1.7B Base, CUDA and seed `20261021`. No retries, fallback, parallel generation or provider credits were used. The five accepted WAVs total 971.88 seconds and all pass PCM/decode/hash QC. Faster-Whisper sequence ratios are 0.969935, 0.972710, 0.981207, 0.980525 and 0.979554; no long omission, duplicate block or reorder was detected.
+
+The Stage10 master is 972.36 seconds, PCM s16le 48 kHz mono, -16.1 LUFS, -1.5 dBTP, SHA-256 `0AF812DB9D7A7CC509DCEC346D6AC9995281816F7505FC704A245867C5225B0C`, full decode PASS. Stage09 final Voice Lock and `locks.audio_master` remain pending human A/B/listening for Harrison identity, names, legal terms, joins and artifacts. Stage11 was not started.
