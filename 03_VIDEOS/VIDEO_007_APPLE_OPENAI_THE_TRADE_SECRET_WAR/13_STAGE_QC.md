@@ -42,3 +42,12 @@
 - **Working archive, 69MB**: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/9ed5e617-fac5-4c02-9bad-3c3bfc186f9a.zip. Upload was confirmed, SHA256 for every stored file in `SOURCE_CHECKSUMS.csv`.
 - Three remaining Pexels candidate video URLs failed the attempted direct original-file request, do not label them acquired. Native full judicial ECF175/188/189 PDFs not yet in package.
 - **Stage13 verdict still HOLD**, rather than claiming editing-ready. Technical extraction != rights approval or editorial visual signoff. A human must review the actual video pixels and native court crop targeting and replace the generic 137 graphics.
+
+
+## 2026-10-22 — All 239 technical outputs acquired and rendered
+- **WORKING OUTPUT ARCHIVE:** https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/600ef278-49f9-4447-94ff-4a3234437730.zip. Uploaded and confirmed. Contains every planned VP001–VP239 as PNG or MP4, source originals, real PDF crops, media hashes, visual contact samples.
+- Source breakdown: 79 court-original document excerpts across 9 original PDFs, 143 SVG-derived editorial graphics (137 generic layouts replaced by 12 more story-specific layout families), 8 graphics explicitly labeled editor-created in lieu of unlicensed company press page screenshots, 1 original Commons CC BY-SA still, 8 actual generic licensed Pexels-context MP4 trims (one uses V1 substitute for missing V3).
+- Mechanical QC **PASS 239/239** for file presence, image decode/resolution or video 25fps. This establishes an *actual asset package*, not final creative or licensing approval.
+- PDF text/crop review found and repaired VP001 misplaced attorney text and VP205 docket footer. Other PDF crops need independent page-location verification rather than relying solely on keyword algorithm.
+- Rights caveats: court-filed party documents not automatically public domain; contextual Pexels commercial license still limits implied endorsement/third-party marks; Wikimedia CC BY-SA still must comply with attribution and any applicable adaptation ShareAlike; original Apple/OpenAI copyrighted press-site screenshots were replaced by distinctly editor-built fact graphics.
+- Outstanding: full 239-image independent editorial review, visual sameness/retention QA, all 79 native crop/claim matches, V3 media alternative fit, source rights decisions, 9:16 four Shorts final source-frame QA, A02-P01 phonemes. **Stage13 overall = TECHNICAL FILE PASS / FINAL CREATIVE & LEGAL HOLD.**
