@@ -12,3 +12,5 @@
 | 2026-10-22 | Stage13 partial | 143 editable source SVGs | Created 143 per-shot source GFX files and checked primary ECF1/176/177 pages, 8 licensed stock video pages and 1 CC BY-SA still page. External binary source/media fetch blocked, actual PNG render visual QC pending. | PARTIAL: 143 SVG CREATED; 96 EXTERNAL HOLD; no Stage13 asset-lock PASS |
 
 | 2026-10-22 | Stage13 independent visual critique | QC_REJECT_TEMPLATE | One 1920x1080 exported draft frame visually inspected; repetitive generic panels and raw production instructions failed premium documentary canon. Six bespoke replacements committed; 137 generic SVGs await redesign and render review. | Stage13 HOLD; 0/239 final assets approved |
+
+| 2026-10-22 | Stage13 real-source acquisition and batch render | 6 PDFs, 5 MP4, 1 Commons JPEG, 6 page crops, 143 1080p PNG renders | Actual files in verified uploaded cloud ZIP incl per-file SHA256; missing 3 original MP4 candidates; art/legal QC of 137 generic/6 bespoke pending. | TECHNICAL ASSET ACQUISITION PARTIAL; STAGE13 QC HOLD |

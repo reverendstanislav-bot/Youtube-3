@@ -35,3 +35,10 @@
 - Remaining **137 generic SVG drafts explicitly require editorial redesign**, not automatic blind placement in DaVinci. They are a draft storyboard, not 137 visually approved video frames.
 - For the 96 non-GFX planned sources, PDF/MP4/JPEG binaries and native crops are still missing; source web browsing is not file acquisition.
 - Current overall verdict: **STAGE13 QC HOLD**. Actual approved visual shots: **0/239**. Produced editable SVG source drafts: **143**.
+
+
+## 2026-10-22 — Actual source bytes and graphics exported
+- Acquired six PDF originals, five real Pexels MP4s, Commons Apple Park original JPEG (12 unique external binary source files). Direct file HTTP/decode established. All 143 SVG graphic sources were rendered to full-size 1920×1080 PNG. Six authentic document pages rasterized directly from original PDFs, with page identity preserved; **not yet line-native per-shot approved crop rectangles**.
+- **Working archive, 69MB**: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/9ed5e617-fac5-4c02-9bad-3c3bfc186f9a.zip. Upload was confirmed, SHA256 for every stored file in `SOURCE_CHECKSUMS.csv`.
+- Three remaining Pexels candidate video URLs failed the attempted direct original-file request, do not label them acquired. Native full judicial ECF175/188/189 PDFs not yet in package.
+- **Stage13 verdict still HOLD**, rather than claiming editing-ready. Technical extraction != rights approval or editorial visual signoff. A human must review the actual video pixels and native court crop targeting and replace the generic 137 graphics.

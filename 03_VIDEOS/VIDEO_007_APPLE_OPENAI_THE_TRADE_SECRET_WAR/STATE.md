@@ -60,3 +60,10 @@ Stage11 aligned the real accepted master with local Faster-Whisper word timestam
 
 ### Stage13 independent visual correction
 Rendered one source SVG (former VP002) at 1920x1080: technical render PASS, **EDITORIAL VISUAL REJECT** because bland repeated labels and raw direction text appeared on screen. Six pivotal visuals replaced with bespoke vector diagrams, awaiting render/QC; 137 other template SVGs are now explicitly STORYBOARD DRAFT, not production PASS. No full video source files acquired; true visual asset acceptance stays 0/239.
+
+
+## 2026-10-22 — REAL ACQUISITION AND RENDER RECEIPT
+- **Actual confirmed cloud media archive:** https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/9ed5e617-fac5-4c02-9bad-3c3bfc186f9a.zip. 69MB compressed, 166 content files listed with SHA256 in archive. It contains **6 real court PDFs** (ECF1/59/97/143/176/177), **5 real Pexels MP4s** (Pexels 2376984, 5028622, 6754820, 8212370, 1085656), **1 real Wikimedia Commons Apple Park JPEG**, **6 true rasterized court PDF pages**, **143 rendered 1920x1080 graphics PNGs**, 5 video thumbnails, and contact sheets.
+- Pexels source candidates 4709394,7423951,7140928 **not downloaded** due direct file 404; no invented video assets. ECF175 source text still webpage and native signed ECF188/189 actual PDFs not downloaded.
+- SVG renderer / actual PNG technical render: **143/143 PASS**, but **visual editorial PASS remains 0/239**, as 137 graph templates are still generic and 6 tailored designs need approval. PDF excerpts rights and original crop semantics not cleared. The 69MB archive is working materials, **NOT production approved**.
+- No paid provider credits or generation requests.
