@@ -5,11 +5,11 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE13_REJECT_OWNER_13R_SOURCES_PARTIAL"
+status: "STAGE13_OWNER_REJECT_13R_66_REAL_VIDEO_SOURCES_TECH_PASS"
 created: "2026-10-16"
 last_updated: "2026-10-22"
-current_stage: "13R_REBUILD_EVIDENCE_WORKING_ARCHIVE_PARTIAL_NO_FINAL_ASSETS_APPROVED"
-next_action: "Review 36 authentic native 16:9 footage source masters from 274MB video archive against Harrisons exact cues, reject context-mismatched footage, gather Apple/OpenAI public event archive clips with documented reuse rights, create exact picture cut selection and complete graphic/document assets."
+current_stage: "13R_66_NATIVE_HORIZONTAL_SOURCE_FILES_ACQUIRED_FINAL_VISUAL_RIGHTS_HOLD"
+next_action: "66 real native landscape source videos acquired (60 distinct Pexels IDs + 6 Apple WWDC24 excerpts from one event). Assess actual scene match and publisher rights, build approved 60 video placements (4:18.08), precise source docs and 123 individual graphics before Stage13 owner QC."
 blockers: ["OWNER REJECT: prior technically decodable 239 frames are irrelevant/repetitive and not production fit", "NEW 13R footage targets and rights not acquired", "NEW exact native ECF crops and photo assets not prepared", "NEW story-specific non-template graphics not rendered or approved", "Actual nonempty populated folders and checksum evidence required", "Stage13 independent rights/creative approval HOLD", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
@@ -137,3 +137,17 @@ stage13r_source_video_total_runtime_seconds: 573.9
 stage13r_video_pool_download_bytes_approx: 287000000
 stage13r_video_pool_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/d4a6bde1-0984-485c-99db-05ff3e363276.zip"
 stage13r_footage_relevance_pass: false
+
+# 2026-10-22 Stage13R enlarged video acquisition
+stage13r_pexels_original_video_masters: 60
+stage13r_authentic_apple_wwdc2024_excerpt_mp4: 6
+stage13r_apple_event_independent_masters: 1
+stage13r_total_horizontal_video_files: 66
+stage13r_video_raw_duration_seconds: 1348.12
+stage13r_video_target_shots_count: 60
+stage13r_video_target_shots_total_seconds: 258.08
+stage13r_original_36_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/d4a6bde1-0984-485c-99db-05ff3e363276.zip"
+stage13r_additional_24_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/cc05d9d8-d114-4f11-a673-4753273a7450.zip"
+stage13r_official_apple_6_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/09059f5c-2bd8-40a4-8a1c-0c7a2533e7da.zip"
+stage13r_source_format_video_qc: "PASS_66_OF_66"
+stage13r_scene_match_and_rights_video_qc: "HOLD"

@@ -126,3 +126,23 @@ The raw footage runtime 573.9s is NOT 573.9s of matched timeline coverage. End-t
 
 **Overall Stage13R: REJECT/HOLD for creative, script relevance, provenance/rights clearance; do NOT proceed to Stage14.** All paid generations remain prohibited without owner confirmation.
 
+
+
+## Stage13R video library expansion — 60 original Pexels + 6 Apple authentic WWDC24 excerpts
+# VIDEO007 Stage13R — 66 native-horizontal source video files / real acquisition, 2026-10-22
+
+**ACTUAL confirmed uploaded download archives:**
+- 36 original Pexels horizontal video master MP4: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/d4a6bde1-0984-485c-99db-05ff3e363276.zip (approx 274 MB).
+- 24 ADDITIONAL distinct original Pexels horizontal MP4: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/cc05d9d8-d114-4f11-a673-4753273a7450.zip (approx 237 MB).
+- 6 genuine nonoverlapping Apple WWDC24 captured excerpt MP4: https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/09059f5c-2bd8-40a4-8a1c-0c7a2533e7da.zip (approx 47 MB). All 6 **derive from ONE event master**, not 6 separately authored films. Public Apple Developer WWDC2024 keynote origin: https://developer.apple.com/videos/play/wwdc2024/101/.
+
+**Mechanical source inventory:** 66 actual playable native 16:9 landscape outputs, including 60 Pexels video IDs and 6 Apple WWDC2024 excerpt segments. 60 separately filmed Pexels masters + 1 Apple master (6 cut segments). Total raw source-video sum 1348.12 seconds, i.e. 22:28.12, counting individual nonoverlapping Apple excerpt durations. 9 authentic original case PDF files, 7 original page raster crops, 1 Commons Apple Park original still and 3 rebuilt GFX drafts remain from previous 57MB working evidence source pack.
+
+**VERY IMPORTANT:** This is *source acquisition* and technical 16:9/QC, NOT 22:28 of approved script-matched picture. Stage13R plan: 60 video slots totalling only 258.08 sec (4:18.08) within a 972.36-second film; the remaining picture slots are 47 original ECF document excerpts, 123 individual fact graphics, 8 original stills and one true OpenAI/Apple 2024 first-party source excerpt. Availability of 66 source files does not cover 239 slots or prove they are relevant/rights-cleared. All Stage13R output picture slots remain HOLD. 
+
+**Source integrity:** `13R_ALL_66_VIDEO_SOURCE_LEDGER.csv` names each file with real width, height, native fps, duration, SHA-256, source page/rights state, inclusion in original 36 or incremental 30. Archives include visual contact sheets. No vertically filmed asset accepted. Some native landscape masters are 1280×720 and may fail 1080p visual-quality threshold despite acceptable 16:9 aspect. Reject irrelevant keyboards/servers rather than misrepresent them as Apple/OpenAI event film.
+
+**Rights:** Pexels general license permits free use in YouTube videos but prohibits falsely implying endorsement and offensive portrayals of identifiable people: https://www.pexels.com/license/. Each particular original clip URL and releases should be verified. **Apple original WWDC footage remains COPYRIGHT RIGHTS HOLD**: public availability is not commercial publishing permission. Proposed excerpts are authentic factual source research pending individual editorial fair-use analysis or permission. No media is characterized as court-involved eyewitness footage. Avoid Content ID assertions. No paid provider use or AI-generated video.
+
+**Status:** native source acquisition/source file integrity = 66/66 TECHNICAL PASS; scene-match editor selection, Apple media rights, per-clip licensing, original court crop/frame graphics and final Stage13 visual package QC = HOLD. No Stage14 advance.
+
