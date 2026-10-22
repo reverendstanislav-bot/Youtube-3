@@ -1,40 +1,43 @@
-# VIDEO006 — Stage12 R2 DENSE EDIT PLAN + RIGHTS-SCOPED REAL VIDEO LIBRARY
+# VIDEO006 — Stage12 R3: footage tied to the real Dragon Train case
 
-**2026-10-22 | G12 R2 PLAN PASS — NO MEDIA GENERATION.** Previous **102 A/B planned visual positions were insufficient**; replaced `12_SHOT_PLACEMENTS.csv` with **264 distinct time-coded visual events across 51 ASR-timed scenes** covering the original master **0–16329 frames at 25fps (10:53.13 sound; 10:53.16 quantized picture end)**. This is **2.47s per planned visual event on average**, NOT a mandate for 264 smash cuts or 264 generated stills. Native court source reading holds should remain calm, often multiple sequential emphasis events on *one* original source. Cut, focus, detail, graphic overlay and subtle static hold are different event types.
+**2026-10-22 | R3 supersedes Stage12 R2 bulk-stock recommendations.** The user rejected unrelated, repetitive casino/office stock. This edition uses *actual factual subject matter first* (real 2024 CEO statement and corporate game/video leads), genuine court exhibits and animation of real text, original product images/cabinets only with approved source rights, **6** precisely justified non-case generic slot-game moving inserts, and **0** poker/roulette/lawyer actor/keyboard filler shots. 
 
-## What changed from R1
+## Quantified correction
 
-- R1: 51 scene concepts, 102 A/B placements, 18 documentary image/source leads, 3 optional AI still prompts.
-- **R2**: **264 story-specific planned picture and emphasis beats**, 40 provisional *source placements* of existing stock film across the feature, **30 distinct individually located video candidates**, original document content remains primary not random stock.
-- Stock is spread across legal, math, industry and product context, but **must never replace documentary proof** or imply that stock people are Emma Charles, Aristocrat, L&W management, plaintiff attorneys or a filmed 2024/2026 incident.
-- **No video file has been downloaded or verified frame-by-frame, and no third-party rights/model/game-screen release has been cleared**. Stock metadata and provider commercial terms verified by independent research; each actual clip requires a per-asset provenance and rights pass at Stage13. No AI video generation (prohibited).
+- R2: 51 real master-linked scenes, 264 visual editorial events, 30 random candidate stock links, 40 mechanically assigned stock-video placements.
+- R3: same **51 scenes / 264 fully timecoded events / 16,329 frames / 653.13s locked Harrison master**; **34 of 40** former automatic stock video positions converted to meaningful source-native court/issuer highlighting or custom truthful math/legal GFX. Remaining **6** use real commercial casino machines/buttons or visible gaming displays, one per carefully chosen scene. **Four verified native-horizontal Pexels sources 4K 16:9**, two verified vertical 4K 9:16 reserved for Shorts only, zero pulled into the edited master. All exact stage11 scenes and four native Shorts unchanged.
 
-## Catalogs and production files
+## Real high-impact audiovisual evidence (copyright permissions required)
 
-1. `12_SHOT_PLACEMENTS.csv`: 264 frame-complete events with scene P ID, 25fps in/out, exact role, visual concept, target authentic source or original graphic, linked stock video ID if any and explicit rights gate; supersedes 102-row V1 which remains in Git history.
-2. `12_VIDEO_FOOTAGE_CANDIDATES.csv`: 30 individual provider item URLs + human-readable creators, specific commercial-use license basis, each video's correct context and red flags.
-3. `12_VIDEO_FOOTAGE_USAGE_MAP.csv`: 40 placements using no more than 2 planned placements per source; nominal timecode in *master*, NOT a source video in/out. Real source file in/out can only be chosen after video bytes inspected.
-4. `12_VIDEO_RIGHTS_EXCLUSIONS.csv`: Mixkit free Restricted, copyrighted YouTube and company sources explicitly excluded or legal permission HOLD. Public YouTube videos are NOT automatically royalty-free.
-5. `12_COPYRIGHT_AND_PROVENANCE_QC.md`: source rights decision workflow. **No 'guaranteed copyright free' claim; monetization permitted under verified provider licenses subject to actual independent underlying rights.**
+1. **CEO Matt Wilson first-party Dragon Train 2024 video statement, recorded October 3, 2024.** SEC 8-K/Exhibit99.1 verifies the video was publicly issued and transcribes the recorded message: https://www.sec.gov/Archives/edgar/data/750004/000095015724001365/ex99-1.htm. Original company release: https://www.businesswire.com/news/home/20241003231014/en/Light-Wonder-Releases-Statement-on-Dragon-Train-Litigation. Investor archive: https://explore.investors.lnw.com/news-events/events-presentations . Direct playable media file could not be verified yet, **COPYRIGHT HOLD**. It would be narratively superior at SC026 company defense, SC032 2024 injunction, SC034 forecast and SC041 historical contrast. Require owner/rights-holder permission or separately assessed critical quotation fair use, not unrestricted reshare.
+2. **Actual Dragon Link branded moving footage / manufacturer showreel**: https://www.aristocrat.com/aristocrat-gaming/ and https://www.aristocratgaming.com/asia/games/asia-dragon-link. Proprietary game art rights held by Aristocrat; source on-brand reference only until license or counsel-reviewed narrow quotation.
+3. **Real Dragon Train 2023 announcement**, not generic gambling footage: original verified first-party dated PDF https://explore.lnw.com/media/uuenrslk/age-2023_final.pdf. Footage itself not identified or rights-cleared, so illustrate with confirmed original brochure product imagery where editorial use is justified and separately assessed. No invented footage.
+4. **Original court/SEC/party material**: S001 court PDF p11 odd gray cells/borders, p14 matching creation metadata, p16 preliminary ruling; S007 signed 2026 dismissal/vacatur with $127.5m and no-commercialization obligations; S017/S023 separate contested investor case. These documents provide much stronger motion-graphic material than unrelated stock.
 
-## Visual pacing and narrative constraints
+## True moving footage available under a documented stock site license
 
-- Different acts have different pacing: genuine source hold/line focus under key legal claims, product/casino b-roll when discussing gameplay/commerciality, office keyboard/document b-roll only as clearly generic context when explaining worksheets, company negotiation footage only as non-party staged generic atmosphere. No 'all business drama is poker' footage.
-- Under scene-duration rule: <=6s 2 visual events, 6–9s 4, 9–13s 5, 13–19s 6, >19s 7. One visual event can be same real frame with attention movement not a hard cut. Source-original lines hold enough to read; actual boundaries can be retimed at Stage14/15 while 51 scene master ASR boundaries and overall audio remain locked.
-- Source actual gameplay from Dragon Train, Jewel of the Dragon, Dragon Link or Lightning Link official rights owner is **NOT cleared** by unrelated Pexels slot footage. Proper historical product photographs from Stage12 R1 require original media rights too. No invented workbook or confidential source pixels.
-- Candidate footage can be toned to channel charcoal / paper white if license and original content permit; **no baked yellow marker**, subtitles come from controlled subtitle layer, avoid oversaturated stock look, artificial camera motion, black masking captions and choppy slideshow.
-- Native Shorts four unchanged: S01 SC003 P003; S04 SC023 P023; S05 SC027 P027; S07 SC043 P043. For 9:16 crop obey caption-safe area; source spoken full native text from master; all finished shorts <=30s after Stage15 real export including any tail.
+- T101 Pexels exact https://www.pexels.com/video/close-up-of-hand-pressing-slot-machine-buttons-35728851/ — real hand presses slot controls; 3840×2160, 16:9, 8s.
+- T102 https://www.pexels.com/video/close-up-on-gambling-machines-screen-9807885/ — actual casino game screen; 3840×2160, 16:9, 10s.
+- T103 https://www.pexels.com/video/close-up-on-casino-machines-9807879/ — authentic generic casino machine front; 3840×2160, 16:9, 10s.
+- T104 https://www.pexels.com/video/close-up-on-gambling-machines-screens-9807884/ — real multiple game displays; 3840×2160, 16:9, 11s.
+- T105 https://www.pexels.com/video/view-of-slot-machines-in-casino-9807887/ — **9:16 vertical only**; 2160×3840, 9s, Shorts candidate, never claimed longform 16:9.
+- T106 https://www.pexels.com/video/gambling-machines-screen-in-casino-9807886/ — **9:16 vertical only**; 2160×3840, 13s, Shorts candidate.
 
-## Copyright rules
+The parent Pexels license at https://www.pexels.com/license/ permits free commercial derivative YouTube use, but does not supply rights for third-party copyrighted game displays and logos appearing in a clip. **No source file has been downloaded**, no logo/IP frame review or release check has been completed and no item is yet fully Stage13 cleared. There is no universal 100% copyright-safe certification.
 
-**Pexels** general site license says free commercial YouTube reuse and no attribution requirement for platform-licensed original video, but **visible third-party casino game graphics, trademarks, people, ads and signs** may require additional clearances or sensitive-use review. Save downloaded source terms and item page PDF as evidence before publishing. <https://www.pexels.com/license/>; <https://help.pexels.com/hc/en-us/articles/360042295214-Can-I-use-the-photos-and-videos-for-a-commercial-project>.
+## Exactly where the six moving inserts are useful
 
-**Wikimedia CC BY 3.0** aerial `V030`: credit **the Dronalist**, link original item and <https://creativecommons.org/licenses/by/3.0/>, state any changes in YouTube description and retention credits; license verified on actual file page. This is historical unrelated b-roll (2021 Vegas), no event implication.
+| Stage11 scene | Voice topic | Planned Pexels | Dramatic point | Validation |
+|---|---|---|---|---|
+| SC006 00:56.24–01:06.48 | What public screen shows versus hidden math | T102 | Brief genuine gameplay screen before source-proven math diagram | Third-party game art cropped/cleared |
+| SC008 01:27.16–01:39.88 | Bonus symbols & jackpots | T104 | Real external display rather than inaccurate equations | No invented probabilities |
+| SC009 01:39.88–01:48.96 | Visible public information / private calculations | T103 | Physical cabinet establishes limit of what customer can see | Generic illustration only |
+| SC010 01:48.96–01:54.44 | Transition to Aristocrat prior products | T101 | A real spin button contextual transition, followed by genuine product photos | Do not label footage Dragon Link |
+| SC015 02:54.40–03:08.16 | Designer sees similarities | T104 | Brief real contemporary slot display, source 2018/2023 branded photographs make actual contrast | Never infer copying from graphics alone |
+| SC031 06:09.28–06:18.40 | Could Dragon Train still be sold? | T101 | Physical consumer input establishes lost commerciality before 2024 injunction text | No staged removal or new footage claimed |
 
-**Mixkit has BOTH Free (commercial) and Restricted (personal-only) videos.** Free 720p on two specific slot-related Mixkit items was RESTRICTED, not eligible here; do not take them simply because their category says 'Free Video'. Videos taken from YouTube creators / third-party gaming influencers under standard YouTube license are NOT reusable without permission or fact-specific legal editorial fair-use review. <https://mixkit.co/license/>.
+## Exclusion rules
 
-**Pixabay** could offer additional replacement sources but each concrete item must be verified in item page, origin, IP, and license. Search pages alone are not a cleared inventory. <https://pixabay.com/service/license-summary/>.
+No generic rows of lawyers, contract passing, person working laptop, gambling parties, stock roulette chips, anonymous code terminal, film sets or smartphone PCB masquerading as games engineering. No paper tax tables claiming to be original 2013 Excel. No actual operator demo or CEO footage until authorized usage basis. Actual contemporary case and gameplay source rights are not implied by internet visibility. Preserve approved WHAT IT COST 3 motion canons and ALL 264 existing planned narrative A/B accents.
 
-## Downstream gate
-
-**R2 Stage12 = complete expanded EDIT PLAN, not a collection of finished source files.** To clear footage in Stage13, verify availability, download original at highest permitted quality, check full media decode/resolution / segment in/out and 16:9 & 9:16 crop, compare any logo/face/game art and model rights, take screenshot of current item license/date, compute SHA256, record provider creator license details and legal review, only then mark `VIDEO_SOURCE_QC_PASS`. No outside owned company/YouTube footage without license or documented legally reviewed fair use. No generation credits spent. Stage16 external case status refresh remains separate.
+**Stage12 R3 curation PASS; Stage13 MEDIA / RIGHTS ACQUISITION HOLD**. 0 generation jobs, 0 dollars/credits spent, master VO/script/Short count unaffected.

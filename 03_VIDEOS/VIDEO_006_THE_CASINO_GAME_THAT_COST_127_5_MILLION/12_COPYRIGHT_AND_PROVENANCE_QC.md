@@ -31,3 +31,7 @@ Record: unique source URL and creator; downloaded master file SHA256; native res
 | L&W, Aristocrat official product video | No reuse license located | HOLD; only direct permission or separately approved fair-use editorial analysis |
 
 **Gate: video supplier details are research-verified, actual file pixels/origin releases not inspected. Commercial reuse is likely allowed for standard Pexels sources subject to remaining IP/rights checks, not guaranteed immunity from copyright claims.**
+
+
+## 2026-10-22 R3 override of generic library
+R2 30 source leads are superseded. Six exact native-aspect verified Pexels clips are recorded in R3, only four 16:9 longform eligible. CEO Matt Wilson original VIDEO statement real per SEC but **RIGHTS HOLD**; no direct file retrieved. Company showreels are COPYRIGHTED. In current approved plan 34 irrelevant b-roll positions were replaced by original court/source graphics; six restricted-to-context stock opportunities remain. A source can have legal commercial site terms while its game screen contains separately copyrighted embedded artwork. No claim of 100% noninfringement; Stage13 real video file/frame QC and licensed provenance required.
