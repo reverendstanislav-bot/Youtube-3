@@ -1,5 +1,5 @@
 short_id,paragraph_id,source_job,paragraph_ordinal_in_job,words,estimated_spoken_sec_135wpm,complete_export_max_sec,estimated_tail_budget_sec,extraction_rule,current_status,future_acceptance
-SH01,A00-P01,01,1,59,26.2,35,8.8,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,UNMEASURED,Exact master time range and finished export <=35.0 seconds
-SH02,A05-P03,03,9,63,28.0,35,7.0,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,UNMEASURED,Exact master time range and finished export <=35.0 seconds
-SH03,A07-P03,04,10,64,28.4,35,6.6,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,UNMEASURED,Exact master time range and finished export <=35.0 seconds
-SH04,A09-P03,05,8,61,27.1,35,7.9,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,UNMEASURED,Exact master time range and finished export <=35.0 seconds
+SH01,A00-P01,01,1,59,26.2,35,8.8,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,STAGE11_REAL_MASTER_CUT_LOCATED,23.00s source cut; finished export <=35.0 seconds
+SH02,A05-P03,03,9,63,28.0,35,7.0,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,STAGE11_REAL_MASTER_CUT_LOCATED,24.04s source cut; finished export <=35.0 seconds
+SH03,A07-P03,04,10,64,28.4,35,6.6,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,STAGE11_REAL_MASTER_CUT_LOCATED,23.44s source cut; finished export <=35.0 seconds
+SH04,A09-P03,05,8,61,27.1,35,7.9,ONE_CONTIGUOUS_MASTER_PARAGRAPH_NO_SEPARATE_TTS,STAGE11_REAL_MASTER_CUT_LOCATED,25.04s source cut; finished export <=35.0 seconds

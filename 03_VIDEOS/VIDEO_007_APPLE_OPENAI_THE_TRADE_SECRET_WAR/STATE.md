@@ -36,3 +36,9 @@ No VIDEO007 TTS request, retry, paid credit, audio, image, video or Stage10 work
 With explicit owner authorization, five locked Voicebox jobs ran sequentially with Harrison profile `228d3d8a-096f-461b-bf11-4f9415e2dafc`, Qwen3-TTS 1.7B Base, CUDA and seed `20261021`. No retries, fallback, parallel generation or provider credits were used. The five accepted WAVs total 971.88 seconds and all pass PCM/decode/hash QC. Faster-Whisper sequence ratios are 0.969935, 0.972710, 0.981207, 0.980525 and 0.979554; no long omission, duplicate block or reorder was detected.
 
 The Stage10 master is 972.36 seconds, PCM s16le 48 kHz mono, -16.1 LUFS, -1.5 dBTP, SHA-256 `0AF812DB9D7A7CC509DCEC346D6AC9995281816F7505FC704A245867C5225B0C`, full decode PASS. Stage09 final Voice Lock and `locks.audio_master` remain pending human A/B/listening for Harrison identity, names, legal terms, joins and artifacts. Stage11 was not started.
+
+## 2026-10-22 — Owner audio acceptance and Stage11 PASS
+
+The owner explicitly accepted the Harrison voice and Stage10 master. Stage09 Voice Lock and Stage10 Audio Master are PASS; `locks.audio_master` is true. No regeneration or additional spend occurred.
+
+Stage11 aligned the real accepted master with local Faster-Whisper word timestamps. All 60 locked paragraphs have ordered speech anchors; normalized exact-token alignment is 2522/2581 (97.71%). The 25fps visual grid spans frames 0–24309 with 60 scenes, zero gaps and zero overlaps. Four continuous native Short cuts are located: SH01 23.00s, SH02 24.04s, SH03 23.44s and SH04 25.04s. Finished 9:16 exports and endings remain a Stage15 measurement hold. `A02-P01` is the sole paragraph below the 85% automatic ASR review threshold and remains a final-edit phoneme check. Stage12 was not started.
