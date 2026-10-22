@@ -18,3 +18,5 @@
 | 2026-10-22 | Stage13 completion of real technical asset package | 239 decoded output media files | Source-native 79 court document shots from 9 PDFs, 143 original graphic outputs with 137 redone, 8 original editor substitutes for company press web pages, 1 Commons still, 8 25fps licensed-context MP4 trims. VP001 and VP205 crop repairs, 239/239 technical QC, archived with checksums. | PASS TECHNICAL ONLY; CREATIVE RIGHTS/QC HOLD |
 
 | 2026-10-22 | Stage13R Rebuild map after owner rejection | REJECT_LEGACY_239 | Replaced old picture planning targets with 239 exact VP slot-level story and source records, 65 native video targets, 41 real ECF line crops, 125 bespoke graphics and 8 authentic stills. All original sources pending rights and picture rebuild. | PLAN PASS ONLY / Stage13 OWNER REJECT |
+
+| 2026-10-22 | Stage13R real evidence archive | 9 PDF, 7 page rasters, 6 native16:9 MP4 research masters, 1 Commons JPEG, 3 SVG/PNG originals | Populated source archive and checksum register. Relevant footage cuts and scene-matched final art NOT made, video_horizontal/cuts empty intentionally. | Partial source acquisition only; FINAL Stage13 REJECT/HOLD |

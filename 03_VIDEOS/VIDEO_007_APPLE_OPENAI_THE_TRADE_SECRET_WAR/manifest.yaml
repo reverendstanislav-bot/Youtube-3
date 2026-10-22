@@ -5,11 +5,11 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE13_REJECT_OWNER_VISUAL_FAILURE_13R_REBUILD_MAP_READY"
+status: "STAGE13_REJECT_OWNER_13R_SOURCES_PARTIAL"
 created: "2026-10-16"
 last_updated: "2026-10-22"
-current_stage: "13R_239_SHOT_REBUILD_MAP_COMPLETE_PREVIOUS_ASSETS_REJECT"
-next_action: "Execute 13R exact 239-row replacement plan: acquire 20+ source-authentic landscape videos and rights, native ECF line crops, original story-specific graphics and real stills; fill actual folders and run owner/independent QC. Do not reuse rejected previous Stage13 shots."
+current_stage: "13R_REBUILD_EVIDENCE_WORKING_ARCHIVE_PARTIAL_NO_FINAL_ASSETS_APPROVED"
+next_action: "Stage13R rebuild from owner REJECT: 9 source PDFs, 7 page rasters, 6 landscape video research masters, 1 Commons still and 3 bespoke SVG/PNG candidates archived; complete on-script real media, rights, exact crops, 123 individual graphics and independent QC before Stage14."
 blockers: ["OWNER REJECT: prior technically decodable 239 frames are irrelevant/repetitive and not production fit", "NEW 13R footage targets and rights not acquired", "NEW exact native ECF crops and photo assets not prepared", "NEW story-specific non-template graphics not rendered or approved", "Actual nonempty populated folders and checksum evidence required", "Stage13 independent rights/creative approval HOLD", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
@@ -115,9 +115,18 @@ qa:
   voice_text_integrity: "PASS_60_OF_60_FIVE_SEGMENTS_EXACT"
   voice_audio: "PASS_OWNER_ACCEPTED_2026_10_22"
   transcript_timeline: "PASS_60_OF_60_ASR_SOURCE_ANCHORED_24309_FRAMES"
-  visual: "REJECT_PREVIOUS_STAGE13_13R_MAP_PLANNED_ONLY"
+  visual: "STAGE13_REJECT_PARTIAL_REBUILD_ORIGINALS_ACQUIRED_FINAL_QC_HOLD"
   edit: "NOT_RUN"
 publish:
   scheduled_at: ""
   published_at: ""
   youtube_url: ""
+
+# Stage13R source recovery snapshot
+stage13r_working_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/c5ac1993-95c2-40fa-8180-3414b5ed9d51.zip"
+stage13r_original_pdf_files: 9
+stage13r_rasterized_pdf_pages: 7
+stage13r_native_landscape_research_video_files: 6
+stage13r_commons_original_still_files: 1
+stage13r_new_graphic_candidates: 3
+stage13r_full_239_asset_approval: false
