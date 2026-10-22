@@ -1,35 +1,39 @@
-# VIDEO006 — Stage11 transcript + visual timeline (PROVISIONAL, NOT ASR-ALIGNED)
+# VIDEO006 — Stage11 transcript + visual timeline (ASR anchored)
 
-**2026-10-21. Decision: STRUCTURAL DRAFT PASS / G11 TIMING HOLD.** Master is reported 653.13 sec (10:53.13), 48kHz mono 48k PCM, SHA-256 `A42C0E6245D66F4DA25B5528BEC04047B9E7F7EBF759E412E6490D627CF8D308`. Source is [VIDEO006 Release](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video006-harrison-qwen06-20261021). I accessed the GitHub Release metadata and textual Stage09/10 QC, **not the WAV bytes**. Therefore actual hearing, raw waveform checks, SHA recheck, independent ASR and word alignment **were NOT performed** in this chat.
+**2026-10-22. Stage09–10: owner ACCEPTED final audio QC; no regeneration. Stage11: PASS_REAL_ASR_PARAGRAPH_ANCHORS / SHORTS EXPORT STILL PENDING.**
 
-## Deliverables
+## Real audio used
 
-- `11_TRANSCRIPT_PROVISIONAL.csv` — **51/51 locked V5 English paragraph texts**, 51 unique source/claim/beat IDs, no inserted words. SCRIPT transcript, **not** an audibly transcribed record.
-- `11_VISUAL_TIMELINE_PROVISIONAL.csv` — **51 coherent full-paragraph scenes** covering the full 25fps frame grid, two distinct evidence-led picture intentions each (**102 editorial visual placements, not 102 assets or generative jobs**). Source/provenance and 9:16 constraints noted.
-- `11_SHORTS_CUT_MAP.csv` — exactly **four canonical native Shorts** P003/P023/P027/P043, real cut columns intentionally EMPTY. Never use the model timestamps to trim.
-- `11_ALIGNMENT_AND_LISTENING_QC.md` — exact mandatory finalization and listening checks. This package is NOT Stage11 PASS or clearance to Stage12.
+- Master: `VIDEO006_HARRISON_STAGE10_AUDIO_MASTER_48K_MONO.wav`; **10:53.130**, 48k PCM mono, matching locked release SHA-256 `a42c0e6245d66f4da25b5528bec04047b9e7f7ebf759e412e6490d627cf8d308`.
+- The exact released WAV was downloaded independently into an audio-capable media sandbox, verified by SHA-256 and decoded; Faster-Whisper **small.en**, 8 CPU threads, int8, English, beam_size=5, word_timestamps=True, VAD filter off was applied to the **real 653.13s master**. ASR produced **1,716 normalized tokens**, aligned against **1,706 canonical V5 tokens** with difflib SequenceMatcher (autojunk=False). **1,660 canonical tokens exact matched = 97.30%**, with script/token normalization differences. This is an independent automatic transcript comparison, not a claimed human pronunciation audit.
+- All **51 canonical paragraphs** have a FIRST and LAST script-token matched ASR anchor in correct order; each row records actual audible-word start/end, token-match fraction and 25fps continuous picture-grid edges.
+- SRT: `11_PARAGRAPH_TRANSCRIPT_ASR_DRAFT.srt` — 51 paragraph cues using first-to-last ASR-aligned words. Not YouTube-ready short caption layout or word-highlighting captions; separate final caption segmentation later.
+- Editorial plan: `11_VISUAL_TIMELINE.csv` = 51 scenes, 102 proposed A/B visual placements, all 51 factual claim/source links carried across, exact output **16,329 frames at 25fps**. Scene edges are midpoints of adjacent ASR paragraph speech anchors so pauses belong to a contiguous picture scene rather than imaginary silent content; **ZERO gaps/overlaps**. No licensed assets or images yet.
 
-## Model timing is NOT audio synchronization
+## Four locked native Shorts — actual speech windows, not rendered exports
 
-Producer-reported accepted WAVs 114.22 + 136.62 + 118.06 + 119.98 + 163.77 = **652.65s**. Master includes 4 × 0.12s gaps = **653.13s**. 25fps => **16,329 video frames = 653.16s**; 0.03s last-frame quantization. Start/end model frames distribute each source WAV's duration **proportionally to written whitespace words of its 10–11 paragraphs**, rounded to whole frames. Last paragraph in each chunk includes its 120ms master chapter pause. Every planned scene boundary is **MODEL**, not ASR or human-audition based; individual errors may be seconds. No exact captions or cuts can be certified from this data. Old Stage02 estimated 15:55 timecodes are not used.
+| Short | Paragraph | Real voice interval | Speech-only | Status |
+|---|---|---|---:|---|
+| S01 | P003 | 00:15.020–00:30.400 | 15.38s | ASR source located / needs final 9:16 cut QC |
+| S04 | P023 | 04:29.140–04:46.620 | 17.48s | ASR source located / needs final 9:16 cut QC |
+| S05 | P027 | 05:19.640–05:37.280 | 17.64s | ASR source located / needs final 9:16 cut QC |
+| S07 | P043 | 08:40.520–08:59.780 | 19.26s | ASR source located / needs final 9:16 cut QC |
 
-## Draft acts (model, not audible speech boundaries)
+All four have **real ASR speech windows**. Do not combine distant excerpts, rewrite their words, or generate separate TTS. The later finished 9:16 clip INCLUDING intro/end card/CTA must measure **<=30.0 seconds**; final duration fields remain blank until actual rendered exports. Only 4 Shorts, no more.
 
-| Act | Model interval | Editorial role |
-|---|---|---|
-| A00 | 00:00.00–00:57.32 | Court prohibition vacated / contract survives / old Excel clue |
-| A01 | 00:57.32–01:54.36 | Visible slot design versus hidden game mathematics |
-| A02 | 01:54.36–03:07.12 | Earlier Aristocrat products and employee chronology |
-| A03 | 03:07.12–04:11.08 | Lawsuit / strange workbook formatting |
-| A04 | 04:11.08–05:06.68 | Sky Train metadata and 2013 date |
-| A05 | 05:06.68–06:09.28 | Light & Wonder's defense and limited inferability |
-| A06 | 06:09.28–07:09.88 | September 2024 preliminary injunction |
-| A07 | 07:09.88–08:09.36 | Australia and Jewel of the Dragon extension |
-| A08 | 08:09.36–09:56.08 | Settlement terms / $127.5m / dismissal |
-| A09 | 09:56.08–10:53.16 | Separate investor allegations and ultimate product consequence |
+## Boundary/word QC qualifications
 
-## Source/visual truth constraints
+The sequence-level match is 97.3%, *not* 100% speech proof. Most variation concerns ASR textual rendering of spelled-out dollar amounts, hyphenated terms, proper nouns and punctuation. These lower-scoring paragraphs need specific listening confirmation before subtitle-final or precise trim acceptance:
 
-Match WHAT IT COST Visual Identity Lock and Editing Canon (charcoal/paper white, signal-red selective accent, clean documentary source labels, reasoned cuts and local evidence emphasis, no random wipe rotation, no fake court document or raw Excel impersonation). A proposed `DOCUMENT` = potential accurate sourced exhibit or order excerpt, rights pending, not an existing approved bitmap. `EDITOR_GFX` = editorial explanation clearly not an authentic source. `REAL_CONTEXT` = verified product/expo imagery only if acquired and cleared. Document the original date and evidence accurately: 2013 creation metadata in a **preliminary ruling**, not a final copying verdict. $127.5m was a **paid settlement**, and ~$128m accounting expense is not additional cash damages. Injunctions vacated versus separate binding settlement terms, investor proceedings separate. Stage16 court-status/rights remains mandatory.
+- P003 00:15.020–00:30.400: token match 82.6% (**native Short**), check numbers/qualifiers
+- P038 07:35.700–07:46.760: token match 89.7%
+- P045 09:17.980–09:31.860: token match 81.4%
+- P046 09:32.320–09:51.160: token match 89.6%
 
-**User hard rule:** Only 4 Shorts, final complete export **<=30.0s** each, from contiguous single parent paragraph audio, 9:16 reframing only, no separately generated Short VO. Until the master is truly audited/listened and 51 real paragraph boundaries/Short cuts documented, mark Stage09/10 AUDITORY HOLD and Stage11 **HOLD**; no Stage12 authority.
+The user explicitly accepted final Stage09/10 QC; record this as OWNER_APPROVED rather than falsely implying independent human Higgsfield Harrison A/B listening was newly done in this Stage11 computation. Audio master is unchanged. Remaining Stage11 acceptance is speech-to-text automation plus real aligned scene structure, not unmade renders. Stage16 AztecGold current-status and media rights refresh remains open.
+
+## Visual and legal canon
+
+Evidence from actual sources only; editor GFX must be distinguishable from original documents. WHAT IT COST original charcoal/paper-white/red system, restrained source-specific emphasis, no paper fake, courtroom kitsch, repetitive motion or superimposed black title blocks. No paid generative assets, music or SFX at Stage11. Primary corporate controversy resolved by contract, not a jury finding; $127.5m paid does not represent a criminal fine, the accounting $128m is not a second payment, court injunction vacation is separate from contractual restrictions, investor case is distinct from original corporate settlement.
+
+**Decision:** Stage11 transcript/timeline PASS_ASR_SOURCE_ANCHORED, with lower-confidence phoneme/name watch items and Shorts export length HOLD. Stage12 visual sourcing/production planning can begin upon next owner instruction; Stage16 legal refresh still mandatory before publication.
