@@ -20,3 +20,5 @@
 | 2026-10-22 | Stage13R Rebuild map after owner rejection | REJECT_LEGACY_239 | Replaced old picture planning targets with 239 exact VP slot-level story and source records, 65 native video targets, 41 real ECF line crops, 125 bespoke graphics and 8 authentic stills. All original sources pending rights and picture rebuild. | PLAN PASS ONLY / Stage13 OWNER REJECT |
 
 | 2026-10-22 | Stage13R real evidence archive | 9 PDF, 7 page rasters, 6 native16:9 MP4 research masters, 1 Commons JPEG, 3 SVG/PNG originals | Populated source archive and checksum register. Relevant footage cuts and scene-matched final art NOT made, video_horizontal/cuts empty intentionally. | Partial source acquisition only; FINAL Stage13 REJECT/HOLD |
+
+| 2026-10-22 | Stage13R horizontal real footage expansion | 36 horizontal native MP4 sources / 573.9s | 30 new unique files acquired; full source archive 274MB with checksums/frame contact sheet; official Apple/OpenAI event video and individual script relevance/copyright use review still missing. | 36 SOURCE FORMAT PASS, 0 FINAL SHOT RIGHTS/CONTENT PASS |
