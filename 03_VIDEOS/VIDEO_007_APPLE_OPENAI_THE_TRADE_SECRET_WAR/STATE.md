@@ -42,3 +42,10 @@ The Stage10 master is 972.36 seconds, PCM s16le 48 kHz mono, -16.1 LUFS, -1.5 dB
 The owner explicitly accepted the Harrison voice and Stage10 master. Stage09 Voice Lock and Stage10 Audio Master are PASS; `locks.audio_master` is true. No regeneration or additional spend occurred.
 
 Stage11 aligned the real accepted master with local Faster-Whisper word timestamps. All 60 locked paragraphs have ordered speech anchors; normalized exact-token alignment is 2522/2581 (97.71%). The 25fps visual grid spans frames 0–24309 with 60 scenes, zero gaps and zero overlaps. Four continuous native Short cuts are located: SH01 23.00s, SH02 24.04s, SH03 23.44s and SH04 25.04s. Finished 9:16 exports and endings remain a Stage15 measurement hold. `A02-P01` is the sole paragraph below the 85% automatic ASR review threshold and remains a final-edit phoneme check. Stage12 was not started.
+
+
+## 2026-10-22 — Stage12 dense 16:12 visual production plan
+- Owner rejected 60 long-duration images; Stage11 semantic 60 scenes retained, expanded into **239** genuine story-driven picture slots (~4.07s mean), every 25fps frame from 0 to 24309 scheduled without gap.
+- Shot-level map `12_DENSE_SHOT_MAP.csv`; verified source/rights links `12_VISUAL_SOURCE_RIGHTS.csv`; acquisition requests `12_ASSET_ACQUISITION_QUEUE.csv`; 4 Short vertical map `12_SHORTS_VERTICAL_SHOT_PLAN.csv`; 6 motion/source recipes `12_MOTION_DOCUMENT_CANONS.md`; plan and QC docs `12_VISUAL_PLAN.md`, `12_STAGE_QC.md`.
+- **Stage12 PASS_PLAN_WITH_RIGHTS_HOLDS**: plan only. No source files downloaded, no true PDF crops exported, no image/video generated, no DaVinci render, no credits spent. Generic footage only labelled unrelated context. Party filing reuse rights unapproved; licensed-platform downloads and Commons credit pending individual QC.
+- Stage13 next possible: exact source acquisition and verification, edit-original diagrams; requires separate owner direction. Keep Stage16 live docket refresh mandatory, A02-P01 ASR check and four Shorts final <=35s.
