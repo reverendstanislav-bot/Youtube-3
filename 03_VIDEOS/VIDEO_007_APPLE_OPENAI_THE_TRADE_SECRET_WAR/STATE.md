@@ -74,3 +74,7 @@ Rendered one source SVG (former VP002) at 1920x1080: technical render PASS, **ED
 - 79 source-pixel court-document excerpts from authentic original ECF1/59/97/143/175/176/177/188/189; 143 original editorial graphics rendered, including replacement of 137 generic draft designs with 12 alternate patterns; 8 clearly original editor graphics in place of rights-reserved company screenshots; 1 real licensed Commons Apple Park still; 8 contextual MP4 slots. Pexels V3 asset missing and substituted using V1 context, documented NOT true V3 source.
 - Full ECF188 and ECF189 signed PDFs NOW LOCATED; ECF188 actual p3 explicitly states ECF38 injunction motion deemed MOOT. ECF189 p3 confirms signed expedited-discovery stipulation.
 - Technical file presence, PNG 1920x1080 decode and MP4 1920x1080/25fps: **PASS 239/239**. Initial PDF crop VP001 and VP205 failed semantic review and were replaced with corrected original-page crops. Independent detailed rights/editorial approval **HOLD**; do not claim Stage13 final media/creative PASS or advance Stage14.
+
+
+## 2026-10-22 — Owner Stage13 REJECT / Stage13R rebuild plan
+Owner explicitly rejected the old asset package for irrelevant footage, mismatched repetitive PDF crops, vertical footage/false landscape, weak graphics and empty user-visible folders. Old ZIP and old VP media are rejected archival evidence ONLY, not DaVinci inputs. Stage13R 239-row full replacement map and source/rights pools now committed; ZERO new approved media yet. Approved locked Harrison master 972.36s, 60 master paragraphs, 4 Shorts remain unchanged.

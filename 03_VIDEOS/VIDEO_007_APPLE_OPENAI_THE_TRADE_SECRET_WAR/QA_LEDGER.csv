@@ -97,3 +97,7 @@
 "Q095","EDITOR_REDESIGN","137 unapproved generic SVG slides","REPLACED_RENDERED_CREATIVE_QC_HOLD","12 distinct original vector diagram styles, image outputs rendered; no complete independent/owner creative signoff"
 "Q096","SOURCE_CROP_ERRORS","VP001 and VP205 source pixels misframed","FIXED_TWO_FRAMES_OTHERS_REQUIRE_QC","True original PDF crops replaced; full 79 semantic location review outstanding"
 "Q097","STAGE13_FINAL_GATE","Full production-ready media acceptance","HOLD_CREATIVE_LEGAL","Technical file presence 239/239 PASS only; no absolute usage-rights clearance/owner creative PASS; no Stage14 advance"
+"Q098","OWNER_STAGE13_VISUAL_QC","Previous 239 assets technically decoded but owner rejects as irrelevant and repetitive","REJECT_SUPERSEDES_TECH_PASS","All previous actual output media quarantined; not to be imported; preserve script voice and source PDFs only"
+"Q099","STAGE13R_239_REPLACEMENT_MAP","All 239 source VP slots require explicit replacement decision","PASS_PLAN_ONLY","New 13R map 239/239, 60 scenes, 24309 frames; NEW media assets 0 approved"
+"Q100","VIDEO_HORIZONTAL_DIVERSITY","Existing stock video only 8 weak contextual cuts includes vertical","REJECT_LEGACY_NEW_RIGHTS_HOLD","65 planned native 16:9 real video slots across 24 topic pool leads; acquire 20+ distinct true source masters, reject blurry vertical filler"
+"Q101","ARCHIVE_NONEMPTY_STRUCTURE","User-reported empty crop and still folders","REJECT_REQUIRE_FILE_COUNT_QC","Check nonempty stills/crops/masters/cuts and exact file hash listing inside output ZIP before acceptance"

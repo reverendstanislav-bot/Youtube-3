@@ -5,12 +5,12 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE13_ALL_239_FILES_TECH_PASS_EDITORIAL_RIGHTS_HOLD"
+status: "STAGE13_REJECT_OWNER_VISUAL_FAILURE_13R_REBUILD_MAP_READY"
 created: "2026-10-16"
 last_updated: "2026-10-22"
-current_stage: "13_239_ASSET_FILES_TECH_PASS_CREATIVE_LEGAL_QC_HOLD"
-next_action: "Independently review each of the 239 actual decoded media files against narration and canon, verify 79 native court source crops and explicit editorial use rights, approve 143 redesigned graphics including phone readability, and approve source substitutions. Stage13 editorial rights PASS NOT YET GRANTED."
-blockers: ["Independent per-shot visual/story/legal and copyright fair-use review not complete", "79 source-native PDF excerpts require documentary crop-accuracy review; two obvious crop mistakes repaired", "137 redesigned editor graphics technical decode PASS but premium creative/QC owner signoff missing", "Pexels V3 slot substituted with V1 different-context visual; confirm fit or license proper V3", "Publisher rights for Pexels depicted marks/people, Commons CC BY-SA attribution and sharealike, court-party filings not cleared", "A02-P01 ASR manual pronunciation review", "Four Shorts complete render <=35s QC pending", "Stage16 fresh legal docket review pending"]
+current_stage: "13R_239_SHOT_REBUILD_MAP_COMPLETE_PREVIOUS_ASSETS_REJECT"
+next_action: "Execute 13R exact 239-row replacement plan: acquire 20+ source-authentic landscape videos and rights, native ECF line crops, original story-specific graphics and real stills; fill actual folders and run owner/independent QC. Do not reuse rejected previous Stage13 shots."
+blockers: ["OWNER REJECT: prior technically decodable 239 frames are irrelevant/repetitive and not production fit", "NEW 13R footage targets and rights not acquired", "NEW exact native ECF crops and photo assets not prepared", "NEW story-specific non-template graphics not rendered or approved", "Actual nonempty populated folders and checksum evidence required", "Stage13 independent rights/creative approval HOLD", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
@@ -33,17 +33,24 @@ stages:
   stage_13_external_binary_acquired: 12
   stage_13_external_media_detail: "6 original PDF + 5 original MP4 + 1 original Commons JPEG; only 5/8 candidate Pexels clips"
   stage_13_visual_render_pass: false
-  stage_13_complete_output_files: 239
+  stage_13_complete_output_files: 0
+  stage_13_rejected_previous_files: 239
+  stage_13_new_rebuild_plan_rows: 239
+  stage_13_new_required_real_native_landscape_videos: 65
+  stage_13_new_required_source_docs: 41
+  stage_13_new_required_original_gfx: 125
+  stage_13_new_required_authentic_stills: 8
+  stage_13_rebuild_map: "13R_239_REPLACEMENT_MAP.csv"
   stage_13_output_resolution: "1920x1080"
   stage_13_output_fps: 25
-  stage_13_technical_file_qc: "PASS_239_OF_239"
-  stage_13_creative_rights_qc: "HOLD"
+  stage_13_technical_file_qc: "LEGACY_PASS_INVALID_FOR_NEW_ASSET_APPROVAL"
+  stage_13_creative_rights_qc: "OWNER_REJECT_NEW_ASSETS_NOT_BUILT"
   stage_13_current_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/600ef278-49f9-4447-94ff-4a3234437730.zip"
   stage_13_png_render_technical_pass: 143
   stage_13_original_pdf_pages_rasterized: 6
   stage_13_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/9ed5e617-fac5-4c02-9bad-3c3bfc186f9a.zip"
   stage_13_asset_manifest: "13_ASSET_MANIFEST.csv"
-  stage_13_visual_asset_qc: "239_OF_239_OUTPUT_FILES_TECH_PASS_CREATIVE_EDITORIAL_RIGHTS_HOLD"
+  stage_13_visual_asset_qc: "OWNER_REJECT_PREVIOUS_239_13R_PLAN_PASS_ONLY"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -108,7 +115,7 @@ qa:
   voice_text_integrity: "PASS_60_OF_60_FIVE_SEGMENTS_EXACT"
   voice_audio: "PASS_OWNER_ACCEPTED_2026_10_22"
   transcript_timeline: "PASS_60_OF_60_ASR_SOURCE_ANCHORED_24309_FRAMES"
-  visual: "STAGE13_TECH_PASS_239_CREATIVE_AND_RIGHTS_HOLD"
+  visual: "REJECT_PREVIOUS_STAGE13_13R_MAP_PLANNED_ONLY"
   edit: "NOT_RUN"
 publish:
   scheduled_at: ""
