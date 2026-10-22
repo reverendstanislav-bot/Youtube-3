@@ -21,3 +21,7 @@ Chunk 05's first job `59b2676d-b818-43ea-9bd3-43b79712db02` produced a 774.57-se
 All five accepted WAVs are PCM s16le, 24 kHz, mono and pass `ffmpeg -v error -xerror` decoding. Faster-Whisper comparisons found no missing long narrative passage; ASR normalization differences and possible single-word recognition differences remain listening-review items.
 
 Human review must still confirm canonical Harrison timbre, listed pronunciations, joins and artifacts. Therefore Stage09 is not falsely marked final PASS and `locks.voice_input` remains false.
+
+
+## Direct-file independent signal QA — 2026-10-21
+User uploaded verified master WAV and it was decoded and directly measured. **SHA-256 identical to release, 653.13s, s16le/48kHz/mono, −16.2 LUFS, true peak −1.5 dBTP, zero clipped samples, no ≥1s near-silent gaps**; five sections have matching −16.1dBFS RMS. See `09_MASTER_INDEPENDENT_SIGNAL_QC.md` and `09_MASTER_BOUNDARY_SIGNAL_QC.csv` for five potential listening-watch boundaries. **Does not certify canonical Harrison voice identity, pronunciation, lack of audible splice defects, or ASR/Short timing**. Stage09/10 auditory lock remains HOLD.

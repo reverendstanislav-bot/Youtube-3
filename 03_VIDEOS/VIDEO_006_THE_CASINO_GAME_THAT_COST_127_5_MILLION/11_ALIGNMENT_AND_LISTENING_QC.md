@@ -19,3 +19,7 @@
 - Real audio timestamps for 51 scenes / Shorts: **HOLD**.
 - Final four <=30.0s full exports: **HOLD**.
 - G11 full runtime source-audio coverage: **NOT PROVEN**.
+
+
+## Update 2026-10-21: actual master uploaded / direct signal measurements obtained
+Original file unavailability statement above is historical: WAV bytes are now accessible and **direct signal QC passed**. See `09_MASTER_INDEPENDENT_SIGNAL_QC.md`. However no reliable full human timbre/pronunciation audition or local pretrained word-level ASR alignment was completed. Model-derived timestamps remain NON-CUTTABLE, four real Short cut fields remain BLANK and Stage11 G11 remains HOLD.

@@ -15,3 +15,7 @@
 The master uses the five accepted Stage09 chunks in locked order and inserts four 120 ms chapter pauses. Loudness normalization and 48 kHz conversion were applied after assembly. No narration was rewritten, cut or reordered.
 
 Stage10 assembly is complete at the technical level. Final audio lock remains pending human listening for Harrison identity, pronunciation, joins and artifacts; `locks.audio_master` remains false until that review.
+
+
+## Direct-file independent signal QA — 2026-10-21
+User uploaded verified master WAV and it was decoded and directly measured. **SHA-256 identical to release, 653.13s, s16le/48kHz/mono, −16.2 LUFS, true peak −1.5 dBTP, zero clipped samples, no ≥1s near-silent gaps**; five sections have matching −16.1dBFS RMS. See `09_MASTER_INDEPENDENT_SIGNAL_QC.md` and `09_MASTER_BOUNDARY_SIGNAL_QC.csv` for five potential listening-watch boundaries. **Does not certify canonical Harrison voice identity, pronunciation, lack of audible splice defects, or ASR/Short timing**. Stage09/10 auditory lock remains HOLD.

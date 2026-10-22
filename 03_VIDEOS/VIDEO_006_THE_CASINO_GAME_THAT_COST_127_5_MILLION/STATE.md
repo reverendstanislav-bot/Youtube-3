@@ -33,3 +33,7 @@ The Stage10 48 kHz mono master is 653.13 seconds, -16.2 LUFS, -1.5 dBTP, SHA-256
 
 ## 2026-10-21 — Stage11 source-mapped PRELIMINARY draft / hearing HOLD
 51 exact V5 paragraphs, 51 source-traced proposed scenes and 102 picture treatments committed in `11_TRANSCRIPT_PROVISIONAL.csv` and `11_VISUAL_TIMELINE_PROVISIONAL.csv`; 25fps **model-only** timings across reported 653.13s, NOT ASR verified. Four Short parents recorded in `11_SHORTS_CUT_MAP.csv` with REAL CUT FIELDS BLANK. Release binary unavailable in current assistant tools, so human Harrison A/B and word-level alignment remain HOLD. No generated media/credits, Stage11 not PASS and Stage12 not authorized. `11_ALIGNMENT_AND_LISTENING_QC.md` identifies exact local completion.
+
+
+## 2026-10-21 — MASTER BINARY NOW RECEIVED AND INDEPENDENT SIGNAL-QC PASSED
+The exact master WAV was attached to chat and its actual PCM analyzed: matching SHA-256; 31,350,240 frames, 653.13s, PCM16 48kHz mono, −16.2 LUFS, −1.5dBTP, zero hard clips and no near-silence run ≥1s at −42dBFS. See `09_MASTER_INDEPENDENT_SIGNAL_QC.md`. Prior notes about inaccessibility described the earlier tooling state and are now superseded for **technical signal QA only**. No reliable human Harrison A/B/per-word semantic audibility signoff or real ASR timestamps were produced; Stage09/10 voice/audio lock HOLD, Stage11 real timestamp HOLD. Four Shorts remain intact, no new generation.

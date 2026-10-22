@@ -1,0 +1,6 @@
+"boundary","master_sec","master_timecode","type","observed_transition","qc_status"
+"chapter_01_02","114.34","01:54.34","120ms chapter gap","incoming sample jump .02380 FS; quiet prior ~−69.5dBFS","SIGNAL_PASS_AUDITORY_OPEN"
+"chapter_02_03","251.08","04:11.08","120ms chapter gap","incoming sample jump .02383 FS; quiet prior ~−69.6dBFS","SIGNAL_PASS_AUDITORY_OPEN"
+"chapter_03_04","369.26","06:09.26","120ms chapter gap","incoming sample jump .02454 FS; quiet prior ~−69.4dBFS","SIGNAL_PASS_AUDITORY_OPEN"
+"chapter_04_05","489.36","08:09.36","120ms chapter gap","incoming sample jump .02234 FS; quiet prior ~−69.6dBFS","SIGNAL_PASS_AUDITORY_OPEN"
+"internal_chunk05_P046_P047","591.34","09:51.34","reconstructed fifth part, expected splice","incoming sample jump .02518 FS; prior 100ms RMS ~−40.6dBFS","SIGNAL_PASS_AUDITORY_REVIEW_NEEDED"
