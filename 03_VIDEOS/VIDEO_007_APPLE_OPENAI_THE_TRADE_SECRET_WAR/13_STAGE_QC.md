@@ -28,3 +28,10 @@
 6. Stage13 final QC should require actual usable visuals, not just source URLs, placeholder slides or template mockups.
 
 **Status:** Stage13 IN_PROGRESS_PARTIAL, 143 EDITABLE SVG SOURCES CREATED, 96 EXTERNAL ASSETS HELD. Stage14/15 montage NOT AUTHORIZED by this handoff.
+
+## Independent rendered-image editorial finding (2026-10-22)
+- A full-size **1920x1080 PNG render of the original VP002 SVG** was produced with Inkscape and visually inspected. **QC REJECT** for actual film use: headline and source statement repeated, bland uniform panel layout, and internal shot brief exposed as visible copy. XML decode passed, but that is NOT visual acceptance.
+- Six bespoke source-grounded SVGs replaced these targeted shots: VP002, VP005, VP119, VP170, VP207, VP220. Their design is individual event/diagram-first, but **final PNG render and owner editorial review remain pending**; do not claim visual PASS.
+- Remaining **137 generic SVG drafts explicitly require editorial redesign**, not automatic blind placement in DaVinci. They are a draft storyboard, not 137 visually approved video frames.
+- For the 96 non-GFX planned sources, PDF/MP4/JPEG binaries and native crops are still missing; source web browsing is not file acquisition.
+- Current overall verdict: **STAGE13 QC HOLD**. Actual approved visual shots: **0/239**. Produced editable SVG source drafts: **143**.

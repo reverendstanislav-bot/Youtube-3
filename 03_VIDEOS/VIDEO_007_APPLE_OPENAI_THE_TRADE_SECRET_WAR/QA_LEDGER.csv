@@ -84,3 +84,5 @@
 "Q082","STAGE13_RIGHTS","Eight Pexels media pages and CC BY-SA Commons photo","PAGE_LICENSE_CHECK_BINARY_HOLD","No actual videos or JPEG downloaded; media content, source hashes and individual rights pending"
 "Q083","STAGE13_SHORTS","4x9:16 graphic source coverage","SOURCE_GFX_CREATED_FINAL_RENDER_HOLD","Full master cuts unchanged, 35s final export unmeasured"
 "Q084","STAGE13_COST","Higgsfield/video/AI output","PASS_ZERO_PAID_JOBS","Only original editor-owned SVG markup generated, no charged model/API generation"
+"Q085","STAGE13_RENDERED_VISUAL_QC","One full size rendered baseline VP002 image","FAIL_EDITORIAL_GENERIC_DESIGN","Repeated generic labels and displayed production instruction text; replaced VP002 with bespoke source SVG pending new render QC"
+"Q086","STAGE13_VISUAL_LOCK","143 total SVG source files are not visually approved assets","HOLD_ZERO_APPROVED_FINAL","6 bespoke pending full render/editorial signoff, 137 generic storyboard drafts need redesign; 96 external assets not acquired"

@@ -56,3 +56,7 @@ Stage11 aligned the real accepted master with local Faster-Whisper word timestam
 - All 96 remaining external shots (party filings/court records/corporate sites/still/video) **HOLD**: source pages verified for core evidence, but actual binaries/crops unable to be acquired and checked. 8 Pexels URLs and license checked; 1 Wikimedia CC BY-SA 4.0 still checked, no original video/JPEG file downloaded.
 - New 239-row `13_ASSET_MANIFEST.csv`, verified excerpt locator, rights proof table, updated acquisition queue, Inkscape renderer script in repo `tools/render_video007_gfx.py`. NO paid generation, video, image TTS or audio changes.
 - `manifest.yaml` authority: Stage13 PARTIAL. No Stage14/15, Stage16 legal refresh still open.
+
+
+### Stage13 independent visual correction
+Rendered one source SVG (former VP002) at 1920x1080: technical render PASS, **EDITORIAL VISUAL REJECT** because bland repeated labels and raw direction text appeared on screen. Six pivotal visuals replaced with bespoke vector diagrams, awaiting render/QC; 137 other template SVGs are now explicitly STORYBOARD DRAFT, not production PASS. No full video source files acquired; true visual asset acceptance stays 0/239.

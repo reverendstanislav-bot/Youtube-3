@@ -29,7 +29,7 @@ def run():
         doc=ET.fromstring(raw)
         assert doc.attrib.get("viewBox")=="0 0 1920 1080",sf
         assert doc.attrib.get("width")=="1920" and doc.attrib.get("height")=="1080",sf
-        assert "NOT SOURCE PIXELS" in raw,f"Misleading source semantics {sf}"
+        assert "EDITOR GRAPHIC" in raw,f"Missing editor graphic source label {sf}"
         pf=out/(sf.stem+".png")
         if not args.check_only:
             cmd=["inkscape",str(sf),"--export-filename="+str(pf),"--export-width=1920","--export-height=1080"]
