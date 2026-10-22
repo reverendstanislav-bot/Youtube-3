@@ -36,9 +36,9 @@ stages:
   stage_13_complete_output_files: 0
   stage_13_rejected_previous_files: 239
   stage_13_new_rebuild_plan_rows: 239
-  stage_13_new_required_real_native_landscape_videos: 65
-  stage_13_new_required_source_docs: 41
-  stage_13_new_required_original_gfx: 125
+  stage_13_new_required_real_native_landscape_videos: 60
+  stage_13_new_required_source_docs: 47
+  stage_13_new_required_original_gfx: 123
   stage_13_new_required_authentic_stills: 8
   stage_13_rebuild_map: "13R_239_REPLACEMENT_MAP.csv"
   stage_13_output_resolution: "1920x1080"

@@ -78,3 +78,6 @@ Rendered one source SVG (former VP002) at 1920x1080: technical render PASS, **ED
 
 ## 2026-10-22 — Owner Stage13 REJECT / Stage13R rebuild plan
 Owner explicitly rejected the old asset package for irrelevant footage, mismatched repetitive PDF crops, vertical footage/false landscape, weak graphics and empty user-visible folders. Old ZIP and old VP media are rejected archival evidence ONLY, not DaVinci inputs. Stage13R 239-row full replacement map and source/rights pools now committed; ZERO new approved media yet. Approved locked Harrison master 972.36s, 60 master paragraphs, 4 Shorts remain unchanged.
+
+### Corrected narrative-first shot anchors
+Original primary pixels at VP001 ECF1, VP002 ECF176, VP117 ECF1 Actual parts, VP168 ECF176, VP205 ECF188, VP208 ECF189, VP216 ECF188 moot. S017 official partnership statement at VP019 is NOT a court ECF. SC008 original ECF1 allegation VP035. New media remains UNSOURCED / NOT APPROVED.

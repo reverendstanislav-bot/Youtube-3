@@ -26,3 +26,6 @@ No video generation, paid AI, license payment or credits without separate owner 
 
 ## Key factual source links
 Apple ECF1, OpenAI ECF59/97/143/176, Apple ECF177, signed ECF175/188/189 original court PDFs are indexed in SOURCE_INDEX.csv. Original 2024 partnership: https://openai.com/index/openai-and-apple-announce-partnership/; official Apple information: https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/. Press pages are historical FACT references, not licenses for reusing video footage.
+
+## Corrected high-stakes real evidence priority
+VP001 ECF1 complaint, VP002 ECF176 reverse claim, VP003 personal-account flow; VP019 true S017 2024 announcement, VP035 ECF1 Apple claim. VP117 source-native 'Actual parts' complaint, VP168 original ECF176 claim, VP205 ECF188 signed real order, VP208 ECF189 signed real order, VP216 ECF188 p3 exact moot clause. None may be generic irrelevant footage.
