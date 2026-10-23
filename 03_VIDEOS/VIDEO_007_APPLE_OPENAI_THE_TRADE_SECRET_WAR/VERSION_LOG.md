@@ -26,3 +26,5 @@
 | 2026-10-22 | Stage13R expanded footage source lock | 60 Pexels originals + 6 genuine nonoverlapping Apple WWDC24 excerpts | 66 actual landscape MP4, 22:28.12 raw duration, all SHA and format proofs, three confirmed cloud ZIPs. Footage source-only, copyright/scene-fit HOLD. | Source acquisition technical PASS, Stage13 visual rights REJECT/HOLD |
 
 | 2026-10-22 | Stage13R actual stock source collection and new picture strategy | 67 Pexels original MP4 + 6 actual Apple WWDC excerpts; 72 real stock photos | 239-shot stock-first plan with 136 video / 65 photo / 30 authentic document / only 8 one-off factual graphic slots, 24:57.62 gross footage. Original source archives uploaded; stage final editorial/legal QC HOLD. | SOURCE ACQUISITION PASS, PICTURE ACCEPTANCE HOLD |
+
+| 2026-10-23 | Stage13R Visual Source QC | 73 video file x 2 frames, 72 photos contact, 239 semantic shot decisions | 6 duplicate MP4 identified (61 unique Pexels), 5 low-quality REJECT, 6 720p HOLD, 64 unmatched video slots and 14 unmatched photos. 239 candidate decisions in CSV, original contact sheets in uploaded ZIP. | SOURCE VISUAL PRE-QC COMPLETED; FULL FILM FINAL QC REJECT/HOLD |
