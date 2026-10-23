@@ -5,11 +5,11 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE13_OWNER_REJECT_13R_66_REAL_VIDEO_SOURCES_TECH_PASS"
+status: "STAGE13R_STOCK_FIRST_MEDIA_ACQUIRED_73_VIDEO_72_PHOTOS_FINAL_PICTURE_QC_HOLD"
 created: "2026-10-16"
 last_updated: "2026-10-22"
-current_stage: "13R_66_NATIVE_HORIZONTAL_SOURCE_FILES_ACQUIRED_FINAL_VISUAL_RIGHTS_HOLD"
-next_action: "66 real native landscape source videos acquired (60 distinct Pexels IDs + 6 Apple WWDC24 excerpts from one event). Assess actual scene match and publisher rights, build approved 60 video placements (4:18.08), precise source docs and 123 individual graphics before Stage13 owner QC."
+current_stage: "13R_73_NATIVE_VIDEO_FILES_72_REAL_PHOTO_SOURCES_STOCK_FIRST_239_PLAN_QC_HOLD"
+next_action: "Source-first editing: 136 stock-video shots, 65 genuine photo shots, 30 original case document excerpts, only 8 purposeful editor graphics. Verify clip subject, rights and exact timed Harrison speech; previous 123 GFX plan is SUPERSEDED."
 blockers: ["OWNER REJECT: prior technically decodable 239 frames are irrelevant/repetitive and not production fit", "NEW 13R footage targets and rights not acquired", "NEW exact native ECF crops and photo assets not prepared", "NEW story-specific non-template graphics not rendered or approved", "Actual nonempty populated folders and checksum evidence required", "Stage13 independent rights/creative approval HOLD", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
@@ -44,7 +44,7 @@ stages:
   stage_13_output_resolution: "1920x1080"
   stage_13_output_fps: 25
   stage_13_technical_file_qc: "LEGACY_PASS_INVALID_FOR_NEW_ASSET_APPROVAL"
-  stage_13_creative_rights_qc: "OWNER_REJECT_NEW_ASSETS_NOT_BUILT"
+  stage_13_creative_rights_qc: "STOCK_SOURCE_ACQUIRED_ALL_239_TIMED_PICTURE_QC_HOLD"
   stage_13_current_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/600ef278-49f9-4447-94ff-4a3234437730.zip"
   stage_13_png_render_technical_pass: 143
   stage_13_original_pdf_pages_rasterized: 6
@@ -151,3 +151,17 @@ stage13r_additional_24_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/use
 stage13r_official_apple_6_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/09059f5c-2bd8-40a4-8a1c-0c7a2533e7da.zip"
 stage13r_source_format_video_qc: "PASS_66_OF_66"
 stage13r_scene_match_and_rights_video_qc: "HOLD"
+
+# Stage13R 2026-10-22 stock-first direction
+stage13r_stock_video_original_pexels_count: 67
+stage13r_authentic_apple_wwdc2024_segments: 6
+stage13r_independent_apple_wwdc_source_masters: 1
+stage13r_real_stock_photo_count: 72
+stage13r_stock_first_picture_plan: "13R_239_STOCK_FIRST_MAP_COMPACT.csv"
+stage13r_planned_real_video_inserts: 136
+stage13r_planned_real_photo_inserts: 65
+stage13r_planned_original_document_excerpts: 30
+stage13r_planned_exception_editor_graphics: 8
+stage13r_stock_photos_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/3ad6fcd7-24a7-4fa6-9ab5-9301f0d65b91.zip"
+stage13r_more_real_horizontal_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/50c0997a-ab55-49aa-a3b2-f5ada4e304f4.zip"
+stage13r_final_picture_qc: "HOLD"

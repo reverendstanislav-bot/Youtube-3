@@ -24,3 +24,5 @@
 | 2026-10-22 | Stage13R horizontal real footage expansion | 36 horizontal native MP4 sources / 573.9s | 30 new unique files acquired; full source archive 274MB with checksums/frame contact sheet; official Apple/OpenAI event video and individual script relevance/copyright use review still missing. | 36 SOURCE FORMAT PASS, 0 FINAL SHOT RIGHTS/CONTENT PASS |
 
 | 2026-10-22 | Stage13R expanded footage source lock | 60 Pexels originals + 6 genuine nonoverlapping Apple WWDC24 excerpts | 66 actual landscape MP4, 22:28.12 raw duration, all SHA and format proofs, three confirmed cloud ZIPs. Footage source-only, copyright/scene-fit HOLD. | Source acquisition technical PASS, Stage13 visual rights REJECT/HOLD |
+
+| 2026-10-22 | Stage13R actual stock source collection and new picture strategy | 67 Pexels original MP4 + 6 actual Apple WWDC excerpts; 72 real stock photos | 239-shot stock-first plan with 136 video / 65 photo / 30 authentic document / only 8 one-off factual graphic slots, 24:57.62 gross footage. Original source archives uploaded; stage final editorial/legal QC HOLD. | SOURCE ACQUISITION PASS, PICTURE ACCEPTANCE HOLD |
