@@ -5,12 +5,13 @@ title: "Apple Accused OpenAI of Stealing Secrets. Then Everything Reversed."
 topic_id: "T011"
 pillar: "TRADE_SECRETS_AI_HARDWARE"
 priority: "7"
-status: "STAGE13R_SOURCE_PRE_QC_COMPLETE_OWNER_RELEASE_REJECT_HOLD"
+status: "IN_PREPARATION"
 created: "2026-10-16"
-last_updated: "2026-10-22"
-current_stage: "13R_ACTUAL_SOURCE_VISUAL_QC_DONE_FINAL_239_PICTURE_QC_HOLD"
-next_action: "Use Stage13R visual QC actual source ledger: remove 6 aliased duplicate Pexels MP4, reject 5 soft/dark, review 6 low-res sources, fix 64 video and 14 photo unavailable shot matches; create exact 30 court evidence crop shots and 8 story-specific graphics and review final full 239 picture cuts before Stage14. Apple keynote copyright HOLD."
-blockers: ["OWNER REJECT: prior technically decodable 239 frames are irrelevant/repetitive and not production fit", "NEW 13R footage targets and rights not acquired", "NEW exact native ECF crops and photo assets not prepared", "NEW story-specific non-template graphics not rendered or approved", "Actual nonempty populated folders and checksum evidence required", "Stage13 independent rights/creative approval HOLD", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
+last_updated: "2026-10-25"
+last_case_status_refresh: "2026-10-17"
+current_stage: "13R_EDIT_READY_ASSET_PACKAGE_TECH_PASS_RIGHTS_OWNER_HOLD"
+next_action: "Owner real-time picture review against locked Harrison; resolve 37 semantic-match HOLD rows, Apple WWDC permission/fair-use, document reuse and per-file attribution/restrictions before Stage14."
+blockers: ["37 slot assignments remain semantic-match HOLD", "Apple WWDC copyright/fair-use decision required", "Court-document editorial reuse review required", "Commons/Pexels per-file attribution, brand and depicted-person restrictions require final review", "Owner real-time playback review against Harrison not completed", "Four Shorts later export QC, A02-P01 ASR phoneme check, Stage16 docket refresh"]
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED"
   stage_01_evidence_research: "PASS_CORE_WITH_BOUNDED_SOURCE_HOLDS"
@@ -115,7 +116,7 @@ qa:
   voice_text_integrity: "PASS_60_OF_60_FIVE_SEGMENTS_EXACT"
   voice_audio: "PASS_OWNER_ACCEPTED_2026_10_22"
   transcript_timeline: "PASS_60_OF_60_ASR_SOURCE_ANCHORED_24309_FRAMES"
-  visual: "STAGE13_REJECT_PARTIAL_REBUILD_ORIGINALS_ACQUIRED_FINAL_QC_HOLD"
+  visual: "STAGE13R_EDIT_READY_PACKAGE_TECH_PASS_RIGHTS_OWNER_REVIEW_HOLD"
   edit: "NOT_RUN"
 publish:
   scheduled_at: ""
@@ -165,6 +166,21 @@ stage13r_planned_exception_editor_graphics: 8
 stage13r_stock_photos_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/3ad6fcd7-24a7-4fa6-9ab5-9301f0d65b91.zip"
 stage13r_more_real_horizontal_video_archive: "https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/50c0997a-ab55-49aa-a3b2-f5ada4e304f4.zip"
 stage13r_final_picture_qc: "HOLD"
+stage13r_final_assets_release: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video007-stage13r-final-assets-20261025"
+stage13r_final_assets_direct_zip: "https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video007-stage13r-final-assets-20261025/VIDEO007_STAGE13R_FINAL_ASSETS.zip"
+stage13r_final_assets_zip_bytes: 917765000
+stage13r_final_assets_zip_sha256: "7c6a9ad74c12763f32a33b2dad343b9b920fa8d1e709ae1f6eb46c5b36ff3ee4"
+stage13r_final_assets_zip_entries: 261
+stage13r_final_assets_crc_read_test: "PASS"
+stage13r_final_manifest_rows: 239
+stage13r_final_manifest_frame_coverage: "PASS_0_TO_24309_CONTIGUOUS"
+stage13r_final_pexels_masters_accepted: 50
+stage13r_final_apple_wwdc_segments_rights_hold: 6
+stage13r_final_edit_cuts_1080p25: 56
+stage13r_final_real_photos_plus_courthouse_reference: 73
+stage13r_final_exact_document_crops: 30
+stage13r_final_bespoke_diagrams: 8
+stage13r_final_semantic_match_hold_slots: 37
 
 # October 23 visual source review (NOT final film picture review)
 stage13r_pexels_unique_master_sha: 61

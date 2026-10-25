@@ -2,6 +2,8 @@
 
 **Stage07 Script Lock PASS. Stage08 Voice Script PASS. Stage09 preparation PASS; audio QA/Voice Lock has not run.** GitHub remains the source of truth.
 
+**Status: `IN_PREPARATION`. Canonical current stage (2026-10-25): `13R_EDIT_READY_ASSET_PACKAGE_TECH_PASS_RIGHTS_OWNER_HOLD`.** The physical Stage13R archive, timeline coverage, decode, ZIP integrity and matching GitHub digest pass. Final picture, rights and owner real-time playback approval remain HOLD; Stage14 has not started.
+
 ## Verified input
 
 - `07_SCRIPT_FINAL.md`: 60 locked spoken paragraphs.
@@ -185,3 +187,12 @@ Pexels license: https://www.pexels.com/license/ permits free commercial reuse su
 
 ## 2026-10-23 — REAL SOURCE VISUAL QC INDEPENDENT REBUILD
 **2026-10-23 Stage13R actual source visual PRE-QC:** Reviewed two real sample frames from each of 73 MP4s and contact sheets for all 72 true photographs; verified 6 identical duplicate Pexels media files (61 unique Pexels video masters), 5 unusably soft/dark originals, 6 lower-res native 720p footage holds, 6 Apple WWDC excerpts from one copyrighted source all under rights HOLD. 50 Pexels visually plausible GENERAL context candidate files, not case event footage. Photos: 41 distinct contextual candidates, 25 very similar subjects HOLD, 2 identifiable people context HOLD, 4 location/date-specific sources. 239-row editorial source-match ledger: 64 planned video slots and 14 still slots have no defensible media candidate; 30 native word-locked court excerpt shots and 8 fact diagrams require creative/legal signoff. **0 final VP shots PASS.** [QC source contact sheets, individual verdicts and 239-slot ledger ZIP](https://d2ol7oe51mr4n9.cloudfront.net/user_3KfJBJG9d4fKmhfgQcZhmVmPdh1/6a8e2d59-3c0e-4a52-a0d1-90ce26b0b117.zip). [239-shot source QC CSV](13R_SOURCE_QC_239_SHOTS.csv); [full source QC report](13R_EDITORIAL_VISUAL_QC_REPORT.md). This is NOT playback verification of an actual final movie.
+
+## 2026-10-25 — Stage13R physical edit-ready package
+
+- Final archive: https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video007-stage13r-final-assets-20261025/VIDEO007_STAGE13R_FINAL_ASSETS.zip
+- Local and GitHub server SHA-256: `7c6a9ad74c12763f32a33b2dad343b9b920fa8d1e709ae1f6eb46c5b36ff3ee4`; bytes `917765000`; 261 ZIP entries; complete CRC/read test PASS.
+- Physical media: 50 accepted-format unique Pexels masters, 6 Apple WWDC segments isolated in COPYRIGHT HOLD, 56 decoded 1920x1080/25fps cuts, 72 source photos plus one correctly identified FJC/GSA courthouse reference, 9 original PDFs, 30 exact source-term crops, 8 bespoke SVG+PNG diagrams and 12 visually reviewed contact sheets.
+- `13R_FINAL_SHOT_MANIFEST.csv`: 239 rows, physical path exists for every row, contiguous full coverage from frame 0 through exclusive frame 24309. Legal beats formerly misclassified as generic stock were reassigned to authentic ECF excerpts; the 14 missing courthouse slots now use the correctly identified Robert F. Peckham courthouse reference with explicit resolution/reuse HOLD.
+- No AI image/video generation; locked Harrison audio, script, frame count and four Shorts unchanged.
+- Technical asset/package gate PASS. Final picture/legal/owner real-time review remains HOLD: Apple fair-use/permission, document reuse, per-file attribution/brand/subject restrictions, 37 semantic-match rows and real-time review against narration are unresolved. Stage14 remains blocked.
