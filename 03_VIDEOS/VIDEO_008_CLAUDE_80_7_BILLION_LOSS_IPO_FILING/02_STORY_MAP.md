@@ -56,4 +56,7 @@ SH01 A02 — the $80.748B GAAP versus $693M operating loss. SH02 A05 — **$125.
 - IPO price/share number and completion uncertain. Financial figures attributed issuer unaudited interim, not SEC certified.
 
 ## Scope QC and Stage03 stop
-This is **Stage02 PASS_PLAN_WITH_DOCUMENTARY_SOURCE_HOLDS**, backed by SEC searchable primary financial/risk excerpts plus original smaller SEC EX4.4/4.5/10.14/99.1/99.2. Full 14.17MB main S-1 document could not be downloaded as a single local source with available tools, so **no end-to-end SEC file audit is claimed**. Stage03 remains BLOCKED pending full material note/F-12 original confirmation or permanent exclusion of dependent claims plus independent fact/legal script review. No paid work, assets or VO generated.
+This is **Stage02 PASS_PLAN_WITH_DOCUMENTARY_SOURCE_HOLDS**, backed by SEC searchable primary financial/risk excerpts plus original smaller SEC EX4.4/4.5/10.14/99.1/99.2. Full 14.17MB main S-1 document could not be downloaded as a single local source with available tools, so **no end-to-end SEC file audit is claimed**. Stage03 is eligible for owner request ONLY within the source-verified active claim set after permanent exclusions in Stage01 G01 R4. Additional F-12 or unreviewed broader deal claims remain blocked until primary proof. No paid work, assets or VO generated.
+
+## Stage01 G01 R4 update 2026-10-26
+Stage01 now has G01 PASS for the NARROW VERIFIED claim set only. Full SEC S1 raw binary not saved or reviewed. Reconstructed 02_BEAT_MAP.csv A03-B04, A05-B05 and A08-B05 to remove excluded F12 CFO, unverified computed company-wide obligations and FTC executive testimony. Script can be authorized by owner under those constraints; no automatic stage progression.

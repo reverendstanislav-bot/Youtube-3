@@ -19,3 +19,6 @@ The specific Broadcom March2026 2026 Lease Arrangement SEC-reported rent = appro
 
 ## R3: official source-index recheck 2026-10-26
 Financial original SEC S-1 indexed income-statement primary text independently numerically recomputed: 16286-16979=-693; -693+1111-72388-8757-21=-80748 (USD million, H1 to June 30 2026). Prospectus issuer aggregate compute spend remains blank; 2026 Broadcom specific five-year rent ~$125.2B ex interest confirmed in SEC risk excerpt; no $637B company-wide official aggregate or $161.2B 2026-lease attribution. October FTC civil investigative demand is a company report in S1 only. F12 original and FTC original demands not acquired. Refer `01_S1_DIRECT_SOURCE_RECHECK_R3.md`.
+
+## G01 R4 final signoff for SCRIPTABLE CLAIMS
+PASS_SOURCE_SCOPED only. SEC official financial statement arithmetic and named contract/governance evidence checked. SEC preliminary aggregate total blank; avoid third party totals. Full original 14MB binary NOT acquired. CLM008/010/011/012/022/033/039 EXCLUDED from script because F12/full note details, cohort context or original FTC personal demand were not authenticated. 2026 Broadcom $125.2B specific five-year lease vs broader secondary $161.2B aggregate not fully reconciled; do not call the latter necessarily fabricated, only exclude from narrative. Stage04 independent factual script audit required.

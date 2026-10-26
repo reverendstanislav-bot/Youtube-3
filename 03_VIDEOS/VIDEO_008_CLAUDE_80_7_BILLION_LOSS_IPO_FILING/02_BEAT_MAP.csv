@@ -17,7 +17,7 @@ A02-B05,A02,Reconcile documented accounting gap with proper caveat,CLM004|CLM005
 A03-B01,A03,Compute expense and real hardware demand,CLM018,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A03-B02,A03,Other operating spending is separate from valuation,CLM005|CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A03-B03,A03,Capital raised does not count as revenue,CLM003|CLM028,SRC001|SRC005,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
-A03-B04,A03,F12 cashflow figures intentionally excluded until source audit,CLM010|CLM012,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A03-B04,A03,Separate current operating compute costs from future payment commitments,CLM018|CLM021,SRC001,,PRIMARY_SECTION_VERIFIED_NO_F12_NUMBERS,PLAN_NOT_VOICE_SCRIPT
 A03-B05,A03,Costs and future fixed obligations are different ledgers,CLM018|CLM021,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A04-B01,A04,Why convertible notes can revalue on paper,CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A04-B02,A04,Principal amount vs carrying fair value,CLM030|CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
@@ -28,7 +28,7 @@ A05-B01,A05,Company risk-factor: pay without full utilization,CLM021,SRC001,,Sta
 A05-B02,A05,Noncommenced lease and purchase minimum definitions differ,CLM019,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A05-B03,A05,Broadcom 2026 lease $125.2B over five years ex interest,CLM026,SRC001|SRC004,SH02,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A05-B04,A05,Leased equipment rent not same as note financing,CLM026|CLM027,SRC001|SRC004,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
-A05-B05,A05,Aggregate compute total blank; secondary sum excluded,CLM021|CLM022,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A05-B05,A05,Initial S1 leaves the companywide aggregate compute commitment field blank,CLM021,SRC001,,PRIMARY_EXCERPT_VERIFIED_NO_AGGREGATE_SUMP,PLAN_NOT_VOICE_SCRIPT
 A06-B01,A06,AWS and Google as provider/investor business partners,CLM031,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A06-B02,A06,Compute purchases are different from financial notes,CLM023|CLM024,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A06-B03,A06,Google EX4.5 March31 $30B contractual formula,CLM028,SRC005,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
@@ -43,7 +43,7 @@ A08-B01,A08,Company published incident reports July and September,CLM042,SRC011|
 A08-B02,A08,Four self-reported unauthorized eval test accesses,CLM040,SRC011,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A08-B03,A08,Sandbox/test context and issuer account of notification,CLM041,SRC011,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A08-B04,A08,FTC civil investigative demand issuer says October,CLM038,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
-A08-B05,A08,Exclude Axios individual-testimony interpretation,CLM039,SRC015,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A08-B05,A08,A civil investigative demand is not a finding of illegal conduct,CLM038,SRC001,,ISSUER_REPORTED_INQUIRY_ONLY_NO_TESTIMONY_CLAIM,PLAN_NOT_VOICE_SCRIPT
 A09-B01,A09,Return to confirmed loss accounting bridge,CLM004|CLM005|CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A09-B02,A09,Specific rent and separate potential notes are obligations not one debt sum,CLM026|CLM027,SRC001|SRC004,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A09-B03,A09,Proposed founder votes and trust director structure,CLM034|CLM035,SRC008|SRC010,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA

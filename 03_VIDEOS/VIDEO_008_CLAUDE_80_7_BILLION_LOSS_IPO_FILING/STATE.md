@@ -27,3 +27,6 @@ Source-bounded 10-act narrative plan PASS, 18:50 provisional runtime, four nativ
 
 ## Stage01 R3 source audit update — 2026-10-26
 Verified income-statement arithmetic in SEC-original indexed text, March Broadcom $125.2B five-year rent, pre-price S1 blanks and company-reported FTC CID. Full 14MB original HTML still NOT downloaded; F12/source footnotes and original FTC demand remain HOLD. New `01_S1_DIRECT_SOURCE_RECHECK_R3.md` documents evidence grades and failed acquisition. **Do not claim FULL Stage01 PASS; Stage02 narrative plan unchanged; Stage03 NOT_STARTED.**
+
+## Stage01 final G01 review R4, 2026-10-26
+**G01 PASS FOR SOURCE-VERIFIED ACTIVE CLAIM SET.** Original 14.17MB SEC file was NOT downloaded end-to-end and must NEVER be called fully reviewed. Claim scope strictly excludes original-F12-dependent cashflow/FCF, third-party provider aggregate, broadly reported $161.2B Broadcom group total and Axios FTC testimony. One specific 2026 Broadcom five-year lease ~$125.2B is SEC excerpt verified; $42B separate conditional note program. QA001 is **nonblocking archival residual**, not closed original-file acquisition. See 01_G01_FINAL_GATE_PASS_R4.md. Three Stage02 beats rewritten to remove excluded claims. Stage03 may be requested by owner only, and Stage04 independent fact/legal QC mandatory. Paid jobs zero.
