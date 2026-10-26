@@ -1,0 +1,2 @@
+event_id,date,case_name,docket_number,court_or_agency,event_type,party,description,outcome,source_id,appeal_status,current_status,notes
+EVT001,2026-10-26,Anthropic IPO,0001628280-26-067168,SEC,S1_FILED,Anthropic PBC,Initial public S-1 accepted,Proposed offering disclosed; not priced or effective,SRC002,N_A,PROPOSED,SEC filing not litigation verdict

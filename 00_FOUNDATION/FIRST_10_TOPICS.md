@@ -1,14 +1,14 @@
 # First 10 Topics Lock
 
-Status: **PARTIALLY LOCKED — FIRST 7 OWNER-LOCKED / 8–10 PENDING REVIEW**
+Status: **PARTIALLY LOCKED — FIRST 8 OWNER-LOCKED / 9–10 PENDING REVIEW**
 
-Updated on: 2026-10-16
+Updated on: 2026-10-26
 
 This file is the canonical launch-slate record for WHAT IT COST.
 
 Important:
-- Slots 1–7 are owner-approved and locked (initial Launch 5 unchanged; VIDEO006 and VIDEO007 owner-approved).
-- Slots 8–10 are not final yet.
+- Slots 1–8 are owner-approved and locked (initial Launch 5 unchanged; VIDEO006 and VIDEO007 owner-approved).
+- Slots 9–10 are not final yet.
 - Every topic still has to pass Stage 00 before package creation. T007 and T008 have passed.
 - VIDEO_001 exists because T007 passed Stage 00.
 - VIDEO_002 exists because T008 passed Stage 00 on 2026-09-25 (GO — 93/100).
@@ -87,7 +87,15 @@ Guardrail:
 
 **Legal lock:** Apple complaint July 10 ECF1; judge's limited expedited discovery Oct13 ECF175; OpenAI Oct14 case management supplement ECF176 alleges 100+ confidential file transfers by a former employee returning to Apple. ECF176 mentions *potential* counterclaims; **no actual counterclaim in ECF176**. No proven theft, judgment or dollar loss. Stage01 source research still required.
 
-## Slots 8–10 — not yet locked
+## Owner-locked slot 08
+
+| # | Topic ID | Company | Working angle | Pillar | Status |
+|---|---|---|---|---|---|
+| 08 | T013 | Anthropic / Claude | **Claude Reported an $80.7 Billion Loss. But Look Closer.** | AI_IPO_FINANCIAL_GOVERNANCE | OWNER_LOCKED / STAGE00 GO 88.6 / STAGE01 NOT_STARTED |
+
+**Accounting and legal lock (2026-10-26):** SEC initial S-1 accession 0001628280-26-067168; H1 net loss $80.748B includes $72.388B fair-value changes, operating loss $693M. **Not cash burned; IPO proposed, not completed.** Stage01 requires separate owner instruction.
+
+## Slots 9–10 — not yet locked
 
 Current second-wave candidate pool:
 - T003 — Suno;
@@ -116,7 +124,7 @@ It can return later if:
 
 Launch 5 membership and order are locked until the owner explicitly changes them.
 
-Slots 8–10 remain editable; slots 06–07 are owner-locked.
+Slots 9–10 remain editable; slots 06–08 are owner-locked.
 
 ## Active next gate (VIDEO007)
 
