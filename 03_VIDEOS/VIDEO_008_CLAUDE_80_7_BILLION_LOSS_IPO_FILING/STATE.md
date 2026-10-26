@@ -1,15 +1,18 @@
-# VIDEO008 — State
+# VIDEO008 — Current state (2026-10-26)
+**Owner-approved topic:** Anthropic / Claude SEC IPO S-1 | Title: Claude Reported an $80.7 Billion Loss. But Look Closer.
+**Status:** IN_PREPARATION · current **Stage01 Evidence Research**.
+**Stage00:** PASS_GO 88.6/100.
+**Stage01:** **RESEARCH_DELIVERED, SOURCE-SCOPED FACT QC WITH HIGH HOLDS. NOT FULL PASS; Stage02 BLOCKED.**
+- 15 indexed research sources, 44 classified material claims and 18 events/financial timeline anchors.
+- Full finance bridge, compute contracts, governance/control and security/regulation risk reviewed; source pointers and express guardrails recorded.
+- SEC original main S-1 14,169,143 bytes exceeds browser extraction limit. Main S-1 indexed excerpts and separate SEC-original EX-4.4/4.5/4.6/4.7/10.14/99.1/99.2 used; full-file byte audit not done.
+- F-7 net loss $80.748B; F-7 operating loss $693M; F-12 OCF **+3.929B** and $72.388B derivative/note fair-value expense. Do not say $80B cash burned.
+- Filing p169 overall compute commitment total left blank; analyst computed $637B not direct issuer total.
+- Class F 50.1% general shareholder vote of seven founders vs Class T LTBT majority director election, post-IPO conditional.
+- FTC October civil investigative demand is **an inquiry**, Axios Oct26 report on executive testimony is secondary; no wrongdoing judgment.
+- Four security evaluation incidents originally disclosed July and September; no evidence general production incidents or company criminal liability.
 
-## Status
-**READY_FOR_RESEARCH / Stage 00 PASS GO / Owner locked October 26, 2026.**
-Working title: Claude Reported an $80.7 Billion Loss. But Look Closer.
-Video ID immutable: 008; Topic ID: T013; score 88.6/100.
+## HOLD to complete Stage01
+Read full SEC S-1 direct and all material footnotes/contract applicability, reconcile aggregate noncancelable/contingent compute numbers, original FTC legal document if available, governance post-IPO clauses, independent financial reviewer or transparently preserve limitation. See `01_INDEPENDENT_FACT_QC.md`.
 
-## Verified source facts
-SEC S-1 Oct 26 filing, accession 0001628280-26-067168. H1 2026 revenue $16.286B, GAAP net loss $80.748B, operating loss $693M, fair-value line ($72.388B). Do not equate net loss with cash burned. Nasdaq ANT planned; no completed or priced IPO.
-
-## Next action
-Stage01 Evidence Research **requires new owner direction**. Confirm full SEC statement, footnotes/exhibits, capitalization, risks, chronology, current offering status and legal nuance; build complete source/claim/event ledgers.
-
-## Blocks
-Stage01 NOT_STARTED, independent financial/accuracy audit NOT_RUN, competitor comparison NOT_RUN, rights/media QC NOT_RUN. Audio/script/graphics/Shorts NOT_STARTED. Zero paid generation authorized/spent.
+**Next possible owner instruction:** close remaining Stage01 research holds. Do not initiate Stage02 until proper PASS; all media, scripts, voice and 4 Shorts unproduced; paid spend zero.
