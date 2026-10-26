@@ -1,1 +1,19 @@
 sequence,date,event_id,narrative_role,verified_status,source_ids,notes
+1,2021,EVT001,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+2,2023-06-29,EVT002,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC009,Event occurrence date not necessarily first public disclosure date
+3,2023-09-19,EVT003,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+4,2024-11-22,EVT004,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+5,2026-01,EVT005,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+6,2026-03-31,EVT006,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC005,Event occurrence date not necessarily first public disclosure date
+7,2026-03-31,EVT007,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC004,Event occurrence date not necessarily first public disclosure date
+8,2026-05-04,EVT008,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+9,2026-05,EVT009,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+10,2026-05_to_06,EVT010,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+11,2026-06-08,EVT011,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+12,2026-06-30,EVT012,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+13,2026-07-30,EVT013,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC012,Event occurrence date not necessarily first public disclosure date
+14,2026-09-09,EVT014,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC011,Event occurrence date not necessarily first public disclosure date
+15,2026-09-30,EVT015,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+16,2026-10,EVT016,FLASHBACK,RESEARCH_SOURCE_SCOPED,SRC001,Event occurrence date not necessarily first public disclosure date
+17,2026-10-26,EVT017,OPEN_AND_CLOSE,RESEARCH_SOURCE_SCOPED,SRC002,Event occurrence date not necessarily first public disclosure date
+18,2026-10-26,EVT018,EXCLUDE,SECONDARY_UNCONFIRMED,SRC015,Event occurrence date not necessarily first public disclosure date
