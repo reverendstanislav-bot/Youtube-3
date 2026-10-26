@@ -24,3 +24,6 @@ Specific Broadcom 2026 Lease Arrangement rent **$125.2B**, not prior $161.2B att
 Source-bounded 10-act narrative plan PASS, 18:50 provisional runtime, four native Shorts SH01 A02 SH02 A05 SH03 A06 SH04 A07. Chronological `02_TIMELINE.csv` and `02_STORY_MAP.md` written, `02_STAGE_QC.md`. Stage03 BLOCKED pending direct original financial note proof or exclusions and independent script QC. No script/audio/media/generations created.
 
 2026-10-26 Stage02 traceability addendum: 02_BEAT_MAP.csv now exactly 50 individually sourced proof beats; four Shorts each pinned to one beat. No VO, credit, imagery, or new stage.
+
+## Stage01 R3 source audit update — 2026-10-26
+Verified income-statement arithmetic in SEC-original indexed text, March Broadcom $125.2B five-year rent, pre-price S1 blanks and company-reported FTC CID. Full 14MB original HTML still NOT downloaded; F12/source footnotes and original FTC demand remain HOLD. New `01_S1_DIRECT_SOURCE_RECHECK_R3.md` documents evidence grades and failed acquisition. **Do not claim FULL Stage01 PASS; Stage02 narrative plan unchanged; Stage03 NOT_STARTED.**
