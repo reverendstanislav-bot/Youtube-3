@@ -39,3 +39,13 @@ This is independently *source-cross-checked* second-pass criticism by the curren
 
 ## Gate
 Stage01 research inventory complete and honest; QA blocks CLOSE pending direct full-S1 artifact/read, finance footnotes and commitments double-count controls. Preserve Stage00 lock, no script Stage02, no paid jobs.
+
+
+## Corrective QC R2 (2026-10-26) — adversarial documentary exceptions
+1. **MATERIAL CORRECTION:** the primary SEC risk-factor excerpt identifies **$125.2B five-year rent excluding interest for 2026 Broadcom Lease Arrangement**. The R1 $161.2B assignment to that lease is not justified. REJECT previous CLM026 and accept corrected CLM026. The distinct Broadcom note facility max **$42B** is not a cash draw; SEC EX-4.4 §2.1 confirms conditional rent-linked note issuance.
+2. **SOURCE_LIMITATION:** direct original main 14.17MB source cannot be fully downloaded with currently available reader; verify only actual SEC-returned excerpts and direct exhibits, DO NOT call full-file independent PASS. Restrict Stage02 to sourced core F-7 financial table and native contract/governance statements; F-12 OCF, note bridge subtleties and unknown lease total remain explicit HOLD FOR STAGE03 CLAIMS.
+3. **COMMITMENT CLEANUP:** exclude journalist $637B total (CLM022 HOLD) and all sums mixing lease-not-started, future purchases and subsequent agreements. One contract $125.2B is bounded and supported; general fixed take-or-pay exposure supported by SEC risk-factor original excerpts.
+4. **REGULATORY CLEANUP:** official S-1 states October 2026 FTC civil investigative demand. No original FTC investigative demand/testimony document obtained. Exclude unverified Oct26 compulsory personal testimony (CLM039) from approved narrative; no allegation upgraded to violation.
+5. **GOVERNANCE CLEANUP:** EX-10.14 §2.2/2.5 special Class T director requires approval and post-IPO effectiveness. This is a major caveat to earlier shorthand about trust choosing all board seats.
+
+**QC decision: PASS_SOURCE_SCOPED_FOR_STAGE02_STORY_MAP_WITH_EXCLUSIONS; NOT FULL_FILE_CLEARED.** Core storyline can be planned without those prohibited specifics; Stage03 Script V1 must be blocked until primary original full cashflow/footnote evidence or remove all dependent claims from draft. No external human reviewer was employed. The official document is public; inability to download locally is technical and not falsely described as evidentiary proof of a missing filing.

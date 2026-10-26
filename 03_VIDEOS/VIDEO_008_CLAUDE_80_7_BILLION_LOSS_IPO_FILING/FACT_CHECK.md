@@ -13,3 +13,6 @@
 - No script/visual claim release authorized.
 
 Full HIGH and MEDIUM holds: `01_INDEPENDENT_FACT_QC.md` and `QA_LEDGER.csv`. Stage16 fresh amendment/claims refresh remains mandatory.
+
+## R2 correction and Stage02 scope gate
+The specific Broadcom March2026 2026 Lease Arrangement SEC-reported rent = approximately **$125.2B excluding interest over five years**; previous 161.2B attribution rejected. Distinguish $42B possible debt notes facility. Combined provider aggregate blank in public preliminary S-1. F-12 cashflow +$3.929B not narration-locked until original directly read; other financial adjustments $8.720B and inferred FCF excluded pending direct Note reconciliation. Company-reported FTC CID only; secondary testimony report excluded. Stage02 planning permitted with exclusions; full primary file audit and detailed statements remain script gate.

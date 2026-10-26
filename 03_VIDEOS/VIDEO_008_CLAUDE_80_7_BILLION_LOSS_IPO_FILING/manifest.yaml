@@ -9,12 +9,12 @@ status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-26"
 current_stage: "01_EVIDENCE_RESEARCH"
-next_action: "Complete Stage01 HIGH source/QC holds before Stage02: full S1 original, contract totals/reconciliation, FTC originals, governance conditional terms."
-blockers: ["Main S1 14MB original not fully machine-extracted", "Exact financing and lease aggregation needs full SEC footnote audit", "Original FTC testimony/CID documents unavailable", "Independent financial/legal human or separate reviewer signoff not performed"]
+next_action: "Produce Stage02 bounded story map using only verified SEC excerpt / original exhibit claims; do not include excluded figures; Stage03 gated by direct F12/notes."
+blockers: ["Original S1 full 14MB and F12 notes not independently extracted; script depends on further verification", "Exclude unverified combined compute commitment total and outside analyst $637B", "Original FTC CID and claimed testimony details unavailable; testimony excluded", "Independent external specialist QC not performed"]
 
 stages:
   stage_00_topic_qualification: "PASS_GO_OWNER_LOCKED_88_6"
-  stage_01_evidence_research: "RESEARCH_DELIVERED_15_SOURCES_44_CLAIMS_18_EVENTS_FACT_QC_CONDITIONAL_HIGH_HOLD"
+  stage_01_evidence_research: "PASS_CORE_FOR_BOUNDED_STAGE02_MAP_WITH_EXCLUSIONS_FULL_S1_ARTIFACT_HOLD"
   stage_02_case_story_map: "NOT_STARTED"
   stage_03_script_v1: "NOT_STARTED"
   stage_04_fact_legal_review: "NOT_STARTED"
@@ -36,7 +36,7 @@ stages:
 
 locks:
   topic_qualified: true
-  evidence_research: false
+  evidence_research: true
   case_story_map: false
   final_script: false
   voice_input: false
@@ -53,7 +53,7 @@ evidence:
   claims_ledger: "CLAIMS_LEDGER.csv"
   case_event_ledger: "CASE_EVENT_LEDGER.csv"
   last_case_status_refresh: "2026-10-26"
-  unresolved_material_claims: 4
+  unresolved_material_claims: 3
 
 voice:
   channel_voice_lock: "00_FOUNDATION/VOICE_LOCK.md"
@@ -84,7 +84,7 @@ assets:
 
 qa:
   topic: "PASS_GO_OWNER_LOCKED_88_6"
-  research: "CONDITIONAL_SOURCE_SCOPED_QC_HIGH_HOLDS"
+  research: "PASS_SOURCE_SCOPED_QC_NO_FULL_S1_OR_F12_DIRECT"
   fact_legal: "NOT_RUN"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
