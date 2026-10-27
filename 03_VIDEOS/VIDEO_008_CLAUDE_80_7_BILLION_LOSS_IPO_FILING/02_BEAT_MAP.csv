@@ -1,9 +1,9 @@
 beat_id,act_id,editorial_proof_goal,claim_ids,source_ids,short_id,required_status,rights_audio_status
-A00-B01,A00,SEC S-1 dated Oct26,CLM001,SRC002,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A00-B01,A00,Open on the two different loss and lease dollar figures in SEC S1,CLM001|CLM004|CLM026,SRC001|SRC002,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A00-B02,A00,Reported net loss -$80.748B for H1,CLM004,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A00-B03,A00,Operating loss -$693M for H1,CLM005,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A00-B04,A00,Fair value financial instruments -$72.388B,CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
-A00-B05,A00,Not equivalent to cash burned; introduce business stakes,CLM004|CLM005|CLM006,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A00-B05,A00,Demand is variable and proposed founder voting power raises control stakes,CLM004|CLM005|CLM006|CLM021|CLM034,SRC001|SRC010,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A01-B01,A01,Define the Claude platform's revenue model,CLM003|CLM032,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A01-B02,A01,H1 2025 $1.163B revenue,CLM003,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A01-B03,A01,H1 2026 $16.286B revenue,CLM003,SRC001,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
@@ -35,7 +35,7 @@ A06-B03,A06,Google EX4.5 March31 $30B contractual formula,CLM028,SRC005,,Stage01
 A06-B04,A06,Conditional Google capacity rights not funded cash,CLM028,SRC005,SH03,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A06-B05,A06,Potential capital facilities distinct from actual cash borrowed,CLM027|CLM028,SRC004|SRC005,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A07-B01,A07,Seven founders' proposed Founder LLC,CLM034,SRC001|SRC010,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
-A07-B02,A07,Proposed Class F 50.1% general votes not equity,CLM034,SRC001|SRC010,SH04,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
+A07-B02,A07,Proposed Class F 50.1 percent general vote not equity plus distinct trust director rights,CLM034|CLM035,SRC001|SRC008|SRC010,SH04,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A07-B03,A07,LTBT Class T directors majority nomination rights,CLM035,SRC008|SRC009,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A07-B04,A07,One specified Class T director has approval condition,CLM035,SRC008,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA
 A07-B05,A07,Post-IPO effect and sunset restrictions,CLM035|CLM043,SRC008|SRC009,,Stage01 source-scoped: exclude unverified F12 / FTC testimony / false combined commitment,PLAN_ONLY_NO_VOICE_NO_MEDIA

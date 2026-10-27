@@ -60,3 +60,6 @@ This is **Stage02 PASS_PLAN_WITH_DOCUMENTARY_SOURCE_HOLDS**, backed by SEC searc
 
 ## Stage01 G01 R4 update 2026-10-26
 Stage01 now has G01 PASS for the NARROW VERIFIED claim set only. Full SEC S1 raw binary not saved or reviewed. Reconstructed 02_BEAT_MAP.csv A03-B04, A05-B05 and A08-B05 to remove excluded F12 CFO, unverified computed company-wide obligations and FTC executive testimony. Script can be authorized by owner under those constraints; no automatic stage progression.
+
+## Stage03 V2 owner-directed retention rewrite (2026-10-26)
+Actual P001–P005 V2 replaces old theoretical first-minute storyboard. First spoken 134 English words opens with two different issuer-reported figures, GAAP net loss $80.7B vs specifically disclosed Broadcom lease ~$125.2B five-year rent, then a $693M operating-loss counterfact, $72.388B fair-value cause and founder general voting teaser. This is a PROPOSED pacing allocation only; Harrison runtime and viewer retention not measured. 50 original beat IDs remain, but material proof now appears earlier. First-minute source IDs updated in `02_BEAT_MAP.csv`. Stage04 is still NOT_STARTED.
