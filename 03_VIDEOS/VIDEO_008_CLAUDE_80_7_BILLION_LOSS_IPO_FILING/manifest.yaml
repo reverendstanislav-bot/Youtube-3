@@ -8,8 +8,8 @@ priority: "8"
 status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-27"
-current_stage: "06_PERFORMANCE_REVIEW"
-next_action: "Stage05R V5 and fresh G06R 83/100 SOURCE-SCOPED PASS; owner may separately authorize Stage07 Script Lock after reviewing V5 and four Shorts. No TTS or paid generation authorized."
+current_stage: "07_SCRIPT_LOCK"
+next_action: "Stage07 V5 English 07_SCRIPT_FINAL.md and 07_SHORTS_LOCK.csv text LOCKED; owner may authorize Stage08 voice-script preparation TEXT ONLY. No Harrison audio or paid generation authorization."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -20,7 +20,7 @@ stages:
   stage_04_fact_legal_review: "PASS_G04_V3_CORRECTED_50_CLAIMS_4_SHORTS_SOURCE_SCOPED"
   stage_05_script_revision: "PASS_STAGE05R_V5_2548_WORDS_MINUS543_50_BEATS_4_SHORTS"
   stage_06_performance_review: "PASS_G06R_CURRENT_V5_83_OF_100_HARD_GATES_CLEAR_FACT_SOURCE_SCOPED"
-  stage_07_script_lock: "NOT_STARTED"
+  stage_07_script_lock: "PASS_G07_VERBATIM_V5_2548WORDS_50P_4SHORTS_TEXT_LOCK_SOURCE_SCOPED"
   stage_08_voice_script: "NOT_STARTED"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
@@ -38,7 +38,7 @@ locks:
   topic_qualified: true
   evidence_research: true
   case_story_map: true
-  final_script: false
+  final_script: true
   voice_input: false
   audio_master: false
   visual_timeline: false
@@ -68,13 +68,16 @@ audio:
 
 shorts:
   required: true
-  architecture_status: "FOUR_NATIVE_CONTIGUOUS_PARAGRAPHS_CURRENT_STAGE05R_V5"
+  architecture_status: "FOUR_NATIVE_V5_CONTIGUOUS_PARAGRAPHS_G07_TEXT_LOCK_AUDIO_PENDING"
   target_count: "4"
   extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
   stage_02_plan: "02_SHORTS_ARCHITECTURE.md"
   stage_03_map: "03_SHORTS_MAP.csv"
   stage_05r_map: "05R_SHORTS_MAP.csv"
   stage_07_lock: "07_SHORTS_LOCK.csv"
+  locked_count: 4
+  max_complete_short_seconds: 30
+  audio_duration_qc: "PENDING_ACTUAL_HARRISON_AND_ENDING"
   stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
   audio_source: "FINAL_AUDIO_MASTER"
   vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
@@ -87,8 +90,8 @@ qa:
   topic: "PASS_GO_OWNER_LOCKED_88_6"
   research: "PASS_G01_PRIMARY_DOCUMENTED_ACTIVE_CLAIMS_F12_EXCLUDED"
   story_map: "PASS_PLAN_10_ACTS_50_BEATS_4_SHORTS_SOURCE_GATED"
-  script: "PASS_G05R_V5_FRESH_SOURCE_SCOPED_50_PARAGRAPHS"
-  fact_legal: "PASS_G04_42_PASS_8_WARN_0_HIGH"
+  script: "LOCKED_G07_V5_SOURCE_VERBATIM_2548WORDS_50PARAGRAPHS"
+  fact_legal: "PASS_SOURCE_SCOPED_V5_46PASS_4QUALIFIEDWARN_0HIGH_G04_V3_HISTORICAL"
   performance: "PASS_G06R_83_OF_100_CURRENT_V5_EDITORIAL_NOT_AUDIENCE_DATA"
   source_scope_recheck: "PASS_05R_46_PASS_4_CONDITIONAL_WARN_0_HIGH"
   visual: "NOT_RUN"
@@ -101,3 +104,21 @@ publish:
   scheduled_at: ""
   published_at: ""
   youtube_url: ""
+
+# Exact Stage07 script source identity; inherited V5 bytes (not a new draft)
+script_lock:
+  canonical_english: "07_SCRIPT_FINAL.md"
+  english_source: "05R_SCRIPT_V5_EN.md"
+  git_blob_sha1: "56cd30e67994db6ce2ba0a658da73ccaff11c97b"
+  russian_reading_reference: "07_SCRIPT_FINAL_RU.md"
+  russian_git_blob_sha1: "c144ac9c06d100716bd4a8e8ce964f1ce163285a"
+  narration_text_locked: "07_NARRATION_TEXT_LOCKED.txt"
+  narration_text_git_blob_sha1: "c3269a579798b78578d8f57fd77df964c8c352ba"
+  locked_on: "2026-10-27"
+  spoken_english_words: 2548
+  spoken_paragraphs: 50
+  acts: 10
+  locked_shorts: 4
+  source_qc: "PASS_46P_4_WARN_CONDITIONAL_0HIGH_50_REFERENCES"
+  performance_qc: "PASS_CURRENT_V5_83_100_NOT_YOUTUBE_METRICS"
+  source_scope_limitations: "FULL_14MB_S1_AND_EXECUTED_SPV_INSTRUMENTS_NOT_OBTAINED"

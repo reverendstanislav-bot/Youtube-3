@@ -1,22 +1,18 @@
-# VIDEO008 — CURRENT STATE — 2026-10-27
+# VIDEO008 — Stage07 Script Lock — 2026-10-27
 
-**Current stage: 06_PERFORMANCE_REVIEW. Latest current-version gate: G06R PASS 83/100 for Stage05R V5. Stage07 NOT_STARTED.**
+**Current:** G07 PASS — Canonical English V5 text **LOCKED**. `manifest.yaml` is authoritative. Stage08 voice script, TTS and all paid media **NOT_STARTED**.
 
-## Latest approved-for-review artifacts (not locked for voice)
-- `05R_SCRIPT_V5_EN.md`: 2,548 spoken English words, 10 acts, 50 P/beat IDs, full new story structure.
-- `05R_SCRIPT_V5_RU.md`: complete matched Russian reading translation, no missing paragraphs.
-- `05R_BEAT_TRACE.csv`: 50 current P/beat/claim/source/word rows.
-- `05R_SHORTS_MAP.csv`: four single-contiguous original narration Shorts SH01=P008 (45 words), SH02=P013 (46), SH03=P029 (43), SH04=P032 (44); actual audio timings INCLUDING CTA not measured.
-- `05R_FACT_LEGAL_QC.csv`: 46 PASS, 4 conditional forward-looking WARN (P009 P019 P035 P043), zero HIGH, all 50 sourced.
-- `05R_SOURCE_RECHECK.md`: original primary document recheck and explicit source limitations.
-- `06R_PERFORMANCE_REVIEW_V5.md`, `06R_SCORECARD.csv`, `06R_ACT_RETENTION.csv`, `06R_SHORTS_QC.csv`, `06R_ISSUES.csv`: fresh current-artifact G06 at **83/100 PASS** with Hook 11/12, Title Promise 9/10, Conflict 8/10, scoped Accuracy 4.25/5.
-- Historical V3 G04 source-scoped PASS and V4 G06 FAIL 66/100 remain unchanged as before/after record.
+## Verbatim locked files
+- `07_SCRIPT_FINAL.md` — *same bytes / same Git blob SHA-1* as `05R_SCRIPT_V5_EN.md`: `56cd30e67994db6ce2ba0a658da73ccaff11c97b`. 2,548 spoken English words, 50 paragraphs P001–P050, 10 acts, 50 exact evidence beat IDs.
+- `07_SCRIPT_FINAL_RU.md` — full matched non-voice Russian reading reference, same blob as V5 RU: `c144ac9c06d100716bd4a8e8ce964f1ce163285a`.
+- `07_NARRATION_TEXT_LOCKED.txt` — Stage07 clean, ordered exact spoken English paragraphs, no comment/act markup. Blob `c3269a579798b78578d8f57fd77df964c8c352ba`. **NOT a Stage08 TTS submission.**
+- `07_SCRIPT_LOCK_TRACE.csv` — every paragraph/beat/CLM/SRC link checked, 23 active claim IDs, 0 broken.
+- `07_SHORTS_LOCK.csv` — exactly four contiguous native excerpts: SH01=P008 45w, SH02=P013 46w, SH03=P029 43w, SH04=P032 44w. No remix/additional Shorts VO. 30.0s total finished cap includes CTA and outro; real audio not measured.
+- `07_STAGE_QC.md` — source limits, current G06, QC, proof of no word changes, outstanding downstream requirements.
 
-## Substantive rewrite & source status
-V4 3,091 -> V5 2,548, **543 words cut**. Opens with $80.7B GAAP vs $693M H1 operating loss, $72.388B financing fair-value charge early; shows real $16.286B revenue growth, $8.945B compute cost, Broadcom-specific 5-year $125.2B lease, Oct26 $63B announced future equipment SPV (NOT received cash or additive debt), conditional Broadcom $42B and Google $30B note agreements, $6.2B Amazon principal June30, founder 50.1% general shareholder votes distinct from LTBT Class T board rights and economic equity, evaluation-only cybersecurity incidents and issuer-reported FTC inquiry. All 7 excluded claims remain absent.
+## Evidence / gate boundaries
+Historical V4 G06 FAIL 66/100 retained. Current exact V5 G06R **83/100 PASS**; source-scoped fact/legal **46 PASS / 4 qualified WARN / 0 HIGH**, no excluded claims. These are assistant editorial/source assessments, not external independent human legal review or observed YouTube analytics. Original ~14.17MB SEC S1 has not been fully audited end-to-end, executed detailed Oct26 SPV documents not obtained, issuer-reported FTC demand not an agency ruling. Future Stage16 status refresh remains required.
 
-## Explicit limitations
-Original ~14.17MB SEC S1 raw file not ingested end-to-end, original Oct26 signed detailed SPV instruments not obtained, issuer's FTC request not obtained; source-scoped verification only. Two official hosts Broadcom/BofA mirror one 63B press release. Not an external attorney/CPA/human independent review. No voice or observed YouTube audience retention. Editorial G06 PASS is not G07 Lock or proof of future CTR/APV.
+**No generation, voice testing, image/video work, credit spending or speech timing** done during Stage07. Harrison channel voice preselected but synthesis engine not locked; owner approval needed for any billable job. A change to one locked narration word requires an explicit Stage07 amendment + affected fact and four-Short reevaluation.
 
-## Next step
-**Only after separate owner authorization: Stage07 canonical script and Shorts lock** with final exact-version source & runtime suitability review. Harrison voice and paid image/video generation NOT started, zero spend and audio.lock false.
+**Possible next (not executed):** owner-authorized Stage08: prepare Harrison voice-script text without generating paid audio.
