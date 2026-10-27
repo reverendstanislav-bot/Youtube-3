@@ -1,0 +1,11 @@
+act,paragraph_ids,spoken_words,approx_start_160wpm,approx_end_160wpm,narrative_job,creative_result,production_note
+A00,P001–P005,238,0:00,1:29,Accountant headline reversal,PASS,New evidence or decision supplied
+A01,P006–P010,251,1:29,3:03,Actual growth and cost,PASS,New evidence or decision supplied
+A02,P011–P015,260,3:03,4:41,Specific five-year lease,PASS,New evidence or decision supplied
+A03,P016–P020,275,4:41,6:24,63B equipment finance vehicle,PASS,New evidence or decision supplied
+A04,P021–P025,276,6:24,8:08,Conditional financing instruments,WARN_DENSE_BUT_DISTINCT,Simplify numbers in visuals; narration correctly conditional
+A05,P026–P030,267,8:08,9:48,Statement bridge and new question,PASS,New evidence or decision supplied
+A06,P031–P035,275,9:48,11:31,Founder votes and LTBT board rights,WARN_DENSE_BUT_DISTINCT,Visual diagram distinguishes 50.1% votes from economic equity and Trust majority board election
+A07,P036–P040,277,11:31,13:15,Cyber evals and FTC inquiry,PASS,New evidence or decision supplied
+A08,P041–P045,261,13:15,14:53,Balanced case for capacity bet,PASS,New evidence or decision supplied
+A09,P046–P050,168,14:53,15:56,Measured final sourced distinction,PASS,New evidence or decision supplied

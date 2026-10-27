@@ -1,0 +1,51 @@
+paragraph_id,claims,sources,link_result,factual_legal_disposition,notes
+P001,CLM004|CLM005,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P002,CLM004|CLM005|CLM006,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P003,CLM001|CLM045,SRC002|SRC016|SRC017,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P004,CLM045|CLM046,SRC016|SRC017,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P005,CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P006,CLM003,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P007,CLM003|CLM018,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P008,CLM045|CLM046,SRC016|SRC017,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P009,CLM003|CLM026,SRC001,FOUND_IN_REGISTER,WARN_CONTEXT_QUALIFIED,"Hypothetical/counterfactual framed as conditional, not factual prediction"
+P010,CLM003|CLM018|CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P011,CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P012,CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P013,CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P014,CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P015,CLM026|CLM045,SRC001|SRC016,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P016,CLM046,SRC016|SRC017|SRC018,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P017,CLM046,SRC016|SRC017,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P018,CLM046,SRC016|SRC018,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P019,CLM045|CLM047,SRC016,FOUND_IN_REGISTER,WARN_CONTEXT_QUALIFIED,"Hypothetical/counterfactual framed as conditional, not factual prediction"
+P020,CLM046|CLM026,SRC016|SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P021,CLM027,SRC004,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P022,CLM028,SRC005,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P023,CLM030,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P024,CLM027|CLM028|CLM030,SRC001|SRC004|SRC005,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P025,CLM006,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P026,CLM003|CLM005,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P027,CLM006|CLM007|CLM009,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P028,CLM005|CLM006|CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P029,CLM004|CLM005|CLM006,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P030,CLM026|CLM034,SRC001|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P031,CLM034,SRC001|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P032,CLM034|CLM035,SRC001|SRC008|SRC009|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P033,CLM035,SRC008|SRC009,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P034,CLM034|CLM035|CLM043,SRC001|SRC008|SRC009|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P035,CLM026|CLM034|CLM035,SRC001|SRC008|SRC010,FOUND_IN_REGISTER,WARN_CONTEXT_QUALIFIED,"Hypothetical/counterfactual framed as conditional, not factual prediction"
+P036,CLM040|CLM042,SRC011|SRC012,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P037,CLM040|CLM041,SRC011,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P038,CLM038,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P039,CLM038|CLM040|CLM026,SRC001|SRC011,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P040,CLM026|CLM038,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P041,CLM003,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P042,CLM045|CLM047,SRC016|SRC017,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P043,CLM026,SRC001,FOUND_IN_REGISTER,WARN_CONTEXT_QUALIFIED,"Hypothetical/counterfactual framed as conditional, not factual prediction"
+P044,CLM005|CLM026,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P045,CLM034,SRC001|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P046,CLM002,SRC001|SRC002,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P047,CLM004|CLM005|CLM006,SRC001,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P048,CLM026|CLM045,SRC001|SRC016,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P049,CLM034|CLM035,SRC001|SRC008|SRC010,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available
+P050,CLM026|CLM045,SRC001|SRC016,FOUND_IN_REGISTER,PASS,Sourced figures/contract roles and time statuses remain source-scoped; 14MB S1 full raw not available

@@ -1,18 +1,22 @@
 # VIDEO008 — CURRENT STATE — 2026-10-27
-**G06 FAIL — 66/100 (Stage05 V4 EXACT artifact).** 82-point and Hook/Promise/Conflict 4/5 Foundation gates not met. No Stage07 Script Lock. Current stage 06_PERFORMANCE_REVIEW.
 
-## Reviewed material
-`05_SCRIPT_REVISION_V4_EN.md` 3091 English spoken words, 50 source-tagged paragraphs, 10 acts; `05_SHORTS_MAP.csv` four continuous excerpts 54/53/51/53 words. No script modifications or paid media generations during Stage06. Historical Stage04 G04 V3 source-scoped PASS and Stage05 G05 editorial PASS retained; NOT transferable approval for rewritten future versions.
+**Current stage: 06_PERFORMANCE_REVIEW. Latest current-version gate: G06R PASS 83/100 for Stage05R V5. Stage07 NOT_STARTED.**
 
-## Findings
-- First 5 sec filing setup; first 30sec member/bank SPV explanation, no $693M operating-loss payoff.
-- Main "$80.7B vs operating loss / -$72.388B FV charge" answer appears ~09:20–11:11 at 160wpm, far behind promise.
-- SPV repeated A01, finance taxonomy A04, general risk hypotheticals A08, numbers recap A09 weaken information rhythm.
-- A06 founder special shares and Class T Trust are useful but too complex as currently narrated.
-- Four isolated Shorts: SH01 WARN 6/10, SH02 WARN 5/10, SH03 PASS_EDITORIAL 8/10, SH04 WARN 5/10. Actual <=30sec audio incl CTA unmeasured.
-- 50 source refs script mapping preserved and no banned Stage01 claims used. No new accuracy blocker found within verified active source scope; original 14MB SEC S1 not fully parsed and signed 63B SPV contracts not inspected; no independent human legal/CPA review.
+## Latest approved-for-review artifacts (not locked for voice)
+- `05R_SCRIPT_V5_EN.md`: 2,548 spoken English words, 10 acts, 50 P/beat IDs, full new story structure.
+- `05R_SCRIPT_V5_RU.md`: complete matched Russian reading translation, no missing paragraphs.
+- `05R_BEAT_TRACE.csv`: 50 current P/beat/claim/source/word rows.
+- `05R_SHORTS_MAP.csv`: four single-contiguous original narration Shorts SH01=P008 (45 words), SH02=P013 (46), SH03=P029 (43), SH04=P032 (44); actual audio timings INCLUDING CTA not measured.
+- `05R_FACT_LEGAL_QC.csv`: 46 PASS, 4 conditional forward-looking WARN (P009 P019 P035 P043), zero HIGH, all 50 sourced.
+- `05R_SOURCE_RECHECK.md`: original primary document recheck and explicit source limitations.
+- `06R_PERFORMANCE_REVIEW_V5.md`, `06R_SCORECARD.csv`, `06R_ACT_RETENTION.csv`, `06R_SHORTS_QC.csv`, `06R_ISSUES.csv`: fresh current-artifact G06 at **83/100 PASS** with Hook 11/12, Title Promise 9/10, Conflict 8/10, scoped Accuracy 4.25/5.
+- Historical V3 G04 source-scoped PASS and V4 G06 FAIL 66/100 remain unchanged as before/after record.
 
-## Artifacts
-`06_PERFORMANCE_REVIEW_V4.md` full reviewer judgement, `06_SCORECARD.csv` rubric, `06_FIRST_60S.md`, `06_ACT_RETENTION_QC.csv`, `06_SHORTS_ISOLATED_PERFORMANCE_QC.csv`, `06_ISSUE_REGISTER.csv`. Reviewed V4 remains unchanged.
+## Substantive rewrite & source status
+V4 3,091 -> V5 2,548, **543 words cut**. Opens with $80.7B GAAP vs $693M H1 operating loss, $72.388B financing fair-value charge early; shows real $16.286B revenue growth, $8.945B compute cost, Broadcom-specific 5-year $125.2B lease, Oct26 $63B announced future equipment SPV (NOT received cash or additive debt), conditional Broadcom $42B and Google $30B note agreements, $6.2B Amazon principal June30, founder 50.1% general shareholder votes distinct from LTBT Class T board rights and economic equity, evaluation-only cybersecurity incidents and issuer-reported FTC inquiry. All 7 excluded claims remain absent.
 
-**Next action:** ONLY after user request Stage05R current-version performance corrections followed by repeat G06 and targeted source/claim QC, then possible Stage07. No Harrison TTS / audiovisual generation or token spending authorized.
+## Explicit limitations
+Original ~14.17MB SEC S1 raw file not ingested end-to-end, original Oct26 signed detailed SPV instruments not obtained, issuer's FTC request not obtained; source-scoped verification only. Two official hosts Broadcom/BofA mirror one 63B press release. Not an external attorney/CPA/human independent review. No voice or observed YouTube audience retention. Editorial G06 PASS is not G07 Lock or proof of future CTR/APV.
+
+## Next step
+**Only after separate owner authorization: Stage07 canonical script and Shorts lock** with final exact-version source & runtime suitability review. Harrison voice and paid image/video generation NOT started, zero spend and audio.lock false.
