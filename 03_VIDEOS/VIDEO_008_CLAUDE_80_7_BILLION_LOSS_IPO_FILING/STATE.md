@@ -1,21 +1,9 @@
-# VIDEO008 — STATE after Stage04 source/language QC — 2026-10-26
+# VIDEO008 — Stage04 G04 Recheck — 2026-10-26
 
-**CURRENT STAGE:** 04_FACT_LEGAL_REVIEW. **REVIEW COMPLETE, G04 HOLD (2 HIGH)**. Stage05 and beyond NOT_STARTED; voice Harrison unused; paid generation false.
+**Status: G04 PASS FOR SOURCE-VERIFIED SCRIPTABLE ASSERTIONS.** Current stage remains 04_FACT_LEGAL_REVIEW; Stage05 NOT_STARTED.
 
-## Reviewed artifact
-`03_SCRIPT_V3_EN.md` English full V3 (50 source-annotated paragraphs); four contiguous native Shorts P008/P013/P029/P032. Stage03 creative V3 remains historical/current draft; it is **not** approved as a locked script. Russian `03_SCRIPT_V3_RU.md` was not legally retranslated after corrections (no corrections applied yet).
+The two prior blocking HIGH issues QA025 (P013 SH02 lease vs SPV finance overlap) and QA026 (P032 SH04 founder Class F vs LTBT Class T rights) have been corrected in both `03_SCRIPT_V3_EN.md` and `03_SCRIPT_V3_RU.md`, their beat/claims trace files and both Shorts maps. Direct SEC primary original governance EX10.14 and issuer-indexed S1 evidence rechecked, plus Broadcom/BofA Oct26 primary $63B announcement. No false assumption that 63B already funded in cash, or 63B + 125.2B are unrelated debt. No assertion founders own 50.1% economic equity.
 
-## Review files
-- `04_FACT_LEGAL_REVIEW_V3.md`: original SEC S1 indexed financial/lease data, official primary Broadcom + Bank of America Oct26 announcement, visual Broadcom 3-page issuer PDF, named original SEC exhibits, company first-person cyber-evaluation publication, legal posture, exact proposed remediations, remaining source limits.
-- `04_CLAIM_LEGAL_QC.csv`: **50 rows: 40 PASS, 8 WARN, 2 HIGH HOLD**; all paragraph->claim->source pointers verified for existence; excludes 7 Stage01 barred claims.
-- `04_SHORTS_ISOLATED_QC.csv`: 4 rows: SH01 WARN, SH02 HOLD, SH03 PASS, SH04 HOLD.
+**50 paragraphs: 42 PASS, 8 WARN, 0 HIGH/HOLD. Four native Shorts individually QC: SH01 WARN (nonblocking), SH02 PASS, SH03 PASS, SH04 PASS.** Updated `04_CLAIM_LEGAL_QC.csv`, `04_SHORTS_ISOLATED_QC.csv`, `QA_LEDGER.csv`, new `04_G04_RECHECK_PASS.md`. F12-derived claims and unsupported combined commitments are still excluded; original 14MB SEC S1 raw binary never obtained and full signed SPV transaction contracts not obtained. PASS is NOT full-source-file certification or legal advice from external counsel.
 
-## Two blocking HIGH problems
-1. **P013 SH02**: difference between $125.2B five-year rent and newly announced $63B SPV equipment financing was not explicit enough about possible interconnected obligations. Short must NOT imply these are wholly independent debts. New financing needs CLM045/CLM046 and SRC016/SRC017 provenance. Proposed spoken replacement is in 04 report. Underlying full SPV loan/lease contracts NOT obtained; announced SPV is not money received by Anthropic.
-2. **P032 SH04**: Class T trust director control is real, but Short's references omitted CLM035/SEC EX10.14 and EX99.1. Restore source and expressly keep Class F only general-vote majority, no 50.1% economic ownership, future IPO-close conditional.
-
-Other medium/low issues not blocking: P008 wording of GAAP loss, P015 amount overlap, P035 governance vs executive operations, P038 issuer-reported FTC CID and remove research meta-narration; P009/P021/P025/P042 rhetoric limits. Do not insert actual full S1/F12 unverified figures.
-**Full original SEC 14,169,143-byte S1 not downloaded. Stage04 is scope-limited to tested claims; do not claim independent CPA/legal counsel review or done full file.**
-
-## Next authorized action
-Obtain explicit owner request to correct/recheck **within Stage04**. Do not flip to PASS without rewriting and independently rechecking the two affected native Shorts and all updated source pointers. Do not autonomously start Stage05, editing, TTS, artwork or video.
+**No audio, no TTS, no images, no paid quota.** Real Harrison pace and Shorts <=30-sec end-to-end remain Stage09/11 production checks. Stage05 editing not started; explicit new owner instruction required.

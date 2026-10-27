@@ -1,6 +1,6 @@
 # WHAT IT COST — VIDEO008 — Stage03 Script V3: THE $63 BILLION BET
 
-**Status:** Full English US narrative draft, 50 linked paragraphs, four verbatim Shorts, Stage04 NOT_STARTED. No TTS, paid generation, or final audio timing. Sources SRC016/017 new original Oct26 funding press releases.
+**Status:** Full English US narrative draft, 50 linked paragraphs, four verbatim Shorts, Stage04 G04 SOURCE-SCOPED PASS after P013/P032 corrections; no voice or measured audio.. No TTS, paid generation, or final audio timing. Sources SRC016/017 new original Oct26 funding press releases.
 
 ## A00 — TWO ANNOUNCEMENTS. ONE COMPANY.
 
@@ -44,8 +44,8 @@ The SEC prospectus describes a particular twenty twenty-six Broadcom equipment l
 <!-- P012 | A02-B02 | CLM026|CLM021 | SRC001 -->
 The timing changes the picture. The filing describes rental payments in connection with equipment becoming ready for service, generally in quarterly installments. If customer demand grows as expected, Anthropic has computing capacity to serve it. If usage is lower, the company may still have a contractual payment schedule. The filing says important parts of these arrangements are not freely cancellable, subject to the stated terms and default provisions.
 
-<!-- P013 | A02-B03 | SH02 | CLM026 | SRC001 -->
-Anthropic disclosed about one hundred twenty-five-point-two billion dollars in rent over five years under a specific Broadcom equipment lease, excluding interest. That's not money already paid. And it isn't the separate sixty-three-billion-dollar financing plan announced on IPO filing day. The lease exposes Anthropic to future payments even if customer usage changes.
+<!-- P013 | A02-B03 | SH02 | CLM026|CLM045|CLM046 | SRC001|SRC016|SRC017 -->
+Anthropic disclosed about one hundred twenty-five-point-two billion dollars in rent under one five-year Broadcom equipment lease, excluding interest. On IPO filing day, financiers announced sixty-three billion dollars of equipment funding. One number describes rent; the other, financing. The public disclosures don't resolve their exact overlap. Adding them as independent debts would mislead investors.
 
 <!-- P014 | A02-B04 | CLM021|CLM026 | SRC001 -->
 A five-year lease isn't automatically a bad decision. Businesses secure long-term capacity because shortages can be more expensive than excess. The crucial point is that future demand is uncertain while particular payment terms are already written down. One year's rapid growth is not a five-year guarantee. This is a risk statement, not a prediction that Anthropic will miss its payments.
@@ -109,8 +109,8 @@ That correction doesn't make Anthropic profitable. The operating result was stil
 <!-- P031 | A06-B01 | CLM034 | SRC001|SRC010 -->
 Imagine Anthropic completes its proposed IPO. Public shareholders buy into the financial upside and downside of the business, but they won't necessarily have proportionate power over its future. The prospectus describes a special class of stock held through Founder LLC, a company connected to seven co-founders. It is a designed voting arrangement, not evidence that one founder has acquired half the economic value of Anthropic.
 
-<!-- P032 | A06-B02 | SH04 | CLM034 | SRC001|SRC010 -->
-Anthropic's proposed IPO would give one special Class F share held by its seven founders' company fifty-point-one percent of general stockholder votes. That isn't fifty-point-one percent ownership. A separate trust would also have special director-election rights. Public investors could buy shares without controlling all major decisions.
+<!-- P032 | A06-B02 | SH04 | CLM034|CLM035 | SRC001|SRC008|SRC009|SRC010 -->
+If Anthropic's proposed IPO closes, a company formed by its seven founders would hold one Class F share carrying fifty-point-one percent of votes on general shareholder matters—not half the equity. Separately, a long-term benefit trust would have special rights to select most directors, subject to contractual conditions. Public investors wouldn't automatically control either.
 
 <!-- P033 | A06-B03 | CLM035 | SRC008|SRC009 -->
 Then the filing introduces another actor. Anthropic's Long-Term Benefit Trust has special Class T rights relating to the selection and removal of a majority of directors under the proposed structure. That creates two different control channels: general shareholder voting through Founder LLC, and specific board-election powers associated with the trust. Neither can be reduced to a line saying the CEO personally controls every director.

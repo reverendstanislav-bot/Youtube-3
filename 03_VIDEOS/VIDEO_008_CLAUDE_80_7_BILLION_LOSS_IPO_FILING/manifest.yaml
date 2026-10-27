@@ -9,7 +9,7 @@ status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-26"
 current_stage: "04_FACT_LEGAL_REVIEW"
-next_action: "Stage04 audit complete, HOLD two HIGH defects: P013/SH02 financing-versus-lease overlap claim and P032/SH04 Trust-source attribution. Await owner instruction for exact corrections/recheck; no Stage05 or voice."
+next_action: "Stage04 G04 source-scoped PASS on corrected V3; owner may request Stage05 Script Revision of eight nonblocking WARN and retention pacing; Stage05 NOT_STARTED. No voice authorization."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -17,7 +17,7 @@ stages:
   stage_01_evidence_research: "PASS_G01_ACTIVE_SOURCE_CLAIMS_NO_FULL_S1_BINARY_AUDIT"
   stage_02_case_story_map: "PASS_PLAN_10_ACTS_50_BEATS_4_SHORTS_SOURCE_GATED"
   stage_03_script_v1: "V3_NEW_63B_DOCUMENTARY_CONFLICT_50_PARAGRAPHS_4_SHORTS_READY_FOR_STAGE04"
-  stage_04_fact_legal_review: "COMPLETE_REVIEW_HOLD_2_HIGH_P013_SH02_P032_SH04"
+  stage_04_fact_legal_review: "PASS_G04_V3_CORRECTED_50_CLAIMS_4_SHORTS_SOURCE_SCOPED"
   stage_05_script_revision: "NOT_STARTED"
   stage_06_performance_review: "NOT_STARTED"
   stage_07_script_lock: "NOT_STARTED"
@@ -87,7 +87,7 @@ qa:
   research: "PASS_G01_PRIMARY_DOCUMENTED_ACTIVE_CLAIMS_F12_EXCLUDED"
   story_map: "PASS_PLAN_10_ACTS_50_BEATS_4_SHORTS_SOURCE_GATED"
   script: "V3_EDITORIAL_DRAFT_PENDING_STAGE04_NEW_63B_PRIMARY_FACT_QC"
-  fact_legal: "HOLD_2_HIGH_P013_SH02_P032_SH04"
+  fact_legal: "PASS_G04_42_PASS_8_WARN_0_HIGH"
   performance: "NOT_RUN"
   visual: "NOT_RUN"
   edit: "NOT_RUN"

@@ -17,3 +17,6 @@ The SEC initial S1 accepted 09:00:11 Oct26 shows 80.748B half-year GAAP net loss
 7. SHORTS: each 46-51 English words; isolated Stage04 review and measured <=30 seconds incl ending required.
 
 **Stage03 verdict: complete creative V3 for owner review, NOT Stage04 certified, NOT production/script lock.**
+
+## Stage04 recheck editorial addendum, 2026-10-26
+Canonical P013 and P032 revised and retagged; SH02/SH04 now each 53 English whitespace-delimited spoken words. Original historical V3 counts 51/46 for these passages are superseded. Both languages aligned; Stage04 source-scoped PASS, eight nonblocking warnings. No spoken-audio time confirmed or viewer-retention score established.

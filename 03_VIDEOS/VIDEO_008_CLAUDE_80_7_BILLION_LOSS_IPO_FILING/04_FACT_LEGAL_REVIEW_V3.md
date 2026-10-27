@@ -54,3 +54,6 @@ Current Short asserts that the trust has special board-election rights, but its 
 
 ## Next action within the gate
 Stage04 artifact is complete and honestly records **HOLD**. **DO NOT** silently mark Stage04 PASS or advance to Stage05/voice. Owner can authorize the two targeted paragraph rewrites and a Stage04 recheck separately; the exact suggested replacement wording is available above. Review source claims again after any edits, and recalc four Short extraction maps and EN/RU translation together.
+
+## 2026-10-26 — R2 G04 recheck supersedes original HOLD status
+The original 2 HIGH defects have been corrected in canonical English and Russian V3 scripts, Shorts maps, claims ledger, and proof traces. 50 paragraph dispositions are now **42 PASS, 8 WARN, 0 HIGH**, with independent isolated Shorts SH01 WARN nonblocking, SH02/03/04 PASS. QA025/026 both CLOSED. **Current final G04 verdict: PASS for source-verified active script claims**, NOT complete raw S1 binary review or certified external legal/accounting opinion. See `04_G04_RECHECK_PASS.md` for exact language and source guardrails. This report preserves the historical HOLD findings above for auditability.
