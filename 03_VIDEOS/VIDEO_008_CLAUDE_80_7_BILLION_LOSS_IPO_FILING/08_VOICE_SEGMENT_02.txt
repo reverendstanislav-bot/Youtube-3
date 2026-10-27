@@ -1,0 +1,19 @@
+A lease is not the same thing as buying chips outright. In Anthropic's disclosure, a particular Broadcom arrangement carries estimated rent of about one hundred twenty-five-point-two billion dollars over five years, before interest. It is a schedule of future rent under specified terms, not an invoice already paid and not the company's total spending on all computing.
+
+Payment timing is the next detail. Under the disclosed arrangement, rent is generally paid quarterly as equipment becomes ready for service. Waiting for all five years to pass before paying is not the plan. Once machines become available, contractual obligations can arise even if customer use does not match the forecast.
+
+Anthropic disclosed roughly one hundred twenty-five billion dollars of rent over five years under a Broadcom equipment lease, excluding interest. The payments are tied to when machines become ready. Customers can reduce their use of Claude. A multi-year equipment contract does not necessarily shrink with them.
+
+Some of these equipment arrangements are not freely cancellable except under specified contract provisions. That does not mean Anthropic will default, or that every dollar is due today. It means the ability to reverse a commitment is different from the ability of a customer to leave a subscription. That mismatch is the economic risk.
+
+Here is an essential restraint before the next reveal. The one-hundred-twenty-five-billion rent estimate and the sixty-three-billion equipment-financing announcement measure different things. Their underlying transactions could be interconnected; the public material reviewed here does not fully reconcile that overlap. Treating them as independent debts to be added together would create a false total.
+
+The October financing plan helps explain who would buy the machines. A new special-purpose vehicle would own the Broadcom accelerators and lease them to Anthropic. That makes the physical equipment central to the deal. The public announcement is a description of a financing plan; it does not prove every tranche has already been funded.
+
+Bank of America, Citi and Morgan Stanley are identified as arrangers of the first-lien financing. Blackstone is named as the sole provider of a committed second-lien portion. Those positions matter because financing doesn't come from one anonymous bank making one simple loan. Different participants have different contractual roles, even if their exact eventual returns remain unknown.
+
+Broadcom also announced residual-value support to the vehicle equivalent to the first-lien portion. In plain language, the hardware maker is involved in supporting the equipment-financing structure, not simply shipping products and walking away. But that support is not proof Broadcom will absorb every loss, nor a cash payment already made.
+
+The hardware deliveries were expected to begin in calendar twenty twenty-seven. That single date reveals the sequencing: the financing is arranged ahead of the period when the machines might generate more customer revenue. If customers arrive, capacity can be valuable. If pricing, competition or technical efficiency change, the equipment economics may look different by delivery time.
+
+There are two decisions hidden inside what looks like one giant number. Financiers decide whether to support hardware acquisition through their vehicle. Anthropic separately takes on terms for access to future equipment. The press release does not let us assign every ultimate loss among them. We can, however, see why the company's own growth forecast matters to all sides.

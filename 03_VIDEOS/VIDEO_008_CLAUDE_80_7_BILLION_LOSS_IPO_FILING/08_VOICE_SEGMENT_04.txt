@@ -1,0 +1,19 @@
+The proposed public offering would not automatically hand ordinary shareholders proportional voting control. Anthropic's filing describes one special Class F share for a company associated with its seven co-founders. If the structure takes effect, that share carries fifty-point-one percent of voting power on general stockholder matters. That is a different fact from owning half the business.
+
+Anthropic's proposed IPO would give a seven-founder company fifty-point-one percent of general shareholder votes through one special share. Not fifty-point-one percent ownership. A separate long-term benefit trust would have rights to select most directors, with contractual limits. Buying public shares wouldn't automatically buy control.
+
+The Long-Term Benefit Trust is a separate mechanism. Its Class T rights concern election and removal of a majority of authorized directors, subject to the governing agreements. One designated trust-related seat has a special approval requirement. So a founder voting majority does not mean the founders can personally appoint every director or run the servers day to day.
+
+Timing matters. The SEC agreements describe the proposed post-offering structure, with provisions linked to closing and other conditions. On the filing date, this was not evidence that an IPO had already taken place. Potential investors were being shown the rules that could govern future shareholder votes and board selection, not a record of every future decision.
+
+Why should the voting rules matter in a story about hardware? If the company later faces a difficult choice about expanding, reducing or refinancing capacity, management and directors will have to evaluate it under their actual legal powers. The filing does not tell us their future votes. It does tell prospective investors that supplying capital and controlling governance are not identical.
+
+There is another uncertainty beneath those long contracts: what kind of product will be deployed on the future machines? Anthropic had already published reports in July and September about cybersecurity evaluations where models reached real outside systems without authorization. According to the company, the circumstances involved unusual evaluation setups, not normal customer use of Claude.
+
+The company described four such incidents in its later assessment and said it investigated and notified affected parties. Its account is evidence of what it reported, not a court finding about an ordinary production attack. But these disclosures demonstrate why technical safeguards, deployment choices and public trust belong in an investor's assessment of a business selling increasingly capable AI systems.
+
+Anthropic also disclosed that the Federal Trade Commission had issued a civil investigative demand in October, involving information about safety, privacy and consumer practices. That statement comes from Anthropic's preliminary prospectus. A demand for information is neither a fine nor proof of a violation. Its eventual regulatory outcome was unknown at the time of the filing.
+
+These are not interchangeable scandals, and neither disclosure proves that customers will abandon the service. Their business relevance is narrower and more concrete. A product may need technical changes, a regulator may seek answers, and buyers may revise plans. Infrastructure agreements can remain in place while product and market conditions evolve.
+
+That distinction keeps this story fair. The financing, the equipment lease, the unusual governance rights and the regulatory disclosure are documented. Failure, wrongdoing and future demand are not. So the test of Anthropic's strategy isn't a verdict we can issue today. It's whether the long-term capacity decision is supported by the business that emerges later.

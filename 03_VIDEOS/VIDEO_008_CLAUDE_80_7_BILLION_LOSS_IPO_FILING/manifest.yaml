@@ -8,8 +8,8 @@ priority: "8"
 status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-27"
-current_stage: "07_SCRIPT_LOCK"
-next_action: "Stage07 V5 English 07_SCRIPT_FINAL.md and 07_SHORTS_LOCK.csv text LOCKED; owner may authorize Stage08 voice-script preparation TEXT ONLY. No Harrison audio or paid generation authorization."
+current_stage: "08_VOICE_SCRIPT"
+next_action: "Stage08 Harrison script text prepared exactly from G07. Owner may separately authorize Stage09 voice model/cost assessment and audio QA. No synthesis job or paid spend currently authorized."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -21,7 +21,7 @@ stages:
   stage_05_script_revision: "PASS_STAGE05R_V5_2548_WORDS_MINUS543_50_BEATS_4_SHORTS"
   stage_06_performance_review: "PASS_G06R_CURRENT_V5_83_OF_100_HARD_GATES_CLEAR_FACT_SOURCE_SCOPED"
   stage_07_script_lock: "PASS_G07_VERBATIM_V5_2548WORDS_50P_4SHORTS_TEXT_LOCK_SOURCE_SCOPED"
-  stage_08_voice_script: "NOT_STARTED"
+  stage_08_voice_script: "PASS_VERBATIM_HARRISON_TEXT_2548_WORDS_FIVE_SEGMENTS_NO_SPEND"
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
@@ -39,7 +39,7 @@ locks:
   evidence_research: true
   case_story_map: true
   final_script: true
-  voice_input: false
+  voice_input: true
   audio_master: false
   visual_timeline: false
   visual_assets: false
@@ -60,6 +60,10 @@ voice:
   voice_id_or_preset: "573e5163-59b3-4926-aab1-951ef2985f81"
   voice_name: "Harrison"
   paid_generation_authorized: false
+  voice_script_master: "08_VOICE_SCRIPT_MASTER.txt"
+  voice_segment_map: "08_VOICE_SEGMENTS.csv"
+  voice_segment_count: 5
+  engine_model_status: "NOT_LOCKED"
 
 audio:
   runtime_sec: ""
@@ -94,6 +98,7 @@ qa:
   fact_legal: "PASS_SOURCE_SCOPED_V5_46PASS_4QUALIFIEDWARN_0HIGH_G04_V3_HISTORICAL"
   performance: "PASS_G06R_83_OF_100_CURRENT_V5_EDITORIAL_NOT_AUDIENCE_DATA"
   source_scope_recheck: "PASS_05R_46_PASS_4_CONDITIONAL_WARN_0_HIGH"
+  voice_text_integrity: "PASS_G08_MASTER_BYTE_IDENTICAL_G07_50P_2548_WORDS_5_CHUNKS"
   visual: "NOT_RUN"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"

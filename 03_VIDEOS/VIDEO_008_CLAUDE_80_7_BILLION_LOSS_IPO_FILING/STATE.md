@@ -1,18 +1,13 @@
-# VIDEO008 — Stage07 Script Lock — 2026-10-27
+# VIDEO008 — Stage08 Harrison Voice Script (TEXT ONLY) — 2026-10-27
 
-**Current:** G07 PASS — Canonical English V5 text **LOCKED**. `manifest.yaml` is authoritative. Stage08 voice script, TTS and all paid media **NOT_STARTED**.
+**Current stage: 08_VOICE_SCRIPT; G08 PASS. Stage09–Stage19 have NOT advanced.**
 
-## Verbatim locked files
-- `07_SCRIPT_FINAL.md` — *same bytes / same Git blob SHA-1* as `05R_SCRIPT_V5_EN.md`: `56cd30e67994db6ce2ba0a658da73ccaff11c97b`. 2,548 spoken English words, 50 paragraphs P001–P050, 10 acts, 50 exact evidence beat IDs.
-- `07_SCRIPT_FINAL_RU.md` — full matched non-voice Russian reading reference, same blob as V5 RU: `c144ac9c06d100716bd4a8e8ce964f1ce163285a`.
-- `07_NARRATION_TEXT_LOCKED.txt` — Stage07 clean, ordered exact spoken English paragraphs, no comment/act markup. Blob `c3269a579798b78578d8f57fd77df964c8c352ba`. **NOT a Stage08 TTS submission.**
-- `07_SCRIPT_LOCK_TRACE.csv` — every paragraph/beat/CLM/SRC link checked, 23 active claim IDs, 0 broken.
-- `07_SHORTS_LOCK.csv` — exactly four contiguous native excerpts: SH01=P008 45w, SH02=P013 46w, SH03=P029 43w, SH04=P032 44w. No remix/additional Shorts VO. 30.0s total finished cap includes CTA and outro; real audio not measured.
-- `07_STAGE_QC.md` — source limits, current G06, QC, proof of no word changes, outstanding downstream requirements.
+Canonical English text remains LOCKED in `07_SCRIPT_FINAL.md` (Git blob SHA-1 `56cd30e67994db6ce2ba0a658da73ccaff11c97b`). New `08_VOICE_SCRIPT_MASTER.txt` uses exact same blob as `07_NARRATION_TEXT_LOCKED.txt` SHA-1 `c3269a579798b78578d8f57fd77df964c8c352ba`. **50 original spoken paragraphs, 2,548 words, no modifications**.
 
-## Evidence / gate boundaries
-Historical V4 G06 FAIL 66/100 retained. Current exact V5 G06R **83/100 PASS**; source-scoped fact/legal **46 PASS / 4 qualified WARN / 0 HIGH**, no excluded claims. These are assistant editorial/source assessments, not external independent human legal review or observed YouTube analytics. Original ~14.17MB SEC S1 has not been fully audited end-to-end, executed detailed Oct26 SPV documents not obtained, issuer-reported FTC demand not an agency ruling. Future Stage16 status refresh remains required.
+Voice parts `08_VOICE_SEGMENT_01.txt`…`05.txt`: **489 / 535 / 543 / 552 / 429** spoken words, two acts each, perfect reconstruction of master. `08_VOICE_SEGMENTS.csv` indexes 5 chunks; `08_VOICE_PARAGRAPH_MAP.csv` locks all 50 original IDs and Shorts. Pronunciation/delivery: `08_HARRISON_PRONUNCIATION_GUIDE.md`; source fidelity and upcoming spend gate: `08_VOICE_SCRIPT_QC.md`. Four Shorts locked in long-form at P008/P013/P029/P032, final <=30 seconds including CTA and ending remains **UNMEASURED**.
 
-**No generation, voice testing, image/video work, credit spending or speech timing** done during Stage07. Harrison channel voice preselected but synthesis engine not locked; owner approval needed for any billable job. A change to one locked narration word requires an explicit Stage07 amendment + affected fact and four-Short reevaluation.
+**Voice identity:** Harrison, Higgsfield preset `573e5163-59b3-4926-aab1-951ef2985f81`. Engine/model not chosen; quota/credit generation not authorized. No voice job, TTS, test, images or video produced. Forecast run time at 145wpm is 17.57 minutes excluding pauses, not actual audio.
 
-**Possible next (not executed):** owner-authorized Stage08: prepare Harrison voice-script text without generating paid audio.
+G07 83/100 G06R current-V5 editorial PASS and legal source-scoped 46 PASS / 4 WARN / 0 HIGH unchanged, full 14MB SEC S1 not audited end-to-end. Stage16 final source refresh remains required.
+
+**Next boundary:** Owner must explicitly request Stage09 and any audio job spend separately. Do not advance automatically.

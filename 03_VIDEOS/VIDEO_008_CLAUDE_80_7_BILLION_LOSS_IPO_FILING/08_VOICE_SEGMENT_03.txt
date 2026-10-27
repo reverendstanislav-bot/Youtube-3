@@ -1,0 +1,19 @@
+The filing also contains a March thirty-first agreement with Broadcom authorizing up to forty-two billion dollars of potential convertible notes, subject to conditions. Up to is the crucial phrase. It is a ceiling for a financing mechanism, not evidence that Anthropic received forty-two billion dollars that day. The original agreement provides a different window on the same expansion.
+
+A separate March agreement with Google contains a thirty-billion-dollar note-purchase formula. Again, a contractual figure isn't a bank receipt. Its conditions and later changes matter. Google also appears elsewhere in Anthropic's infrastructure relationships, but investing in a financial instrument and selling cloud computing are not the same economic transaction.
+
+For a sense of the difference, the prospectus reported six-point-two billion dollars of outstanding Amazon note principal at June thirtieth. Principal is one measure; a later fair-value calculation is another. The $42 billion Broadcom potential facility and Google's formula cannot simply be added to that principal as though they were all already borrowed cash.
+
+Those distinctions do more than protect us from a bad headline. They show how Anthropic tries to fund equipment before all the income from using it exists. A promise to issue notes, a lease payment and customer revenue happen at different times. Mix them into a single figure and the apparent size of the bet becomes meaningless.
+
+Now we can finish the accounting mystery from the opening. Some instruments change in reported fair value as the terms and valuation of financing change. In the first half of twenty twenty-six, Anthropic recorded a seventy-two-point-three-eight-eight-billion-dollar negative fair-value line involving convertible notes, derivative liabilities and future-equity agreements. It is a reported charge, not that amount spent on servers.
+
+The operating calculation is far smaller and very concrete. Sixteen-point-two-eight-six billion dollars of six-month revenue minus sixteen-point-nine-seven-nine billion of operating expenses equals a six-hundred-ninety-three-million-dollar operating loss. That is still negative. The earlier $80.748 billion GAAP loss includes financial items below the operating line. Both figures describe the same company without meaning the same thing.
+
+To reconcile the final number, the filing also reports one-point-one-one-one billion in net interest income, eight-point-seven-five-seven billion in other net expense, and twenty-one million in tax expense. With the operating result and fair-value charge, the arithmetic reaches the disclosed eighty-point-seven-four-eight-billion-dollar net loss. None of those accounting rows is a license to invent a cash-flow total.
+
+That separation changes the central question. You should not ask whether Claude literally burned eighty billion in six months. The filing does not say that. Ask whether the much more tangible infrastructure commitments can earn their keep as the business scales. An accounting revaluation and a future lease are different risks; one can dominate today's headline while the other shapes tomorrow's obligations.
+
+Anthropic reported eighty-point-seven billion dollars of net losses in six months. Its operating loss was only six hundred ninety-three million. A seventy-two-point-four-billion-dollar financial-instrument revaluation explains most of that gulf. The giant headline does not mean Claude consumed eighty billion dollars in operating cash.
+
+But the business still faces a financing and capacity decision that cannot be settled by an accounting adjustment. Equipment must be reserved, contracts managed and future sales earned. The proposed IPO adds another complication: people buying ordinary public shares may participate economically without controlling the broad shareholder votes that influence the company's direction.
