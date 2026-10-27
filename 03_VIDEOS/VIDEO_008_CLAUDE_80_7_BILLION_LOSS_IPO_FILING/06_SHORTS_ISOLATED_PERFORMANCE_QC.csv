@@ -1,0 +1,5 @@
+short_id,paragraph,words,verdict,editorial_score,independent_standalone_diagnosis,acceptance
+SH01,P008,54,WARN,6/10,GAAP term correct but repeats opening two headlines and ends at generic future machine use,One surprising mini-payoff grounded in the SPV mechanism; precise 2026 six-month attribution; one forward question
+SH02,P013,53,WARN,5/10,Two sums + no-addition accounting warning; responsible but weak standalone emotional tension,Start from five-year payment exposure and disclose uncertainty without an abstract accounting lesson
+SH03,P029,51,PASS_EDITORIAL,8/10,Best short with a clear 80.7B vs 693M reversal and noncash valuation explanation,Retain attribution; real duration <=30s including outro pending Harrison
+SH04,P032,53,WARN,5/10,"Too many corporate terms Class F, majority votes, economic equity and board-election; low mobile comprehension","Single surprise at start: 50.1% voting not 50.1% ownership; trust nuance afterward, condition remains"

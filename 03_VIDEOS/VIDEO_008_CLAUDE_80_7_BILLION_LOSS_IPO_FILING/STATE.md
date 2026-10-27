@@ -1,9 +1,18 @@
-# VIDEO008 — Current State, Stage05 V4 (2026-10-26)
+# VIDEO008 — CURRENT STATE — 2026-10-27
+**G06 FAIL — 66/100 (Stage05 V4 EXACT artifact).** 82-point and Hook/Promise/Conflict 4/5 Foundation gates not met. No Stage07 Script Lock. Current stage 06_PERFORMANCE_REVIEW.
 
-**Stage05 Editorial PASS / Stage06 NOT_STARTED.** The newest candidate is `05_SCRIPT_REVISION_V4_EN.md` and bilingual `05_SCRIPT_REVISION_V4_RU.md`, 3,091 English spoken words, 50 paragraph IDs. Historic G04 PASS is on preserved V3, not a fresh independent review of new V4.
+## Reviewed material
+`05_SCRIPT_REVISION_V4_EN.md` 3091 English spoken words, 50 source-tagged paragraphs, 10 acts; `05_SHORTS_MAP.csv` four continuous excerpts 54/53/51/53 words. No script modifications or paid media generations during Stage06. Historical Stage04 G04 V3 source-scoped PASS and Stage05 G05 editorial PASS retained; NOT transferable approval for rewritten future versions.
 
-14 changed paragraphs: P001–P005, P008, P009, P015, P021, P025, P035, P038, P042, P050. Eight nonblocking Stage04 editorial warnings addressed. `05_BEAT_CLAIM_TRACE.csv` (50 rows), `05_SHORTS_MAP.csv` (SH01–SH04 contiguous), `05_WARN_RESOLUTION.csv` and `05_STAGE_QC.md` are current; Stage03 files kept unchanged as audit baseline. First three paragraphs 124 words, timing only inferred from words not measured. Shorts 54/53/51/53 words, final <=30s including outro unmeasured.
+## Findings
+- First 5 sec filing setup; first 30sec member/bank SPV explanation, no $693M operating-loss payoff.
+- Main "$80.7B vs operating loss / -$72.388B FV charge" answer appears ~09:20–11:11 at 160wpm, far behind promise.
+- SPV repeated A01, finance taxonomy A04, general risk hypotheticals A08, numbers recap A09 weaken information rhythm.
+- A06 founder special shares and Class T Trust are useful but too complex as currently narrated.
+- Four isolated Shorts: SH01 WARN 6/10, SH02 WARN 5/10, SH03 PASS_EDITORIAL 8/10, SH04 WARN 5/10. Actual <=30sec audio incl CTA unmeasured.
+- 50 source refs script mapping preserved and no banned Stage01 claims used. No new accuracy blocker found within verified active source scope; original 14MB SEC S1 not fully parsed and signed 63B SPV contracts not inspected; no independent human legal/CPA review.
 
-**EVIDENCE LIMITS:** 14MB S1 file not fully ingested, SPV signed contracts not available, F12-derived metrics and seven previously excluded claims barred. The 63B financing announcement and 125.2B lease must not be summed as independent debts; Class F general stockholder votes vs Class T board rights separated, FTC inquiry issuer-attributed. No new unverified material claims. Historical Stage04 G04 source-scoped PASS for V3 is preserved; V4 needs fresh independent performance/source review before lock.
+## Artifacts
+`06_PERFORMANCE_REVIEW_V4.md` full reviewer judgement, `06_SCORECARD.csv` rubric, `06_FIRST_60S.md`, `06_ACT_RETENTION_QC.csv`, `06_SHORTS_ISOLATED_PERFORMANCE_QC.csv`, `06_ISSUE_REGISTER.csv`. Reviewed V4 remains unchanged.
 
-**No Stage06, Stage07, audio, Harrison TTS, image or video actions. Zero paid generation.** Next available stage on owner instruction: Stage06 Performance Review.
+**Next action:** ONLY after user request Stage05R current-version performance corrections followed by repeat G06 and targeted source/claim QC, then possible Stage07. No Harrison TTS / audiovisual generation or token spending authorized.
