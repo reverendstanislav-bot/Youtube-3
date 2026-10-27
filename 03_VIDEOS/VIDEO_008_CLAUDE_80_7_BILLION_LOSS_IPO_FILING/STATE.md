@@ -1,9 +1,9 @@
-# VIDEO008 — Stage04 G04 Recheck — 2026-10-26
+# VIDEO008 — Current State, Stage05 V4 (2026-10-26)
 
-**Status: G04 PASS FOR SOURCE-VERIFIED SCRIPTABLE ASSERTIONS.** Current stage remains 04_FACT_LEGAL_REVIEW; Stage05 NOT_STARTED.
+**Stage05 Editorial PASS / Stage06 NOT_STARTED.** The newest candidate is `05_SCRIPT_REVISION_V4_EN.md` and bilingual `05_SCRIPT_REVISION_V4_RU.md`, 3,091 English spoken words, 50 paragraph IDs. Historic G04 PASS is on preserved V3, not a fresh independent review of new V4.
 
-The two prior blocking HIGH issues QA025 (P013 SH02 lease vs SPV finance overlap) and QA026 (P032 SH04 founder Class F vs LTBT Class T rights) have been corrected in both `03_SCRIPT_V3_EN.md` and `03_SCRIPT_V3_RU.md`, their beat/claims trace files and both Shorts maps. Direct SEC primary original governance EX10.14 and issuer-indexed S1 evidence rechecked, plus Broadcom/BofA Oct26 primary $63B announcement. No false assumption that 63B already funded in cash, or 63B + 125.2B are unrelated debt. No assertion founders own 50.1% economic equity.
+14 changed paragraphs: P001–P005, P008, P009, P015, P021, P025, P035, P038, P042, P050. Eight nonblocking Stage04 editorial warnings addressed. `05_BEAT_CLAIM_TRACE.csv` (50 rows), `05_SHORTS_MAP.csv` (SH01–SH04 contiguous), `05_WARN_RESOLUTION.csv` and `05_STAGE_QC.md` are current; Stage03 files kept unchanged as audit baseline. First three paragraphs 124 words, timing only inferred from words not measured. Shorts 54/53/51/53 words, final <=30s including outro unmeasured.
 
-**50 paragraphs: 42 PASS, 8 WARN, 0 HIGH/HOLD. Four native Shorts individually QC: SH01 WARN (nonblocking), SH02 PASS, SH03 PASS, SH04 PASS.** Updated `04_CLAIM_LEGAL_QC.csv`, `04_SHORTS_ISOLATED_QC.csv`, `QA_LEDGER.csv`, new `04_G04_RECHECK_PASS.md`. F12-derived claims and unsupported combined commitments are still excluded; original 14MB SEC S1 raw binary never obtained and full signed SPV transaction contracts not obtained. PASS is NOT full-source-file certification or legal advice from external counsel.
+**EVIDENCE LIMITS:** 14MB S1 file not fully ingested, SPV signed contracts not available, F12-derived metrics and seven previously excluded claims barred. The 63B financing announcement and 125.2B lease must not be summed as independent debts; Class F general stockholder votes vs Class T board rights separated, FTC inquiry issuer-attributed. No new unverified material claims. Historical Stage04 G04 source-scoped PASS for V3 is preserved; V4 needs fresh independent performance/source review before lock.
 
-**No audio, no TTS, no images, no paid quota.** Real Harrison pace and Shorts <=30-sec end-to-end remain Stage09/11 production checks. Stage05 editing not started; explicit new owner instruction required.
+**No Stage06, Stage07, audio, Harrison TTS, image or video actions. Zero paid generation.** Next available stage on owner instruction: Stage06 Performance Review.

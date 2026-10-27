@@ -1,0 +1,9 @@
+paragraph_id,original_warn,stage05_resolution
+P008,MEDIUM,"Clarified GAAP H1 2026 net loss and linked SEC original; financing is announced, not an Anthropic cash deposit"
+P009,LOW,Removed implied knowledge of ultimate SPV partner losses; public financing layers are not final recovery waterfall
+P015,MEDIUM,"Disclosed lease, SPV financing, convertible note ceilings may overlap; no made-up additive debt total"
+P021,LOW,"Separated customer revenue, equipment rent and investor financing flows"
+P025,LOW,Named first and second lien roles and residual value support but no unsourced exact default allocation
+P035,MEDIUM,Board oversight versus actual founders/trust election rights and day-to-day operations distinguished
+P038,MEDIUM,"Civil investigative demand attributed to company; no proven legal violation, removed filmmaking aside"
+P042,LOW,Financing-partner participation does not demonstrate or guarantee demand for computing
