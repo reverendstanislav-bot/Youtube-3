@@ -9,7 +9,7 @@ status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-27"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Stage08 Harrison script text prepared exactly from G07. Owner may separately authorize Stage09 voice model/cost assessment and audio QA. No synthesis job or paid spend currently authorized."
+next_action: "Video008 preproduction visual DRAFT 200 scenes balanced 70 stock video / 45 photos / 35 true documents / 40 original graphics / 10 optional still prompts. Stage09 Harrison audio and Stage11 word-level sync pending. No paid generation allowed."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -127,3 +127,24 @@ script_lock:
   source_qc: "PASS_46P_4_WARN_CONDITIONAL_0HIGH_50_REFERENCES"
   performance_qc: "PASS_CURRENT_V5_83_100_NOT_YOUTUBE_METRICS"
   source_scope_limitations: "FULL_14MB_S1_AND_EXECUTED_SPV_INSTRUMENTS_NOT_OBTAINED"
+
+# Visual planning is a research/preproduction artifact; formal Stage11/12 remain NOT_STARTED.
+visual_preproduction:
+  status: "DRAFT_200_SHOTS_AUDIO_SYNC_AND_SOURCE_RIGHTS_PENDING"
+  scene_plan: "12_PREPRODUCTION_SCENE_PLAN.csv"
+  placeholder_timeline: "SCENE_TIMELINE.csv"
+  candidate_library: "12_STOCK_CANDIDATE_LIBRARY.csv"
+  stock_selection: "12_STOCK_SHOT_REQUIREMENTS.csv"
+  factual_proof_editor_tasks: "12_DOCUMENT_GRAPHIC_TASKS.csv"
+  optional_image_prompts: "12_IMAGE_PROMPTS.md"
+  production_handoff: "12_CODEX_HANDOFF.md"
+  planned_scenes: 200
+  stock_video: 70
+  stock_photo: 45
+  authentic_document: 35
+  editor_graphics: 40
+  optional_generated_stills: 10
+  video_generation_allowed: false
+  paid_generation_authorized: false
+  license_cleared_assets: 0
+  actual_audio_synced_scene_timestamps: false

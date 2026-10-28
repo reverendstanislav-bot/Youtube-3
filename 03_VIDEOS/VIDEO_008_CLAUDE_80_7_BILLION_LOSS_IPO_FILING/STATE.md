@@ -11,3 +11,6 @@ Voice parts `08_VOICE_SEGMENT_01.txt`…`05.txt`: **489 / 535 / 543 / 552 / 429*
 G07 83/100 G06R current-V5 editorial PASS and legal source-scoped 46 PASS / 4 WARN / 0 HIGH unchanged, full 14MB SEC S1 not audited end-to-end. Stage16 final source refresh remains required.
 
 **Next boundary:** Owner must explicitly request Stage09 and any audio job spend separately. Do not advance automatically.
+
+## Added provisional visual production design — 2026-10-27
+Owner rejected earlier stock-video-heavy draft (140/200). That **uncommitted draft is superseded** by a new **200-scene** plan: **70 stock videos, 45 stock photos, 35 original SEC/issuer proof crops, 40 source-backed editor GFX, 10 optional image generations**. Sources/URLs are candidates, not downloaded or rights-cleared assets. `12_PREPRODUCTION_SCENE_PLAN.csv`, `12_STOCK_SHOT_REQUIREMENTS.csv`, `12_STOCK_CANDIDATE_LIBRARY.csv`, `12_DOCUMENT_GRAPHIC_TASKS.csv`, `12_IMAGE_PROMPTS.md`, `12_CODEX_HANDOFF.md`, `12_VISUAL_PREPRODUCTION_QC.md`; `SCENE_TIMELINE.csv` contains only projected 145wpm markers until Harrison audio. `ASSET_MANIFEST.csv` contains 200 **PLAN** rows, not finished media. **Formal Stage11/12 NOT_STARTED; no media/download/generation or spend executed.**

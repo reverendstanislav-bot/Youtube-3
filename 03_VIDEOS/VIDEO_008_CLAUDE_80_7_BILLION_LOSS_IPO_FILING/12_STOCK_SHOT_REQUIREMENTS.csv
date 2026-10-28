@@ -1,0 +1,116 @@
+scene_id,paragraph_id,media,candidate_id,landing_page_or_search,brief,rights_status,asset_status
+SC001,P001,STOCK_VIDEO,SV009,https://www.pexels.com/video/workers-discussing-the-company-finances-7593886/,financial report being opened on desk,NOT_CLEARED,NOT_DOWNLOADED
+SC004,P001,STOCK_PHOTO,SP019,https://www.pexels.com/photo/modern-office-building-at-night-with-dramatic-sky-36391998/,night offices reflected in laptop screen,NOT_CLEARED,NOT_DOWNLOADED
+SC005,P002,STOCK_VIDEO,SV010,https://www.pexels.com/video/dynamic-stock-market-graph-on-display-screen-38990770/,closeup financial chart analyst pen tracing ledger,NOT_CLEARED,NOT_DOWNLOADED
+SC008,P002,STOCK_PHOTO,SP001,https://www.pexels.com/photo/server-racks-on-data-center-4508751/,computer server lights in darkness to contrast with accounting,NOT_CLEARED,NOT_DOWNLOADED
+SC009,P003,STOCK_VIDEO,SV026,https://www.pexels.com/video/modern-high-rise-office-building-at-night-34708740/,morning glass office buildings daylight,NOT_CLEARED,NOT_DOWNLOADED
+SC012,P003,STOCK_PHOTO,SP021,https://www.pexels.com/photo/office-building-at-dusk-13257334/,"night financial district, offices illuminated",NOT_CLEARED,NOT_DOWNLOADED
+SC013,P004,STOCK_VIDEO,SV022,https://www.pexels.com/video/a-man-signing-a-document-9365453/,analyst reviewing contract line by line,NOT_CLEARED,NOT_DOWNLOADED
+SC017,P005,STOCK_VIDEO,SV001,https://www.pexels.com/video/close-up-of-a-cpu-7140928/,rows of server cabinets under cold light,NOT_CLEARED,NOT_DOWNLOADED
+SC020,P005,STOCK_PHOTO,SP002,https://www.pexels.com/photo/server-racks-on-data-center-5480781/,"full empty row server racks, physical object of commitment",NOT_CLEARED,NOT_DOWNLOADED
+SC021,P006,STOCK_PHOTO,SP014,https://www.pexels.com/photo/colleagues-in-white-long-sleeve-shirts-sitting-and-reading-a-financial-report-on-a-conference-room-8297474/,real office data team examining growth chart,NOT_CLEARED,NOT_DOWNLOADED
+SC024,P006,STOCK_PHOTO,SP019,https://www.pexels.com/photo/modern-office-building-at-night-with-dramatic-sky-36391998/,visible office campus in daylight,NOT_CLEARED,NOT_DOWNLOADED
+SC025,P007,STOCK_VIDEO,SV002,https://www.pexels.com/video/close-up-shot-of-a-electronic-device-7140931/,macro server rack LEDs,NOT_CLEARED,NOT_DOWNLOADED
+SC028,P007,STOCK_PHOTO,SP006,https://www.pexels.com/photo/shallow-focus-photography-of-black-circuit-board-1448561/,close circuit chip photographed macro,NOT_CLEARED,NOT_DOWNLOADED
+SC029,P008,STOCK_VIDEO,SV001,https://www.pexels.com/video/close-up-of-a-cpu-7140928/,industrial server chassis and connections,NOT_CLEARED,NOT_DOWNLOADED
+SC032,P008,STOCK_PHOTO,SP022,https://www.pexels.com/photo/modern-office-conference-room-with-empty-chairs-36755512/,"empty office desks with monitors, future demand uncertain",NOT_CLEARED,NOT_DOWNLOADED
+SC033,P009,STOCK_VIDEO,SV002,https://www.pexels.com/video/close-up-shot-of-a-electronic-device-7140931/,engineer working server rack equipment,NOT_CLEARED,NOT_DOWNLOADED
+SC034,P009,STOCK_VIDEO,SV004,https://www.pexels.com/video/close-up-of-hands-typing-on-laptop-keyboard-31183719/,customer at keyboard in modern office,NOT_CLEARED,NOT_DOWNLOADED
+SC036,P009,STOCK_PHOTO,SP003," crop limited""",quiet data-center photograph with deep perspective,NOT_CLEARED,NOT_DOWNLOADED
+SC037,P010,STOCK_VIDEO,SV011,https://www.pexels.com/video/stock-market-data-analytics-on-digital-screen-38698439/,quiet finance office with documents,NOT_CLEARED,NOT_DOWNLOADED
+SC040,P010,STOCK_PHOTO,SP011,https://www.pexels.com/photo/aerial-footage-of-power-plant-9889065/,electric distribution complex exterior,NOT_CLEARED,NOT_DOWNLOADED
+SC041,P011,STOCK_VIDEO,SV023,https://www.pexels.com/video/people-talking-while-holding-a-contract-7424126/,contract page handling on conference table,NOT_CLEARED,NOT_DOWNLOADED
+SC042,P011,STOCK_VIDEO,SV003,https://www.pexels.com/video/close-up-of-hands-typing-on-a-laptop-7055341/,physical microelectronics closeup,NOT_CLEARED,NOT_DOWNLOADED
+SC045,P012,STOCK_VIDEO,NEEDS_NEW_SC045,https://www.pexels.com/search/videos/data%20center%20racks/,engineering technician checking cables,NOT_CLEARED,NOT_DOWNLOADED
+SC048,P012,STOCK_PHOTO,SP007,https://www.pexels.com/photo/circuit-board-in-close-up-photography-6755077/,hard machinery cooling fans close shot,NOT_CLEARED,NOT_DOWNLOADED
+SC049,P013,STOCK_VIDEO,SV032,https://www.pexels.com/video/aerial-footage-of-a-power-plant-6216827/,infrastructure grid and power equipment,NOT_CLEARED,NOT_DOWNLOADED
+SC052,P013,STOCK_PHOTO,SP004,https://www.pexels.com/photo/network-servers-on-an-enclosure-6466141/,empty rows of servers as capacity context,NOT_CLEARED,NOT_DOWNLOADED
+SC053,P014,STOCK_VIDEO,SV024,https://www.pexels.com/video/a-person-handing-over-the-document-to-the-client-8814711/,"business lawyer-type reviewing a paper agreement, unidentifiable",NOT_CLEARED,NOT_DOWNLOADED
+SC056,P014,STOCK_PHOTO,SP020,https://www.pexels.com/photo/handshake-between-two-people-9870144/,"slow pan office contract on table, no real logos",NOT_CLEARED,NOT_DOWNLOADED
+SC057,P015,STOCK_VIDEO,SV012,https://www.pexels.com/video/graphs-on-multiple-screens-8480232/,finance specialist reviewing spreadsheets,NOT_CLEARED,NOT_DOWNLOADED
+SC058,P015,STOCK_VIDEO,NEEDS_NEW_SC058,https://www.pexels.com/search/videos/data%20center%20racks/,data racks rear view,NOT_CLEARED,NOT_DOWNLOADED
+SC060,P015,STOCK_PHOTO,SP008,https://www.pexels.com/photo/close-up-shot-of-a-chip-6755082/,macro chip/circuit board authentic stock still,NOT_CLEARED,NOT_DOWNLOADED
+SC061,P016,STOCK_VIDEO,SV027,https://www.pexels.com/video/view-of-city-at-night-in-time-lapse-mode-2030981/,generic finance industry mid-rise building,NOT_CLEARED,NOT_DOWNLOADED
+SC062,P016,STOCK_VIDEO,NEEDS_NEW_SC062,https://www.pexels.com/search/videos/data%20center%20racks/,physical machine server rack close-up,NOT_CLEARED,NOT_DOWNLOADED
+SC064,P016,STOCK_PHOTO,SP005,https://www.pexels.com/photo/black-hardwares-on-data-server-room-4597280/,office engineer inspecting rack lights,NOT_CLEARED,NOT_DOWNLOADED
+SC065,P017,STOCK_VIDEO,SV028,https://www.pexels.com/video/dynamic-urban-cityscape-at-dusk-32259560/,finance district skyline over traffic,NOT_CLEARED,NOT_DOWNLOADED
+SC068,P017,STOCK_PHOTO,NEEDS_NEW_SC068,https://www.pexels.com/search/videos/typing%20laptop/,hand on keyboard in business office,NOT_CLEARED,NOT_DOWNLOADED
+SC069,P018,STOCK_VIDEO,SV037,https://www.pexels.com/video/overworked-programmer-in-dimly-lit-room-33656654/,macro of actual chips and copper traces,NOT_CLEARED,NOT_DOWNLOADED
+SC073,P019,STOCK_VIDEO,SV030,https://www.pexels.com/video/time-lapse-of-construction-in-city-8598739/,industrial construction crane progress,NOT_CLEARED,NOT_DOWNLOADED
+SC076,P019,STOCK_PHOTO,SP001,https://www.pexels.com/photo/server-racks-on-data-center-4508751/,future-like datacenter racks generic photo context,NOT_CLEARED,NOT_DOWNLOADED
+SC077,P020,STOCK_VIDEO,SV015,https://www.pexels.com/video/coworkers-talking-at-an-office-8869610/,employees comparing business proposals,NOT_CLEARED,NOT_DOWNLOADED
+SC080,P020,STOCK_PHOTO,SP021,https://www.pexels.com/photo/office-building-at-dusk-13257334/,night office exterior with lights on,NOT_CLEARED,NOT_DOWNLOADED
+SC081,P021,STOCK_VIDEO,SV025,https://www.pexels.com/video/man-signing-a-contract-7426670/,formal contract review hands on pages,NOT_CLEARED,NOT_DOWNLOADED
+SC084,P021,STOCK_PHOTO,SP009,https://www.pexels.com/photo/close-up-of-a-chip-on-a-board-inside-a-computer-10084203/,close shot of processor silicon board,NOT_CLEARED,NOT_DOWNLOADED
+SC085,P022,STOCK_VIDEO,SV005,https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-the-laptop-6406171/,office computer analyst reviewing an agreement,NOT_CLEARED,NOT_DOWNLOADED
+SC088,P022,STOCK_PHOTO,SP025,https://www.pexels.com/photo/empty-seats-in-the-room-8761644/,two executives reviewing documents generic business,NOT_CLEARED,NOT_DOWNLOADED
+SC089,P023,STOCK_VIDEO,SV013,https://www.pexels.com/video/financial-analyst-monitors-trading-data-on-screen-36418660/,accounting workspace calculator and paper,NOT_CLEARED,NOT_DOWNLOADED
+SC092,P023,STOCK_PHOTO,SP002,https://www.pexels.com/photo/server-racks-on-data-center-5480781/,generic server rack at night,NOT_CLEARED,NOT_DOWNLOADED
+SC093,P024,STOCK_VIDEO,SV014,https://www.pexels.com/video/dynamic-finance-chart-display-in-dark-room-38736274/,finance desk with scattered business papers,NOT_CLEARED,NOT_DOWNLOADED
+SC094,P024,STOCK_VIDEO,SV038,https://www.pexels.com/video/close-up-of-led-pc-cooling-fan-5467009/,chipboard macro with electronic components,NOT_CLEARED,NOT_DOWNLOADED
+SC097,P025,STOCK_VIDEO,SV009,https://www.pexels.com/video/workers-discussing-the-company-finances-7593886/,finance analyst turns page of statement,NOT_CLEARED,NOT_DOWNLOADED
+SC098,P025,STOCK_VIDEO,SV006,https://www.pexels.com/video/typing-on-a-laptop-4994029/,person typing in financial office,NOT_CLEARED,NOT_DOWNLOADED
+SC100,P025,STOCK_PHOTO,SP010,https://www.pexels.com/photo/close-up-of-computer-circuit-board-components-36169771/,dark circuitry close-up as context contrast,NOT_CLEARED,NOT_DOWNLOADED
+SC101,P026,STOCK_VIDEO,SV010,https://www.pexels.com/video/dynamic-stock-market-graph-on-display-screen-38990770/,analyst desk counting invoices and reviewing ledger,NOT_CLEARED,NOT_DOWNLOADED
+SC104,P026,STOCK_PHOTO,NEEDS_NEW_SC104,https://www.pexels.com/search/videos/office%20building%20at%20night/,lit corporate skyscraper at night,NOT_CLEARED,NOT_DOWNLOADED
+SC105,P027,STOCK_VIDEO,SV011,https://www.pexels.com/video/stock-market-data-analytics-on-digital-screen-38698439/,finance professional highlighting original paper report,NOT_CLEARED,NOT_DOWNLOADED
+SC108,P027,STOCK_PHOTO,SP003," crop limited""",night server aisle physical cost contrast,NOT_CLEARED,NOT_DOWNLOADED
+SC109,P028,STOCK_VIDEO,NEEDS_NEW_SC109,https://www.pexels.com/search/videos/data%20center%20racks/,server lights and physical machines,NOT_CLEARED,NOT_DOWNLOADED
+SC110,P028,STOCK_VIDEO,SV012,https://www.pexels.com/video/graphs-on-multiple-screens-8480232/,analyst closes computer statement and studies contract,NOT_CLEARED,NOT_DOWNLOADED
+SC112,P028,STOCK_PHOTO,SP012,https://www.pexels.com/photo/chipset-computer-cyber-hardware-2105927/,slow macro on CPU and motherboard,NOT_CLEARED,NOT_DOWNLOADED
+SC113,P029,STOCK_VIDEO,SV013,https://www.pexels.com/video/financial-analyst-monitors-trading-data-on-screen-36418660/,laptop at finance table closeup,NOT_CLEARED,NOT_DOWNLOADED
+SC116,P029,STOCK_PHOTO,NEEDS_NEW_SC116,https://www.pexels.com/search/videos/office%20building%20at%20night/,downtown offices illuminated through glass window,NOT_CLEARED,NOT_DOWNLOADED
+SC117,P030,STOCK_VIDEO,SV016,https://www.pexels.com/video/coworkers-showing-a-document-to-their-boss-8869613/,business meeting with folders on table,NOT_CLEARED,NOT_DOWNLOADED
+SC118,P030,STOCK_VIDEO,SV029,https://www.pexels.com/video/time-lapse-video-of-tall-buildings-854325/,modern financial district windows,NOT_CLEARED,NOT_DOWNLOADED
+SC120,P030,STOCK_PHOTO,SP014,https://www.pexels.com/photo/colleagues-in-white-long-sleeve-shirts-sitting-and-reading-a-financial-report-on-a-conference-room-8297474/,generic office report photographed on desk,NOT_CLEARED,NOT_DOWNLOADED
+SC121,P031,STOCK_VIDEO,SV022,https://www.pexels.com/video/a-man-signing-a-document-9365453/,hands reviewing shareholder agreement,NOT_CLEARED,NOT_DOWNLOADED
+SC122,P031,STOCK_VIDEO,SV017,https://www.pexels.com/video/colleagues-talking-while-discussing-a-document-8519329/,generic board meeting overhead laptops and documents,NOT_CLEARED,NOT_DOWNLOADED
+SC124,P031,STOCK_PHOTO,NEEDS_NEW_SC124,https://www.pexels.com/search/videos/office%20building%20at%20night/,banking district glass building exterior,NOT_CLEARED,NOT_DOWNLOADED
+SC125,P032,STOCK_VIDEO,SV018,https://www.pexels.com/video/young-people-in-office-meeting-5725709/,formal corporate board discussion in real office,NOT_CLEARED,NOT_DOWNLOADED
+SC128,P032,STOCK_PHOTO,SP022,https://www.pexels.com/photo/modern-office-conference-room-with-empty-chairs-36755512/,meeting room neutral glass wall,NOT_CLEARED,NOT_DOWNLOADED
+SC129,P033,STOCK_VIDEO,SV019,https://www.pexels.com/video/coworkers-discussing-documents-7651538/,corporate meeting reading board materials,NOT_CLEARED,NOT_DOWNLOADED
+SC132,P033,STOCK_PHOTO,SP020,https://www.pexels.com/photo/handshake-between-two-people-9870144/,hands signing page with no actual corporate attribution,NOT_CLEARED,NOT_DOWNLOADED
+SC133,P034,STOCK_VIDEO,SV040,https://www.pexels.com/video/time-lapse-of-skyscraper-at-night-11661547/,city business district day-to-night,NOT_CLEARED,NOT_DOWNLOADED
+SC134,P034,STOCK_VIDEO,SV023,https://www.pexels.com/video/people-talking-while-holding-a-contract-7424126/,hands paging through contract in business meeting,NOT_CLEARED,NOT_DOWNLOADED
+SC137,P035,STOCK_VIDEO,SV020,https://www.pexels.com/video/people-in-a-meeting-7691558/,unidentifiable people reviewing financial papers in meeting,NOT_CLEARED,NOT_DOWNLOADED
+SC140,P035,STOCK_PHOTO,NEEDS_NEW_SC140,https://www.pexels.com/search/videos/office%20building%20at%20night/,quiet downtown office building at dusk,NOT_CLEARED,NOT_DOWNLOADED
+SC141,P036,STOCK_VIDEO,SV039,https://www.pexels.com/video/close-up-of-hands-typing-on-laptop-keyboard-34124549/,software developer at laptop after dark,NOT_CLEARED,NOT_DOWNLOADED
+SC142,P036,STOCK_VIDEO,NEEDS_NEW_SC142,https://www.pexels.com/search/videos/data%20center%20racks/,"generic data center corridor, technical context only",NOT_CLEARED,NOT_DOWNLOADED
+SC144,P036,STOCK_PHOTO,NEEDS_NEW_SC144,https://www.pexels.com/search/videos/typing%20laptop/,close up laptop hands coding soft focus,NOT_CLEARED,NOT_DOWNLOADED
+SC145,P037,STOCK_VIDEO,SV003,https://www.pexels.com/video/close-up-of-hands-typing-on-a-laptop-7055341/,technical worker in generic computer environment,NOT_CLEARED,NOT_DOWNLOADED
+SC146,P037,STOCK_VIDEO,SV007,https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-the-laptop-7989700/,security analyst reviewing generic screen with no readable exploit code,NOT_CLEARED,NOT_DOWNLOADED
+SC148,P037,STOCK_PHOTO,SP004,https://www.pexels.com/photo/network-servers-on-an-enclosure-6466141/,server rack LEDs technical context,NOT_CLEARED,NOT_DOWNLOADED
+SC149,P038,STOCK_VIDEO,SV024,https://www.pexels.com/video/a-person-handing-over-the-document-to-the-client-8814711/,person reading papers at desk,NOT_CLEARED,NOT_DOWNLOADED
+SC152,P038,STOCK_PHOTO,SP025,https://www.pexels.com/photo/empty-seats-in-the-room-8761644/,documents passed across generic business desk,NOT_CLEARED,NOT_DOWNLOADED
+SC153,P039,STOCK_VIDEO,SV008,https://www.pexels.com/video/female-hands-typing-on-laptop-5716890/,developers working on laptop generic stock,NOT_CLEARED,NOT_DOWNLOADED
+SC154,P039,STOCK_VIDEO,NEEDS_NEW_SC154,https://www.pexels.com/search/videos/data%20center%20racks/,operating data center hardware,NOT_CLEARED,NOT_DOWNLOADED
+SC156,P039,STOCK_PHOTO,SP006,https://www.pexels.com/photo/shallow-focus-photography-of-black-circuit-board-1448561/,cloud technology office monitor photo context,NOT_CLEARED,NOT_DOWNLOADED
+SC157,P040,STOCK_VIDEO,SV021,https://www.pexels.com/video/people-discussing-documents-in-a-meeting-8731240/,finance team studying report at office,NOT_CLEARED,NOT_DOWNLOADED
+SC158,P040,STOCK_VIDEO,SV033,https://www.pexels.com/video/aerial-footage-of-a-power-plant-6216703/,industrial power generation context future capacity,NOT_CLEARED,NOT_DOWNLOADED
+SC160,P040,STOCK_PHOTO,NEEDS_NEW_SC160,https://www.pexels.com/search/videos/office%20building%20at%20night/,modern business city night skyline,NOT_CLEARED,NOT_DOWNLOADED
+SC161,P041,STOCK_VIDEO,SV015,https://www.pexels.com/video/coworkers-talking-at-an-office-8869610/,office finance planning meeting with graphs,NOT_CLEARED,NOT_DOWNLOADED
+SC164,P041,STOCK_PHOTO,SP005,https://www.pexels.com/photo/black-hardwares-on-data-server-room-4597280/,computer rack corridors brightly lit,NOT_CLEARED,NOT_DOWNLOADED
+SC165,P042,STOCK_VIDEO,SV026,https://www.pexels.com/video/modern-high-rise-office-building-at-night-34708740/,financial district buildings morning,NOT_CLEARED,NOT_DOWNLOADED
+SC168,P042,STOCK_PHOTO,NEEDS_NEW_SC168,https://www.pexels.com/search/videos/data%20center%20racks/,server racks real contextual footage,NOT_CLEARED,NOT_DOWNLOADED
+SC169,P043,STOCK_VIDEO,SV037,https://www.pexels.com/video/overworked-programmer-in-dimly-lit-room-33656654/,macro CPU chips and circuit board,NOT_CLEARED,NOT_DOWNLOADED
+SC170,P043,STOCK_VIDEO,SV004,https://www.pexels.com/video/close-up-of-hands-typing-on-laptop-keyboard-31183719/,customers using different laptops generic alternatives,NOT_CLEARED,NOT_DOWNLOADED
+SC172,P043,STOCK_PHOTO,SP011,https://www.pexels.com/photo/aerial-footage-of-power-plant-9889065/,industrial power grid outdoors physical capital,NOT_CLEARED,NOT_DOWNLOADED
+SC173,P044,STOCK_VIDEO,SV014,https://www.pexels.com/video/dynamic-finance-chart-display-in-dark-room-38736274/,finance professional comparing documents at desk,NOT_CLEARED,NOT_DOWNLOADED
+SC174,P044,STOCK_VIDEO,SV038,https://www.pexels.com/video/close-up-of-led-pc-cooling-fan-5467009/,machine cooling hardware close-up,NOT_CLEARED,NOT_DOWNLOADED
+SC176,P044,STOCK_PHOTO,SP007,https://www.pexels.com/photo/circuit-board-in-close-up-photography-6755077/,macro computer chip authentic photo cutaway,NOT_CLEARED,NOT_DOWNLOADED
+SC177,P045,STOCK_VIDEO,SV027,https://www.pexels.com/video/view-of-city-at-night-in-time-lapse-mode-2030981/,financial district skyscraper exterior,NOT_CLEARED,NOT_DOWNLOADED
+SC178,P045,STOCK_VIDEO,SV016,https://www.pexels.com/video/coworkers-showing-a-document-to-their-boss-8869613/,modern business meeting board discussion,NOT_CLEARED,NOT_DOWNLOADED
+SC180,P045,STOCK_PHOTO,SP013,https://www.pexels.com/photo/office-desk-with-calculator-and-financial-report-33175669/,hands reviewing financial reports on desk,NOT_CLEARED,NOT_DOWNLOADED
+SC181,P046,STOCK_VIDEO,SV028,https://www.pexels.com/video/dynamic-urban-cityscape-at-dusk-32259560/,city morning skyline office district,NOT_CLEARED,NOT_DOWNLOADED
+SC182,P046,STOCK_VIDEO,SV005,https://www.pexels.com/video/close-up-shot-of-a-person-typing-on-the-laptop-6406171/,laptop finance news reading with screen defocused generic,NOT_CLEARED,NOT_DOWNLOADED
+SC184,P046,STOCK_PHOTO,NEEDS_NEW_SC184,https://www.pexels.com/search/videos/office%20building%20at%20night/,modern business tower lit at night,NOT_CLEARED,NOT_DOWNLOADED
+SC185,P047,STOCK_VIDEO,NEEDS_NEW_SC185,https://www.pexels.com/search/videos/finance%20meeting/,analyst reading financial statement at close-up,NOT_CLEARED,NOT_DOWNLOADED
+SC186,P047,STOCK_VIDEO,NEEDS_NEW_SC186,https://www.pexels.com/search/videos/data%20center%20racks/,data racks softly blurred in office photo context,NOT_CLEARED,NOT_DOWNLOADED
+SC188,P047,STOCK_PHOTO,NEEDS_NEW_SC188,https://www.pexels.com/search/videos/contract/,hands closing a paper finance file,NOT_CLEARED,NOT_DOWNLOADED
+SC189,P048,STOCK_VIDEO,NEEDS_NEW_SC189,https://www.pexels.com/search/videos/data%20center%20racks/,server room corridor tracking move,NOT_CLEARED,NOT_DOWNLOADED
+SC190,P048,STOCK_VIDEO,SV025,https://www.pexels.com/video/man-signing-a-contract-7426670/,business contract page held by analyst,NOT_CLEARED,NOT_DOWNLOADED
+SC193,P049,STOCK_VIDEO,SV017,https://www.pexels.com/video/colleagues-talking-while-discussing-a-document-8519329/,boardroom table with empty chairs generic,NOT_CLEARED,NOT_DOWNLOADED
+SC196,P049,STOCK_PHOTO,NEEDS_NEW_SC196,https://www.pexels.com/search/videos/contract/,generic shareholder document photo,NOT_CLEARED,NOT_DOWNLOADED
+SC197,P050,STOCK_VIDEO,NEEDS_NEW_SC197,https://www.pexels.com/search/videos/data%20center%20racks/,rows of powered computer servers looking to future,NOT_CLEARED,NOT_DOWNLOADED
+SC198,P050,STOCK_VIDEO,SV031,https://www.pexels.com/video/time-lapse-video-of-a-construction-site-8064301/,factory building crane and uncertain time-to-delivery,NOT_CLEARED,NOT_DOWNLOADED
+SC200,P050,STOCK_PHOTO,NEEDS_NEW_SC200,https://www.pexels.com/search/videos/office%20building%20at%20night/,"business district at twilight, resolve on night lights",NOT_CLEARED,NOT_DOWNLOADED
