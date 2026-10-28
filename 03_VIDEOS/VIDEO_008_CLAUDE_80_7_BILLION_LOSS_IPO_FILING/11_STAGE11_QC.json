@@ -1,0 +1,101 @@
+{
+  "status": "PASS_STAGE11_TIMING_AUDIT_WITH_ASR_WARNINGS",
+  "source_github_ref": "ca49daf58a23620e78173de3e3bc3ef4a17bc82b",
+  "master_sha256": "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72",
+  "audio_duration_sec": 987.8,
+  "total_frames_25fps": 24695,
+  "word_timestamp_count": 2576,
+  "word_range_errors": 0,
+  "word_overlaps": 0,
+  "zero_duration_asr_points": [
+    {
+      "word_index": 798,
+      "asr_word": "and",
+      "start_sec": 306.1,
+      "end_sec": 306.1,
+      "probability": 0.98813,
+      "paragraph_id": "P017",
+      "timing_status": "ZERO_DURATION_ASR_POINT_REVIEW",
+      "audio_sha256": "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72"
+    },
+    {
+      "word_index": 1277,
+      "asr_word": "billion",
+      "start_sec": 484.86,
+      "end_sec": 484.86,
+      "probability": 0.79328,
+      "paragraph_id": "P025",
+      "timing_status": "ZERO_DURATION_ASR_POINT_REVIEW",
+      "audio_sha256": "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72"
+    }
+  ],
+  "paragraphs": 50,
+  "canonical_spoken_whitespace_words": 2548,
+  "asr_normalized_canonical_tokens": 2695,
+  "exact_asr_match_ratio": 0.9139,
+  "paragraphs_below_85pct_exact_lexical_match": 10,
+  "scenes": 110,
+  "scene_gaps": 0,
+  "scene_overlaps": 0,
+  "scene_and_paragraph_boundaries_changed": false,
+  "visual_edit_boundary_caveats": [
+    "P008 visual boundary133.76 crosses word4 at133.66-133.96; speech onset and Short cut corrected separately",
+    "P049 visual boundary963.60 crosses last20ms of earn ending963.62; visual allocation retained, not an audio trim"
+  ],
+  "corrected_short_starts": {
+    "SH01": {
+      "original_frame": 3344,
+      "corrected_frame": 3334,
+      "reason": "Preserve complete first word Four"
+    },
+    "SH04": {
+      "original_frame": 15820,
+      "corrected_frame": 15812,
+      "reason": "Add lead-in before first word Anthropic"
+    }
+  },
+  "shorts": [
+    {
+      "short_id": "SH01",
+      "paragraph_id": "P008",
+      "audio_cut_sec": 17.16,
+      "planned_cta_sec": 3,
+      "planned_total_sec": 20.16,
+      "headroom_sec": 9.84,
+      "export_status": "NOT_RENDERED"
+    },
+    {
+      "short_id": "SH02",
+      "paragraph_id": "P013",
+      "audio_cut_sec": 17.6,
+      "planned_cta_sec": 3,
+      "planned_total_sec": 20.6,
+      "headroom_sec": 9.4,
+      "export_status": "NOT_RENDERED"
+    },
+    {
+      "short_id": "SH03",
+      "paragraph_id": "P029",
+      "audio_cut_sec": 19.76,
+      "planned_cta_sec": 3,
+      "planned_total_sec": 22.76,
+      "headroom_sec": 7.24,
+      "export_status": "NOT_RENDERED"
+    },
+    {
+      "short_id": "SH04",
+      "paragraph_id": "P032",
+      "audio_cut_sec": 19.88,
+      "planned_cta_sec": 3,
+      "planned_total_sec": 22.88,
+      "headroom_sec": 7.12,
+      "export_status": "NOT_RENDERED"
+    }
+  ],
+  "audio_modified": false,
+  "new_tts_jobs": 0,
+  "new_visual_generations": 0,
+  "resolve_called": false,
+  "downstream_state_preserved": true,
+  "semantic_pronunciation_review": "OWNER_ACCEPTED_NOT_AN_AUTOMATED_SEMANTIC_AUDIT"
+}

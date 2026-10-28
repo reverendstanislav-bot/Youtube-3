@@ -24,7 +24,7 @@ stages:
   stage_08_voice_script: "PASS_VERBATIM_HARRISON_TEXT_2548_WORDS_FIVE_SEGMENTS_NO_SPEND"
   stage_09_voice_qa_lock: "PASS_OWNER_LISTENING_ACCEPTED_5_SOURCE_WAVS_TECH_DECODE"
   stage_10_audio_master: "PASS_SAMPLE_EXACT_NATIVE_PCM_INDEPENDENT_TECH_QC"
-  stage_11_transcript_visual_timeline: "PASS_50P_110SCENES_24695F_4SHORTS_TIMED"
+  stage_11_transcript_visual_timeline: "PASS_50P_110SCENES_24695F_SHORTS_ONSETS_CORRECTED_ASR_WARNINGS"
   stage_12_visual_source_generation_plan: "PASS_110_SCENE_SOURCE_PLAN_MATERIALIZED"
   stage_13_visual_asset_qc: "PASS_WITH_SC043_SOURCE_HOLD_SC106_PARTIAL"
   stage_14_graphics_documents_music_sfx: "PASS_VISUALS_ONLY_NO_MUSIC_SFX_REQUESTED"
@@ -86,7 +86,7 @@ shorts:
   stage_07_lock: "07_SHORTS_LOCK.csv"
   locked_count: 4
   max_complete_short_seconds: 30
-  audio_duration_qc: "PASS_4_OF_4_WITHIN_30_SECONDS_FROM_LOCKED_MASTER"
+  audio_duration_qc: "PASS_CUT_PLUS_PLANNED_3S_CTA_WITHIN_30S_FINAL_RENDER_PENDING"
   stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
   audio_source: "FINAL_AUDIO_MASTER"
   vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
@@ -173,3 +173,20 @@ visual_preproduction:
   actual_audio_synced_timestamps: true
   video_generation_allowed: false
   paid_generation_authorized: false
+
+# Stage11 verification only; existing downstream stage state preserved
+stage11_verification:
+  date: "2026-10-28"
+  report: "11_STAGE11_QC.json"
+  independent_review: "11_STAGE11_INDEPENDENT_QC.md"
+  words_csv: "11_ASR_WORD_TIMINGS.csv"
+  paragraph_transcript: "11_TRANSCRIPT_ASR_ALIGNED.csv"
+  scene_word_anchors: "11_SCENE_WORD_ANCHORS.csv"
+  source_audio_sha256: "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72"
+  asr_words: 2576
+  zero_duration_asr_points_flagged: 2
+  lexical_low_match_paragraphs_flagged: 10
+  shorts_onsets_corrected: ["SH01", "SH04"]
+  planned_short_cta_seconds: 3
+  rendered_shorts_qc: "NOT_RENDERED"
+  scene_and_resolve_boundaries_changed: false

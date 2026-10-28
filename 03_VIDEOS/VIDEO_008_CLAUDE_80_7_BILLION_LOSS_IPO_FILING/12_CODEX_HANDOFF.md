@@ -24,3 +24,7 @@ No paid media, automatic downloads, billed voice/image/video generation or other
 Before claiming visual asset PASS provide completed 65-stock-rights and 45-proof tasks with downloadable file links/checksums. Every unfilled search remains HOLD.
 
 **Current phase: preproduction research brief, not a finished visual kit or asset archive.**
+
+## Updated audio timing handoff — 2026-10-28
+
+Historical provisional/no-audio statements above are superseded by the locked987.800s Harrison master and Stage11 ASR timing files. Use11_SCENE_TIMELINE.csv frame fields for the established110-scene visual plan; use11_TRANSCRIPT_ASR_ALIGNED.csv speech fields and11_SHORTS_CUT_MAP.csv for audio extraction. The planned3s CTA fits all four30s caps; final rendered Shorts remain unmeasured. Two zero-duration ASR points and low lexical matches are explicitly flagged; no ASR-driven script rewrite is authorized. Existing source/rights and Resolve review holds remain.

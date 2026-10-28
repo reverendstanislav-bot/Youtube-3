@@ -1,0 +1,11 @@
+paragraph_id,exact_token_match_ratio,speech_start_sec,speech_end_sec,status,note
+P001,0.8333,0.0,16.2,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P006,0.7097,92.5,113.54,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P016,0.8364,286.38,304.14,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P023,0.8246,432.34,452.58,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P025,0.8382,470.56,494.9,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P026,0.7681,495.4,520.98,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P027,0.7361,521.34,545.1,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P029,0.7115,568.7,587.74,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P032,0.82,633.44,652.1,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.
+P047,0.7941,935.76,948.6,ASR_LEXICAL_MISMATCH_REVIEW_NOT_PROVEN_AUDIO_ERROR,Owner accepted audio; exact-match score is affected by hyphenation and recognized numeric forms. Do not rewrite narration from ASR.

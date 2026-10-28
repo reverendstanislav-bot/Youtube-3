@@ -25,7 +25,8 @@
       "end_frame": 411,
       "start_timecode": "00:00:00:00",
       "end_timecode": "00:00:16:11",
-      "duration_sec": 16.44
+      "duration_sec": 16.44,
+      "speech_start_sec_verified": 0.0
     },
     {
       "paragraph_id": "P002",
@@ -38,7 +39,8 @@
       "end_frame": 859,
       "start_timecode": "00:00:16:11",
       "end_timecode": "00:00:34:09",
-      "duration_sec": 17.92
+      "duration_sec": 17.92,
+      "speech_start_sec_verified": 16.68
     },
     {
       "paragraph_id": "P003",
@@ -51,7 +53,8 @@
       "end_frame": 1316,
       "start_timecode": "00:00:34:09",
       "end_timecode": "00:00:52:16",
-      "duration_sec": 18.28
+      "duration_sec": 18.28,
+      "speech_start_sec_verified": 34.52
     },
     {
       "paragraph_id": "P004",
@@ -64,7 +67,8 @@
       "end_frame": 1760,
       "start_timecode": "00:00:52:16",
       "end_timecode": "00:01:10:10",
-      "duration_sec": 17.76
+      "duration_sec": 17.76,
+      "speech_start_sec_verified": 52.86
     },
     {
       "paragraph_id": "P005",
@@ -77,7 +81,8 @@
       "end_frame": 2305,
       "start_timecode": "00:01:10:10",
       "end_timecode": "00:01:32:05",
-      "duration_sec": 21.8
+      "duration_sec": 21.8,
+      "speech_start_sec_verified": 70.56
     },
     {
       "paragraph_id": "P006",
@@ -90,7 +95,8 @@
       "end_frame": 2850,
       "start_timecode": "00:01:32:05",
       "end_timecode": "00:01:54:00",
-      "duration_sec": 21.8
+      "duration_sec": 21.8,
+      "speech_start_sec_verified": 92.5
     },
     {
       "paragraph_id": "P007",
@@ -103,7 +109,8 @@
       "end_frame": 3344,
       "start_timecode": "00:01:54:00",
       "end_timecode": "00:02:13:19",
-      "duration_sec": 19.76
+      "duration_sec": 19.76,
+      "speech_start_sec_verified": 114.44
     },
     {
       "paragraph_id": "P008",
@@ -116,7 +123,8 @@
       "end_frame": 3763,
       "start_timecode": "00:02:13:19",
       "end_timecode": "00:02:30:13",
-      "duration_sec": 16.76
+      "duration_sec": 16.76,
+      "speech_start_sec_verified": 133.66
     },
     {
       "paragraph_id": "P009",
@@ -129,7 +137,8 @@
       "end_frame": 4242,
       "start_timecode": "00:02:30:13",
       "end_timecode": "00:02:49:17",
-      "duration_sec": 19.16
+      "duration_sec": 19.16,
+      "speech_start_sec_verified": 150.76
     },
     {
       "paragraph_id": "P010",
@@ -142,7 +151,8 @@
       "end_frame": 4651,
       "start_timecode": "00:02:49:17",
       "end_timecode": "00:03:06:01",
-      "duration_sec": 16.36
+      "duration_sec": 16.36,
+      "speech_start_sec_verified": 170.0
     },
     {
       "paragraph_id": "P011",
@@ -155,7 +165,8 @@
       "end_frame": 5208,
       "start_timecode": "00:03:06:01",
       "end_timecode": "00:03:28:08",
-      "duration_sec": 22.28
+      "duration_sec": 22.28,
+      "speech_start_sec_verified": 186.54
     },
     {
       "paragraph_id": "P012",
@@ -168,7 +179,8 @@
       "end_frame": 5688,
       "start_timecode": "00:03:28:08",
       "end_timecode": "00:03:47:13",
-      "duration_sec": 19.2
+      "duration_sec": 19.2,
+      "speech_start_sec_verified": 208.64
     },
     {
       "paragraph_id": "P013",
@@ -181,7 +193,8 @@
       "end_frame": 6128,
       "start_timecode": "00:03:47:13",
       "end_timecode": "00:04:05:03",
-      "duration_sec": 17.6
+      "duration_sec": 17.6,
+      "speech_start_sec_verified": 228.04
     },
     {
       "paragraph_id": "P014",
@@ -194,7 +207,8 @@
       "end_frame": 6598,
       "start_timecode": "00:04:05:03",
       "end_timecode": "00:04:23:23",
-      "duration_sec": 18.8
+      "duration_sec": 18.8,
+      "speech_start_sec_verified": 245.38
     },
     {
       "paragraph_id": "P015",
@@ -207,7 +221,8 @@
       "end_frame": 7152,
       "start_timecode": "00:04:23:23",
       "end_timecode": "00:04:46:02",
-      "duration_sec": 22.16
+      "duration_sec": 22.16,
+      "speech_start_sec_verified": 264.18
     },
     {
       "paragraph_id": "P016",
@@ -220,7 +235,8 @@
       "end_frame": 7609,
       "start_timecode": "00:04:46:02",
       "end_timecode": "00:05:04:09",
-      "duration_sec": 18.28
+      "duration_sec": 18.28,
+      "speech_start_sec_verified": 286.38
     },
     {
       "paragraph_id": "P017",
@@ -233,7 +249,8 @@
       "end_frame": 8169,
       "start_timecode": "00:05:04:09",
       "end_timecode": "00:05:26:19",
-      "duration_sec": 22.4
+      "duration_sec": 22.4,
+      "speech_start_sec_verified": 304.58
     },
     {
       "paragraph_id": "P018",
@@ -246,7 +263,8 @@
       "end_frame": 8649,
       "start_timecode": "00:05:26:19",
       "end_timecode": "00:05:45:24",
-      "duration_sec": 19.2
+      "duration_sec": 19.2,
+      "speech_start_sec_verified": 327.18
     },
     {
       "paragraph_id": "P019",
@@ -259,7 +277,8 @@
       "end_frame": 9226,
       "start_timecode": "00:05:45:24",
       "end_timecode": "00:06:09:01",
-      "duration_sec": 23.08
+      "duration_sec": 23.08,
+      "speech_start_sec_verified": 346.38
     },
     {
       "paragraph_id": "P020",
@@ -272,7 +291,8 @@
       "end_frame": 9738,
       "start_timecode": "00:06:09:01",
       "end_timecode": "00:06:29:13",
-      "duration_sec": 20.48
+      "duration_sec": 20.48,
+      "speech_start_sec_verified": 369.28
     },
     {
       "paragraph_id": "P021",
@@ -285,7 +305,8 @@
       "end_frame": 10298,
       "start_timecode": "00:06:29:13",
       "end_timecode": "00:06:51:23",
-      "duration_sec": 22.4
+      "duration_sec": 22.4,
+      "speech_start_sec_verified": 389.72
     },
     {
       "paragraph_id": "P022",
@@ -298,7 +319,8 @@
       "end_frame": 10803,
       "start_timecode": "00:06:51:23",
       "end_timecode": "00:07:12:03",
-      "duration_sec": 20.2
+      "duration_sec": 20.2,
+      "speech_start_sec_verified": 412.2
     },
     {
       "paragraph_id": "P023",
@@ -311,7 +333,8 @@
       "end_frame": 11326,
       "start_timecode": "00:07:12:03",
       "end_timecode": "00:07:33:01",
-      "duration_sec": 20.92
+      "duration_sec": 20.92,
+      "speech_start_sec_verified": 432.34
     },
     {
       "paragraph_id": "P024",
@@ -324,7 +347,8 @@
       "end_frame": 11756,
       "start_timecode": "00:07:33:01",
       "end_timecode": "00:07:50:06",
-      "duration_sec": 17.2
+      "duration_sec": 17.2,
+      "speech_start_sec_verified": 453.46
     },
     {
       "paragraph_id": "P025",
@@ -337,7 +361,8 @@
       "end_frame": 12379,
       "start_timecode": "00:07:50:06",
       "end_timecode": "00:08:15:04",
-      "duration_sec": 24.92
+      "duration_sec": 24.92,
+      "speech_start_sec_verified": 470.56
     },
     {
       "paragraph_id": "P026",
@@ -350,7 +375,8 @@
       "end_frame": 13029,
       "start_timecode": "00:08:15:04",
       "end_timecode": "00:08:41:04",
-      "duration_sec": 26.0
+      "duration_sec": 26.0,
+      "speech_start_sec_verified": 495.4
     },
     {
       "paragraph_id": "P027",
@@ -363,7 +389,8 @@
       "end_frame": 13632,
       "start_timecode": "00:08:41:04",
       "end_timecode": "00:09:05:07",
-      "duration_sec": 24.12
+      "duration_sec": 24.12,
+      "speech_start_sec_verified": 521.34
     },
     {
       "paragraph_id": "P028",
@@ -376,7 +403,8 @@
       "end_frame": 14206,
       "start_timecode": "00:09:05:07",
       "end_timecode": "00:09:28:06",
-      "duration_sec": 22.96
+      "duration_sec": 22.96,
+      "speech_start_sec_verified": 545.48
     },
     {
       "paragraph_id": "P029",
@@ -389,7 +417,8 @@
       "end_frame": 14700,
       "start_timecode": "00:09:28:06",
       "end_timecode": "00:09:48:00",
-      "duration_sec": 19.76
+      "duration_sec": 19.76,
+      "speech_start_sec_verified": 568.7
     },
     {
       "paragraph_id": "P030",
@@ -402,7 +431,8 @@
       "end_frame": 15248,
       "start_timecode": "00:09:48:00",
       "end_timecode": "00:10:09:23",
-      "duration_sec": 21.92
+      "duration_sec": 21.92,
+      "speech_start_sec_verified": 588.3
     },
     {
       "paragraph_id": "P031",
@@ -415,7 +445,8 @@
       "end_frame": 15820,
       "start_timecode": "00:10:09:23",
       "end_timecode": "00:10:32:20",
-      "duration_sec": 22.88
+      "duration_sec": 22.88,
+      "speech_start_sec_verified": 610.08
     },
     {
       "paragraph_id": "P032",
@@ -428,7 +459,8 @@
       "end_frame": 16309,
       "start_timecode": "00:10:32:20",
       "end_timecode": "00:10:52:09",
-      "duration_sec": 19.56
+      "duration_sec": 19.56,
+      "speech_start_sec_verified": 632.8
     },
     {
       "paragraph_id": "P033",
@@ -441,7 +473,8 @@
       "end_frame": 16826,
       "start_timecode": "00:10:52:09",
       "end_timecode": "00:11:13:01",
-      "duration_sec": 20.68
+      "duration_sec": 20.68,
+      "speech_start_sec_verified": 652.62
     },
     {
       "paragraph_id": "P034",
@@ -454,7 +487,8 @@
       "end_frame": 17340,
       "start_timecode": "00:11:13:01",
       "end_timecode": "00:11:33:15",
-      "duration_sec": 20.56
+      "duration_sec": 20.56,
+      "speech_start_sec_verified": 673.32
     },
     {
       "paragraph_id": "P035",
@@ -467,7 +501,8 @@
       "end_frame": 17866,
       "start_timecode": "00:11:33:15",
       "end_timecode": "00:11:54:16",
-      "duration_sec": 21.04
+      "duration_sec": 21.04,
+      "speech_start_sec_verified": 693.94
     },
     {
       "paragraph_id": "P036",
@@ -480,7 +515,8 @@
       "end_frame": 18412,
       "start_timecode": "00:11:54:16",
       "end_timecode": "00:12:16:12",
-      "duration_sec": 21.84
+      "duration_sec": 21.84,
+      "speech_start_sec_verified": 714.9
     },
     {
       "paragraph_id": "P037",
@@ -493,7 +529,8 @@
       "end_frame": 19010,
       "start_timecode": "00:12:16:12",
       "end_timecode": "00:12:40:10",
-      "duration_sec": 23.92
+      "duration_sec": 23.92,
+      "speech_start_sec_verified": 736.82
     },
     {
       "paragraph_id": "P038",
@@ -506,7 +543,8 @@
       "end_frame": 19568,
       "start_timecode": "00:12:40:10",
       "end_timecode": "00:13:02:18",
-      "duration_sec": 22.32
+      "duration_sec": 22.32,
+      "speech_start_sec_verified": 760.72
     },
     {
       "paragraph_id": "P039",
@@ -519,7 +557,8 @@
       "end_frame": 20072,
       "start_timecode": "00:13:02:18",
       "end_timecode": "00:13:22:22",
-      "duration_sec": 20.16
+      "duration_sec": 20.16,
+      "speech_start_sec_verified": 782.94
     },
     {
       "paragraph_id": "P040",
@@ -532,7 +571,8 @@
       "end_frame": 20591,
       "start_timecode": "00:13:22:22",
       "end_timecode": "00:13:43:16",
-      "duration_sec": 20.76
+      "duration_sec": 20.76,
+      "speech_start_sec_verified": 803.2
     },
     {
       "paragraph_id": "P041",
@@ -545,7 +585,8 @@
       "end_frame": 21081,
       "start_timecode": "00:13:43:16",
       "end_timecode": "00:14:03:06",
-      "duration_sec": 19.6
+      "duration_sec": 19.6,
+      "speech_start_sec_verified": 823.86
     },
     {
       "paragraph_id": "P042",
@@ -558,7 +599,8 @@
       "end_frame": 21564,
       "start_timecode": "00:14:03:06",
       "end_timecode": "00:14:22:14",
-      "duration_sec": 19.32
+      "duration_sec": 19.32,
+      "speech_start_sec_verified": 843.58
     },
     {
       "paragraph_id": "P043",
@@ -571,7 +613,8 @@
       "end_frame": 22107,
       "start_timecode": "00:14:22:14",
       "end_timecode": "00:14:44:07",
-      "duration_sec": 21.72
+      "duration_sec": 21.72,
+      "speech_start_sec_verified": 862.86
     },
     {
       "paragraph_id": "P044",
@@ -584,7 +627,8 @@
       "end_frame": 22584,
       "start_timecode": "00:14:44:07",
       "end_timecode": "00:15:03:09",
-      "duration_sec": 19.08
+      "duration_sec": 19.08,
+      "speech_start_sec_verified": 884.74
     },
     {
       "paragraph_id": "P045",
@@ -597,7 +641,8 @@
       "end_frame": 23066,
       "start_timecode": "00:15:03:09",
       "end_timecode": "00:15:22:16",
-      "duration_sec": 19.28
+      "duration_sec": 19.28,
+      "speech_start_sec_verified": 903.52
     },
     {
       "paragraph_id": "P046",
@@ -610,7 +655,8 @@
       "end_frame": 23386,
       "start_timecode": "00:15:22:16",
       "end_timecode": "00:15:35:11",
-      "duration_sec": 12.8
+      "duration_sec": 12.8,
+      "speech_start_sec_verified": 922.92
     },
     {
       "paragraph_id": "P047",
@@ -623,7 +669,8 @@
       "end_frame": 23719,
       "start_timecode": "00:15:35:11",
       "end_timecode": "00:15:48:19",
-      "duration_sec": 13.32
+      "duration_sec": 13.32,
+      "speech_start_sec_verified": 935.76
     },
     {
       "paragraph_id": "P048",
@@ -636,7 +683,8 @@
       "end_frame": 24090,
       "start_timecode": "00:15:48:19",
       "end_timecode": "00:16:03:15",
-      "duration_sec": 14.84
+      "duration_sec": 14.84,
+      "speech_start_sec_verified": 948.92
     },
     {
       "paragraph_id": "P049",
@@ -649,7 +697,8 @@
       "end_frame": 24396,
       "start_timecode": "00:16:03:15",
       "end_timecode": "00:16:15:21",
-      "duration_sec": 12.24
+      "duration_sec": 12.24,
+      "speech_start_sec_verified": 963.62
     },
     {
       "paragraph_id": "P050",
@@ -662,7 +711,8 @@
       "end_frame": 24695,
       "start_timecode": "00:16:15:21",
       "end_timecode": "00:16:27:20",
-      "duration_sec": 11.96
+      "duration_sec": 11.96,
+      "speech_start_sec_verified": 975.98
     }
   ],
   "segments": [
@@ -32778,5 +32828,15 @@
       "probability": 0.99537
     }
   ],
-  "authority_note": "ASR is timing evidence only; 08_VOICE_SCRIPT_MASTER.txt remains text authority."
+  "authority_note": "ASR is timing evidence only; 08_VOICE_SCRIPT_MASTER.txt remains text authority.",
+  "audio_sha256": "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72",
+  "master_sample_rate": 24000,
+  "master_pcm_samples": 23707200,
+  "source_github_ref": "ca49daf58a23620e78173de3e3bc3ef4a17bc82b",
+  "stage11_verification": "PASS_STRUCTURAL_TIMING_WITH_EXPLICIT_ASR_WARNINGS",
+  "word_timing_qualification": "Raw ASR timings retained including zero-duration points; no invented word-level acoustic precision or semantic rewrite",
+  "zero_duration_asr_word_indices": [
+    798,
+    1277
+  ]
 }
