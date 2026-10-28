@@ -1,16 +1,19 @@
-# VIDEO008 — Stage08 Harrison Voice Script (TEXT ONLY) — 2026-10-27
+# VIDEO008 - Stage10 Audio Master - 2026-10-28
 
-**Current stage: 08_VOICE_SCRIPT; G08 PASS. Stage09–Stage19 have NOT advanced.**
+**Current stage:10_AUDIO_MASTER; G10 PASS (sample-exact assembly, independent technical review, owner accepted source listening). Stage11 not started.**
 
-Canonical English text remains LOCKED in `07_SCRIPT_FINAL.md` (Git blob SHA-1 `56cd30e67994db6ce2ba0a658da73ccaff11c97b`). New `08_VOICE_SCRIPT_MASTER.txt` uses exact same blob as `07_NARRATION_TEXT_LOCKED.txt` SHA-1 `c3269a579798b78578d8f57fd77df964c8c352ba`. **50 original spoken paragraphs, 2,548 words, no modifications**.
+Native master: **VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav**, **987.800 seconds /16:27.800**, PCM16 mono24000Hz; SHA256 `5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72`.
+[Download](https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video008-harrison-v5-audio-master-20261028/VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav) | [Five source WAVs + QC](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video008-harrison-v5-audio-master-20261028)
 
-Voice parts `08_VOICE_SEGMENT_01.txt`…`05.txt`: **489 / 535 / 543 / 552 / 429** spoken words, two acts each, perfect reconstruction of master. `08_VOICE_SEGMENTS.csv` indexes 5 chunks; `08_VOICE_PARAGRAPH_MAP.csv` locks all 50 original IDs and Shorts. Pronunciation/delivery: `08_HARRISON_PRONUNCIATION_GUIDE.md`; source fidelity and upcoming spend gate: `08_VOICE_SCRIPT_QC.md`. Four Shorts locked in long-form at P008/P013/P029/P032, final <=30 seconds including CTA and ending remains **UNMEASURED**.
+Five Voicebox jobs completed under the explicitly approved Harrison/Qwen3-TTS1.7B local plan, 0credits. The owner reported "Проверил, норм" and authorized Stage10. All source bytes retained; master PCM exactly equals their ordered samples. No speed, pitch, gain, normalization, effects, resampling, trim or inserted silence. Independent technical review passed. Human voice acceptance and technical evidence are distinct; no independent semantic ASR pass claimed.
 
-**Voice identity:** Harrison, Higgsfield preset `573e5163-59b3-4926-aab1-951ef2985f81`. Engine/model not chosen; quota/credit generation not authorized. No voice job, TTS, test, images or video produced. Forecast run time at 145wpm is 17.57 minutes excluding pauses, not actual audio.
+Locked V5/Stage08 inputs unchanged:2548words,50paragraphs,5parts,4nativeShorts. Stage11 word timing and Shorts final durations remain pending. Existing visual assets/rights/source holds remain unchanged.
 
-G07 83/100 G06R current-V5 editorial PASS and legal source-scoped 46 PASS / 4 WARN / 0 HIGH unchanged, full 14MB SEC S1 not audited end-to-end. Stage16 final source refresh remains required.
+Next possible task: Stage11 transcript and visual timeline, only on a new owner instruction. See 10_AUDIO_MASTER.md and 10_AUDIO_MASTER/AUDIO_LOCK_2026-10-28.md.
 
-**Next boundary:** Owner must explicitly request Stage09 and any audio job spend separately. Do not advance automatically.
+## Retained visual production history
+
+The snapshots below predate this audio lock; the current audio and formal stage status are recorded above.
 
 ## Latest VIDEO008 visual planning correction — 2026-10-27
 Owner rejected 200 shots as too many for ~17:34. **Previous 200-shot and 140-/70-stock-video proposals superseded.** Current preproduction plan is **110 meaningful shots** (~9.6s average but not a forced cut cadence): 40 stock video, 25 stock photos, 24 authentic SEC/issuer document proof crops, 21 unique Remotion data graphics/tables; **0 compulsory generations**. Five optional photo-generation prompts replace existing shots only after separate owner permission, not additional scenes.

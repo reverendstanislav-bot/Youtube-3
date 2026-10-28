@@ -7,9 +7,9 @@ pillar: "AI_IPO_FINANCIAL_GOVERNANCE"
 priority: "8"
 status: "IN_PREPARATION"
 created: "2026-10-26"
-last_updated: "2026-10-27"
-current_stage: "08_VOICE_SCRIPT"
-next_action: "Visual asset package materialized for the 110-scene plan: 108 full PASS, SC106 partial/HOLD, SC043 HOLD. Run separately authorized Stage09/10 Harrison audio, then Stage11 word timing before synchronized assembly."
+last_updated: "2026-10-28"
+current_stage: "10_AUDIO_MASTER"
+next_action: "Stage10 native Harrison V5 master complete and owner-accepted sources preserved; Stage11 transcript/word timing requires separate owner instruction. Existing visual holds unchanged."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -22,8 +22,8 @@ stages:
   stage_06_performance_review: "PASS_G06R_CURRENT_V5_83_OF_100_HARD_GATES_CLEAR_FACT_SOURCE_SCOPED"
   stage_07_script_lock: "PASS_G07_VERBATIM_V5_2548WORDS_50P_4SHORTS_TEXT_LOCK_SOURCE_SCOPED"
   stage_08_voice_script: "PASS_VERBATIM_HARRISON_TEXT_2548_WORDS_FIVE_SEGMENTS_NO_SPEND"
-  stage_09_voice_qa_lock: "NOT_STARTED"
-  stage_10_audio_master: "NOT_STARTED"
+  stage_09_voice_qa_lock: "PASS_OWNER_LISTENING_ACCEPTED_5_SOURCE_WAVS_TECH_DECODE"
+  stage_10_audio_master: "PASS_SAMPLE_EXACT_NATIVE_PCM_INDEPENDENT_TECH_QC"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
   stage_12_visual_source_generation_plan: "NOT_STARTED"
   stage_13_visual_asset_qc: "NOT_STARTED"
@@ -40,7 +40,7 @@ locks:
   case_story_map: true
   final_script: true
   voice_input: true
-  audio_master: false
+  audio_master: true
   visual_timeline: false
   visual_assets: false
   edit_master: false
@@ -63,12 +63,17 @@ voice:
   voice_script_master: "08_VOICE_SCRIPT_MASTER.txt"
   voice_segment_map: "08_VOICE_SEGMENTS.csv"
   voice_segment_count: 5
-  engine_model_status: "NOT_LOCKED"
+  engine_model_status: "OWNER_APPROVED_VOICEBOX_QWEN3_TTS_1_7B_LOCAL_HARRISON"
+  execution_profile_id: "228d3d8a-096f-461b-bf11-4f9415e2dafc"
+  local_generation_authorized: true
+  generation_count: 5
+  generation_credits_spent: 0
+  voice_acceptance: "OWNER_LISTENING_ACCEPTED_2026_10_28"
 
 audio:
-  runtime_sec: ""
-  file_or_uri: ""
-  checksum: ""
+  runtime_sec: 987.8
+  file_or_uri: "https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video008-harrison-v5-audio-master-20261028/VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav"
+  checksum: "5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72"
 
 shorts:
   required: true
