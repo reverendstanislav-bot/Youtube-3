@@ -9,7 +9,7 @@ status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-27"
 current_stage: "08_VOICE_SCRIPT"
-next_action: "Lean VIDEO008 preproduction 110-scene plan replaces old 200; 40 stock video, 25 photos, 24 authentic documents, 21 original data GFX. Find/verify sources after owner approval; Harrison audio and exact word-sync pending. No generation authorized."
+next_action: "Visual asset package materialized for the 110-scene plan: 108 full PASS, SC106 partial/HOLD, SC043 HOLD. Run separately authorized Stage09/10 Harrison audio, then Stage11 word timing before synchronized assembly."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -88,7 +88,11 @@ shorts:
 
 assets:
   manifest: "ASSET_MANIFEST.csv"
-  external_storage_root: ""
+  external_storage_root: "https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video008-visual-assets-20261027"
+  source_archive: "VIDEO008_SOURCE_ARCHIVE.zip"
+  source_archive_sha256: "0D96E76793E4E88C581368B8DA9AA96B206425035838D04E277F09AA06948CC3"
+  final_visual_pack: "VIDEO008_FINAL_VISUAL_PACK.zip"
+  final_visual_pack_sha256: "6D65FCD3301296466492ABB81057151630890510ABD4D04F9255A39EE5D214AA"
 
 qa:
   topic: "PASS_GO_OWNER_LOCKED_88_6"
@@ -99,7 +103,7 @@ qa:
   performance: "PASS_G06R_83_OF_100_CURRENT_V5_EDITORIAL_NOT_AUDIENCE_DATA"
   source_scope_recheck: "PASS_05R_46_PASS_4_CONDITIONAL_WARN_0_HIGH"
   voice_text_integrity: "PASS_G08_MASTER_BYTE_IDENTICAL_G07_50P_2548_WORDS_5_CHUNKS"
-  visual: "NOT_RUN"
+  visual: "ASSET_TECH_PASS_108_FULL_1_PARTIAL_1_HOLD_AUDIO_SYNC_PENDING"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
@@ -130,7 +134,7 @@ script_lock:
 
 # Lean Visual Preproduction — 110 scenes, does NOT advance Stage11/12
 visual_preproduction:
-  status: "DRAFT_110_SCENES_SOURCE_RIGHTS_AND_AUDIO_SYNC_PENDING"
+  status: "MATERIALIZED_110_ROW_PACKAGE_AUDIO_SYNC_AND_FINAL_RIGHTS_PENDING"
   prior_200_scene_plan: "SUPERSEDED_DO_NOT_USE"
   scene_plan: "12_PREPRODUCTION_SCENE_PLAN.csv"
   placeholder_timeline: "SCENE_TIMELINE.csv"
@@ -147,7 +151,17 @@ visual_preproduction:
   required_generations: 0
   optional_replacement_prompts_count: 5
   license_cleared_assets: 0
-  completed_visual_assets: 0
+  rights_records_present_assets: 65
+  completed_visual_assets: 109
+  fully_qc_pass_assets: 108
+  partial_hold_assets: 1
+  full_hold_assets: 1
+  stock_video_full_decode_pass: 40
+  stock_photo_crop_pass: 25
+  authentic_document_full_pass: 22
+  remotion_render_pass: 21
+  optional_ai_stills_generated: 0
+  credits_spent: 0
   actual_audio_synced_timestamps: false
   video_generation_allowed: false
   paid_generation_authorized: false

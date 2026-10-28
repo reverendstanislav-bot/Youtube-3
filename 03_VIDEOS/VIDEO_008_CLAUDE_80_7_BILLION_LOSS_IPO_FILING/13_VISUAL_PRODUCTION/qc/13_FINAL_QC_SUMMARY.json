@@ -1,0 +1,14 @@
+{
+  "planned_scenes": 110,
+  "asset_manifest_rows": 110,
+  "stock_videos": 40,
+  "stock_photos": 25,
+  "document_tasks": 24,
+  "document_full_pass": 22,
+  "document_partial_hold": 1,
+  "document_full_hold": 1,
+  "remotion_graphics": 21,
+  "optional_ai_stills_generated": 0,
+  "credits_spent": 0,
+  "formal_pipeline_stage": "08 (unchanged; narration/audio synchronization absent)"
+}
