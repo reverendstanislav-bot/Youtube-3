@@ -7,11 +7,11 @@
 - Manifest cardinality: 110/110 current-plan scene rows.
 - Stock: 65/65 downloaded, unique assignments, exact landing pages and SHA-256 recorded.
 - Video decode: 40/40 PASS with `ffmpeg -v error -xerror`.
-- Photos: 25/25 readable originals and 25/25 1920×1080 crops.
+- Photos: 20 active stock assignments plus 5 retained stock fallbacks; all source crops readable.
 - Authentic documents: 22 full crop PASS, SC106 partial PASS/HOLD, SC043 HOLD.
 - Remotion: 21/21 renders at 1920×1080; source project included; lower 20% caption-safe.
 - Preview contact sheets inspected for all four classes.
-- AI generation: 0 images, 0 credits.
+- Generated replacements: 5/5 at 1920×1080, visual QC PASS; built-in credit accounting unavailable.
 - Source and final ZIP integrity: PASS.
 
 ## Restrictions

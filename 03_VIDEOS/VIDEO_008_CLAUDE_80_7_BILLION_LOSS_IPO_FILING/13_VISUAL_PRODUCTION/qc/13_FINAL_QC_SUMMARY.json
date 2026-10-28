@@ -8,7 +8,10 @@
   "document_partial_hold": 1,
   "document_full_hold": 1,
   "remotion_graphics": 21,
-  "optional_ai_stills_generated": 0,
+  "optional_ai_stills_generated": 5,
   "credits_spent": 0,
-  "formal_pipeline_stage": "08 (unchanged; narration/audio synchronization absent)"
+  "formal_pipeline_stage": "08 (unchanged; narration/audio synchronization absent)",
+  "active_stock_photos": 20,
+  "stock_photo_fallbacks_retained": 25,
+  "generation_cost_reporting": "Built-in tool did not expose per-image credits"
 }

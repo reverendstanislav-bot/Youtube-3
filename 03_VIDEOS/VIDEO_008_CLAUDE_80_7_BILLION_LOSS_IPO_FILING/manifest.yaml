@@ -92,7 +92,7 @@ assets:
   source_archive: "VIDEO008_SOURCE_ARCHIVE.zip"
   source_archive_sha256: "0D96E76793E4E88C581368B8DA9AA96B206425035838D04E277F09AA06948CC3"
   final_visual_pack: "VIDEO008_FINAL_VISUAL_PACK.zip"
-  final_visual_pack_sha256: "6D65FCD3301296466492ABB81057151630890510ABD4D04F9255A39EE5D214AA"
+  final_visual_pack_sha256: "A036C4BE2A478DB8DE35FBBFBB000FA67049FC356F75E2BEF5FAC56BAB602D1A"
 
 qa:
   topic: "PASS_GO_OWNER_LOCKED_88_6"
@@ -158,10 +158,13 @@ visual_preproduction:
   full_hold_assets: 1
   stock_video_full_decode_pass: 40
   stock_photo_crop_pass: 25
+  active_stock_photo_assignments: 20
+  retained_stock_photo_fallbacks: 25
   authentic_document_full_pass: 22
   remotion_render_pass: 21
-  optional_ai_stills_generated: 0
-  credits_spent: 0
+  optional_ai_stills_generated: 5
+  generated_stills_visual_qc: "PASS_5_OF_5_1920X1080"
+  generation_cost_reporting: "BUILT_IN_TOOL_DID_NOT_EXPOSE_PER_IMAGE_CREDITS"
   actual_audio_synced_timestamps: false
   video_generation_allowed: false
   paid_generation_authorized: false

@@ -11,10 +11,10 @@ Formal pipeline stage: **08 remains current**. This package is not audio-synchro
 | Class | Planned | Materialized | Technical result |
 |---|---:|---:|---|
 | Stock video | 40 | 40 | 40/40 unique files; ffprobe + full ffmpeg decode PASS |
-| Stock photos | 25 | 25 | 25/25 originals plus 1920×1080 crops PASS |
+| Stock photos | 25 | 25 | 20 active assignments plus 5 retained fallbacks; all crops PASS |
 | Authentic evidence | 24 | 23 crops | 22 full PASS; SC106 partial PASS/HOLD; SC043 HOLD |
 | Remotion graphics | 21 | 21 | 21/21 PNG 1920×1080 PASS; editable sources included |
-| Optional AI still replacements | 5 maximum | 0 | Cost condition not confirmable; 0 credits spent |
+| Generated replacement stills | 5 | 5 | 5/5 normalized to 1920×1080 and visual QC PASS |
 | Total scene rows | 110 | 109 files / 110 manifest rows | 108 full PASS, 1 partial/HOLD, 1 HOLD |
 
 ## Rights and provenance
@@ -27,12 +27,12 @@ Document crops use actual downloaded SEC/issuer pixels with a local yellow outli
 
 - `SC043`: official Broadcom infographic/source endpoint returned Access Denied. Rejected denial pages were deleted; no substitute was presented as Broadcom evidence.
 - `SC106`: SEC ~$125.2B lease crop is authentic and passed. Required Broadcom-side juxtaposition remains HOLD for the same source-access reason.
-- `SC023`, `SC047`, `SC079`, `SC096`, `SC110`: optional AI replacements were not generated because GPT Image 2 cost in credits could not be confirmed at `<=0.5` each. Existing stock assignments remain active.
+- `SC023`, `SC047`, `SC079`, `SC096`, `SC110`: owner-authorized conceptual replacements were generated on 2026-10-28. Original stock assignments remain packaged as fallbacks. The built-in tool did not expose per-image credit accounting, so no numeric cost claim is made.
 
 ## Archives
 
 - `VIDEO008_SOURCE_ARCHIVE.zip` — 849,021,568 bytes — SHA-256 `0D96E76793E4E88C581368B8DA9AA96B206425035838D04E277F09AA06948CC3`
-- `VIDEO008_FINAL_VISUAL_PACK.zip` — 819,174,124 bytes — SHA-256 `6D65FCD3301296466492ABB81057151630890510ABD4D04F9255A39EE5D214AA`
+- `VIDEO008_FINAL_VISUAL_PACK.zip` — 833,356,031 bytes — SHA-256 `A036C4BE2A478DB8DE35FBBFBB000FA67049FC356F75E2BEF5FAC56BAB602D1A`
 - Both archives passed `ZipFile.testzip()`.
 - Release: `video008-visual-assets-20261027`.
 

@@ -1,6 +1,10 @@
 # VIDEO008 — OPTIONAL illustration replacement prompts (5 maximum, zero required)
 
-**CURRENT 110-SHOT CORE HAS ZERO MANDATORY GENERATIONS.** These are optional replacements for existing stock assignments ONLY, not five new scenes. Use an original stock source first. Nothing in this file authorizes an image, video, credit, or paid generation. Exact selected scene, provider, cost and batch require owner approval.
+## Execution receipt — 2026-10-28
+
+Owner explicitly authorized generation after the original preproduction hold. SC023, SC047, SC079, SC096 and SC110 were generated as conceptual stills, normalized to 1920×1080 and passed visual QC. They do not replace or impersonate evidence. Original stock assignments are retained as fallbacks. The built-in tool did not expose numeric per-image credit accounting.
+
+**CURRENT 110-SHOT CORE HAS ZERO MANDATORY GENERATIONS.** These are optional replacements for existing stock assignments ONLY, not five new scenes. Use an original stock source first. The original preproduction authorization restriction is superseded only for the five scenes listed in the execution receipt above.
 
 **Source and style lock:** WHAT IT COST factual legal/business documentary, full-width 16:9, realistic textures, charcoal and natural warm-gray lighting, clean documentary compositions, lower 25% calm under moving white captions. Images are strictly conceptual illustration, not evidence and cannot impersonate Anthropic/Broadcom locations, executives or documents.
 
