@@ -8,8 +8,8 @@ priority: "8"
 status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-28"
-current_stage: "10_AUDIO_MASTER"
-next_action: "Stage10 native Harrison V5 master complete and owner-accepted sources preserved; Stage11 transcript/word timing requires separate owner instruction. Existing visual holds unchanged."
+current_stage: "15_ASSEMBLY_EDIT"
+next_action: "Restart Resolve in-app bridge; save and visually inspect VIDEO008_ASSEMBLY_V1_25FPS, then perform full real-time AV review. Structural assembly is complete; no final render authorized or claimed."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -24,11 +24,11 @@ stages:
   stage_08_voice_script: "PASS_VERBATIM_HARRISON_TEXT_2548_WORDS_FIVE_SEGMENTS_NO_SPEND"
   stage_09_voice_qa_lock: "PASS_OWNER_LISTENING_ACCEPTED_5_SOURCE_WAVS_TECH_DECODE"
   stage_10_audio_master: "PASS_SAMPLE_EXACT_NATIVE_PCM_INDEPENDENT_TECH_QC"
-  stage_11_transcript_visual_timeline: "NOT_STARTED"
-  stage_12_visual_source_generation_plan: "NOT_STARTED"
-  stage_13_visual_asset_qc: "NOT_STARTED"
-  stage_14_graphics_documents_music_sfx: "NOT_STARTED"
-  stage_15_assembly_edit: "NOT_STARTED"
+  stage_11_transcript_visual_timeline: "PASS_50P_110SCENES_24695F_4SHORTS_TIMED"
+  stage_12_visual_source_generation_plan: "PASS_110_SCENE_SOURCE_PLAN_MATERIALIZED"
+  stage_13_visual_asset_qc: "PASS_WITH_SC043_SOURCE_HOLD_SC106_PARTIAL"
+  stage_14_graphics_documents_music_sfx: "PASS_VISUALS_ONLY_NO_MUSIC_SFX_REQUESTED"
+  stage_15_assembly_edit: "HOLD_SAVE_VISUAL_AND_FULL_REALTIME_AV_REVIEW_STRUCTURAL_V1_COMPLETE"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
@@ -41,8 +41,8 @@ locks:
   final_script: true
   voice_input: true
   audio_master: true
-  visual_timeline: false
-  visual_assets: false
+  visual_timeline: true
+  visual_assets: true
   edit_master: false
   final_fact_legal_refresh: false
   packaging: false
@@ -86,7 +86,7 @@ shorts:
   stage_07_lock: "07_SHORTS_LOCK.csv"
   locked_count: 4
   max_complete_short_seconds: 30
-  audio_duration_qc: "PENDING_ACTUAL_HARRISON_AND_ENDING"
+  audio_duration_qc: "PASS_4_OF_4_WITHIN_30_SECONDS_FROM_LOCKED_MASTER"
   stage_11_cut_map: "11_SHORTS_CUT_MAP.csv"
   audio_source: "FINAL_AUDIO_MASTER"
   vertical_strategy: "REFRAME_OR_ALT_LAYOUT_SAME_AUDIO_STORY"
@@ -108,8 +108,8 @@ qa:
   performance: "PASS_G06R_83_OF_100_CURRENT_V5_EDITORIAL_NOT_AUDIENCE_DATA"
   source_scope_recheck: "PASS_05R_46_PASS_4_CONDITIONAL_WARN_0_HIGH"
   voice_text_integrity: "PASS_G08_MASTER_BYTE_IDENTICAL_G07_50P_2548_WORDS_5_CHUNKS"
-  visual: "ASSET_TECH_PASS_108_FULL_1_PARTIAL_1_HOLD_AUDIO_SYNC_PENDING"
-  edit: "NOT_RUN"
+  visual: "ASSET_TECH_PASS_AUDIO_ALIGNED_110_SCENES_SC043_CONTEXT_FALLBACK_SC106_PARTIAL"
+  edit: "STRUCTURAL_PASS_25FPS_24695F_110_SCENES_PLUS_12_ONE_FRAME_HOLDS_0_GAPS_0_OVERLAPS_SAVE_AND_AV_REVIEW_HOLD"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
   prepublication: "NOT_RUN"
@@ -170,6 +170,6 @@ visual_preproduction:
   optional_ai_stills_generated: 5
   generated_stills_visual_qc: "PASS_5_OF_5_1920X1080"
   generation_cost_reporting: "BUILT_IN_TOOL_DID_NOT_EXPOSE_PER_IMAGE_CREDITS"
-  actual_audio_synced_timestamps: false
+  actual_audio_synced_timestamps: true
   video_generation_allowed: false
   paid_generation_authorized: false

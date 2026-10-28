@@ -1,15 +1,15 @@
-# VIDEO008 - Stage10 Audio Master - 2026-10-28
+# VIDEO008 - Stage11 Audio-Aligned Timeline / Resolve Assembly V1 - 2026-10-28
 
-**Current stage:10_AUDIO_MASTER; G10 PASS (sample-exact assembly, independent technical review, owner accepted source listening). Stage11 not started.**
+**Current stage:15_ASSEMBLY_EDIT; G11 PASS and Resolve V1 structurally assembled. Save/visual/full real-time AV review remains HOLD after the in-app bridge disconnected during frame capture.**
 
 Native master: **VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav**, **987.800 seconds /16:27.800**, PCM16 mono24000Hz; SHA256 `5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72`.
 [Download](https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video008-harrison-v5-audio-master-20261028/VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav) | [Five source WAVs + QC](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video008-harrison-v5-audio-master-20261028)
 
 Five Voicebox jobs completed under the explicitly approved Harrison/Qwen3-TTS1.7B local plan, 0credits. The owner reported "Проверил, норм" and authorized Stage10. All source bytes retained; master PCM exactly equals their ordered samples. No speed, pitch, gain, normalization, effects, resampling, trim or inserted silence. Independent technical review passed. Human voice acceptance and technical evidence are distinct; no independent semantic ASR pass claimed.
 
-Locked V5/Stage08 inputs unchanged:2548words,50paragraphs,5parts,4nativeShorts. Stage11 word timing and Shorts final durations remain pending. Existing visual assets/rights/source holds remain unchanged.
+Locked V5/Stage08 inputs remain unchanged: 2548 words, 50 paragraphs, 5 parts, 4 native Shorts. Faster-Whisper base supplied timing evidence only: 50/50 paragraphs and 110 scenes cover the 987.800-second master at 25 fps; all four Shorts are timed and within the 30-second cap. Existing rights/source holds remain unchanged.
 
-Next possible task: Stage11 transcript and visual timeline, only on a new owner instruction. See 10_AUDIO_MASTER.md and 10_AUDIO_MASTER/AUDIO_LOCK_2026-10-28.md.
+Resolve project `YT3 VID8` contains `VIDEO008_ASSEMBLY_V1_25FPS`: A1 is the unchanged Harrison master; V1 contains 110 planned scenes plus 12 one-frame last-frame holds required to close mixed-frame-rate rounding gaps. Structural readback: 24695 frames, 0 gaps, 0 overlaps, no subtitle/music/SFX tracks. See `11_VISUAL_TIMELINE.md`, `11_SCENE_TIMELINE.csv`, and `11_RESOLVE_ASSEMBLY_QC.md`. Do not claim final edit delivery until the bridge is restarted, the project is saved, representative frames are inspected, and a full real-time AV review passes.
 
 ## Retained visual production history
 
