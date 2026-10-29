@@ -12,3 +12,5 @@
 | 2026-10-28 | Stage04 | Reviewed English V1 and four Shorts against DOJ and SEC; 8 core checks PASS; standalone SH03/04 and SH02 timing HOLD, opening pacing pending | QC HOLD; no Stage05 |
 
 | 2026-10-28 | Stage05 | Local V2 EN/RU, immutable local V1, four contiguous Shorts reviewed; first-minute tightened and standalone Shorts corrected | EDITORIAL PASS LOCAL / GITHUB SOURCE SYNC HOLD |
+
+| 2026-10-28 | Stage05 Git sync | Four full scripts V1/V2 EN/RU committed to main; verified four git blob SHA matches against local originals | PASS 4/4; Stage06 NOT_STARTED |
