@@ -21,3 +21,5 @@ Stage05 owner-authorized targeted V2 complete in conversation files; local V1 pr
 
 ## Stage05R revision (2026-10-28)
 V3 English and Russian uploaded and read back. 1900 English words, -416 vs V2. First minute and Acts 5-9 unchanged; Acts 2-4 and 10 tightened. Four Shorts remain in long-form. Stage06 V3 not evaluated; Stage07 remains blocked. See 05R_REVISION_QC.md.
+
+Stage06R (V3) completed: editorial PASS 84/100 vs 82 threshold. Source 06R_PERFORMANCE_REVIEW_V3.md. Runtime projected about 13 minutes and audio timing not measured; rights/source holds persist. Stage07 not started.
