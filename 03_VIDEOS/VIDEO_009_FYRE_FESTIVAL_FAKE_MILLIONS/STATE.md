@@ -23,3 +23,5 @@ Stage05 owner-authorized targeted V2 complete in conversation files; local V1 pr
 V3 English and Russian uploaded and read back. 1900 English words, -416 vs V2. First minute and Acts 5-9 unchanged; Acts 2-4 and 10 tightened. Four Shorts remain in long-form. Stage06 V3 not evaluated; Stage07 remains blocked. See 05R_REVISION_QC.md.
 
 Stage06R (V3) completed: editorial PASS 84/100 vs 82 threshold. Source 06R_PERFORMANCE_REVIEW_V3.md. Runtime projected about 13 minutes and audio timing not measured; rights/source holds persist. Stage07 not started.
+
+2026-10-28 Stage07 SCRIPT TEXT LOCK PASS: V3 EN/RU Git blob identities frozen, four contiguous Shorts locked and independent legal scope reconciled against DOJ/SEC official sources. See 07_SCRIPT_LOCK.md. Audio timing and visual rights remain separate HOLD; Stage08 not started.
