@@ -11,3 +11,5 @@ Money integrity: DOJ >$24m investor losses plus $2m ticket-vendor loss; $26,040,
 No original PDF pixels captured or documentary footage rights cleared. 2026 Fyre revival status excluded. Historical claims only; fresh legal refresh mandatory before publish. No paid jobs run; no images, voice, or video generated. Stage02: 10 acts / 40 beats / 4 contiguous Shorts planned. 02_CASE_STORY_MAP.md, 02_BEAT_MAP.csv, 02_SHORTS_ARCHITECTURE.md, 02_STAGE02_QC.md. Stage03 requires separate owner instruction.
 
 Opening retention override: 02_CASE_STORY_MAP.md 0:00–5:00 replaces early act timings with 10 precise time slots, 3 evidence reveals in first minute. Earlier 40-beat map retained for broader film; first 20 old beat placements superseded. Stage03 NOT STARTED.
+
+Stage04 source/legal read completed 2026-10-28: eight central money/legal checks PASS. Four Shorts: SH01 PASS; SH02 timing HOLD; SH03 and SH04 standalone context HOLD. Opening 60-sec actual pacing unverified. 04_FACT_LEGAL_QC.md. Stage03 English/Russian canonical bytes not yet in GitHub (local output only). No Stage05 requested.
