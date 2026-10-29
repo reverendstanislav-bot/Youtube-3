@@ -20,3 +20,5 @@
 | 2026-10-28 | Stage06R | Fresh V3 review, 84/100 editorial PASS; runtime and rights warnings retained | PASS editorial; Stage07 not started |
 
 | 2026-10-28 | Stage07 | Locked V3 EN/RU and 4 verbatim Shorts; DOJ/SEC legal scope reconciled | SCRIPT LOCK PASS; audio/visual rights separate HOLD |
+
+| 2026-10-28 | Stage08 | Harrison text prepared: 1804 words, five parts, four untouched Shorts, no audio produced | TEXT PASS; Stage09 not started |
