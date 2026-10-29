@@ -1,0 +1,947 @@
+[
+  {
+    "scene_id": "SC002",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC002_EDITABLE.comp",
+    "frames": 214,
+    "timeline_start": 115,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC002_CLEAN_V3.png",
+    "headline": "TWO DIFFERENT LOSSES",
+    "summary": "GAAP -$80.748B  |  OPERATING -$0.693B",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC002_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC066_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC005",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC005_EDITABLE.comp",
+    "frames": 273,
+    "timeline_start": 586,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC005_COMPOSITION_CLEAN_PROPS_V2.png",
+    "headline": "THE ACCOUNTING REVALUATION",
+    "summary": "-$72.388B  |  H1 2026",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC005_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC005_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        434,
+        628,
+        31
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC007",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC007_EDITABLE.comp",
+    "frames": 242,
+    "timeline_start": 969,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC007_CLEAN_V3.png",
+    "headline": "ONE DAY. TWO EVENTS.",
+    "summary": "OCT 26, 2026  |  09:00 FILING  /  16:15 ANNOUNCEMENT",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC007_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC102_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        414,
+        443,
+        187,
+        13
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC010",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC010_EDITABLE.comp",
+    "frames": 235,
+    "timeline_start": 1423,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC010_CLEAN_V3.png",
+    "headline": "WHO BUYS THE MACHINES?",
+    "summary": "FINANCIERS  /  SPV  /  BROADCOM EQUIPMENT  /  ANTHROPIC",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC010_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC013",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC013_EDITABLE.comp",
+    "frames": 332,
+    "timeline_start": 1973,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC013_CLEAN_V3.png",
+    "headline": "FIVE YEARS OF RENT",
+    "summary": "~$125.2B  |  EXCLUDING INTEREST",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC013_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC013_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        443,
+        624,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC015",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC015_EDITABLE.comp",
+    "frames": 289,
+    "timeline_start": 2436,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC015_CLEAN_V3.png",
+    "headline": "REVENUE SURGED",
+    "summary": "H1 2025: $1.163B  |  H1 2026: $16.286B",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC015_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC092_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC018",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC018_EDITABLE.comp",
+    "frames": 301,
+    "timeline_start": 3043,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC018_CLEAN_V3.png",
+    "headline": "THE PHYSICAL COST OF GROWTH",
+    "summary": "$8.945B  |  COMPUTE + INFRASTRUCTURE  |  H1 2026",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC018_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC018_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC020",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC020_EDITABLE.comp",
+    "frames": 222,
+    "timeline_start": 3445,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC020_CLEAN_V3.png",
+    "headline": "FINANCING THE MACHINES",
+    "summary": "$63B ANNOUNCED EQUIPMENT FINANCING",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC020_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC025",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC025_EDITABLE.comp",
+    "frames": 249,
+    "timeline_start": 4402,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC025_CLEAN_V3.png",
+    "headline": "GROWTH DOES NOT REMOVE RISK",
+    "summary": "FORWARD-LOOKING STATEMENTS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC025_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC025_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        443,
+        628,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC027",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC027_EDITABLE.comp",
+    "frames": 340,
+    "timeline_start": 4868,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC027_CLEAN_V3.png",
+    "headline": "RENT UNDER SPECIFIED TERMS",
+    "summary": "FIVE-YEAR ARRANGEMENT  |  EXCLUDING INTEREST",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC027_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC027_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        465,
+        624,
+        47
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC029",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC029_EDITABLE.comp",
+    "frames": 293,
+    "timeline_start": 5395,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC029_CLEAN_V3.png",
+    "headline": "PAYMENTS FOLLOW READINESS",
+    "summary": "READY FOR SERVICE  /  QUARTERLY PAYMENTS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC029_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC013_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        465,
+        624,
+        47
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC031",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC031_EDITABLE.comp",
+    "frames": 233,
+    "timeline_start": 5794,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC031_CLEAN_V3.png",
+    "headline": "WHEN THE PAYMENTS START",
+    "summary": "EQUIPMENT READINESS  |  QUARTERLY INSTALMENTS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC031_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC013_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        465,
+        624,
+        47
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC034",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC034_EDITABLE.comp",
+    "frames": 287,
+    "timeline_start": 6311,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC034_CLEAN_V3.png",
+    "headline": "THE COST OF REVERSING COURSE",
+    "summary": "NON-CANCELLABILITY  |  CONTRACTUAL QUALIFIERS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC034_CONFORMED_RGBA_FINAL.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC013_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        473,
+        624,
+        181
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC036",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC036_EDITABLE.comp",
+    "frames": 338,
+    "timeline_start": 6814,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC036_CLEAN_V3.png",
+    "headline": "DO NOT ADD THESE",
+    "summary": "$125.2B GROSS RENT  |  $63B FINANCING  |  OVERLAP UNRECONCILED",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC036_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC106_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        443,
+        628,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC038",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC038_EDITABLE.comp",
+    "frames": 279,
+    "timeline_start": 7330,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC038_CLEAN_V3.png",
+    "headline": "THE VEHICLE OWNS THE HARDWARE",
+    "summary": "SPV PURCHASE  |  LEASE TO ANTHROPIC",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC038_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC040",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC040_EDITABLE.comp",
+    "frames": 297,
+    "timeline_start": 7743,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC040_CLEAN_V3.png",
+    "headline": "TWO FINANCING LAYERS",
+    "summary": "FIRST LIEN: BOFA / CITI / MS  |  SECOND-LIEN PORTION: BLACKSTONE",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC040_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC043",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC043_EDITABLE.comp",
+    "frames": 293,
+    "timeline_start": 8356,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC043_CLEAN_V3.png",
+    "headline": "RESIDUAL-VALUE SUPPORT",
+    "summary": "TIED TO THE FIRST-LIEN PORTION  |  NO CASH PAYMENT PROVEN",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC043_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC045",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC045_EDITABLE.comp",
+    "frames": 352,
+    "timeline_start": 8874,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC045_CLEAN_V3.png",
+    "headline": "ARRANGED BEFORE DELIVERY",
+    "summary": "2026 ANNOUNCEMENT  /  2027 EXPECTED DELIVERIES",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC045_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC049",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC049_EDITABLE.comp",
+    "frames": 342,
+    "timeline_start": 9956,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC049_CLEAN_V3.png",
+    "headline": "UP TO IS THE CRUCIAL PHRASE",
+    "summary": "$42B POTENTIAL NOTES  |  SUBJECT TO CONDITIONS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC049_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC049_SRC004_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        306,
+        441,
+        341,
+        19
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC051",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC051_EDITABLE.comp",
+    "frames": 308,
+    "timeline_start": 10495,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC051_CLEAN_V3.png",
+    "headline": "A FORMULA IS NOT A RECEIPT",
+    "summary": "$30B NOTE-PURCHASE FORMULA  |  CONDITIONS APPLY",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC051_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC051_SRC005_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        300,
+        372,
+        981,
+        19
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC053",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC053_EDITABLE.comp",
+    "frames": 319,
+    "timeline_start": 11007,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC053_CLEAN_V3.png",
+    "headline": "PRINCIPAL IS A DIFFERENT MEASURE",
+    "summary": "$6.2B AMAZON NOTE PRINCIPAL  |  JUNE 30, 2026",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC053_CONFORMED_RGBA_FINAL.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC053_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        701,
+        443,
+        65,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC055",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC055_EDITABLE.comp",
+    "frames": 262,
+    "timeline_start": 11494,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC055_CLEAN_V3.png",
+    "headline": "THREE DIFFERENT MEASURES",
+    "summary": "CONDITIONAL NOTES  |  EQUIPMENT RENT  |  CUSTOMER REVENUE",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC055_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC049_SRC004_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        306,
+        441,
+        341,
+        19
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC057",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC057_EDITABLE.comp",
+    "frames": 380,
+    "timeline_start": 11999,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC057_CLEAN_V3.png",
+    "headline": "THE FAIR-VALUE LINE",
+    "summary": "-$72.388B  |  FINANCING INSTRUMENT REVALUATION",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC057_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC057_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        434,
+        628,
+        31
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC059",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC059_EDITABLE.comp",
+    "frames": 345,
+    "timeline_start": 12535,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC059_CLEAN_V3.png",
+    "headline": "THE OPERATING CALCULATION",
+    "summary": "$16.286B - $16.979B = -$0.693B",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC059_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC066_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC062",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC062_EDITABLE.comp",
+    "frames": 368,
+    "timeline_start": 13264,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC062_CLEAN_V3.png",
+    "headline": "BELOW THE OPERATING LINE",
+    "summary": "+$1.111B INTEREST  |  -$8.757B OTHER EXPENSE  |  -$21M TAX",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC062_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC062_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC064",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC064_EDITABLE.comp",
+    "frames": 350,
+    "timeline_start": 13856,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC064_CLEAN_V3.png",
+    "headline": "TWO DIFFERENT RISKS",
+    "summary": "REPORTED ACCOUNTING CHARGE  |  FUTURE RENT EXPOSURE",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC064_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC057_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        434,
+        628,
+        31
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC066",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC066_EDITABLE.comp",
+    "frames": 261,
+    "timeline_start": 14325,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC066_CLEAN_V3.png",
+    "headline": "THE HEADLINE EXPLAINED",
+    "summary": "GAAP -$80.748B  |  OPERATING -$0.693B  |  FV -$72.388B",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC066_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC066_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC069",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC069_EDITABLE.comp",
+    "frames": 334,
+    "timeline_start": 14914,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC069_CLEAN_V3.png",
+    "headline": "CAPITAL AND CONTROL",
+    "summary": "ECONOMIC PARTICIPATION  |  GENERAL SHAREHOLDER VOTES",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC069_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC071_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        424,
+        628,
+        52
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC071",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC071_EDITABLE.comp",
+    "frames": 349,
+    "timeline_start": 15471,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC071_CLEAN_V3.png",
+    "headline": "ONE SPECIAL CLASS F SHARE",
+    "summary": "50.1% OF GENERAL VOTING POWER  |  PROPOSED STRUCTURE",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC071_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC071_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        424,
+        628,
+        52
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC073",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC073_EDITABLE.comp",
+    "frames": 260,
+    "timeline_start": 15937,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC073_CLEAN_V3.png",
+    "headline": "TWO GOVERNANCE MECHANISMS",
+    "summary": "CLASS F: GENERAL VOTES  |  CLASS T: DIRECTOR ELECTIONS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC073_CONFORMED_RGBA_FINAL.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC076_SRC008_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        8,
+        531,
+        1584,
+        36
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC076",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC076_EDITABLE.comp",
+    "frames": 315,
+    "timeline_start": 16511,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC076_CLEAN_V3.png",
+    "headline": "THE TRUST RIGHTS HAVE CONDITIONS",
+    "summary": "MAJORITY OF AUTHORIZED DIRECTORS  |  SPECIAL SEAT APPROVAL",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC076_CONFORMED_RGBA_FINAL.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC076_SRC008_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        8,
+        531,
+        1584,
+        36
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC078",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC078_EDITABLE.comp",
+    "frames": 314,
+    "timeline_start": 17026,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC078_CLEAN_V3.png",
+    "headline": "IF THE OFFERING CLOSES",
+    "summary": "PROPOSED POST-OFFERING STRUCTURE  |  CONDITIONS APPLY",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC078_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC102_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        414,
+        443,
+        187,
+        13
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC080",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC080_EDITABLE.comp",
+    "frames": 321,
+    "timeline_start": 17545,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC080_CLEAN_V3.png",
+    "headline": "WHO EVALUATES THE DECISION?",
+    "summary": "GENERAL VOTES  |  BOARD OVERSIGHT  |  DIRECTOR ELECTIONS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC080_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC071_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        424,
+        628,
+        52
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC082",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC082_EDITABLE.comp",
+    "frames": 333,
+    "timeline_start": 18079,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC082_CLEAN_V3.png",
+    "headline": "UNUSUAL EVALUATION SETUPS",
+    "summary": "ANTHROPIC ACCOUNT  |  NOT NORMAL CUSTOMER USE",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC082_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC082_SRC011_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        440,
+        365,
+        710,
+        225
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC084",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC084_EDITABLE.comp",
+    "frames": 365,
+    "timeline_start": 18645,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC084_CLEAN_V3.png",
+    "headline": "FOUR REPORTED INCIDENTS",
+    "summary": "ISSUER ASSESSMENT  |  INVESTIGATED + PARTIES NOTIFIED",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC084_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC084_SRC011_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        440,
+        365,
+        710,
+        225
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC086",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC086_EDITABLE.comp",
+    "frames": 340,
+    "timeline_start": 19228,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC086_CLEAN_V3.png",
+    "headline": "A DEMAND FOR INFORMATION",
+    "summary": "ISSUER-REPORTED FTC INQUIRY  |  NO VIOLATION FINDING",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC086_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC086_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        443,
+        628,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC090",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC090_EDITABLE.comp",
+    "frames": 317,
+    "timeline_start": 20274,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC090_CLEAN_V3.png",
+    "headline": "WHAT THE EVIDENCE CAN SHOW",
+    "summary": "DOCUMENTED TERMS  |  FUTURE DEMAND + OUTCOME UNKNOWN",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC090_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC100_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        424,
+        628,
+        52
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC092",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC092_EDITABLE.comp",
+    "frames": 299,
+    "timeline_start": 20782,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC092_CLEAN_V3.png",
+    "headline": "THE CASE FOR EXPANSION",
+    "summary": "$1.163B TO $16.286B  |  COMPARABLE HALF-YEARS",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC092_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC092_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC094",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC094_EDITABLE.comp",
+    "frames": 295,
+    "timeline_start": 21269,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC094_CLEAN_V3.png",
+    "headline": "FUNDING CANNOT GUARANTEE SALES",
+    "summary": "$63B ANNOUNCED  /  EQUIPMENT EXPECTED FROM 2027",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC094_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC038_SRC017_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        7,
+        421,
+        1586,
+        58
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC098",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC098_EDITABLE.comp",
+    "frames": 291,
+    "timeline_start": 22293,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC098_CLEAN_V3.png",
+    "headline": "TWO DIFFERENT CLOCKS",
+    "summary": "PAST HALF-YEAR RESULT  |  FUTURE FIVE-YEAR RENT",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC098_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC013_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        443,
+        628,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC100",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC100_EDITABLE.comp",
+    "frames": 294,
+    "timeline_start": 22772,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC100_CLEAN_V3.png",
+    "headline": "BUYING STOCK AND BUYING CONTROL",
+    "summary": "VOTING RIGHTS  |  ECONOMIC RIGHTS  |  PROPOSED IPO",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC100_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC100_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        424,
+        628,
+        52
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC102",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC102_EDITABLE.comp",
+    "frames": 195,
+    "timeline_start": 23191,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC102_CLEAN_V3.png",
+    "headline": "THE FILING WAS PRELIMINARY",
+    "summary": "OCT 26, 2026  |  OFFERING NOT YET COMPLETED",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC102_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC102_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        414,
+        443,
+        187,
+        13
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC104",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC104_EDITABLE.comp",
+    "frames": 203,
+    "timeline_start": 23516,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC104_CLEAN_V3.png",
+    "headline": "THREE ROWS. THREE MEANINGS.",
+    "summary": "ACCOUNTING MEASURES  |  NO INVENTED CASH-FLOW TOTAL",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC104_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC066_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        486,
+        440,
+        628,
+        20
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC106",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC106_EDITABLE.comp",
+    "frames": 226,
+    "timeline_start": 23864,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC106_CLEAN_V3.png",
+    "headline": "FUTURE EXPOSURE, DIFFERENT MEASURES",
+    "summary": "~$125.2B RENT  |  $63B ANNOUNCED FINANCING",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC106_SOURCE_PIXELS.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC106_SRC001_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        488,
+        443,
+        624,
+        14
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  },
+  {
+    "scene_id": "SC108",
+    "comp_path": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\COMPS\\SC108_EDITABLE.comp",
+    "frames": 187,
+    "timeline_start": 24209,
+    "photo": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\IMAGEGEN_REPLACEMENTS\\SC108_CLEAN_V3.png",
+    "headline": "THE VOTE IS A SEPARATE QUESTION",
+    "summary": "FOUNDER CLASS F  |  TRUST CLASS T  |  CONDITIONS APPLY",
+    "source_excerpt": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\FUSION_V3\\AUTHENTIC_EXCERPTS\\SC108_CONFORMED_RGBA_FINAL.png",
+    "source_pixels": {
+      "source": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\VIDEO008_FINAL_VISUAL_PACK\\DOCUMENTS\\CROPS\\SC076_SRC008_AUTHENTIC_CROP.png",
+      "crop_xywh": [
+        8,
+        531,
+        1584,
+        36
+      ]
+    },
+    "source_text_qc": "SOURCE_PIXEL_EXTRACTION_NOT_GENERATED",
+    "status": "BUILT_IMPORT_AND_RENDER_QC_PENDING"
+  }
+]

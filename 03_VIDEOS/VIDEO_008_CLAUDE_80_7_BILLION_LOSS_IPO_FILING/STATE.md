@@ -1,6 +1,11 @@
 # VIDEO008 - Stage11 Audio-Aligned Timeline / Resolve Assembly V1 - 2026-10-28
 
-**Current stage:15_ASSEMBLY_EDIT; G11 PASS and Resolve V1 structurally assembled. Save/visual/full real-time AV review remains HOLD after the in-app bridge disconnected during frame capture.**
+## Latest native Fusion render - 2026-10-29
+
+Full 16:27.800 / 24695-frame Resolve V4 review master exported at 1920x1080/25fps. 45 editable Fusion compositions installed; independent source/qualifier corrections applied; output metadata and full decode verified. Main local file: `C:\Users\KK\VIDEO008_PRODUCTION\DELIVERY\WHAT_IT_COST_VIDEO008_FUSION_V4_1080P25.mp4`. See `15_FUSION_V4_DELIVERY_QC.md` and machine-readable delivery QC. Continuous real-time AV review and owner picture acceptance remain HOLD; no downstream approval claimed.
+
+
+**Current stage:15_ASSEMBLY_EDIT; V4 Fusion review master rendered and technically verified. Full real-time AV review / owner picture acceptance remain HOLD.**
 
 Native master: **VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav**, **987.800 seconds /16:27.800**, PCM16 mono24000Hz; SHA256 `5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72`.
 [Download](https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video008-harrison-v5-audio-master-20261028/VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav) | [Five source WAVs + QC](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video008-harrison-v5-audio-master-20261028)
