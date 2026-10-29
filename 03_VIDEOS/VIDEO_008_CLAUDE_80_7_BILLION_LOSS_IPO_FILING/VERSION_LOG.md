@@ -2,6 +2,7 @@
 
 | Date | Area | Version | Change | Reason | Gate |
 |---|---|---|---|---|---|
+| 2026-10-29 | Clean Fusion and small endscreen | v25 | Removed45 owner-rejected overlay groups; replaced45 legacy source cards; reused selected illustrations; V6 small720x405 and260px endscreen last20sec; native render and final-MP4 geometry verified | Owner corrections and small YouTube endscreen | TECH_STATIC_PASS; continuous AV and owner picture acceptance HOLD |
 | 2026-10-29 | Native Fusion delivery | v24 | 45 clean bases installed as editable Fusion compositions; source pixels and separate yellow emphasis; saved DRP and full 1080p25 review export; output hash/probe/decode/scene samples | Owner authorized full montage and render | TECHNICAL_PASS; continuous AV and owner picture acceptance HOLD |
 | 2026-10-26 | Stage00 | v01 | Owner-approved Anthropic topic qualified 88.6/100; created package from canonical template; registered index and Stage00 finance wording locks | Public SEC S-1 same day | PASS_GO / Stage01 NOT_STARTED |
 | 2026-10-26 | Stage01 | v02 | Source-scoped deep S-1 research: 15 sources / 44 claim rows / 18 event anchors; direct SEC governance/finance exhibits and first-party safety disclosure; independent-source adversarial factual QC with 16 issues | Accurate accounting, contracts, control and inquiry language; full main S1 14MB browser access blocker | RESEARCH_DELIVERED / FACT_QC_HIGH_HOLDS; Stage02 BLOCKED |

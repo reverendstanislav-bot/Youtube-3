@@ -1,0 +1,273 @@
+{
+  "technical_qc": "PASS",
+  "container_operation": "V6 silent picture rendered entirely by Resolve. Native video copied without re-encoding; approved locked WAV encoded directly as AAC and muxed at time zero. V3 native-audio discrepancy avoided. No ffmpeg visual assembly.",
+  "duration_sec": 987.8,
+  "frames": 24695,
+  "fps": "25/1",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 1,
+  "full_decode": "PASS_FFMPEG_XERROR",
+  "scene_samples": 110,
+  "visual_sample_review": "PASS_MAKER_110_V6_MIDPOINTS_AND_NATIVE_FINAL_END_FRAME_GEOMETRY",
+  "continuous_real_time_av_review": "NOT_CLAIMED",
+  "owner_visual_acceptance": "PENDING",
+  "files": [
+    {
+      "file": "WHAT_IT_COST_VIDEO008_V6_SMALL_ENDSCREEN_1080P25.mp4",
+      "bytes": 1379544743,
+      "sha256": "da86b8376d646c5bd3b7c7d11c63c8ba72260bc88f93f92c0e67177f4b44a384"
+    },
+    {
+      "file": "WHAT_IT_COST_VIDEO008_V6_SMALL_ENDSCREEN_1080P25.mov",
+      "bytes": 1357442231,
+      "sha256": "340eb28138e96d2637e061a52a90d9c5bb83645a3fada34035edc37c1698da0f"
+    },
+    {
+      "file": "VIDEO008_V6_SMALL_ENDSCREEN.drp",
+      "bytes": 3567479,
+      "sha256": "6440648a521c9f1c2560a87bc4fbf5168222a80f55f5eeb7bcad65b1154b5bff"
+    }
+  ],
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "Main",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "mime_codec_string": "avc1.4d4032",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "has_b_frames": 1,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 50,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "25/1",
+        "avg_frame_rate": "25/1",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 12643840,
+        "duration": "987.800000",
+        "bit_rate": "10991650",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "24695",
+        "extradata_size": 40,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "encoder": "H.264",
+          "timecode": "01:00:00:00"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "mime_codec_string": "mp4a.40.2",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 1,
+        "channel_layout": "mono",
+        "bits_per_sample": 0,
+        "initial_padding": 1024,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 47414400,
+        "duration": "987.800000",
+        "bit_rate": "175374",
+        "nb_frames": "46305",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler"
+        }
+      },
+      {
+        "index": 2,
+        "codec_type": "data",
+        "codec_tag_string": "tmcd",
+        "codec_tag": "0x64636d74",
+        "id": "0x3",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "12800/512",
+        "time_base": "1/12800",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 12643840,
+        "duration": "987.800000",
+        "nb_frames": "1",
+        "extradata_size": 20,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "VideoHandler",
+          "timecode": "01:00:00:00"
+        }
+      }
+    ],
+    "format": {
+      "filename": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\WHAT_IT_COST_VIDEO008_V6_SMALL_ENDSCREEN_1080P25.mp4",
+      "nb_streams": 3,
+      "nb_programs": 0,
+      "nb_stream_groups": 1,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "987.800000",
+      "size": "1379544743",
+      "bit_rate": "11172664",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf63.1.101"
+      }
+    }
+  },
+  "audio_master_comparison": {
+    "locked_master": "C:\\Users\\KK\\Youtube-3-video005-voice\\03_VIDEOS\\VIDEO_008_CLAUDE_80_7_BILLION_LOSS_IPO_FILING\\10_AUDIO_MASTER\\VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav",
+    "comparison": "AAC delivery decoded to 24k mono compared against locked native master",
+    "correlation": 0.9999713994954288,
+    "rms_gain_ratio": 0.9992042183876038,
+    "master_samples": 23707200,
+    "delivery_decoded_samples": 23707200,
+    "result": "PASS_NO_MISSING_REORDERED_OR_GAIN_CHANGED_NARRATION_DETECTED"
+  },
+  "endscreen_qc": {
+    "native_preview": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\RENDER_QC\\V6_SMALL_ENDSCREEN_PLACED_QC.png",
+    "canvas": [
+      1920,
+      1080
+    ],
+    "design_window": [
+      720,
+      405
+    ],
+    "design_circle": [
+      260,
+      260
+    ],
+    "detected_window_contour": [
+      722,
+      407
+    ],
+    "detected_circle_contour": [
+      262,
+      262
+    ],
+    "duration_frames": 500,
+    "fps": 25,
+    "duration_seconds": 20,
+    "timeline_record_range": [
+      114195,
+      114695
+    ],
+    "status": "PASS_FINAL_MP4_LAST_FRAME_GEOMETRY",
+    "final_mp4_last_frame": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\ENDSCREEN\\V6_FINAL_LAST_FRAME.jpg",
+    "final_window_contour": [
+      722,
+      407
+    ],
+    "final_circle_contour": [
+      262,
+      262
+    ]
+  },
+  "timeline_name": "VIDEO008_V6_SMALL_ENDSCREEN_25FPS",
+  "v1_body_structural_match_to_v5": true,
+  "native_render_job_id": "a157f2c9-0357-4d75-a4ed-3cf30ca876c0",
+  "independent_review_scope": "V5_110_BODY_MIDPOINTS_AND_CORRECTED_KEY_SCENES; NO_INDEPENDENT_V6_RELEASE_APPROVAL"
+}

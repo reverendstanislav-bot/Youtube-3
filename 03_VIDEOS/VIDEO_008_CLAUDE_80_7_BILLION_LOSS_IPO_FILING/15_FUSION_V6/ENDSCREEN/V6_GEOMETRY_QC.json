@@ -1,0 +1,40 @@
+{
+  "native_preview": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\RENDER_QC\\V6_SMALL_ENDSCREEN_PLACED_QC.png",
+  "canvas": [
+    1920,
+    1080
+  ],
+  "design_window": [
+    720,
+    405
+  ],
+  "design_circle": [
+    260,
+    260
+  ],
+  "detected_window_contour": [
+    722,
+    407
+  ],
+  "detected_circle_contour": [
+    262,
+    262
+  ],
+  "duration_frames": 500,
+  "fps": 25,
+  "duration_seconds": 20,
+  "timeline_record_range": [
+    114195,
+    114695
+  ],
+  "status": "PASS_FINAL_MP4_LAST_FRAME_GEOMETRY",
+  "final_mp4_last_frame": "C:\\Users\\KK\\VIDEO008_PRODUCTION\\ENDSCREEN\\V6_FINAL_LAST_FRAME.jpg",
+  "final_window_contour": [
+    722,
+    407
+  ],
+  "final_circle_contour": [
+    262,
+    262
+  ]
+}

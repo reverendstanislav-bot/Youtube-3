@@ -1,11 +1,12 @@
-# VIDEO008 - Stage11 Audio-Aligned Timeline / Resolve Assembly V1 - 2026-10-28
+# VIDEO008 — V6 clean edit and small endscreen — 2026-10-29
 
-## Latest native Fusion render - 2026-10-29
+**Current stage:15_ASSEMBLY_EDIT. Technical and static-frame QC PASS; continuous AV review / owner picture acceptance HOLD.**
 
-Full 16:27.800 / 24695-frame Resolve V4 review master exported at 1920x1080/25fps. 45 editable Fusion compositions installed; independent source/qualifier corrections applied; output metadata and full decode verified. Main local file: `C:\Users\KK\VIDEO008_PRODUCTION\DELIVERY\WHAT_IT_COST_VIDEO008_FUSION_V4_1080P25.mp4`. See `15_FUSION_V4_DELIVERY_QC.md` and machine-readable delivery QC. Continuous real-time AV review and owner picture acceptance remain HOLD; no downstream approval claimed.
+Current file: `C:\Users\KK\VIDEO008_PRODUCTION\DELIVERY\WHAT_IT_COST_VIDEO008_V6_SMALL_ENDSCREEN_1080P25.mp4`. Full16:27.800 /24695frames /1080p25. Resolve timeline `VIDEO008_V6_SMALL_ENDSCREEN_25FPS` in `YT3 VID8`.
 
+V4 rejected by owner and superseded. All45 intrusive overlay groups removed; legacy source-card files replaced with clean scene plates, including items70/77/83. Generated document bases remain illustrative in metadata. Final20seconds now use the correct small WHAT IT COST endscreen:720x405 video window and260px subscribe circle. Native preview and actual final MP4 last-frame geometry verified. V1 structure and approved Harrison soundtrack preserved. No new images/TTS, no Stage16 or publishing.
 
-**Current stage:15_ASSEMBLY_EDIT; V4 Fusion review master rendered and technically verified. Full real-time AV review / owner picture acceptance remain HOLD.**
+Current evidence and verified source archive link: `15_FUSION_V6_DELIVERY_QC.md` and `15_FUSION_V6/`. Historical notes below describe prior snapshots and are superseded where they conflict with this handoff.
 
 Native master: **VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav**, **987.800 seconds /16:27.800**, PCM16 mono24000Hz; SHA256 `5cf8cf37bb728e8a50456b08240824eca4a8d03583626519396eca0258a7ad72`.
 [Download](https://github.com/reverendstanislav-bot/Youtube-3/releases/download/video008-harrison-v5-audio-master-20261028/VIDEO008_HARRISON_V5_MASTER_24K_MONO_S16.wav) | [Five source WAVs + QC](https://github.com/reverendstanislav-bot/Youtube-3/releases/tag/video008-harrison-v5-audio-master-20261028)

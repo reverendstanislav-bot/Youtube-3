@@ -1,0 +1,140 @@
+Composition {
+	CurrentTime = 0,
+	RenderRange = { 0, 499 },
+	GlobalRange = { 0, 499 },
+	CurrentID = 3,
+	HiQ = true,
+	PlaybackUpdateMode = 0,
+	StereoMode = false,
+	Version = "DaVinci Resolve 21.0.3.0007",
+	SavedOutputs = 0,
+	HeldTools = 0,
+	DisabledTools = 0,
+	LockedTools = 0,
+	AudioOffset = 0,
+	Resumable = true,
+	OutputClips = {
+	},
+	Tools = {
+		MediaIn1 = Loader {
+			ExtentSet = true,
+			CustomData = {
+				MediaProps = {
+					MEDIA_AUDIO_TRACKS_DESC = {
+						{
+							MEDIA_AUDIO_BIT_DEPTH = 32,
+							MEDIA_AUDIO_FRAME_RATE = 25,
+							MEDIA_AUDIO_NUM_CHANNELS = 2,
+							MEDIA_AUDIO_SAMPLE_RATE = 48000,
+							MEDIA_AUDIO_START_TIME = 0,
+							MEDIA_AUDIO_TRACK_ID = "Timeline Audio",
+							MEDIA_AUDIO_TRACK_NAME = "Timeline Audio [VIDEO006_R25_SMALL_ENDSCREEN]"
+						}
+					},
+					MEDIA_AUDIO_TRACKS_NUM = 1,
+					MEDIA_FORMAT_TYPE = "PNG",
+					MEDIA_HAS_AUDIO = true,
+					MEDIA_HEIGHT = 1080,
+					MEDIA_ID = "4e33c547-0ff9-45ab-9cdf-b68bab1ac8d1",
+					MEDIA_IS_SOURCE_RES = true,
+					MEDIA_LAYER_DESC = {
+					},
+					MEDIA_MARK_IN = 0,
+					MEDIA_MARK_OUT = 499,
+					MEDIA_NAME = "ENDSCREEN_[00000-00499].png",
+					MEDIA_NUM_FRAMES = 500,
+					MEDIA_NUM_LAYERS = 0,
+					MEDIA_PAR = 1,
+					MEDIA_PATH = "C:\\Users\\KK\\video006_package_work\\ENDSCREEN_VIDEO3_20S\\ENDSCREEN_[00000-00499].png",
+					MEDIA_SRC_FRAME_RATE = 25,
+					MEDIA_START_FRAME = 0,
+					MEDIA_WIDTH = 1920
+				},
+			},
+			Inputs = {
+				GlobalOut = Input { Value = 499, },
+				AudioTrack = Input { Value = FuID { "Timeline Audio" }, },
+				Layer = Input { Value = "0", },
+				ClipTimeEnd = Input { Value = 499, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				DeepOutputMode = Input {
+					Value = 0,
+					Disabled = true,
+				},
+			},
+			Version = 1,
+			Clips = {
+				Clip {
+					ID = "Clip1",
+					Filename = "C:\\Users\\KK\\video006_package_work\\ENDSCREEN_VIDEO3_20S\\ENDSCREEN_00000.png",
+					Length = 500,
+					LengthSetManually = true,
+					GlobalEnd = 499,
+					TrimOut = 499,
+				}
+			}
+		},
+TextureTop = Transform { Inputs = { Input = Input { SourceOp = "MediaIn1", Source = "Output", }, Center = Input { Value = {0.5,0.675}, }, Size = Input { Value = 1.1, }, } },
+MaskTop = RectangleMask { Inputs = { Center = Input { Value = {0.33177083333333335,0.7666666666666667}, }, Width = Input { Value = 0.5208333333333334, }, Height = Input { Value = 0.014814814814814815, }, SoftEdge = Input { Value = 0.001, }, } },
+PatchTop = Merge { Inputs = { Background = Input { SourceOp = "MediaIn1", Source = "Output", }, Foreground = Input { SourceOp = "TextureTop", Source = "Output", }, EffectMask = Input { SourceOp = "MaskTop", Source = "Mask", }, PerformDepthMerge = Input { Value = 0, }, } },
+TextureBottom = Transform { Inputs = { Input = Input { SourceOp = "MediaIn1", Source = "Output", }, Center = Input { Value = {0.5,0.32685185185185184}, }, Size = Input { Value = 1.1, }, } },
+MaskBottom = RectangleMask { Inputs = { Center = Input { Value = {0.33177083333333335,0.2657407407407407}, }, Width = Input { Value = 0.5208333333333334, }, Height = Input { Value = 0.014814814814814815, }, SoftEdge = Input { Value = 0.001, }, } },
+PatchBottom = Merge { Inputs = { Background = Input { SourceOp = "PatchTop", Source = "Output", }, Foreground = Input { SourceOp = "TextureBottom", Source = "Output", }, EffectMask = Input { SourceOp = "MaskBottom", Source = "Mask", }, PerformDepthMerge = Input { Value = 0, }, } },
+TextureLeft = Transform { Inputs = { Input = Input { SourceOp = "MediaIn1", Source = "Output", }, Center = Input { Value = {0.39791666666666664,0.5}, }, Size = Input { Value = 1.1, }, } },
+MaskLeft = RectangleMask { Inputs = { Center = Input { Value = {0.07708333333333334,0.5166666666666667}, }, Width = Input { Value = 0.008333333333333333, }, Height = Input { Value = 0.49074074074074076, }, SoftEdge = Input { Value = 0.001, }, } },
+PatchLeft = Merge { Inputs = { Background = Input { SourceOp = "PatchBottom", Source = "Output", }, Foreground = Input { SourceOp = "TextureLeft", Source = "Output", }, EffectMask = Input { SourceOp = "MaskLeft", Source = "Mask", }, PerformDepthMerge = Input { Value = 0, }, } },
+TextureRight = Transform { Inputs = { Input = Input { SourceOp = "MediaIn1", Source = "Output", }, Center = Input { Value = {0.6346354166666667,0.5}, }, Size = Input { Value = 1.1, }, } },
+MaskRight = RectangleMask { Inputs = { Center = Input { Value = {0.5859375,0.5166666666666667}, }, Width = Input { Value = 0.008333333333333333, }, Height = Input { Value = 0.49074074074074076, }, SoftEdge = Input { Value = 0.001, }, } },
+PatchRight = Merge { Inputs = { Background = Input { SourceOp = "PatchLeft", Source = "Output", }, Foreground = Input { SourceOp = "TextureRight", Source = "Output", }, EffectMask = Input { SourceOp = "MaskRight", Source = "Mask", }, PerformDepthMerge = Input { Value = 0, }, } },
+TextureCircle = Transform { Inputs = { Input = Input { SourceOp = "MediaIn1", Source = "Output", }, Center = Input { Value = { .9375, .5 }, }, Size = Input { Value = 1, }, } },
+MaskOldCircle = EllipseMask { Inputs = { Center = Input { Value = { .7698, .5102 }, }, Width = Input { Value = 0.198, }, Height = Input { Value = 0.198, }, Solid = Input { Value = 0, }, BorderWidth = Input { Value = 0.008, }, SoftEdge = Input { Value = 0.001, }, } },
+PatchCircle = Merge { Inputs = { Background = Input { SourceOp = "PatchRight", Source = "Output", }, Foreground = Input { SourceOp = "TextureCircle", Source = "Output", }, EffectMask = Input { SourceOp = "MaskOldCircle", Source = "Mask", }, PerformDepthMerge = Input { Value = 0, }, } },
+SmallVideo = RectangleMask { Inputs = { Center = Input { Value = { .3323, .5162 }, }, Width = Input { Value = 0.375, }, Height = Input { Value = 0.375, }, Solid = Input { Value = 0, }, BorderWidth = Input { Value = 0.0012, }, } },
+InkVideo = Background { Inputs = { Width = Input { Value = 1920, }, Height = Input { Value = 1080, }, TopLeftRed = Input { Value = 0.83, }, TopLeftGreen = Input { Value = 0.813, }, TopLeftBlue = Input { Value = 0.747, }, TopLeftAlpha = Input { Value = 1, }, EffectMask = Input { SourceOp = "SmallVideo", Source = "Mask", }, } },
+FinalVideo = Merge { Inputs = { Background = Input { SourceOp = "PatchCircle", Source = "Output", }, Foreground = Input { SourceOp = "InkVideo", Source = "Output", }, PerformDepthMerge = Input { Value = 0, }, } },
+SmallCircle = EllipseMask { Inputs = { Center = Input { Value = { .7698, .5102 }, }, Width = Input { Value = 0.13541666666666666, }, Height = Input { Value = 0.13541666666666666, }, Solid = Input { Value = 0, }, BorderWidth = Input { Value = 0.0012, }, } },
+InkCircle = Background { Inputs = { Width = Input { Value = 1920, }, Height = Input { Value = 1080, }, TopLeftRed = Input { Value = 0.83, }, TopLeftGreen = Input { Value = 0.813, }, TopLeftBlue = Input { Value = 0.747, }, TopLeftAlpha = Input { Value = 1, }, EffectMask = Input { SourceOp = "SmallCircle", Source = "Mask", }, } },
+FinalCircle = Merge { Inputs = { Background = Input { SourceOp = "FinalVideo", Source = "Output", }, Foreground = Input { SourceOp = "InkCircle", Source = "Output", }, PerformDepthMerge = Input { Value = 0, }, } },
+		MediaOut1 = Saver {
+			Inputs = {
+				Index = Input { Value = "0", },
+				Input = Input {
+					SourceOp = "FinalCircle",
+					Source = "Output",
+				}
+			},
+		}
+	},
+	Frames = {
+	},
+	Prefs = {
+		Comp = {
+			Paths = {
+				Map = {
+					["ResolveCaches:"] = "C:\\Users\\KK\\Videos\\CacheClip\\edb8b08d-d85c-4c35-a04b-00831dae2616\\06b5aec3-2308-4076-b648-d2dcabb13d14\\8d5b9839-8a9a-45a1-8af4-5e8409af8efd\\Fusion",
+				},
+			},
+			Interactive = {
+				Proxy = {
+					Scale = 1,
+				},
+			},
+			FrameFormat = {
+				GuideRatio = 1.77777777777778,
+				DepthInteractive = 3,
+				DepthPreview = 3,
+				Rate = 25,
+				DepthFull = 3,
+			},
+			SpellCheck = {
+			},
+			Unsorted = {
+				GlobalEnd = 499,
+			},
+			Views = {
+				View1 = {
+				},
+			},
+		}
+	},
+}

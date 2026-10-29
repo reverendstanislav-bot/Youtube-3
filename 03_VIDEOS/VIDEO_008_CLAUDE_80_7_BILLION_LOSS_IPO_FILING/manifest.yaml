@@ -9,7 +9,7 @@ status: "IN_PREPARATION"
 created: "2026-10-26"
 last_updated: "2026-10-29"
 current_stage: "15_ASSEMBLY_EDIT"
-next_action: "V4 native Resolve/Fusion review master exported; complete technical decode/frame checks passed. Perform continuous AV review and obtain owner picture acceptance. See 15_FUSION_V4_DELIVERY_QC.md."
+next_action: "V6 clean native Resolve edit and small endscreen exported. Perform continuous AV review and obtain owner picture acceptance. See 15_FUSION_V6_DELIVERY_QC.md."
 blockers: ["No full SEC S1 14MB local binary archive (nonblocking for active claim set)", "F12-derived cashflow/FCF/other fair value claims excluded from narration", "Aggregate $637B and broader $161.2B Broadcom category excluded pending reconciliation", "Official FTC original demand not obtained; only issuer-reported investigation claim permitted", "Independent external human specialist not performed; Stage04 independent script QC required"]
 
 stages:
@@ -26,9 +26,9 @@ stages:
   stage_10_audio_master: "PASS_SAMPLE_EXACT_NATIVE_PCM_INDEPENDENT_TECH_QC"
   stage_11_transcript_visual_timeline: "PASS_50P_110SCENES_24695F_SHORTS_ONSETS_CORRECTED_ASR_WARNINGS"
   stage_12_visual_source_generation_plan: "PASS_110_SCENE_SOURCE_PLAN_MATERIALIZED"
-  stage_13_visual_asset_qc: "V4_COMPOSITES_TECH_PASS_SC043_PARTNER_SOURCE_SUBSTITUTE_SC106_DUAL_SOURCE"
-  stage_14_graphics_documents_music_sfx: "FUSION_V4_45_EDITABLE_COMPOSITES_TECH_PASS_NO_MUSIC_SFX"
-  stage_15_assembly_edit: "RENDERED_V4_TECH_PASS_HOLD_CONTINUOUS_AV_AND_OWNER_PICTURE_REVIEW"
+  stage_13_visual_asset_qc: "V6_STATIC_110_SCENES_PASS_GENERATED_DOCUMENTS_ILLUSTRATIVE_OWNER_PICTURE_PENDING"
+  stage_14_graphics_documents_music_sfx: "V5_45_CLEAN_FUSION_COMPS_V6_SMALL_ENDSCREEN_NO_MUSIC_SFX"
+  stage_15_assembly_edit: "V6_TECH_STATIC_PASS_SMALL_ENDSCREEN_HOLD_CONTINUOUS_AV_OWNER_PICTURE"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
   stage_17_packaging: "NOT_STARTED"
   stage_18_upload_prepublication: "NOT_STARTED"
@@ -108,8 +108,8 @@ qa:
   performance: "PASS_G06R_83_OF_100_CURRENT_V5_EDITORIAL_NOT_AUDIENCE_DATA"
   source_scope_recheck: "PASS_05R_46_PASS_4_CONDITIONAL_WARN_0_HIGH"
   voice_text_integrity: "PASS_G08_MASTER_BYTE_IDENTICAL_G07_50P_2548_WORDS_5_CHUNKS"
-  visual: "ASSET_TECH_PASS_AUDIO_ALIGNED_110_SCENES_SC043_CONTEXT_FALLBACK_SC106_PARTIAL"
-  edit: "STRUCTURAL_PASS_25FPS_24695F_110_SCENES_PLUS_12_ONE_FRAME_HOLDS_0_GAPS_0_OVERLAPS_SAVE_AND_AV_REVIEW_HOLD"
+  visual: "V6_110_STATIC_SCENE_SAMPLES_PASS_NO_SERVICE_OVERLAYS_OWNER_ACCEPTANCE_PENDING"
+  edit: "V6_RENDERED_24695F_25FPS_SMALL_ENDSCREEN_LAST20S_TECH_PASS_AV_OWNER_HOLD"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
   prepublication: "NOT_RUN"
@@ -137,7 +137,7 @@ script_lock:
   performance_qc: "PASS_CURRENT_V5_83_100_NOT_YOUTUBE_METRICS"
   source_scope_limitations: "FULL_14MB_S1_AND_EXECUTED_SPV_INSTRUMENTS_NOT_OBTAINED"
 
-# Lean Visual Preproduction — 110 scenes, does NOT advance Stage11/12
+# Historical acquisition/preproduction snapshot; current edit state is recorded in delivery_v6 below
 visual_preproduction:
   status: "MATERIALIZED_110_ROW_PACKAGE_AUDIO_SYNC_AND_FINAL_RIGHTS_PENDING"
   prior_200_scene_plan: "SUPERSEDED_DO_NOT_USE"
@@ -190,3 +190,24 @@ stage11_verification:
   planned_short_cta_seconds: 3
   rendered_shorts_qc: "NOT_RENDERED"
   scene_and_resolve_boundaries_changed: false
+
+# Active delivery; historical visual_preproduction counts above are not current onscreen provenance.
+delivery_v6:
+  report: "15_FUSION_V6_DELIVERY_QC.md"
+  timeline: "VIDEO008_V6_SMALL_ENDSCREEN_25FPS"
+  file_local: "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\WHAT_IT_COST_VIDEO008_V6_SMALL_ENDSCREEN_1080P25.mp4"
+  mp4_sha256: "da86b8376d646c5bd3b7c7d11c63c8ba72260bc88f93f92c0e67177f4b44a384"
+  technical_qc: "PASS"
+  static_scene_samples_reviewed: 110
+  clean_fusion_compositions: 45
+  distinct_generated_document_bases: 43
+  onscreen_generated_document_provenance: "ILLUSTRATIVE_NOT_AUTHENTIC_SCAN"
+  endscreen_seconds: 20
+  endscreen_window_px: [720, 405]
+  endscreen_circle_px: 260
+  edit_assets_url: ""
+  edit_assets_local: "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\VIDEO008_V6_SMALL_ENDSCREEN_EDIT_ASSETS.zip"
+  edit_assets_upload_status: "HOLD_NETWORK_TIMEOUT_NO_REMOTE_ASSET"
+  edit_assets_sha256: "c178e234c2fac844d22b9f097d32a4f8568904a8a4163a9a3fbaa0997df3e797"
+  owner_picture_acceptance: "PENDING"
+  continuous_av_review: "NOT_CLAIMED"
