@@ -16,3 +16,5 @@
 | 2026-10-28 | Stage05 Git sync | Four full scripts V1/V2 EN/RU committed to main; verified four git blob SHA matches against local originals | PASS 4/4; Stage06 NOT_STARTED |
 
 | 2026-10-28 | Stage05R | V3 EN/RU revised Acts 2-4 and 10; first minute, Acts 5-9 and four Shorts unchanged; readback passed | Revision PASS; Stage06 V3 pending |
+
+| 2026-10-28 | Stage06R | Fresh V3 review, 84/100 editorial PASS; runtime and rights warnings retained | PASS editorial; Stage07 not started |
