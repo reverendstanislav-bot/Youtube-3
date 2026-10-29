@@ -25,3 +25,5 @@ V3 English and Russian uploaded and read back. 1900 English words, -416 vs V2. F
 Stage06R (V3) completed: editorial PASS 84/100 vs 82 threshold. Source 06R_PERFORMANCE_REVIEW_V3.md. Runtime projected about 13 minutes and audio timing not measured; rights/source holds persist. Stage07 not started.
 
 2026-10-28 Stage07 SCRIPT TEXT LOCK PASS: V3 EN/RU Git blob identities frozen, four contiguous Shorts locked and independent legal scope reconciled against DOJ/SEC official sources. See 07_SCRIPT_LOCK.md. Audio timing and visual rights remain separate HOLD; Stage08 not started.
+
+Stage08 PASS: 08_VOICE_SCRIPT.md plus 5 Harrison text parts, 1804 spoken words, all four Shorts verbatim; 08_VOICE_PREP_QC.md. No synthesis. Stage09 not started.
