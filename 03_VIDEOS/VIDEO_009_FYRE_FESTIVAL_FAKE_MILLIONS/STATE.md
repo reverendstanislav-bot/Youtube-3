@@ -15,3 +15,5 @@ Opening retention override: 02_CASE_STORY_MAP.md 0:00–5:00 replaces early act 
 Stage04 source/legal read completed 2026-10-28: eight central money/legal checks PASS. Four Shorts: SH01 PASS; SH02 timing HOLD; SH03 and SH04 standalone context HOLD. Opening 60-sec actual pacing unverified. 04_FACT_LEGAL_QC.md. Stage03 English/Russian canonical bytes not yet in GitHub (local output only). No Stage05 requested.
 
 Stage05 owner-authorized targeted V2 complete in conversation files; local V1 preserved. Four verbatim Shorts: SH01 44 words / SH02 50 / SH03 47 / SH04 32; projected total durations incl 3s CTA at 145wpm: 21.2 / 23.7 / 22.4 / 16.2s. Revisions limited to first-minute concision and Short legal context. GitHub V1 and V2 full text UPLOAD HOLD. 05_STAGE05_LOCAL_HANDOFF.md tracks handoff. Do not mark canonical script locked or Stage06 started.
+
+2026-10-28 GitHub SYNC CLOSED: 03_SCRIPT_V1_EN.md 03_SCRIPT_V1_RU.md 05_SCRIPT_V2_EN.md 05_SCRIPT_V2_RU.md uploaded to main and each Git blob SHA matched local git hash-object byte for byte (4/4). Original SHA256 preserved. Stage05 PASS, Stage06 NOT_STARTED; needs separate owner instruction.
