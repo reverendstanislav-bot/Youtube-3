@@ -1,0 +1,10 @@
+event_id,date,case_name,docket_number,court_or_agency,event_type,party,description,outcome,source_id,appeal_status,current_status,notes
+EVT001,2016,Fyre Media,,COMPANY,FOUNDING,McFarland,Founded artist booking platform,,SRC001,NOT_APPLICABLE,DOCUMENTED,
+EVT002,2016_late,Fyre Festival LLC,,COMPANY,FOUNDING,McFarland,Created festival subsidiary for planned 2017 event,,SRC001,NOT_APPLICABLE,DOCUMENTED,
+EVT003,2017-04,Fyre Festival,,BAHAMAS,FESTIVAL_FAILURE,Fyre Festival,Planned event failed to deliver promised festival,,SRC007,NOT_APPLICABLE,HISTORICAL,Attendee experience specifics require separate sources
+EVT004,2017-06-30,US v McFarland,17 Cr 600,DOJ SDNY,INITIAL_CHARGES,McFarland,Wire fraud charged,,SRC008,NOT_APPLICABLE,SUPERSEDED_BY_GUILTY_PLEA,Allegations at initial charge date
+EVT005,2018-03-06,US v McFarland,17 Cr 600,SDNY,GUILTY_PLEA,McFarland,Pleaded guilty to two wire-fraud counts,$26040099.48 original forfeiture consent,SRC001,NOT_CHECKED,PLEA_ACCEPTED,
+EVT006,2018-06-12,US v McFarland,17 Cr 600,DOJ SDNY,NEW_CHARGES,McFarland,NYC VIP Access ticket fraud alleged,,SRC005,NOT_APPLICABLE,SUPERSEDED_BY_LATER_PLEA,
+EVT007,2018-07-24,SEC v McFarland,1:18-cv-06634,SEC / SDNY,CIVIL_COMPLAINT,McFarland et al,SEC announced $27.4m securities offering fraud settlement,Settlements announced subject to court approval,SRC002|SRC003,NOT_CHECKED,ANNOUNCED,
+EVT008,2018-07-26,US v McFarland,17 Cr 600,SDNY,GUILTY_PLEA,McFarland,Pleaded guilty to further fraud and false statement counts,$151206.80 additional forfeiture agreed,SRC006,NOT_CHECKED,PLEA_ACCEPTED,
+EVT009,2018-10-11,US v McFarland,17 Cr 600,SDNY,SENTENCING,McFarland,Sentenced to six years prison and three years supervised release,$26191306.28 forfeiture,SRC007,NOT_CHECKED,HISTORICAL_SENTENCE,
