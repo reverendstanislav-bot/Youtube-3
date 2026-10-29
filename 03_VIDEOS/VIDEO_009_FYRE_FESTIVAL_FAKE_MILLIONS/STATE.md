@@ -17,3 +17,7 @@ Stage04 source/legal read completed 2026-10-28: eight central money/legal checks
 Stage05 owner-authorized targeted V2 complete in conversation files; local V1 preserved. Four verbatim Shorts: SH01 44 words / SH02 50 / SH03 47 / SH04 32; projected total durations incl 3s CTA at 145wpm: 21.2 / 23.7 / 22.4 / 16.2s. Revisions limited to first-minute concision and Short legal context. GitHub V1 and V2 full text UPLOAD HOLD. 05_STAGE05_LOCAL_HANDOFF.md tracks handoff. Do not mark canonical script locked or Stage06 started.
 
 2026-10-28 GitHub SYNC CLOSED: 03_SCRIPT_V1_EN.md 03_SCRIPT_V1_RU.md 05_SCRIPT_V2_EN.md 05_SCRIPT_V2_RU.md uploaded to main and each Git blob SHA matched local git hash-object byte for byte (4/4). Original SHA256 preserved. Stage05 PASS, Stage06 NOT_STARTED; needs separate owner instruction.
+
+
+## Stage05R revision (2026-10-28)
+V3 English and Russian uploaded and read back. 1900 English words, -416 vs V2. First minute and Acts 5-9 unchanged; Acts 2-4 and 10 tightened. Four Shorts remain in long-form. Stage06 V3 not evaluated; Stage07 remains blocked. See 05R_REVISION_QC.md.
