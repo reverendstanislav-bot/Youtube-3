@@ -14,3 +14,5 @@
 | 2026-10-28 | Stage05 | Local V2 EN/RU, immutable local V1, four contiguous Shorts reviewed; first-minute tightened and standalone Shorts corrected | EDITORIAL PASS LOCAL / GITHUB SOURCE SYNC HOLD |
 
 | 2026-10-28 | Stage05 Git sync | Four full scripts V1/V2 EN/RU committed to main; verified four git blob SHA matches against local originals | PASS 4/4; Stage06 NOT_STARTED |
+
+| 2026-10-28 | Stage05R | V3 EN/RU revised Acts 2-4 and 10; first minute, Acts 5-9 and four Shorts unchanged; readback passed | Revision PASS; Stage06 V3 pending |
