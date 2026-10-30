@@ -1,0 +1,292 @@
+{
+  "reviewer": "lead",
+  "independent_review": "PENDING",
+  "owner_style_baseline": "GF003_V2_APPROVED",
+  "reviews": {
+    "GF001": {
+      "version": 2,
+      "result": "PASS_LEAD",
+      "note": "Generic luxury-versus-financial-records illustration, not actual Fyre footage; no opening spoilers; no source record represented as authentic."
+    },
+    "GF002": {
+      "version": 2,
+      "result": "PASS_LEAD",
+      "note": "Exact central question; readable typography; no blank card or baked outline."
+    },
+    "GF003": {
+      "version": 2,
+      "result": "OWNER_STYLE_APPROVED",
+      "note": "Owner explicitly accepted the counter presentation."
+    },
+    "GF004": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "60 CONFIRMED PLATFORM BOOKINGS / ONE YEAR; text and period distinct from claimed month."
+    },
+    "GF005": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Different reporting windows explicit; no fabricated booking ratio."
+    },
+    "GF006": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "57,443 aggregate platform booking revenue, May2016-April2017; no ticket-revenue claim."
+    },
+    "GF007": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Claimed >2.5M versus actual <1,500 stock holdings; SEC complaint attribution, not cash or stolen shares."
+    },
+    "GF008": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Exact trust question; optical scrutiny metaphor, distinct from archive-file opening."
+    },
+    "GF009": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Customer/marketplace/performer explainer; editorial props, not real transaction evidence."
+    },
+    "GF010": {
+      "version": 1,
+      "result": "HOLD_CORRECTION",
+      "note": "Model added app/device interfaces not requested; replace with simple platform/event diagram."
+    },
+    "GF011": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Publicity versus transaction verification question; no unverified investor scene."
+    },
+    "GF012": {
+      "version": 1,
+      "result": "HOLD_CORRECTION",
+      "note": "Model added shipping parcels and conveyor; unrelated to talent-booking verification. Replace."
+    },
+    "GF013": {
+      "version": 1,
+      "result": "HOLD_CORRECTION",
+      "note": "Forecast object became an unrelated wireframe city; replace with explicit nonnumeric past/future diagram."
+    },
+    "GF014": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "Clearly labelled analytical funnel with unresolved demand/confidence questions; no sourced count implied by decorative spheres."
+    },
+    "GF015": {
+      "version": 1,
+      "result": "PASS_LEAD",
+      "note": "False booking claims and broken proof chain; no fake source or accusation against unnamed third parties."
+    }
+  },
+  "current_style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY",
+  "previous_reviews_are_historical": true,
+  "current_direction_reviews": {
+    "GF003": {
+      "version": 3,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "PASS",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF004": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "PASS",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF005": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "PASS",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF006": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "PASS",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF007": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "PASS",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF001": {
+      "version": 4,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF002": {
+      "version": 3,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF008": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF009": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF010": {
+      "version": 4,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF011": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF012": {
+      "version": 3,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF013": {
+      "version": 4,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF014": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF015": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF016": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF017": {
+      "version": 1,
+      "result": "PASS_LEAD_BACKGROUND_ONLY",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": false,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "HOLD_AUTHENTIC_DOC004_LAYER_REQUIRED"
+    },
+    "GF018": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF019": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF020": {
+      "version": 2,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    },
+    "GF021": {
+      "version": 1,
+      "result": "PASS_LEAD_TEXT_SCOPE_STYLE",
+      "no_red_yellow_emphasis": true,
+      "text_and_scope_checked_in_actual_image": true,
+      "owner_asset_acceptance": "NOT_INDIVIDUALLY_CLAIMED",
+      "independent_release_qc": "HOLD_REVIEWER_USAGE_LIMIT",
+      "fusion_composite": "NOT_RUN_NOT_AUTHORIZED"
+    }
+  },
+  "rejected_or_superseded_video008_versions": [
+    {
+      "asset_id": "GF001",
+      "version": 3,
+      "reason": "Model invented additional paragraphs outside approved opening; replaced byV4 using exact P001."
+    },
+    {
+      "asset_id": "GF010",
+      "version": 3,
+      "reason": "Model invented business-model/financing rows; replaced byV4."
+    },
+    {
+      "asset_id": "GF013",
+      "version": 3,
+      "reason": "Model added prose and encroached lower safe zone; replaced by compact V4."
+    }
+  ]
+}

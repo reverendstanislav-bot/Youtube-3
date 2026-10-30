@@ -1,0 +1,32 @@
+{
+  "asset_id": "GF005",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE finished16:9 cinematic frame for WHAT IT COST / VIDEO009 Fyre Festival. DIRECT STYLE REFERENCE: owner-approved GF003 counter plus the supplied approved VIDEO005 frame. Match deep charcoal/black, tactile iron, restrained ivory, high contrast condensed Bebas-like typography, controlled practical side-light and an original physical editorial mechanism. Do NOT copy reference numbers or subject. No big beige-paper card, blank sheet, fake government/business record, collage, template dashboard, fake signature/seal or pseudo-writing. This is an obvious original editorial visual metaphor, NOT a photographed actual Fyre device or historic artifact. Only the specified accurate English text may be readable. All important objects/text MUST fit in upper70%; bottom30% must remain clear dark negative space. Calm stable geometry and clear silhouettes for later Fusion. NO yellow/red border, outline, marking, arrow, circle, underline, labelbar, emphasisgraphic, watermark or bakedmotion. Restrained red on typography only is permitted. Actual source facts: DOJ March6,2018 plea; Fyre Media PLATFORM BOOKINGS, not festival lineup. No fabricated ratios or monthly/annual conversions. SUBJECT AND COMPOSITION: one photographic physical time-window comparison apparatus on a matte graphite workbench, not another tally counter. At upperleft one restrained ivory calendar-month tile; upperright one larger closed annual calendar ring. They are editorial period symbols, not actual company calendars. The design explains that the source windows differ; do NOT present a numeric booking ratio. Exact text only: 'DIFFERENT REPORTING WINDOWS', 'ONE MONTH', 'ONE YEAR', 'NOT A LIKE-FOR-LIKE RATE'. Strong open composition, dark background, restrained ivory and blackened metal, crisp condensed labels with generous clear separation. No booking counts and no monetary amounts in this frame. The two periods are separately labelled, not two bars sharing a count scale. No colored geometry or ornate decorative frames. Keep the entire apparatus/labels above70%height and bottom30%dark and uncluttered.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF003_IMAGEGEN_V2.png",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-165c7175-407c-4e91-aa20-8bfc82829262.png",
+  "output_hint": "Generated images are saved to C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8 as C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-165c7175-407c-4e91-aa20-8bfc82829262.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "visual_review": {
+    "reviewer": "lead",
+    "text_and_figures": "PASS",
+    "bottom20_clear": "PASS",
+    "no_colored_outlines": "PASS",
+    "scope": "EDITORIAL_METAPHOR_NOT_AUTHENTIC_DEVICE",
+    "owner_asset_approval": "NOT_REQUESTED_BATCH_PRODUCTION"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF005_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF005_IMAGEGEN_V1.png",
+  "sha256": "777279b1fccae4fc58de56f77b7deeaad1a811e3c9103b2e6a77abcc6c98cad5",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF005.json",
+  "fact_reference_sha256": "43ec62079dd5fed2ac91dba33ec36a90eb3d6c5894c77c020c463c71982cd50c"
+}

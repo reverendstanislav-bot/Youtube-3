@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF010",
+  "version": 3,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested. A natural documentary close shot of a compact original editorial two-purpose comparison on a landscape ivory sheet, a pen near the upperleft and modest file edges visible. Small 'EDITORIAL ANALYSIS'; title 'Platform and Publicity'. Two clear columns: 'Fyre Media' with 'Talent-booking marketplace'; 'Fyre Festival' with 'Publicity event'. Below print 'Different purposes. Do not treat the event and the platform as identical operations.'. No electronics, interface, stage model, pedestals, sums or arrows connecting money pools. Simple black serif text and restrained thin black table rules, no bold poster headline or image collage. Match VIDEO008 ordinary analytical paperwork.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-ee98b855-144d-460e-b54b-3eae8019efa5.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF010_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF010_IMAGEGEN_V3.png",
+  "sha256": "3f04973cee861d9fb969986661a4b3c745bc3b8abe8c0bebda5f472d650666d2",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF010.json",
+  "fact_reference_sha256": "2eabb3667596f99da2e0c2779646b7f6ae9e7264f4a7a44ec97c7e9a97f756a6"
+}

@@ -1,0 +1,15 @@
+{
+  "requested_asset_identities": 52,
+  "generated_asset_identities": 21,
+  "remaining_asset_identities": 31,
+  "submissions_total": 49,
+  "owner_rejected_initial_style_images": 3,
+  "owner_approved_style_baseline": "VIDEO008_NATURAL_DOCUMENTARY_FIVE_ACCEPTED_FRAMES",
+  "owner_asset_approval_count": 5,
+  "independent_release_qc": "PENDING",
+  "cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "audio_status_queried": false,
+  "current_style": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY",
+  "current_style_png_count": 21,
+  "previous_direction_asset_approval_is_historical": true
+}

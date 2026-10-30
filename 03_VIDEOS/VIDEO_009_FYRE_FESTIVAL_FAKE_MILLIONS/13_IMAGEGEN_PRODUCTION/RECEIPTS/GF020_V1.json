@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF020",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence.  Do not add unrelated props or subject matter. Specifically NO shipping parcels, conveyor belts, biometric faces, wireframe cities, invented product UI, laptop/phone screens, speculative bar charts, or unnecessary gears. References define palette/light/type, not their depicted objects. If a diagram is requested, it may be a restrained dark editorial infographic with tactile lettering, not an elaborate industrial machine. A neutral platform-revenue explainer as one open editorial diagram on textured charcoal, with exact labels 'BOOKING VALUE', 'PLATFORM SERVICE', 'PLATFORM REVENUE' staggered horizontally at different depths. Main small statement 'DIFFERENT MEASURES'. Clear open space between stages for future Fusion motion/connections; no baked colored arrow or border. An understated unbranded microphone near the service label cues talent booking. No parcels, cash amount, percentage, accounting entry, actual Fyre transaction, pretend receipt or implication that all booking value equals platform revenue. Typographic clarity and controlled photographic material, not another counter or three boxed cards. Upper70%only.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-05148630-9b0b-4cb5-9ceb-1e4309071d1d.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF020_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF020_IMAGEGEN_V1.png",
+  "sha256": "c6f7db668314014c105af8e21eb73353040d172aed13eeb993af88ebbbf49c10",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF020.json",
+  "fact_reference_sha256": "478d403271e25cd8135ddd882af9a2c52a7cc4f1fe1f399ed9884b8034d0a897"
+}

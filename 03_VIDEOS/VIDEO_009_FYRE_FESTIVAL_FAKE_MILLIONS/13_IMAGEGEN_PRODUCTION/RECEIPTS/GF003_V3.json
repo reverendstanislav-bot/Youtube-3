@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF003",
+  "version": 3,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested. Replace the artificial counter with a normal documentary analytical worksheet on a lightly handled ivory page clipped to a modest file, seen from a restrained overhead angle like VIDEO008. One page, a few black binder clips and a pencil; no device, dial, display sign or theatre lighting. Meaningful black serif typography. Exact content: 'EDITORIAL ANALYSIS'; heading 'Fyre Media — Claimed Bookings'; table rows 'Reported count | More than2,500', 'Reporting window | One month', 'Business scope | Talent-booking platform', 'Status | False claim described in the DOJ plea'. Add the clear note 'These are platform bookings, not a festival performer lineup.' All data readable but normal printed report scale. No fake official page, source quotation, signature, author credentials or logo. No actual artist list and no comparison ratio.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-c3059947-e41c-4911-aeec-609a217c7461.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF003_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF003_IMAGEGEN_V3.png",
+  "sha256": "287fd2c28c6f437a623748c3ba5b1ea1023baaf9faff434f3fe10dbc7c8df2f2",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF003.json",
+  "fact_reference_sha256": "47f5d65c2a298ef3726511c68bb9d855410208b7ba571ecfc685d0047e5d22f5"
+}

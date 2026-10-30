@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF012",
+  "version": 3,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested. A simple meaningful original verification checklist printed on one ordinary ivory research sheet in a slim file, photographed top-down with a black pen near one corner. Small heading 'EDITORIAL ANALYSIS'; title 'Three Verification Questions'. The three numbered QUESTIONS, not answers: 'Transaction confirmed?'; 'Customer verified?'; 'Repeatable business?'. Below print 'These are analytical checks, not findings that the company passed them.'. No ticks, shipping parcels, conveyor, factories, biometrics, screens, people or actual customer records. Modest black print and thin black separators, no colored emphasis. Realistic VIDEO008 paper/desk photography; compact landscape page, no giant empty sheet.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-373e403f-7b93-4cf2-bd7b-9e565519542a.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF012_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF012_IMAGEGEN_V3.png",
+  "sha256": "1cd4219ed802c093e40340a228885c1c9bc103c7c827bd0cc4e59944f07d467e",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF012.json",
+  "fact_reference_sha256": "d142b25e88c66950755d93701baaa1e9a3b91fbefc180f213c3deeaf5afe4cb4"
+}

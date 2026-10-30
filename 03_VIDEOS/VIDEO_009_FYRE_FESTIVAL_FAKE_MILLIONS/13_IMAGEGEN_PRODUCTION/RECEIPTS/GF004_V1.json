@@ -1,0 +1,32 @@
+{
+  "asset_id": "GF004",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE finished16:9 cinematic frame for WHAT IT COST / VIDEO009 Fyre Festival. DIRECT STYLE REFERENCE: owner-approved GF003 counter plus the supplied approved VIDEO005 frame. Match deep charcoal/black, tactile iron, restrained ivory, high contrast condensed Bebas-like typography, controlled practical side-light and an original physical editorial mechanism. Do NOT copy reference numbers or subject. No big beige-paper card, blank sheet, fake government/business record, collage, template dashboard, fake signature/seal or pseudo-writing. This is an obvious original editorial visual metaphor, NOT a photographed actual Fyre device or historic artifact. Only the specified accurate English text may be readable. All important objects/text MUST fit in upper70%; bottom30% must remain clear dark negative space. Calm stable geometry and clear silhouettes for later Fusion. NO yellow/red border, outline, marking, arrow, circle, underline, labelbar, emphasisgraphic, watermark or bakedmotion. Restrained red on typography only is permitted. Actual source facts: DOJ March6,2018 plea; Fyre Media PLATFORM BOOKINGS, not festival lineup. No fabricated ratios or monthly/annual conversions. SUBJECT AND COMPOSITION: a compact sober actual-count mechanical register, photographed from a slightly lower three-quarter angle, lighter ivory numerals against charcoal. A simple closed annual-calendar wheel sits quietly behind the counter as a physical time-period cue, without readable dates or invented entries. Main exact text: 'FYRE MEDIA', very large '60', 'CONFIRMED PLATFORM BOOKINGS', 'ONE YEAR'. Make the actual60 clearly legible and smaller in conceptual weight than the claimed2,500+, but DO NOT include the claimed amount in this image. Do not print2,500 anywhere. This paired reveal documents60confirmed in an entire year. Factual label ONE YEAR and CONFIRMED must be prominent and fully above70%height. Change object shape/camera angle from GF003 rather than making a near-identical duplicate. No people, no additional objects pretending to be evidence.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF003_IMAGEGEN_V2.png",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-014f12dd-8c88-41d4-8cfe-b8a977f59097.png",
+  "output_hint": "Generated images are saved to C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8 as C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-014f12dd-8c88-41d4-8cfe-b8a977f59097.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "visual_review": {
+    "reviewer": "lead",
+    "text_and_figures": "PASS",
+    "bottom20_clear": "PASS",
+    "no_colored_outlines": "PASS",
+    "scope": "EDITORIAL_METAPHOR_NOT_AUTHENTIC_DEVICE",
+    "owner_asset_approval": "NOT_REQUESTED_BATCH_PRODUCTION"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF004_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF004_IMAGEGEN_V1.png",
+  "sha256": "4b07bf70e4e8d61a6e1ffb6091bd61338db801ab478e1730540c33ed0c3dae2d",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF004.json",
+  "fact_reference_sha256": "933f3817f6d2c99bfdcd4113aeed70d9e25ff47ea1fd1dffb74be91436e91dc5"
+}

@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF010",
+  "version": 4,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. CORRECTION: previous model invented extra business-model/financing rows; remove them entirely. One ordinary compact landscape editorial analysis sheet, readable ink, realistic neutral VIDEO008 desk photography. EXACTLY TWO comparison rows and TWO closing sentences, nothing else. BEGIN PRINT\nEDITORIAL ANALYSIS\nPlatform and Publicity\nFyre Media | Marketplace for booking performers\nFyre Festival | Marketing event intended to promote the company\nInvestors needed evidence of completed transactions.\nA promotional campaign is not the same as an operating business.\nEND PRINT\nNo statement about fees, separate financing, recurring operations, customers, audiences, acquirers or business structure beyond this exact text. All print above65%height.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-e1ca1757-6896-4057-8c8b-b26fdfd34506.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF010_IMAGEGEN_V4.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF010_IMAGEGEN_V4.png",
+  "sha256": "3eaa029f8ea6a4a1f1cf51cec2071ff60808b3275b7173ba0cb8bd3fd34e7b51",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF010.json",
+  "fact_reference_sha256": "2eabb3667596f99da2e0c2779646b7f6ae9e7264f4a7a44ec97c7e9a97f756a6"
+}

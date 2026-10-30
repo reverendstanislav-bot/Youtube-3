@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF018",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence.  Do not add unrelated props or subject matter. Specifically NO shipping parcels, conveyor belts, biometric faces, wireframe cities, invented product UI, laptop/phone screens, speculative bar charts, or unnecessary gears. References define palette/light/type, not their depicted objects. If a diagram is requested, it may be a restrained dark editorial infographic with tactile lettering, not an elaborate industrial machine. A narrow editorial reconciliation checklist, NOT an actual company/audit record: precise condensed ivory type printed directly on a dark charcoal analytical strip angled in depth. Exact main text 'VERIFY THE BOOKING'. Three meaningful checks below: 'BOOKING CLAIM', 'TRANSACTION CHECK', 'CORROBORATION?'. Do not mark any check as passed; no ticks, invented transaction, customer, actual booking slip, financial entry or forged audit form. A small real-looking pencil and short measuring rule at the edge add tactile scale but no additional text or values. No opaque beige cards, empty documents or colored emphasis. Composition in upper70%, lower30%clear.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-d0884d9f-42d4-4f10-b84b-71a29a8b5fbf.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF018_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF018_IMAGEGEN_V1.png",
+  "sha256": "2e67c2720bd0641bd692b2406620895b361a7c2115fa35af671b9a4b0942c7d6",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF018.json",
+  "fact_reference_sha256": "3e4a358d1266906665e3ebdb91f660616511606558cf14100e14d5c48f13d05c"
+}

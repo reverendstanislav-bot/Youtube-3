@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF008",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence. Opening trust bridge, visually distinct from the archive-file question: a dark glass scrutiny lens held in a precise graphite optical stand, with three faint engraved metric words at different depths: 'BOOKINGS', 'REVENUE', 'HOLDINGS'. Large condensed ivory question integrated directly above/around the upper-half apparatus: 'HOW DID ANYONE TRUST THIS BUSINESS?' No closed file or beige card as hero; no invented figures or claims of verified success. A focused, sober optical metaphor, real photographic materials, no glowing sci-fi, not a historical object. All text and lens above70%height.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-50829394-c2aa-4cb6-a688-1690ac7b31c1.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF008_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF008_IMAGEGEN_V1.png",
+  "sha256": "997ba9c451300fe7b9fad5be6f2b54165561706acfe4ce36b5473002a987e463",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF008.json",
+  "fact_reference_sha256": "2617a31e872866637aa9c60efc6ca366cc850f8a48addede423ed1ae566cccb2"
+}

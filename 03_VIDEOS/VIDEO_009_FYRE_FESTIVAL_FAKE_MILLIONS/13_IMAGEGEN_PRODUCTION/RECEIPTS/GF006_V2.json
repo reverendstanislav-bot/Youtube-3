@@ -1,0 +1,33 @@
+{
+  "asset_id": "GF006",
+  "version": 2,
+  "input": {
+    "prompt": "Create ONE photorealistic16:9 documentary desk shot for WHAT IT COST VIDEO009 Fyre Festival, directly matching the two supplied REAL VIDEO008 frame references in ordinary materials, restrained camera, paper/desk scale and natural light. They are STYLE references only: do not copy their Anthropic text, figures or source document. The owner rejected the recent rusty mechanisms/giant signage as too AI. NO mechanical apparatus, gears, pedestals, showroom signboards, giant floating headlines, dramatic gold haze, dust beams, stage props, synthetic holograms, collage or decorative graphics. A believable contemporary charcoal pebbled desktop, a modest manila file with lightly handled clean ivory pages, one normal black binder clip, a sharpened black pencil and a small ordinary black calculator near the upperright edge. Natural soft side window light, neutral color, subtle genuine paper fibres and normal shadows, no theatrical fantasy lighting. ONE main landscape-format printed analytical page is the subject, framed from a mild overhead angle, fits completely in the upper75%with all meaningful text above70%; lower25%is unobstructed dark tabletop. Do not bury the page under props. The page is explicitly an EDITORIAL ANALYSIS prepared for the documentary, NOT an authentic Fyre financial statement, DOJ/SEC record or source facsimile. No official marks, seal, court caption, signature, account number, letterhead, quote or purported source excerpt. Use sober legible black serif financial-report typography on paper, like VIDEO008, with normal printed type scale, not enormous poster lettering. No red/yellow ink, highlights, circles, borders, callouts or underlines at all; those will be separate Fusion layers later. The sheet must be meaningfully filled, not blank or pseudo-writing. Print ONLY this exact editorial content with an orderly compact table and a short scope note: top line 'EDITORIAL ANALYSIS'; heading 'Fyre Media — Talent Bookings'; table rows 'Metric | Income from talent bookings', 'Period | Approx. May2016 – April2017', 'Actual income | $57,443', 'Scope | Platform bookings, not festival ticket sales'. Below the table print 'The figure concerns talent-booking activity. It is not a measure of festival ticket revenue.' Do not invent any monthly values, other amounts, numeric chart, transactions, recipients or citations. Make $57,443 and its period easy to read in the composition but remain normal ink on a plausible printed editorial worksheet. No large banners overlaying the picture.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-6fb0dd68-f4cf-4dc7-b97e-f90075428ce4.png",
+  "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY_20261030",
+  "visual_review": {
+    "version": 2,
+    "result": "PASS_LEAD_TEXT_AND_REFERENCE_MATCH",
+    "note": "57,443 talent-booking income; approximate May2016-April2017; not festival ticket revenue.",
+    "no_red_yellow_emphasis": true,
+    "editorial_not_authentic_source": true,
+    "owner_asset_acceptance": "PENDING",
+    "independent_release_qc": "PENDING"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF006_IMAGEGEN_V2.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF006_IMAGEGEN_V2.png",
+  "sha256": "a60d8996dfd1f6c1a2eb7e4fcec98453dd02fa7b36834847295e3cc864c698b3",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF006.json",
+  "fact_reference_sha256": "18e2eb9a6310e8c855b262f3d7cdd1809cb92d72b5885c038084fadcd755937c"
+}

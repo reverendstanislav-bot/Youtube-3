@@ -85,6 +85,9 @@
   },
   "submissions_total": 4,
   "accepted_production_images": 0,
-  "owner_style_approval": "PENDING",
-  "cost": "BUILT_IN_TOOL_DOES_NOT_EXPOSE_NUMERIC_COST; NOT_ZERO_COST_CLAIM"
+  "owner_style_approval": "EARLIER_GF003_APPROVAL_SUPERSEDED_BY_LATEST_VIDEO008_DIRECTION",
+  "cost": "BUILT_IN_TOOL_DOES_NOT_EXPOSE_NUMERIC_COST; NOT_ZERO_COST_CLAIM",
+  "historical_first_four_submission_snapshot": true,
+  "current_execution_registry": "13_IMAGEGEN_PRODUCTION/PRODUCTION_STATUS.json",
+  "current_style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
 }

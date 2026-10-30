@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF016",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence.  Do not add unrelated props or subject matter. Specifically NO shipping parcels, conveyor belts, biometric faces, wireframe cities, invented product UI, laptop/phone screens, speculative bar charts, or unnecessary gears. References define palette/light/type, not their depicted objects. If a diagram is requested, it may be a restrained dark editorial infographic with tactile lettering, not an elaborate industrial machine. Explain that the booking count refers to Fyre Media platform business, not festival performers. One dark photographic editorial surface with a modest abstract booking calendar symbol and a separate small anonymous microphone/stage symbol. Main exact condensed headline: 'PLATFORM BOOKINGS'; clear separate qualifier beneath: 'NOT FESTIVAL LINEUP'. Do not include counts, artist names, an actual festival programme, recognizable performer or historical event photograph. The two symbols are explanatory, no invented booking slip or real UI. Minimal upper-half structure, bold ivory type and restrained dark red qualifier, clear bottom30%. Do not repeat GF010 as two large plinths.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-1ae0b6d3-922a-4a97-8f43-701feaaba5ba.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF016_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF016_IMAGEGEN_V1.png",
+  "sha256": "419c667a066fba7a294d1b46e12269380d6043d387f0a42516dc5afee07b9eeb",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF016.json",
+  "fact_reference_sha256": "d81bd46246ddf49ac51fc56ae0e4d8f6d01b905ef81b3e1a4ea3af37d8a7744f"
+}

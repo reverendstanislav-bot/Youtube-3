@@ -1,0 +1,9 @@
+{
+  "date_local":"2026-10-30",
+  "owner_reply":"Да, продолжай так",
+  "approved_direction":"NATURAL_VIDEO008_DOCUMENTARY",
+  "approved_candidates":[{"asset_id":"GF003","version":3},{"asset_id":"GF004","version":2},{"asset_id":"GF005","version":2},{"asset_id":"GF006","version":2},{"asset_id":"GF007","version":2}],
+  "instruction":"Continue remaining requested GF001-GF052 assets in this presentation. Preserve these five accepted versions. No yellow/red emphasis baked into ImageGen; later Fusion layers remain separate.",
+  "montage_authorized":false,
+  "audio_queue_monitoring":"DO_NOT_POLL"
+}

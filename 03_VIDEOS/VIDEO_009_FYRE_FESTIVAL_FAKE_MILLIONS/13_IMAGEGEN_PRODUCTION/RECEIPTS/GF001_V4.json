@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF001",
+  "version": 4,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. CORRECTION: previous page invented extra body paragraphs; none may be used. Make one compact, believable landscape editorial opening note, not a whole empty portrait sheet, with one small generic coastal context photograph occupying the right third of the printed leaf, no historic-site identity. Ordinary ivory stock, charcoal desktop, plain wristband and small black clip. The19-word paragraph below is EXACTLY the approved opening; no additional marketing/logistics claims or other body text. BEGIN PRINT\nEDITORIAL ANALYSIS\nThe Promise and the Records\nFyre Festival promised luxury in the Bahamas. It collapsed. But prosecutors found a bigger deception in its financial records.\nEND PRINT\nKeep all text above65%height; no added source excerpts, names or numbers.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-3d0cea0a-bb7c-4b0c-b929-3af43454070f.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF001_IMAGEGEN_V4.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF001_IMAGEGEN_V4.png",
+  "sha256": "1111712b6bacd825dc6133cc76356378903dfae2a846268b6168a95ce69f2747",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF001.json",
+  "fact_reference_sha256": "80e7f4c6eb2e2dc250f461f509f5ac1d94b9c013d3240c3b48aebe316916c738"
+}

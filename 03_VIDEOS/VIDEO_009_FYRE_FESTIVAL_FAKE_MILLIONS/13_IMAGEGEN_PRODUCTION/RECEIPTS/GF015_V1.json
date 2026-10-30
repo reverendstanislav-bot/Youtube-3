@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF015",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence. A broken proof chain as a tangible editorial metaphor. A single dark chain crosses the upper half of a black stone desk; one visibly disconnected link interrupts the path. Three compact ivory labels are integrated openly into the scene, not on boxed beige cards: 'REPORTED BOOKINGS', 'APPARENT DEMAND', 'INVESTOR CONFIDENCE'. Main short condensed headline 'FALSE BOOKING CLAIMS'. DOJ plea context: McFarland admitted false booking claims; do NOT soften his admitted conduct to merely an allegation, and do not assign admissions to other people. No actual government paper, fake quotation, signature or extra number. No red outline of the broken link; natural photographic light only. Open lower30%.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-9633b24f-16c4-4777-ad84-4f676562dd34.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF015_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF015_IMAGEGEN_V1.png",
+  "sha256": "cf7a2ad0ac12614ae25829da2b186e375205874aa14b09d5a38b5dc10363e3c9",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF015.json",
+  "fact_reference_sha256": "752bc36ede5421a762e1bcb1c48d2d9377f063bf741fdff697e12064979796c6"
+}

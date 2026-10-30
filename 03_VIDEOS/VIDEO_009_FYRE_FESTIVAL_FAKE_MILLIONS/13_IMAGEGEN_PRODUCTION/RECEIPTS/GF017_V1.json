@@ -1,0 +1,30 @@
+{
+  "asset_id": "GF017",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence.  Do not add unrelated props or subject matter. Specifically NO shipping parcels, conveyor belts, biometric faces, wireframe cities, invented product UI, laptop/phone screens, speculative bar charts, or unnecessary gears. References define palette/light/type, not their depicted objects. If a diagram is requested, it may be a restrained dark editorial infographic with tactile lettering, not an elaborate industrial machine. Generate ONLY an original photographic BACKGROUND PLATE for later compositing a genuine DOJ document crop. Do NOT generate any document text, sheet, page, printed passage, government mark, quote, source banner or fake filing. A close dark charcoal archive work surface: small metal binder clips and the closed ivory page edge of a thin black folder confined to the far upperright; tactile crisp detail and controlled side light in approved channel style. Leave the upperleft/central65%as a clean gently textured dark planar surface where authentic DOC004 pixels can later be placed in Fusion. This is deliberately an editorial document presentation stage, not a blank beige paper. No readable text or additional props. Entire lower30%quiet dark negative space.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-88cc5495-a11e-40eb-8258-26af03c3f3e8.png",
+  "visual_review": {
+    "result": "PASS_LEAD_BACKGROUND_ONLY",
+    "note": "Existing natural charcoal desktop, ordinary closed file edge and clips; no mechanisms or fake text. Reuse avoids another generation. Authentic DOC004 pixels remain a later separate Fusion layer.",
+    "document_composite": "HOLD_NOT_ASSEMBLED",
+    "official_text_generated": false
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF017_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF017_IMAGEGEN_V1.png",
+  "sha256": "e67a46c2d32aca84239522e942a42ecc0b965a61ab10d1fa59fca905b9073775",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF017.json",
+  "fact_reference_sha256": "e790a638f854403639406a4539bc32ceb18c52d1efda1a21c48daff13e231f4d",
+  "current_style_reassessment": "PASS_VIDEO008_NATURAL_BACKGROUND"
+}

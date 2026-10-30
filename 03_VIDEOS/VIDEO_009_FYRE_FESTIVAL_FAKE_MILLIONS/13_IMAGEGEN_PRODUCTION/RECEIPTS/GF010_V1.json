@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF010",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence. A single physical explanatory model distinguishing two purposes: one restrained modern platform plinth labelled 'FYRE MEDIA' with subtitle 'BOOKING PLATFORM'; a separate small generic unbranded concert-stage model labelled 'FYRE FESTIVAL' with subtitle 'PUBLICITY EVENT'. Both on the same continuous charcoal floor photographed at an oblique angle, not split panels, not a collage, no connectors suggesting identical operations or a financial sum. Small exact headline 'TWO DIFFERENT PURPOSES'. No actual Fyre-site details, artist, historic poster, fake app screen or company logo. Strong ivory condensed text, open dark lower30%.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-2814f95d-0e3d-487a-abf6-209aaf3a80ce.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF010_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF010_IMAGEGEN_V1.png",
+  "sha256": "fc11c55f143e083117c521294ae5f12c458b18a005aece795794af2b5a8ba778",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF010.json",
+  "fact_reference_sha256": "2eabb3667596f99da2e0c2779646b7f6ae9e7264f4a7a44ec97c7e9a97f756a6"
+}

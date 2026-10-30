@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF013",
+  "version": 1,
+  "input": {
+    "prompt": "Use case: stylized-concept / documentary editorial graphic. Create one finished16:9 WHAT IT COST frame, matching the supplied actual VIDEO005 references and approved GF003 visual language: deep charcoal, ivory, restrained dark red type, controlled directional photographic lighting, tactile believable surfaces, strong condensed typography. Change the SUBJECT/composition to the specific brief; do not turn every scene into a mechanical counter. One continuous full-frame scene, no collage, card grid or split screen. Only requested exact text readable. No empty sheet, giant beige title card, invented official document, seal/signature, faux evidence, source banner, watermark. All essential content in upper70%, bottom30%quiet charcoal negative space for later montage. NO yellow/red outlines, border, marker, circles, underlines, arrows or bakedmotion; future emphasis is a separate Fusion layer. No extra numerical claims. This is visibly an original editorial illustration, not historical evidence. Contrast completed business with forecast using WORDS, not a fabricated financial chart. One continuous dark editorial scene: on left, a compact solid archive spine labelled 'COMPLETED TRANSACTIONS'; on right, a thin translucent drafting model labelled 'FORECAST'. Above them a crisp condensed headline 'PAST RESULTS ≠ FUTURE PROJECTIONS'. No numerical axis, dates, rising invented curve, actual company transactions or fake source text. Modern graphite/ivory photographic materials; avoid another giant rusty sign or a beige-card comparison. Keep clear separation and lower30%negative space.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-8ca033da-0715-42b1-a228-56096b5670f1.png",
+  "visual_review": {
+    "status": "PENDING",
+    "owner_style_baseline": "GF003_V2_APPROVED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF013_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF013_IMAGEGEN_V1.png",
+  "sha256": "8a703cd1c58f39eee8a211202223bff6068bf1e744149fcb3f64f3e1921fffd3",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF013.json",
+  "fact_reference_sha256": "ff75910eccb056e1eb33792dab54796271e56bc94865f14deb500af3e544b849"
+}
