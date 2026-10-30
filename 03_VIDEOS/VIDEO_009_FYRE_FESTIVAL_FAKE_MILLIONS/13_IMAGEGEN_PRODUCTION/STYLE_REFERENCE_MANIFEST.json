@@ -1,0 +1,16 @@
+[
+  {
+    "source_video": "C:\\YOUTUBE\\Youtube 3\\Video 5\\VIDEO005_V44_FULL_R4_1080P25_MASTER.mp4",
+    "time_s": 100,
+    "frame_file": "13_IMAGEGEN_PRODUCTION/STYLE_REFERENCES/VIDEO005_0100s.jpg",
+    "sha256": "348c6e88d2aa2f2c3d3b97fd838f0ef550e9c8b577ffceba320338ecef474322",
+    "role": "DIRECT_APPROVED_CHANNEL_VIDEO_STYLE_REFERENCE_NOT_FACT_EVIDENCE"
+  },
+  {
+    "source_video": "C:\\YOUTUBE\\Youtube 3\\Video 5\\VIDEO005_V44_FULL_R4_1080P25_MASTER.mp4",
+    "time_s": 220,
+    "frame_file": "13_IMAGEGEN_PRODUCTION/STYLE_REFERENCES/VIDEO005_0220s.jpg",
+    "sha256": "a060b1f7342b6dafe67cd9b3e3032b447eaade3bb246a52931e8b729c1a8cf7c",
+    "role": "DIRECT_APPROVED_CHANNEL_VIDEO_STYLE_REFERENCE_NOT_FACT_EVIDENCE"
+  }
+]

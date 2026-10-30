@@ -1,0 +1,4 @@
+GENERATION_QUEUE.json
+GENERATION_QUEUE.tmp
+REQUEST_*.json
+*.log

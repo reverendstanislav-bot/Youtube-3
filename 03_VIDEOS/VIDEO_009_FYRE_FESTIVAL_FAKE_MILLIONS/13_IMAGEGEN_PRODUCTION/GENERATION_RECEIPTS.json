@@ -1,0 +1,90 @@
+{
+  "owner_rejected": [
+    {
+      "asset_id": "GF001",
+      "generated_original": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-05a58255-1d78-4c47-8f20-c4d7df947616.png",
+      "provider": "built-in image_gen.imagegen",
+      "model": "NOT_EXPOSED_BY_TOOL",
+      "unit_cost": "NOT_EXPOSED_BY_TOOL",
+      "attempt": 1,
+      "qc": "REJECT_OWNER_STYLE_NOT_FOR_USE",
+      "reference_roles": "Channel style/materials reference; GF001also uses licensed Nassau geographic reference; generatedillustrationnotauthenticcaseevidence",
+      "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF001_IMAGEGEN_V1.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "9164b3c9da6d73236ad78ae65f6ccf318914582fc61b0b5f87819f442b28f184"
+    },
+    {
+      "asset_id": "GF002",
+      "generated_original": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-4586d42f-4ee5-4f77-a67b-993e7066d2c8.png",
+      "provider": "built-in image_gen.imagegen",
+      "model": "NOT_EXPOSED_BY_TOOL",
+      "unit_cost": "NOT_EXPOSED_BY_TOOL",
+      "attempt": 1,
+      "qc": "REJECT_OWNER_STYLE_NOT_FOR_USE",
+      "reference_roles": "Channel style/materials reference; GF001also uses licensed Nassau geographic reference; generatedillustrationnotauthenticcaseevidence",
+      "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF002_IMAGEGEN_V1.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "149195cade20c6db2d575fcb63ea9a289966992f4f8a4cdf1a6b592f010e57d6"
+    },
+    {
+      "asset_id": "GF003",
+      "generated_original": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-7b3c8964-b8d1-4b6f-b0cf-f63b49fa2f17.png",
+      "provider": "built-in image_gen.imagegen",
+      "model": "NOT_EXPOSED_BY_TOOL",
+      "unit_cost": "NOT_EXPOSED_BY_TOOL",
+      "attempt": 1,
+      "qc": "REJECT_OWNER_STYLE_NOT_FOR_USE",
+      "reference_roles": "Channel style/materials reference; GF001also uses licensed Nassau geographic reference; generatedillustrationnotauthenticcaseevidence",
+      "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF003_IMAGEGEN_V1.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sha256": "2c12fe68a0a26a3a8e6bf09e35365569cd227220c7801998e4cfb6ce71c7ac8e"
+    }
+  ],
+  "corrective_style_proof": {
+    "asset_id": "GF003",
+    "version": 2,
+    "generated_original": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-f203bdec-6055-43eb-9119-ee16dc9b6364.png",
+    "provider": "built-in image_gen.imagegen",
+    "model": "NOT_EXPOSED_BY_TOOL",
+    "unit_cost": "NOT_EXPOSED_BY_TOOL",
+    "input": {
+      "prompt": "VIDEO009 / GF003 — CORRECTIVE GENERATION FOR THE ACTUAL WHAT IT COST CHANNEL STYLE. The two supplied images are DIRECT FRAMES FROM THE APPROVED VIDEO005 MASTER. Follow their actual visual grammar, especially the dark photographic mechanical-value metaphor and condensed white/red typography. Do not reproduce their topic, vehicle, laser rays, $680M, locks, wording, borders or overlays. Create ONE single independent cinematic16:9 frame, not a collage, mockupboard or SVG-looking flat infographic. Subject: an original EDITORIAL booking-count metaphor, a sturdy realistic mechanical tally-counter object on a graphite-black work surface. Large dark iron housing, a restrained aged ivory face and clearly legible condensed counter numerals. Plausible photographic metalwork, controlled hard side-light, deep black/charcoal negative space, tactile fine wear, an investigative business-documentary mood. A small part of a closed research ledger may support the subject at the far edge, but NO giant beige sheet, blank paper, manila-folder still-life, antique-paper wallpaper, sunlit tropical room, fake filing or background pseudo-writing. Main readable text ONLY: 'FYRE MEDIA', '2,500+', 'CLAIMED PLATFORM BOOKINGS', 'ONE MONTH'. The large count2,500+ is a claim, not actual bookings and not festival performers; CLAIMED and ONE MONTH must both be prominent. Typography reference is Bebas-Neue-like condensed, not serif headline lettering. Use ivory for labels and optionally restrained deep signal-red on the main number itself; NO red/yellow outlines, rectangle borders, highlights, underline marks, arrows, circles, laser effects or baked motion/callout graphics. A genuine-looking photographed editorial prop, not an authentic historic Fyre counter or company document. NO companylogo, governmentseal, signature, inventedquote or fabricated source record. Composition MUST show the ENTIRE object and ALL text within the upper70% of the frame, with at least30% of the bottom absolutely empty dark surface. Specifically the ONE MONTH label must be fully ABOVE that clean bottom30%; do not let the mainplate run to the loweredge. Allow clear separated silhouettes and calm perspective for later Fusion parallax and emphasis layers. Make this read like the reference VIDEO005 channel frame, not another beige printed card. One finished1920x1080-style16:9 scene, strict subtitle-safe bottom.",
+      "referenced_image_paths": [
+        "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0220s.jpg",
+        "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\STYLE_REFERENCES\\VIDEO005_0100s.jpg"
+      ],
+      "transparent_background": false
+    },
+    "qc": "PASS_MAKER_NUMBER_SCOPE_AND_SAFE_ZONE; OWNER_STYLE_REVIEW_PENDING",
+    "provenance": "ORIGINAL_EDITORIAL_VISUAL_METAPHOR_NOT_AUTHENTIC_HISTORIC_FYRE_DEVICE",
+    "expected_text": [
+      "FYRE MEDIA",
+      "2,500+",
+      "CLAIMED PLATFORM BOOKINGS",
+      "ONE MONTH"
+    ],
+    "bottom20_percent_important_content": "CLEAR",
+    "red_yellow_outlines": "NONE",
+    "fusion_notes": "Static camera, isolated foreground counter silhouette, room for masks and parallax. Any additional marker/underline/arrow must remain separate Fusion layer.",
+    "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF003_IMAGEGEN_V2.png",
+    "sha256": "2d386bc3b4be91075548b0c586093aa9fccd71151f15e3d70d3e969f61b4d954",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "repo_file": "13_IMAGEGEN_PRODUCTION/GF003_IMAGEGEN_V2_STYLE_PROOF.png"
+  },
+  "submissions_total": 4,
+  "accepted_production_images": 0,
+  "owner_style_approval": "PENDING",
+  "cost": "BUILT_IN_TOOL_DOES_NOT_EXPOSE_NUMERIC_COST; NOT_ZERO_COST_CLAIM"
+}

@@ -1,0 +1,68 @@
+{
+  "video_id": "009",
+  "queue_mode": "LOCAL_PERSISTENT_SEQUENTIAL_DISPATCHER_WITH_SSE_EVENTS",
+  "authorization": "Owner2026-10-30: after visual preparation, start Voicebox audio queue, leave it running and begin frames. Five locked Stage08 parts; no retries.",
+  "engine": "qwen",
+  "model": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "profile_id": "228d3d8a-096f-461b-bf11-4f9415e2dafc",
+  "voice_name": "Harrison",
+  "voice_provenance": "Existing Video4 clone used in owner-accepted VIDEO008; same profile verified with a real sample. Not a direct Higgsfield preset call.",
+  "credits_spent": 0,
+  "api_spend_usd": 0,
+  "approved_jobs": 5,
+  "runner_pid": 11084,
+  "started_utc": "2026-10-30T12:01:34.656644+00:00",
+  "state": "RUNNING_SEQUENTIAL_QUEUE",
+  "status_polling": false,
+  "completion_transport": "SSE_SERVER_EVENTS",
+  "automatic_retries": false,
+  "assistant_should_not_monitor": true,
+  "stage09_pass": false,
+  "stage10_started": false,
+  "jobs": [
+    {
+      "segment": 1,
+      "input_file": "08_HARRISON_PART_01.txt",
+      "input_sha256": "f3ff7bc9e31b9c6ad6a0b7d6f7950beba672b2560fa892169d4ed65d6279e38b",
+      "words": 251,
+      "status": "generating",
+      "generation_id": "65830baa-ace4-4043-96ed-6834fb162157",
+      "submitted_utc": "2026-10-30T12:01:34.703998+00:00",
+      "response_utc": "2026-10-30T12:01:34.845773+00:00"
+    },
+    {
+      "segment": 2,
+      "input_file": "08_HARRISON_PART_02.txt",
+      "input_sha256": "267d4459653e004e7b87b4f4982cfe92901c88c9e628686d7cec834a1c7a01d0",
+      "words": 274,
+      "status": "QUEUED_LOCAL_NOT_YET_SUBMITTED",
+      "generation_id": null
+    },
+    {
+      "segment": 3,
+      "input_file": "08_HARRISON_PART_03.txt",
+      "input_sha256": "585104cdbe4e408cc511ef78b91126b9a00c6bed65424cb4566f32d31767e0f7",
+      "words": 456,
+      "status": "QUEUED_LOCAL_NOT_YET_SUBMITTED",
+      "generation_id": null
+    },
+    {
+      "segment": 4,
+      "input_file": "08_HARRISON_PART_04.txt",
+      "input_sha256": "46cea82c9b516d1d0f1a346974aa03ffc161e2b1f07e89873a1faaedc48c0338",
+      "words": 448,
+      "status": "QUEUED_LOCAL_NOT_YET_SUBMITTED",
+      "generation_id": null
+    },
+    {
+      "segment": 5,
+      "input_file": "08_HARRISON_PART_05.txt",
+      "input_sha256": "211e2b6aa4d3fec08f5f428046fa03d7d7f2fdd9a53591ba38e8f94473850c9c",
+      "words": 375,
+      "status": "QUEUED_LOCAL_NOT_YET_SUBMITTED",
+      "generation_id": null
+    }
+  ],
+  "updated_utc": "2026-10-30T12:01:34.845785+00:00",
+  "history_reconciliation": "VOICEBOX_SQLITE_READ_ONLY; GET_HISTORY_HTTP500_WORKAROUND_NO_DB_WRITES"
+}

@@ -1,0 +1,50 @@
+{
+  "health": {
+    "status": "healthy",
+    "model_loaded": true,
+    "model_downloaded": true,
+    "model_size": "1.7B",
+    "gpu_available": true,
+    "gpu_type": "CUDA (NVIDIA GeForce RTX 3050 6GB Laptop GPU)",
+    "vram_used_mb": 4047.17333984375,
+    "backend_type": "pytorch",
+    "backend_variant": "cuda",
+    "gpu_compatibility_warning": null
+  },
+  "profile": {
+    "id": "228d3d8a-096f-461b-bf11-4f9415e2dafc",
+    "name": "Harrison",
+    "description": "Cloned from clean Video 4 narration master",
+    "language": "en",
+    "avatar_path": null,
+    "effects_chain": null,
+    "voice_type": "cloned",
+    "preset_engine": null,
+    "preset_voice_id": null,
+    "design_prompt": null,
+    "default_engine": "qwen",
+    "personality": null,
+    "generation_count": 0,
+    "sample_count": 0,
+    "created_at": "2026-10-14T13:10:40.393542",
+    "updated_at": "2026-10-14T13:10:56.073526"
+  },
+  "samples": [
+    {
+      "id": "f41b17e1-4850-432a-97eb-59ee676d1b78",
+      "profile_id": "228d3d8a-096f-461b-bf11-4f9415e2dafc",
+      "audio_path": "profiles\\228d3d8a-096f-461b-bf11-4f9415e2dafc\\f41b17e1-4850-432a-97eb-59ee676d1b78.wav",
+      "reference_text": "Those allegations were not decided by the lawsuit's emergency request. Valve argued that its replacement contract should end the earlier proceedings. The users wanted to preserve the forum where their claims had already begun. A Steam update was no longer just about future purchases. It had become evidence in a fight over an existing case. The answer runs through two contracts, the one that sent these users into arbitration and the one Valve argued should let it stop them."
+    }
+  ],
+  "locked_part_words": [
+    251,
+    274,
+    456,
+    448,
+    375
+  ],
+  "cost_usd": 0,
+  "credits": 0,
+  "checked_utc": "2026-10-30T12:01:34.701574+00:00"
+}
