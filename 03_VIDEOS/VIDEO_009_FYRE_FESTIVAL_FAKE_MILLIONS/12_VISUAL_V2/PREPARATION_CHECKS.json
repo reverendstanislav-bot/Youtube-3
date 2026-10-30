@@ -1,0 +1,29 @@
+{
+  "source_main_commit": "cc63aa6321e6f509dbc0f9706434aec9b410938a",
+  "locked_script_git_blob": "8edd63b3734e12c49a679e53c7719c0730299438",
+  "working_tree_crlf_note": "Git canonical LF blob verified; raw Windows working-treeSHA256 separately retained",
+  "voice_paragraphs": 37,
+  "voice_words": 1804,
+  "inventory_positions": 142,
+  "gf_prompts_reviewed": 52,
+  "doc_positions": 14,
+  "stock_positions": 76,
+  "all_paragraphs_mapped": true,
+  "estimated_runtime_no_pauses_seconds": 746.483,
+  "timestamps": "ALL_ESTIMATED_NO_AUDIO_GENERATED",
+  "first_batch_images": 10,
+  "first_batch_route": "LOCAL_EDITOR_NATIVE_NO_PAID_IMAGE_MODEL",
+  "first_batch_estimated_api_usd": 0,
+  "paid_generations_submitted": 0,
+  "uncovered_paragraphs": 0,
+  "visual_output_qc": "HOLD_EXPLICIT_MISSING_SOURCES_STOCK_TIMING_RENDER_AND_FINAL_INDEPENDENT_REVIEW",
+  "actual_doc_crops": 14,
+  "doc_independent_pixel_qc": "PASS14OF14",
+  "stock_downloaded_originals": 50,
+  "stock_licensed_technical_pool": 47,
+  "stock_requests": {
+    "PASS": 38,
+    "HOLD": 36,
+    "REJECT": 2
+  }
+}

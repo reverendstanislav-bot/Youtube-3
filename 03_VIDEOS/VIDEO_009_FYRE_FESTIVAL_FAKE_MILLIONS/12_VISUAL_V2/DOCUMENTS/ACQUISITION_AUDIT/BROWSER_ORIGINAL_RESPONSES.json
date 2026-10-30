@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "DOJ_PLEA",
+    "url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+    "status": 200,
+    "final_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\DOJ_PLEA_BROWSER_RESPONSE.html",
+    "bytes": 116493,
+    "sha256": "e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8",
+    "valid_official_content": true,
+    "provenance": "Exact decoded response body retrieved by the ordinary browser fetch API after native page navigation; no text reconstruction",
+    "retrieved_utc": "2026-10-30T03:08:11.919Z"
+  },
+  {
+    "source_id": "DOJ_VIP",
+    "url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam",
+    "status": 200,
+    "final_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam",
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\DOJ_VIP_BROWSER_RESPONSE.html",
+    "bytes": 117469,
+    "sha256": "0dbdde81756a15b56001fc6f5d5d31530aa688fa9788c7bf9d9d89df32716cfa",
+    "valid_official_content": true,
+    "provenance": "Exact decoded response body retrieved by the ordinary browser fetch API after native page navigation; no text reconstruction",
+    "retrieved_utc": "2026-10-30T03:08:19.969Z"
+  },
+  {
+    "source_id": "DOJ_SENTENCE",
+    "url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple",
+    "status": 200,
+    "final_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple",
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\DOJ_SENTENCE_BROWSER_RESPONSE.html",
+    "bytes": 121047,
+    "sha256": "0a42f9f303256341c0ea4ffc4c9edaa7463c71fbca766dc2c44808a5b870799a",
+    "valid_official_content": true,
+    "provenance": "Exact decoded response body retrieved by the ordinary browser fetch API after native page navigation; no text reconstruction",
+    "retrieved_utc": "2026-10-30T03:08:27.542Z"
+  },
+  {
+    "source_id": "DOJ_INITIAL_CHARGES",
+    "url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-individual-defrauding-investors-digital",
+    "status": 200,
+    "final_url": "https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-individual-defrauding-investors-digital",
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\DOJ_INITIAL_CHARGES_BROWSER_RESPONSE.html",
+    "bytes": 115344,
+    "sha256": "574104a350231105860261c6278eb9507f3d4ebea0b14569cf622ae28c93a983",
+    "valid_official_content": true,
+    "provenance": "Exact decoded response body retrieved by the ordinary browser fetch API after native page navigation; no text reconstruction",
+    "retrieved_utc": "2026-10-30T03:08:35.535Z"
+  }
+]

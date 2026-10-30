@@ -1,0 +1,21 @@
+{
+  "verified_case_source_files": 6,
+  "official_html_response_bodies": 4,
+  "official_native_pdf": 1,
+  "sec_native_court_filing_mirror_copy": 1,
+  "additional_rights_policy_files": 1,
+  "official_sec_release_binary": "HOLD_HTTP403",
+  "official_sec_pdf_binary": "HOLD_HTTP403_MIRROR_COPY_AVAILABLE",
+  "doc_crops": 14,
+  "doc_crop_source_substitution": "DOC006 uses original SEC complaint paragraph44 instead of blocked SEC release; DOC014 locator corrected to complaintintro p1",
+  "crop_real_pixels_qc": "PASS_MAKER_REVIEW_PENDING_INDEPENDENT_CRITIC",
+  "source_archive": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\VIDEO009_ORIGINAL_DOCUMENT_SOURCES.zip",
+  "source_archive_sha256": "14bb09d7aad19562582db9099809f09caaa85ba56537e1a7175e29e554a9b552",
+  "source_archive_bytes": 654914,
+  "source_archive_integrity": "PASS",
+  "no_fake_documents": true,
+  "no_source_text_retyped": true,
+  "paid_generation": 0,
+  "publication_clearance": "NOT_CLAIMED_FINAL_CONTEXT_AND_GLOBAL_RIGHTS_GATES_SEPARATE",
+  "independent_correction": "DOC012 browser retrieval header excluded using native source crop Y27; final critic recheck pending"
+}

@@ -7,9 +7,9 @@ pillar: "CORPORATE_SCANDAL_FRAUD"
 priority: "9"
 status: "IN_PREPARATION"
 created: "2026-10-28"
-last_updated: "2026-10-28"
-current_stage: "08_VOICE_SCRIPT_PREPARATION"
-next_action: "Stage09 Harrison voice generation and audio QC only on explicit owner approval; no paid generation authorized."
+last_updated: "2026-10-30"
+current_stage: "12_VISUAL_SOURCE_PREPARATION"
+next_action: "Owner authorized subsequent local Harrison five-part queue, then native frame production. Complete unresolvedstock/context and independentreview before final visualPASS; no montage authorized."
 blockers: ["Original SEC complaint page-by-page visual verification and archive pending", "2019 documentary footage and promotional material rights not cleared", "2026 Fyre brand/revival status not included in active historical claims"]
 stages:
   stage_00_topic_qualification: "PASS_GO_90_8_OWNER_SELECTED"
@@ -24,8 +24,8 @@ stages:
   stage_09_voice_qa_lock: "NOT_STARTED"
   stage_10_audio_master: "NOT_STARTED"
   stage_11_transcript_visual_timeline: "NOT_STARTED"
-  stage_12_visual_source_generation_plan: "NOT_STARTED"
-  stage_13_visual_asset_qc: "NOT_STARTED"
+  stage_12_visual_source_generation_plan: "PREPARATION_COMPLETED_142_MAPPED_52_REVIEWED_14_REAL_CROPS_STOCK_HOLDS"
+  stage_13_visual_asset_qc: "PARTIAL_DOC14_INDEPENDENT_PIXEL_PASS_STOCK38PASS_36HOLD_2REJECT"
   stage_14_graphics_documents_music_sfx: "NOT_STARTED"
   stage_15_assembly_edit: "NOT_STARTED"
   stage_16_final_fact_legal_refresh: "NOT_STARTED"
@@ -68,7 +68,7 @@ qa:
   script: "PASS_G07_V3_LOCKED"
   fact_legal: "PASS_TEXT_SCOPE_WITH_DOWNSTREAM_AUDIO_AND_VISUAL_HOLDS"
   performance: "PASS_G06R_V3_84_OF_100_EDITORIAL"
-  visual: "NOT_RUN"
+  visual: "PREPARATION_DONE_WITH_DECLARED_HOLDS_NO_FINAL_ASSET_PASS"
   edit: "NOT_RUN"
   final_refresh: "NOT_RUN"
   packaging: "NOT_RUN"
@@ -77,3 +77,24 @@ publish:
   scheduled_at: ""
   published_at: ""
   youtube_url: ""
+
+visual_preparation_v2:
+  date: "2026-10-30"
+  report: "12_VISUAL_V2/PREPARATION_REPORT.md"
+  input_zip_sha256: "855e6f6c66873c1af5879be498879a749e92a50b101a34b858692012bc93e6ce"
+  positions: 142
+  voice_paragraphs: 37
+  prompts_reviewed: 52
+  document_originals: 6
+  authentic_crops: 14
+  downloaded_stock_originals: 50
+  licensed_technical_stock_pool: 47
+  stock_request_pass: 38
+  stock_request_hold: 36
+  stock_request_reject: 2
+  timing: "ESTIMATED_NO_AUDIO"
+  native_first_batch_images: 10
+  native_first_batch_api_cost_usd: 0
+  paid_generation_submitted: 0
+  overall_asset_qc: "HOLD"
+  script_audio_modified: false

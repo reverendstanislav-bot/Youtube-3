@@ -1,0 +1,6 @@
+# Preserve captured source/evidence bytes, including their original whitespace.
+DOCUMENTS/ORIGINALS/** -text -diff -whitespace
+DOCUMENTS/ACQUISITION_AUDIT/** -text -diff -whitespace
+STOCK/EVIDENCE/** -text -diff -whitespace
+# Registry cells include verbatim multiline source passages.
+*.csv -whitespace

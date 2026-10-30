@@ -1,3 +1,13 @@
+# VIDEO009 — Fyre Festival — visual preparation V2 — 2026-10-30
+
+Current stage: **12_VISUAL_SOURCE_PREPARATION**. Preparation executed; overallvisualassetcompletion **HOLD**.
+
+37lockedparagraphs/1804words unchanged;142visualpositions mapped to exactscriptanchors, alltimeintervalsESTIMATED.52distinctGFbriefs withconcrete hashedsource/style references.14authenticdocumentcrops independentlypixelverified.6case-sourceoriginals saved, directSECarchive403HOLD withgenuineCCHcourtcomplaintmirrorexplicit.50stockoriginals downloaded;47licensed/technicallychecked;76requestrows:38PASS/36HOLD/2REJECT. Finalindependentstock/repairedtextreview incomplete aftercriticusage limit.
+
+Open `12_VISUAL_V2/PREPARATION_REPORT.md`, `QC_REGISTRY_V2.csv` and `MISSING_MATERIALS_V2.csv`. First10nativeimagequeue prepared($0API,0paidjobs), notrendered in this snapshot. No paidgeneration/TTS/montage run during preparation. Owner subsequently authorized a five-partlocalVoiceboxqueue thenframeproduction; executionandIDs mustbe recordedbeforeclaimingstarted. NoStage15montageorpublicationauthorization.
+
+## Historical handoff snapshots below
+
 # VIDEO 009 — FYRE Festival / financial fraud
 
 Status: IN_PREPARATION. Current stage: 02_CASE_STORY_MAP (PLAN PASS). Stage03 NOT STARTED.

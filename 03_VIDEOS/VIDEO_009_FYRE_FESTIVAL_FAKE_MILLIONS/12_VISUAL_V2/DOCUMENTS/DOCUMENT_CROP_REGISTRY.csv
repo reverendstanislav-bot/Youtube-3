@@ -1,0 +1,344 @@
+asset_id,act,paragraph_range,source_id,official_source_url,actual_download_url,source_file,source_sha256,pixel_document,pixel_document_sha256,source_provenance,page_1_based,page_number_type,bbox_pdf_points,render_scale,file,sha256,width,height,full_source_page,purpose,verified_source_passage,rights,source_substitution_or_limits,pixel_qc,source_identity_qc,status,legal_status
+DOC001,1,P001-P004,DOJ_PLEA,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_PLEA_BROWSER_RESPONSE.html,e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_PLEA_BROWSER_PRINT.pdf,88b83b1b94dd47bb6d6a42433f48e6ae849baf59873b71268a1b19697eddfe88,OFFICIAL_DOJ_HTML_RESPONSE_BODY,1,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 134.0, 588.0, 448.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC001_DOJ_PLEA_P01.png,7924181bda456d620005b7d4c324da6743a5af6b967f5558c2ec5d744ce8fb49,1680,942,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_PLEA_P01.png,"Plea headline/date/agency, opening proof","PRESS RELEASE
+William McFarland Pleads Guilty In
+Manhattan Federal Court To Defrauding
+Investors And A Ticket Vendor Of Over
+$26 Million
+Tuesday, March 6, 2018
+For Immediate Release
+U.S. Attorney's Office, Southern District
+of New York
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC002,1,P002,DOJ_PLEA,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_PLEA_BROWSER_RESPONSE.html,e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_PLEA_BROWSER_PRINT.pdf,88b83b1b94dd47bb6d6a42433f48e6ae849baf59873b71268a1b19697eddfe88,OFFICIAL_DOJ_HTML_RESPONSE_BODY,2,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 290.0, 588.0, 503.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC002_DOJ_PLEA_P02.png,bb0ad02b98400ce258532057ae325a338dd3b4913df74aae192c77ba71e7f85f,1680,639,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_PLEA_P02.png,Complete revenue and booking-count paragraph; one-month/year distinction retained,"McFARLAND repeatedly made materially false statements to investors about Fyre Media’s
+revenue and income, and manipulated Fyre Media’s financial statements and supporting
+documentation to hide Fyre Media’s true financial condition.  McFARLAND represented to
+investors that Fyre Media had earned millions of dollars of revenue solely from talent bookings;
+a review of Fyre Media’s records shows that those numbers were significantly overstated. 
+McFARLAND also provided falsified income statements to investors that purported to show that
+from approximately April 2016 to February 2017, Fyre Media had earned millions of dollars in
+income from talent bookings.  In reality, Fyre Media’s income from talent bookings from
+approximately May 2016 to April 2017 was only $57,443.  In addition, McFARLAND provided
+falsified documents to investors showing over 2,500 confirmed talent bookings in a single
+month when, in fact, there were only 60 confirmed talent bookings in the entire year.   
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC003,2,P005-P007,DOJ_PLEA,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_PLEA_BROWSER_RESPONSE.html,e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_PLEA_BROWSER_PRINT.pdf,88b83b1b94dd47bb6d6a42433f48e6ae849baf59873b71268a1b19697eddfe88,OFFICIAL_DOJ_HTML_RESPONSE_BODY,2,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 88.0, 588.0, 291.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC003_DOJ_PLEA_P02.png,ddf8a1cc90717d7a9318f83a6f53409e94d57ca801a9db3ca52c3b5d92b2a9d5,1680,609,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_PLEA_P02.png,"Founding and artist-booking-platform context, including admission context above","According to the complaint and Superseding Information to which McFARLAND pled, as well as
+statements made in court:
+McFARLAND was the founder and chief executive officer of Fyre Media.  In 2016, McFARLAND
+started Fyre Media to build a digital application that would allow individuals organizing
+commercial events, such as concerts, to bid for artist and celebrity bookings at such events. 
+From at least in or about 2016, up to and including in or about May 2017, McFARLAND
+conducted a scheme to defraud individuals by inducing them to invest millions of dollars in Fyre
+Media.  Through this scheme, McFARLAND caused losses to at least 80 victim-investors,
+totaling more than $24 million dollars.  McFARLAND orchestrated this scheme through several
+means and methods.
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC004,3,P008-P010,DOJ_PLEA,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_PLEA_BROWSER_RESPONSE.html,e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_PLEA_BROWSER_PRINT.pdf,88b83b1b94dd47bb6d6a42433f48e6ae849baf59873b71268a1b19697eddfe88,OFFICIAL_DOJ_HTML_RESPONSE_BODY,2,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 439.0, 588.0, 501.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC004_DOJ_PLEA_P02.png,161b0e28161fa2fa7e9de11102bd661806bcd417216c19f8793797f9fd17e447,1680,186,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_PLEA_P02.png,"Tight booking-count source excerpt, not festival lineup","approximately May 2016 to April 2017 was only $57,443.  In addition, McFARLAND provided
+falsified documents to investors showing over 2,500 confirmed talent bookings in a single
+month when, in fact, there were only 60 confirmed talent bookings in the entire year.   
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC005,4,P011-P012,DOJ_COMPLAINT_PDF,https://www.justice.gov/usao-sdny/press-release/file/977606/dl,https://www.justice.gov/usao-sdny/press-release/file/977606/dl,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_COMPLAINT_PDF.pdf,49cf21b7f46d28d909256a5fba06229064b6d77d4b3a9ccac09942623e13a7cc,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_COMPLAINT_PDF.pdf,49cf21b7f46d28d909256a5fba06229064b6d77d4b3a9ccac09942623e13a7cc,NATIVE_PDF_DOWNLOADED_FROM_OFFICIAL_DOJ,6,NATIVE_COURT_PDF_PAGE,"[40.0, 35.0, 572.0, 181.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC005_DOJ_COMPLAINT_PDF_P06.png,204764a0acdfbe9aec3a32b18ba5f1c1c6dce668341e5f9732d6e652028f8ee1,1596,438,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_COMPLAINT_PDF_P06.png,"Original scanned criminal complaint paragraph8 continued: May2016–April2017 $57,443 revenue","Scanned native PDF page6 top: May2016 toApril2017 revenue$57,443. Visually verified; no OCR text substituted.",US_FEDERAL_GOVERNMENT_AUTHORED_COURT_COMPLAINT_TEXT_PUBLIC_DOMAIN; selected text only,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,CHARGING_COMPLAINT_ALLEGATIONS_CORROBORATED_LATER_PLEA
+DOC006,5,P013-P017,SEC_COMPLAINT_MIRROR,https://www.sec.gov/files/litigation/complaints/2018/comp24213.pdf,https://business.cch.com/srd/comp-pr2018-141-20180724.pdf,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,ORIGINAL_GOVERNMENT_COURT_FILING_COPY_HOSTED_BY_CCH_LEGAL_PUBLISHER_MIRROR,12,NATIVE_COURT_PDF_PAGE,"[62.0, 4.0, 552.0, 299.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC006_SEC_COMPLAINT_MIRROR_P12.png,1a582ea0556b230be6c4112487129c38bd691910e20dad90ef5f7317baba6945,1470,885,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\SEC_COMPLAINT_MIRROR_P12.png,"Original court complaint paragraph44, purported$2.56m vsactual$1499; no stock-theft claim"," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 12 of 25 
+43. 
+McFarland paid Simon thousands of dollars from McFarland’s personal bank 
+account for the short-term contract work, which consisted entirely of creating the false spreadsheets. 
+McFarland and Fyre Media’s False Statements Concerning a Fake Brokerage 
+Statement, McFarland’s Net Worth, Loans, and Investments 
+44. 
+In response to requests from at least three existing and prospective Fyre Festival 
+investors that their investments be collateralized, McFarland created a fake brokerage statement, 
+which showed that McFarland owned $2.56 million in shares in the common stock of Facebook, 
+Inc. (“Facebook”).  In fact, McFarland owned just $1,499 worth of Facebook shares, a tiny 
+fraction of the shares indicated by the fake brokerage statement.  
+",US_FEDERAL_GOVERNMENT_AUTHORED_COURT_COMPLAINT_TEXT_PUBLIC_DOMAIN; mirror distribution does not change underlying government text; no publisher editorial additions used,Source substitution: requested SEC release pixels inaccessible403; genuine SEC complaint paragraph44 directly supports the same facts. Mirror provenance disclosed.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS_DOCUMENT_COPY_IDENTITY_MIRROR_OFFICIAL_BINARY_HOLD,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,CIVIL_COMPLAINT_ALLEGATIONS; MCFARLAND_ADMISSION_CORROBORATED_BY_RELEASE_WEB_TEXT
+DOC007,5,P015-P017,SEC_COMPLAINT_MIRROR,https://www.sec.gov/files/litigation/complaints/2018/comp24213.pdf,https://business.cch.com/srd/comp-pr2018-141-20180724.pdf,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,ORIGINAL_GOVERNMENT_COURT_FILING_COPY_HOSTED_BY_CCH_LEGAL_PUBLISHER_MIRROR,1,NATIVE_COURT_PDF_PAGE,"[61.0, 4.0, 553.0, 428.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC007_SEC_COMPLAINT_MIRROR_P01.png,54071c6d31c9d512e0a96aa55d9ae64aa11c66f51a1cbdec77b3e647293cfdcd,1476,1272,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\SEC_COMPLAINT_MIRROR_P01.png,"Authentic complaint cover, case header, parties and filing identity"," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 1 of 25 
+Sarah Heaton Concannon (SDNY Bar Code #SC9111) 
+SECURITIES AND EXCHANGE COMMISSION 
+100 F Street, N.E. 
+Washington, DC 20549 
+Telephone:  (202) 551-5361 
+Facsimile:  (202) 772-9282 
+Email:  ConcannonS@sec.gov 
+UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF NEW YORK 
+------------------------------------------------------------------------------x 
+:
+SECURITIES AND EXCHANGE COMMISSION, 
+: 
+Plaintiff, 
+: 
+: 
+COMPLAINT 
+– against – 
+: 
+: 
+18-CV-6634 
+WILLIAM Z. (“BILLY”) MCFARLAND 
+FYRE MEDIA, INC. 
+MAGNISES, INC. 
+GRANT MARGOLIN 
+DANIEL SIMON 
+: 
+: 
+: 
+: 
+: 
+: 
+ECF CASE 
+JURY TRIAL DEMANDED 
+Defendants. 
+: 
+: 
+------------------------------------------------------------------------------x 
+",US_FEDERAL_GOVERNMENT_AUTHORED_COURT_COMPLAINT_TEXT_PUBLIC_DOMAIN; mirror distribution does not change underlying government text; no publisher editorial additions used,"Official binary blocked; verified CCH-hosted copy, not byte-compared to SEC binary.",PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS_DOCUMENT_COPY_IDENTITY_MIRROR_OFFICIAL_BINARY_HOLD,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,CIVIL_COMPLAINT_ALLEGATIONS; MCFARLAND_ADMISSION_CORROBORATED_BY_RELEASE_WEB_TEXT
+DOC008,6,P018-P021,DOJ_SENTENCE,https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple,https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_SENTENCE_BROWSER_RESPONSE.html,0a42f9f303256341c0ea4ffc4c9edaa7463c71fbca766dc2c44808a5b870799a,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_SENTENCE_BROWSER_PRINT.pdf,131f6c7d6cfcad950a5a7556dd48c0ba4998a175d937c9b5acce84c394a4df17,OFFICIAL_DOJ_HTML_RESPONSE_BODY,3,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 67.0, 588.0, 244.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC008_DOJ_SENTENCE_P03.png,7d8a8bc41161e996d8aee5464259cc5a555321a2cdbcbeab853162033e74f8ac,1680,531,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_SENTENCE_P03.png,Complete unexecuted-policy paragraph from DOJ sentencing release,"In late 2016, McFARLAND established a subsidiary, Fyre Festival LLC, to hold a music festival
+called the “Fyre Festival” over two weekends in the Bahamas.  McFARLAND made repeated
+misrepresentations to investors with respect to their investments in Fyre Festival LLC.
+McFARLAND overstated the Festival’s receivables that he used as collateral for numerous
+investments to cover Festival expenses.  McFARLAND also secured numerous investments in
+Fyre Festival LLC by claiming that investors would have the rights to payouts from Festival
+event cancellation insurance policies when, in reality, no event cancellation insurance policies
+had been executed for the Festival.  Ultimately, the Festival was canceled and widely deemed to
+have been a failure.
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,Uses later admitted-conduct sentencing source for the same insurance fact.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC009,7,P022-P025,DOJ_PLEA,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_PLEA_BROWSER_RESPONSE.html,e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_PLEA_BROWSER_PRINT.pdf,88b83b1b94dd47bb6d6a42433f48e6ae849baf59873b71268a1b19697eddfe88,OFFICIAL_DOJ_HTML_RESPONSE_BODY,1,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 134.0, 588.0, 730.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC009_DOJ_PLEA_P01.png,bcef015719a979a6a2a5c253851a108c72fb30309c8ca40c3b883ea88a7d76a7,1680,1788,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_PLEA_P01.png,March2018 plea headline/date plus outcome paragraph,"PRESS RELEASE
+William McFarland Pleads Guilty In
+Manhattan Federal Court To Defrauding
+Investors And A Ticket Vendor Of Over
+$26 Million
+Tuesday, March 6, 2018
+For Immediate Release
+U.S. Attorney's Office, Southern District
+of New York
+McFarland Engaged in a Scheme to Defraud over 80 Investors in Fyre Media
+Inc. and Fyre Festival LLC, as well as a Fyre Festival Ticket Vendor, Causing
+More Than $26 Million in Losses
+Geoffrey S. Berman, the United States Attorney for the Southern District of New York,
+announced that WILLIAM McFARLAND pled guilty today to one count of wire fraud in
+connection with a scheme to defraud investors in a company controlled by McFARLAND, Fyre
+Media Inc. (“Fyre Media”), as well as its subsidiary (“Fyre Festival LLC”), which was formed to
+hold a music festival called the “Fyre Festival” (the “Festival”) over two weekends in the
+Bahamas.  McFarland also pled guilty to a second count of wire fraud in connection with a
+scheme to defraud a ticket vendor for the Festival.  McFARLAND pled guilty before U.S. District
+Judge Naomi Reice Buchwald. 
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,Repeated source revisited with broader context; not a new source.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC010,7,P024,DOJ_INITIAL_CHARGES,https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-individual-defrauding-investors-digital,https://www.justice.gov/usao-sdny/pr/manhattan-us-attorney-announces-charges-against-individual-defrauding-investors-digital,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_INITIAL_CHARGES_BROWSER_RESPONSE.html,574104a350231105860261c6278eb9507f3d4ebea0b14569cf622ae28c93a983,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_INITIAL_CHARGES_BROWSER_PRINT.pdf,f4d4bb412c04c53fb0ab6541ba2de51357552047cbfe428906b9a4d38049f30f,OFFICIAL_DOJ_HTML_RESPONSE_BODY,1,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 134.0, 588.0, 718.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC010_DOJ_INITIAL_CHARGES_P01.png,90bc02c71662d14f47fa115501958d3eff9c63154ab2d7636c8ecec8f1a748ed,1680,1752,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_INITIAL_CHARGES_P01.png,June30 2017 original charge announcement; allegations kept distinct from later pleas,"PRESS RELEASE
+Manhattan U.S. Attorney Announces
+Charges Against Individual For
+Defrauding Investors In Digital Media
+Company
+Friday, June 30, 2017
+For Immediate Release
+U.S. Attorney's Office, Southern District
+of New York
+William McFarland Made False Representations to Investors in Fyre Media
+LLC and the Fyre Festival
+Joon H. Kim, the Acting United States Attorney for the Southern District of New York, and
+William F. Sweeney Jr., Assistant Director-in-Charge of the New York Field Office of the Federal
+Bureau of Investigation (“FBI”), announced today the unsealing of a criminal Complaint charging
+WILLIAM McFARLAND with wire fraud, in connection with a scheme to defraud investors in a
+company controlled by McFARLAND, Fyre Media LLC (“Fyre Media”), as well as a related entity
+responsible for organizing a music festival set to take place in the Bahamas (the “Fyre Festival”).
+McFARLAND was arrested today in New York, New York, and is expected to be presented before
+U.S. Magistrate Judge Kevin N. Fox tomorrow.
+ 
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,ORIGINAL_CHARGES_ALLEGATIONS_NOT_CONVICTION
+DOC011,8,P026-P029,DOJ_VIP,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_VIP_BROWSER_RESPONSE.html,0dbdde81756a15b56001fc6f5d5d31530aa688fa9788c7bf9d9d89df32716cfa,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_VIP_BROWSER_PRINT.pdf,11fe222da7a03559282c1b976a711c58a251cb3bba4e26f32505cf8c6ce26c5d,OFFICIAL_DOJ_HTML_RESPONSE_BODY,1,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 134.0, 588.0, 662.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC011_DOJ_VIP_P01.png,9ae899970c9fd922452d88922885bc18968606fc092843f87809ff8a1546be86,1680,1584,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_VIP_P01.png,July2018 separate NYC VIP plea headline/date/agency,"PRESS RELEASE
+William McFarland Pleads Guilty In
+Manhattan Federal Court To Engaging
+In A Fraudulent Ticket Scam,
+Committing Bank Fraud, And Making
+False Statements To Federal Law
+Enforcement Agent
+Thursday, July 26, 2018
+For Immediate Release
+U.S. Attorney's Office, Southern District
+of New York
+William McFarland, While Awaiting Sentencing for Defrauding Investors of
+Fyre Media Inc. and Fyre Festival LLC, Made False Representations to
+Customers of NYC VIP Access, Business Associates, and Federal Law
+Enforcement
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC012,8,P026-P029,DOJ_VIP,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam,https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_VIP_BROWSER_RESPONSE.html,0dbdde81756a15b56001fc6f5d5d31530aa688fa9788c7bf9d9d89df32716cfa,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_VIP_BROWSER_PRINT.pdf,11fe222da7a03559282c1b976a711c58a251cb3bba4e26f32505cf8c6ce26c5d,OFFICIAL_DOJ_HTML_RESPONSE_BODY,2,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28, 27, 588, 625]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC012_DOJ_VIP_P02.png,2788e97ccd5d23a0277e44795026620bea434cb92a2a3b6798782f9882becbd4,1680,1794,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_VIP_P02.png,Plea continuation and U.S. Attorney quote about separate VIP scam; admissions and original case context,"McFARLAND.  McFARLAND also pled guilty to one count of bank fraud for writing a check with
+the name and account number of one of his employees without authorization, and one count of
+making false statements to a federal law enforcement agent in which he, among other things,
+falsely denied the wire fraud and bank fraud conduct to which he now has pled guilty. 
+McFARLAND pled guilty before U.S. District Judge Naomi Reice Buchwald.  During today’s plea
+proceeding, McFARLAND affirmed his previously entered guilty plea to one count of wire fraud
+in connection with a scheme to defraud investors in a company controlled by MCFARLAND, Fyre
+Media Inc. (“Fyre Media”), as well as its subsidiary (“Fyre Festival LLC”), which was formed to
+hold a music festival over two weekends in the Bahamas.  McFARLAND also affirmed his
+previously entered guilty plea to one count of wire fraud in connection with a scheme to defraud
+a ticket vendor for the Fyre Festival.  Sentencing is scheduled for September 17, 2018 at 3:30
+p.m. before Judge Buchwald.
+Manhattan U.S. Attorney Geoffrey S. Berman said:  “William ‘Billy’ McFarland, CEO of Fyre
+Media, previously pled guilty to defrauding investors of Fyre Media and the infamous Fyre
+Festival and a ticket vendor of over $26 million.  While that fraud case was pending, McFarland
+engaged in yet another scam, purporting to sell tickets through a company called NYC VIP
+Access to exclusive events, such as the 2018 Met Gala, Burning Man 2018, Coachella 2018, the
+2018 Grammy Awards, and the Super Bowl.  McFarland concealed his association with NYC VIP
+Access so that he could solicit customers of Fyre Festival and his other company Magnises to
+buy tickets without raising suspicion.  These customers later learned that the tickets didn’t
+exist, and that this was just another fraud in McFarland’s disturbing pattern of deception. 
+McFarland’s fraudulent schemes cost real people real money, and now he faces real time in
+federal prison for his crimes.”
+According to the allegations in the Complaint and Superseding Information to which
+McFARLAND pled guilty, as well as statements made in court:
+On March 6, 2018, McFARLAND pled guilty before Judge Buchwald to one count of wire fraud in
+connection with a scheme to defraud over 80 investors in Fyre Media and Fyre Festival LLC of
+over $24 million, and one count of wire fraud in connection with a scheme to defraud a ticket
+vendor for the Fyre Festival of $2 million, in the case captioned United States v. William
+McFarland, 17 Cr. 600 (NRB).  In connection with that case, McFARLAND was on pretrial release
+from July 1, 2017, to June 12, 2018.
+29.10.2026, 20:08
+Southern District of New York | William McFarland Pleads Guilty In Manhattan Federal Court To Engaging In A Fraudulent Ticket S…
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,Browser retrieval-date header excluded from selected crop; original source unchanged.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC013,9,P030-P034,DOJ_SENTENCE,https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple,https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\DOJ_SENTENCE_BROWSER_RESPONSE.html,0a42f9f303256341c0ea4ffc4c9edaa7463c71fbca766dc2c44808a5b870799a,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\RENDERED_PAGES\DOJ_SENTENCE_BROWSER_PRINT.pdf,131f6c7d6cfcad950a5a7556dd48c0ba4998a175d937c9b5acce84c394a4df17,OFFICIAL_DOJ_HTML_RESPONSE_BODY,1,BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION,"[28.0, 134.0, 588.0, 524.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC013_DOJ_SENTENCE_P01.png,d87c1b615cef5334a755f6ca04d50fabd52ad6a8a1e32cb6c101ef3e850baa31,1680,1170,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\DOJ_SENTENCE_P01.png,Sentencing headline/date/agency,"PRESS RELEASE
+William McFarland Sentenced To 6
+Years In Prison In Manhattan Federal
+Court For Engaging In Multiple
+Fraudulent Schemes And Making False
+Statements To A Federal Law
+Enforcement Agent
+Thursday, October 11, 2018
+For Immediate Release
+U.S. Attorney's Office, Southern District
+of New York
+",US_FEDERAL_GOVERNMENT_AUTHORED_TEXT_PUBLIC_DOMAIN; DOJ policy captured; seals/third-party images excluded,Final forfeiture amount separately verified on browser-print page5; do not replace it with earlier plea forfeiture.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,OFFICIAL_REPORT_OF_ADMITTED_CONDUCT_AND_PLEA_OR_SENTENCE
+DOC014,9,P033,SEC_COMPLAINT_MIRROR,https://www.sec.gov/files/litigation/complaints/2018/comp24213.pdf,https://business.cch.com/srd/comp-pr2018-141-20180724.pdf,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\ORIGINALS\SEC_COMPLAINT_CCH_MIRROR.pdf,ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572,ORIGINAL_GOVERNMENT_COURT_FILING_COPY_HOSTED_BY_CCH_LEGAL_PUBLISHER_MIRROR,1,NATIVE_COURT_PDF_PAGE,"[61.0, 439.0, 553.0, 777.0]",3,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\CROPS\DOC014_SEC_COMPLAINT_MIRROR_P01.png,1c67d71f8ca34e40edeb56515d0630788ddfe9016549c64dac98a919e01f548b,1476,1014,C:\Users\KK\VIDEO009_VISUAL_PRODUCTION\DOCUMENTS\REFERENCE_PAGES\SEC_COMPLAINT_MIRROR_P01.png,"SEC complaint introduction paragraph1: funds raised, not additional investor losses"," 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+Plaintiff United States Securities and Exchange Commission (the “Commission”) alleges 
+the following against defendants William Z. (“Billy”) McFarland (“McFarland”), Fyre Media, Inc. 
+(“Fyre Media”), Magnises, Inc. (“Magnises”), Grant Margolin (“Margolin”), and Daniel Simon 
+(“Simon”): 
+INTRODUCTION 
+1. 
+From at least 2013 through 2017, McFarland—both directly and through Fyre 
+Media and Magnises—fraudulently induced over 100 investors to invest more than $27.4 million in 
+Fyre Media and Magnises, as well as in a third business founded by McFarland, Fyre Festival, LLC 
+(“Fyre Festival”).  McFarland engaged in a host of deceptive and fraudulent acts in furtherance of 
+the offering scheme, including: (i) making material misrepresentations and omissions to investors 
+1 
+",US_FEDERAL_GOVERNMENT_AUTHORED_COURT_COMPLAINT_TEXT_PUBLIC_DOMAIN; mirror distribution does not change underlying government text; no publisher editorial additions used,Archive URL pointed to release despite describing complaint intro; corrected to complaint page1. Official binary blocked; disclosed legal-publisher mirror copy.,PASS_REAL_SOURCE_PIXELS_NO_RETYPE_NO_OVERLAYS,PASS_DOCUMENT_COPY_IDENTITY_MIRROR_OFFICIAL_BINARY_HOLD,PASS_CROP_PREPARED_COMMERCIAL_GOVERNMENT_TEXT_SCOPE; FINAL_EDIT_CONTEXT_REVIEW_REQUIRED,CIVIL_COMPLAINT_ALLEGATIONS; MCFARLAND_ADMISSION_CORROBORATED_BY_RELEASE_WEB_TEXT

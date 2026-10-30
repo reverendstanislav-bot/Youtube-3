@@ -1,0 +1,5 @@
+# Lead resolution — preparation only
+
+Independent review evidence is preserved verbatim in INDEPENDENT_QC.md. It independently confirms14/14real sourcepixelcrops andsource/crophashes. Draft issues were addressed by the maker:142exact sentence/phrase offsets; base/insert/alternative roles; named progression forP007/P017/P020/P021/P023/P025/P029; preciseGF033/041/044/046/030/051anchors; genuine Junecharging source; March/July sourcepair; SECplusDOJmoneycategories; actualMagnises sourcepage;66real reference records and52hashed sidecars.
+
+Root checks: all142anchor substrings match the lockedparagraphs; all52sidecars contain existing source/page files with matchingSHA256;47stocksourcepreviews reviewed plus technical/rights metadata;76stockrequests explicitly reconciled. These checks do not become an independent finalreview. Thecritic reached a usage limit before the repaired text and finalstockregistry couldbe independentlyapproved. OverallstatusHOLD. No newagent was started to bypass thatlimit.

@@ -1,0 +1,16 @@
+{
+  "stock_requests": 76,
+  "downloaded_original_files": 50,
+  "downloaded_bytes": 842333665,
+  "source_pool_license_and_technical_pass": 47,
+  "pool_videos": 25,
+  "pool_photos": 22,
+  "request_rows_pass": 38,
+  "request_rows_hold": 36,
+  "request_rows_reject": 2,
+  "distinct_files_used_by_pass_rows": 35,
+  "no_netflix_hulu_or_documentary_footage": true,
+  "source_binaries_storage": "Local VIDEO009_VISUAL_PRODUCTION/STOCK/ORIGINALS; registry contains direct retrieval URLs and SHA256; large stock videos not in ordinaryGit",
+  "rights_scope": "Commercial license permission and item provenance, subject to recorded attribution/adaptation/context limits; final film/publication not approved",
+  "independent_stock_final_review": "NOT_COMPLETED_REVIEWER_USAGE_LIMIT; root inspected all43batch samples and4late-addition samples"
+}

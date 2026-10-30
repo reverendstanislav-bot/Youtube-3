@@ -1,0 +1,62 @@
+{
+  "asset_id": "GF040",
+  "paragraph_id": "P026",
+  "production_route": "LOCAL_EDITOR_NATIVE_SVG_PNG",
+  "source_fact_references": [
+    {
+      "asset_id": "GF040",
+      "reference_role": "FACT_SUPPORT_AND_GENUINE_SOURCE_PIXEL_REFERENCE",
+      "fact_id": "JULY_PLEA",
+      "source_id": "DOJ_VIP",
+      "official_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam",
+      "actual_download_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-engaging-fraudulent-ticket-scam",
+      "source_file_repo": "12_VISUAL_V2/DOCUMENTS/ORIGINALS/DOJ_VIP_BROWSER_RESPONSE.html",
+      "source_sha256": "0dbdde81756a15b56001fc6f5d5d31530aa688fa9788c7bf9d9d89df32716cfa",
+      "reference_file_repo": "12_VISUAL_V2/DOCUMENTS/REFERENCE_PAGES/DOJ_VIP_P01.png",
+      "reference_sha256": "d5de0f944b2f27f7aeb7cf0433dac6cc9d30e3cc69bd83ed971f15092b2219d9",
+      "page_1_based": "1",
+      "verified_passage": "Thursday, July 26, 2018\nFor Immediate Release",
+      "guardrail": "SeparateNYC VIPAccess plea, bankfraud andfalsestatements describedinpage2",
+      "status": "PASS_ACTUAL_LOCAL_FILE_HASH_AND_PASSAGE_CHECK"
+    }
+  ],
+  "legal_archival_hold": "",
+  "canonical_style_references": [
+    {
+      "path": "00_FOUNDATION/VISUAL_LOCK.md",
+      "sha256": "083bc3b8df370cbc7f7fe2e9ee30bdaaed9d686b0015c6664a3f145599191ef3",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "00_FOUNDATION/EDITING_CANON.md",
+      "sha256": "d9b805dc37e15cdaaa59240ee5cc4ac68e83138ca2f1c76d6e5c13a759c9a89d",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "01_CHANNEL/VISUAL_BIBLE.md",
+      "sha256": "ef6a7f0d982c89dcbbe51c3b0797df83644775b729749e1c42c545b93e5e98e5",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    }
+  ],
+  "layout": "NYC VIP ACCESS appears as plain editorial text with SEPARATE LATER OPERATION. No invented corporate wordmark or real-ticket claim.",
+  "frame": [
+    1920,
+    1080
+  ],
+  "clean_lower_zone": [
+    0,
+    864,
+    1920,
+    1080
+  ],
+  "separate_layers": [
+    "background",
+    "editorial_geometry",
+    "factual_type",
+    "semantic_emphasis",
+    "reveal_masks"
+  ],
+  "images_generated": 0,
+  "api_cost_usd": 0,
+  "official_documents_must_never_be_generated": true
+}

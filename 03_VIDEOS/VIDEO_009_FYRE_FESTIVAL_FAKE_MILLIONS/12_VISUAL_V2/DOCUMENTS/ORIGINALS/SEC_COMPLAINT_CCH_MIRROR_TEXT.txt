@@ -1,0 +1,2357 @@
+PAGE 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 1 of 25 
+Sarah Heaton Concannon (SDNY Bar Code #SC9111) 
+SECURITIES AND EXCHANGE COMMISSION 
+100 F Street, N.E. 
+Washington, DC 20549 
+Telephone:  (202) 551-5361 
+Facsimile:  (202) 772-9282 
+Email:  ConcannonS@sec.gov 
+UNITED STATES DISTRICT COURT 
+FOR THE SOUTHERN DISTRICT OF NEW YORK 
+------------------------------------------------------------------------------x 
+:
+SECURITIES AND EXCHANGE COMMISSION, 
+: 
+Plaintiff, 
+: 
+: 
+COMPLAINT 
+– against – 
+: 
+: 
+18-CV-6634 
+WILLIAM Z. (“BILLY”) MCFARLAND 
+FYRE MEDIA, INC. 
+MAGNISES, INC. 
+GRANT MARGOLIN 
+DANIEL SIMON 
+: 
+: 
+: 
+: 
+: 
+: 
+ECF CASE 
+JURY TRIAL DEMANDED 
+Defendants. 
+: 
+: 
+------------------------------------------------------------------------------x 
+Plaintiff United States Securities and Exchange Commission (the “Commission”) alleges 
+the following against defendants William Z. (“Billy”) McFarland (“McFarland”), Fyre Media, Inc. 
+(“Fyre Media”), Magnises, Inc. (“Magnises”), Grant Margolin (“Margolin”), and Daniel Simon 
+(“Simon”): 
+INTRODUCTION 
+1. 
+From at least 2013 through 2017, McFarland—both directly and through Fyre 
+Media and Magnises—fraudulently induced over 100 investors to invest more than $27.4 million in 
+Fyre Media and Magnises, as well as in a third business founded by McFarland, Fyre Festival, LLC 
+(“Fyre Festival”).  McFarland engaged in a host of deceptive and fraudulent acts in furtherance of 
+the offering scheme, including: (i) making material misrepresentations and omissions to investors 
+1 
+
+
+PAGE 2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 2 of 25 
+about the financial strength of each of the three companies; (ii) creating documents that 
+fraudulently inflated key financial metrics, including revenue and income, at each of the three 
+companies; (iii) altering a stock ownership statement to falsely suggest the existence of 
+collateral for securitized investments in Fyre Festival; (iv) manufacturing a purported (but 
+nonexistent) $35 to 40 million sale of Magnises to (among other purported buyers) a third party 
+that did not exist; (v) falsely informing investors and potential investors that he would obtain 
+event cancellation insurance for the Fyre Festival, and (vi) touting “exclusive,”—but, in fact, 
+nonexistent— relationships with artists and talent. McFarland provided falsified income 
+statements and similar falsified financial documents to investors, who relied on them in making 
+their investment decisions. 
+2. 
+Margolin, Fyre Media’s Chief Marketing Officer (“CMO”) and Magnises’s Vice 
+President of Marketing and Branding, and Simon, a contractor for each of McFarland’s three 
+businesses, negligently provided substantial assistance to McFarland with regard to certain 
+aspects of the offering scheme.  Namely, Margolin and Simon created certain documents at 
+McFarland’s behest that inflated operational and financial metrics of Fyre Media and Fyre 
+Festival, without inquiring into the accuracy of information provided to them by McFarland or 
+exercising the care and skill that a reasonable person of ordinary prudence and intelligence 
+would be expected to exercise under the circumstances.  
+3. 
+McFarland’s offering fraud and materially false and misleading statements and 
+omissions were purposefully designed to make Fyre Media, Fyre Festival, and Magnises appear 
+more successful and financially strong than they actually were, to tout McFarland’s management 
+expertise and oversight of Fyre Media, Fyre Festival, and Magnises, and to induce investors to 
+invest tens of millions of dollars into McFarland’s companies. 
+2 
+
+
+PAGE 3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 3 of 25 
+4. 
+Throughout the period of his fraud, McFarland received money, benefits, and 
+perks, which enabled him to live an extravagant lifestyle, including maintaining a Manhattan 
+residence, employing a private driver of a luxury vehicle, taking frequent trips by private plane, and 
+making seemingly magnanimous donations to charitable interests and friends.  On information and 
+belief, these activities were funded, in substantial part, with investor money.  McFarland also 
+benefited from his fraud by falsely creating a reputation as a skilled entrepreneur, which gained him 
+access to celebrities and premier events. McFarland held tens of thousands of shares in Fyre Media 
+and Magnises and stood to directly benefit from fraudulently inflating the worth of these companies. 
+5. 
+By engaging in the conduct described herein: 
+a. McFarland, Fyre Media, and Magnises violated Sections 17(a)(1), (2), and (3) of the 
+Securities Act [15 U.S.C. § 77q(a)] and Section 10(b) of the Securities Exchange Act 
+of 1934 (“Exchange Act”) [15 U.S.C. § 78j(b)] and Rules 10b-5(a), (b), and (c) 
+thereunder [17 C.F.R. § 240.10b-5]. 
+b. McFarland and Fyre Media violated Sections 5(a) and 5(c) of the Securities Act [15 
+U.S.C. § 77e]. 
+c. McFarland violated Section 15(a) of the Exchange Act [15 U.S.C. § 78o(a)]. 
+d. Margolin and Simon violated Section 17(a)(3) of the Securities Act [15 U.S.C. § 
+77q(a)]. 
+JURISDICTION AND VENUE 
+6. 
+This Court has jurisdiction over this action pursuant to Sections 20(b), 20(d)(1), 
+and 22(a) of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d)(1), and 77v(a)], and Sections 21(d), 
+21(e), and 27 of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e), and 78aa]. 
+7. 
+In connection with the transactions, acts, practices, and courses of business 
+3 
+
+
+PAGE 4
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 4 of 25 
+alleged herein, Defendants, directly or indirectly, singly or in concert with others, made use of 
+the means or instrumentalities of interstate commerce or the mails. 
+8. 
+Venue is proper in the Southern District of New York pursuant to Section 22(a) of 
+the Securities Act [15 U.S.C. § 77v(a)], and Section 27 of the Exchange Act [15 U.S.C. § 78aa], 
+because certain of the acts, practices, transactions, and courses of business constituting the 
+violations alleged in this Complaint occurred here and were effected, directly or indirectly, by 
+making the use of means or instrumentalities of transportation or communication in interstate 
+commerce, or the mails.  McFarland resides in New York, New York, within the Southern 
+District of New York, and Fyre Media and Magnises had their principal places of business in 
+New York, New York.  In addition, many of the investors in Fyre Media, Fyre Festival, and 
+Magnises reside in New York, and much of McFarland’s, Margolin’s, and Simon’s work was 
+performed within this District. 
+DEFENDANTS 
+9. 
+William Z. (“Billy”) McFarland, 26, resides in New York, New York.  
+McFarland is the founder, and, at all relevant times, was the Chief Executive Officer (“CEO”) 
+and controlling principal of Fyre Media, Fyre Festival, and Magnises.  McFarland is not now, 
+and has never been, registered with the Commission in any capacity or associated with any 
+registered entity. McFarland was arrested on June 30, 2017 and charged via criminal 
+information with multiple counts of wire and bank fraud for his criminal misconduct related to 
+the promotion and fund-raising for Fyre Media and Fyre Festival.  On March 6, 2018, McFarland 
+entered a guilty plea before the United States District Court for the Southern District of New 
+York (Reice Buchwald, J.) as to two counts of wire fraud.  On June 25, 2018, McFarland was 
+arrested and charged via criminal information with additional counts of wire fraud and money 
+4 
+
+
+PAGE 5
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 5 of 25 
+laundering relating to alleged unlawful ticket sales and identity theft in which McFarland 
+allegedly engaged while awaiting sentencing in the first criminal matter. 
+10. 
+Fyre Media, Inc. is a privately-held Delaware corporation with its principal place 
+of business in New York, New York.  McFarland founded Fyre Media in 2016 to build a digital 
+application that would enable individuals organizing commercial events, such as concerts, to bid 
+for talent bookings at such events.  Fyre Media has never been registered with the Commission 
+in any capacity, and Fyre Media has never registered any securities offering with the 
+Commission.  On information and belief, on April 1, 2016, the board of directors of Fyre Media 
+granted McFarland binding signing authority to conduct business on behalf of Fyre Media. 
+11. 
+Magnises, Inc. is a privately-held Delaware corporation with its principal place 
+of business in New York, New York.  McFarland formed Magnises in 2013.  On information and 
+belief, the board of directors of Magnises disbanded on August 1, 2017, leaving McFarland the 
+sole managing executive of Magnises and endowing him with sole and binding signing authority 
+to conduct business on behalf of Magnises. 
+12. 
+Grant Margolin, age 25, resides in Roslyn, New York.  From approximately 
+December 2014 to November 2016, Margolin was the Vice President of Marketing and Branding 
+for Magnises.  From approximately February 2016 until May 2017, Margolin was Fyre Media’s 
+CMO.  Margolin has never been registered with the Commission in any capacity, nor associated 
+with any registered entity. 
+13. 
+Daniel Simon, age 23, resides in Weehawken, New Jersey.  Simon attended high 
+school with McFarland.  Beginning in 2014 and continuing through April 2017, Simon 
+intermittently served as a contractor for each of McFarland’s businesses, Magnises, Fyre Media, 
+and Fyre Festival.  Simon has never been registered with the Commission in any capacity, nor 
+5 
+
+
+PAGE 6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 6 of 25 
+associated with any registered entity. 
+OTHER RELEVANT ENTITIES 
+14. 
+Fyre Festival, LLC is a Delaware limited liability corporation and subsidiary of 
+Fyre Media with its principal place of business in New York, New York.  McFarland founded 
+Fyre Festival in late 2016.  Fyre Festival was purportedly in the business of promoting and 
+producing a live music festival to take place over two weekends in the Bahamas in early 2017.  
+On July 7, 2017, three named petitioners filed an involuntary petition for bankruptcy against 
+Fyre Festival in the United States Bankruptcy Court for the Southern District of New York, Case 
+No. 17-11883(MG). Fyre Festival has never been registered with the Commission in any 
+capacity, and Fyre Festival has never registered any securities offering with the Commission. 
+THE FYRE MEDIA AND FYRE FESTIVAL FRAUD 
+Background 
+15. 
+In early 2016, McFarland founded Fyre Media, which was formed to develop an 
+online, digital platform—called “fyreapp.com”—that would enable buyers to directly book 
+musicians, celebrities, and other talent for live performances. 
+16. 
+Later in 2016, McFarland established Fyre Festival, which was intended to launch 
+a live music festival in the Bahamas in April and May 2017.  
+17. 
+McFarland acted as the primary solicitor of investment in Fyre Media’s 
+unregistered equity and convertible promissory note offerings, as well as of investment in Fyre 
+Festival via investment contracts, which gave investors the rights to profits in the festival’s 
+commercial enterprises. 
+18. 
+In 2016 and 2017, McFarland raised approximately $7.9 million from at least 43 
+investors in the Fyre Media offerings and approximately $16.5 million from at least 59 investors 
+in the Fyre Festival offerings. 
+6 
+
+
+PAGE 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 7 of 25 
+19. 
+In offering documents and other communications with Fyre Media and Fyre 
+Festival investors, McFarland and Fyre Media: 
+• Made false statements concerning key Fyre Media and Fyre Festival financial metrics 
+and assets; 
+• Falsified financial data; 
+• Made false claims of affiliations with talent; 
+• Created a fraudulent brokerage statement in order to suggest to investors and banks 
+that McFarland personally possessed collateral sufficient to securitize investments; 
+• Made false statements and created a fake document concerning purported bank loans 
+and a purported significant pending investment in Fyre Media; 
+• Claimed, falsely, that he would obtain event cancellation insurance for Fyre Festival; 
+and 
+• Engaged in a scheme to create the illusion that Magnises was being acquired by a 
+third party that did not exist. 
+McFarland and Fyre Media’s False Statements Concerning 
+Financial Metrics, Assets, and Talent Bookings 
+20. 
+In solicitations and documents he furnished to investors and prospective investors, 
+McFarland made numerous false and misleading statements about the success of Fyre Media’s 
+online booking platform—“fyreapp.com” —preparations for Fyre Festival, and the number of 
+talent bookings.  
+21. 
+These documents—which induced investors to invest over $24 million in Fyre 
+Media and Fyre Festival—included private placement memoranda, PowerPoint updates to 
+existing investors, income statements, and emails, all of which materially exaggerated the 
+number of talent bookings made via fyreapp.com, the revenue and income derived from these 
+bookings, and the Fyre companies’ assets. 
+The September 2016 Offer Reports 
+22. 
+In September 2016, McFarland created fraudulent Fyre Media spreadsheets 
+7 
+
+
+PAGE 8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 8 of 25 
+purporting to show offers made and accepted through Fyre Media. 
+23. 
+These “offer reports” were designed to, and did, exaggerate the success of the 
+Fyre Media platform. 
+24. 
+Over the course of one night in September 2016, McFarland instructed Margolin, 
+Fyre Media’s CMO, as to how to create the false offer reports, as follows: 
+• McFarland sent Margolin an offer report that showed 15 “accepted” Fyre Media 
+offers totaling $5.4 million, an average of $360,000 per offer.  This offer report 
+included million dollar purported “accepted” offers from A-list artists such as 
+Jennifer Lopez ($1.75 million), the Foo Fighters ($1.5 million), and Selena Gomez 
+($1 million); 
+• Fyre Media’s CTO sent Margolin an offer report generated directly from the 
+fyreapp.com booking platform, which, by contrast, showed 33 “accepted” Fyre 
+Media offers totaling just $275,800, on average, less than $8,400 per offer;  
+• As directed by McFarland, Margolin combined the two reports to create a new 
+purported accepted offer report, which showed 42 “accepted” Fyre Media offers 
+totaling $5.6 million. 
+25. 
+Shortly after receiving the combined offer report and without making any 
+changes, McFarland emailed the combined offer report to a potential investor.  The investor 
+subsequently made an equity investment in Fyre Media. 
+The December 2016 PowerPoint 
+26. 
+In December 2016, McFarland created a PowerPoint presentation to update 
+existing investors on Fyre Media’s financial and operational performance. This investor 
+presentation stated that Fyre Media was “on track to achieve $160M [in] completed bookings by 
+Q4 2017.” (Emphasis added). 
+27. 
+Shortly after receiving a copy of the PowerPoint presentation, Fyre Media’s Chief 
+Revenue Officer (“CRO”) sent an email to Margolin asking for the basis of the $160 million 
+projection, which was inconsistent with the CRO’s understanding of the correct figure.  The 
+8 
+
+
+PAGE 9
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 9 of 25 
+CRO characterized the figure as “aggressive,” and asked whether it was a typo. Margolin replied 
+that this was a “typo,” and later agreed with the CRO that such a lofty projection would be 
+inappropriately “aggressive.” 
+28. 
+Nevertheless, just days later, McFarland edited a “Fyre Business Update” email 
+initially drafted by the CRO. The revised investor correspondence tripled the stated goal for 
+completed bookings—from $50 million to $150 million—and increased the number of “talent 
+represented” from 200 to 1,200. McFarland later sent the revised correspondence, including the 
+inflated figures, to investors, who relied on the inflated metrics in making further investments in 
+Fyre Media. 
+The January 2017 Private Placement Memorandum 
+29. 
+In January 2017, McFarland created a Private Placement Memorandum (“PPM”) 
+concerning Fyre Media and Fyre Festival, which was widely distributed to existing and 
+prospective investors in early 2017.  
+30. 
+The PPM stated that “[s]ince launching in May 2016, thousands of offers 
+representing tens of millions of dollars of performance and appearances have been made and 
+accepted with Fyre.” (Emphasis added). 
+31. 
+The statements regarding the total number of offers and their value were false. 
+Between May 2016 and April 2017, only 60 bookings for performance and appearances were, in 
+fact, confirmed and paid.  The total fees paid to Fyre Media as a result of these 60 bookings 
+totaled only $57,443. 
+32. 
+The PPM (as well as numerous other investor communications) also falsely stated 
+that Fyre Media had acquired a parcel of real estate in the Bahamas worth approximately $8 
+million, to be used as the site of the Fyre Festival.  Certain investors relied on this purported 
+9 
+
+
+PAGE 10
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 10 of 25 
+acquisition in making their investment decisions.  In fact, Fyre Media never acquired any real 
+estate in the Bahamas. 
+33. 
+By engaging in the conduct described above, Margolin negligently assisted 
+McFarland with the creation of the September 2016 Offer Reports, the December 2016 
+PowerPoint presentation, and the January 2017 PPM.  Margolin acted at least negligently by 
+unreasonably assisting McFarland in creating false or misleading statements concerning Fyre 
+Media and Fyre Festival’s financial metrics, offers, and bookings, which McFarland provided to 
+investors.  By failing to raise questions about the documents he drafted and revised, Margolin’s 
+conduct was sloppy and ill-calculated, and he did not employ the degree of care and skill that a 
+reasonable person of ordinary prudence and intelligence would be expected to exercise under the 
+circumstances. 
+The February and April 2017 Offer Reports 
+34. 
+Between February and April 2017, McFarland created additional false offer 
+reports for Fyre Media, which were used to induce investors to invest money in Fyre Media. 
+35. 
+On February 2, 2017, McFarland provided a contractor for each of McFarland’s 
+three businesses, Simon, with an offer report generated by Fyre Media’s CTO directly from the 
+fyreapp.com booking platform.  
+36. 
+Shortly thereafter, McFarland provided Simon with detailed instructions 
+concerning how to manipulate the data contained in the offer report, including to: 
+• “Make sure 35% [of the locations are] international cities;” 
+• “[S]prinkle in a couple of higher offer amounts;” and 
+• “[S]how $30.1 mm total bookings in January with strong repeat buyer percentages.” 
+37. 
+As instructed by McFarland, Simon then created a new offer report, in which he 
+10 
+
+
+PAGE 11
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 11 of 25 
+fabricated offers for talent (with whom Fyre Festival, in fact, had no relationship) purportedly 
+submitted by offeror accounts (which, in fact, did not exist) for performances at arbitrarily 
+selected venues.   
+38. 
+Although the original offer report generated from the fyreapp.com booking 
+platform included just $1.459 million in total offers for the month of January 2017, the new, 
+fabricated, offer report included $34.79 million in purported total offers for the same time period. 
+39. 
+In April 2017, McFarland created a second fraudulent offer report.  McFarland 
+again started with a report generated from the fyreapp.com booking platform and asked Simon to 
+inflate the numbers generated from fyreapp.com. 
+40. 
+In response to a question from Simon as to whether he should “continue the 
+trend” for offers in this new offer report, McFarland replied “yes let’s increase them.” 
+41. 
+Between February and April 2017, McFarland sent the offer reports to numerous 
+existing and potential investors.  Using these false offer reports, among other documents, 
+McFarland repeatedly made false statements to investors and prospective investors about the 
+volume of offers received by talent through Fyre Media’s booking platform.  
+42. 
+By engaging in the conduct described above, Simon negligently assisted 
+McFarland with the creation of the February and April 2017 Offer Reports.  Simon acted at least 
+negligently in creating the offer reports by failing to inquire as to the source of the information 
+contained in those reports, personally altering and making up certain of the metrics, and not 
+following up on inconsistencies in the documents and information provided to him by 
+McFarland.  Simon’s conduct was sloppy and ill-calculated, and he did not employ the degree of 
+care and skill that a reasonable person of ordinary prudence and intelligence would be expected 
+to exercise under the circumstances. 
+11 
+
+
+PAGE 12
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 12 of 25 
+43. 
+McFarland paid Simon thousands of dollars from McFarland’s personal bank 
+account for the short-term contract work, which consisted entirely of creating the false spreadsheets. 
+McFarland and Fyre Media’s False Statements Concerning a Fake Brokerage 
+Statement, McFarland’s Net Worth, Loans, and Investments 
+44. 
+In response to requests from at least three existing and prospective Fyre Festival 
+investors that their investments be collateralized, McFarland created a fake brokerage statement, 
+which showed that McFarland owned $2.56 million in shares in the common stock of Facebook, 
+Inc. (“Facebook”).  In fact, McFarland owned just $1,499 worth of Facebook shares, a tiny 
+fraction of the shares indicated by the fake brokerage statement.  
+45. 
+McFarland attached the fake brokerage statement to at least three executed 
+investor agreements and made numerous misstatements concerning his fictitious shares of 
+Facebook in emails and texts to other prospective investors. 
+46. 
+In early 2017, in an effort to keep the struggling Fyre Festival afloat, McFarland 
+sought millions of dollars in personal loans from two well-established banks.  To attempt to 
+induce the banks to grant him loans, McFarland provided false information in his loan 
+applications, including representations inflating his net worth and reiterating the false claim that 
+he owned $2.56 million worth of Facebook stock. 
+47. 
+McFarland also provided one of the banks with a copy of the fake brokerage 
+statement, as well as a fraudulent Fyre Media income statement, which grossly inflated the 
+company’s revenue and income.  
+48. 
+Although both of McFarland’s loan applications ultimately were denied, he 
+repeatedly told potential investors that the loans had been approved and that monies from these 
+loans could serve as collateral for their investments.  
+49. 
+McFarland emailed one investor a screen shot of a fake email purportedly from a 
+12 
+
+
+PAGE 13
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 13 of 25 
+loan officer at one of the banks, which stated that McFarland had been approved for a $3 million 
+loan and that disbursement of the loan was pending.  The loan officer never drafted such an 
+email. 
+50. 
+McFarland also repeatedly told investors that a venture capital firm had 
+completed its due diligence process and decided to invest more than $10 million in Fyre Media.  
+In fact, at the time McFarland made these false statements to investors, the venture capital firm 
+already had told him that it would not invest in Fyre Media due to McFarland’s failure to provide 
+requested documents.  
+McFarland and Fyre Media’s False Statements 
+Concerning Insurance and Agreements with Talent 
+51. 
+As an inducement to invest in Fyre Festival, McFarland also falsely 
+communicated to actual and prospective investors that they would have the rights to payouts 
+from Fyre Festival event cancellation policies if the festival did not proceed as planned.  In 
+reality, however, McFarland never executed any event cancellation policies for the festival. 
+When the festival was canceled, these investors lost their investments in full.  
+52. 
+McFarland’s false statements confirming the purported existence of these policies 
+were material to the decision of at least one investor to invest in Fyre Festival. 
+53. 
+In investor presentations and emails that McFarland provided to prospective 
+investors concerning Fyre Media and Fyre Festival, McFarland also falsely stated that at least ten 
+well-known artists had “exclusive contracts” with Fyre Media; i.e., that all of their future 
+bookings would be made through fyreapp.com.  No such contracts, in fact, were ever in place. 
+54. 
+McFarland also falsely told investors that a number of stars—including Justin 
+Bieber and Drake—would perform at the Fyre Festival, when, in fact, no such agreements were 
+ever reached.  McFarland persisted in these false representations regarding artists, despite 
+13 
+
+
+PAGE 14
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 14 of 25 
+requests to desist by the artists’ agents. 
+McFarland and Fyre Media Engaged in a Scheme to Create the Illusion 
+that Magnises was the Subject of an Imminent Acquisition 
+55. 
+Between December 2016 and May 2017, McFarland made numerous false 
+statements and created fake documents to create the illusion that Magnises would be (and then 
+was) purchased by a third party buyer for between $35 and 40 million.  This scheme was 
+undertaken in order to create the false impression for investors and potential investors that 
+McFarland was a successful entrepreneur with a proven track record of success. 
+56. 
+In at least one instance, McFarland used the fictitious acquisition to solicit 
+investment in the Fyre entities using the purported “post-sale” value of Magnises as collateral. 
+57. 
+As part of this scheme, McFarland concocted an ever-changing cast of purported 
+Magnises buyers.  First, the purported buyers were an unnamed consortium of five companies 
+(including Magnises and Fyre).  Next, the purported buyers were a group led by a well-known 
+fashion mogul.  Then, the purported buyer was a Connecticut-based broker-dealer. 
+58. 
+Indeed, as recently as April 2017, McFarland appeared to still be changing the 
+identity of the buyers, with McFarland proposing in an email to a colleague that the buyers could 
+be a mixed group of celebrities (such as Jay-Z and Sean “P. Diddy” Combs) and Fyre Media 
+investors. 
+59. 
+McFarland invented a name for the purported buyers—“Saddleback Media”—and 
+listed Magnises’s New York City address as Saddleback Media’s purported address.  In other 
+words, McFarland falsely claimed that Magnises’s purported independent buyer was 
+headquartered at the same location as Magnises. 
+60. 
+To imbue this scheme with a gloss of legitimacy, McFarland engaged two large 
+and reputable law firms to prepare transactional documents to unwittingly “paper” the fictitious 
+14 
+
+
+PAGE 15
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 15 of 25 
+deal. 
+61. 
+McFarland also created a fake employment retainer agreement between himself 
+and Saddleback Media. This agreement bears the electronic signature of Saddleback’s purported 
+President, a certain “G. Smythe,” an individual who—on information and belief—does not exist. 
+THE MAGNISES FRAUD 
+62. 
+In 2013, McFarland founded Magnises, which he promoted as an exclusive club 
+for millennials, providing its members with priority access to concerts, sporting events, 
+restaurants, and social events, and the use of a “Magnises Card”—a black metal credit card 
+linked to the user’s own credit card.  Magnises derived revenues primarily from periodic 
+membership dues.  
+63. 
+McFarland was the primary solicitor of investment in the unregistered equity and 
+convertible promissory note offerings of Magnises.  
+64. 
+Between 2013 and 2016, McFarland and Magnises made material 
+misrepresentations and omissions in the offer and sale of securities in Magnises and in 
+connection with the purchase or sale of Magnises securities.  This misconduct related primarily 
+to the following areas: (i) false statements concerning key financial metrics; and (ii) false 
+statements concerning how Magnises operated its business. 
+65. 
+McFarland and Magnises succeeded in raising approximately $3 million from at 
+least 24 investors. 
+McFarland and Magnises’s False Statements Concerning Key Financial Metrics 
+66. 
+McFarland made false statements to existing and potential Magnises investors 
+through PowerPoint presentation investor updates, income statements, and other documents 
+concerning Magnises’s revenues and membership numbers. 
+67. 
+All of these documents misrepresented that Magnises had between 7,000 and 
+15 
+
+
+PAGE 16
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 16 of 25 
+40,000 members and that, between March 2014 and August 2015, it had $2.5 million in revenue.  
+68. 
+According to former Magnises employees, however, Magnises never had more 
+than 4,000 to 5,000 members, and had peak monthly revenues in the range of $100,000 per 
+month.  
+69. 
+Certain Magnises investors relied on the inflated numbers provided to them by 
+McFarland, and would not have made subsequent investments in Magnises if they had known the 
+truth. 
+McFarland and Magnises’s False Statements Concerning Magnises’s Operations 
+70. 
+In soliciting investments in Magnises, McFarland also communicated to investors 
+that Magnises had strategic partnerships with certain entertainment and hospitality providers, 
+purportedly enabling Magnises’s concierge service to obtain tickets for Magnises members at 
+reduced rates. 
+71. 
+In truth, such strategic partnerships did not exist, and Magnises employees and 
+contractors repeatedly purchased tickets for Magnises members at McFarland’s behest from 
+public websites.  Where tickets were unavailable from public websites, however, McFarland 
+nonetheless would promise tickets to Magnises members, only to be unable to provide them.   
+72. 
+Magnises’s purported strategic partnerships with entertainment and hospitality 
+providers were a key aspect of the Magnises business model, according to certain Magnises 
+investors, and formed part of the basis on which they invested. 
+McFARLAND AND FYRE MEDIA’S OFFERING OF FYRE MEDIA AND 
+FYRE FESTIVAL SECURITIES IN UNREGISTERED TRANSACTIONS 
+73. 
+McFarland founded, owned, operated, and exercised close control over both Fyre 
+Media and Fyre Festival. 
+74. 
+Fyre Festival was created for the primary purpose of providing publicity for the 
+16 
+
+
+PAGE 17
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 17 of 25 
+Fyre Media online booking platform (fyreapp.com), and the Fyre Media private placement 
+memoranda provided detailed information on Fyre Festival.  
+75. 
+Between mid-2016 and April 2017, McFarland and Fyre Media offered to sell and 
+sold the shares of stock and convertible promissory notes when no registration statement was on 
+file with the Commission and the shares of stock and convertible promissory notes were not 
+exempt from the registration requirements of the Securities Act. 
+76. 
+The shares of stock and convertible promissory notes McFarland and Fyre Media 
+offered to sell and sold to Fyre Media and Fyre Festival investors are securities within the 
+meaning of the Securities Act.  McFarland executed the convertible promissory notes. 
+77. 
+In connection with these sales or offers to sell, McFarland and Fyre Media made 
+use of the means and instruments of transportation or communication in interstate commerce or 
+of the mails, including the use of the internet, interstate phone calls, and the United States mail. 
+78. 
+In connection with these sales or offers to sell, McFarland and Fyre Media carried 
+or caused to be carried through the mails or in interstate commerce, by the means or instruments 
+of transportation, securities for the purpose of sale or for delivery after sale when no registration 
+statement was filed or in effect as to the securities. 
+79. 
+During the period from 2016 through May 2017, McFarland and Fyre Media 
+continuously offered and sold shares of stock and convertible promissory notes. 
+80. 
+McFarland and Fyre Media offered and sold shares of stock and convertible 
+promissory notes in multiple states, and the offering exceeded $24.4 million. 
+81. 
+The shares of stock and convertible promissory notes were sold to many 
+unaccredited investors. 
+82. 
+Many of the investors in the shares of stock and convertible promissory notes 
+17 
+
+
+PAGE 18
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 18 of 25 
+were financially unsophisticated and did not have access to the kind of information that would 
+have been available in a registration statement. 
+83. 
+McFarland and Fyre Media did not distribute audited financial statements to 
+investors before the sale of the shares of stock and convertible promissory notes. 
+84. 
+McFarland and Fyre Media raised approximately $7.9 million from at least 43 
+Fyre Media investors. 
+85. 
+McFarland raised approximately $16.5 million from at least 59 Fyre Festival 
+investors. 
+McFARLAND ACTED AS AN UNREGISTERED BROKER-DEALER 
+86. 
+Between 2016 and 2017, McFarland raised approximately $24.4 million from at 
+least 102 investors in Fyre Media and Fyre Festival offerings.  
+87. 
+McFarland oversaw and controlled everything that went into investor solicitation 
+materials, and personally and directly solicited potential investors either in-person, by phone, by 
+email, or text message. 
+88. 
+McFarland advised prospective Fyre Media and Fyre Festival investors on the 
+merits of an investment by constantly promoting the purported rapid expansion and mass appeal 
+of the fyreapp.com online booking platform and the size and purported participation of mega-
+stars in Fyre Festival. 
+89. 
+McFarland also exercised control over the investor funds received, as the 
+signatory of the Fyre Media bank accounts that he opened and into which investor funds were 
+deposited. 
+90. 
+McFarland engaged in the business of effecting transactions in securities for the 
+accounts of others without registering as a broker-dealer and without qualifying for any 
+18 
+
+
+PAGE 19
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 19 of 25 
+exemption.  
+CLAIMS FOR RELIEF 
+First Claim for Relief 
+Violations of Section 10(b) of the Exchange Act and Rules 10b-5(a), (b), and (c) Thereunder 
+(Against McFarland, Fyre Media, and Magnises) 
+91. 
+As to McFarland and Fyre Media the Commission realleges and reincorporates 
+paragraphs 1 through 10, 14 through 61 as if fully set forth herein. 
+92. 
+As to McFarland and Magnises, the Commission realleges and reincorporates 
+paragraphs 1 through 9, 11, 62 through 72 as if fully set forth herein. 
+93. 
+From at least 2013 through 2017, as a result of the conduct alleged in this 
+Complaint, McFarland, Fyre Media, and Magnises knowingly, or with severe recklessness, in 
+connection with the purchase or sale of securities, directly or indirectly, by use of the means or 
+instrumentalities of interstate commerce or of the mails, or of a facility of a national securities 
+exchange: 
+a. employed devices, schemes, or artifices to defraud; 
+b. made untrue statements of material fact, omitted to state material facts necessary in 
+order to make the statements made, in the light of the circumstances under which they 
+were made, not misleading; and 
+c. engaged in acts, practices, or courses of business which operated or would operate as 
+a fraud or deceit upon any person. 
+94. 
+By engaging in the foregoing conduct, McFarland, Fyre Media, and Magnises 
+violated, and unless restrained and enjoined, are reasonably likely to continue to violate, Section 
+10(b) of the Exchange Act and Rules 10b-5(a), (b), and (c) thereunder. 
+19 
+
+
+PAGE 20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 20 of 25 
+Second Claim for Relief 
+Violations of Sections 17(a)(1), (2), and (3) of the Securities Act 
+(Against McFarland, Fyre Media, and Magnises) 
+95. 
+As to McFarland and Fyre Media the Commission realleges and reincorporates 
+paragraphs 1 through 10, 14 through 61 as if fully set forth herein. 
+96. 
+As to McFarland and Magnises, the Commission realleges and reincorporates 
+paragraphs 1 through 9, 11, 62 through 72 as if fully set forth herein. 
+97. 
+From at least 2013 through 2017, as a result of the conduct alleged in this 
+Complaint, McFarland, Fyre Media, and Magnises, in the offer or sale of securities, directly or 
+indirectly, by the use of the means or instruments of transportation or communication in 
+interstate commerce, or by use of the mails: 
+a. Employed devices, schemes, or artifices to defraud; 
+b. Obtained money or property by means of any untrue statements of material fact, or 
+omitted to state material facts necessary in order to make the statements made, in 
+light of the circumstances under which they were made, not misleading; and 
+c. Engaged in transactions, practices, or courses of business which operated or would 
+operate as a fraud or deceit upon the purchasers of securities. 
+98. 
+With respect to violations of Section 17(a)(1) of the Securities Act, McFarland, 
+Fyre Media, and Magnises acted knowingly or recklessly.  With respect to violations of Sections 
+17(a)(2) and (3) of the Securities Act, McFarland, Fyre Media, and Magnises acted at least 
+negligently. 
+99. 
+By engaging in the foregoing conduct, McFarland, Fyre Media, and Magnises 
+violated, and unless restrained and enjoined, are reasonably likely to continue to violate, Sections 
+17(a)(1), (2), and (3) of the Securities Act. 
+20 
+
+
+PAGE 21
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 21 of 25 
+Third Claim for Relief 
+Violations of Sections 5(a) and 5(c) of the Securities Act 
+(Against McFarland and Fyre Media) 
+100. 
+As against McFarland and Fyre Media, the Commission repeats and realleges 
+paragraphs 1 through 10, 14, 73 through 85 of this Complaint as if fully set forth herein. 
+101. 
+No registration statement was filed or in effect with the Commission pursuant to 
+the Securities Act with respect to the securities and transactions issued by Fyre Media and Fyre 
+Festival described in this Complaint, and no exemption from registration—including the Rule 
+3a4-1 safe harbor—applies with respect to these securities and transactions. 
+102. 
+From 2016 through May 2017, Fyre Media, its officers, directors, employees, 
+subsidiaries, and/or affiliates, and McFarland, directly or indirectly: 
+a. made use of means or instruments of transportation or communication in interstate 
+commerce or of the mails to sell, through the use or medium of written contracts, 
+offering documents, prospectus, oral and written statements or otherwise, securities as 
+to which no registration statement was in effect; and/or 
+b. made use of the means or instruments of transportation or communication in interstate 
+commerce or of the mails to offer to sell or offer to buy through the use or medium of a 
+prospectus or otherwise, as described herein, without a registration statement having 
+been filed or being in effect with the Commission as to such securities. 
+103. 
+McFarland and Fyre Media directly or indirectly offered or sold securities in 
+unregistered nonexempt transactions in interstate commerce. 
+104. 
+By reason of the foregoing, McFarland and Fyre Media violated, and, unless 
+enjoined, are reasonably likely to continue to violate, Sections 5(a) and 5(c) of the Securities Act. 
+21 
+
+
+PAGE 22
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 22 of 25 
+Fourth Claim for Relief 
+Violation of Section 15(a) of the Exchange Act 
+(Against McFarland) 
+105. 
+As to McFarland, the Commission realleges and reincorporates paragraphs 1 
+through 10, 14, and 86 through 90 as if fully set forth herein. 
+106. 
+McFarland is not registered with the Commission in any capacity, and has not 
+been registered with the Commission in any capacity at any time. 
+107. 
+Between 2016 and 2017, McFarland made use of the mails or any means or 
+instrumentalities of interstate commerce to effect transactions in and induce or attempt to induce 
+the purchase or sale of shares of stock and convertible promissory notes in Fyre Media, Fyre 
+Festival, and Magnises. 
+108. 
+The shares of stock and convertible promissory notes that McFarland sold and 
+attempted to sell were not exempted securities. 
+109. 
+By engaging in the conduct described herein, McFarland, while engaged in the 
+business of effecting transactions in securities for the accounts of others, made use of the mails 
+or the means or instrumentalities of interstate commerce to effect transactions in, or to induce or 
+attempt to induce the purchase or sale of, a security without being registered with the 
+Commission as a broker or dealer or as an associated person of a registered broker or dealer, in 
+accordance with Section 15(a) of the Exchange Act. 
+110. 
+By engaging in this conduct, McFarland has violated, and unless enjoined will 
+continue to violate, Section 15(a) of the Exchange Act [15 U.S.C. § 78o(a)]. 
+Fifth Claim for Relief 
+Violations of Section 17(a)(3) of the Securities Act 
+(Against Margolin and Simon) 
+111. 
+As to Margolin, the Commission realleges and incorporates paragraphs 1 through 
+22 
+
+
+PAGE 23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 23 of 25 
+8, 12, and 15 through 33 as if fully set forth herein. 
+112. 
+As to Simon, the Commission realleges and reincorporates paragraphs 1 through 
+8, 13, 15 through 19, and 34 through 43 as if fully set forth herein. 
+113. 
+Margolin and Simon directly or indirectly, singly or in concert, in the offer or sale 
+of securities, by use of the means or instrumentalities of interstate commerce or of the mails, and 
+at least negligently, engaged in transactions, practices, or courses of business which operated or 
+would have operated as a fraud or deceit upon the purchasers. 
+114. 
+By reason of the foregoing, Margolin and Simon directly or indirectly violated, 
+and, unless enjoined, are reasonably likely to continue to violate, Section 17(a)(3) of the 
+Securities Act. 
+PRAYER FOR RELIEF 
+WHEREFORE, the Commission respectfully requests that the Court enter a Final 
+Judgment: 
+A. 
+Finding that McFarland, Fyre Media, and Magnises violated Sections 17(a)(1), 
+(2), and (3) of the Securities Act and Section 10(b) of the Exchange Act and Rules 10b-5(a), (b), 
+and (c) thereunder and permanently restraining and enjoining McFarland, Fyre Media, and 
+Magnises and all persons in active concert or participation with them from violating the 
+foregoing statutes and rules; 
+B. 
+Finding that McFarland and Fyre Media violated Sections 5(a) and 5(c) of the 
+Securities Act and permanently restraining and enjoining McFarland and Fyre Media and all 
+persons in active concert or participation with them from violating the foregoing statutes; 
+C. 
+Finding that McFarland is liable for violating Section 15(a) of the Exchange Act and 
+permanently restraining and enjoining McFarland and all persons in active concert or participation 
+23 
+
+
+PAGE 24
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 24 of 25 
+with him from violating the foregoing statute; 
+D. 
+Permanently restraining and enjoining McFarland—directly or indirectly, including, 
+but not limited to, through any entity he owns or controls—from participating in the issuance, offer, 
+or sale of any security; 
+E. 
+Finding that Margolin and Simon are liable for violating Section 17(a)(3) of the 
+Securities Act and permanently restraining and enjoining Margolin and Simon and all persons in 
+active concert or participation with them from violating the foregoing statute; 
+F. 
+Ordering McFarland, Fyre Media, and Magnises to disgorge all ill-gotten gains 
+obtained and illegal losses avoided as a result of the acts or courses of conduct alleged in this 
+Complaint, plus prejudgment interest; 
+G. 
+Ordering Simon to disgorge all ill-gotten gains obtained and illegal losses avoided 
+as a result of the acts or courses of conduct alleged in this Complaint, plus prejudgment interest; 
+H. 
+Ordering Defendants to pay civil money penalties pursuant to Section 20(d) of the 
+Securities Act, 15 U.S.C. § 77t(d), and Section 21(d) of the Exchange Act, 15 U.S.C. § 78u(d); 
+I. 
+Permanently barring McFarland from acting as an officer or director of any issuer 
+that has a class of securities registered pursuant to Section 12 of the Exchange Act [15 U.S.C. § 
+78l] and that is required to file reports under Section 15(d) of the Exchange Act [15 U.S.C. § 
+78o(d)] pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 78t(e)] and Section 21(d)(2) 
+of the Exchange Act [15 U.S.C. § 78u(d)(2)]; 
+J. 
+Barring Margolin, pursuant to the Court’s equitable authority under Section 
+21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)], from acting as an officer or director of 
+any issuer that has a class of securities registered pursuant to Section 12 of the Exchange Act [15 
+U.S.C. § 78l] and that is required to file reports under Section 15(d) of the Exchange Act [15 
+24 
+
+
+PAGE 25
+U.S.C. ~ 78o(d)] puis~~tant to Seciion 20(d) of tl~e Securities Act [ 
+15 U.S.C. § 78t(e)] and Section
+21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)] for a period of seven (7) years;
+K. 
+Barring Simon, pursuant to the Court's equitable authority udder Section 2l(d)(5)
+of the Exchange Act [15 U.S.C. ~ 78u(d)(5)], from acting as an officer or director of any issuer
+that has a class of securities registered pursuant to Section 12 of the Exchange Act [15 U.S.C. ~
+7$l] and That is required to file reports under Section 15(d) of the Exchange Act [1 ~ U.S.C. §
+7$o(d)] pursuant to Section 20(d) ofthe SecL~rities Act [15 U.S.C. ~ 78t(e)] and Section 21(4)(2)
+of the Exchange Act [ 
+15 U.S.C. ~ 78u(d)(2)] for ~ period of three (3) years;
+L. 
+Retaining jurisdiction over this action to implement and carry out the terms of all
+ol-ders and decrees that nzay hereby be entered, or to entertain any suitable, application or motion
+icy the Commission for additional relief within t~~e jurisdiction of this Court.
+N1. 
+Granting such other and firrtl~er relief as the Court deems just and ap~~ropi•iate or
+necessary foi~ the benefit of investors.
+JURY DEMAND
+Under Rule 38 of the Federal Rules oFCivil }'rocedure, the Commission demands trial by
+jlu~y in this action on all the issues so triable.
+Dated: July 24, 2018 
+Respectfiilly submitted,
+Sarah Heaton Concaiv~on
+(SDNY Bar Code t7SC9111)
+U.S. Sectn~ities and Exchar7~e Commission
+Of Counsel: 
+100 F Street, N.E.
+Washington, D.C. 20549
+James J. Bresnicky 
+Telephone: (202) 5~1-361
+Saral~l R. Lamoree 
+Facsimile: (202) 772-92 2
+Benjamin D. Brutlag 
+Email: Concam~ionS@sec.gov
+75
+Case 1:18-cv-06634 Document 1 Filed 07/24/18 Page 25 of 25 

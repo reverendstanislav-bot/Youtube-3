@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "SEC_COMPLAINT_OFFICIAL_ALIAS",
+    "url": "https://www.sec.gov/file/sec-complaint-1545",
+    "final_url": "https://www.sec.gov/file/sec-complaint-1545",
+    "status": 403,
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\SEC_COMPLAINT_OFFICIAL_ALIAS.html",
+    "bytes": 1924,
+    "sha256": "7f637504ff1f2e76689a8e8b255812a6c7a31dc08d16aced527c967bf16ac7fc",
+    "pdf": false
+  },
+  {
+    "source_id": "SEC_COMPLAINT_CCH_MIRROR",
+    "url": "https://business.cch.com/srd/comp-pr2018-141-20180724.pdf",
+    "final_url": "https://business.cch.com/srd/comp-pr2018-141-20180724.pdf",
+    "status": 200,
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\SEC_COMPLAINT_CCH_MIRROR.pdf",
+    "bytes": 176096,
+    "sha256": "ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572",
+    "pdf": true
+  },
+  {
+    "source_id": "SEC_COMPLAINT_OFFICIAL_PR",
+    "url": "https://www.sec.gov/litigation/complaints/2018/comp-pr2018-141.pdf",
+    "final_url": "https://www.sec.gov/litigation/complaints/2018/comp-pr2018-141.pdf",
+    "status": 403,
+    "file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\ORIGINALS\\SEC_COMPLAINT_OFFICIAL_PR.html",
+    "bytes": 1924,
+    "sha256": "4eddced4208e815697b48cd00f6711ea1b4c21bdb2de6ea7f8e969597ae961ac",
+    "pdf": false
+  }
+]
