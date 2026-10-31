@@ -1,0 +1,28 @@
+{
+  "asset_id": "GF042",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE16:9 natural documentary macro photograph for WHAT IT COST / Fyre Festival. The two supplied VIDEO008 references define believable everyday photographic materials and lighting only; do not copy their network gear, buildings, people, paper layouts or graphics. THIS MUST NOT BE AN ANALYSIS SHEET ON A DESK. Subject: a tight low-oblique macro of three generic unbranded ivory event-ticket stubs on a dark fabric venue counter, one partially tucked under another, with a small black metal ticket clip near the upperleft. The paper is ordinary contemporary ticket stock, not old parchment. The only modest black printed words on the visible hero stub are 'ILLUSTRATIVE TICKET' and 'GENERAL ADMISSION'. It is openly a conceptual prop, NOT an actual NYC VIP Access/Fyre ticket or evidence. No names, event/venue/company logo, specific event, date, seat, price, barcode, QR, serial, signature or fake issued-document features. No big report page, folder stack, notebook, financial table, EDITORIAL ANALYSIS heading, calculator, machinery or floating headline. Natural realistic neutral side light, believable ticket scale, shallow but restrained focus, charcoal/ivory palette. All meaningful content and stubs confined to upper75%, lower25%dark out-of-focus counter. No yellow/red ink or borders, marker, glow, callout, motion or generated hands. One full photographic frame, no collage.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_047.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_077.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-230c1ee0-06e2-44c0-86a4-fe5f76b5a33f.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF042_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF042_IMAGEGEN_V1.png",
+  "sha256": "a59d307df6cbe0f40d094038364778071d8e0613b29b9d49f976dc36403ba4f8",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF042.json",
+  "fact_reference_sha256": "0b308834089b589c55837c10e4b254462ec7c82a84a0a582b930b64ccb35abcc"
+}

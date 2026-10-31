@@ -1,0 +1,28 @@
+{
+  "asset_id": "GF052",
+  "version": 1,
+  "input": {
+    "prompt": "One16:9 NATURAL DOCUMENTARY MACRO photograph, matching the VIDEO008 references' everyday photographic realism and neutral light, not their specific subjects. Closing material detail for WHAT IT COST: at eye-level, an extreme close view of the CLOSED edge of a modest black linen file with a thin line of clean ivory page edges, resting on an ordinary dark archival shelf. A small plain metal clip partly visible at far edge. No people, text, logo, open sheet, table, numbers, header, oversized prop, stamped case ID, seal, courtroom cliche, machinery, gold dust, dramatic haze, red/yellow marks, outlines or motion. One full photographic scene, not a board or collage. Only the closed file-edge texture occupies the upper65%; lower35%dark softly out-of-focus negative space. Realistic normal contemporary material wear, no scorched parchment or fantasy legal evidence. This is a generic illustrative file detail, not an actual Fyre/DOJ record.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_047.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_077.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-5c4e0639-1de4-46f9-973f-7ebaef6722f4.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF052_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF052_IMAGEGEN_V1.png",
+  "sha256": "03bf2cc35e87c239a2e6812602aa581e6e74889268dda31ca7a608a2c25c2d4f",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF052.json",
+  "fact_reference_sha256": "a95cb64ab723b904c7e4c3c3368ceb39470aef43a325be21c937a29ab94b9c9e"
+}

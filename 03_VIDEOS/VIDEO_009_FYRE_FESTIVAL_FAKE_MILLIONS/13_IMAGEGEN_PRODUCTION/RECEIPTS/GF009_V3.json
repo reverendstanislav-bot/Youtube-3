@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF009",
+  "version": 3,
+  "input": {
+    "prompt": "Create ONE16:9 standalone editorial infographic raster for WHAT IT COST. Reference images define charcoal/paper-white typography and tonal discipline ONLY. The owner rejected repetitive paper-on-desk frames. NO paper, folder, desk, clipboard, mockup, physical sign, metal device, beige card, photo collage or repeated dashboard panels. Use a subtle full-frame charcoal background, clear condensed display heading and Inter-like supporting text. Each brief specifies a DISTINCT layout; follow it, do not copy the reference's three money rows. No red/yellow accents, outlines, border, highlight, circle annotation, glow or bakedmotion. Essential neutral ivory/gray diagram lines are allowed. All meaningful content in upper75%; lower25%clear. Print ONLY the exact supplied text block; no extra body copy, values, invented data, source quotes or official facsimile. A sparse open HORIZONTAL workflow, three separate labels and a slim neutral connecting path, no enclosing card boxes. Main marketplace label central, customer and performer on opposite sides. Complete text:\nTHE BOOKING PLATFORM\nCUSTOMER\nMARKETPLACE\nFYRE MEDIA\nPERFORMER",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF046_IMAGEGEN_V1.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-c9f5f4d3-f6ec-4a8a-b050-fbdf61338a17.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF009_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF009_IMAGEGEN_V3.png",
+  "sha256": "fd317e87198359bf4c404b9a7265964c1a9413ca03749324489e8c8ca4b6a0ef",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF009.json",
+  "fact_reference_sha256": "d73383d92f16375d75f315d3b694692adf60aa52713f5a3581cdb8d8e7e6c985"
+}

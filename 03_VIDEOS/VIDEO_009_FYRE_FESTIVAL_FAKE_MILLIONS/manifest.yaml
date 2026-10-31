@@ -1,37 +1,41 @@
-schema_version: "1.0"
-video_id: "009"
-slug: "FYRE_FESTIVAL_FAKE_MILLIONS"
-title: "The Fake Millions Behind Fyre Festival"
-topic_id: "T014"
-pillar: "CORPORATE_SCANDAL_FRAUD"
-priority: "9"
-status: "IN_PREPARATION"
-created: "2026-10-28"
-last_updated: "2026-10-30"
-current_stage: "13_VISUAL_ASSET_PRODUCTION"
-next_action: "Match actual VIDEO008 natural documentary style using inspected direct frames. No mechanical signboards. Leave Voicebox unmonitored. No montage."
-blockers: ["Original SEC complaint page-by-page visual verification and archive pending", "2019 documentary footage and promotional material rights not cleared", "2026 Fyre brand/revival status not included in active historical claims"]
+schema_version: '1.0'
+video_id: 009
+slug: FYRE_FESTIVAL_FAKE_MILLIONS
+title: The Fake Millions Behind Fyre Festival
+topic_id: T014
+pillar: CORPORATE_SCANDAL_FRAUD
+priority: '9'
+status: IN_PREPARATION
+created: '2026-10-28'
+last_updated: '2026-10-30'
+current_stage: 13_VISUAL_ASSET_PRODUCTION
+next_action: Match actual VIDEO008 natural documentary style using inspected direct frames. No mechanical signboards. Leave Voicebox unmonitored.
+  No montage.
+blockers:
+- Original SEC complaint page-by-page visual verification and archive pending
+- 2019 documentary footage and promotional material rights not cleared
+- 2026 Fyre brand/revival status not included in active historical claims
 stages:
-  stage_00_topic_qualification: "PASS_GO_90_8_OWNER_SELECTED"
-  stage_01_evidence_research: "PASS_SOURCE_SCOPED_HISTORICAL_CLAIMS_WITH_EXPLICIT_HOLDS"
-  stage_02_case_story_map: "PASS_PLAN_10_ACTS_40_BEATS_4_SHORTS"
-  stage_03_script_v1: "PASS_CANONICAL_EN_RU_GITHUB_VERIFIED"
-  stage_04_fact_legal_review: "HOLD_TWO_SHORTS_CONTEXT_ONE_TIMING_OPENING_TIMING"
-  stage_05_script_revision: "PASS_V2_AND_05R_V3_EN_RU_READBACK_VERIFIED"
-  stage_06_performance_review: "PASS_V3_84_OF_100_EDITORIAL_RUNTIME_WARN"
-  stage_07_script_lock: "PASS_V3_FOUR_SHORTS_LOCKED_AUDIO_RIGHTS_HOLD"
-  stage_08_voice_script: "PASS_FIVE_PARTS_1804_WORDS_SHORTS_4_OF_4"
-  stage_09_voice_qa_lock: "OWNER_APPROVED_FIVE_PART_LOCAL_QUEUE_LAUNCHED_QC_PENDING"
-  stage_10_audio_master: "NOT_STARTED"
-  stage_11_transcript_visual_timeline: "NOT_STARTED"
-  stage_12_visual_source_generation_plan: "PREPARATION_COMPLETED_142_MAPPED_52_REVIEWED_14_REAL_CROPS_STOCK_HOLDS"
-  stage_13_visual_asset_qc: "IN_PROGRESS_OWNER_VIDEO008_STYLE_CORRECTION_QC_PENDING_14DOC_PASS"
-  stage_14_graphics_documents_music_sfx: "OWNER_DIRECTED_IMAGEGEN_ROUTE_NO_SVG_NO_MONTAGE"
-  stage_15_assembly_edit: "NOT_STARTED"
-  stage_16_final_fact_legal_refresh: "NOT_STARTED"
-  stage_17_packaging: "NOT_STARTED"
-  stage_18_upload_prepublication: "NOT_STARTED"
-  stage_19_post_publish_analytics: "NOT_STARTED"
+  stage_00_topic_qualification: PASS_GO_90_8_OWNER_SELECTED
+  stage_01_evidence_research: PASS_SOURCE_SCOPED_HISTORICAL_CLAIMS_WITH_EXPLICIT_HOLDS
+  stage_02_case_story_map: PASS_PLAN_10_ACTS_40_BEATS_4_SHORTS
+  stage_03_script_v1: PASS_CANONICAL_EN_RU_GITHUB_VERIFIED
+  stage_04_fact_legal_review: HOLD_TWO_SHORTS_CONTEXT_ONE_TIMING_OPENING_TIMING
+  stage_05_script_revision: PASS_V2_AND_05R_V3_EN_RU_READBACK_VERIFIED
+  stage_06_performance_review: PASS_V3_84_OF_100_EDITORIAL_RUNTIME_WARN
+  stage_07_script_lock: PASS_V3_FOUR_SHORTS_LOCKED_AUDIO_RIGHTS_HOLD
+  stage_08_voice_script: PASS_FIVE_PARTS_1804_WORDS_SHORTS_4_OF_4
+  stage_09_voice_qa_lock: OWNER_APPROVED_FIVE_PART_LOCAL_QUEUE_LAUNCHED_QC_PENDING
+  stage_10_audio_master: NOT_STARTED
+  stage_11_transcript_visual_timeline: NOT_STARTED
+  stage_12_visual_source_generation_plan: PREPARATION_COMPLETED_142_MAPPED_52_REVIEWED_14_REAL_CROPS_STOCK_HOLDS
+  stage_13_visual_asset_qc: IN_PROGRESS_OWNER_VIDEO008_STYLE_CORRECTION_QC_PENDING_14DOC_PASS
+  stage_14_graphics_documents_music_sfx: OWNER_DIRECTED_IMAGEGEN_ROUTE_NO_SVG_NO_MONTAGE
+  stage_15_assembly_edit: NOT_STARTED
+  stage_16_final_fact_legal_refresh: NOT_STARTED
+  stage_17_packaging: NOT_STARTED
+  stage_18_upload_prepublication: NOT_STARTED
+  stage_19_post_publish_analytics: NOT_STARTED
 locks:
   topic_qualified: true
   evidence_research: true
@@ -46,42 +50,42 @@ locks:
   packaging: false
   release_ready: false
 evidence:
-  source_index: "SOURCE_INDEX.csv"
-  claims_ledger: "CLAIMS_LEDGER.csv"
-  case_event_ledger: "CASE_EVENT_LEDGER.csv"
-  last_case_status_refresh: "2026-10-28"
+  source_index: SOURCE_INDEX.csv
+  claims_ledger: CLAIMS_LEDGER.csv
+  case_event_ledger: CASE_EVENT_LEDGER.csv
+  last_case_status_refresh: '2026-10-28'
   unresolved_material_claims: 0
 voice:
-  voice_name: "Harrison"
+  voice_name: Harrison
   paid_generation_authorized: false
 shorts:
   required: true
-  target_count: "4"
-  extraction_rule: "CONTIGUOUS_LONGFORM_ONLY"
+  target_count: '4'
+  extraction_rule: CONTIGUOUS_LONGFORM_ONLY
 assets:
-  manifest: "ASSET_MANIFEST.csv"
-  license_cleared_assets: 0
+  manifest: ASSET_MANIFEST.csv
+  license_cleared_assets: 47
+  license_clearance_scope: SOURCE_POOL_ONLY_FINAL_EDIT_CONTEXT_NOT_APPROVED
 qa:
-  topic: "PASS_GO_90_8"
-  research: "PASS_SOURCE_SCOPED_HISTORICAL_WITH_RIGHTS_AND_ARCHIVE_HOLDS"
-  story_map: "PASS_PLAN_10_ACTS_40_BEATS_4_SHORTS"
-  script: "PASS_G07_V3_LOCKED"
-  fact_legal: "PASS_TEXT_SCOPE_WITH_DOWNSTREAM_AUDIO_AND_VISUAL_HOLDS"
-  performance: "PASS_G06R_V3_84_OF_100_EDITORIAL"
-  visual: "PREPARATION_DONE_WITH_DECLARED_HOLDS_NO_FINAL_ASSET_PASS"
-  edit: "NOT_RUN"
-  final_refresh: "NOT_RUN"
-  packaging: "NOT_RUN"
-  prepublication: "NOT_RUN"
+  topic: PASS_GO_90_8
+  research: PASS_SOURCE_SCOPED_HISTORICAL_WITH_RIGHTS_AND_ARCHIVE_HOLDS
+  story_map: PASS_PLAN_10_ACTS_40_BEATS_4_SHORTS
+  script: PASS_G07_V3_LOCKED
+  fact_legal: PASS_TEXT_SCOPE_WITH_DOWNSTREAM_AUDIO_AND_VISUAL_HOLDS
+  performance: PASS_G06R_V3_84_OF_100_EDITORIAL
+  visual: CORRECTED_ASSET_PACKAGE_FILES_VERIFIED_OWNER_AND_NATIVE_RENDER_HOLD
+  edit: NOT_RUN
+  final_refresh: NOT_RUN
+  packaging: NOT_RUN
+  prepublication: NOT_RUN
 publish:
-  scheduled_at: ""
-  published_at: ""
-  youtube_url: ""
-
+  scheduled_at: ''
+  published_at: ''
+  youtube_url: ''
 visual_preparation_v2:
-  date: "2026-10-30"
-  report: "12_VISUAL_V2/PREPARATION_REPORT.md"
-  input_zip_sha256: "855e6f6c66873c1af5879be498879a749e92a50b101a34b858692012bc93e6ce"
+  date: '2026-10-30'
+  report: 12_VISUAL_V2/PREPARATION_REPORT.md
+  input_zip_sha256: 855e6f6c66873c1af5879be498879a749e92a50b101a34b858692012bc93e6ce
   positions: 142
   voice_paragraphs: 37
   prompts_reviewed: 52
@@ -92,33 +96,53 @@ visual_preparation_v2:
   stock_request_pass: 38
   stock_request_hold: 36
   stock_request_reject: 2
-  timing: "ESTIMATED_NO_AUDIO"
+  timing: ESTIMATED_NO_AUDIO
   native_first_batch_images: 10
   native_first_batch_api_cost_usd: 0
   paid_generation_submitted: 0
-  overall_asset_qc: "HOLD"
+  overall_asset_qc: HOLD
   script_audio_modified: false
-
 imagegen_execution:
-  provider: "built-in image_gen.imagegen"
-  underlying_model: "NOT_EXPOSED"
-  cost: "NOT_EXPOSED_NO_ZERO_COST_CLAIM"
-  submissions: 49
+  provider: built-in image_gen.imagegen
+  underlying_model: NOT_EXPOSED
+  cost: NOT_EXPOSED_NO_ZERO_COST_CLAIM
+  submissions: null
   owner_rejected_images: 3
   approved_production_images: 5
-  style_proof: "13_IMAGEGEN_PRODUCTION/GF003_IMAGEGEN_V2_STYLE_PROOF.png"
-  style_approval: "OWNER_APPROVED_VIDEO008_NATURAL_DIRECTION_FIVE_ACCEPTED_FRAMES"
+  style_proof: 13_IMAGEGEN_PRODUCTION/REPAIR_R3/QC_CONTACT_01.jpg
+  style_approval: FIVE_PREVIOUS_ACCEPTANCES_PRESERVED_NEW_SELECTIONS_PENDING_OWNER
   official_documents_regenerated: false
-  svg_route: "SUPERSEDED_BY_OWNER"
-
+  svg_route: SUPERSEDED_BY_OWNER
+  historical_submission_total: NOT_RECONCILED_DO_NOT_USE_PREVIOUS_59_AS_CURRENT
+  repair_submissions: 47
+  selected_imagegen_files: 50
+  selected_new_imagegen_files: 43
+  selected_source_pixel_frames: 2
+  current_selected_registry: 13_IMAGEGEN_PRODUCTION/REPAIR_R3/SELECTED_ASSETS.csv
 voicebox_queue_launch:
   parts: 5
-  model: "Qwen3-TTS-1.7B-Base"
-  profile_id: "228d3d8a-096f-461b-bf11-4f9415e2dafc"
+  model: Qwen3-TTS-1.7B-Base
+  profile_id: 228d3d8a-096f-461b-bf11-4f9415e2dafc
   api_cost_usd: 0
   credits: 0
-  first_generation_id: "65830baa-ace4-4043-96ed-6834fb162157"
-  receipt: "09_VOICEBOX_HARRISON/QUEUE_SUBMISSION_SNAPSHOT_20261030.json"
+  first_generation_id: 65830baa-ace4-4043-96ed-6834fb162157
+  receipt: 09_VOICEBOX_HARRISON/QUEUE_SUBMISSION_SNAPSHOT_20261030.json
   no_automatic_retries: true
   assistant_monitoring_after_launch: false
-  listening_and_audio_qc: "NOT_RUN"
+  listening_and_audio_qc: NOT_RUN
+visual_correction_r3:
+  date: '2026-10-30'
+  selected_positions: 52
+  authentic_crops: 15
+  stock_source_library: 47
+  timeline_positions: 142
+  timing: ESTIMATED_NO_AUDIO_VERIFIED
+  delivery_path: C:\YOUTUBE\Youtube 3\Video 9\VISUALS
+  delivery_verification: PASS_INSTALLED_FILE_SHA256_MATCHES
+  report: 13_IMAGEGEN_PRODUCTION/REPAIR_R3/PACKAGE_REPORT.json
+  native_comps_authored: 52
+  native_render_qc: HOLD_BRIDGE_UNAVAILABLE
+  owner_review: HOLD_NEW_SELECTIONS
+  script_audio_modified: false
+  delivery_verified_utc: '2026-10-31T04:20:37.0581967Z'
+  delivery_proof: 13_IMAGEGEN_PRODUCTION/REPAIR_R3/INSTALL_VERIFICATION.json

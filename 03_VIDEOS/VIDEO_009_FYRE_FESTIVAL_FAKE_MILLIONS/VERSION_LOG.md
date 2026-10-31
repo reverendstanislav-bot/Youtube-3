@@ -25,3 +25,5 @@
 | 2026-10-28 | Stage07 | Locked V3 EN/RU and 4 verbatim Shorts; DOJ/SEC legal scope reconciled | SCRIPT LOCK PASS; audio/visual rights separate HOLD |
 
 | 2026-10-28 | Stage08 | Harrison text prepared: 1804 words, five parts, four untouched Shorts, no audio produced | TEXT PASS; Stage09 not started |
+
+| 2026-10-30 | Stage13 R3 asset correction | Correct raw VIDEO008 references; 52 selections, 15 genuine crops, 47 stock originals, 52 native comps; 142 script anchors retained; four defective candidates excluded | Asset files verified; owner/native-render/independent review HOLD |

@@ -8,12 +8,16 @@
     "original_reviewed_brief": "One continuous tropical-light to ledger-line transition; single full-frame state, not a split screen. Keep a clean horizon and a separate native ledger motif; no depicted real Fyre invitation.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF001.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF001_IMAGEGEN_V4.png",
-    "sha256": "1111712b6bacd825dc6133cc76356378903dfae2a846268b6168a95ce69f2747"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF001.png",
+    "sha256": "1111712b6bacd825dc6133cc76356378903dfae2a846268b6168a95ce69f2747",
+    "selected_sha256": "248050c02b54e865a51f7fa46265c115d28bbfde25437633a35be60b4e18af62",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF002",
@@ -24,12 +28,16 @@
     "original_reviewed_brief": "Large open question integrated into charcoal negative space: WHAT DID THE RECORDS SHOW? Typography is the object; no empty index-card or boxed dashboard.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF002.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF002_IMAGEGEN_V3.png",
-    "sha256": "b4159d734e5e6b4184227000924e3a068384226294c7f5e9de53de6ed07a40ae"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF002.png",
+    "sha256": "b4159d734e5e6b4184227000924e3a068384226294c7f5e9de53de6ed07a40ae",
+    "selected_sha256": "d0fbff5440b472f692c2ac2000078c3a0f286c229c83a1d8376151cee45f4cd8",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF003",
@@ -40,12 +48,16 @@
     "original_reviewed_brief": "One giant 2,500+ counter with ONE MONTH and CLAIMED, explicitly Fyre Media platform bookings. Animate the counter only after the qualifying label is visible.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF003.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF003_IMAGEGEN_V3.png",
-    "sha256": "287fd2c28c6f437a623748c3ba5b1ea1023baaf9faff434f3fe10dbc7c8df2f2"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF003.png",
+    "sha256": "287fd2c28c6f437a623748c3ba5b1ea1023baaf9faff434f3fe10dbc7c8df2f2",
+    "selected_sha256": "287fd2c28c6f437a623748c3ba5b1ea1023baaf9faff434f3fe10dbc7c8df2f2",
+    "asset_qc": "PRESERVED_OWNER_ACCEPTED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "PREVIOUS_ACCEPTANCE_PRESERVED"
   },
   {
     "asset_id": "GF004",
@@ -56,12 +68,16 @@
     "original_reviewed_brief": "A restrained matrix of60 small native marks resolving into the number60, with CONFIRMED / ONE YEAR. Keep the year visible throughout; never compare on a shared rate axis.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF004.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF004_IMAGEGEN_V2.png",
-    "sha256": "6b591c145b2f086d365aee4ed53caa3511e45ed47c47dbf677b7e8aafd64eb05"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF004.png",
+    "sha256": "6b591c145b2f086d365aee4ed53caa3511e45ed47c47dbf677b7e8aafd64eb05",
+    "selected_sha256": "6b591c145b2f086d365aee4ed53caa3511e45ed47c47dbf677b7e8aafd64eb05",
+    "asset_qc": "PRESERVED_OWNER_ACCEPTED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "PREVIOUS_ACCEPTANCE_PRESERVED"
   },
   {
     "asset_id": "GF005",
@@ -72,12 +88,16 @@
     "original_reviewed_brief": "Two unequal calendar-duration strips: one month and one year. Separate units, no common bar scale or conversion into an unsupported ratio.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF005.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF005_IMAGEGEN_V2.png",
-    "sha256": "790b7e7d6e602855cf6faedf20be1b52b960d48ae85c691f46bd238f784f18a3"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF005.png",
+    "sha256": "790b7e7d6e602855cf6faedf20be1b52b960d48ae85c691f46bd238f784f18a3",
+    "selected_sha256": "790b7e7d6e602855cf6faedf20be1b52b960d48ae85c691f46bd238f784f18a3",
+    "asset_qc": "PRESERVED_OWNER_ACCEPTED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "PREVIOUS_ACCEPTANCE_PRESERVED"
   },
   {
     "asset_id": "GF006",
@@ -88,12 +108,16 @@
     "original_reviewed_brief": "Single precise revenue amount $57,443 with May2016–April2017 and PLATFORM BOOKINGS; visually separate it from the festival ticket motif.",
     "fact_ids": "REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF006.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF006_IMAGEGEN_V2.png",
-    "sha256": "a60d8996dfd1f6c1a2eb7e4fcec98453dd02fa7b36834847295e3cc864c698b3"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF006.png",
+    "sha256": "a60d8996dfd1f6c1a2eb7e4fcec98453dd02fa7b36834847295e3cc864c698b3",
+    "selected_sha256": "a60d8996dfd1f6c1a2eb7e4fcec98453dd02fa7b36834847295e3cc864c698b3",
+    "asset_qc": "PRESERVED_OWNER_ACCEPTED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "PREVIOUS_ACCEPTANCE_PRESERVED"
   },
   {
     "asset_id": "GF007",
@@ -104,12 +128,16 @@
     "original_reviewed_brief": "Two typographic bounds >$2.5M and <$1,500 on an open field; CLAIMED/ACTUAL and SEC attribution. No scale implying exact balances or stolen shares.",
     "fact_ids": "BROKERAGE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF007.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF007_IMAGEGEN_V2.png",
-    "sha256": "9a6af43c2d9d7dbe31362d3835f42d96e28cac12bb812b35052a3b39213b44f5"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF007.png",
+    "sha256": "9a6af43c2d9d7dbe31362d3835f42d96e28cac12bb812b35052a3b39213b44f5",
+    "selected_sha256": "9a6af43c2d9d7dbe31362d3835f42d96e28cac12bb812b35052a3b39213b44f5",
+    "asset_qc": "PRESERVED_OWNER_ACCEPTED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "PREVIOUS_ACCEPTANCE_PRESERVED"
   },
   {
     "asset_id": "GF008",
@@ -120,12 +148,16 @@
     "original_reviewed_brief": "A confidence question emerges from three fading verified-metric anchors. End with HOW DID ANYONE TRUST THIS BUSINESS? rather than another empty title card.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF008.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF008_IMAGEGEN_V2.png",
-    "sha256": "5ff5c66c98a58444603cc21f850e5ef1e011b1c8f6750f4b870b4c5cf9f96409"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF008.png",
+    "sha256": "5ff5c66c98a58444603cc21f850e5ef1e011b1c8f6750f4b870b4c5cf9f96409",
+    "selected_sha256": "aed284efed3b0075f139096636535e097d0c0e1d8c01d77359f927d2a08cd2c6",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF009",
@@ -136,12 +168,16 @@
     "original_reviewed_brief": "A sparse three-node booking workflow: customer, marketplace, performer. Independent shapes and connecting line; no invented completed booking or fake product UI.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF009.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF009_IMAGEGEN_V2.png",
-    "sha256": "3dd6b5e913858a6165e0473803051aeeef794ea72baaa31f14d056ec9250a01d"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF009.png",
+    "sha256": "3dd6b5e913858a6165e0473803051aeeef794ea72baaa31f14d056ec9250a01d",
+    "selected_sha256": "ccad869aec985ce0549af8063b4a26ade63a63ae5a31478a0510e2dd7e6fbcd9",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF010",
@@ -152,12 +188,16 @@
     "original_reviewed_brief": "Two independent vertical paths: Fyre Media marketplace and Fyre Festival publicity. Distinct purposes, no identical-operations claim and no sum connecting them.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF010.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF010_IMAGEGEN_V4.png",
-    "sha256": "3eaa029f8ea6a4a1f1cf51cec2071ff60808b3275b7173ba0cb8bd3fd34e7b51"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF010.png",
+    "sha256": "3eaa029f8ea6a4a1f1cf51cec2071ff60808b3275b7173ba0cb8bd3fd34e7b51",
+    "selected_sha256": "219405c239cb5837ed419abd933d47c96a225cbec2bb02c2f13c6b5dfd4b03b9",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF011",
@@ -168,12 +208,16 @@
     "original_reviewed_brief": "One native spotlight fades off PUBLICITY while a transaction-verification question remains in focus. Editorial metaphor, not an invented investor meeting.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF011.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF011_IMAGEGEN_V2.png",
-    "sha256": "5001158db62ffc860856d1d93551ab8dcfe78deb2a7135cacd7ce78c526903de"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF011.png",
+    "sha256": "5001158db62ffc860856d1d93551ab8dcfe78deb2a7135cacd7ce78c526903de",
+    "selected_sha256": "c1c507f188a07f1fdea06d9a86deb4ababfe904ddca89eea866ca27887c6cb28",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF012",
@@ -184,12 +228,16 @@
     "original_reviewed_brief": "Three unfilled verification gates for transaction, customer and repeatability, phrased as questions. No checkmarks claiming that this company passed them.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF012.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF012_IMAGEGEN_V3.png",
-    "sha256": "1cd4219ed802c093e40340a228885c1c9bc103c7c827bd0cc4e59944f07d467e"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF012.png",
+    "sha256": "1cd4219ed802c093e40340a228885c1c9bc103c7c827bd0cc4e59944f07d467e",
+    "selected_sha256": "f24d0383f2c01b588430011849a170f20314641d7bc48b924a2ba20a4e55b97f",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF013",
@@ -200,12 +248,16 @@
     "original_reviewed_brief": "A factual completed-transaction marker opposite a dashed forecast outline. Use words rather than invented chart values; keep hypothetical analysis explicit.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF013.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF013_IMAGEGEN_V4.png",
-    "sha256": "49ea0bdffef7b01aa4baf295fbce52bb6239fddc27e17657da6cf2f01691220a"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF013.png",
+    "sha256": "49ea0bdffef7b01aa4baf295fbce52bb6239fddc27e17657da6cf2f01691220a",
+    "selected_sha256": "8d000cbf6930cd8c2c3e578c162cc504f7fe0e5eff9bf2e965b00df9a840e5f6",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF014",
@@ -216,12 +268,16 @@
     "original_reviewed_brief": "A funnel of questions from completed transaction to evidence of demand to confidence. Read as an analytical inference, not a witnessed investor decision.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF014.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF014_IMAGEGEN_V2.png",
-    "sha256": "64f13c693179d2e809aea0193c5e4f6508e0992102ac9a54d311dad4aad7a905"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF014.png",
+    "sha256": "64f13c693179d2e809aea0193c5e4f6508e0992102ac9a54d311dad4aad7a905",
+    "selected_sha256": "035ecb68168535eda0e168cc46450cc504ea48c20441842ac94652162d9a2e6b",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF015",
@@ -232,12 +288,16 @@
     "original_reviewed_brief": "A broken proof path from reported bookings to apparent marketplace success. DOJ plea context; avoid the original weaker allegation-only phrasing for McFarland admitted conduct.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF015.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF015_IMAGEGEN_V2.png",
-    "sha256": "59587f2b1528e45f0094d657934e5f8ef6ead507ca3cb7305170cb4ab73a5ca6"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF015.png",
+    "sha256": "59587f2b1528e45f0094d657934e5f8ef6ead507ca3cb7305170cb4ab73a5ca6",
+    "selected_sha256": "605ec79ca9414b4178eda17677445968537e209de5a1ecd3a6fba4ec48267d40",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF016",
@@ -248,12 +308,16 @@
     "original_reviewed_brief": "One festival-stage outline separated from a platform booking mark by the explicit qualifier NOT FESTIVAL LINEUP. No actual artist likeness or invented event programme.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF016.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF016_IMAGEGEN_V2.png",
-    "sha256": "56e553ed0f1463ecc7e381bb8969551f8386274c4aab131b4563d774de69e243"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF016.png",
+    "sha256": "56e553ed0f1463ecc7e381bb8969551f8386274c4aab131b4563d774de69e243",
+    "selected_sha256": "86605aab17fe3cc17f7c2fa544969d19ec0e475c200c04ed75852c0ebb005347",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF017",
@@ -264,12 +328,16 @@
     "original_reviewed_brief": "Use the authentic DOC004 crop as the only source pixels. Native callout anchors remain outside the source crop; never generate or typeset the DOJ passage.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF017.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF017_IMAGEGEN_V1.png",
-    "sha256": "e67a46c2d32aca84239522e942a42ecc0b965a61ab10d1fa59fca905b9073775"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF017.png",
+    "sha256": "e67a46c2d32aca84239522e942a42ecc0b965a61ab10d1fa59fca905b9073775",
+    "selected_sha256": "161b0e28161fa2fa7e9de11102bd661806bcd417216c19f8793797f9fd17e447",
+    "asset_qc": "SOURCE_PIXELS_VERIFIED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF018",
@@ -280,12 +348,16 @@
     "original_reviewed_brief": "A narrow reconciliation path connecting booking claim, transaction check and missing corroboration. This is an editorial checklist, not an authentic record.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF018.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF018_IMAGEGEN_V2.png",
-    "sha256": "15e0fa4e3984b5a77fbf661b40e9c5bc0cf3b71edc573123edafdef9bed7daaa"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF018.png",
+    "sha256": "15e0fa4e3984b5a77fbf661b40e9c5bc0cf3b71edc573123edafdef9bed7daaa",
+    "selected_sha256": "3f22f187ee37ebff5d78c66eacd6969de4e792c60754b89c5ff1a67b7d671507",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF019",
@@ -296,12 +368,16 @@
     "original_reviewed_brief": "Two unsupported assertions form a reinforcing loop: apparent booking volume and apparent revenue. Use a two-arc arrangement, not another three-node flow.",
     "fact_ids": "REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF019.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF019_IMAGEGEN_V2.png",
-    "sha256": "68e270b0367f271112e0b8c7122b5011460d7e4eed8ce4e4a4682cf213ee43d7"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF019.png",
+    "sha256": "68e270b0367f271112e0b8c7122b5011460d7e4eed8ce4e4a4682cf213ee43d7",
+    "selected_sha256": "0de309a82ec9dfa72dfd13382bc7f3b1c5599063e1a8e775c1c337355b93fb93",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF020",
@@ -312,12 +388,16 @@
     "original_reviewed_brief": "A neutral platform-service and revenue-recognition explainer, clearly analytical. No assertion that all booking value is platform revenue and no made-up amounts.",
     "fact_ids": "REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF020.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF020_IMAGEGEN_V2.png",
-    "sha256": "fd8b85d4992e660a1755f6894cb9491b7d515cc260a8f754308b58a7a0c4a08c"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF020.png",
+    "sha256": "fd8b85d4992e660a1755f6894cb9491b7d515cc260a8f754308b58a7a0c4a08c",
+    "selected_sha256": "ca4efa2d7af7f678c5b9f855bcc12012a859629159c22fab93634b656bb64283",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF021",
@@ -328,12 +408,16 @@
     "original_reviewed_brief": "Only the sourced actual $57,443 is numeric. The inflated claim stays words, without an invented bar height, total or magnitude ratio.",
     "fact_ids": "REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF021.json",
-    "status": "GENERATED_VIDEO008_DIRECTION_REVIEW_PENDING",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
     "authentic_source_documents_must_not_be_generated": true,
-    "selected_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF021_IMAGEGEN_V1.png",
-    "sha256": "54ca73899d9afad170300179731912dcd6b88c297a4d0c850440e335c2bae312"
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF021.png",
+    "sha256": "54ca73899d9afad170300179731912dcd6b88c297a4d0c850440e335c2bae312",
+    "selected_sha256": "a37ed2a530a2cc502cbdf1289b2a40ea746929113358bcde3c0b715883dede80",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF022",
@@ -344,10 +428,16 @@
     "original_reviewed_brief": "A single scrutiny lens separates claim from investment decision. Abstract editorial diagram; no fictional private investor, signature or scene.",
     "fact_ids": "REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF022.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF022.png",
+    "sha256": "53d6f6d88c87a22d83796b0d85bd4f2f7463baeb951376397ef9495b9fd5b546",
+    "selected_sha256": "5eba381a3751c28dec5150aa7a93f13cf76d4fb0419727c726fbdd48b6aff09e",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF023",
@@ -358,10 +448,16 @@
     "original_reviewed_brief": "A quiet plain-text MAGNISES pivot with a track-record question, visually distinct from FYRE MEDIA; no fabricated historic logo or sale certificate.",
     "fact_ids": "MAGNISES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF023.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF023.png",
+    "sha256": "85c3211d661ca5dcf793304d5b25f3d54cf379a2fec339ed50a5cdfac21e11a3",
+    "selected_sha256": "8a8828042ed749504619faca6b3125696aa04ca120ed3188856dcece5b06dd04",
+    "asset_qc": "SOURCE_PIXELS_VERIFIED",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF024",
@@ -372,10 +468,16 @@
     "original_reviewed_brief": "Approximately $40M is labelled FALSE SALE CLAIM / DOJ. No transfer illustration suggesting the sale happened; separate claim from established non-sale.",
     "fact_ids": "MAGNISES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF024.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF024.png",
+    "sha256": "516edaabe8cbffaa836856d5d11c11fb9ee391f2a0438a7072217b8780bcd678",
+    "selected_sha256": "04b77e0e636e730c47b343c645bfee41505b94c7c958e22ff8f09bbb1953e35c",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF025",
@@ -386,10 +488,16 @@
     "original_reviewed_brief": "An analytical founder-credential question, typography over a subtle timeline motif. Never fabricate a pitch-deck page, signature, acquirer or due-diligence certificate.",
     "fact_ids": "MAGNISES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF025.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF025.png",
+    "sha256": "83defdbeff88aa599702ede334cc00b6c3a3b577aca27c348507a034f04ca9eb",
+    "selected_sha256": "f82171470c446acecc59621aa29758371a9dd7284fad8fcaca651eadfe25dbb9",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF026",
@@ -400,10 +508,16 @@
     "original_reviewed_brief": "SEC balance bounds appear as two neutral measurement brackets, visually different from opening GF007; labels remain attached to their amounts. Not a recreated brokerage statement.",
     "fact_ids": "BROKERAGE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF026.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF026.png",
+    "sha256": "4282986bf6898bd8b2c265099f340ecdb36784256a105bcd2b88701b91c5d433",
+    "selected_sha256": "14a0c90d754c8fa1edcf38658affa742a1959224a81959ee6db18a49e251cb59",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF027",
@@ -414,10 +528,16 @@
     "original_reviewed_brief": "Abstract account-statement anatomy reduced to labelled regions only. Make EDITORIAL SCHEMATIC explicit; no account number, logo, signature, fake balance or source-page facsimile.",
     "fact_ids": "BROKERAGE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF027.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF027.png",
+    "sha256": "8f62d5ca7b52ace5ba4caa81fad851a4120595b1961ac57a1e87c401a0f7ffc0",
+    "selected_sha256": "a9f97ee28dd838d939ebb5234e8cbaba96aabe4e9dec4ff0824050905fab5fbc",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF028",
@@ -428,10 +548,16 @@
     "original_reviewed_brief": "A two-lane verification diagram distinguishes company operating results from personal holdings. No connecting arrow implying they are the same asset pool.",
     "fact_ids": "BROKERAGE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF028.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF028.png",
+    "sha256": "0e261e03be38111424bd2433eb4afdd813f68aa66bb95e92330ca368509f1461",
+    "selected_sha256": "f33c1043b9749f1a56406be1ec2643843f0609d285999a8ac30682dce10e71b5",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF029",
@@ -442,10 +568,16 @@
     "original_reviewed_brief": "Three sequential credibility layers, vertically offset rather than stacked opaque cards: bookings, revenue and claimed wealth. Each settles before the next arrives.",
     "fact_ids": "REVENUE | BROKERAGE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF029.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF029.png",
+    "sha256": "cdb9a3578fabab80dd7c5552e31e158b1069811f30d03f54c6526aa5877eb35e",
+    "selected_sha256": "8c5609d7e8dfacaf9763345e4225e364bfcffec1dd14d04cadf3558d58a32461",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF030",
@@ -456,10 +588,16 @@
     "original_reviewed_brief": "A simple risk wheel for weather, performers and logistics. Generic risk examples only; no claim these caused the historical festival failure.",
     "fact_ids": "INSURANCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF030.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF030.png",
+    "sha256": "ea2d459790a31862a9e1f3cc2f2970bd46ff3a97075ed668ccc056c34d26abfc",
+    "selected_sha256": "ec3d91a5a174c113966652780725e97cf675a6222f08491fcf8316dc5d1fedb7",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF031",
@@ -470,10 +608,16 @@
     "original_reviewed_brief": "A promised protection line sits outside an investor-risk path. DOJ attribution visible; no generated insurance policy, insurer logo, actual payout or signature.",
     "fact_ids": "INSURANCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF031.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF031.png",
+    "sha256": "6d02f6d5b612b75e6d3e6d3763c760f45f3c8f41a1471b622ff1308a0c63ef50",
+    "selected_sha256": "496462218c483e05bd17508b133a8e2bc94077b77da5c21ce6160882f5f10769",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF032",
@@ -484,10 +628,15 @@
     "original_reviewed_brief": "A single documentary verdict about execution: POLICY NOT EXECUTED, with DOJ plea attribution. Plain editorial type, no forged CANCELLED stamp.",
     "fact_ids": "INSURANCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF032.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF032.png",
+    "selected_sha256": "4f405414b379c45c65e6aa1dbb3ec495f9b66c5afd229002bf471901e8942eb6",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF033",
@@ -498,10 +647,15 @@
     "original_reviewed_brief": "A ghosted protection contour is explicitly labelled REPRESENTATION, NOT COVERAGE. Separate the promised downside protection from an actual executed policy.",
     "fact_ids": "INSURANCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF033.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF033.png",
+    "selected_sha256": "40a96f81572f9edc9dcea94feda29310365cd551a572cb58e72d607dd0fdb253",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF034",
@@ -512,10 +666,15 @@
     "original_reviewed_brief": "Two non-stacked criminal-loss measures: >$24M investor losses and $2M ticket-vendor losses. No festival budget heading and no all-attendee-loss claim.",
     "fact_ids": "INVESTOR_LOSSES | VENDOR_LOSSES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF034.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF034.png",
+    "selected_sha256": "0f258c430459cfc1a265fe1a349a92061df8d8f1cea4d90b87077d7f230a2eef",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF035",
@@ -526,10 +685,15 @@
     "original_reviewed_brief": "An abstract empty-event site diagram with no real geolocation, tents count or asserted on-site detail. Clearly schematic; use rights-cleared Bahamas context separately.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF035.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF035.png",
+    "selected_sha256": "cf706375efd32c02bd70a1bb3311a857c142c31d38da0a3497960b44d25d6909",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF036",
@@ -540,10 +704,15 @@
     "original_reviewed_brief": "A branching distinction: failed logistics and proven financial deception. A festival failure alone does not establish fraud; keep the legal premise written.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF036.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF036.png",
+    "selected_sha256": "9012025afce81f5ef585e7fcb4f0f93a44cebd277613ddd972c25eae73071111",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF037",
@@ -554,10 +723,15 @@
     "original_reviewed_brief": "One dated timeline marker: June2017 criminal charges. The historic status is CHARGES at this point; do not label this marker a conviction.",
     "fact_ids": "JUNE_CHARGES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF037.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF037.png",
+    "selected_sha256": "6ac49d413dd426bd268627a7e4d09e95fa3c3cbbe017a223d6da9e2a218918e3",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF038",
@@ -568,10 +742,15 @@
     "original_reviewed_brief": "A March6 2018 guilty-plea marker with the two initial wire-fraud categories. Distinct visual structure from the charge marker.",
     "fact_ids": "MARCH_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF038.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF038.png",
+    "selected_sha256": "f1a56d2e80844d077dd4a521ad4a2cb59cddf3c16897fe6294ddd2139bb07f59",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF039",
@@ -582,10 +761,15 @@
     "original_reviewed_brief": "A restrained second-chapter question revealed only at P025. Do not name NYC VIP Access before P026 or imply an unknown private motive.",
     "fact_ids": "JULY_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF039.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF039.png",
+    "selected_sha256": "82ddfe3d428510d0d1ae978ac90f41079a2ca7d702e2e11426a73d13fec30312",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF040",
@@ -596,10 +780,15 @@
     "original_reviewed_brief": "NYC VIP ACCESS appears as plain editorial text with SEPARATE LATER OPERATION. No invented corporate wordmark or real-ticket claim.",
     "fact_ids": "JULY_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF040.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF040.png",
+    "selected_sha256": "f2b42c4bb78fd9be013197a72d6c2517ed9f1820ade5e9be4e39e9f81e3558bc",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF041",
@@ -610,10 +799,15 @@
     "original_reviewed_brief": "Separate Fyre and NYC VIP Access timelines with their own labels and dates. A temporal sequence is not by itself a causal arrow.",
     "fact_ids": "JULY_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF041.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF041.png",
+    "selected_sha256": "18905634f2fad05386b16a5574097f45c87a69b7c23f02d048e72ae9204f6d34",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF042",
@@ -624,10 +818,15 @@
     "original_reviewed_brief": "One group of generic ticket silhouettes for event categories. No real ticket facsimile, scannable barcode, specific venue, seat, signature or event-logo permission implied.",
     "fact_ids": "JULY_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF042.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF042.png",
+    "selected_sha256": "a59d307df6cbe0f40d094038364778071d8e0613b29b9d49f976dc36403ba4f8",
+    "asset_qc": "LEAD_PHOTOGRAPHIC_CHECK_OWNER_REVIEW_PENDING",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF043",
@@ -638,10 +837,15 @@
     "original_reviewed_brief": "July26 2018 plea marker lists wire fraud, bank fraud and false statements. No upgraded charge-only claim and no assignment to other respondents.",
     "fact_ids": "JULY_PLEA",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF043.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF043.png",
+    "selected_sha256": "48f9ef9f9f844d3fa3a7b1586aab1a9aa6be06828d6ea8706681cf05ea4512b9",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF044",
@@ -652,10 +856,15 @@
     "original_reviewed_brief": "March and July guilty pleas are shown as separate dated milestones on an unscaled strip. No invented proportional duration or conflated operation.",
     "fact_ids": "MARCH_PLEA | JULY_PLEA | SEC_OTHER_RESPONDENTS_NONADMISSION",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF044.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF044.png",
+    "selected_sha256": "154cdbbee1329ec983e09751186a371666c09376d53977f290fd1f1abfa578c5",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF045",
@@ -666,10 +875,15 @@
     "original_reviewed_brief": "October11 2018: six-year historical sentence. Keep HISTORICAL SENTENCE visible; no current-custody statement or invented prison image.",
     "fact_ids": "SENTENCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF045.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF045.png",
+    "selected_sha256": "d8e2b59a9bd18699670602543dd432b3490e95e9ab8fd0bd3cadc49dc56b09fa",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF046",
@@ -680,10 +894,15 @@
     "original_reviewed_brief": "Three separate non-additive rows for raised funds, criminal losses and forfeiture. Preserve >=, > and category labels; no total or stacked chart.",
     "fact_ids": "INVESTOR_LOSSES | VENDOR_LOSSES | FORFEITURE | SEC_RAISED | SEC_OTHER_RESPONDENTS_NONADMISSION",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF046.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF046.png",
+    "selected_sha256": "a3f4ef205aa4fa092db36fcfdbdfd18f32b51117f233b79e24ad21bb36b3fc67",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF047",
@@ -694,10 +913,15 @@
     "original_reviewed_brief": "At least $27.4M with three entity names below a single bracket. Do not allocate amounts to entities or present raised funds as a criminal-loss subtotal.",
     "fact_ids": "SEC_RAISED | SEC_OTHER_RESPONDENTS_NONADMISSION",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF047.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF047.png",
+    "selected_sha256": "280342df5819f2899397e9d7894d1f8f7f3182b8690390c5a706972d9ad29d3d",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF048",
@@ -708,10 +932,15 @@
     "original_reviewed_brief": "Exact $26,191,306.28, with cents retained, labelled CRIMINAL FORFEITURE. No recovered-money animation or implied victim-recovery total.",
     "fact_ids": "FORFEITURE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF048.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF048.png",
+    "selected_sha256": "f0022b119f6eea32e679911be21781603d9ea5259d09f324a3e7d5433cce9296",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF049",
@@ -722,10 +951,15 @@
     "original_reviewed_brief": "LOSS IS NOT PRODUCTION BUDGET is the main distinction; the sourced investor/vendor figures stay secondary. Different thesis from the first loss reveal.",
     "fact_ids": "INVESTOR_LOSSES | VENDOR_LOSSES",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF049.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF049.png",
+    "selected_sha256": "d77cee35406b11a6abcaa09960aa48520a4c2712202e6a1afae258e764402140",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF050",
@@ -736,10 +970,15 @@
     "original_reviewed_brief": "Closing distinction between claims and verified evidence, expressed as one continuous editorial line. No new source document or final total introduced.",
     "fact_ids": "BOOKINGS | REVENUE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF050.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF050.png",
+    "selected_sha256": "b2970788db56cb871c4577b06ffeb4907542f1255d5b7630c711ac48ec7bf708",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF051",
@@ -750,10 +989,15 @@
     "original_reviewed_brief": "Four successive scrutiny questions attached to bookings, revenue, holdings and insurance. Use an open path, not a repetitive card grid or dashboard.",
     "fact_ids": "BOOKINGS | REVENUE | BROKERAGE | INSURANCE",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF051.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF051.png",
+    "selected_sha256": "542bec7926b8e19554f714b80c3a6db6e01736e166b9891ca2e04deeee4502b8",
+    "asset_qc": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   },
   {
     "asset_id": "GF052",
@@ -764,9 +1008,14 @@
     "original_reviewed_brief": "One restrained closing file-edge or paper-line motif against charcoal, then negative space for the final thesis. No fabricated government page or decorative legal seal.",
     "fact_ids": "BOOKINGS",
     "source_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF052.json",
-    "status": "QUEUED_VIDEO008_DIRECTION",
+    "status": "SELECTED_BASE_FILES_VERIFIED_NO_FURTHER_JOBS_AUTHOMATICALLY_QUEUED",
     "no_yellow_or_red_outlines": true,
     "lower20_percent_clear": true,
-    "authentic_source_documents_must_not_be_generated": true
+    "authentic_source_documents_must_not_be_generated": true,
+    "selected_file": "13_IMAGEGEN_PRODUCTION/REPAIR_R3/IMAGES/GF052.png",
+    "selected_sha256": "03bf2cc35e87c239a2e6812602aa581e6e74889268dda31ca7a608a2c25c2d4f",
+    "asset_qc": "LEAD_PHOTOGRAPHIC_CHECK_OWNER_REVIEW_PENDING",
+    "native_render_qc": "HOLD",
+    "owner_approval": "NOT_CLAIMED"
   }
 ]

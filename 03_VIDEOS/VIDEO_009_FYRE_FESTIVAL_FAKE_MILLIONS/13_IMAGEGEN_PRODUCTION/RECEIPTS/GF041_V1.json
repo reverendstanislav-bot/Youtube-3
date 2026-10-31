@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF041",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE16:9 standalone editorial infographic raster for WHAT IT COST. Reference images define charcoal/paper-white typography and tonal discipline ONLY. The owner rejected repetitive paper-on-desk frames. NO paper, folder, desk, clipboard, mockup, physical sign, metal device, beige card, photo collage or repeated dashboard panels. Use a subtle full-frame charcoal background, clear condensed display heading and Inter-like supporting text. Each brief specifies a DISTINCT layout; follow it, do not copy the reference's three money rows. No red/yellow accents, outlines, border, highlight, circle annotation, glow or bakedmotion. Essential neutral ivory/gray diagram lines are allowed. All meaningful content in upper75%; lower25%clear. Print ONLY the exact supplied text block; no extra body copy, values, invented data, source quotes or official facsimile. TWO separate short UNALIGNED chronology tracks, visibly different operations, no causal arrow connecting them, no invented dates. Complete text:\nSEPARATE OPERATIONS\nFYRE MEDIA / FYRE FESTIVAL\nORIGINAL VENTURE\nNYC VIP ACCESS\nSEPARATE LATER OPERATION",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF046_IMAGEGEN_V1.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-413a99c6-2092-47ea-8f02-db4aed6e5ed9.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF041_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF041_IMAGEGEN_V1.png",
+  "sha256": "6d669b85f66dc16dd05341ea190bb97d04c6f2711e7b23c246ce37368e1f3972",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF041.json",
+  "fact_reference_sha256": "18015fc2155728f3d1aa69ca422205475aaf136209e0a1f3e5515690daa145a9"
+}

@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF027",
+  "version": 2,
+  "input": {
+    "prompt": "Create ONE16:9 standalone editorial infographic raster for WHAT IT COST. Reference images define charcoal/paper-white typography and tonal discipline ONLY. The owner rejected repetitive paper-on-desk frames. NO paper, folder, desk, clipboard, mockup, physical sign, metal device, beige card, photo collage or repeated dashboard panels. Use a subtle full-frame charcoal background, clear condensed display heading and Inter-like supporting text. Each brief specifies a DISTINCT layout; follow it, do not copy the reference's three money rows. No red/yellow accents, outlines, border, highlight, circle annotation, glow or bakedmotion. Essential neutral ivory/gray diagram lines are allowed. All meaningful content in upper75%; lower25%clear. Print ONLY the exact supplied text block; no extra body copy, values, invented data, source quotes or official facsimile. Three gently offset labelled regions on an OPEN schematic, not a brokerage form, actual statement, rising bar chart or blank fields. No owner name, bank/logo, signature, number, securities list or valuation amounts. Complete text:\nSTATEMENT ANATOMY\nACCOUNT HOLDER\nHOLDINGS\nVALUATION\nEDITORIAL SCHEMATIC — NOT A BROKERAGE STATEMENT",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF046_IMAGEGEN_V1.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-c56b18b9-ac7a-466a-822f-77443c608f41.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF027_IMAGEGEN_V2.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF027_IMAGEGEN_V2.png",
+  "sha256": "1752128932cbef3739a0441d7a89638ca9a10e0bcaafc38185e1a0e7550cf8c8",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF027.json",
+  "fact_reference_sha256": "9c5ea6a525953f44bd75b77aa7387c6fef4c8f83df0c0b268e7dde1ed126e4d8"
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "05R_SCRIPT_V3_EN.md",
+    "git_blob": "8edd63b3734e12c49a679e53c7719c0730299438",
+    "equals_head": true
+  },
+  {
+    "file": "08_VOICE_SCRIPT.md",
+    "git_blob": "08bdc4e1e255566404bba1f6c754ce7d694e5610",
+    "equals_head": true
+  },
+  {
+    "file": "08_HARRISON_PART_01.txt",
+    "git_blob": "fbfdb8220bc05efffcd87d3f2340d6bbd666ea1a",
+    "equals_head": true
+  },
+  {
+    "file": "08_HARRISON_PART_02.txt",
+    "git_blob": "f6c0c9bd220d10518bcc2e3e0b2f7935921a86a0",
+    "equals_head": true
+  },
+  {
+    "file": "08_HARRISON_PART_03.txt",
+    "git_blob": "e3495c5bede83b65224bc3b0b36728a890af4faf",
+    "equals_head": true
+  },
+  {
+    "file": "08_HARRISON_PART_04.txt",
+    "git_blob": "c67e2dcdfedb6c2bce372d2a959c21a77863fec0",
+    "equals_head": true
+  },
+  {
+    "file": "08_HARRISON_PART_05.txt",
+    "git_blob": "d05d30338ac1521a55e17025a4979603730eb30d",
+    "equals_head": true
+  }
+]

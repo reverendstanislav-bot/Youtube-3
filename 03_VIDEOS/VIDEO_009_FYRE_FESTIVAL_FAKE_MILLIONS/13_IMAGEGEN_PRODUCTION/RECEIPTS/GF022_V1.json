@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF022",
+  "version": 1,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. One compact landscape editorial scrutiny diagram on a normal ivory research leaf, a small black pen at the far left, ordinary natural VIDEO008 photography. BEGIN PRINT\nEDITORIAL ANALYSIS\nFrom Claim to Investment Decision\nClaim\nIndependent verification?\nInvestment decision\nAn analytical model, not a record of a private investor meeting.\nEND PRINT\nThree plain ink labels with open space, no actual investor, signature, approval or invented transaction. No additional paragraph.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-deda4c62-8775-4e9f-a08f-79c308a5cd9d.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF022_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF022_IMAGEGEN_V1.png",
+  "sha256": "53d6f6d88c87a22d83796b0d85bd4f2f7463baeb951376397ef9495b9fd5b546",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF022.json",
+  "fact_reference_sha256": "7d2cb66331d94ab57c07d285c86bfaaeac89bc4c0c8eddf9a50f81f9adf24e76"
+}

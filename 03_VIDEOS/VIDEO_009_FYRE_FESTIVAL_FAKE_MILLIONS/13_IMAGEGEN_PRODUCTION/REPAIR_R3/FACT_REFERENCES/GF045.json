@@ -1,0 +1,72 @@
+{
+  "asset_id": "GF045",
+  "paragraph_id": "P030",
+  "production_route": "BUILTIN_IMAGEGEN_PHOTOGRAPHIC_BASE_PLUS_NATIVE_FUSION",
+  "source_fact_references": [
+    {
+      "asset_id": "GF045",
+      "reference_role": "FACT_SUPPORT_AND_GENUINE_SOURCE_PIXEL_REFERENCE",
+      "fact_id": "SENTENCE",
+      "source_id": "DOJ_SENTENCE",
+      "official_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple",
+      "actual_download_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple",
+      "source_file_repo": "12_VISUAL_V2/DOCUMENTS/ORIGINALS/DOJ_SENTENCE_BROWSER_RESPONSE.html",
+      "source_sha256": "0a42f9f303256341c0ea4ffc4c9edaa7463c71fbca766dc2c44808a5b870799a",
+      "reference_file_repo": "12_VISUAL_V2/DOCUMENTS/REFERENCE_PAGES/DOJ_SENTENCE_P01.png",
+      "reference_sha256": "57d0f638d31376727206e173b4b97619f0853a5d8639c7efcf05cf80b6b96f57",
+      "page_1_based": "1",
+      "verified_passage": "Thursday, October 11, 2018\nFor Immediate Release",
+      "guardrail": "Six-year historicalsentence, no presentwhereaboutsassertion",
+      "status": "PASS_ACTUAL_LOCAL_FILE_HASH_AND_PASSAGE_CHECK"
+    }
+  ],
+  "legal_archival_hold": "",
+  "canonical_style_references": [
+    {
+      "path": "00_FOUNDATION/VISUAL_LOCK.md",
+      "sha256": "083bc3b8df370cbc7f7fe2e9ee30bdaaed9d686b0015c6664a3f145599191ef3",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "00_FOUNDATION/EDITING_CANON.md",
+      "sha256": "d9b805dc37e15cdaaa59240ee5cc4ac68e83138ca2f1c76d6e5c13a759c9a89d",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "01_CHANNEL/VISUAL_BIBLE.md",
+      "sha256": "ef6a7f0d982c89dcbbe51c3b0797df83644775b729749e1c42c545b93e5e98e5",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    }
+  ],
+  "layout": "October11 2018: six-year historical sentence. Keep HISTORICAL SENTENCE visible; no current-custody statement or invented prison image.",
+  "frame": [
+    1920,
+    1080
+  ],
+  "clean_lower_zone": [
+    0,
+    864,
+    1920,
+    1080
+  ],
+  "separate_layers": [
+    "background",
+    "editorial_geometry",
+    "factual_type",
+    "semantic_emphasis",
+    "reveal_masks"
+  ],
+  "images_generated": 0,
+  "api_cost_usd": 0,
+  "official_documents_must_never_be_generated": true,
+  "selected_image": "IMAGES/GF045.png",
+  "selected_sha256": "d8e2b59a9bd18699670602543dd432b3490e95e9ab8fd0bd3cadc49dc56b09fa",
+  "selected_version": "1",
+  "native_text": [
+    "OCTOBER 11, 2018 | SIX YEARS IN PRISON",
+    "HISTORICAL SENTENCE"
+  ],
+  "native_render_qc": "HOLD_NOT_NATIVE_RENDER_VERIFIED",
+  "owner_approval": "NOT_CLAIMED",
+  "authoritative_style": "VIDEO008/13C_IMAGEGEN_CLEAN_BASES_QC.md and 15_FUSION_V6_DELIVERY_QC.md; old black-card and repeated-A4 routes superseded"
+}

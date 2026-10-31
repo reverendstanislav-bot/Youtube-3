@@ -1,0 +1,30 @@
+{
+  "asset_id": "GF040",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE 16:9 photorealistic-natural WHAT IT COST documentary photographic asset, not a collage, graphic-design slide or poster. Match supplied original VIDEO008 photographic bases in contemporary materials, restrained neutral practical light, charcoal pebbled desk, clean ivory paper and black stationery. References are style/physical composition ONLY: never copy their company text, numbers, transactions or old case. Deliberately distinct shot scale and document arrangement for this specific scene. Everything photographed in one real physical setting. Small supporting ORIGINAL EDITORIAL WORKING NOTES, not official/company documents and not purported historical evidence. Print only the explicitly requested non-numeric analytical labels and notes, black ink, restrained normal serif. No invented prose, pseudo-writing, letterheads, seals, signatures, bank forms, case numbers, quotes, dates or monetary values. Real official sources and exact critical figures will be separate unchanged source/Fusion layers, never redraw them. No giant EDITORIAL ANALYSIS title, no generic A4 worksheet filling the screen. Compose filled concise paper objects with deliberate physical hierarchy, 2-3 modest edge props, tactile irregularity but no antique parchment. Top 18-25% is quiet charcoal for separate editable headline/figure layers. Bottom 20% contains no important writing. NO colored outlines, red/yellow accents, rectangles, arrows, underlines, highlights, source/provenance banners, glowing lines, counters, mechanisms, 3D diagrams, gold/marble, fake issued tickets or identification. No humans, faces, identifiable third-party brands. No device UI. Exact numbers/dates and analytical connectors are deliberately absent and will be editable Fusion nodes. Natural photographic restraint, not theatrical film prop styling. SCENE GF040. Close diagonal shot of a narrow gray archival divider in a black research folder, original plain type 'NYC VIP ACCESS', supporting short note 'Later ticket-selling operation'. This is an editorial label, never a logo, invitation, issued ticket or company record. A small monochrome generic New York skyline photo is clipped behind the note as context, no historical date claim. No people, ticket barcode, event names, signatures or official header.",
+    "referenced_image_paths": [
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC005_COMPOSITION_CLEAN_PROPS_V2.png",
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC010_CLEAN_V3.png",
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC040_CLEAN_V3.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-3a25100a-1358-4279-ac3d-a99480fe688f.png",
+  "repair_r3": true,
+  "visual_review": {
+    "status": "PENDING_ACTUAL_IMAGE_QC",
+    "direction": "RAW_VIDEO008_CLEAN_V3_REPAIR_R3",
+    "owner_approval": "NOT_CLAIMED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF040_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF040_IMAGEGEN_V1.png",
+  "sha256": "f2b42c4bb78fd9be013197a72d6c2517ed9f1820ade5e9be4e39e9f81e3558bc",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF040.json",
+  "fact_reference_sha256": "f054e3b70278179f543313abbe4f289fb3bbbf4b62766c6a8ad179c2947acae7"
+}

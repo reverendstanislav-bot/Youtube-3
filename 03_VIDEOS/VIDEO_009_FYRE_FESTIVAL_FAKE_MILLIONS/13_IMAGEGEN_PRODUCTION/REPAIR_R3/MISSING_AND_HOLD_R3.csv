@@ -1,0 +1,43 @@
+﻿item,count,status,reason
+FUSION_NATIVE_RENDER,52,HOLD,Bridge not connected; authored graphs and geometry are not native rendered proof
+OWNER_VISUAL_REVIEW,47,HOLD,Five prior accepted frames preserved; no acceptance inferred for new selections
+INDEPENDENT_VISUAL_QC,1,HOLD,Earlier reviewer usage limit; no independent PASS claimed
+EXACT_AUDIO_TIMING,142,HOLD,Intervals remain ESTIMATED; audio queue deliberately unmonitored
+STK0105,1,HOLD,empty modern event venue exterior; see stock registry and rights/context conditions
+STK0106,1,REJECT,office tower evening windows; see stock registry and rights/context conditions
+STK0202,1,HOLD,booking calendar interface unbranded generic; see stock registry and rights/context conditions
+STK0205,1,HOLD,unbranded business presentation wide; see stock registry and rights/context conditions
+STK0302,1,HOLD,ticket agency office working hands; see stock registry and rights/context conditions
+STK0303,1,HOLD,computer mouse and blank spreadsheet screen; see stock registry and rights/context conditions
+STK0305,1,HOLD,venue load-in dolly shot; see stock registry and rights/context conditions
+STK0306,1,HOLD,generic business paperwork closeup; see stock registry and rights/context conditions
+STK0401,1,HOLD,small business invoices clean desk; see stock registry and rights/context conditions
+STK0403,1,HOLD,person checking receipt stack hands; see stock registry and rights/context conditions
+STK0404,1,HOLD,unbranded office printer working; see stock registry and rights/context conditions
+STK0406,1,HOLD,city bank lobby generic; see stock registry and rights/context conditions
+STK0502,1,HOLD,luxury-looking residential exterior generic; see stock registry and rights/context conditions
+STK0504,1,HOLD,anonymous business profile silhouette no mimicry; see stock registry and rights/context conditions
+STK0505,1,HOLD,stock-market exchange generic screens unreadable; see stock registry and rights/context conditions
+STK0507,1,HOLD,Magnises context placeholder requiring rights verification; see stock registry and rights/context conditions
+STK0601,1,HOLD,storm clouds over coast generic; see stock registry and rights/context conditions
+STK0603,1,HOLD,insurer office exterior generic; see stock registry and rights/context conditions
+STK0604,1,HOLD,security barrier and empty events venue; see stock registry and rights/context conditions
+STK0605,1,HOLD,event crew coiling cables; see stock registry and rights/context conditions
+STK0607,1,HOLD,unbranded office window rain; see stock registry and rights/context conditions
+STK0701,1,HOLD,temporary festival fencing empty generic; see stock registry and rights/context conditions
+STK0702,1,HOLD,empty camping field generic no event attribution; see stock registry and rights/context conditions
+STK0704,1,HOLD,airport arrival gate neutral; see stock registry and rights/context conditions
+STK0706,1,HOLD,2017-era NYC city archive where cleared; see stock registry and rights/context conditions
+STK0708,1,HOLD,newsroom monitor unreadable; see stock registry and rights/context conditions
+STK0801,1,HOLD,ticket scanner gate without logos; see stock registry and rights/context conditions
+STK0805,1,HOLD,office ticket handling hands; see stock registry and rights/context conditions
+STK0808,1,HOLD,paper ticket generic macro; see stock registry and rights/context conditions
+STK0809,1,HOLD,ticket office queue generic; see stock registry and rights/context conditions
+STK0902,1,HOLD,financial office nighttime empty; see stock registry and rights/context conditions
+STK0903,1,HOLD,bookkeeper desk neutral; see stock registry and rights/context conditions
+STK0904,1,HOLD,bank vault hallway generic; see stock registry and rights/context conditions
+STK0906,1,HOLD,Manhattan exterior street wide; see stock registry and rights/context conditions
+STK1001,1,HOLD,closed paper ledger neutral; see stock registry and rights/context conditions
+STK1004,1,REJECT,office paper shredder generic; see stock registry and rights/context conditions
+STK1005,1,HOLD,city skyline dawn; see stock registry and rights/context conditions
+STK1006,1,HOLD,hand closes plain file folder; see stock registry and rights/context conditions

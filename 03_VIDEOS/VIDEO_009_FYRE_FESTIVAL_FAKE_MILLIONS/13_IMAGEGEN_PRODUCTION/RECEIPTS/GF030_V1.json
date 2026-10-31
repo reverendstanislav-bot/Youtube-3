@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF030",
+  "version": 1,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. A small original generic-risk diagram on an ivory editorial worksheet, normal black printing on the charcoal desk. Three unweighted words around a simple thin black circle, not a pie chart of probabilities or historical disaster illustration. BEGIN PRINT\nEDITORIAL ANALYSIS\nGeneric Festival Risks\nWeather\nPerformers\nLogistics\nGeneric examples, not findings about the cause of the festival's failure.\nEND PRINT\nNo percentage, score, historical weather event, actual cancellation, storm photograph, insurance company or source quote. Make the generic qualifier readable above68%height; nothing else.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-a1dfcbaf-bbe1-471c-a4a8-86b8208c5557.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF030_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF030_IMAGEGEN_V1.png",
+  "sha256": "ea2d459790a31862a9e1f3cc2f2970bd46ff3a97075ed668ccc056c34d26abfc",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF030.json",
+  "fact_reference_sha256": "6d16fe49bc10cd24281cc49cb3d53365173383f7cd830bc0f9d42951f3bd4a04"
+}

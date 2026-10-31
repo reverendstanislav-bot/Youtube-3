@@ -1,0 +1,20 @@
+{
+  "selected_positions": 52,
+  "imagegen_files": 50,
+  "selected_new_imagegen_positions": 43,
+  "repair_submissions_including_four_rejected_candidates": 47,
+  "preserved_owner_accepted": 5,
+  "preserved_photographic_details": 2,
+  "genuine_source_positions": 2,
+  "genuine_crops": 15,
+  "stock_originals": 47,
+  "native_fusion_comps_authored": 52,
+  "native_render_qc": "HOLD_BRIDGE_UNAVAILABLE",
+  "timeline_positions": 142,
+  "timing": "ESTIMATED_NO_AUDIO_VERIFIED",
+  "script_audio_modified": false,
+  "package_files": 327,
+  "package_bytes": 977053152,
+  "package_root": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DELIVERY_R3",
+  "overall_qc": "HOLD_OWNER_REVIEW_AND_NATIVE_RENDER_NOT_FINAL_FILM"
+}

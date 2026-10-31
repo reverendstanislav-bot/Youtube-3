@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF046",
+  "version": 1,
+  "input": {
+    "prompt": "Create ONE16:9 original editorial FINANCIAL COMPARISON GRAPHIC for WHAT IT COST, using the supplied actual VIDEO008 graph frame as typography/tonal reference only. The owner rejects repetitive paper-on-desk images. DO NOT reproduce the source financial statement, table, folder, pen, paper, clipboard, stone plate, giant engraved sign, cards or any physical prop. Full-frame subtle charcoal background with restrained paper-white INTER-like data typography; modern flat editorial composition, no 3D effects or gold rays. Three distinct OPEN horizontal text tracks, generously separated, no boxes or card panels. These are different financial categories, NOT additive, NOT proportional bars. Exact complete text only: top heading 'THREE DIFFERENT MONEY MEASURES'; track1 'FUNDS RAISED' then 'AT LEAST $27.4M' then 'SEC complaint: Fyre Media, Fyre Festival and Magnises'; track2 'CRIMINAL LOSSES' then 'INVESTORS >$24M | TICKET VENDOR $2M'; track3 'CRIMINAL FORFEITURE' then '$26,191,306.28'; final short qualifier 'DIFFERENT CATEGORIES. DO NOT ADD THEM.'. Keep every inequality, comma, decimal, cents, category and entity correct. The forfeiture amount is NOT money recovered for victims. No grand total, pie, stacked chart, sums, invented values, source quote or official document. Only thin neutral gray essential separators allowed, no red/yellow accents, outlines, circles, arrows, highlights or label banners. All text and meaningful geometry fully within upper75%; lower25%empty charcoal for future separate Fusion treatment. The screenshot's2025/2026revenue numbers and source names MUST NOT appear. One independent cohesive frame, not a collage.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_015.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-61138ebb-ba07-41af-be35-709436392b92.png",
+  "style_direction": "VIDEO008_MIXED_FAMILIES_VARIETY_CORRECTION",
+  "visual_review": {
+    "status": "PENDING",
+    "not_a_paper_template": true
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF046_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF046_IMAGEGEN_V1.png",
+  "sha256": "5d4096727eac5bb837aa589072d40277cb566b39c04f431c3dba38254a8e69f1",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF046.json",
+  "fact_reference_sha256": "35fb83ed11a66bae9b93122cd5bdb5c47101670e5e0a1bc7a971c345c818bdf2"
+}

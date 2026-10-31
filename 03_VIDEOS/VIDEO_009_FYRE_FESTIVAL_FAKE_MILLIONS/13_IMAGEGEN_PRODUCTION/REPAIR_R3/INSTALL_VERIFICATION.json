@@ -1,0 +1,17 @@
+{
+    "destination":  "C:\\YOUTUBE\\Youtube 3\\Video 9\\VISUALS",
+    "verified_utc":  "2026-10-31T04:20:37.0581967Z",
+    "selected_visual_positions":  52,
+    "imagegen_images":  50,
+    "source_pixel_frames":  2,
+    "genuine_document_crops":  15,
+    "stock_source_files":  47,
+    "authored_fusion_comps":  52,
+    "timeline_positions":  142,
+    "payload_files_verified":  326,
+    "sha256_manifest_verified":  true,
+    "mismatches":  0,
+    "native_fusion_render":  "HOLD_BRIDGE_UNAVAILABLE",
+    "script_audio_modified":  false,
+    "extra_metadata_file":  "INSTALL_VERIFICATION.json is generated after payload verification"
+}

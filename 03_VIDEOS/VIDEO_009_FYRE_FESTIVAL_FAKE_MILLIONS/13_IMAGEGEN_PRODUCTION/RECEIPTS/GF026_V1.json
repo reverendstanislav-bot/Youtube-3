@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF026",
+  "version": 1,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. A visually different stock-claim comparison from GF007: a tight slightly lower-angle photographic crop of a NARROW original ivory analytical strip over a modest file, with two vertically offset black-ink bounds, no two-column card grid. BEGIN PRINT\nEDITORIAL ANALYSIS\nStock Value: Two Bounds\nClaimed holdings | More than $2.5M\nActual holdings | Less than $1,500\nSEC complaint\nShare value, not cash or stolen shares.\nEND PRINT\nNo numeric scale, actual brokerage-statement facsimile, bank name, account number, fake holdings list or extra amount. All wording/value qualifiers preserved.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-0255fd82-fa34-4def-8971-444587c16976.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF026_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF026_IMAGEGEN_V1.png",
+  "sha256": "4282986bf6898bd8b2c265099f340ecdb36784256a105bcd2b88701b91c5d433",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF026.json",
+  "fact_reference_sha256": "676ffe1066e0b66b53615cd65a5eb2a3a7e81852660c086116e57091a7251c98"
+}

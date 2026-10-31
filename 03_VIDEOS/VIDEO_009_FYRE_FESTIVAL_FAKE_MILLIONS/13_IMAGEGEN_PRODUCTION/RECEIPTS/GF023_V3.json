@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF023",
+  "version": 3,
+  "input": {
+    "prompt": "Edit this exact photographic frame. Preserve the camera, desk, black folder, MAGNISES index tab, materials, lighting, paper stacks, clip, and ONLY the two existing lines 'TRACK RECORD' and 'Prior success represented'. REMOVE the entire five-line body below: 'Established leadership position', 'Scaled complex infrastructure', 'Delivered advanced technology solutions', 'Deep industry relationships', 'Demonstrated execution capability'. Those lines were invented and must not appear. Do not replace them with any new words, pseudo-writing or marks. Crop/reframe slightly closer to the TRACK RECORD slip and Magnises tab to reduce unused paper if needed. All other background printed text must be covered by the same paper layers so no unrelated company/source prose is readable. This is an ORIGINAL EDITORIAL research label, not a Magnises record. No colors, figures, dates, new headings, borders, service labels or annotations. Preserve 16:9. No new visual concept.",
+    "referenced_image_paths": [
+      "C:/Users/KK/VIDEO009_VISUAL_PRODUCTION/IMAGEGEN/OUTPUTS/GF023_IMAGEGEN_V2.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-8fbab84d-0c2f-402a-9bc5-e83f3ccda1a9.png",
+  "repair_r3": true,
+  "visual_review": {
+    "status": "PENDING_TARGETED_TEXT_REMOVAL_CHECK",
+    "rejects_previous_version": 2
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF023_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF023_IMAGEGEN_V3.png",
+  "sha256": "c782d5c34ed7c736c7cd2047c6bf0e91f08986569494a9297bd2c16ef220feb5",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF023.json",
+  "fact_reference_sha256": "ce92daf55f4757764d167a967c6acdb033bbbc2a5d745c7cfa76f1d7324b341c"
+}

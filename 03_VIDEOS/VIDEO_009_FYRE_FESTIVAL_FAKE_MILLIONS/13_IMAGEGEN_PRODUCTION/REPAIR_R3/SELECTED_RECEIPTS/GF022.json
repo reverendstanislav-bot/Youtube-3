@@ -1,0 +1,30 @@
+{
+  "asset_id": "GF022",
+  "version": 2,
+  "input": {
+    "prompt": "Create ONE 16:9 photorealistic-natural WHAT IT COST documentary photographic asset, not a collage, graphic-design slide or poster. Match supplied original VIDEO008 photographic bases in contemporary materials, restrained neutral practical light, charcoal pebbled desk, clean ivory paper and black stationery. References are style/physical composition ONLY: never copy their company text, numbers, transactions or old case. Deliberately distinct shot scale and document arrangement for this specific scene. Everything photographed in one real physical setting. Small supporting ORIGINAL EDITORIAL WORKING NOTES, not official/company documents and not purported historical evidence. Print only the explicitly requested non-numeric analytical labels and notes, black ink, restrained normal serif. No invented prose, pseudo-writing, letterheads, seals, signatures, bank forms, case numbers, quotes, dates or monetary values. Real official sources and exact critical figures will be separate unchanged source/Fusion layers, never redraw them. No giant EDITORIAL ANALYSIS title, no generic A4 worksheet filling the screen. Compose filled concise paper objects with deliberate physical hierarchy, 2-3 modest edge props, tactile irregularity but no antique parchment. Top 18-25% is quiet charcoal for separate editable headline/figure layers. Bottom 20% contains no important writing. NO colored outlines, red/yellow accents, rectangles, arrows, underlines, highlights, source/provenance banners, glowing lines, counters, mechanisms, 3D diagrams, gold/marble, fake issued tickets or identification. No humans, faces, identifiable third-party brands. No device UI. Exact numbers/dates and analytical connectors are deliberately absent and will be editable Fusion nodes. Natural photographic restraint, not theatrical film prop styling. SCENE GF022. Low angle of a black document-review wallet with two short research notes in the foreground and a closed slim investment file behind. Notes read 'REPRESENTATION' / 'What the investor was shown' and 'RELIANCE' / 'What supported the decision?'. No depicted meeting, investor, handshake, signature or authentic pitch deck. Different depth from flat document scenes, narrow source tabs, restrained lighting and tactile black fabric.",
+    "referenced_image_paths": [
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC005_COMPOSITION_CLEAN_PROPS_V2.png",
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC010_CLEAN_V3.png",
+      "C:/Users/KK/VIDEO008_PRODUCTION/VIDEO008_FINAL_VISUAL_PACK/IMAGEGEN_REPLACEMENTS/SC040_CLEAN_V3.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-33579805-5722-438a-b7f1-5448eea83e39.png",
+  "repair_r3": true,
+  "visual_review": {
+    "status": "PENDING_ACTUAL_IMAGE_QC",
+    "direction": "RAW_VIDEO008_CLEAN_V3_REPAIR_R3",
+    "owner_approval": "NOT_CLAIMED"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF022_IMAGEGEN_V2.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF022_IMAGEGEN_V2.png",
+  "sha256": "5eba381a3751c28dec5150aa7a93f13cf76d4fb0419727c726fbdd48b6aff09e",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF022.json",
+  "fact_reference_sha256": "7d2cb66331d94ab57c07d285c86bfaaeac89bc4c0c8eddf9a50f81f9adf24e76"
+}

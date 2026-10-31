@@ -1,0 +1,21 @@
+{
+  "asset_id": "DOC015",
+  "used_for": "GF023",
+  "source_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\DOCUMENTS\\REFERENCE_PAGES\\DOJ_SENTENCE_P03.png",
+  "source_sha256": "c5cde1b97d2f6e418b241185dfd257a09da7bb18c330d73513696585a5a147ac",
+  "source_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-sentenced-6-years-prison-manhattan-federal-court-engaging-multiple",
+  "page_number_type": "BROWSER_PRINT_PAGE_NOT_NATIVE_AGENCY_PAGINATION",
+  "page_1_based": 3,
+  "bbox_source_pixels": [
+    69,
+    917,
+    1162,
+    1240
+  ],
+  "file": "C:\\Users\\KK\\Youtube-3-video009-visual-v2\\03_VIDEOS\\VIDEO_009_FYRE_FESTIVAL_FAKE_MILLIONS\\13_IMAGEGEN_PRODUCTION\\REPAIR_R3\\SOURCE_EXTRA\\DOC015_MAGNISES_CONTEXT.png",
+  "sha256": "8a8828042ed749504619faca6b3125696aa04ca120ed3188856dcece5b06dd04",
+  "pixels_equal_to_registered_reference_page": true,
+  "status": "PASS_PIXEL_EXTRACTION_NOT_GENERATED",
+  "source_scope": "DOJ_SENTENCING_RELEASE_HISTORICAL_FACTS",
+  "editorial_limit": "Full paragraph also previews the false sale claim developed in next paragraph; never imply a real Magnises sale"
+}

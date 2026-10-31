@@ -1,0 +1,88 @@
+{
+  "asset_id": "GF034",
+  "paragraph_id": "P021",
+  "production_route": "BUILTIN_IMAGEGEN_PHOTOGRAPHIC_BASE_PLUS_NATIVE_FUSION",
+  "source_fact_references": [
+    {
+      "asset_id": "GF034",
+      "reference_role": "FACT_SUPPORT_AND_GENUINE_SOURCE_PIXEL_REFERENCE",
+      "fact_id": "INVESTOR_LOSSES",
+      "source_id": "DOJ_PLEA",
+      "official_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+      "actual_download_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+      "source_file_repo": "12_VISUAL_V2/DOCUMENTS/ORIGINALS/DOJ_PLEA_BROWSER_RESPONSE.html",
+      "source_sha256": "e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8",
+      "reference_file_repo": "12_VISUAL_V2/DOCUMENTS/REFERENCE_PAGES/DOJ_PLEA_P02.png",
+      "reference_sha256": "486992e66333cb563a71669e29dbb6ce459d60b67671a8f1314a029be9f0007e",
+      "page_1_based": "2",
+      "verified_passage": "McFARLAND was the founder and chief executive officer of Fyre Media.  In 2016, McFARLAND\nstarted Fyre Media to build a digital application that would allow individuals organizing\ncommercial events, such as concerts, to bid for artist and celebrity bookings at such events. \nFrom at least in or about 2016, up to and including in or about May 2017, McFARLAND\nconducted a scheme to defraud individuals by inducing them to invest millions of dollars in Fyre\nMedia.  Through this scheme, McFARLAND caused losses to at least 80 victim-investors,\ntotaling more than $24 million dollars.  McFARLAND orchestrated this scheme through several\nmeans and methods.",
+      "guardrail": "Over$24m investorlosses andatleast80victims, not festival productioncost",
+      "status": "PASS_ACTUAL_LOCAL_FILE_HASH_AND_PASSAGE_CHECK"
+    },
+    {
+      "asset_id": "GF034",
+      "reference_role": "FACT_SUPPORT_AND_GENUINE_SOURCE_PIXEL_REFERENCE",
+      "fact_id": "VENDOR_LOSSES",
+      "source_id": "DOJ_PLEA",
+      "official_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+      "actual_download_url": "https://www.justice.gov/usao-sdny/pr/william-mcfarland-pleads-guilty-manhattan-federal-court-defrauding-investors-and-ticket",
+      "source_file_repo": "12_VISUAL_V2/DOCUMENTS/ORIGINALS/DOJ_PLEA_BROWSER_RESPONSE.html",
+      "source_sha256": "e374b2ab8ebb1865842f78384294920d42e9df3ca19d507c09f4fd631d2e3be8",
+      "reference_file_repo": "12_VISUAL_V2/DOCUMENTS/REFERENCE_PAGES/DOJ_PLEA_P03.png",
+      "reference_sha256": "3c744b4d735fdc07ecb3423816b8ee44c8d6ce4087c0992a0702ce7bdc4b2350",
+      "page_1_based": "3",
+      "verified_passage": "In addition, in or about April 2017, McFARLAND defrauded a ticket vendor (“Vendor-1”) by\ninducing Vendor-1 to pay $2 million for a block of advance tickets for future Festivals over the\nnext three years.  McFARLAND also provided Vendor-1 with a fraudulent income statement for\nFyre Media that grossly inflated the Company’s revenue and income.",
+      "guardrail": "Vendor advanced$2m; separatescope, do notsum with SECraisedfunds",
+      "status": "PASS_ACTUAL_LOCAL_FILE_HASH_AND_PASSAGE_CHECK"
+    }
+  ],
+  "legal_archival_hold": "",
+  "canonical_style_references": [
+    {
+      "path": "00_FOUNDATION/VISUAL_LOCK.md",
+      "sha256": "083bc3b8df370cbc7f7fe2e9ee30bdaaed9d686b0015c6664a3f145599191ef3",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "00_FOUNDATION/EDITING_CANON.md",
+      "sha256": "d9b805dc37e15cdaaa59240ee5cc4ac68e83138ca2f1c76d6e5c13a759c9a89d",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "01_CHANNEL/VISUAL_BIBLE.md",
+      "sha256": "ef6a7f0d982c89dcbbe51c3b0797df83644775b729749e1c42c545b93e5e98e5",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    }
+  ],
+  "layout": "Two non-stacked criminal-loss measures: >$24M investor losses and $2M ticket-vendor losses. No festival budget heading and no all-attendee-loss claim.",
+  "frame": [
+    1920,
+    1080
+  ],
+  "clean_lower_zone": [
+    0,
+    864,
+    1920,
+    1080
+  ],
+  "separate_layers": [
+    "background",
+    "editorial_geometry",
+    "factual_type",
+    "semantic_emphasis",
+    "reveal_masks"
+  ],
+  "images_generated": 0,
+  "api_cost_usd": 0,
+  "official_documents_must_never_be_generated": true,
+  "selected_image": "IMAGES/GF034.png",
+  "selected_sha256": "0f258c430459cfc1a265fe1a349a92061df8d8f1cea4d90b87077d7f230a2eef",
+  "selected_version": "2",
+  "native_text": [
+    "INVESTOR LOSSES >$24M | VENDOR LOSSES $2M",
+    "LOSSES ARE NOT THE FESTIVAL PRODUCTION BUDGET"
+  ],
+  "native_render_qc": "HOLD_NOT_NATIVE_RENDER_VERIFIED",
+  "owner_approval": "NOT_CLAIMED",
+  "authoritative_style": "VIDEO008/13C_IMAGEGEN_CLEAN_BASES_QC.md and 15_FUSION_V6_DELIVERY_QC.md; old black-card and repeated-A4 routes superseded"
+}

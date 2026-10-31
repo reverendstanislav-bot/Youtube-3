@@ -1,0 +1,518 @@
+{
+  "GF001": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF002": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF008": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF009": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF010": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF011": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF012": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF013": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF014": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF015": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF016": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF018": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF019": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF020": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF021": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF022": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF024": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Rejected V2 invented sale prose; selected V3 closed folio removes false text completely."
+  },
+  "GF025": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Selected V3 fixes representation typo; V2 excluded."
+  },
+  "GF026": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF027": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF028": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF029": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF030": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generic risk categories only, never claim these images depict or establish the actual cause of Fyre collapse. Native upward reframe required."
+  },
+  "GF031": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF032": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF033": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF034": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF035": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF036": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF037": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF038": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF039": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF040": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF041": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF043": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF044": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF045": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF046": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF047": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF048": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF049": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF050": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  },
+  "GF051": {
+    "status": "PASS_LEAD_PHOTOGRAPHIC_BASE_ONLY",
+    "owner_review": "PENDING",
+    "native_render": "HOLD_BRIDGE_UNAVAILABLE",
+    "checks": [
+      "actual_tool_image_viewed",
+      "scene_labels_and_scope_reviewed",
+      "no_baked_red_or_yellow_outline",
+      "not_an_official_document_facsimile"
+    ],
+    "notes": "Generated original editorial labels; exact critical figures/dates separate. Not final composite approval."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF025",
+  "version": 3,
+  "input": {
+    "prompt": "Correct only the erroneous word on the foreground EXIT CLAIM slip in this exact photographic frame. The two lines must read EXACTLY 'EXIT CLAIM' and 'A representation of prior success'. No extra initial d or any other letter. Preserve the background 'TRACK RECORD' / 'Independent confirmation?' slip, camera, focus, black folio, texture, clip, pencil and all geometry. No extra text, prose, number, border, highlights, source label or change of concept. Preserve 16:9.",
+    "referenced_image_paths": [
+      "C:/Users/KK/VIDEO009_VISUAL_PRODUCTION/IMAGEGEN/OUTPUTS/GF025_IMAGEGEN_V2.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-6a96ba6c-0ced-4e18-9695-4bb79b9b15bf.png",
+  "repair_r3": true,
+  "visual_review": {
+    "status": "PENDING_TARGETED_FIX_CHECK",
+    "rejects_previous_version": 2
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF025_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF025_IMAGEGEN_V3.png",
+  "sha256": "f82171470c446acecc59621aa29758371a9dd7284fad8fcaca651eadfe25dbb9",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF025.json",
+  "fact_reference_sha256": "835c3d0c79a5ff339ae260ccc95763d999c4d9bcea4b41d38f517a574093409f"
+}

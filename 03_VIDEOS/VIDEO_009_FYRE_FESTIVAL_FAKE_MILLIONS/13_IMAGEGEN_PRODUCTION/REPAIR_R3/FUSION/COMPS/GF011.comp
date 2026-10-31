@@ -1,0 +1,6 @@
+Composition { CurrentTime = 0, GlobalRange = {0,0}, RenderRange = {0,0}, HiQ = true, Tools = {
+Canvas = Background { Inputs = { Width = Input { Value = 1920 }, Height = Input { Value = 1080 }, TopLeftRed = Input { Value = 0.043 }, TopLeftGreen = Input { Value = 0.043 }, TopLeftBlue = Input { Value = 0.043 }, TopLeftAlpha = Input { Value = 1 },  }, ViewInfo = OperatorInfo { Pos = { 0, 0 } } },
+CleanBase = Loader { Clips = { Clip { ID = "Clip1", Filename = "Comp:../../IMAGES/GF011.png", FormatID = "PNGFormat", Length = 1, LengthSetManually = true, GlobalStart = 0, GlobalEnd = 0, TrimIn = 0, TrimOut = 0, ExtendFirst = 0, ExtendLast = 0 } } },
+PhotoMerge = Merge { Inputs = { Background = Input { SourceOp = "Canvas", Source = "Output" }, Foreground = Input { SourceOp = "CleanBase", Source = "Output" }, Size = Input { Value = 1.1477151965993624 }, Center = Input { Value = {.5,0.5} },  }, ViewInfo = OperatorInfo { Pos = { 0, 0 } } },
+MediaOut1 = MediaOut { Inputs = { Index = Input { Value = "0" }, Input = Input { SourceOp = "PhotoMerge", Source = "Output" },  }, ViewInfo = OperatorInfo { Pos = { 0, 0 } } },
+}, Prefs = { Comp = { FrameFormat = { Width = 1920, Height = 1080, Rate = 25 } } } }

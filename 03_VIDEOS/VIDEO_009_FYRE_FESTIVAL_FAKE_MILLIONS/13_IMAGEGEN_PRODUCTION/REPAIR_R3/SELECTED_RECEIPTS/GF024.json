@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF024",
+  "version": 3,
+  "input": {
+    "prompt": "Correct this exact 16:9 photographic frame. The sale paragraph is INVENTED AND FALSE; remove it completely. Replace the entire large ivory paper face that contains that paragraph with a CLOSED CHARCOAL LINEN FOLDER COVER in the same perspective and footprint. Thus no giant blank white sheet remains. Keep the small cream upper-right slip as a physical object, but its ONLY text must be 'SALE CLAIM' and 'Verify the transaction'. No other writing on either folder or slip. Remove all existing 'REPORTED SALE' text and the invented explanation about strategy, balance sheet and core operations. Preserve natural dark desk, folder depth, clip, camera, neutral light and realistic materials. Original editorial prop, never authentic Magnises document. Do not invent any body copy, numerical value, sale outcome or official text. Critical factual outcome will be a separate editable Fusion layer. No extra objects, colors, highlights, outlines or labels.",
+    "referenced_image_paths": [
+      "C:/Users/KK/VIDEO009_VISUAL_PRODUCTION/IMAGEGEN/OUTPUTS/GF024_IMAGEGEN_V2.png"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-951cd496-4c55-4589-b6ba-194abe822d5b.png",
+  "repair_r3": true,
+  "visual_review": {
+    "status": "PENDING_TARGETED_FIX_CHECK",
+    "rejects_previous_version": 2
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF024_IMAGEGEN_V3.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF024_IMAGEGEN_V3.png",
+  "sha256": "04b77e0e636e730c47b343c645bfee41505b94c7c958e22ff8f09bbb1953e35c",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF024.json",
+  "fact_reference_sha256": "c7ea4b2a44962cee5a26136284fe80b569d8a2cf477a718c646930af0420a74e"
+}

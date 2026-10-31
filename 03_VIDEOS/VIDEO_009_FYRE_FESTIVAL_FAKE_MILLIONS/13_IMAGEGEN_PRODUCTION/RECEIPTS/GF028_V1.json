@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF028",
+  "version": 1,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. An ordinary landscape editorial comparison sheet photographed from a gentle oblique angle on the charcoal desk. TWO separate printed lanes, no shared pool or causal connector. BEGIN PRINT\nEDITORIAL ANALYSIS\nCompany Results vs Personal Holdings\nCompany operations | Operating results\nPersonal assets | Stock holdings\nThese are different verification questions.\nEND PRINT\nNo company balance, additional amount, invented owner name, actual bank statement or implication personal wealth proves company earnings. Only two table rows, no automatic expansions.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-e0f01eb7-9662-48ea-9c64-916c37368aa9.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF028_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF028_IMAGEGEN_V1.png",
+  "sha256": "0e261e03be38111424bd2433eb4afdd813f68aa66bb95e92330ca368509f1461",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF028.json",
+  "fact_reference_sha256": "e8b9e086563661f846e1c830d661761fe4033d34d3cedaa4043f24f129f078d2"
+}

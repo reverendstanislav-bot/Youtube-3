@@ -1,0 +1,69 @@
+{
+  "asset_id": "GF028",
+  "paragraph_id": "P016",
+  "production_route": "BUILTIN_IMAGEGEN_PHOTOGRAPHIC_BASE_PLUS_NATIVE_FUSION",
+  "source_fact_references": [
+    {
+      "asset_id": "GF028",
+      "reference_role": "FACT_SUPPORT_AND_GENUINE_SOURCE_PIXEL_REFERENCE",
+      "fact_id": "BROKERAGE",
+      "source_id": "SEC_COMPLAINT_MIRROR",
+      "official_url": "https://www.sec.gov/files/litigation/complaints/2018/comp24213.pdf",
+      "actual_download_url": "https://business.cch.com/srd/comp-pr2018-141-20180724.pdf",
+      "source_file_repo": "12_VISUAL_V2/DOCUMENTS/ORIGINALS/SEC_COMPLAINT_CCH_MIRROR.pdf",
+      "source_sha256": "ef732fe090b025d130850f8b9276eb2e7ad608fea587ca0be4c9015f1f4be572",
+      "reference_file_repo": "12_VISUAL_V2/DOCUMENTS/REFERENCE_PAGES/SEC_COMPLAINT_MIRROR_P12.png",
+      "reference_sha256": "ca687a3c40753b0e1a9e8565b49fa8f109e64a7918f6995b2d60976549532adf",
+      "page_1_based": "12",
+      "verified_passage": "Inc. (“Facebook”).  In fact, McFarland owned just $1,499 worth of Facebook shares, a tiny",
+      "guardrail": "Complaint paragraph44: purported$2.56m inFacebook shares versus$1499 actual; not sharetheft",
+      "status": "PASS_ACTUAL_LOCAL_FILE_HASH_AND_PASSAGE_CHECK; SEC_MIRROR_LIMITS_RETAINED"
+    }
+  ],
+  "legal_archival_hold": "",
+  "canonical_style_references": [
+    {
+      "path": "00_FOUNDATION/VISUAL_LOCK.md",
+      "sha256": "083bc3b8df370cbc7f7fe2e9ee30bdaaed9d686b0015c6664a3f145599191ef3",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "00_FOUNDATION/EDITING_CANON.md",
+      "sha256": "d9b805dc37e15cdaaa59240ee5cc4ac68e83138ca2f1c76d6e5c13a759c9a89d",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    },
+    {
+      "path": "01_CHANNEL/VISUAL_BIBLE.md",
+      "sha256": "ef6a7f0d982c89dcbbe51c3b0797df83644775b729749e1c42c545b93e5e98e5",
+      "role": "CHANNEL_STYLE_REFERENCE"
+    }
+  ],
+  "layout": "A two-lane verification diagram distinguishes company operating results from personal holdings. No connecting arrow implying they are the same asset pool.",
+  "frame": [
+    1920,
+    1080
+  ],
+  "clean_lower_zone": [
+    0,
+    864,
+    1920,
+    1080
+  ],
+  "separate_layers": [
+    "background",
+    "editorial_geometry",
+    "factual_type",
+    "semantic_emphasis",
+    "reveal_masks"
+  ],
+  "images_generated": 0,
+  "api_cost_usd": 0,
+  "official_documents_must_never_be_generated": true,
+  "selected_image": "IMAGES/GF028.png",
+  "selected_sha256": "f33c1043b9749f1a56406be1ec2643843f0609d285999a8ac30682dce10e71b5",
+  "selected_version": "3",
+  "native_text": [],
+  "native_render_qc": "HOLD_NOT_NATIVE_RENDER_VERIFIED",
+  "owner_approval": "NOT_CLAIMED",
+  "authoritative_style": "VIDEO008/13C_IMAGEGEN_CLEAN_BASES_QC.md and 15_FUSION_V6_DELIVERY_QC.md; old black-card and repeated-A4 routes superseded"
+}

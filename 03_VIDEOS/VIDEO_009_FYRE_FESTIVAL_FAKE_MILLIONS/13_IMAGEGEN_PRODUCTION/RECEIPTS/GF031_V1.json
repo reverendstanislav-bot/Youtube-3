@@ -1,0 +1,27 @@
+{
+  "asset_id": "GF031",
+  "version": 1,
+  "input": {
+    "prompt": "Create one photorealistic16:9 WHAT IT COST documentary editorial frame, matching the supplied REAL VIDEO008 scene references in natural materials, camera scale and neutral soft window light. References are STYLE ONLY, never copy their Anthropic text or figures. Ordinary contemporary charcoal pebbled desktop, clean lightly handled ivory paper and simple stationery. NO rusty machines, counters, pedestals, giant floating headlines, brass stage props, dust beams, fantasy lighting, empty sheets, pseudo-writing or collage. Type belongs naturally on meaningful printed analytical paper, normal black serif report typography, NOT huge poster signs. These are our original documentary EDITORIAL ANALYSIS sheets, never authentic Fyre/DOJ/SEC/company records. The small page heading must say EDITORIAL ANALYSIS; no official seal, letterhead, signature, account number, fake quote or source facsimile. Print only requested verified text; no invented rows, values, monthly distribution or financial instrument. No red/yellow ink, highlights, borders, callouts, circles, underlines or motion. Simple normal black table rules are allowed. All meaningful text in upper75%, bottom20%free of important content for later separate Fusion layers. One continuous realistic shot, no overlaid banner. Only the requested subject props, no devices or UI, no money/coins/tickets unless explicitly requested.  STRICT PRINT CONTRACT: The BEGIN PRINT / END PRINT block in the subject brief is the COMPLETE printed content. Reproduce it verbatim, no extra row, explanatory prose, paragraph, source claim, caption or filler, even if margins are empty. Do not expand headings into invented content. Fit all ink entirely above68%of frame height; keep lower25%clear of text. A compact landscape research leaf can be smaller than the reference page; do not fill the whole height with a portrait sheet. One ordinary original editorial analysis leaf about the insurance representation, not an insurance policy. Slim file, small black clip, neutral VIDEO008 light. BEGIN PRINT\nEDITORIAL ANALYSIS\nClaimed Cancellation Protection\nRepresentation | Rights to cancellation-policy proceeds\nCase context | DOJ plea\nClaimed protection is not proof of an executed policy.\nEND PRINT\nThese are the complete two table rows and one note. No actual insurer, policy number, signed policy, premium, executed coverage, paid claim, source quotation or money amount. The protection remains explicitly a claimed representation.",
+    "referenced_image_paths": [
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_066.jpg",
+      "C:\\Users\\KK\\VIDEO008_PRODUCTION\\DELIVERY\\QC_V6\\SCENE_034.jpg"
+    ],
+    "transparent_background": false
+  },
+  "source_file": "C:\\Users\\KK\\.codex\\generated_images\\01a13a62-cc01-7a63-b515-ad6b5879f6e8\\exec-63ed6e1b-d85f-42a8-8e8c-46e4dd1e2233.png",
+  "visual_review": {
+    "status": "PENDING",
+    "style_direction": "OWNER_REQUEST_VIDEO008_NATURAL_DOCUMENTARY"
+  },
+  "local_file": "C:\\Users\\KK\\VIDEO009_VISUAL_PRODUCTION\\IMAGEGEN\\OUTPUTS\\GF031_IMAGEGEN_V1.png",
+  "repo_file": "13_IMAGEGEN_PRODUCTION/OUTPUTS/GF031_IMAGEGEN_V1.png",
+  "sha256": "6d02f6d5b612b75e6d3e6d3763c760f45f3c8f41a1471b622ff1308a0c63ef50",
+  "width": 1672,
+  "height": 941,
+  "provider": "built-in image_gen.imagegen",
+  "model": "NOT_EXPOSED",
+  "numeric_cost": "NOT_EXPOSED_NO_ZERO_COST_CLAIM",
+  "fact_reference_sidecar": "12_VISUAL_V2/REFERENCES/GF031.json",
+  "fact_reference_sha256": "75ff294ff7eaea183a90684fe6cd6dac0ca99202c7c2a525013321c649efa599"
+}
