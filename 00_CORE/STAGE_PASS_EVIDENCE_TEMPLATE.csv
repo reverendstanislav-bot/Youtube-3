@@ -1,0 +1,1 @@
+video_id,stage,artifact_path,artifact_commit_or_sha,source_or_inspection_evidence,check_performed,check_result,independent_review_ref,owner_approval_ref,blocking_unknowns,decision_PASS_HOLD_REJECT,decision_date
